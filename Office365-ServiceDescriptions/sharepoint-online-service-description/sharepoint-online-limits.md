@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034760"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359587"
 ---
 # <a name="sharepoint-online-limits"></a>Limites do SharePoint Online
 
@@ -41,7 +41,7 @@ Localize os limites do SharePoint Online para os planos do Office 365 Enterprise
 ||||
 |:-----|:-----|:-----|
 |**Recurso** <br/> |**SharePoint Online Plano 1** <br/> |**SharePoint Online Plano 2** <br/> |
-|Armazenamento<sup>1, 2</sup> <br/> |1 TB por organização mais 0,5 GB por licença adquirida<sup>3</sup> <br/> |1 TB por organização mais 0,5 GB por licença adquirida<sup>3</sup> <br/> |
+|Armazenamento<sup>1, 2</sup> <br/> |1 TB por organização mais de 10 GB por licença adquiriram<sup>3</sup> <br/> |1 TB por organização mais de 10 GB por licença adquiriram<sup>3</sup> <br/> |
 |Termos no repositório  <br/> |200,000  <br/> |200,000  <br/> |
 |Armazenamento para conjuntos de sites  <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |
 |Conjuntos de sites por inquilino  <br/> |500.000 por organização<sup>5</sup> <br/> |500.000 por organização<sup>5</sup> <br/> |
