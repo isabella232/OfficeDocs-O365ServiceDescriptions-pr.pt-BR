@@ -15,14 +15,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Você deseja saber quais licenças você precisará comprar para obter certo Skype para recursos de Business? Consulte o Skype para licenciamento visão geral do negócio.
-ms.openlocfilehash: c1503762e792183a38b5f63e07c10889914f35df
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034819"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362926"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrição do Serviço do Skype for Business Online
+
+> [!NOTE]
+> Teams da Microsoft agora é o principal cliente de mensagens, reuniões e chamando-se no Office 365. Iniciando 1 de outubro de 2018, novos clientes do Office 365 com 500 estações ou menos serão onboarded a Microsoft Teams e não terão acesso ao Skype para negócios Online. Inquilinos que já estão usando Skype de negócios Online poderão continuar a fazer afirmativo (incluindo o provisionamento de novos usuários) até que sejam concluídas sua transição para o Microsoft Teams.
+
+> [!NOTE]
+> Skype para negócios Online plano 1 está sendo desativado de venda a partir de 10 de outubro. Isso significa que você poderá mais adquirir Skype para negócios Online plano 1, para mensagens instantâneas, presença e -a-ponto de voz e vídeo. Esses recursos continuará a ter suporte em todas as ofertas de Office 365 que incluem equipes, incluindo F1 do Office 365. Quando seu plano expira no final do termo atual, para continuaram acesso a esses recursos, você terá que alternar para um plano diferente. É recomendável que você avalie o plano do Office 365 F1 para usuários que atualmente têm Skype para negócios Online plano 1 atribuído. 
 
  **Você deseja saber quais licenças você precisará comprar para obter certo Skype para recursos de Business? Consulte o [Skype para licenciamento visão geral do negócio](https://go.microsoft.com/fwlink/?LinkID=799524).**
   

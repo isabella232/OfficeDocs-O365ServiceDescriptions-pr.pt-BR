@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Os limites no Skype para Business Online se encaixam nas seguintes categorias:'
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034805"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362876"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites do Skype for Business Online
 
@@ -127,11 +127,11 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |Configurável de<sup>1</sup> <br/> |15 dias  <br/> |15 dias  <br/> |15 dias  <br/> |15 dias  <br/> |Não aplicável  <br/> |
-|Retenção de conteúdo de reunião: Reunião recorrente  <br/> |Configurável de<sup>1</sup> <br/> |15 dias  <br/> |15 dias  <br/> |15 dias  <br/> |15 dias  <br/> |Não aplicável  <br/> |
+|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |Configurável de<sup>1</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
+|Retenção de conteúdo de reunião: Reunião recorrente  <br/> |Configurável de<sup>1</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
 |Retenção de conteúdo de reunião: Reunião do tipo Reunir Agora  <br/> |Configurável de<sup>1</sup> <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |Não aplicável  <br/> |
 |Expiração de reunião: Reunião de Ocorrência Única  <br/> |Data de término mais 365 dias<sup>2</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
-|Expiração de reunião: Reunião recorrente  <br/> |Com a data de término: data de término mais 365 dias<sup>2</sup> <br/> Sem data de término: Última conferência mais seis meses<sup>3</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
+|Expiração de reunião: Reunião recorrente  <br/> |Com a data de término: data de término mais 365 dias<sup>2</sup> <br/> Sem data de término: se sempre acessível atualizado 1/ano<sup>3</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
 |Expiração de reunião: Reunião do tipo Reunir Agora  <br/> |8 horas  <br/> | 8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |Não aplicável  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online Plano autônomo 1** <br/> |**Skype for Business online Plano autônomo 2** <br/> |
-|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |Configurável de<sup>1</sup> <br/> |Não aplicável  <br/> |15 dias  <br/> |
-|Retenção de conteúdo de reunião: Reunião recorrente  <br/> |Configurável de<sup>1</sup> <br/> |Não aplicável  <br/> |15 dias  <br/> |
+|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |Configurável de<sup>1</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
+|Retenção de conteúdo de reunião: Reunião recorrente  <br/> |Configurável de<sup>1</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
 |Retenção de conteúdo de reunião: Reunião do tipo Reunir agora  <br/> |Configurável de<sup>1</sup> <br/> |Não aplicável  <br/> |8 horas  <br/> |
 |Expiração de reunião: Reunião de Ocorrência Única  <br/> |Data de término mais 365 dias<sup>2</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
-|Expiração de reunião: Reunião recorrente  <br/> |Com a data de término: data de término mais 365 dias<sup>2</sup> <br/> Sem data de término: Última conferência mais seis meses<sup>3</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
+|Expiração de reunião: Reunião recorrente  <br/> |Com a data de término: data de término mais 365 dias<sup>2</sup> <br/> Sem data de término: se sempre acessível atualizado 1/ano<sup>3</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
 |Expiração de reunião: Reunião do tipo Reunir Agora  <br/> |8 horas  <br/> |Não aplicável  <br/> |8 horas  <br/> |
    
 > [!NOTE]

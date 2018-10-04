@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (anteriormente o Excel Web App) estende sua experiência do Microsoft Excel ao navegador da web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034812"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362896"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ A formatação condicional pode ser exibida, mas não aplicada no Excel Online. 
 ## <a name="apply-data-validation-to-cells"></a>Aplicar validação de dados às células
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Não está disponível em Excel Online. Recursos avançados, como validação de dados, só estão disponíveis no aplicativo de área de trabalho Excel. Contudo, você pode exibir e interagir com a validação de dados ativada no Excel Online. Saiba mais sobre a [aplicação da validação de dados nas células do Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282328).
+Esse recurso está disponível no Excel Online. Outros recursos avançados só estarão disponíveis no aplicativo de área de trabalho do Excel.
   
 ## <a name="apply-smartrecommended-formatting"></a>Aplicar formatação inteligente/recomendada
 <a name="bkmk_Applysmartformatting"> </a>

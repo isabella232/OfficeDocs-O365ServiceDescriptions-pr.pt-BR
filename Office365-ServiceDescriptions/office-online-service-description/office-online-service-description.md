@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anteriormente o Office Web Apps) abre documentos do Word, Excel, PowerPoint e OneNote em seu navegador da web. O Office Online facilita a trabalhar e compartilhar arquivos do Office em qualquer lugar com uma conexão de Internet, de praticamente qualquer dispositivo. Clientes do Microsoft Office 365 com o Word, Excel, PowerPoint ou OneNote podem exibir, criar e editar arquivos em trânsito.
-ms.openlocfilehash: 31b412fb86ffb48cc14b8aacfbae281a124907ae
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034958"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362866"
 ---
 # <a name="office-online-service-description"></a>Descrição do Serviço do Office Online
 
@@ -123,7 +123,7 @@ Precisa de ajuda para descobrir qual melhor de solução do Office é adequado p
 |[Filtragem de tempo avançada (segmentação de dados da linha do tempo)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Não  <br/> |Sim  <br/> |
 |[Alinhamento](excel-online.md#alignment) <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicar formatação condicional](excel-online.md#apply-conditional-formatting) <br/> |Não  <br/> |Sim  <br/> |
-|[Aplicar validação de dados às células](excel-online.md#apply-data-validation-to-cells) <br/> |Não  <br/> |Sim  <br/> |
+|[Aplicar validação de dados às células](excel-online.md#apply-data-validation-to-cells) <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicar formatação inteligente/recomendada](excel-online.md#apply-smartrecommended-formatting) <br/> |Não  <br/> |Sim  <br/> |
 |[Gravação de notas de áudio](onenote-online.md#audio-notes-recording) <br/> |Não  <br/> |Sim  <br/> |
 |[Preenchimento automático](excel-online.md#autocomplete) <br/> |Sim  <br/> |Sim  <br/> |
