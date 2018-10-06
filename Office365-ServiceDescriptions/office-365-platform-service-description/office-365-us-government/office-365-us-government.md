@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta às necessidades exclusivas e evolução do setor público dos Estados Unidos, a Microsoft criou governamentais Office 365 nos planos (orOffice 365 governamental norte-americana). Esta seção fornece uma visão geral dos recursos que são específicos para o governo Office 365 conosco. É recomendável que você leia esta seção suplementar junto com as descrições de serviço do Office 365.
-ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362906"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435829"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -213,7 +213,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Microsoft StaffHub  <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |
 |Microsoft Stream  <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Não  <br/> |
 |Microsoft Sway  <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |
-|Microsoft Teams  <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |
+|Microsoft Teams  <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |
 |Office Delve  <br/> |Sim,<sup>9, 15</sup> <br/> |Sim,<sup>9, 15</sup> <br/> |Sim  <br/> |Sim,<sup>9, 15</sup> <br/> |
 |Grupos do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo do Office 365  <br/> |Sim,<sup>9, 15</sup> <br/> |Sim,<sup>9, 15</sup> <br/> |Sim,<sup>9, 15</sup> <br/> |Não  <br/> |
@@ -317,6 +317,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 <br/><sup>11</sup> ainda não disponível no Office 365 conosco ofertas governamentais, mas em breve. ><br/><sup>12</sup> não incluído, mas pode ser adquirido como um complemento separado em GCC. 
 <br/><sup>13</sup> não é suportado para ofertas governamentais Office 365 conosco. 
 <br/><sup>14</sup> disponível em [https://securescore.office.com](https://securescore.office.com). Exige permissões de administrador. Para obter mais informações, consulte [apresentando a pontuação de seguro do Office 365](https://go.microsoft.com/fwlink/?linkid=836894).<br/><sup>15</sup> ainda não disponível no ambiente DoD, mas em breve. 
+<br><sup>16</sup> não está disponível em alta GCC ou DoD.
   
 [Como usar a seção Descrição de Serviço](office-365-us-government.md#how-to-use-this-service-description-section)
   
