@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você precisa. Além disso, você aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e o destinatário.
-ms.openlocfilehash: cf3d329ffa05998113e8e2c075cbc236b99fb413
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f0213330dbafe58a3f9b2a8164aab46d83ca9dfb
+ms.sourcegitcommit: 0588f7b5bcbebea9a4494025a4322f68afdd4271
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034979"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "25498047"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de Serviço do Exchange Online
 
@@ -158,7 +158,7 @@ Se a sua organização atualmente possui assinaturas do Office 365 Small Busines
 |**[Interoperabilidade, Conectividade e Compatibilidade](interoperability-connectivity-and-compatibility.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Presença do Skype for Business no OWA e no Outlook  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Interoperabilidade do SharePoint  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte de Conectividade EWS  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Suporte de Conectividade EWS  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Suporte de Retransmissão SMTP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Instalação e Administração do Exchange Online](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Acesso ao portal do Microsoft Office 365  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
