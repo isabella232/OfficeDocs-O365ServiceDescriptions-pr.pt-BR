@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online é uma coleção de ferramentas baseadas na Web e tecnologias que ajudam a sua organização armazenar, compartilhar e gerenciar informações digitais. Esse serviço hospedado baseado no Microsoft SharePoint Server 2013, é ideal para trabalhando em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes recursos de conteúdo facilita Enterprise Content Management (ECM) para cada pessoa. É a combinação de gerenciamento de conteúdo tradicional, os recursos sociais e eficientes de pesquisa.
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034892"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215376"
 ---
 # <a name="content"></a>Conteúdo
 
@@ -39,7 +39,7 @@ Uma Biblioteca de Ativos foi pré-configurada para usar recursos especiais que a
 ## <a name="auditing"></a>Auditoria
 <a name="bkmk_Auditing"> </a>
 
-Os administradores de conjuntos de sites do SharePoint Online podem usar o recurso de auditoria para controlar quais usuários realizaram quais ações em sites, tipos de conteúdo, listas, bibliotecas, itens de lista e arquivos de biblioteca dos conjuntos de sites. Saiba mais sobre como [definir configurações de auditoria para um conjunto de sites](https://go.microsoft.com/fwlink/?LinkId=270950).
+Administradores do conjunto de sites do SharePoint Online podem usar o recurso de auditoria para controlar quais usuários executou quais ações na sites, tipos de conteúdo, listas, bibliotecas, itens de lista e arquivos da biblioteca de conjuntos de sites. Saiba mais sobre [como definir configurações de auditoria para um conjunto de sites](https://go.microsoft.com/fwlink/?LinkId=270950).
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>Auditoria &amp; Criação de relatórios (p.ex.: edições de documentos, edições de políticas, exclusões)
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ Uma Biblioteca de Ativos foi pré-configurada para usar recursos especiais que a
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM: SEO (Otimização do Mecanismo de Pesquisa)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-Otimizar um site público para pesquisa é muito importante para conectar-se com clientes novos e antigos. O SharePoint Online inclui recursos de SEO incorporados, tais como robots.txt personalizáveis e inserção de metamarcas na página para que as organizações possam facilmente ajustar os sites para melhores resultados de pesquisa. Saiba mais sobre como [otimizar seu site para pesquisa](https://go.microsoft.com/fwlink/?LinkId=270932).
+É muito importante para se conectar com clientes novos e retornando otimizar um site público para pesquisa. SharePoint Online inclui recursos SEO internos, como robots personalizável e metatagging de nível de página para que as organizações podem ajustar com facilidade sites para obter melhores resultados de pesquisa.
   
 ## <a name="word-automation-services"></a>Serviços de automação do Word
 <a name="bkmk_WordAutomationServices"> </a>

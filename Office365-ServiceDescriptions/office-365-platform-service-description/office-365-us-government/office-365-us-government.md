@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta às necessidades exclusivas e evolução do setor público dos Estados Unidos, a Microsoft criou governamentais Office 365 nos planos (orOffice 365 governamental norte-americana). Esta seção fornece uma visão geral dos recursos que são específicos para o governo Office 365 conosco. É recomendável que você leia esta seção suplementar junto com as descrições de serviço do Office 365.
-ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
-ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
+ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
+ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "25696136"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26293512"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -185,8 +185,7 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 |Project Online  <br/> |Nenhum<sup>2</sup> <br/> |Nenhum<sup>2</sup> <br/> |Nenhum<sup>2</sup> <br/> |Nenhum<sup>2</sup> <br/> |
 |Yammer Enterprise  <br/> |Nenhum<sup>4</sup> <br/> |Nenhum<sup>4</sup> <br/> |Nenhum<sup>4</sup> <br/> |Nenhum<sup>4</sup> <br/> |
    
-> <sup>1</sup> o Skype para negócios básico está disponível para todos os clientes. O Skype para o cliente de desktop de negócios é um aplicativo instalado localmente que fornece presença, mensagens instantâneas e recursos de conferência para os planos do Office 365 que incluem Skype para Business Online. O Office 365 ProPlus, G3 e G5 incluem o aplicativo completo do Skype, que inclui recursos adicionais, como recursos avançados de telefonia de suporte, arquivamento e conformidade. Um Skype licença Business Online deve ser atribuída para cada usuário.<br/><sup>2</sup> não incluído, mas pode ser adquirido como um complemento separado. 
-<br/> <sup>3</sup> ainda não disponível em alta GCC ou DoD planos, mas em breve. 
+> <sup>1</sup> o Skype para negócios básico está disponível para todos os clientes. O Skype para o cliente de desktop de negócios é um aplicativo instalado localmente que fornece presença, mensagens instantâneas e recursos de conferência para os planos do Office 365 que incluem Skype para Business Online. O Office 365 ProPlus, G3 e G5 incluem o aplicativo completo do Skype, que inclui recursos adicionais, como recursos avançados de telefonia de suporte, arquivamento e conformidade. Um Skype licença Business Online deve ser atribuída para cada usuário.<br/><sup>2</sup> não incluído, mas pode ser adquirido como um complemento separado. Project Online inclui o Project Online Desktop Client como parte da assinatura.<br/> <sup>3</sup> ainda não disponível em alta GCC ou DoD planos, mas em breve. 
 <br/><sup>4</sup> o yammer Enterprise não é um componente do governo Office 365 conosco, mas pode ser adquirido sem custo adicional, como uma oferta autônoma para cada usuário licenciados para o Office 365 GCC em. Essa oferta está atualmente limitada a clientes que comprar GCC do Office 365 em Enterprise Agreements e Enterprise Agreements de assinatura. Yammer não está disponível em alta GCC ou DoD.<br/><sup>5</sup> chamar planejar é um complemento. 
   
 ## <a name="platform-features"></a>Recursos da plataforma
@@ -284,7 +283,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**Confiança** <br/> |**O Office 365 US Government G1** <br/> |**O Office 365 G3 do governo dos EUA** <br/> |**O Office 365 G5 do governo dos EUA** <br/> |**O Office 365 F1 do governo dos EUA** <br/> |
 |**[Privacidade, Segurança e Transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Advanced Data Governance  <br/> |Não há<sup>12, 15</sup> <br/> |Não há<sup>12, 15</sup> <br/> |Sim<sup>15</sup> <br/> |Não há<sup>12, 15</sup> <br/> |
-|Segurança de aplicativo de nuvem  <br/> |Nenhum<sup>11, 12</sup> <br/> |Nenhum<sup>11, 12</sup> <br/> |Sim<sup>11</sup> <br/> |Nenhum<sup>11, 12</sup> <br/> |
+|Segurança no Aplicativo na Nuvem  <br/> |Nenhum<sup>11, 12</sup> <br/> |Nenhum<sup>11, 12</sup> <br/> |Sim<sup>11</sup> <br/> |Nenhum<sup>11, 12</sup> <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Não há<sup>12</sup> <br/> |Não há<sup>12</sup> <br/> |Sim  <br/> |Não há<sup>12</sup> <br/> |
 |Sistema de Proteção de Dados do Cliente  <br/> |Nenhum<sup>9, 12, 15</sup> <br/> |Nenhum<sup>9, 12, 15</sup> <br/> |Sim,<sup>9, 15</sup> <br/> |Nenhum<sup>9, 12, 15</sup> <br/> |
 |Descoberta Eletrônica Avançada do Office 365  <br/> |Não há<sup>12, 15</sup> <br/> |Não há<sup>12, 15</sup> <br/> |Sim  <br/> |Nenhum<sup>9, 15</sup> <br/> |

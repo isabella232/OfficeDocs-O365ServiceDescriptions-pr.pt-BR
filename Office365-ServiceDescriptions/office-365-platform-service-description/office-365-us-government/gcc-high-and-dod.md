@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para atender aos requisitos em evolução e exclusivos do departamento de defesa dos Estados Unidos, bem como os prestadores de serviços segurando ou processamento DoD controlado informações não classificadas (CUI) ou sujeito tráfego internacional no alerta regulamentos (ITAR), a Microsoft oferece Ambientes GCC alta e DoD. Disponível através do licenciamento por Volume, organizações interessadas passem por um processo de validação para garantir a qualificação antes de um ambiente é estabelecido. Avaliações não estão disponíveis no momento.
-ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
-ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
+ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "25719065"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215366"
 ---
 # <a name="gcc-high-and-dod"></a>GCC alta e DoD
 
@@ -94,7 +94,7 @@ Além disso, os endereços de email não - GCC alta anexados a perfis de usuári
   
  **Soluções de área restrita** - esse recurso foi preterido e não está disponível. Quaisquer soluções em área restrita devem ser migradas para o [modelo de extensibilidade do suplemento do SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
-### <a name="skype-for-business-online"></a>Skype for Business online
+### <a name="skype-for-business-online"></a>Skype for Business Online
 
  **Chamada PSTN &amp; conferência PSTN** - devido o requisito de comutação telefônica PSTN (rede pública) para serviços orientado a telefonia, chamar PSTN &amp; serviços de conferência PSTN atualmente não estão disponíveis no GCC alta e DoD. 
   
@@ -104,6 +104,6 @@ A autenticação multifator usando um modelo de identidade federado permite o us
   
 ### <a name="yammer"></a>Yammer
 
-Yammer não está disponível nos ambientes GCC alta e DoD.
+Yammer que Enterprise não está disponível nos ambientes GCC alta e DoD.
   
 

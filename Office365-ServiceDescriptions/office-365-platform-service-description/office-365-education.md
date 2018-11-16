@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o pacote da área de trabalho do Microsoft Office familiarizado com versões baseadas em nuvem dos serviços de colaboração e comunicações da próxima geração da Microsoft — incluindo o Microsoft Exchange Online, SharePoint Online do Microsoft Office Online, e Microsoft Skype para Business Online — para ajudar os usuários sejam mais produtivos em praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 90b530ae0188637d04b76396a9e1f46ca3478ccd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034879"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215396"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -37,7 +37,7 @@ Cada plano de treinamento do Office 365 inclui um número de serviços individua
 |Exchange Online  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
+|Skype for Business Online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
 |Office Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos do Office  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Project Online  <br/> |Nenhum<sup>1</sup> <br/> |Nenhum<sup>1</sup> <br/> |Nenhum<sup>1</sup> <br/> |
@@ -81,7 +81,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |Office Delve  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Grupos do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Bloco de Anotações de Classe  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Bloco de Anotações de Classe do OneNote  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Gerenciamento de Contas de Usuário](user-account-management.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Identidade de nuvem, Identidade Federada ou Autenticação Multifator  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Configuração de área de trabalho do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -197,7 +197,7 @@ O [a segurança do Office 365 &amp; Centro de conformidade](https://go.microsoft
 |[Prevenção contra perda de dados](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Governança de dados](https://go.microsoft.com/fwlink/?linkid=824871) <sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Advanced governança de dados](https://go.microsoft.com/fwlink/?linkid=842991) <sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Pesquisa e investigação](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Pesquisa e investigação]<br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[pesquisa de descoberta eletrônica](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Exportar o eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Avançadas de descoberta eletrônica](https://go.microsoft.com/fwlink/?linkid=715714) <sup>4</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
@@ -314,7 +314,7 @@ A tabela a seguir lista os recursos Online do Exchange que estão disponíveis n
 |Descoberta Eletrônica In-loco  <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
 |Regras de Transporte  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
 |Prevenção contra perda de dados  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Registro em Diário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Registro no diário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Proteção antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Proteção Antispam Interna  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Personalizar políticas antispam  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |

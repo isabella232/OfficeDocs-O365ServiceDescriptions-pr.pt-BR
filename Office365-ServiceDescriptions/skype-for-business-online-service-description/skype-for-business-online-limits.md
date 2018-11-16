@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Os limites no Skype para Business Online se encaixam nas seguintes categorias:'
-ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
+ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362876"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296861"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites do Skype for Business Online
 
@@ -119,41 +119,20 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
     
 - **Período de expiração da reunião** A quantidade de tempo durante a qual os usuários podem acessar a reunião após o término da reunião. 
     
-### <a name="meeting-retention-limits-across-office-365-options"></a>Limites de retenção de reunião nas opções do Office 365
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Limites de retenção de reunião nas opções do Office 365 e planos autônomos
 
 > [!NOTE]
 > Cada pessoa pode ter no máximo 1000 conferências no banco de dados a qualquer momento. 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |Configurável de<sup>1</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
-|Retenção de conteúdo de reunião: Reunião recorrente  <br/> |Configurável de<sup>1</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
-|Retenção de conteúdo de reunião: Reunião do tipo Reunir Agora  <br/> |Configurável de<sup>1</sup> <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |Não aplicável  <br/> |
-|Expiração de reunião: Reunião de Ocorrência Única  <br/> |Data de término mais 365 dias<sup>2</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
-|Expiração de reunião: Reunião recorrente  <br/> |Com a data de término: data de término mais 365 dias<sup>2</sup> <br/> Sem data de término: se sempre acessível atualizado 1/ano<sup>3</sup> <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |Não aplicável  <br/> |
-|Expiração de reunião: Reunião do tipo Reunir Agora  <br/> |8 horas  <br/> | 8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |Não aplicável  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> a retenção de conteúdo de reunião em uma implantação local do Skype para Business Server 2015 é configurável através do Skype para o recurso de arquivamento do Business Server 2015. Consulte [Planejando o arquivamento](https://go.microsoft.com/fwlink/p/?LinkId=398299) do Skype para 2015 TechNet Library do Business Server.<br/> <sup>2</sup> Quando a reunião é ativada, essa data de vencimento é estendida por mais 365 dias.<br/><sup>3</sup> Quando a reunião é ativada, essa data de vencimento é estendida por mais seis meses. 
-  
-### <a name="meeting-retention-limits-across-standalone-options"></a>Limites de retenção de reunião nas opções autônomas
+|**Tipo de reunião** <br/> |**Descrição** <br/> 
+|Reunião de ocorrência única| 14 dias após o término, última ativação de reunião ou última atualização de reunião - o que for mais recente.
+|Reunião recorrente, com data de término| Reunião será acessível pelo menos até 14 dias após a hora de término agendada da última ocorrência de reunião, ou a última ativação da reunião ou última atualização de reunião, o que for mais recente.
+|Reunião recorrente sem data de término| Reunião sempre será acessível, fornecida há novas associações de conferência (ativações) ou o agendamento de atualizações pelo menos uma vez por ano
+|     Reunir Agora|Reunião será acessível para pelo menos 8 horas.
 
-> [!NOTE]
-> Cada pessoa pode ter no máximo 1000 conferências no banco de dados a qualquer momento. 
-  
-|||||
-|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online Plano autônomo 1** <br/> |**Skype for Business online Plano autônomo 2** <br/> |
-|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |Configurável de<sup>1</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
-|Retenção de conteúdo de reunião: Reunião recorrente  <br/> |Configurável de<sup>1</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
-|Retenção de conteúdo de reunião: Reunião do tipo Reunir agora  <br/> |Configurável de<sup>1</sup> <br/> |Não aplicável  <br/> |8 horas  <br/> |
-|Expiração de reunião: Reunião de Ocorrência Única  <br/> |Data de término mais 365 dias<sup>2</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
-|Expiração de reunião: Reunião recorrente  <br/> |Com a data de término: data de término mais 365 dias<sup>2</sup> <br/> Sem data de término: se sempre acessível atualizado 1/ano<sup>3</sup> <br/> |Não aplicável  <br/> |14 dias  <br/> |
-|Expiração de reunião: Reunião do tipo Reunir Agora  <br/> |8 horas  <br/> |Não aplicável  <br/> |8 horas  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> a retenção de conteúdo de reunião em uma implantação local do Skype para Business Server 2015 é configurável através do Skype para o recurso de arquivamento do Business Server 2015. Consulte [Planejando o arquivamento](https://go.microsoft.com/fwlink/p/?LinkId=398299) do Skype para 2015 TechNet Library do Business Server.<br/><sup>2</sup> Quando a reunião é ativada, essa data de vencimento é estendida por mais 365 dias.<br/><sup>3</sup> Quando a reunião é ativada, essa data de vencimento é estendida por mais seis meses. 
+
   
 ## <a name="minute-limits"></a>Limites de minutos
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>
