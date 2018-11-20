@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: O OneDrive for Business é um espaço de armazenamento online pessoal na nuvem fornecido por sua empresa. Use-o para armazenar e proteger seus arquivos de trabalho enquanto os acessa de vários dispositivos com facilidade. Compartilhe arquivos com colegas de trabalho conforme necessário e colabore em documentos do Office em tempo real com os aplicativos mais recentes do Office para dispositivos móveis, sites e área de trabalho. Sincronize arquivos no seu computador local usando o cliente de sincronização do OneDrive for Business.
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034785"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215356"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descrição de serviço do OneDrive for Business
 
@@ -101,7 +101,7 @@ Os planos a seguir oferecem armazenamento pessoal em nuvem ilimitado para assina
     
 Assinaturas com menos de cinco usuários recebem 1 TB de armazenamento pessoal em nuvem por usuário. 
   
-Os clientes têm inicialmente 1 TB de armazenamento pessoal em nuvem por usuário no OneDrive for Business. É possível [aumentar o espaço de armazenamento padrão do OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=838024) para até 5 TB por usuário com a ajuda do Administrador do Office 365. 
+Os clientes inicialmente têm 1 TB de armazenamento pessoal em nuvem por usuário no OneDrive for Business. É possível [aumentar o espaço de armazenamento padrão do OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=838024) para até 5 TB por usuário com a ajuda do administrador do Office 365 quando a quota de 1 TB estiver em 90% da capacidade. 
   
 > [!NOTE]
 > É necessário atribuir pelo menos uma licença a um usuário antes de aumentar o espaço de armazenamento padrão do OneDrive. 
