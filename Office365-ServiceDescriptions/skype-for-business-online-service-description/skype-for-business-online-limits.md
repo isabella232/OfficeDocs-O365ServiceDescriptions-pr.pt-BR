@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Os limites no Skype para Business Online se encaixam nas seguintes categorias:'
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296861"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625886"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites do Skype for Business Online
 
@@ -49,7 +49,7 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Limite de transferência de arquivo  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Não aplicável  <br/> |
+|Limite de transferência de arquivo  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limite  <br/> |Não aplicável  <br/> |
 |Limite de conversas<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Não aplicável  <br/> |
    
@@ -127,7 +127,7 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Tipo de reunião** <br/> |**Descrição** <br/> 
-|Reunião de ocorrência única| 14 dias após o término, última ativação de reunião ou última atualização de reunião - o que for mais recente.
+|Reunião de ocorrência única| Reunião será acessível pelo menos até 14 dias após o horário agendado, ou a última ativação da reunião ou última atualização de reunião, o que for mais recente.
 |Reunião recorrente, com data de término| Reunião será acessível pelo menos até 14 dias após a hora de término agendada da última ocorrência de reunião, ou a última ativação da reunião ou última atualização de reunião, o que for mais recente.
 |Reunião recorrente sem data de término| Reunião sempre será acessível, fornecida há novas associações de conferência (ativações) ou o agendamento de atualizações pelo menos uma vez por ano
 |     Reunir Agora|Reunião será acessível para pelo menos 8 horas.
