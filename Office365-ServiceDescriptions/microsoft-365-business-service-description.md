@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business é uma solução integrada unindo a produtividade melhor classe do Office 365 com recursos avançados de gerenciamento de segurança e o dispositivo para ajudar a proteger sua empresa. . Essa descrição de serviço descreve os recursos e opções do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: b4b2a625f96c53da3f7f3a735d2b28278dbe4e5b
-ms.sourcegitcommit: 11eb2c541fee341454950e998834992ef3b9f42c
+ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
+ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857309"
+ms.lasthandoff: 11/26/2018
+ms.locfileid: "26674218"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição dos serviços do Microsoft 365 Business
 
@@ -117,8 +117,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, consulte a [
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recursos de gerenciamento de identidades e acesso** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Pacote de mobilidade do Enterprise** <br/> |
-|Single Sign-On (SSO) para \> 10 apps  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|A autenticação multifator (MFA)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|O Office 365 a autenticação multifator (MFA)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Unidades administrativas  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Descoberta de aplicativo de nuvem  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Grupos dinâmicos  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
@@ -127,7 +126,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, consulte a [
 |Objetos de dispositivo sincronização bidirecional entre diretórios no local e o Azure AD (write-back de dispositivo)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Acesso condicional (com base no grupo, local, estado do dispositivo, entrar ou risco de usuário)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Marca (personalização de Painel páginas para o access de logon da empresa  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Diretiva de aplicativo  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|Proxy de aplicativo  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |CAL de usuário do Gerenciador de identidade da Microsoft (MIM)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Conecte-se de integridade  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |SLA 99,9%  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
