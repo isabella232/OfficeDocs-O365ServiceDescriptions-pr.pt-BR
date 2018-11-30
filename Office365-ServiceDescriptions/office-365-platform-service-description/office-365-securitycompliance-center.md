@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: A segurança do Office 365 &amp; Centro de conformidade foi projetado para ajudá-lo a gerenciar recursos de conformidade entre o Office 365 para sua organização. Links para recursos de conformidade existentes do SharePoint e do Exchange reunir recursos de conformidade across Office 365.
-ms.openlocfilehash: 9767fecdf049b3cf46c33008d8225f0a6899f30f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034905"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988552"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Centro de Conformidade do &amp;Office 365 Security
 
@@ -54,14 +54,14 @@ O [a segurança do Office 365 &amp; Centro de conformidade](https://go.microsoft
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Exchange Online (Plano 1)** <br/> |**Exchange Online (Plano 2)** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online Plano 1** <br/> |**SharePoint Online Plano 2** <br/> |**Skype for Business Online (Plano 1)** <br/> |**Skype for Business Online (Plano 2)** <br/> |
+|**Recurso** <br/> |**Exchange Online (Plano 1)** <br/> |**Exchange Online (Plano 2)** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online (Plano 1)** <br/> |**SharePoint Online (Plano 2)** <br/> |**Skype for Business Online (Plano 1)** <br/> |**Skype for Business Online (Plano 2)** <br/> |
 |[Acesso à segurança &amp; Centro de conformidade](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de ameaça](https://go.microsoft.com/fwlink/?linkid=845550) , como a filtragem de email e antimalware  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento de ameaça avançado](https://go.microsoft.com/fwlink/?linkid=846673) , como o explorer lockbox e ameaças ao cliente para campanhas de phishing  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Gerenciamento de dispositivo móvel](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Prevenção contra perda de dados](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
-|[Governança de dados](https://go.microsoft.com/fwlink/?linkid=824871) <sup>1</sup> <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Governança de dados](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Advanced governança de dados](https://go.microsoft.com/fwlink/?linkid=842991) <sup>3</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Pesquisa e investigação](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[pesquisa de descoberta eletrônica](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o pacote da área de trabalho do Microsoft Office familiarizado com versões baseadas em nuvem dos serviços de colaboração e comunicações da próxima geração da Microsoft — incluindo o Microsoft Exchange Online, SharePoint Online do Microsoft Office Online, e Microsoft Skype para Business Online — para ajudar os usuários sejam mais produtivos em praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215396"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988572"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -195,7 +195,7 @@ O [a segurança do Office 365 &amp; Centro de conformidade](https://go.microsoft
 |[Gerenciamento de ameaça avançado](https://go.microsoft.com/fwlink/?linkid=846673) , como o explorer lockbox e ameaças ao cliente para campanhas de phishing <sup>5</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de dispositivo móvel](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Prevenção contra perda de dados](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Governança de dados](https://go.microsoft.com/fwlink/?linkid=824871) <sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Governança de dados](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Advanced governança de dados](https://go.microsoft.com/fwlink/?linkid=842991) <sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Pesquisa e investigação]<br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[pesquisa de descoberta eletrônica](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -1213,8 +1213,8 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Limite de transferência de arquivo  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |
-|Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |Sem limites  <br/> |
+|Limite de transferência de arquivo  <br/> |Sem limite  <br/> |Sem limite  <br/> |Sem limite  <br/> |
+|Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |Sem limite  <br/> |
    
 #### <a name="meeting-limits"></a>Limites de reuniões
 
