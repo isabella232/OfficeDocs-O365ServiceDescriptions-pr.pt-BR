@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Os administradores do Microsoft Office 365 podem exibir o status dos serviços e descobrir quando manutenção é agendada. Informações de integridade do serviço estão disponíveis a qualquer momento por entrar no Office 365.
-ms.openlocfilehash: cc19a26f7bef070837b1dfa53df927373fd35d3e
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
+ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034935"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "27258733"
 ---
 # <a name="service-health-and-continuity"></a>Continuidade e Integridade do Serviço
 
@@ -29,7 +29,7 @@ Os administradores do Microsoft Office 365 podem exibir o status dos serviços e
   
 ## <a name="view-status-of-services"></a>Exibir status dos serviços
 
-A seção de integridade do serviço do Office 365 mostra o status atual do serviço e obter detalhes sobre as interrupções no serviço e interrupções. Informações de manutenção planejada estão disponíveis no centro da mensagem. Para obter mais informações, consulte [Exibir o status de seus serviços](https://go.microsoft.com/fwlink/p/?LinkID=270178). 
+A seção de integridade do serviço do Office 365 mostra o status atual do serviço e obter detalhes sobre as interrupções no serviço e interrupções. Informações de manutenção planejada estão disponíveis no centro da mensagem. Para obter mais informações, consulte [Exibir o status de seus serviços](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>Incidentes de serviço
 
@@ -49,7 +49,7 @@ Quando um incidente de serviço ocorre, a Microsoft reconhece que a comunicaçã
 
 ### <a name="office-365-admin-app"></a>Aplicativo de Administração do Office 365
 
-O administrador App para administradores de Inquilino do Office 365 oferece a capacidade de se conectar com o status do serviço de Office 365 da sua organização em trânsito. Administradores do Office 365 locatário terão a habilidade de exibir serviço integridade manutenção e informações sobre atualizações de status de seus dispositivos móveis. Para obter mais informações, visite o [FAQ do aplicativo de administração](https://community.office365.com/en-us/w/manage/office-365-admin-app-faq.aspx).
+O administrador App para administradores de Inquilino do Office 365 oferece a capacidade de se conectar com o status do serviço de Office 365 da sua organização em trânsito. Administradores do Office 365 locatário terão a habilidade de exibir serviço integridade manutenção e informações sobre atualizações de status de seus dispositivos móveis. Para obter mais informações, visite o [FAQ do aplicativo de administração](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pacote de Gerenciamento do Office 365 para Microsoft System Center 2012 R2
 
