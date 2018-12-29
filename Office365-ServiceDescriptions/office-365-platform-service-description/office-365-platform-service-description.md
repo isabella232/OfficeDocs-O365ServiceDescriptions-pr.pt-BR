@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos do Office 365, incluindo planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 698d6ed370cf8836befd48cd07933e4175d88311
+ms.sourcegitcommit: 317b7058f4514061701c9b7f8dc18e526d43a027
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362856"
+ms.lasthandoff: 12/28/2018
+ms.locfileid: "27459704"
 ---
 # <a name="office-365-platform-service-description"></a>Descrição de serviço da plataforma Office 365
 
@@ -157,10 +157,10 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Principal malware para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Correspondências de regra para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Principais correspondências de regra para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Principais correspondências de política DLP para email  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Correspondências de política DLP por gravidade para email  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Correspondências, substituições e falsos positivos de política DLP para email  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Principais correspondências de regra DLP para email  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Principais correspondências de política DLP para email  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Correspondências de política DLP por gravidade para email  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Correspondências, substituições e falsos positivos de política DLP para email  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Principais correspondências de regra DLP para email  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Sessões de mensagens instantâneas e áudio  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Compartilhamento de aplicativos, Webconferência e conferência discada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo, compartilhamento de aplicativos e sessões de transferência de arquivos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
