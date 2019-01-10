@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business é uma solução integrada unindo a produtividade melhor classe do Office 365 com recursos avançados de gerenciamento de segurança e o dispositivo para ajudar a proteger sua empresa. . Essa descrição de serviço descreve os recursos e opções do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
-ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
+ms.openlocfilehash: 0aeaea88fa368aa8d133f5e2bfb24547a8f89452
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2018
-ms.locfileid: "26674218"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784883"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição dos serviços do Microsoft 365 Business
 
@@ -35,7 +35,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, consulte a [
 |Exchange Online  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business Online  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
+|Skype for Business online  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
 |Office Online  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos do Office  <br/> |Sim  <br/> |Sim  <br/> |
 |Project Online  <br/> |Nenhum<sup>3</sup> <br/> |Nenhum<sup>3</sup> <br/> |
@@ -122,7 +122,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, consulte a [
 |Descoberta de aplicativo de nuvem  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Grupos dinâmicos  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Senha de autoatendimento redefinida para identidades da nuvem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Senha de autoatendimento redefinir com write-back de AD local  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|Senha de autoatendimento redefinir com write-back de AD local  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Objetos de dispositivo sincronização bidirecional entre diretórios no local e o Azure AD (write-back de dispositivo)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Acesso condicional (com base no grupo, local, estado do dispositivo, entrar ou risco de usuário)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Marca (personalização de Painel páginas para o access de logon da empresa  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
