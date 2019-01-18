@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 é um serviço baseado em nuvem que foi projetado para ajudar a atender às necessidades da sua organização para a produtividade do usuário, confiabilidade e segurança robusta.
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034755"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694655"
 ---
 # <a name="office-365-service-descriptions"></a>Descrições dos serviços do Office 365 
 
@@ -33,7 +33,7 @@ Para pesquisar os artigos de suporte e as informações, consulte [Suporte do Of
 > [!NOTE]
 > Se você está procurando a planilha de comparação de Descrição do Serviço, ela foi desativada. As tabelas de disponibilidade de recursos de produtos em cada página de Descrição de Serviço foram atualizadas para ajudá-lo de forma melhor a escolher a versão do Office 365 que atende às suas necessidades. 
   
-A Microsoft oferece o benefício de Integração do Office 365 para serviços qualificados nos planos qualificados. O benefício de Integração permite que você trabalhe remotamente com especialistas da Microsoft para preparar o seu ambiente do Office 365 para uso. Para obter mais informações, consulte [Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx).
+A Microsoft oferece os benefícios do Centro de FastTrack para o Office 365 para serviços elegíveis nos planos elegíveis. O benefício permite trabalhar remotamente com especialistas em Microsoft para obter o seu ambiente do Office 365 pronto para uso. Para obter mais informações, consulte [Benefício do Centro de FastTrack para o Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Para começar, consulte as seguintes descrições de serviço:
   
