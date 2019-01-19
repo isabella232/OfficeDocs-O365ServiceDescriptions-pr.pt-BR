@@ -8,15 +8,16 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
+ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: As tabelas a seguir listam as alterações que tenham sido feitas recentemente para o conteúdo de descrições do serviço.
-ms.openlocfilehash: 54ac1db0668bc46188991784532c657ce9677ed5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4ed2c1c4f82729cc20be7a85eca4e1adb09662fd
+ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034800"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28728675"
 ---
 # <a name="recent-service-descriptions-changes"></a>Alterações recentes nas descrições de serviços
 
@@ -80,7 +81,7 @@ As tabelas a seguir listam as alterações que tenham sido feitas recentemente p
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Várias atualizações e reestruturação.  <br/> |
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Corrigida a disponibilidade de caixa postal e integração de correio de voz.  <br/> |
 |Exchange Online  <br/> |[Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Esclarecida a disponibilidade dos grupos para planos do Exchange Online.  <br/> |
-|Skype for Business online  <br/> |[Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Disponibilidade de sistema telefônico e conferência atualizada para os clientes do Office 365 Business Premium.  <br/> |
+|Skype for Business Online  <br/> |[Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Disponibilidade de sistema telefônico e conferência atualizada para os clientes do Office 365 Business Premium.  <br/> |
    
 ## <a name="january-2018"></a>Janeiro de 2018
 
@@ -88,7 +89,7 @@ As tabelas a seguir listam as alterações que tenham sido feitas recentemente p
 |:-----|:-----|:-----|
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
 |Plataforma do Office 365  <br/> |[Microsoft 365 Education](office-365-platform-service-description/microsoft-365-education.md) <br/> |Corrigido disponibilidade Teams da Microsoft em planos de educação.  <br/> |
-|Skype for Business online  <br/> |[Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Esclarecido limitação de conversa de bate-papo do cliente.  <br/> |
+|Skype for Business Online  <br/> |[Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Esclarecido limitação de conversa de bate-papo do cliente.  <br/> |
 |Vários  <br/> |Vários  <br/> |Chave de cliente adicionado para Skype para Business Online, SharePoint Online e OneDrive para descrições de serviço de negócios.  <br/> |
    
 ## <a name="december-2017"></a>Dezembro de 2017
@@ -144,7 +145,7 @@ As tabelas a seguir listam as alterações que tenham sido feitas recentemente p
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Disponibilidade do Microsoft Bookings adicionada.  <br/> |
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Disponibilidade do Microsoft Stream adicionada.  <br/> |
 ||[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |Movido planos de educação para separar a página, os planos existentes (Office 365 educação A1 e A5) comercializados com a marca e adicionadas A3 de educação do Office 365.  <br/> |
-|Skype for Business online  <br/> |[Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Tabela de simplificado e alguns recursos comercializados com a marca: Skype para conferência de PSTN de negócios alterado para conferência de áudio do Office 365; Skype de chamada de PSTN de negócios alterado para Office 365 chamar planejar; Skype para negócios nuvem PBX é alterado para o sistema de telefone do Office 365. e Skype para negócios PSTN consumo faturamento alterado para créditos de comunicações do Office 365.  <br/> |
+|Skype for Business Online  <br/> |[Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Tabela de simplificado e alguns recursos comercializados com a marca: Skype para conferência de PSTN de negócios alterado para conferência de áudio do Office 365; Skype de chamada de PSTN de negócios alterado para Office 365 chamar planejar; Skype para negócios nuvem PBX é alterado para o sistema de telefone do Office 365. e Skype para negócios PSTN consumo faturamento alterado para créditos de comunicações do Office 365.  <br/> |
 |Vários  <br/> |Vários  <br/> |Rebranding: K1 agora é F1.  <br/> |
 |Vários  <br/> |Vários  <br/> |Adicionados links ao tópico limites do SharePoint Online.  <br/> |
    
