@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Você deseja saber quais licenças você precisará comprar para obter certo Skype para recursos de Business? Consulte o Skype para licenciamento visão geral do negócio.
-ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 000095f2f0f6831bc796915905b507ff7f037c5b
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362926"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506655"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrição do Serviço do Skype for Business Online
 
@@ -123,7 +123,7 @@ Para ver uma comparação mais detalhada, confira a tabela a seguir.
 |Controle de admissão de chamada  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Atender/iniciar chamada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Delegação de chamadas  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
-|Encaminhamento de chamadas e toque simultâneo  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
+|Encaminhamento de chamadas e toque simultâneo  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Histórico de chamadas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Espera/recuperação em chamadas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Estacionamento de chamada  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -299,7 +299,7 @@ A seguinte tabela mostra as opções de licenciamento para Transmissão de Reuni
 |||
 |:-----|:-----|
 |**Plano do Office 365** <br/> |**Skype for Business online recursos** <br/> |
-|Plano Autônomo 2 do Skype for Business online  <br/> | Transmissão de Reunião do Skype  <br/>  Para o organizador, produtor, membro da equipe de evento e participantes autenticados, uma licença do Office 365 é necessária.  <br/>  Para participantes anônimos, uma licença do Office 365 não é necessária.  <br/>  Com o Plano Autônomo 2 do Skype for Business online ou quaisquer pacotes do Office 365 que contenham o Plano 2, os seguintes complementos estão disponíveis:  <br/>  Audioconferência (disponível em alguns países).  <br/>  Sistema de Telefonia.  <br/> > [!NOTE]> Quando adquirido por si só sem chamar planos, o sistema telefônico permite que somente o recurso de voz híbrida. Voz híbrida requer uma implantação de voz do local do cliente híbrida para permitir que as chamadas de PSTN usando seu provedor de serviço PSTN existente (es). Os complementos de sistema telefônico a seguir estão disponíveis para habilitar chamadas PSTN de entrada e saída usando o Microsoft como seu provedor de serviços PSTN: > domésticas chamar planejar (disponível nos países limitados) > internacional chamar planejar (disponível no limitado países)           |
+|Plano Autônomo 2 do Skype for Business online  <br/> | Transmissão de Reunião do Skype  <br/>  Para o organizador, produtor, membro da equipe de evento e participantes autenticados, uma licença do Office 365 é necessária.  <br/>  Para participantes anônimos, uma licença do Office 365 não é necessária.  <br/>  Com o Plano Autônomo 2 do Skype for Business online ou quaisquer pacotes do Office 365 que contenham o Plano 2, os seguintes complementos estão disponíveis:  <br/>  Audioconferência (disponível em alguns países).  <br/>  Sistema de Telefonia.  <br/> > [!NOTE]gt _ quando adquirido por si só, sem chamar planos, o sistema telefônico permite que somente o recurso de voz híbrida. Voz híbrida requer uma implantação de voz do local do cliente híbrida para permitir que as chamadas de PSTN usando seu provedor de serviço PSTN existente (es). Os complementos de sistema telefônico a seguir estão disponíveis para habilitar chamadas PSTN de entrada e saída usando o Microsoft como seu provedor de serviços PSTN: gt _ domésticas chamar planejar (disponível nos países limitados) gt _ internacional chamar planejar (disponível no limitado países)           |
 |Skype for Business online Plano Autônomo 3  <br/> |Skype for Business online Plano Autônomo 3.  <br/> > [!NOTE]> Este plano é usado somente para provedores de serviços de voz de terceiros e  *não*  fornece serviços de chamadas, como Audioconferência, Sistema de Telefonia, Planos de Chamadas Domésticas ou Internacionais.           |
 |Office 365 Business Premium  <br/> | Transmissão de Reunião do Skype:  <br/>  Para o organizador, produtor, membro da equipe de evento e participantes autenticados, uma licença do Office 365 é necessária.  <br/>  Para participantes anônimos, uma licença do Office 365 não é necessária.  <br/>  Audioconferência (nos países em que está disponível).  <br/> |
 |Office 365 Enterprise E1  <br/> |Plano Autônomo 2 do Skype for Business online (confira o Plano Autônomo 2 do Skype for Business online acima para recursos incluídos).  <br/> |
