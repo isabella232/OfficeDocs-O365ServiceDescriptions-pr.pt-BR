@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Use o OneNote Online (anteriormente o OneNote Web App) para tomar notas online em um bloco de anotações do OneNote que você pode adicionar a partir de qualquer lugar e compartilhe facilmente com outras pessoas. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034864"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612744"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ Com o OneNote Online, você pode usar os botões de Avançar e Voltar, no estilo
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Gerenciamento de blocos de anotações: preenchimento de página entre seções/blocos de anotações, reorganização de seção, criar/excluir grupos de seção
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-Não está disponível no OneNote Online. Recursos avançados de gerenciamento, como reorganização de seleção, criação e exclusão de grupos de seção e preenchimento de páginas via arrastar e soltar, estão disponíveis somente no aplicativo da área de trabalho OneNote. 
+Com o OneNote Online, você pode arrastar e soltar para reordenar as páginas e seções.  
+Gerenciamento recursos avançados, como a criação, exclusão e grupos de seção de classificação novamente só estarão disponíveis no aplicativo de área de trabalho do OneNote.
   
 ## <a name="offline-viewing-and-authoring"></a>Criação e exibição offline
 <a name="bkmk_Offlineviewing"> </a>

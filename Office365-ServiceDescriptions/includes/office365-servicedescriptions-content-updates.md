@@ -43,3 +43,12 @@
 | 17/1/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | modificado |
 | 17/1/2019 | [Descrições dos serviços do Office 365](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | modificado |
 | 1/18/2019 | [Alterações recentes nas descrições de serviços](/Office365/ServiceDescriptions/recent-service-descriptions-changes) | modificado |
+
+
+## <a name="week-of-january-21-2019"></a>Semana de 21 de janeiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 1/24/2019 | [Descrição do Serviço do Skype for Business Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modificado |
+| 1/24/2019 | [Descrição dos serviços da plataforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificado |
