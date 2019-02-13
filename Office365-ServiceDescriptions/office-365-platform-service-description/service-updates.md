@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Saiba mais sobre os recursos do Office 365 lançados recentemente ou prestes a serem lançados no Mapa do Office 365.
 ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034776"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29966215"
 ---
 # <a name="service-updates"></a>Atualizações do Serviço
 
@@ -30,7 +30,7 @@ Saiba mais sobre os recursos do Office 365 lançados recentemente ou prestes a s
 > [!NOTE]
 > Atualizações de forem rolados para clientes com base em vários fatores, como geografia, idioma, centro de dados e assinatura. Isso significa que nem todas as atualizações estão disponíveis imediatamente para os clientes existentes. 
   
-## <a name="targeted-release"></a>Versão de destino
+## <a name="targeted-release"></a>Lançamento direcionado
 
 Com versão multidifusão, sua organização ou um conjunto de seus usuários recebem um conjunto selecionado de atualizações de serviço aproximadamente uma semana antes de que começamos nosso processo de liberação padrão. Para saber mais, consulte [release programas do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
   
