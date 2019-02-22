@@ -3,7 +3,7 @@ title: Limites do Exchange Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 02/19/2019
+ms.date: 02/21/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 5e52414fddae0fd1482fbad3bdffa44b081c3ed5
-ms.sourcegitcommit: de3d6f2aa5af01645705efe88bb41f9f3a5eef04
+ms.openlocfilehash: ce25d57281cd9a5260b34f2d33d7cf4a490ac866
+ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30103109"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30199916"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -246,6 +246,8 @@ Os limites a seguir são aplicados a todas as mensagens de email.
     > [!NOTE]
     > Clientes de email específicos podem ter limites de tamanho de mensagem menores ou podem limitar o tamanho de um anexo de arquivo individual para um valor que seja menor do que o limite de tamanho de mensagens do Exchange Online. 
   
+- **Limite de tamanho do cabeçalho da mensagem** Especifica o tamanho máximo de todos os campos de cabeçalho de mensagem em uma mensagem. O limite atual é de 256 KB. Se o tamanho total de todos os cabeçalhos de mensagem exceder 256 KB, o Exchange Online rejeitará a mensagem com o erro "552 o tamanho do cabeçalho do 5.3.4 excede o tamanho máximo fixo". O tamanho do corpo da mensagem ou dos anexos não é considerado. Como os campos de cabeçalho são texto sem formatação, o tamanho do cabeçalho é determinado pelo número de caracteres em cada campo de cabeçalho e pelo número total de campos de cabeçalho. Cada caractere de texto consome 1 byte.
+
 - **Limite de tamanho do assunto** O número máximo de caracteres de texto permitido na linha de assunto de uma mensagem de email. 
     
 - **Limite de anexos de arquivo** O número máximo permitido de anexos de arquivo em uma mensagem de email. Mesmo se o tamanho total de todos os anexos de arquivo não violar o limite de tamanho da mensagem, ainda haverá um limite na quantidade de anexos permitida na mensagem. Este limite é controlado pelo limite da mensagem em várias partes. 
