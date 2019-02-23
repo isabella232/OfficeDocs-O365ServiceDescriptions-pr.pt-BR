@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
-description: Se você for um administrador, você poderá encontrar instruções detalhadas para configurar o Skype para recursos corporativos Online em Set up Skype para negócios Online.
-ms.openlocfilehash: eb0822385e6d2b07a356c069fabf3726ee27dc4b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Se você for um administrador, poderá encontrar instruções detalhadas para configurar os recursos do Skype for Business online em configurar o Skype for Business online.
+ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034843"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210254"
 ---
 # <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
 
-Se você for um administrador, você poderá encontrar instruções detalhadas para configurar o Skype para recursos corporativos Online no [Configurar Skype para negócios Online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
+Se você for um administrador, poderá encontrar instruções detalhadas para configurar os recursos do Skype for Business online em [Configurar o Skype for Business online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
 ## <a name="clients-for-skype-for-business-online"></a>Clientes para o Skype for Business Online
 <a name="BKMK_Clients"> </a>
@@ -110,7 +110,7 @@ Por esse motivo, o Skype for Business Online oferece aos administradores do clie
   
 - Portal do Microsoft Office 365
     
-- Centro de administração do Microsoft Office 365
+- Centro de administração do Microsoft 365
     
 - Centro de administração do Skype for Business
     

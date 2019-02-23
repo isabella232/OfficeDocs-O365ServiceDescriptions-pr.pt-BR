@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: Esta seção descreve as interfaces de gerenciamento que estão disponíveis para administradores do Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 67a8051b2b3b7136a981f8c8b1203f74a7c018f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034842"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210154"
 ---
 # <a name="administration-and-managementeop"></a>Administração e gerenciamento [EOP]
 
@@ -26,10 +26,10 @@ Esta seção descreve as interfaces de gerenciamento que estão disponíveis par
   
 Está procurando informações sobre todos os recursos do EOP? Consulte a [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
   
-## <a name="access-to-the-office-365-admin-center"></a>Acesso ao Centro de administração do Office 365
+## <a name="access-to-the-microsoft-365-admin-center"></a>Acesso ao centro de administração do Microsoft 365
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-O Centro de administração do Microsoft Office 365 é o portal da Web no qual cada administrador de serviço da empresa pode gerenciar as contas de usuários e as configurações de cada serviço do Office 365 que eles assinam. De dentro do centro de administração do Office 365, administradores podem seguir links para o EAC, onde eles podem gerenciar configurações específicas para o EOP.
+O centro de administração do Microsoft 365 é o portal da Web a partir do qual o administrador de serviço de cada empresa pode gerenciar contas de usuário e configurações para cada um dos serviços do Office 365 aos quais eles se inscrevem. No centro de administração do Microsoft 365, os administradores podem seguir links para o Eat, onde eles podem gerenciar configurações específicas para o EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Acesso ao centro de administração do Exchange
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>

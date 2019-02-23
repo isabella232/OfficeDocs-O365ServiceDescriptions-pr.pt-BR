@@ -12,33 +12,33 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online oferece uma variedade de recursos e sair do Centro de administração do Exchange (EAC) de relatório.
-ms.openlocfilehash: b95ab58d2ec09f5e6bae32a3902e92deb75d789f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração do Exchange (Eat).
+ms.openlocfilehash: 16bcea7f90115ca3238e502e5b57d756d24025ba
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034801"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210214"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Recursos de Relatórios e Ferramentas de Solução de Problemas
 
-Microsoft Exchange Online oferece uma variedade de recursos e sair do Centro de administração do Exchange (EAC) de relatório.
+O Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração do Exchange (Eat).
   
 ## <a name="reporting-features"></a>Recursos de relatório
 
-Os clientes do Exchange Online podem acessar relatórios no centro de administração do Office 365, baixando uma pasta de trabalho de relatório do Excel ou usando serviços da Web.
+Os clientes do Exchange Online podem acessar relatórios no centro de administração do Microsoft 365, baixando uma pasta de trabalho de relatórios do Excel ou usando serviços Web.
   
-### <a name="reporting-in-the-office-365-admin-center"></a>Relatórios no centro de administração do Office 365
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Relatórios no centro de administração do Microsoft 365
 
-Há relatórios na página Relatórios do centro de administração do Microsoft Office 365 que fornecem informações resumidas sobre caixas de correio e grupos. Por exemplo, um relatório lista o número de grupos criados e excluídos por dia, semana, mês ou ano. Há também relatórios resumidos de caixas de correio novas e excluídas e caixas de correio ativas e inativas. 
+Há relatórios na página relatórios no centro de administração do Microsoft 365 que fornecem informações resumidas sobre caixas de correio e grupos. Por exemplo, um relatório lista o número de grupos criados e excluídos por dia, semana, mês ou ano. Também há relatórios resumidos para caixas de correio novas e excluídas e caixas de correio ativas e inativas. 
   
-Além disso, a página Relatórios do centro de administração do Microsoft Office 365 contém relatórios de dados de mensagens que fornecem informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas pelas Regras de Transporte do Exchange ou políticas de políticas de Prevenção de Perda de Dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do Exchange Online. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
+Além disso, a página de relatórios no centro de administração do Microsoft 365 contém relatórios de dados de mensagens, que fornecem informações sobre o tráfego de mensagens, detecções de spam e malware e mensagens afetadas pelas regras de transporte do Exchange ou pela DLP (prevenção contra perda de dados) Diretrizes. Os relatórios aprimorados para proteção, regras e DLP oferecem uma experiência de relatório interativa para administradores do Exchange Online. Esses relatórios fornecem dados de resumo e a capacidade de detalhar detalhes sobre mensagens individuais.
   
-Para saber mais sobre quais relatórios estão disponíveis com cada assinatura do Office 365, confira [Relatórios](../office-365-platform-service-description/reports.md). Para saber mais detalhes sobre a página Relatórios do centro de administração do Office 365, confira [Exibir e baixar relatórios sobre o uso do serviço no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) e [Usar relatórios de proteção de email no Office 365 para exibir dados sobre detecções de malware, spam e de regra](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Para obter mais informações sobre quais relatórios estão disponíveis em cada assinatura do Office 365 [](../office-365-platform-service-description/reports.md), consulte Reports. Para obter informações mais detalhadas sobre a página de relatórios no centro de administração do Microsoft 365, consulte [Exibir e baixar relatórios sobre o uso do serviço no office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) e [usar relatórios de proteção de email no Office 365 para exibir dados sobre detecções de malware, spam e regras ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Relatórios usando a pasta de trabalho de relatório do Excel
 
-Você também pode usar a pasta de trabalho de relatórios do Excel 2013 para visualizar relatórios resumidos com recursos de busca detalhada. No entanto, em vez disso, recomendamos a utilização de relatórios aprimorados do centro de administração do Office 365. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. Para saber mais de visão geral e links para baixar e instalar a pasta de trabalho, confira a seguinte [página de download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para informações sobre como usar a pasta de trabalho, confira [Relatórios de Proteção de Email usando a Pasta de Trabalho de Relatório do Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
+Você também pode usar a pasta de trabalho de relatórios do Excel 2013 para exibir relatórios resumidos com recursos de busca detalhada. No enTanto, recomendamos o uso dos relatórios do centro de administração do Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está planejada para ser preterida no futuro. Para obter mais informações gerais e links para baixar e instalar a pasta de trabalho, consulte a [página de download](https://go.microsoft.com/fwlink/p/?LinkId=271776)a seguir. Para obter informações sobre como usar a pasta de trabalho, confira [relatórios de proteção de email usando a pasta de trabalho de relatórios do Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
 ### <a name="reporting-using-web-services"></a>Criar relatórios usando serviços Web
 

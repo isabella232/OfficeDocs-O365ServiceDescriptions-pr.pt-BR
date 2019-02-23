@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft Office 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos do Office 365, incluindo os planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 9656e9259f416b6077ece895697d098fc4652361
-ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
+ms.openlocfilehash: 5346aa8a30ed89b31ed7b072914f146707068561
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 02/22/2019
-ms.locfileid: "30199788"
+ms.locfileid: "30210354"
 ---
 # <a name="office-365-platform-service-description"></a>Descrição de serviço da plataforma Office 365
 
@@ -94,7 +94,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |**[Recursos de Administração do Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|Administrar o Office 365 usando o Centro de administração do Office 365 ou o Windows PowerShell  <br/> |Sim  <br/> |Sim   <br/> |Sim   <br/> |Sim   <br/> |Sim   <br/> |Sim   <br/> |Sim   <br/> |
+|Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell  <br/> |Sim  <br/> |Sim   <br/> |Sim   <br/> |Sim   <br/> |Sim   <br/> |Sim   <br/> |Sim   <br/> |
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |Sim   <br/> |Não<sup>2</sup> <br/> |
 |**[Recursos do Pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |No  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -140,7 +140,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Continuidade e Integridade do Serviço](service-health-and-continuity.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Status de alertas individuais disponíveis no painel do centro de administração do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Status de alertas individuais disponíveis no painel do centro de administração do 365 da Microsoft  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |RSS feed de **Integridade do serviço**  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Relatórios](reports.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Caixas postais ativas e inativas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |

@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online oferece retenção extensiva e suporte de recuperação para infraestrutura de email da organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar itens excluídos e excluídos caixas de correio.
-ms.openlocfilehash: 3f926223a278bd671fa6121b2ee59b96da1f9fe1
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação para a infraestrutura de email de uma organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar caixas de correio excluídas e itens excluídos.
+ms.openlocfilehash: ec9d598fe2c0af2cc9af9a879c91a99a78baf883
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034857"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210224"
 ---
 # <a name="high-availability-and-business-continuity"></a>Alta Disponibilidade e Continuidade de Negócios
 
-Microsoft Exchange Online oferece retenção extensiva e suporte de recuperação para infraestrutura de email da organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar itens excluídos e excluídos caixas de correio.
+O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação para a infraestrutura de email de uma organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar caixas de correio excluídas e itens excluídos.
   
 ## <a name="mailbox-replication-at-data-centers"></a>Replicação de caixa de correio em data centers
 
@@ -30,9 +30,9 @@ As caixas de correio do Exchange Online são replicadas continuamente para vári
   
 Para saber mais sobre como a Microsoft protege seus dados, confira [Central de Confiabilidade do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Se você estiver usando o Office 365 operado pela 21Vianet, confira a [Central de confiabilidade da 21Vianet](http://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
-## <a name="deleted-mailbox-recovery"></a>Recuperação de caixa de correio excluída
+## <a name="deleted-mailbox-recovery"></a>Recuperação de Caixa de Correio Excluída
 
-Os administradores podem excluir caixas de correio Exchange Online usando o centro de administração do Office 365 para excluir a conta de usuário correspondente ou remover a licença do Exchange Online ou usando o cmdlet **Remove-Mailbox** no Windows PowerShell remoto. Quando uma caixa de correio é excluída, o Exchange Online mantém a caixa de correio e seu conteúdo por 30 dias, por padrão. Após 30 dias, a caixa de correio não pode ser recuperada. Uma caixa de correio recuperada contém todos os dados armazenados no momento em que foi excluída. Os administradores podem recuperar uma caixa de correio excluída dentro do período de retenção usando o centro de administração do Office 365. Para recuperar uma caixa de correio excluída, os administradores precisam restaurar a conta de usuário do Office 365 correspondente ou transferir uma licença do Exchange Online para a conta de usuário. Para saber mais, confira [Excluir ou restaurar caixas de correio do usuário no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+Os administradores podem excluir caixas de correio do Exchange Online usando o centro de administração do Microsoft 365 para excluir a conta de usuário correspondente ou remover a licença do Exchange Online ou usando o cmdlet **Remove-Mailbox** no Windows PowerShell remoto. Quando uma caixa de correio é excluída, o Exchange Online mantém a caixa de correio e seu conteúdo por 30 dias por padrão. Após 30 dias, a caixa de correio não é recuperável. Uma caixa de correio recuperada contém todos os dados armazenados no momento em que foi excluída. Os administradores podem recuperar uma caixa de correio excluída dentro do período de retenção usando o centro de administração do Microsoft 365. Para recuperar uma caixa de correio excluída, os administradores precisam restaurar a conta de usuário do Office 365 correspondente ou reatribuir uma licença do Exchange Online à conta de usuário. Para obter mais informações, consulte [excluir ou restaurar caixas de correio do usuário no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992).
   
 ## <a name="deleted-item-recovery"></a>Recuperação de itens excluídos
 

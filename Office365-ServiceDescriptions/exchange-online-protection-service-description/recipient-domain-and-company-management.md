@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection (EOP) oferece vários meios de gerenciar destinatário, domínio e informações da empresa. Como administrador, você pode realizar certas tarefas de gerenciamento no Centro de administração do Exchange (EAC) e verifique se a outras tarefas de gerenciamento realizadas no Centro de administração do Microsoft Office 365.
-ms.openlocfilehash: 17a87a85611dc286e3d19eaeefe04466a1ac62d0
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O Microsoft proteção do Exchange Online (EOP) oferece vários meios de gerenciamento das informações de destinatário, domínio e da empresa. Como administrador, você pode executar determinadas tarefas de gerenciamento no centro de administração do Exchange (Eat) e verificar outras tarefas de gerenciamento executadas no centro de administração do Microsoft 365.
+ms.openlocfilehash: fcae2c3ad93b977fb197089e2c8809b74ada7bd7
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034916"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210324"
 ---
 # <a name="recipient-domain-and-company-management"></a>Gerenciamento de destinatário, domínios e de empresa
 
-Microsoft Exchange Online Protection (EOP) oferece vários meios de gerenciar destinatário, domínio e informações da empresa. Como administrador, você pode realizar certas tarefas de gerenciamento no Centro de administração do Exchange (EAC) e verifique se a outras tarefas de gerenciamento realizadas no Centro de administração do Microsoft Office 365.
+O Microsoft proteção do Exchange Online (EOP) oferece vários meios de gerenciamento das informações de destinatário, domínio e da empresa. Como administrador, você pode executar determinadas tarefas de gerenciamento no centro de administração do Exchange (Eat) e verificar outras tarefas de gerenciamento executadas no centro de administração do Microsoft 365.
   
 Está procurando informações sobre todos os recursos do EOP? Consulte a [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
   
 ## <a name="mail-recipients"></a>Destinatários de email
 <a name="BKMK_mailrecipients"> </a>
 
-Os destinatários de email são categorizados como grupos ou usuários de email e podem ser gerenciados por meio da sincronização do diretório, diretamente no EAC ou via Windows PowerShell remoto. Se estiver gerenciando destinatários locais, você deverá executar a sincronização de diretório para que seus destinatários de email sejam refletidos no EAC. Os usuários gerenciados unicamente no Centro de administração do Office 365 não estão disponíveis para visualização no EAC, mas podem ser adicionados ou removidos da associação de grupo de funções de administrador no EAC. Confira mais informações sobre destinatários no EOP em [Destinatários no EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
+Os destinatários de email são categorizados como usuários ou grupos de emails e podem ser gerenciados por meio da sincronização de diretório, diretamente no Eat ou pelo Windows PowerShell remoto. Se você estiver gerenciando seus destinatários no local, você deve executar a sincronização de diretório para que seus destinatários de email sejam refletidos no Eat. Os usuários gerenciados exclusivamente no centro de administração do Microsoft 365 não são visíveis no Eat, mas podem ser adicionados ou removidos da associação em um grupo de funções de administrador no Eat. Para obter mais informações sobre os destinatários no EOP, consulte [Recipients in EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
   
 ## <a name="admin-role-group-permissions"></a>Permissões do grupo de funções de administrador
 <a name="BKMK_adminrolegrouppermissions"> </a>
@@ -39,7 +39,7 @@ No EOP você pode configurar apenas funções de administrador. Os usuários pod
 ## <a name="domain-management"></a>Gerenciamento de domínio
 <a name="BKMK_domainmanagement"> </a>
 
-Domínios gerenciados são domínios protegidos pelo EOP. Os domínios gerenciados podem ser visualizados e os tipos de domínio podem ser editados no EAC. O fornecimento e o gerenciamento de domínios ocorrem no centro de administração do Office 365 e as mudanças são refletidas no EAC. Confira mais informações em [Exibir ou editar domínios gerenciados no EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+Os domínios gerenciados são domínios protegidos pelo EOP. Os domínios gerenciados podem ser exibidos e os tipos de domínio podem ser editados no Eat. O provisionamento e o gerenciamento de domínios ocorrem no centro de administração do Microsoft 365 e as alterações são refletidas no Eat. Para obter mais informações, consulte [Exibir ou editar domínios gerenciados no EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
   
 ## <a name="match-subdomains"></a>Corresponder subdomínios
 <a name="BKMK_EOP_Match_Subdomains"> </a>

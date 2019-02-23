@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 oferece os seguintes ajuda e os recursos de treinamento.
-ms.openlocfilehash: fb923c0b2323011c9ae61d0ca748af017cd22a06
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
+ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034865"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210284"
 ---
 # <a name="help-and-training"></a>Ajuda e treinamento
 
-Microsoft Office 365 oferece os seguintes ajuda e os recursos de treinamento.
+O Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
   
 ## <a name="online-help"></a>Ajuda online
 <a name="BKMK_Online_Help"> </a>
 
-Artigos de ajuda e vídeos estão disponíveis em qualquer link de ajuda em linha no serviço, inclusive o ícone de ajuda na barra de navegação superior do portal Office 365 e do centro de administração Office 365. Você também pode pesquisar toda a ajuda Office 365 em [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Os artigos e vídeos de ajuda estão disponíveis em qualquer link de ajuda embutida no serviço, incluindo o ícone de ajuda na barra de navegação superior do portal do Office 365 e do centro de administração do Microsoft 365. Você também pode pesquisar em toda a ajuda do [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)Office 365 em. 
   
 ## <a name="training"></a>Treinamento
 <a name="BKMK_Online_Help"> </a>
@@ -123,26 +123,26 @@ Os recursos de ajuda e treinamento estão disponíveis nos seguintes idiomas.
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |Árabe  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Búlgaro  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Chinês simplificado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Chinês tradicional  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Chinês simplificado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
+|Chinês tradicional  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
 |Tcheco  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Dinamarquês  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Holandês  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Estoniano  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Finlandês  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Francês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Alemão  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Francês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
+|Alemão  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
 |Grego  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Húngaro  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Italiano  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Japonês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Italiano  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
+|Japonês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
 |Coreano  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Letão  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Lituano  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Norueguês  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Polonês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Português  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Português (Brasil)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Português (Brasil)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
 |Romeno  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Russo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Sérvio  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
