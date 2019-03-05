@@ -1,9 +1,9 @@
 ---
-title: GCC
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 9/26/2017
+title: Office 365 GCC
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 'Para atender aos requisitos exclusivos de aprimoramento dos governos, nas esferas tribal, local, estadual e federal dos Estados Unidos, bem como dos prestadores de serviços que controlam ou processam dados em nome do Governo dos EUA, a Microsoft oferece os serviços do Office 365 US Government Community. Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA. '
-ms.openlocfilehash: 75fcb85c4c79506b15e382d5482ab81938f978db
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034772"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379023"
 ---
-# <a name="gcc"></a>GCC
+# <a name="office-365-gcc"></a>Office 365 GCC
 
 Para atender aos requisitos exclusivos de aprimoramento dos governos, nas esferas tribal, local, estadual e federal dos Estados Unidos, bem como dos prestadores de serviços que controlam ou processam dados em nome do Governo dos EUA, a Microsoft oferece os serviços do Office 365 US Government Community. Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA.  
   
@@ -42,7 +42,7 @@ A equipe do Office 365 não tem acesso permanente a conteúdo de clientes hosped
   
 |||
 |:-----|:-----|
-|**Controle de pessoal e verificações de antecedentes da Microsoft** <br/> |**Descrição** <br/> |
+|**Verificações em segundo plano e tela de pessoal da Microsoft** <sup>1</sup> <br/> |**Descrição** <br/> |
 |Cidadania dos EUA  <br/> |Verificação de cidadania dos EUA  <br/> |
 |Verificação do histórico de empregos  <br/> |Verificação do histórico de empregos dos últimos sete anos  <br/> |
 |Verificação de nível escolar  <br/> |Verificação do grau mais elevado concluído  <br/> |
@@ -53,7 +53,8 @@ A equipe do Office 365 não tem acesso permanente a conteúdo de clientes hosped
 |Lista do DDTC (Pessoas Impedidas pela Agência de Controle de Comércio de Armas)  <br/> |Validação da lista de pessoas e entidades do Departamento de Estado impedidas de participar de atividades de exportação relacionadas à indústria de armas  <br/> |
 |Verificação de impressão digital  <br/> |Verificação de antecedentes por impressão digital dos bancos de dados do FBI (Agência Federal de Investigação)  <br/> |
 |Verificação de antecedentes do CJIS  <br/> |Revisão de histórico criminal estadual e federal aplicada pelo Estado, pela autoridade indicada dos CSA (Estados Confederados da América), em cada estado que se inscreveu para o programa do Microsoft CJIS IA  <br/> |
-   
+
+<sup>1</sup> aplica-se somente ao pessoal com acesso temporário ou de posição ao conteúdo do cliente hospedado na nuvem da Comunidade do governo norte-americano (GCC) do Office 365  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government Community e Yammer
 
 O Yammer Enterprise não é um componente do Office 365 US Government, mas pode ser adquirido gratuitamente como uma oferta independente para cada usuário licenciado no Office 365 US Government Plano E1 e E3. No momento, esta oferta é limitada a clientes que compram o Office 365 US Government mediante Contratos empresariais ou Contratos de assinatura empresariais. 
@@ -66,4 +67,9 @@ Se você decidir que o uso do Yammer é apropriado para sua organização como p
 
 O Microsoft MyAnalytics foi projetado e é operado de acordo com a implementação de controle do FedRAMP para os serviços do Office 365, mas ainda não foi revisado por um 3PAO como parte da auditoria anual do FedRAMP do Office 365. Se necessário, consulte sua divisão de conformidade a fim de habilitar os serviços do Microsoft MyAnalytics para usuários em sua organização. 
   
+## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Suporte ao cliente da nuvem da Comunidade do governo norte-americano (GCC) do Office 365
 
+O suporte ao cliente do Office 365 GCC é fornecido com os mesmos termos e condições oferecidos às [versões mundiais do Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+), incluindo o local físico do agente de suporte ou garantias de cidadania. O Office 365 GCC opera em conjunto com a nuvem pública do Azure, que é compatível com os [termos e condições](https://azure.microsoft.com/en-us/support/plans/) a seguir.
+
+A Microsoft o lembra de não compartilhar informações controladas, confidenciais ou confidenciais com a equipe de suporte como parte do seu incidente de suporte relacionado ao Office 365 GCC, até que você confirme a autorização para exibir ou acessar esses dados. A Microsoft está comprometida em [proteger sua privacidade.](https://privacy.microsoft.com/en-US/privacystatement ) O suporte ao cliente do Office 365 GCC não está incluído no limite de capacitação de serviço e não fornece FedRAMP, SRG, ITAR, administração de dados do IRS 1075 ou CJIS e/ou garantias de conformidade.

@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Semana de 21 de janeiro de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 1/24/2019 | [Descrição do Serviço do Skype for Business Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modificado |
-| 1/24/2019 | [Descrição dos serviços da plataforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificado |
-
-
 ## <a name="week-of-january-28-2019"></a>Semana de 28 de janeiro de 2019
 
 
@@ -64,3 +55,11 @@
 | 2/22/2019 | [Gerenciamento de Contas de Usuário](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | modificado |
 | 2/22/2019 | [Recursos do Skype for Business Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-features) | modificado |
 | 2/22/2019 | [Descrição do Serviço do Skype for Business Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modificado |
+
+
+## <a name="week-of-february-25-2019"></a>Semana de 25 de fevereiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 2/27/2019 | [Descrição dos serviços do Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
