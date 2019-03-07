@@ -1,7 +1,7 @@
 ---
 title: Publicação de projetos
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: O SharePoint e Skype para recursos de interoperabilidade de negócios a seguir estão disponíveis no Project Online.
-ms.openlocfilehash: e4f0fc82274d0c8ed4c2752e5080f2e0f3ea26f9
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Os recursos de interoperabilidade do SharePoint e do Skype for Business a seguir estão disponíveis no Project online.
+ms.openlocfilehash: 26794c9f3564fef01443350b035b04498aacc622
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034770"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466908"
 ---
 # <a name="project-publishing"></a>Publicação de projetos
 
-O SharePoint e Skype para recursos de interoperabilidade de negócios a seguir estão disponíveis no Project Online.
+Os recursos de interoperabilidade do SharePoint e do Skype for Business a seguir estão disponíveis no Project online.
   
 Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição de serviço do Project Online](project-online-service-description.md).
   

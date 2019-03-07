@@ -1,7 +1,7 @@
 ---
 title: Word Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word Online (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado.
-ms.openlocfilehash: fabe2049a8b35666a6bb608c3198ac68473ffca2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O Word online (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da Web, onde você pode trabalhar com documentos diretamente no site em que o documento está armazenado.
+ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034811"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467298"
 ---
 # <a name="word-online"></a>Word Online
 
-Word Online (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado. 
+O Word online (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da Web, onde você pode trabalhar com documentos diretamente no site em que o documento está armazenado. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Guias de alinhamento e layout dinâmico
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -46,7 +46,7 @@ Você pode obter um complemento para o Word na loja do Office. Os complementos d
 
 O Word Online salva o documento automaticamente quando você faz alterações.
   
-## <a name="autotext"></a>AutoTexto
+## <a name="autotext"></a>Autotexto
 <a name="bkmk_autotext"> </a>
 
 Você pode inserir blocos de texto pré-formatado usando o AutoTexto da galeria de AutoTexto. Isso é útil, por exemplo, quando você precisa inserir repetidamente o mesmo bloco grande de texto e o texto contém muita formatação. Crie entradas de AutoTexto adicionando texto selecionado à galeria de AutoTexto. Para saber mais, confira [Inserir texto automaticamente](https://go.microsoft.com/fwlink/?linkid=846739).
@@ -131,7 +131,7 @@ No Word Online, você pode aplicar fontes, tamanhos de fonte e vários atributos
 
 Você pode adicionar notas de rodapé e notas de fim a seus documentos no Word Online. Saiba mais sobre [como adicionar notas de rodapé e notas de fim no Word Online](https://go.microsoft.com/fwlink/p/?LinkId=397306).
   
-## <a name="full-fidelity-reading-view"></a>modo de Exibição de leitura de fidelidade total
+## <a name="full-fidelity-reading-view"></a>Modo de exibição de leitura de fidelidade total
 <a name="bkmk_FullFidelityReadingView"> </a>
 
 Quando você abrir seu documento no OneDrive ou no SharePoint, o Word Online abrirá o documento no navegador. A formatação e o layout são o que você veria se abrisse o documento no modo de exibição de Layout de Impressão no aplicativo da área de trabalho Word.
@@ -146,7 +146,7 @@ Você pode usar predefinições para aplicar efeitos especiais, como rotação, 
 
 Insira um cabeçalho e um rodapé em seu documento no Word Online e no aplicativo da área de trabalho Word. Você também pode aplicar cabeçalhos e rodapés em todas as páginas, exceto na primeira página do seu documento. Para saber mais sobre como usar cabeçalhos e rodapés no Word Online, confira [Novidades no Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
   
-## <a name="hyperlinks"></a>Hiperlinks
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 Com o Word Online, você pode criar links para indicadores em um documento e definir uma dica de tela que aparece quando o cursor aponta para o link. Saiba mais sobre [hiperlinks no Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271863).
@@ -186,7 +186,7 @@ No Word Online, comece a digitar diretamente abaixo de uma lista numerada existe
 
 Não está disponível em Word Online. Recursos avançados de integração de dados, como mala direta usando uma planilha do Excel, estão disponíveis somente no aplicativo da área de trabalho Word. 
   
-## <a name="offline-viewing-and-authoring"></a>Criação e exibição offline
+## <a name="offline-viewing-and-authoring"></a>Criação e visualização offline
 <a name="bkmk_Offlineviewingauthoring"> </a>
 
 Não está disponível em Word Online. O Office Online requer uma conexão à Internet e um navegador. Você precisa ter o aplicativo da área de trabalho Word instalado no seu computador, para exibir e editar um documento, quando estiver desconectado do servidor do Office Web Apps local da sua organização. Se você tiver o aplicativo da área de trabalho Word instalado, você pode usar a funcionalidade completa do Word para visualizar e editar seu documento. Quando você salvar, o documento online será atualizado com suas alterações. Você também pode baixar e salvar como uma cópia offline do documento, mas isso não estará em sincronia com a versão online. Saiba mais sobre o [Servidor do Office Web Apps](https://go.microsoft.com/fwlink/p/?LinkId=282318).
@@ -323,7 +323,7 @@ Não está disponível em Word Online. Você pode exibir um índice de autoridad
 
 Use o recurso de toque para localizar e reutilizar conteúdo. O toque fornece arquivos relevantes que você usa com mais frequência, permitindo que se concentre na criação de documentos, em vez de procurar por arquivos e informações. Para saber mais, confira [Localizar e usar o conteúdo de que você precisa](https://go.microsoft.com/fwlink/?linkid=825878).
   
-## <a name="tell-me"></a>Diga-Me
+## <a name="tell-me"></a>Diga-me
 <a name="BKMK_Tell_Me_Word"> </a>
 
 Quando você precisar realizar alguma coisa em Word Online mas não sabe como, você pode usar o recurso de pesquisa Diga-Me para encontrar rapidamente o que você está procurando. Diga-Me compreende o que você está tentando realizar e o ajuda a fazer isso mais rápido fazendo sugestões.

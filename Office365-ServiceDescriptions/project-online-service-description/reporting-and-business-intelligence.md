@@ -1,7 +1,7 @@
 ---
 title: Inteligência de negócios e de relatórios
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
-description: Os seguintes relatórios e recursos de business intelligence estão disponíveis no Project Online.
-ms.openlocfilehash: eee05d4f12af50e0df090cf21b8bc9f6c73ba7ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Os seguintes recursos de relatórios e Business Intelligence estão disponíveis no Project online.
+ms.openlocfilehash: 37bad29131a8c18a312bfc1b7b784e07080c4203
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034846"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466478"
 ---
-# <a name="reporting-and-business-intelligence"></a>Relatórios e business intelligence
+# <a name="reporting-and-business-intelligence"></a>Inteligência de negócios e de relatórios
 
-Os seguintes relatórios e recursos de business intelligence estão disponíveis no Project Online.
+Os seguintes recursos de relatórios e Business Intelligence estão disponíveis no Project online.
   
 ## <a name="odata-feeds"></a>Feeds OData
 <a name="bkmk_ODataFeeds"> </a>
@@ -30,7 +30,7 @@ Os feeds OData permitem que as consultas do REST e uma série de bibliotecas de 
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Painéis prontos de portfólios
 <a name="bkmk_OutOfTheBoxPortfolioDashboards"> </a>
 
-Rico e imediata de relatórios são projetados para serem imediatamente útil para muitos clientes, e o aplicativo web também permite a personalização de seu painel de portfólio para ajudar a atender às necessidades organizacionais específicas. Escolha entre uma variedade de projeto, tarefa e relatórios baseados em recursos, inclusive problemas/riscos/produtos relatórios, bem como várias opções, incluindo a filtragem de campos personalizados. Relatórios podem ser personalizados com apenas alguns cliques sem sair do aplicativo. 
+Os sofisticados relatórios prontos foram desenvolvidos para serem imediatamente úteis para muitos clientes, e o aplicativo Web também permite a personalização do seu painel de portfólio para ajudar a atender às necessidades específicas da organização. Escolha entre uma variedade de relatórios baseados em recursos, tarefas e projetos, inclusive relatórios de problemas/riscos/entrega, bem como diversas opções de filtragem, com a filtragem por campos personalizados. Relatórios podem ser personalizados com apenas alguns cliques sem sair do aplicativo. 
   
 ## <a name="project-desktop-reporting"></a>Relatórios da área de trabalho do Project
 <a name="bkmk_ProjectDesktopReporting"> </a>

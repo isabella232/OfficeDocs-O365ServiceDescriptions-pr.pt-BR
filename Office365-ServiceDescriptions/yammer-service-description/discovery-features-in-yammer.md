@@ -1,7 +1,7 @@
 ---
 title: Recursos de Descoberta no Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Os recursos de descoberta a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 761f7b3e2edaad8a5851528990e68d17f3d66d66
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 6736eae580814a156abb3b67f5ae038215ad2bc9
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034764"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468008"
 ---
 # <a name="discovery-features-in-yammer"></a>Recursos de Descoberta no Yammer
 
@@ -34,7 +34,7 @@ Fique por dentro de conversas, arquivos e projetos importantes na empresa. Os Fe
 
 Saiba no que os seus colegas de trabalho estão trabalhando em tempo real. O Ticker exibe o seu histórico de atividade acontecendo em tempo real, incluindo edições de páginas, arquivos carregados e atualizações feitas em outros aplicativos empresariais.
   
-## <a name="topics"></a>Tópicos
+## <a name="topics"></a>Topics
 <a name="bkmk_Topics"> </a>
 
 Marque o conteúdo com tópicos para ajudar os outros a encontrar rapidamente mensagens, arquivos, Observações e mais adicionando um hashtag (#) antes da palavra ou pesquisando nos tópicos existentes.

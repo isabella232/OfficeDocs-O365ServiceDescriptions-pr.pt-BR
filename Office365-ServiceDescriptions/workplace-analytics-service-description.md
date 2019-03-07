@@ -1,7 +1,7 @@
 ---
-title: Descrição do Serviço do Workplace Analytics
-ms.author: pebaum
-author: pebaum
+title: Descrição do serviço de análise de local de trabalho
+ms.author: sharik
+author: skjerland
 ms.date: 7/31/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -9,30 +9,30 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: Análise de local de trabalho do Microsoft fornece rica e acionáveis ideias sobre tendências de comunicação e colaboração da sua empresa para ajudá-lo a tomar decisões de negócios mais eficientes.
-ms.openlocfilehash: 81924934640517dc3f6fe396020fb5e26f65facf
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O Microsoft Workplace Analytics oferece ideias ricas e acionáveis nas tendências de comunicação e colaboração de sua empresa para ajudá-lo a tomar decisões de negócios mais eficazes.
+ms.openlocfilehash: 7689a1bcff420b08da80db1d9aa1c9f91d1deed6
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034773"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467498"
 ---
-# <a name="workplace-analytics-service-description"></a>Descrição do Serviço do Workplace Analytics
+# <a name="workplace-analytics-service-description"></a>Descrição do serviço de análise de local de trabalho
 
-Análise de local de trabalho do Microsoft fornece rica e acionáveis ideias sobre tendências de comunicação e colaboração da sua empresa para ajudá-lo a tomar decisões de negócios mais eficientes.
+O Microsoft Workplace Analytics oferece ideias ricas e acionáveis nas tendências de comunicação e colaboração de sua empresa para ajudá-lo a tomar decisões de negócios mais eficazes.
   
-Análise de local de trabalho do Microsoft analisa como suas equipes trabalham juntos para que você possa identificar os comportamentos que ajudam — e prejudicado — os resultados finais. Em seguida, você pode usar estas informações: 
+A análise de local de trabalho da Microsoft analisa como suas equipes trabalham juntas para que você possa identificar os comportamentos que ajudam — e o que é o resultado final. Você pode usar essas informações para: 
   
 - Melhorar a eficiência organizacional
     
-- Reduzir a pressão relativos ao trabalho
+- Reduzir a sobrecarga relacionada ao trabalho
     
-- Reduzir o caos organizacional
+- Reduzir o caos da organização
     
-- Entrem e reter funcionários
+- Contratar e reter funcionários
     
-Para obter mais informações, consulte [Análise do local de trabalho](https://go.microsoft.com/fwlink/?linkid=852492). Clique [aqui](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) para começar a análise do local de trabalho. 
+Para obter mais informações, consulte [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Clique [aqui](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) para começar a usar a análise do local de trabalho. 
   
-## <a name="licensing-requirements"></a>Requisitos de licenciamento
+## <a name="licensing-requirements"></a>Requisitos de licença
 
-Exchange Online plano 1 ou plano 2 é um pré-requisito.
+O plano 1 do Exchange Online ou o plano 2 é um pré-requisito.

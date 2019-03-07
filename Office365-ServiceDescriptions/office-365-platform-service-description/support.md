@@ -1,7 +1,7 @@
 ---
 title: Suporte
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Com cada assinatura do Microsoft Office 365 Enterprise, negócios, educação e governamentais, o Microsoft Support fornece global técnica, pré-venda e cobrança, suporte de assinatura. O suporte está disponível ambos online por meio do portal do Office 365 e por telefone para assinaturas pagas e avaliação. Para obter mais informações, consulte Opções de suporte do Office 365.
-ms.openlocfilehash: bb93982e24065abbf558145afcff07f10181ceb7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Em todas as assinaturas do Microsoft Office 365 Enterprise, Business, Education e Government, o Suporte da Microsoft fornece suporte técnico para assinaturas, cobrança e pré-vendas em nível global. O suporte está disponível online por meio do portal do Office 365 e por telefone para assinaturas pagas e de avaliação. Para saber mais, veja Opções de suporte do Office 365.
+ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034900"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467528"
 ---
 # <a name="support"></a>Suporte
 
 > [!NOTE]
-> Todas as opções de suporte abaixo são para as versões internacionais do Office 365. Para todo o suporte para o Office 365 operado pela 21Vianet na China, consulte [contato Office 365 para empresas de suporte para Office 365 operado pela 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Para o Office 365 na Alemanha, consulte [contato Office 365 para empresas de suporte para Office 365 Alemanha](https://go.microsoft.com/fwlink/?linkid=846979). 
+> Todas as opções de suporte descritas a seguir se destinam às versões internacionais do Office 365. Para todo o suporte para o Office 365 operado pela 21Vianet na China, confira [contatar o office 365 para obter suporte para o office 365 operado pela 21vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Para o Office 365 Alemanha, confira [entrar em contato com o suporte do office 365 para empresas para o office 365 Alemanha](https://go.microsoft.com/fwlink/?linkid=846979). 
   
-Com cada assinatura do Microsoft Office 365 Enterprise, negócios, educação e governamentais, o Microsoft Support fornece global técnica, pré-venda e cobrança, suporte de assinatura. O suporte está disponível ambos online por meio do portal do Office 365 e por telefone para assinaturas pagas e avaliação. Para obter mais informações, consulte [Opções de suporte do Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279810).
+Em todas as assinaturas do Microsoft Office 365 Enterprise, Business, Education e Government, o Suporte da Microsoft fornece suporte técnico para assinaturas, cobrança e pré-vendas em nível global. O suporte está disponível online por meio do portal do Office 365 e por telefone para assinaturas pagas e de avaliação. Para saber mais, veja [Opções de suporte do Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279810).
   
 Os administradores autorizados podem usar o portal do Office 365 para enviar solicitações de serviços online, acessar números de telefone do serviço de suporte e visualizar todas as solicitações de serviço abertas e fechadas recentemente. As solicitações de serviço apresentadas no portal do Office 365 podem ser reabertas até 14 dias após o fechamento do pedido. Para instruções, confira o artigo [Contatar o suporte do Office 365 para empresas - Ajuda para Administradores](https://go.microsoft.com/fwlink/p/?LinkID=279815).
   
@@ -79,8 +79,8 @@ Quando um caso é aberto, a Microsoft atribui um nível de severidade a ele de a
   
 |**Nível de severidade**|**Descrição de suporte e operações**|**Exemplos**|
 |:-----|:-----|:-----|
-|Severidade A (Crítica)  <br/> |Um ou mais serviços não estão acessíveis ou não podem ser usados. A produção, as operações ou as datas limite para implantação são gravemente afetadas, ou há um grave impacto sobre a produção ou a lucratividade. Vários usuários ou serviços são afetados.  <br/> | Problemas generalizados para envio e recebimento de email.  <br/>  Site do SharePoint fora do ar.  <br/>  Nenhum usuário pode enviar mensagens instantâneas, agendar ou ingressar em Reuniões do Skype for Business, ou fazer chamadas do Skype for Business.  <br/> |
-|Severidade B (Alta)  <br/> |O serviço pode ser usado, mas com limitações. A situação tem impacto comercial moderado e é possível lidar com ela durante o horário comercial. Um único usuário, cliente ou serviço é parcialmente afetado.  <br/> | Botão Enviar no Outlook está confuso.  <br/>  Não é possível configurar no EAC (Centro de Administração do Exchange), mas é possível no PowerShell.  <br/> |
+|Sev A (Crítica)  <br/> |Um ou mais serviços não estão acessíveis ou não podem ser usados. A produção, as operações ou as datas limite para implantação são gravemente afetadas, ou há um grave impacto sobre a produção ou a lucratividade. Vários usuários ou serviços são afetados.  <br/> | Problemas generalizados para envio e recebimento de email.  <br/>  Site do SharePoint fora do ar.  <br/>  Nenhum usuário pode enviar mensagens instantâneas, agendar ou ingressar em Reuniões do Skype for Business, ou fazer chamadas do Skype for Business.  <br/> |
+|Sev B (Alta)  <br/> |O serviço pode ser usado, mas com limitações. A situação tem impacto comercial moderado e é possível lidar com ela durante o horário comercial. Um único usuário, cliente ou serviço é parcialmente afetado.  <br/> | Botão Enviar no Outlook está confuso.  <br/>  Não é possível configurar no EAC (Centro de Administração do Exchange), mas é possível no PowerShell.  <br/> |
 |Severidade C (Não Crítica)  <br/> |A situação tem impacto comercial mínimo. O problema é importante, mas não tem impacto expressivo na produtividade e no serviço atual do cliente. Um único usuário experimenta interrupção parcial, mas existe uma solução alternativa aceitável.  <br/> | Como definir uma senha de usuário que nunca expira.  <br/>  O usuário não pode excluir as informações de contato no Exchange Online.  <br/> |
    
 ### <a name="technical-support-initial-response-times"></a>Tempos de resposta inicial do suporte técnico
@@ -90,7 +90,7 @@ O tempo de resposta inicial é baseado nos níveis de severidade descritos acima
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Nível de severidade** <br/> |**O Office 365 Business Essentials<sup>1</sup>** <br/> **O Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **O Office 365 educação<sup>1</sup>** <br/> |**O Office 365 Enterprise E1<sup>2</sup>** <br/> **O Office 365 Enterprise E3<sup>2</sup>** <br/> **O Office 365 governamental G2<sup>2</sup>** <br/> **O Office 365 governo dos EUA E3<sup>2</sup>** <br/> |**O Office 365 Enterprise F1<sup>2</sup>** <br/> **O Office 365 governo dos EUA K1<sup>2</sup>** <br/> |**Opções de suporte elevado<sup>3</sup>** <br/> |
+|**Nível de severidade** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 Education<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 governo G2<sup>2</sup>** <br/> **Office 365 governo dos EUA E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 governo dos EUA K1<sup>2</sup>** <br/> |**Opções de suporte elevado<sup>3</sup>** <br/> |
 | Severidade A (Crítica)  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: uma hora  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: uma hora  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: uma hora  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: uma hora  <br/> |
 |Severidade B (Alta)  <br/> |Disponível: horário comercial  <br/> Tempo de resposta: sem compromisso  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: próximo dia  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: próximo dia  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: 2 horas  <br/> |
 |Severidade C (Média)  <br/> |Disponível: horário comercial  <br/> Tempo de resposta: sem compromisso  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: sem compromisso  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: sem compromisso  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: 4 horas  <br/> |

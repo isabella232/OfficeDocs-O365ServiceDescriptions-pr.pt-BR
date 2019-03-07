@@ -1,7 +1,7 @@
 ---
 title: Descrição de serviço do OneDrive for Business
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: O OneDrive for Business é um espaço de armazenamento online pessoal na nuvem fornecido por sua empresa. Use-o para armazenar e proteger seus arquivos de trabalho enquanto os acessa de vários dispositivos com facilidade. Compartilhe arquivos com colegas de trabalho conforme necessário e colabore em documentos do Office em tempo real com os aplicativos mais recentes do Office para dispositivos móveis, sites e área de trabalho. Sincronize arquivos no seu computador local usando o cliente de sincronização do OneDrive for Business.
-ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215356"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467188"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descrição de serviço do OneDrive for Business
 

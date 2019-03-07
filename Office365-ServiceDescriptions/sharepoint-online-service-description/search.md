@@ -1,7 +1,7 @@
 ---
 title: Pesquisar
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,74 +12,74 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
-description: SharePoint Online é uma coleção de ferramentas baseadas na Web e tecnologias que ajudam a sua organização armazenar, compartilhar e gerenciar informações digitais. Esse serviço hospedado baseado no Microsoft SharePoint Server 2013, é ideal para trabalhando em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes recursos de pesquisa ajudam as pessoas a localizar as informações que eles precisam para realizar seus trabalhos. A pesquisa é uma combinação de relevância, refinamento e pessoas.
-ms.openlocfilehash: 2aceab27cf37ac27e11a1b4cac105592a2419e5f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Presente no Microsoft SharePoint Server 2013, esse serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os recursos de Pesquisa a seguir ajudam as pessoas a encontrar as informações necessárias para realizar seus trabalhos. Pesquisa é uma combinação de relevância, refinamento e pessoas.
+ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034806"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467628"
 ---
 # <a name="search"></a>Pesquisar
 
-SharePoint Online é uma coleção de ferramentas baseadas na Web e tecnologias que ajudam a sua organização armazenar, compartilhar e gerenciar informações digitais. Esse serviço hospedado baseado no Microsoft SharePoint Server 2013, é ideal para trabalhando em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes recursos de pesquisa ajudam as pessoas a localizar as informações que eles precisam para realizar seus trabalhos. A pesquisa é uma combinação de relevância, refinamento e pessoas.
+O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Presente no Microsoft SharePoint Server 2013, esse serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os recursos de Pesquisa a seguir ajudam as pessoas a encontrar as informações necessárias para realizar seus trabalhos. Pesquisa é uma combinação de relevância, refinamento e pessoas.
   
-## <a name="continuous-crawls"></a>Rastreamentos contínuos
+## <a name="continuous-crawls"></a>Continuous crawls
 <a name="bkmk_ContinuousCrawl"> </a>
 
 Os rastreamentos contínuos ajudam a manter os resultados da pesquisa atualizados rastreando com frequência o conteúdo nos sites do SharePoint. Os rastreamentos contínuos são ativados no SharePoint Online, com as frequências do rastreamento gerenciadas pela Microsoft. No SharePoint Server 2013, os administradores podem ativar os rastreamentos contínuos e gerenciar as frequências do rastreamento contínuo. Saiba mais sobre [extensões padrão de nome de arquivo rastreado e tipos de arquivo analisados no SharePoint](https://technet.microsoft.com/en-us/library/jj219530.aspx). Saiba mais sobre como [gerenciar os rastreamentos contínuos](https://go.microsoft.com/fwlink/?LinkID=271001).
   
-## <a name="deep-links"></a>Links profundos
+## <a name="deep-links"></a>Deep links
 <a name="bkmk_DeepLink"> </a>
 
 O sistema de pesquisa cria automaticamente links diretos para subseções de uma página principal que é visitada com frequência. Esses links são chamados de "links profundos". Saiba mais sobre o [sistema de pesquisa SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=286608).
   
-## <a name="event-based-relevancy"></a>Relevância baseada em evento
+## <a name="event-based-relevancy"></a>Event-based relevancy
 <a name="bkmk_EventBasedRelevancy"> </a>
 
 O sistema de pesquisa determina a relevância dos resultados de pesquisa em parte pelo modo como o conteúdo é vinculado, pela frequência com que um item é exibido nos resultados de pesquisa e pelos resultados de pesquisa nos quais as pessoas clicam. O componente de análise controla e analisa essas informações e as usa para aprimorar continuamente a relevância. Saiba mais sobre [processamento de análise](https://go.microsoft.com/fwlink/?LinkID=271000).
   
-## <a name="expertise-search"></a>Pesquisa de experiência
+## <a name="expertise-search"></a>Expertise Search
 <a name="bkmk_ExpertiseSearch"> </a>
 
 No SharePoint, é mais fácil encontrar pessoas com experiência ou qualificações específicas na Pesquisa vertical de Pessoas. Os resultados da pesquisa são baseados em informações como os metadados que os usuários inseriram sobre si mesmos em seus nos sites pessoais e informações retiradas do conteúdo que eles criaram. Saiba mais sobre [como mudar as configurações verticais da pesquisa](https://go.microsoft.com/fwlink/p/?LinkId=286610).
   
-## <a name="graphical-refiners"></a>Refinadores gráficos
+## <a name="graphical-refiners"></a>Graphical refiners
 <a name="bkmk_GraphicalRefiners"> </a>
 
 Os novos refinadores gráficos oferecem uma maneira mais visual de filtrar os resultados da pesquisa. Saiba mais sobre como [configurar a Web Part de refinamento](https://go.microsoft.com/fwlink/?LinkId=271017).
   
-## <a name="hybrid-search"></a>Pesquisa híbrida
+## <a name="hybrid-search"></a>Hybrid search
 <a name="bkmk_HybridSearch"> </a>
 
 Em uma implantação híbrida do SharePoint, o conteúdo do resultado da pesquisa pode vir dos sites locais do SharePoint Online e do SharePoint Server 2013. Para saber mais sobre um ambiente híbrido do SharePoint, confira [Híbrido para SharePoint Server 2013](https://go.microsoft.com/fwlink/?LinkId=275765).
   
-## <a name="manage-search-schema"></a>Gerenciar o esquema de pesquisa
+## <a name="manage-search-schema"></a>Manage search schema
 <a name="bkmk_manage_search_schema"> </a>
 
 Quando as pessoas busca de conteúdo em seus sites do SharePoint, é o que está em seu índice de pesquisa que determina o que eles vão encontrar. O índice de pesquisa contém informações de todos os documentos e páginas em seu site e é construído por rastrear o conteúdo em seu site do SharePoint. O esquema de pesquisa ajuda o rastreador a decidir o conteúdo e os metadados a serem analisados e como indexá-los. Ao alterar o esquema de pesquisa, você pode criar uma experiência de pesquisa personalizada para seus usuários. Saiba mais sobre [gerenciar esquema de pesquisa no SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).
   
-## <a name="on-hover-preview"></a>Visualização em foco
+## <a name="on-hover-preview"></a>Visualização ao focalizar
 <a name="bkmk_Quickpreview"> </a>
 
 Os usuários podem pousar o cursor sobre um resultado da pesquisa para visualizar o conteúdo do documento ou site e interagir com ele no painel de flutuação à direita do resultado. A visualização mostra metadados importantes e apresenta links profundos para as seções principais do documento ou site. Saiba mais [dicas para pesquisar](https://go.microsoft.com/fwlink/p/?LinkId=286614).
   
-## <a name="phonetic-name-matching"></a>Correspondência de nome fonético
+## <a name="phonetic-name-matching"></a>Phonetic name matching
 <a name="bkmk_PhoneticNameMatching"> </a>
 
 A correspondência aprimorada de nome fonético localiza resultados de pesquisa para nomes com sons parecidos (John ou Jon?). Saiba mais sobre [como gerenciar as fontes do resultado](https://go.microsoft.com/fwlink/p/?LinkId=286609).
   
-## <a name="query-rulesadd-promoted-results"></a>Regras de consulta - adicionar resultados promovidos
+## <a name="query-rulesadd-promoted-results"></a>Regras de consulta – adicionar resultados promovidos
 <a name="bkmk_QueryRulesAddpromotedresults"> </a>
 
 Em uma regra de consulta, especifique condições e ações correlacionadas. Quando uma consulta atende às condições em uma regra de consulta, o sistema de pesquisa realiza as ações especificadas na regra. A ação "Adicionar resultados promovidos" permite que você promova resultados individuais de modo que eles apareçam no começo da lista de resultados da pesquisa. Saiba mais sobre [como gerenciar as regras da consulta](https://go.microsoft.com/fwlink/p/?LinkId=286607).
   
-## <a name="query-rulesadvanced-actions"></a>Regras de consulta - ações avançadas
+## <a name="query-rulesadvanced-actions"></a>Query rules—advanced actions
 <a name="bkmk_UserRulesAdvancedActions"> </a>
 
 Em uma regra de consulta, você pode especificar as condições e ações correlacionadas. A ação "Adicionar blocos de resultados" permite que você exiba um subconjunto dos resultados de pesquisa como um grupo. A ação "Alterar resultados classificados através da alteração da consulta" permite que você altere a classificação dos resultados da pesquisa retornados. Saiba mais sobre [como gerenciar as regras da consulta](https://go.microsoft.com/fwlink/p/?LinkId=286607).
   
-## <a name="query-spelling-correction"></a>Correção ortográfica da consulta
+## <a name="query-spelling-correction"></a>Query spelling correction
 <a name="bkmk_QuerySpellingCorrection"> </a>
 
 Edite listas de exclusão e inclusão para decidir para quais consultas a página de resultados da pesquisa deve exibir ortografias de consulta alternativas. Esse recurso costuma ser chamado de "Você quis dizer?". Saiba mais sobre [correção ortográfica da consulta](https://go.microsoft.com/fwlink/?LinkId=271221).
@@ -99,12 +99,12 @@ O SharePoint usa modelos de classificação para atribuir um valor para resultad
 
 Os refinadores categorizam os principais documentos nos resultados de pesquisa do SharePoint Server em grupos que permitem que os usuários filtrem os resultados da pesquisa. Saiba mais sobre como [configurar a Web Part de refinamento](https://go.microsoft.com/fwlink/?LinkId=271017).
   
-## <a name="restful-query-apiquery-om"></a>OM de consulta/API de consulta por REST
+## <a name="restful-query-apiquery-om"></a>RESTful Query API/Query OM
 <a name="bkmk_RESTfulQueryAPI"> </a>
 
 Os desenvolvedores podem criar o código .NET para acessar o modelo de objeto de pesquisa pública. Isso inclui operações administrativas de pesquisa, além do envio de consultas de pesquisa. Para você interagir com o modelo de objeto do serviço, o código .NET deve ser executado em um servidor Web presente no farm. Um subconjunto de modelo de objeto pode ser acessado em um computador remoto usando o CSOM (Modelo de Objeto do Cliente). Os recursos do CSOM podem ser acessados por meio de um serviço Web baseado em REST ou oData. Isso permite que os desenvolvedores enviem consultas ao farm do SharePoint Server 2013 usando ferramentas populares de desenvolvimento Web.
   
-## <a name="search-results-sorting"></a>Classificação de resultados da pesquisa
+## <a name="search-results-sorting"></a>Search results sorting
 <a name="bkmk_Searchresultssorting"> </a>
 
 Os usuários podem escolher classificar os resultados da pesquisa por diferentes critérios, por exemplo, relevância, data de atualização e distância social (nomes de pessoas). Saiba mais sobre [a classificação dos resultados da pesquisa](https://go.microsoft.com/fwlink/p/?LinkId=286603).

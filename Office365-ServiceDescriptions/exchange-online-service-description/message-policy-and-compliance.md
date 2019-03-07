@@ -1,7 +1,7 @@
 ---
 title: Política e Conformidade de Mensagens
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: fd5062df19298720417566d91667f3c3b237b164
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034983"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467248"
 ---
 # <a name="message-policy-and-compliance"></a>Política e Conformidade de Mensagens
 
@@ -72,24 +72,24 @@ Confira mais informações em [Marcas e políticas de retenção](https://go.mic
   
 ## <a name="encryption-of-data-at-rest"></a>Criptografia de dados em repouso
 
-Criptografia de dados de cliente do Office 365 em repouso é fornecida por várias tecnologias de no lado do serviço, incluindo o BitLocker, DKM, criptografia de serviço de armazenamento do Windows Azure e criptografia de serviço no Exchange Online, Skype for Business, OneDrive for Business e SharePoint Online. O Office 365 criptografia de serviço incluem uma opção para usar as chaves de criptografia gerenciado pelo cliente que são armazenadas no armazenamento de chave do Windows Azure. Essa opção de chave gerenciada do cliente, chamada [Chave de cliente do Office 365](https://go.microsoft.com/fwlink/?linkid=863349), está disponível para o Exchange Online, SharePoint Online e OneDrive for Business. 
+A criptografia de dados do cliente do Office 365 em repouso é fornecida por várias tecnologias do lado do serviço, incluindo BitLocker, DKM, criptografia do serviço de armazenamento do Azure e criptografia de serviço no Exchange Online, Skype for Business, OneDrive for Business e SharePoint Modo. A criptografia de serviço do Office 365 inclui uma opção para usar chaves de criptografia gerenciadas pelo cliente armazenadas no Azure Key Vault. Essa opção de chave gerenciada pelo cliente, chamada de [chave do cliente do Office 365](https://go.microsoft.com/fwlink/?linkid=863349), está disponível para o Exchange Online, o SharePoint Online e o onedrive for Business. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Servidores do Office 365 usam BitLocker para criptografar as unidades de disco que contém os dados em repouso no nível de volume do cliente. Criptografia de disco BitLocker é um recurso de proteção de dados interno do Windows. O BitLocker é uma das tecnologias usadas para a proteção contra ameaças, caso haja falhas em outros processos ou controles (por exemplo, controle de acesso ou reciclagem de hardware) que poderiam levar a alguém que tenha acesso físico nos discos contendo os dados do cliente. Nesse caso, o BitLocker elimina o potencial de dados roubo ou exposição por causa de discos e computadores inadequadamente, perdidos ou roubados. 
+Os servidores do Office 365 usam o BitLocker para criptografar as unidades de disco que contêm os dados do cliente em repouso no nível do volume. A criptografia BitLocker é um recurso de proteção de dados interno do Windows. O BitLocker é uma das tecnologias usadas para proteger contra ameaças caso haja interrupções em outros processos ou controles (por exemplo, controle de acesso ou reciclagem de hardware) que podem levar a alguém obtendo acesso físico a discos que contêm dados do cliente. Nesse caso, o BitLocker elimina a possibilidade de roubo de dados ou exposição por causa de computadores e discos perdidos, roubados ou indevidamente descomissionados. 
   
-### <a name="distributed-key-manager"></a>Gerenciador de chave distribuída
+### <a name="distributed-key-manager"></a>Distributed Key Manager
 
-Além das BitLocker, usamos uma tecnologia chamada Gerenciador de chave distribuído (DKM). DKM é uma funcionalidade de cliente que usa um conjunto de chaves secretas para criptografar e descriptografar informações. Somente os membros de um grupo de segurança específicas nos serviços de domínio do Active Directory podem acessar essas chaves para descriptografar os dados que são criptografados por DKM. No Exchange Online, apenas certas contas de serviço sob o qual os processos do Exchange executado fazem parte do grupo de segurança. Como parte do procedimento de operacional padrão no datacenter, nenhum humanos recebe as credenciais que fazem parte deste grupo de segurança e, portanto, nenhum humanos tem acesso às chaves que podem descriptografar esses segredos.
+Além do BitLocker, usamos uma tecnologia chamada DKM (Distributed Key Manager). O DKM é uma funcionalidade do lado do cliente que usa um conjunto de chaves secretas para criptografar e descriptografar informações. Somente membros de um grupo de segurança específico nos serviços de domínio Active Directory podem acessar essas chaves para descriptografar os dados que são criptografados pelo DKM. No Exchange Online, apenas certas contas de serviço, sob as quais os processos do Exchange são executados, fazem parte do grupo de segurança. Como parte do procedimento operacional padrão no datacenter, nenhum humano recebe credenciais que fazem parte deste grupo de segurança e, portanto, nenhuma pessoa tem acesso às chaves que podem descriptografar esses segredos.
   
 ## <a name="customer-key"></a>Chave do Cliente
 
-Com a chave do cliente, você controlar as chaves de criptografia da sua organização e configurar o Office 365 para usá-los para criptografar dados em repouso em centros de dados da Microsoft. Dados em repouso incluem os dados do Exchange Online e do Skype for Business que é armazenado em caixas de correio e arquivos que são armazenados no SharePoint Online e o OneDrive for Business. Para obter mais informações, consulte [controlar seus dados no Office 365 usando a chave de cliente](https://go.microsoft.com/fwlink/?linkid=863349) e o [Serviço de criptografia com a chave do cliente para perguntas Frequentes do Office 365](https://go.microsoft.com/fwlink/?linkid=869438).
+Com a chave do cliente, você controla as chaves de criptografia da sua organização e, em seguida, configura o Office 365 para usá-las para criptografar seus dados em repouso nos data centers da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business que são armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. Para obter mais informações, consulte [controle de dados no Office 365 usando chave do cliente](https://go.microsoft.com/fwlink/?linkid=863349) e [criptografia de serviço com a chave do cliente para o Office 365 perguntas frequentes](https://go.microsoft.com/fwlink/?linkid=869438).
   
-## <a name="office-365-message-encryption"></a>Criptografia de Mensagens do Office 365
+## <a name="office-365-message-encryption"></a>Criptografia de Mensagem do Office 365
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-Criptografia de mensagem do Office 365 permite que os usuários de email enviar mensagens de email criptografadas para qualquer pessoa. Podemos anunciado novos recursos no Office Message Encryption que aproveitam os recursos de proteção em criptografia de informações do Windows Azure. Esses novos recursos fornecidos aprimorado experiências de usuário final que facilitam a compartilhar e colaborar em mensagens protegidas com qualquer usuário dentro ou fora da organização. Os novos recursos de criptografia de mensagem do Office têm alguns requisitos de instalação. Consulte Set up novos recursos do Office 365 Message Encryption construídos sobre a proteção de informações do Windows Azure. Os clientes herdados do Office 365 Message Encryption não obtêm os novos recursos sem seguir as diretrizes fornecidas acima. Leia o [FAQ](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) para obter mais detalhes sobre o que está incluído no novo versus herdados recursos do Office 365 Message Encryption. 
+A criptografia de mensagem do Office 365 permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Anunciamos novos recursos na criptografia de mensagens do Office que aproveitam os recursos de proteção na criptografia de informações do Azure. Esses novos recursos forneciam experiências aprimoradas do usuário final que facilitam o compartilhamento e a colaboração em mensagens protegidas com qualquer pessoa dentro ou fora da organização. Os novos recursos de criptografia de mensagens do Office possuem alguns requisitos de configuração. ConFira configurar os novos recursos de criptografia de mensagem do Office 365 criados sobre a proteção de informações do Azure. Os clientes da criptografia de mensagens herdadas do Office 365 não obtêm os novos recursos sem seguir a orientação de configuração fornecida acima. Leia as [perguntas frequentes](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) para obter mais detalhes sobre o que está incluído nos novos recursos do vs. legacy Office 365 Message Encryption. 
   
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extensions)
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -128,7 +128,7 @@ Além disso, você pode usar a Retenção local para:
   
 Confira mais informações em [Bloqueio In-loco e Retenção Local](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
-## <a name="in-place-ediscovery"></a>Descoberta eletrônica In-loco
+## <a name="in-place-ediscovery"></a>Descoberta Eletrônica In-loco
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 O Exchange Online permite que os clientes pesquisem o conteúdo de caixas de correio em uma organização usando uma interface baseada na Web. Os administradores e oficiais de segurança e conformidade autorizados a realizar pesquisa de Descoberta Eletrônica In-loco (por atribuição) podem pesquisar mensagens de email, anexos, compromissos de calendário, tarefas, contatos e outros itens. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Os resultados da pesquisa também incluirão itens da pasta Itens Excluídos se eles corresponderem à consulta da pesquisa.
@@ -156,7 +156,7 @@ Para obter mais informações, consulte [Descoberta Eletrônica In-loco](http://
 ## <a name="mail-flow-rules"></a>Regras do fluxo de email
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-Você pode usar as regras de fluxo de correio para procurar condições específicas em mensagens que passam pelo sua organização e agir neles. Regras de fluxo de correio permitem que você aplique políticas de mensagens para as mensagens de email, mensagens seguras, proteger sistemas de mensagens e evitar vazamento de informações.
+Você pode usar regras de fluxo de emails para procurar condições específicas em mensagens que passam pela sua organização e as agem. As regras de fluxo de emails permitem que você aplique políticas de mensagens a mensagens de email, mensagens seguras, proteger sistemas de mensagens e evitar vazamento de informações.
   
 Atualmente, várias organizações são obrigadas por lei, requisitos reguladores ou diretivas da empresa a aplicar diretivas de mensagens que limitam a interação entre destinatários e remetentes, dentro e fora da organização. Além de limitar as interações entre os indivíduos, grupos de departamentos dentro da organização e entidades fora da organização, algumas organizações estão sujeitas também aos seguintes requisitos de diretivas de mensagens:
   
@@ -171,9 +171,9 @@ Atualmente, várias organizações são obrigadas por lei, requisitos reguladore
 - Aplicar avisos de isenção às mensagens transmitidas pela organização
     
 > [!IMPORTANT]
-> Tipos de arquivo de anexo que requerem a instalação do iFilters de terceiros no servidor de email (por exemplo,. PDF do Adobe) não pode ser inspecionada usando regras de fluxo de email até após a instalação do iFilter apropriado. Para obter mais informações sobre os tipos de arquivo que são compatíveis com as regras de fluxo de correio, consulte [usar regras de fluxo de email para inspecionar anexos de mensagens no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271748). 
+> Os tipos de arquivo de anexo que exigem a instalação de iFilters de terceiros no servidor de email (como Adobe. pdf) não podem ser inspecionados usando regras de fluxo de emails até que um iFilter apropriado seja instalado. Para obter mais informações sobre tipos de arquivo que são compatíveis com as regras de fluxo de emails, consulte [usar regras de fluxo de emails para inspecionar anexos de mensagens no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271748). 
   
-Para obter mais informações sobre regras de fluxo de correio, consulte [Mail flow regras no Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488).
+Para obter mais informações sobre regras de fluxo de emails, consulte [Mail Flow Rules in Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488).
   
 ## <a name="data-loss-prevention"></a>Prevenção contra perda de dados
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -190,11 +190,11 @@ Você pode configurar políticas de DLP na interface de gerenciamento do Centro 
     
 - Incorpore seus próprios modelos personalizados de política de DLP e tipos de informações confidenciais.
     
-- Detectar informações confidenciais em anexos de mensagens, texto do corpo ou linhas de assunto e ajustar o nível de confiança em que atua Exchange Online.
+- Detectar informações confidenciais em anexos de mensagens, texto do corpo ou linhas de assunto e ajustar o nível de confiança em que o Exchange Online atua.
     
 - Detecte dados sensíveis por meio de impressão digital do documento. A Impressão Digital do Documento ajuda você a criar facilmente tipos de informações sensíveis personalizadas com base em formulários baseados em texto que você pode usar para definir regras de transporte e políticas DLP.
     
-- Adicione Dicas de Política, que podem ajudar a reduzir a perda de dados ao exibir um aviso para os usuários do Outlook 2016, Outlook 2013, Outlook Web App e OWA para Dispositivos, além de aumentar a efetividade das políticas permitindo a denúncia de falsos positivos.  
+- Adicione Dicas de Política, que podem ajudar a reduzir a perda de dados ao exibir um aviso para os usuários do Outlook 2016, Outlook 2013, Outlook Web App e OWA para Dispositivos, além de aumentar a efetividade das políticas permitindo a denúncia de falsos positivos. 
     
 - Revise os dados de incidentes em relatórios de DLP ou adicione seus próprios relatórios específicos usando uma ação de geração de relatórios de incidentes.
     
@@ -207,21 +207,21 @@ Você pode configurar o Exchange Online para registrar em diário cópias de ema
   
 Você pode gerenciar regras de diário usando o Centro de administração do Exchange ou o Windows PowerShell remoto. Você pode configurar o registro no diário por usuário e por lista de distribuição e optar por registrar em diário somente mensagens internas, somente externas ou ambas. As mensagens registradas em diário incluem não só a mensagem original, mas também informações sobre o remetente, destinatários, cópias e cópias ocultas.
   
-Para garantir uma solução de registro no diário de sucesso e confiável, você precisará concluir as seguintes tarefas:
+Para garantir uma solução de registro no diário bem-sucedida e confiável, é necessário concluir as seguintes tarefas:
   
-- Certifique-se de que o destino de registro no diário não é ser uma caixa de correio do Exchange Online.
+- Verifique se o destino do registro no diário não é uma caixa de correio do Exchange Online.
     
 - Crie no diretório de cliente um objeto de contato para o endereço de email de destino SMTP a ser usado para registro no diário.
     
 - Crie um segundo objeto de contato como uma caixa de correio de registro no diário alternativa para capturar todos os relatórios de registro no diário quando a caixa de correio de registro no diário principal estiver indisponível.
     
-- Manter gerenciamento adequado, redundância, disponibilidade, desempenho e os níveis de funcionalidade do destino SMTP para garantir a aceitação de email com êxito sempre.
+- Manter os níveis adequados de gerenciamento, redundância, disponibilidade, desempenho e funcionalidade do destino SMTP para garantir uma aceitação bem-sucedida de emails.
     
 - Forneça a respectiva interoperabilidade com o Exchange Server e o transporte do Exchange, incluindo formatos de mensagem, integração de informações de remetente/destinatário e conversão de conteúdo apropriada.
     
 Confira mais informações sobre o registro no diário em [Registro no diário](https://go.microsoft.com/fwlink/p/?LinkId=271750).
   
-## <a name="feature-availability"></a>Disponibilidade de recursos
+## <a name="feature-availability"></a>Disponibilidade do recurso
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).

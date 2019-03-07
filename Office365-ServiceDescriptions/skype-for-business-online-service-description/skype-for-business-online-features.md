@@ -1,7 +1,7 @@
 ---
 title: Recursos do Skype for Business Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: supotter
 ms.date: 10/9/2017
 ms.audience: ITPro
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Se você for um administrador, poderá encontrar instruções detalhadas para configurar os recursos do Skype for Business online em configurar o Skype for Business online.
-ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210254"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467428"
 ---
 # <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
 
 Se você for um administrador, poderá encontrar instruções detalhadas para configurar os recursos do Skype for Business online em [Configurar o Skype for Business online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
-## <a name="clients-for-skype-for-business-online"></a>Clientes para o Skype for Business Online
+## <a name="clients-for-skype-for-business-online"></a>Clients for Skype for Business Online
 <a name="BKMK_Clients"> </a>
 
 > [!IMPORTANT]
@@ -129,14 +129,14 @@ Você habilita a conferência discada usando o Office 365 como o provedor de con
   
 A audioconferência não está disponível em todos os países ou regiões. Confira a lista de países ou regiões nos quais é possível adquirir a audioconferência em [Onde você pode obter a audioconferência?](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
-## <a name="calling-plans-in-office-365"></a>Planos de chamadas no Office 365
+## <a name="calling-plans-in-office-365"></a>Planos de Chamadas no Office 365
 <a name="BKMK_CallingPlans"> </a>
 
 O Skype for Business inclui recursos de chamadas encontrados na PSTN (Rede Telefônica Pública Comutada). Os planos de chamadas são um complemento do [Sistema de telefonia no Office 365](https://technet.microsoft.com/en-us/library/mt631190.aspx) que permite pesquisar, adquirir e atribuir números de telefone a usuários na organização para que eles possam fazer e receber chamadas de pessoas de dentro e de fora da organização diretamente no Office 365. Os usuários atribuídos a números de telefone podem fazer chamadas de voz em todos os dispositivos do Skype for Business, como telefones VoIP, PCs e dispositivos móveis. Eles também podem controlar as chamadas usando recursos como ativar/desativar mudo, esperar/retomar, transferências de chamadas, encaminhamento de chamadas e, se necessário, chamadas de emergência. 
   
 Saiba mais sobre os planos de chamadas disponíveis em [Planos de chamadas do Office 365](https://products.office.com/en-us/skype-for-business/pstn-calling-plans). Para saber mais e configurar um Plano de chamadas, confira [O que são os planos de chamadas?](https://support.office.com/en-us/article/What-are-Calling-Plans-in-Office-365-3dc773b9-95e0-4448-b2f1-887c54022429?ui=en-US&amp;rs=en-US&amp;ad=US).
   
-## <a name="phone-system-in-office-365"></a>Sistema de telefonia no Office 365
+## <a name="phone-system-in-office-365"></a>Sistema de Telefonia no Office 365
 <a name="BKMK_PhoneSystem"> </a>
 
 Com o sistema de telefonia no Office 365, você usa o Skype for Business e as linhas telefônicas ou o sistema de telefonia atual da empresa para fazer e receber chamadas. Com ele, seus usuários também usam o Skype for Business para realizar tarefas básicas como fazer, receber, transferir e ativar ou silenciar chamadas, de praticamente qualquer lugar com acesso à Internet.

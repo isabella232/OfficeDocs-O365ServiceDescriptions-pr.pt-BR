@@ -1,7 +1,7 @@
 ---
 title: Ajuda e treinamento
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: O Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
-ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210284"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467078"
 ---
 # <a name="help-and-training"></a>Ajuda e treinamento
 
@@ -27,7 +27,7 @@ O Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
 ## <a name="online-help"></a>Ajuda online
 <a name="BKMK_Online_Help"> </a>
 
-Os artigos e vídeos de ajuda estão disponíveis em qualquer link de ajuda embutida no serviço, incluindo o ícone de ajuda na barra de navegação superior do portal do Office 365 e do centro de administração do Microsoft 365. Você também pode pesquisar em toda a ajuda do [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)Office 365 em. 
+Os artigos e vídeos de ajuda estão disponíveis em qualquer link de ajuda embutida no serviço, incluindo o ícone de ajuda na barra de navegação superior do portal do Office 365 e do centro de administração do Microsoft 365. Você também pode pesquisar toda a ajuda Office 365 em [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Treinamento
 <a name="BKMK_Online_Help"> </a>
@@ -114,7 +114,7 @@ Além da comunidade Office 365 e da ajuda on-line, o Office 365 inclui os seguin
     
     Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar o WeChat. Confira [Obter suporte técnico, de cobrança e de assinatura do Office 365 operado pela 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) e role até a parte inferior da página para obter um código QR. 
     
-## <a name="languages"></a>Idiomas
+## <a name="languages"></a>Languages
 <a name="BKMK_OtherSelfHelpResources"> </a>
 
 Os recursos de ajuda e treinamento estão disponíveis nos seguintes idiomas.
@@ -123,26 +123,26 @@ Os recursos de ajuda e treinamento estão disponíveis nos seguintes idiomas.
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |Árabe  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Búlgaro  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Chinês simplificado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
-|Chinês tradicional  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
+|Chinês simplificado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Chinês tradicional  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Tcheco  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Dinamarquês  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Holandês  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Estoniano  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Finlandês  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Francês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
-|Alemão  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
+|Francês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Alemão  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Grego  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Húngaro  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Italiano  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
-|Japonês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
+|Italiano  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Japonês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Coreano  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Letão  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Lituano  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Norueguês  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Polonês  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Português  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Português (Brasil)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim   <br/> |
+|Português (Brasil)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Romeno  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Russo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Sérvio  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |

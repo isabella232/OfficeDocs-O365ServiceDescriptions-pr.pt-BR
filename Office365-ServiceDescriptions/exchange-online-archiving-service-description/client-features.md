@@ -1,7 +1,7 @@
 ---
 title: Recursos do cliente no arquivamento do Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Arquivamento do Microsoft Exchange Online permite que os usuários se conectarem a suas caixas de correio de arquivo morto de uma variedade de dispositivos e plataformas. Todos os conectividade de rede para o arquivo do usuário ocorre pela Internet e conexões de rede virtual privada (VPN) não são necessárias. As organizações podem publicar um servidor de acesso para cliente local para permitir que os usuários acessem suas caixas de correio principal meio do Outlook Anywhere, sem exigir uma conexão VPN. Se o acesso VPN é necessária para acessar a caixa de correio principal do usuário localizada em um servidor local, esse requisito não o altere.
-ms.openlocfilehash: 90f384e990363294c8972a79e8b500d97ca4a839
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O arquivamento do Microsoft Exchange Online permite que os usuários se conectem às caixas de correio de arquivo morto de vários dispositivos e plataformas. Toda a conectividade da rede para o arquivamento do usuário ocorre na Internet e as conexões VPN (rede privada virtual) não são requeridas. As organizações podem publicar um servidor de Acesso para Cliente para permitir que os usuários acessem sua caixa de correio primária usando o Outlook em Qualquer Lugar, sem requerer uma conexão VPN. Se o acesso VPN for requerido para acessar a caixa de correio primária do usuário localizada em um servidor local, esse requisito não mudará.
+ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034756"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467178"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Recursos do cliente no arquivamento do Exchange Online
 
-Arquivamento do Microsoft Exchange Online permite que os usuários se conectarem a suas caixas de correio de arquivo morto de uma variedade de dispositivos e plataformas. Todos os conectividade de rede para o arquivo do usuário ocorre pela Internet e conexões de rede virtual privada (VPN) não são necessárias. As organizações podem publicar um servidor de acesso para cliente local para permitir que os usuários acessem suas caixas de correio principal meio do Outlook Anywhere, sem exigir uma conexão VPN. Se o acesso VPN é necessária para acessar a caixa de correio principal do usuário localizada em um servidor local, esse requisito não o altere.
+O arquivamento do Microsoft Exchange Online permite que os usuários se conectem às caixas de correio de arquivo morto de vários dispositivos e plataformas. Toda a conectividade da rede para o arquivamento do usuário ocorre na Internet e as conexões VPN (rede privada virtual) não são requeridas. As organizações podem publicar um servidor de Acesso para Cliente para permitir que os usuários acessem sua caixa de correio primária usando o Outlook em Qualquer Lugar, sem requerer uma conexão VPN. Se o acesso VPN for requerido para acessar a caixa de correio primária do usuário localizada em um servidor local, esse requisito não mudará.
   
 > [!IMPORTANT]
 > A Microsoft reserva-se o direito de bloquear ou acelerar as conexões de qualquer software do cliente que impacte negativamente na integridade do serviço do Arquivamento do Exchange Online. 
@@ -52,13 +52,13 @@ A tabela a seguir lista os clientes suportados pelo Arquivamento do Exchange Onl
 |Outlook 2007  <br/> |Suportado para usar com o Arquivamento do Exchange Online.<sup>1,2</sup> <br/> |
 |Outlook 2003  <br/> |Sem suporte  <br/> |
 |Outlook para Mac 2011  <br/> |Sem suporte  <br/> |
-|Outlook para Mac  <br/> |Suporte para uso com o arquivamento do Exchange Online. <sup>3</sup> <br/> |
+|Outlook para Mac  <br/> |Com suporte para uso com o arquivamento do Exchange Online. <sup>3</sup> <br/> |
 |Microsoft Office Entourage 2008 Web Services Edition  <br/> |Sem suporte  <br/> |
 |IMAP e POP  <br/> |Sem suporte  <br/> |
 |Exchange ActiveSync (dispositivos móveis)  <br/> |Sem suporte  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> outlook incluído com o Microsoft Office Standard não é suportado. Para saber mais, consulte [requisitos de licença para arquivo pessoal e políticas de retenção](https://go.microsoft.com/fwlink/?LinkId=389396). > <sup>2</sup> exige uma atualização para habilitar o suporte ao arquivamento. Os usuários do Outlook 2007 não conseguem exibir ou aplicar a retenção ou arquivar políticas para itens em suas caixas de correio de arquivo morto; eles devem contar com políticas fornecidos pelo administrador. Além disso, os usuários do Outlook 2007 não podem pesquisar a caixa de correio local e o arquivo morto ao mesmo tempo. > <sup>3</sup> , você não pode usar 2016 do Outlook para Mac ou o Outlook para Mac para mover ou copiar pastas, itens de calendário, contatos, tarefas ou anotações para o arquivo morto ou exibi-los na caixa de correio de arquivo morto, se os itens foram movidos anteriormente lá usando qualquer outra versão do Outlook ( como o Outlook 2016 para Windows). Para obter mais informações, consulte [Use seu arquivo morto online com 2016 do Outlook para Mac](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
+> <sup>1</sup> Não há suporte para o Outlook incluído com o Microsoft Office Standard. Para saber mais, confira [Requisitos de licença para políticas de retenção e arquivamento pessoal](https://go.microsoft.com/fwlink/?LinkId=389396). > <sup>2</sup> Requer atualização para ativar o suporte ao arquivamento. Os usuários do Outlook 2007 não podem exibir ou aplicar as políticas de retenção ou de arquivamento nos itens em suas caixas de correio de arquivamento; eles devem usar as políticas fornecidas pelo administrador. E mais, os usuários do Outlook 2007 não podem pesquisar a caixa de correio local e o arquivamento ao mesmo tempo. > <sup>3</sup> você não pode usar o Outlook 2016 para Mac ou o Outlook para Mac para mover ou copiar pastas, itens de calendário, contatos, tarefas ou anotações para o arquivo morto, ou exibi-las na caixa de correio de arquivo morto, se os itens foram movidos anteriormente usando qualquer outra versão do Outlook (como Outlook 2016 para Windows). Para obter mais informações, consulte [usar seu arquivo morto online com o Outlook 2016 para Mac](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
   
 ## <a name="outlook-web-app"></a>Outlook Web App
 

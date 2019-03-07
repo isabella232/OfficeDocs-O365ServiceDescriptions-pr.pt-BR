@@ -1,7 +1,7 @@
 ---
 title: Rastreamento de mensagens e relatórios
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,31 +12,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: O Microsoft proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
-ms.openlocfilehash: b52e1e33a8eec0694143c3dc277481fff79bf918
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
+ms.openlocfilehash: 9ad043776baf9c9a2e5ea8ca7cead0811ca66d3a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210204"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466818"
 ---
 # <a name="reporting-and-message-trace"></a>Rastreamento de mensagens e relatórios
 
-O Microsoft proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
+O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
   
-Está procurando informações sobre todos os recursos do EOP? Consulte a [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
+Você está procurando informações sobre todas as características EOP? Confira o [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
   
 ## <a name="microsoft-365-admin-center-reports"></a>Relatórios do centro de administração do Microsoft 365
 <a name="BKMK_office365admincenterreports"> </a>
 
-A página relatórios no centro de administração do Microsoft 365 fornece informações sobre o tráfego de mensagens, detecções de spam e malware e mensagens afetadas pelas regras de transporte do Exchange ou políticas de prevenção de perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP oferecem uma experiência de relatório interativa para administradores do EOP. Esses relatórios fornecem dados de resumo e a capacidade de detalhar detalhes sobre mensagens individuais.
+A página relatórios no centro de administração do Microsoft 365 fornece informações sobre o tráfego de mensagens, detecções de spam e malware e mensagens afetadas pelas regras de transporte do Exchange ou políticas de prevenção de perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do EOP. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
   
 Para informações mais detalhadas sobre esses relatórios, confira [Usar relatórios de proteção de email no Office 365 para exibir dados sobre detecções de malware, spam e de regra](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
-## <a name="excel-download-application-reports"></a>Relatórios de aplicativo de download do Excel
+## <a name="excel-download-application-reports"></a>Excel download application reports
 <a name="BKMK_exceldownloadapplicationreports"> </a>
 
-Relatórios de proteção de email também estão disponíveis na pasta de trabalho de relatórios do Excel 2013, que fornece relatórios de resumo com recursos de aprofundamento. No enTanto, recomendamos o uso dos relatórios do centro de administração do Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está planejada para ser preterida no futuro. 
+Relatórios de proteção email também estão disponíveis na pasta de trabalho de relatórios do Excel 2013, que fornece relatórios resumidos com recursos de busca detalhada. No enTanto, recomendamos o uso dos relatórios do centro de administração do Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. 
   
 Para mais informações gerais e links para baixar e instalar a pasta de trabalho, confira [Mail Protection Reports for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para saber mais sobre como usar a pasta de trabalho, confira [Relatórios de Proteção de Email usando a Pasta de Trabalho de Relatório do Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211).
   

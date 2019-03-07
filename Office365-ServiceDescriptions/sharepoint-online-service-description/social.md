@@ -1,7 +1,7 @@
 ---
 title: Social
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
-description: Microsoft SharePoint Online é uma coleção de ferramentas baseadas na Web e tecnologias que ajudam a sua organização armazenar, compartilhar e gerenciar informações digitais. Esse serviço hospedado baseado no Microsoft SharePoint Server 2013, é ideal para trabalhando em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes recursos sociais permitir que as pessoas funcionam em conjunto de formas que sejam mais eficientes para eles. Como? Fornecendo as ferramentas de colaboração ótima que qualquer pessoa pode usar para compartilhar ideias, encontre pessoas e especialização e informações de negócios local.
-ms.openlocfilehash: 3e964ef776b8df36700964463eaeeb2557288ce6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O Microsoft SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes características sociais permitem que as pessoas trabalhem juntas das formas mais eficientes para elas. Como? Fornecendo excelentes ferramentas de colaboração que todos podem usar para compartilhar ideias, encontrar pessoas e especialização, além de informações comerciais do local.
+ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034779"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466458"
 ---
 # <a name="social"></a>Social
 
-Microsoft SharePoint Online é uma coleção de ferramentas baseadas na Web e tecnologias que ajudam a sua organização armazenar, compartilhar e gerenciar informações digitais. Esse serviço hospedado baseado no Microsoft SharePoint Server 2013, é ideal para trabalhando em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes recursos sociais permitir que as pessoas funcionam em conjunto de formas que sejam mais eficientes para eles. Como? Fornecendo as ferramentas de colaboração ótima que qualquer pessoa pode usar para compartilhar ideias, encontre pessoas e especialização e informações de negócios local. 
+O Microsoft SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes características sociais permitem que as pessoas trabalhem juntas das formas mais eficientes para elas. Como? Fornecendo excelentes ferramentas de colaboração que todos podem usar para compartilhar ideias, encontrar pessoas e especialização, além de informações comerciais do local. 
   
-## <a name="personal-blogs"></a>Blogs de pessoal
+## <a name="personal-blogs"></a>Blogs pessoais
 <a name="bkmk_Blogs"> </a>
 
 Os blogs podem permitir que uma organização rapidamente compartilhe informações entre funcionários, parceiros ou clientes. As pessoas podem adicionar insight a um assunto difícil, fornecer inspiração e orientação ou explicar uma nova diretriz ou novo procedimento.
@@ -34,12 +34,12 @@ Os blogs podem permitir que uma organização rapidamente compartilhe informaç�
 
 Uma comunidade online é um local onde as ideias são discutidas e compartilhadas. Ela promove comunicação aberta para fomentar discussões entre usuários que compartilham seus conhecimentos e aprendem com os outros. Saiba mais sobre a [criação de uma comunidade](https://go.microsoft.com/fwlink/p/?LinkId=271061).
   
-## <a name="company-feed"></a>Feed de empresa
+## <a name="company-feed"></a>Company Feed
 <a name="bkmk_CompanyFeed"> </a>
 
 O feed de empresa é um news feed público da organização. Todas as postagens aparecem para a empresa, incluindo as criadas por pessoas que os usuários podem não estar seguindo. Saiba mais sobre o [Feed da Empresa](https://go.microsoft.com/fwlink/p/?LinkId=271062).
   
-## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>Feed de site (site de equipe clássico usando social do SharePoint)
+## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>Feed de site (site de equipe clássico usando o SharePoint social)
 <a name="bkmk_SiteFeed"> </a>
 
 Um feed de site, similar a um news feed, é um local no site de equipe para postar informações e dar uma resposta para outras postagens. Saiba mais sobre a [postagem de algo para um pequeno grupo de pessoas](https://go.microsoft.com/fwlink/p/?LinkId=271071).

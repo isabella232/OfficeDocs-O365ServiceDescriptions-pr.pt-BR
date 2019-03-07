@@ -1,7 +1,7 @@
 ---
 title: Destinatários
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
-ms.openlocfilehash: 32f792028f9e0d15b97048861ddc77ac59151b0f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034803"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467408"
 ---
-# <a name="recipients"></a>Destinatários
+# <a name="recipients"></a>Recipients
 
 Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
   
@@ -37,7 +37,7 @@ A quantidade de armazenamento da caixa de correio disponível para um usuário e
   
 Para mais informações, consulte as seções "Limites de armazenamento da caixa de correio" e "Alertas de capacidade" no tópico [Limites do Exchange Online](exchange-online-limits.md).
   
-### <a name="mailtips"></a>MailTips
+### <a name="mailtips"></a>Dicas
 
 Dicas de Email são mensagens informativas e automáticas que aparecem acima da linha Para: enquanto os usuários estão redigindo ou endereçando uma mensagem. Elas são projetadas para ajudar a prevenir entregas acidentais, violações de políticas ou NDRs desnecessárias. Por exemplo, as Dicas de Email podem gerar um alerta caso os remetentes tentem enviar mensagens para grupos excessivamente grandes, para grupos com destinatários externos ou para um grupo de distribuição moderado ou restrito. Para saber mais, confira [Dicas de Email](https://go.microsoft.com/fwlink/p/?LinkId=401472).
   
@@ -160,7 +160,7 @@ Os usuários podem compartilhar seu calendário pessoal de duas maneiras:
     
 Para saber mais sobre o compartilhamento federado, confira [Compartilhando no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
-### <a name="outlook-2010-room-finder"></a>Localizador de Salas do Outlook 2010
+### <a name="outlook-2010-room-finder"></a>Localizador de Sala do Outlook 2010
 
 O Exchange Online suporta o recurso do Localizador de Salas do Outlook 2010, que organiza as salas em listas (por exemplo, uma lista chamada "Salas do prédio 5") para facilitar a localização de uma sala próxima, ao agendar uma reunião. Para aparecer na lista de salas, um grupo de distribuição deve ser especialmente marcado, usando dois métodos: 
   

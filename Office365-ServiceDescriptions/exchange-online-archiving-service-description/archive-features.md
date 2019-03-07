@@ -1,7 +1,7 @@
 ---
 title: Recursos de arquivamento no Arquivamento do Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: As seções a seguir descrevem os recursos de arquivamento do arquivamento do Microsoft Exchange Online.
-ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215346"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467198"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Recursos de arquivamento no Arquivamento do Exchange Online
 
@@ -37,7 +37,7 @@ Os administradores podem usar o Centro de administração do Exchange (EAC) ou o
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Mover mensagens para o arquivamento do Exchange Online
 
-Os usuários podem arrastar e soltar mensagens de arquivos. pst para o arquivamento, para facilitar o acesso online. Os usuários também podem mover itens de email da caixa de correio principal para a caixa de correio de arquivo morto automaticamente, usando políticas de arquivamento para reduzir o tamanho e aprimorar o desempenho da caixa de correio principal. Embora esse comportamento é diferente do Exchange Hosted Archive, que criará uma cópia secundária de cada mensagem no arquivo morto, requisitos de retenção podem ser alcançados em um cenário. 
+Os usuários podem arrastar e soltar as mensagens dos arquivos .pst no arquivamento para terem um acesso online fácil. Os usuários também podem mover automaticamente os itens de email da caixa de correio primária para a caixa de correio de arquivamento, usando as Políticas de arquivamento, para reduzir o tamanho e melhorar o desempenho da caixa de correio primária. Embora este comportamento seja diferente do Arquivamento hospedado do Exchange, que criará uma cópia secundária de cada mensagem no arquivamento, os requisitos de retenção poderão ser conseguidos em qualquer situação. 
   
 ### <a name="import-data-to-the-archive"></a>Importar dados para o arquivamento
 
@@ -54,7 +54,7 @@ Os usuários podem importar dados para o arquivamento das seguintes maneiras:
 > [!NOTE]
 > Os administradores também podem usar serviço de Importação do Office 365 para importar arquivos .pst para caixas de correio de arquivo morto baseadas na nuvem dos usuários. Confira mais informações em [Usar o carregamento da rede para importar arquivos PST para o Office 365](https://go.microsoft.com/fwlink/p/?linkid=823074). 
   
-## <a name="deleted-item-recovery"></a>Recuperação do item excluído
+## <a name="deleted-item-recovery"></a>Recuperação de itens excluídos
 
 Os usuários poderão restaurar os itens que eles excluíram de qualquer pasta de e-mail em seu arquivo. Quando um item é excluído, ele é mantido na pasta Itens excluídos do arquivo. Ele permanecerá lá até ser removido manualmente pelo usuário ou removido automaticamente pelas políticas de retenção.
   
@@ -74,7 +74,7 @@ Quando os administradores excluem os usuários do Exchange Server local, os arqu
   
 ## <a name="mailbox-service-redundancy"></a>Redundância de serviço de caixa de correio
 
-Caixas de correio de arquivamento no arquivamento do Exchange Online são replicadas para várias cópias de banco de dados, em centros de dados geograficamente dispersos da Microsoft, para fornecer a capacidade de restauração de dados no caso de falha de infraestrutura de mensagens. Para falhas em grande escala, gerenciamento de continuidade de negócios é iniciado. 
+As caixas de correio de arquivamento no Arquivamento do Exchange Online são replicadas em várias cópias do banco de dados, em centros de dados da Microsoft geograficamente dispersos, para fornecer a capacidade de restauração dos dados no caso de falha da infraestrutura de mensagens. Para as falhas em grande escala, o gerenciamento de continuidade de negócios é iniciado. 
   
 ## <a name="feature-availability"></a>Disponibilidade do recurso
 

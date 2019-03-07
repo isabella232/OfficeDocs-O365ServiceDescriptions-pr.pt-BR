@@ -1,7 +1,7 @@
 ---
 title: Sistema de rede
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
-description: Microsoft Office 365 suporta os seguintes recursos de redes.
-ms.openlocfilehash: 8a9a8d8b5276f4f4578fec625849410268f855ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O Microsoft Office 365 oferece suporte aos recursos de rede a seguir.
+ms.openlocfilehash: 2245e2e60333d0f1eb85e1243c49c0a04a4f62ec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034774"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467898"
 ---
-# <a name="networking"></a>Rede
+# <a name="networking"></a>Sistema de rede
 
-Microsoft Office 365 suporta os seguintes recursos de redes.
+O Microsoft Office 365 oferece suporte aos recursos de rede a seguir.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Portas, protocolos e endereços IP
 
@@ -43,7 +43,7 @@ Todas as conexões com o Office 365 são realizadas pela Internet pública ou po
   
 Para saber mais sobre o Azure ExpressRoute, confira [Azure ExpressRoute para Office 365.](https://aka.ms/expressrouteoffice365)
   
-### <a name="wan-accelerators"></a>Aceleradores de WAN
+### <a name="wan-accelerators"></a>Aceleradores da WAN
 
 A Microsoft não fornece suporte para dispositivos de aceleração de WAN e cache com o Office 365. Se optar por usar um controlador de otimização de WAN para aumentar o desempenho em condições de alta latência ou baixa largura de banda, você deve desabilitá-lo enquanto soluciona problemas de solicitações de serviço com a Microsoft e solicitar suporte ao fornecedor do dispositivo. Para saber mais, confira o artigo [Usando dispositivos de aceleração de WAN e cache com o Office 365](https://go.microsoft.com/fwlink/p/?LinkID=282468).
   
@@ -63,7 +63,7 @@ Para manter a confidencialidade e a integridade dos dados do cliente, a Microsof
     
 Para saber mais, visite a [Central de Confiabilidade do Office 365](https://go.microsoft.com/fwlink/p/?LinkID=282621). 
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
 Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   

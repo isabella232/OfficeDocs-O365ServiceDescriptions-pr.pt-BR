@@ -1,7 +1,7 @@
 ---
 title: Fluxo de e-mails
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: 'Hospedamos as caixas de correio e cuidamos do fluxo de emails da maioria das organizações que usam o Office 365. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui. '
-ms.openlocfilehash: 3decc04fb4c426e161541c1d24480cc0344b0a00
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Para a maioria das organizações que usam o Office 365, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui.
+ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034855"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467288"
 ---
 # <a name="mail-flow"></a>Fluxo de e-mails
 
-Hospedamos as caixas de correio e cuidamos do fluxo de emails da maioria das organizações que usam o Office 365. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui.  
+Para a maioria das organizações que usam o Office 365, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui. 
   
 ## <a name="custom-routing-of-outbound-email"></a>Roteamento personalizado de email de saída
 
@@ -35,7 +35,7 @@ Saiba mais em [Set up connectors to route mail between Office 365 and your own e
 > [!IMPORTANT]
 > O Exchange Online entrega emails fluindo para dentro ou para fora da organização. 
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Mensagens seguras com um parceiro confiável
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
 Como cliente do Exchange Online, você configura um fluxo de emails seguro com um parceiro de confiança usando os conectores do Office 365. O Office 365 dá suporte à comunicação segura por meio de TLS (Transport Layer Security), e você cria um conector para impor criptografia por meio de TLS. O [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) é um protocolo criptográfico que oferece segurança para comunicações pela Internet. Usando conectores, você configura o TLS forçado tanto de entrada quanto de saída usando certificados autoassinados ou certificados validados pela AC (autoridade de certificação). Você também aplica outras restrições de segurança, como especificar nomes de domínio ou intervalos de endereços IP, dos quais a organização parceira envia emails. 
   
@@ -44,7 +44,7 @@ Saiba mais em [Set up connectors for secure mail flow with a partner organizatio
 > [!IMPORTANT]
 > Pode ser necessário um certificado validado por CA. 
   
-## <a name="conditional-mail-routing"></a>Roteamento de email condicional
+## <a name="conditional-mail-routing"></a>Conditional mail routing
 
 É possível enviar mala direta para sites específicos usando conectores e regras de transporte. Com o roteamento baseado em critérios, você escolhe um conector com base em condições específicas.
   
@@ -95,7 +95,7 @@ Saiba mais sobre os requisitos de implantação híbrida em [Pré-requisitos da 
 > [!IMPORTANT]
 > Em algumas configurações híbrida, pode ser preciso adquirir as licenças da Proteção do Exchange Online para as suas caixas de correio local. 
   
-## <a name="feature-availability"></a>Disponibilidade de recursos
+## <a name="feature-availability"></a>Disponibilidade do recurso
 
 Confira a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais em [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
   

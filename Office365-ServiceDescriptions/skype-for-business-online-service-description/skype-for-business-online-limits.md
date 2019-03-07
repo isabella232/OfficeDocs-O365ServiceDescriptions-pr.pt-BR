@@ -1,7 +1,7 @@
 ---
 title: Limites do Skype for Business Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'Os limites no Skype para Business Online se encaixam nas seguintes categorias:'
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+description: 'Os limites no Skype for Business online caem nas seguintes categorias:'
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213888"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466957"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites do Skype for Business Online
 
-Os limites no Skype para Business Online se encaixam nas seguintes categorias:
+Os limites no Skype for Business online caem nas seguintes categorias:
   
 - [Limites ponto a ponto](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -42,14 +42,14 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
 
 - **Limite de transferência de arquivo** O tamanho máximo de um arquivo que pode ser transferido em uma conversa de IM do Skype for Business online. Para saber quais tipos de arquivos não podem ser transferidos, confira o artigo da Suporte da Microsoft sobre [como enviar e receber arquivos ou anexos no Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
-- **Limite de conversas abertas com guia** O número máximo de guias de conversa que o usuário do Skype for Business pode abrir ao mesmo tempo. 
+- **Limite de conversas abertas com guias** O número máximo de guias de conversas que um usuário do Skype for Business pode ter abertas de uma só vez. 
     
 ### <a name="peer-to-peer-limits-across-office-365-options"></a>Limites ponto a ponto nas opções do Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Limite de transferência de arquivo  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limite  <br/> |Não aplicável  <br/> |
+|Limite de transferência de arquivo  <br/> |Sem limite  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Não aplicável  <br/> |
 |Limite de conversas<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Não aplicável  <br/> |
    
@@ -61,7 +61,7 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online Plano autônomo 1** <br/> |**Skype for Business online Plano autônomo 2** <br/> |
-|Limite de transferência de arquivo  <br/> |Sem limites  <br/> |Sem limite  <br/> |Sem limite  <br/> |
+|Limite de transferência de arquivo  <br/> |Sem limite  <br/> |Sem limites  <br/> |Sem limite  <br/> |
 |Limite de conversas<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
@@ -119,7 +119,7 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
     
 - **Período de expiração da reunião** A quantidade de tempo durante a qual os usuários podem acessar a reunião após o término da reunião. 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Limites de retenção de reunião nas opções do Office 365 e planos autônomos
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Limites de retenção de reunião nas opções do Office 365 e nos planos autônomos
 
 > [!NOTE]
 > Cada pessoa pode ter no máximo 1000 conferências no banco de dados a qualquer momento. 
@@ -127,10 +127,10 @@ Os limites no Skype para Business Online se encaixam nas seguintes categorias:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Tipo de reunião** <br/> |**Descrição** <br/> 
-|Reunião de ocorrência única| Reunião será acessível pelo menos até 14 dias após o horário agendado, ou a última ativação da reunião ou última atualização de reunião, o que for mais recente.
-|Reunião recorrente, com data de término| Reunião será acessível pelo menos até 14 dias após a hora de término agendada da última ocorrência de reunião, ou a última ativação da reunião ou última atualização de reunião, o que for mais recente.
-|Reunião recorrente sem data de término| Reunião sempre será acessível, fornecida há novas associações de conferência (ativações) ou o agendamento de atualizações pelo menos uma vez por ano
-|     Reunir Agora|Reunião será acessível para pelo menos 8 horas.
+|Reunião única| A reunião estará acessível pelo menos até 14 dias após o horário agendado ou a ativação da última reunião, ou a última atualização de reunião, o que for mais recente.
+|Reunião recorrente, com data de término| A reunião estará acessível pelo menos até 14 dias após a hora de término agendada da última ocorrência de reunião, ou a última ativação de reunião ou a última atualização de reunião, o que for mais recente.
+|Reunião recorrente sem data de término| A reunião estará sempre acessível, contanto que existam novas junções de conferência (ativações) ou atualizações de agendamento pelo menos uma vez por ano
+|Reunir Agora|A reunião estará acessível por pelo menos 8 horas.
 
 
   

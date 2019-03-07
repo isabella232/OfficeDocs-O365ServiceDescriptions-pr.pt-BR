@@ -1,7 +1,7 @@
 ---
 title: Recursos do Pacote do Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na web que o ajudarão a colaborar e comunicação segura entre muitos dispositivos e vários serviços do Office 365. Esses recursos ajudam a fazer novas conexões dentro da sua organização pela criação de conteúdo digital unificada, armazenamento e gerenciamento com as ferramentas sociais para descobrir e compartilhar informações entre usuários.
-ms.openlocfilehash: cdc7803a1373f5442e768dc5c8a6b26dff9d5ab8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
+ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034759"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466938"
 ---
 # <a name="office-365-suite-features"></a>Recursos do Pacote do Office 365
 
-Os recursos listados neste tópico são uma coleção de ferramentas baseadas na web que o ajudarão a colaborar e comunicação segura entre muitos dispositivos e vários serviços do Office 365. Esses recursos ajudam a fazer novas conexões dentro da sua organização pela criação de conteúdo digital unificada, armazenamento e gerenciamento com as ferramentas sociais para descobrir e compartilhar informações entre usuários.
+Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
   
 ## <a name="microsoft-bookings"></a>Microsoft Bookings
 <a name="BKMK_Bookings"> </a>
@@ -39,12 +39,12 @@ O Microsoft Flow permite que você automatize fluxos de trabalho entre aplicativ
 ## <a name="microsoft-forms"></a>Microsoft Forms
 <a name="BKMK_Forms"> </a>
 
-Microsoft Forms é uma nova parte do Office 365 educação que permite a criação de modo rápido e fácil testes personalizados, pesquisas, questionários, registros e muito mais. Quando você cria um formulário ou teste, você pode convidar outras pessoas para responder a ele usando qualquer navegador da web, mesmo em dispositivos móveis. Como os resultados são enviados, você pode usar o analytics interno para avaliar as respostas. Dados de formulários, como dos resultados do teste, podem ser facilmente exportados para o Excel para análise adicional ou classificação. Para saber mais, consulte [o que é o Microsoft Forms?](https://support.office.com/en-us/forms).
+O Microsoft Forms é uma nova parte do Office 365 Education que permite que você crie, de forma rápida e fácil, testes, pesquisas, questionários, registros e muito mais. Ao criar um teste ou formulário, você pode convidar outras pessoas para respondê-lo usando qualquer navegador da Web, mesmo em dispositivos móveis. Conforme os resultados são enviados, você pode usar as análises internas para avaliar as respostas. Dados de formulários, como resultados do teste, podem ser facilmente exportados para o Excel para análise ou gradação adicional. Para saber mais, confira [o que é o Microsoft Forms?](https://support.office.com/en-us/forms).
   
 ## <a name="microsoft-graph-api"></a>API do Microsoft Graph
 <a name="BKMK_Graph"> </a>
 
-Use a API do Microsoft Graph crie rapidamente aplicativos que se conectam a uma ampla gama de recursos, relacionamentos e inteligência de dados, tudo isso por meio de um único ponto de extremidade: https://graph.microsoft.com. Por exemplo, você pode criar painéis personalizados, fluxos de trabalho e aplicativos que recuperem dados para sua organização. Para obter mais informações, consulte a [documentação do Microsoft Graph](https://go.microsoft.com/fwlink/?linkid=849595).
+Use a API do Microsoft Graph para criar rapidamente aplicativos que se conectam a uma variedade de recursos, relações e inteligência, tudo por um único https://graph.microsoft.componto de extremidade:. Por exemplo, você pode criar painéis, fluxos de trabalho e aplicativos personalizados que recuperam dados da sua organização. Para obter mais informações, consulte a [documentação do Microsoft Graph](https://go.microsoft.com/fwlink/?linkid=849595).
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
@@ -69,12 +69,12 @@ O Microsoft StaffHub é um aplicativo baseado em nuvem que permite aos funcioná
 ## <a name="microsoft-stream"></a>Microsoft Stream
 <a name="BKMK_Stream"> </a>
 
-Microsoft Stream é um serviço de vídeo de empresa que pessoas da sua organização podem usar para carregar, exibir e compartilhar vídeos com segurança. Você pode compartilhar as gravações de classes, reuniões, apresentações, sessões de treinamento ou outros vídeos que ajudam a colaboração da equipe. Microsoft Stream também facilita compartilhar comentários em um vídeo e marca códigos de tempo em comentários e descrições para se referir a pontos específicos de um vídeo.
+O Microsoft Stream é um serviço de vídeo corporativo que as pessoas em sua organização podem usar para carregar, exibir e compartilhar vídeos com segurança. Você pode compartilhar gravações de aulas, reuniões, apresentações, sessões de treinamento ou outros vídeos que auxiliam a colaboração da sua equipe. O Microsoft Stream também facilita o compartilhamento de comentários em um vídeo e códigos de tempo de marca em comentários e descrições para fazer referência a pontos específicos de um vídeo.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 <a name="BKMK_Sway"> </a>
 
-Microsoft Sway é um aplicativo profissional storytelling digital for business que ajuda você e seus colegas express ideias usando uma tela de desenho interativa, baseado na web. Mecanismo de design internas do Microsoft Sway ajuda você a produzir professional, visualmente atraentes relatórios, apresentações e muito mais, sem a necessidade de formatação extensa ou treinamento adicional. Você também poderá modificar os resultados para obter o aparência e comportamento exclusivo desejado. Microsoft Sway torna a criação de sua aparência ótima em qualquer navegador em qualquer tela e podem ser compartilhado com colegas e clientes, simplesmente enviando um link. Ajuda do Microsoft Sway você a encontrar e reunir todos os tipos de conteúdo sem deixar o aplicativo, portanto, você pode arrastar e soltar direito em suas imagens, texto, vídeos e gráficos a sua tela. Para saber mais, consulte [Sway](https://sway.com). Microsoft Sway ainda não está disponível no [Office 365 Alemanha](office-365-germany.md).
+O Microsoft Sway é um aplicativo de storytelling digital profissional para empresas que ajuda você e seus colegas a expressar ideias usando uma tela interativa baseada na Web. O mecanismo de design interno do Microsoft Sway ajuda você a produzir relatórios, apresentações e muito mais atraentes, sem a necessidade de formatação extensiva ou de treinamento adicional. Você também pode modificar os resultados para obter a aparência única desejada. O Microsoft Sway torna sua criação com uma ótima aparência em qualquer navegador em qualquer tela e pode ser compartilhada com colegas e clientes simplesmente enviando um link. O Microsoft Sway ajuda você a localizar e reunir todos os tipos de conteúdo sem sair do aplicativo, para que você possa arrastar e soltar imagens, texto, vídeos e gráficos diretamente para a tela. Para saber mais, confira [Sway](https://sway.com). O Microsoft Sway ainda não está disponível no [Office 365 Alemanha](office-365-germany.md).
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
@@ -99,7 +99,7 @@ O Vídeo do Office 365 é um destino seguro para toda a empresa, no qual você p
 ## <a name="onenote-class-notebook"></a>Bloco de Anotações de Classe
 <a name="BKMK_Video"> </a>
 
-Bloco de anotações de classe faz parte do OneNote e está disponível para educação do Office 365 e Office 365 E5 educação. Cada bloco de anotações inclui uma biblioteca de conteúdo para professores compartilhar o conteúdo do curso, um espaço de colaboração onde professores e alunos podem trabalhar juntos e um bloco de anotações privado para cada aluno. Depois que um bloco de anotações de classe é criado, professores e alunos podem usar o aplicativo do OneNote para acessá-lo a partir de qualquer dispositivo.
+O bloco de anotações de classe faz parte do OneNote e está disponível para educação do Office 365 e Office 365 E5 Education. Cada bloco de anotações inclui uma biblioteca de conteúdo para que os professores compartilhem o conteúdo do curso, um espaço de colaboração onde professores e alunos podem trabalhar juntos e um bloco de anotações privado para cada aluno. Depois que um bloco de anotações de classe for criado, os professores e alunos poderão usar o aplicativo OneNote para acessá-lo de qualquer dispositivo.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 <a name="BKMK_Video"> </a>

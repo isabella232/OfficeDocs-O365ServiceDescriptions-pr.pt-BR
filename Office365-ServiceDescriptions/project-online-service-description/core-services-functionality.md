@@ -1,7 +1,7 @@
 ---
 title: Principais recursos de serviços
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 12/21/2016
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Os seguintes recursos de funcionalidade core services estão disponíveis no Project Online.
-ms.openlocfilehash: b244c29c0858b1334dee7cc6841c12a2e4b1a45c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Os seguintes recursos de funcionalidade de serviços principais estão disponíveis no Project online.
+ms.openlocfilehash: 0350da9aefb51341ea3c1e871840a72bbe96ab05
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034781"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468048"
 ---
 # <a name="core-services-functionality"></a>Principais recursos de serviços
 
-Os seguintes recursos de funcionalidade core services estão disponíveis no Project Online.
+Os seguintes recursos de funcionalidade de serviços principais estão disponíveis no Project online.
   
 Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição de serviço do Project Online](project-online-service-description.md).
   

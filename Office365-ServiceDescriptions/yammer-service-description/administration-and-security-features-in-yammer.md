@@ -1,7 +1,7 @@
 ---
 title: Recursos de Segurança e Administração no Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,20 +13,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Os recursos de segurança e administração a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 78aa673b4bb5da2bd5aca57bba6e532f9521a2bb
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034924"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466738"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Recursos de Segurança e Administração no Yammer
 
 Os recursos de segurança e administração a seguir estão disponíveis no Yammer.
   
-Para obter explicações detalhadas e procedimentos, consulte o [Centro de administração no Yammer](https://go.microsoft.com/fwlink/?LinkId=869688).
+Para obter explicações e procedimentos detalhados, consulte o [centro de administração do Yammer](https://go.microsoft.com/fwlink/?LinkId=869688).
   
-## <a name="custom-network-branding"></a>Atribuição de Marca Personalizada para a Rede
+## <a name="custom-network-branding"></a>Custom Network Branding
 <a name="bkmk_CustomNetworkBranding"> </a>
 
 Traga o visual e a essência da sua empresa para a sua rede Yammer. Os administradores da rede podem carregar uma imagem e logo da empresa para criar um cabeçalho personalizado.
@@ -36,17 +36,17 @@ Traga o visual e a essência da sua empresa para a sua rede Yammer. Os administr
 
 Gerencie facilmente o acesso à rede da sua empresa. O Yammer permite que você faça a sincronização com os diretórios que você já utiliza, adicione ou remova os usuários - individualmente ou em massa - convide pessoas para a sua rede e nomeie outros administradores.
   
-## <a name="admin-private-content-mode"></a>Modo de conteúdo particular de administrador
+## <a name="admin-private-content-mode"></a>Admin Private Content Mode
 <a name="bkmk_AdminPrivate"> </a>
 
 Um administrador verificado de uma rede do Yammer pode exibir mensagens particulares e grupos em toda a rede. Os administradores verificados podem ver o conteúdo particular somente ao conceder temporariamente a si próprios acesso a conteúdo particular para investigar problemas. Para saber mais, confira [Monitorar conteúdo particular no Yammer (administradores verificados)](https://go.microsoft.com/fwlink/?LinkId=627479).
   
-## <a name="single-identity"></a>Identidade Única
+## <a name="single-identity"></a>Single Identity
 <a name="bkmk_o365_user_mapping"> </a>
 
 Ao escolher o Yammer como a experiência social padrão no Office 365 para a sua organização, os funcionários são mapeados para as contas deles existentes no Yammer. Isto significa que não será necessário entrar novamente quando estiverem navegando para o Yammer no Office 365. Quando os funcionários acessam o Yammer, sendo do Office 365, através de um aplicativo móvel do Yammer, ou ao navegar no site Yammer.com, eles estarão automaticamente conectados de acordo com as credenciais existentes da organização.
   
-## <a name="directory-synchronization"></a>Sincronização de Diretório
+## <a name="directory-synchronization"></a>Directory Synchronization
 <a name="bkmk_DirectorySynchronization"> </a>
 
 Padronize os dados de perfil do usuário em vários sistemas. As informações de perfil, exclusões e inclusões de usuários podem ser automaticamente sincronizadas a partir de um diretório existente na empresa.
@@ -77,9 +77,9 @@ Obtenha informações da análise da rede para saber como os funcionários estã
 ## <a name="company-resources"></a>Recursos da Empresa
 <a name="bkmk_CompanyResources"> </a>
 
-Adicione arquivos importantes e links para fornecer aos funcionários acesso rápido aos recursos da empresa como políticas de RH, informações ou calendários de férias de benefícios.
+Adicione arquivos e links importantes para dar aos funcionários acesso rápido aos recursos da empresa, como políticas de RH, informações de benefícios ou calendários de feriados.
   
-## <a name="password-policies"></a>Políticas de Senha
+## <a name="password-policies"></a>Políticas de senha
 <a name="bkmk_PasswordPolicies"> </a>
 
 Defina os requisitos de tamanho e complexidade das senhas do funcionário e com que frequência elas devem ser alteradas.

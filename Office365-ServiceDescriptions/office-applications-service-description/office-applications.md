@@ -1,7 +1,7 @@
 ---
 title: Aplicativos do Office
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
-ms.openlocfilehash: 01f5613e53e9fbb66853febd4e61c6ff94c10b05
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034789"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467688"
 ---
 # <a name="office-applications"></a>Aplicativos do Office
 
@@ -71,12 +71,12 @@ O Skype for Business é um cliente de mensagens instantâneas e aplicativo de co
 
 Microsoft InfoPath é um programa que permite projetar, distribuir, preencher e enviar formulários eletrônicos. Você pode optar por adicionar o InfoPath Form Web Part a um site do SharePoint Online. Saiba mais sobre [InfoPath Form Web Part](http://go.microsoft.com/fwlink/p/?LinkId=271687).
   
-## <a name="windows-8-apps"></a>Aplicativos do Windows 8
+## <a name="windows-8-apps"></a>Windows 8 Apps
 <a name="bkmkWin8Apps"> </a>
 
 Alguns aplicativos do Office, como Excel e Word, têm ícones fixos na tela Iniciar do Windows 8 e dos dispositivos Windows RT por padrão. Saiba mais sobre [Localizar e iniciar aplicativos do Office no Windows 8 ou Windows 8 RT](http://go.microsoft.com/fwlink/p/?LinkId=271688).
   
-## <a name="office-mobile-for-ipadiphone"></a>Office Mobile para iPad/iPhone
+## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 <a name="BKMK_Office_for_iPad"> </a>
 
 O Office Mobile para iPad e iPhone inclui o Word, o Excel e o PowerPoint para iPhone/iPad. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis do Office 365, você pode criar e editar documentos no seu iPad ou iPhone. Para saber como os aplicativos do Office para iPad/iPhone se comparam com seus equivalentes da área de trabalho nas plataformas Mac e Windows, consulte:
@@ -87,21 +87,21 @@ O Office Mobile para iPad e iPhone inclui o Word, o Excel e o PowerPoint para iP
     
 - [Comparar o PowerPoint para iPad com o PowerPoint para Mac e o PowerPoint para Windows](http://go.microsoft.com/fwlink/p/?LinkId=507545)
     
-## <a name="office-mobile-for-android"></a>Office Mobile para Android
+## <a name="office-mobile-for-android"></a>Office Mobile for Android
 <a name="BKMK_Office_for_Android"> </a>
 
 O Office Mobile para Android inclui o Word, o Excel e o PowerPoint para Android. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis do Office 365, você pode criar e editar documentos no seus dispositivos Android. Para saber como os aplicativos do Office Mobile para Android se comparam com seus equivalentes de área de trabalho, consulte:
   
 - [Office Mobile para Android](https://support.office.com/en-us/article/Office-Mobile-for-Android-phones-ee598133-59d1-43c3-b47c-aac3f2d9a605?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-phone"></a>Office Mobile para Windows Phone
+## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 O Office Mobile para Windows Phone inclui o Word, o Excel e o PowerPoint para Windows Phone. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis do Office 365, você pode criar e editar documentos no seu Windows Phone. Para saber como o Office Mobile para Windows Phone se compara com seus equivalentes de área de trabalho, consulte:
   
 - [Office Mobile para Windows Phone](https://support.office.com/en-us/article/Office-Mobile-for-Windows-Phone-011b83c4-0d5f-4ea8-bbbe-2ed0d76dc69c?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-10-tablets"></a>Office Móvel para tablets com Windows 10
+## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile for Windows 10 tablets
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 O Office Móvel para tablets com Windows 10 inclui o Word Móvel, o Excel Móvel e o PowerPoint Móvel. Os aplicativos estão disponíveis para download gratuito na Windows Store. Saiba mais sobre [aplicativos do Office Móvel para Windows 10](https://blogs.office.com/2015/07/29/office-mobile-apps-for-windows-10-are-here/).

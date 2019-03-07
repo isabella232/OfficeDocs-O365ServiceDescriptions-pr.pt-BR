@@ -1,7 +1,7 @@
 ---
-title: Descrição do Serviço da Proteção Avançada contra Ameaças do Office 365
-ms.author: pebaum
-author: pebaum
+title: Descrição do serviço de proteção avançada contra ameaças do Office 365
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 02/20/2019
 ms.audience: ITPro
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger seus organização contra links prejudiciais em tempo real. A ATP tem recursos ricos de relatórios e de rastreamento de URL que dão aos administradores a percepção do tipo de ataques que ocorrem na sua organização.
-ms.openlocfilehash: bf16c3593ba7ff8cb5ecc9c57b170d5ce153d77e
-ms.sourcegitcommit: 0779536e4b9dc4bed4fb3c7f0767314b9a63d397
+ms.openlocfilehash: 4bdd657ba517db072cf73a5e313d93ce2805b7b3
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "30178340"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468038"
 ---
-# <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do Serviço da Proteção Avançada contra Ameaças do Office 365
+# <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do serviço de proteção avançada contra ameaças do Office 365
 
 A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger seus organização contra links prejudiciais em tempo real. A ATP tem recursos ricos de relatórios e de rastreamento de URL que dão aos administradores a percepção do tipo de ataques que ocorrem na sua organização.
   
@@ -28,7 +28,7 @@ A seguir estão as principais maneiras de usar a ATP para proteção de mensagen
   
 - Em um cenário somente de filtragem ATP do Office 365, a ATP fornece proteção de email baseada em nuvem para seu ambiente local do Exchange Server ou qualquer outra solução de email SMTP local.
     
-- O Office 365 ATP pode ser habilitado para proteger caixas de correio hospedadas na nuvem do Exchange Online. Para saber mais sobre o Exchange Online, confira a [Descrição de serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
+- O Office 365 ATP pode ser habilitado para proteger caixas de correio hospedadas na nuvem do Exchange Online. Para saber mais sobre a Exchange Online, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
     
 - Em uma implantação híbrida, a ATP pode ser configurada para proteger seu ambiente de mensagens e controlar o roteamento de email quando você tem uma combinação de caixas de correio locais e em nuvem com o Exchange Online Protection para filtragem de email de entrada.
     
@@ -81,7 +81,7 @@ Continuamos a adicionar novos recursos ao Office 365 ATP. Veja a seguir uma list
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Requisitos para a proteção avançada contra ameaças do Office 365 (ATP)
 
-A ATP pode ser usada com qualquer agente de transferência de email SMTP, como o Microsoft Exchange Server. Para obter informações sobre os sistemas operacionais, navegadores da Web e idiomas suportados pela ATP, consulte as seções "navegadores compatíveis" e "idiomas com suporte" no [centro de administração do Exchange no Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
+A ATP pode ser usada com qualquer agente de transferência de email SMTP, como o Microsoft Exchange Server. Para saber mais sobre os sistemas operacionais, navegadores da Web e idiomas suportados pela ATP, veja as seções "Navegadores com suporte" e "Idiomas com suporte" em [Centro de administração do Exchange no Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
   
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Disponibilidade de recursos nos planos de proteção avançada contra ameaças (ATP)
 
@@ -90,28 +90,28 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |**Recurso**|**Plano ATP 1**<br>(anteriormente ATP autônomo)|**Plano ATP 2**<br>(anteriormente inteligência de ameaças <br>autônomo | Office 365 Enterprise E5| 
 |:-----|:-----|:-----|:-----|
 | *Configuração, proteção e detecção* | 
-|Anexos Seguros |Sim|Sim  |Sim |
-|Links Seguros |Sim|Sim  |Sim  | 
-|Políticas anti-phishing |Sim |Sim  |Sim  |
-|ATP para SharePoint, OneDrive e Microsoft Teams |Sim |Sim  |Sim |
-|Links seguros no Teams |Sim|Sim  |Sim  |
-|Relatórios em tempo real |Sim |Sim  |Sim |
+|Anexos Seguros |Sim|Sim |Sim|
+|Links Seguros |Sim|Sim |Sim | 
+|Políticas anti-phishing |Sim |Sim |Sim |
+|ATP para SharePoint, OneDrive e Microsoft Teams |Sim |Sim |Sim|
+|Links seguros no Teams |Sim|Sim |Sim |
+|Relatórios em tempo real |Sim |Sim |Sim|
 |*Automação, investigação, correção e educação* |
-|Rastreadores de ameaças |Não |Sim |Sim  |
-|Explorer (investigação avançada de ameaças) |Não |Sim |Sim  |
-|Investigação e resposta automatizadas  |Não |Sim |Sim  |
-|Simulador de ataque |Não |Sim |Sim  |
+|Rastreadores de ameaças |Não |Sim |Sim |
+|Explorer (investigação avançada de ameaças) |Não |Sim |Sim |
+|Investigação e resposta automatizadas  |Não |Sim |Sim |
+|Simulador de ataque |Não |Sim |Sim |
 
    
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Recursos de proteção avançada contra ameaças (ATP)
 
 ### <a name="safe-attachments"></a>Anexos Seguros
 
-Os [anexos seguros de ATP](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) protegem contra malware e vírus desconhecidos e fornecem proteção de dia zero para proteger seu sistema de mensagens. Todas as mensagens e anexos que não têm uma assinatura de vírus/malware conhecida são roteados para um ambiente especial em que a ATP usa uma variedade de técnicas de aprendizado e análise de máquina para detectar más intenções. Se nenhuma atividade suspeita for detectada, a mensagem será liberada para entrega à caixa de correio. 
+Os [anexos seguros de ATP](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) protegem contra malware e vírus desconhecidos e fornecem proteção de dia zero para proteger seu sistema de mensagens. Todas as mensagens e os anexos que não tenham uma assinatura de vírus/malware conhecida são roteados para um ambiente especial onde a ATP usa uma variedade de técnicas de aprendizagem e análise automática para detectar conteúdo mal-intencionado. Se nenhuma atividade suspeita for detectada, a mensagem será liberada para entrega na caixa de correio. 
 
 ### <a name="safe-links"></a>Links Seguros
 
-O recurso [links seguros de ATP](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protege seus usuários contra URLs mal-intencionadas em uma mensagem ou em um documento do Office. A proteção permanece sempre que clicar no link, pois links mal-intencionados são bloqueados dinamicamente enquanto bons links podem ser acessados.
+O recurso [links seguros de ATP](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protege seus usuários contra URLs mal-intencionadas em uma mensagem ou em um documento do Office. A proteção permanece sempre que eles clicam no link, pois links mal-intencionados são bloqueados dinamicamente, enquanto o acesso a links legítimos é permitido.
 
 ### <a name="anti-phishing-policies"></a>Políticas anti-phishing
 
@@ -129,7 +129,7 @@ Os recursos de monitoramento disponíveis no centro de conformidade do & de segu
 
 Os rastreadores de [ameaças](https://docs.microsoft.com/office365/securitycompliance/threat-trackers) são widgets informativos e modos de exibição que oferecem aos usuários autorizados problemas de cybersecurity que podem afetar sua organização.
 
-### <a name="explorer"></a>Pesquisa
+### <a name="explorer"></a>Explorer
 
 [Explorer](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance) (também chamado de explorador de ameaças) é um relatório em tempo real que permite que os usuários autorizados identifiquem e analisem ameaças recentes. Por padrão, esse relatório mostra dados dos últimos 7 dias; no entanto, os modos de exibição podem ser modificados para mostrar dados nos últimos 30 dias. 
 

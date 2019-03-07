@@ -1,7 +1,7 @@
 ---
 title: Recursos de Suporte no Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Os recursos de suporte a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 95a9710d701f329819cd4265695849bfece97a75
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034796"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467368"
 ---
 # <a name="support-features-in-yammer"></a>Recursos de Suporte no Yammer
 
@@ -30,14 +30,14 @@ Os recursos de suporte a seguir estão disponíveis no Yammer.
 ## <a name="fasttrack-center"></a>FastTrack Center
 <a name="bkmk_FastTrackCenter"> </a>
 
-O serviço Microsoft FastTrack pode ajudar sua organização a mover para o Microsoft Cloud fornecendo ajuda em cada etapa ao longo do percurso. FastTrack permite planejar estrategicamente distribuições, aumentar rapidamente novos serviços e onboard novos usuários. Para obter informações detalhadas, visite o [Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obter informações sobre a criação de sua rede Yammer, incluindo pré-lançamento, lançamento e os documentos de suporte e atividades, vá para o [Envision: identifique cenários](https://fasttrack.microsoft.com/office/envision/identify-scenarios) página e clique em **reunir a sua organização**.
+O serviço Microsoft FastTrack pode ajudar sua organização a mover para o Microsoft Cloud fornecendo ajuda em cada etapa ao longo do caminho. O FastTrack permite planejar distribuições estrategicamente, avançar com novos serviços rapidamente e integrar novos usuários. Para obter detalhes, visite o [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obter informações sobre como criar sua rede do Yammer, incluindo os documentos e as atividades de pré-inicialização, lançamento e suporte, vá para a página do [enVision: identificar cenários](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e, em seguida, clique em **juntar sua organização**.
   
 ## <a name="customer-support"></a>Suporte ao cliente
 <a name="BKMK_Customersupport"> </a>
 
 O suporte técnico está disponível para responder às perguntas do cliente e resolver problemas rapidamente. Os clientes Yammer podem receber suporte postando no fórum de suporte público, que é monitorado 24 horas por dia, sete dias da semana por agentes de suporte. Se você for um cliente Yammer procurando suporte, consulte [Suporte público do Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
   
-## <a name="administrator-support"></a>Suporte para administradores
+## <a name="administrator-support"></a>Administrator support
 <a name="BKMK_Administratorsupport"> </a>
 
 Os administradores do Yammer Enterprise são responsáveis pela manutenção da conta e estão autorizados a se comunicar diretamente com a equipe de Suporte da Microsoft. Se você for um administrador do Yammer Enterprise procurando suporte, consulte [Suporte da Microsoft](https://go.microsoft.com/fwlink/p/?LinkId=330922).
@@ -56,7 +56,7 @@ Exemplos
 ## <a name="technical-support-initial-response-times"></a>Tempos de resposta inicial do suporte técnico
 <a name="BKMK_Administratorsupport"> </a>
 
-Tempos de resposta inicial se baseiam nos níveis de severidade descritos acima e o tipo de assinatura do Yammer. Os tempos de resposta de destino são mostrados na tabela a seguir.
+Os tempos de resposta inicial são baseados nos níveis de severidade descritos acima e no tipo de assinatura do Yammer. Os tempos de resposta de destino são mostrados na tabela a seguir.
   
 |**Nível de Severidade**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

@@ -1,7 +1,7 @@
 ---
 title: Limites do Exchange Online Protection
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que especificado o contrário.
-ms.openlocfilehash: 2e2efe4693cb7e5cdf52b4d035512657c39f03c2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Os seguintes limites existem atualmente para o Exchange Online Protection. Estes limites não são configuráveis, a menos que haja outra regra nesse sentido.
+ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034931"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468138"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites do Exchange Online Protection
 
-Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que especificado o contrário. 
+Os seguintes limites existem atualmente para o Exchange Online Protection. Estes limites não são configuráveis, a menos que haja outra regra nesse sentido. 
   
 > [!TIP]
 > Para saber mais sobre limites no Exchange Online, consulte [Limites do Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Os limites de regras de transporte também se aplicam aos clientes do EOP autônomo. Os limites de taxas de destinatários e de taxas de mensagens para o Exchange Online não se aplicam aos clientes do EOP autônomo. 
@@ -50,7 +50,7 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Esses
 |**Recurso**|****EOP Autônomo****|****Recursos do EOP no Exchange Online****|****Exchange Enterprise CAL com Serviços****|
 |:-----|:-----|:-----|:-----|
 |Limite de domínios  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Limite de tamanho de mensagens (incluindo anexos)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Limite de tamanho de mensagens (incluindo anexos)  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |Limite de destinatários  <br/> |Confira "Limite de destinatários" acima  <br/> |500 destinatários durante o envio de uma caixa de correio hospedada; consulte "Limite de destinatários" acima para outros cenários  <br/> |Confira "Limite de destinatários" acima  <br/> |
 |Limite de remetentes seguros  <br/> |1.024 entradas  <br/> |1.024 entradas  <br/> ||
 |Limite de remetentes bloqueados  <br/> |1.024 entradas  <br/> |1.024 entradas  <br/> ||

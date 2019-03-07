@@ -1,7 +1,7 @@
 ---
-title: Descrição de serviço direto de engenharia do Office 365
-ms.author: pebaum
-author: pebaum
+title: Descrição do serviço direto de engenharia do Office 365
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/28/2018
 ms.audience: ITPro
@@ -9,21 +9,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-description: Direto engenharia do Office 365 é uma adição de serviços de nível de suporte de empresa para um contrato Microsoft Premier Support. O Office 365 engenharia direto Service Description contém informações adicionais sobre os recursos oferecidos e requisitos de implementação.
-ms.openlocfilehash: 702914a9478bededec3f39d206657c9a5c9d35e1
-ms.sourcegitcommit: 3254b66524fda084efcdbe751b1d28afd35a5d56
+description: O Office 365 Engineering Direct é um acréscimo de serviços de suporte de nível empresarial para um contrato de suporte do Microsoft Premier. A descrição do serviço direto de engenharia do Office 365 contém informações adicionais sobre os recursos oferecidos e os requisitos de implementação.
+ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27473471"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467888"
 ---
-# <a name="office-365-engineering-direct-service-description"></a>Descrição de serviço direto de engenharia do Office 365
+# <a name="office-365-engineering-direct-service-description"></a>Descrição do serviço direto de engenharia do Office 365
 
-Direto engenharia do Office 365 é uma adição de serviços de nível de suporte de empresa para um contrato Microsoft Premier Support. O [Office 365 engenharia direto Service Description](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) contém informações adicionais sobre os recursos oferecidos e requisitos de implementação.
+O Office 365 Engineering Direct é um acréscimo de serviços de suporte de nível empresarial para um contrato de suporte do Microsoft Premier. A [Descrição do serviço direto de engenharia do Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) contém informações adicionais sobre os recursos oferecidos e os requisitos de implementação.
 
-Para obter o Office 365 engenharia direto oferecendo como um novo cliente, sua organização deve assinar uma oferta de suporte da Microsoft Premier, atender o nível de classificação de grandes corporações para serviços do Office 365 e execute um addendum do contrato de suporte. Um custo suplementar para o pacote de serviços adicionados serão aplicadas. Contate o representante da equipe de conta da Microsoft para confirmar o seu status de contrato de suporte e iniciar qualquer alteração contratual para proteger a oferta de suporte. 
+Para obter a oferta de engenharia direta do Office 365 como um novo cliente, sua organização deve se inscrever em uma oferta de suporte da Microsoft Premier, atender ao nível de classificação empresarial grande para os serviços do Office 365 e executar um adendo ao contrato de suporte. Um custo complementar para o pacote de serviços adicionado será aplicado. Entre em contato com o representante da equipe de contas da Microsoft para confirmar o status do contrato de suporte e para iniciar quaisquer alterações contratuais para proteger a oferta de suporte. 
 
-Se você for um cliente de grande porte que (a) foi migrada de uma oferta de dedicado herdada do Office 365 à malha mais recente de multilocatário serviços ou (b) foi onboarded como um cliente avançado de multilocatário, Office 365 engenharia direto será fornecido aos seus organização como um programa de suporte transitórias conhecido como serviços de suporte Avançado. A oferta de transição é fornecida sem custos adicionais para o equilíbrio do seu contrato de serviços de assinatura do Office 365 existente. No momento da sua renovação de serviços de assinatura, Office 365 engenharia direto estará disponível como um opcional oferta de suporte para um custo suplementar. Se adquiriu, addendum um contrato separado para o pacote de serviços adicionado será executado e acrescentada ao seu contrato de suporte Premier existente.
+Se você for um grande cliente corporativo que (a) foi migrado de uma oferta herdada do Office 365 dedicada para a malha de serviços multilocatário mais recente ou (b) foi integrada como um cliente de vários locatários, o Office 365 Engineering Direct será fornecido para seu organização como um programa de suporte de transição referido como serviços de suporte avançado. A oferta de transição é fornecida sem custos para o saldo do contrato existente de serviços de assinatura do Office 365. No momento da renovação de seus serviços de assinatura, o Office 365 Engineering Direct estará disponível como oferta de suporte opcional para um custo complementar. Se comprado, um adendo de contrato separado para o pacote de serviços adicionado será executado e acrescentado ao contrato de suporte Premier existente.
 
 > [!NOTE]
-> Neste momento, Office 365 engenharia direto e o programa de serviços de suporte aprimorado a transição não estão disponíveis para clientes de suporte de ITAR herdados ou afiliados a nuvem de comunidade governamental (GCC) ou alta GCC ofertas de assinatura do Office de clientes 365.
+> No momento, o Office 365 Engineering Direct e o programa serviços de suporte avançado de transição não estão disponíveis para clientes herdados do ITAR-support associados à nuvem da Comunidade governamental (GCC) ou ofertas de assinatura avançada GCC do Office 365.

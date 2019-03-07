@@ -1,7 +1,7 @@
 ---
 title: Atualizações do Serviço
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Saiba mais sobre os recursos do Office 365 lançados recentemente ou prestes a serem lançados no Mapa do Office 365.
-ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
+ms.openlocfilehash: b2ba1896f3c1acd616c62a82e7a8a1f25744d26f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29966215"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467758"
 ---
 # <a name="service-updates"></a>Atualizações do Serviço
 
@@ -28,11 +28,11 @@ ms.locfileid: "29966215"
 Saiba mais sobre os recursos do Office 365 lançados recentemente ou prestes a serem lançados no [Mapa do Office 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 > [!NOTE]
-> Atualizações de forem rolados para clientes com base em vários fatores, como geografia, idioma, centro de dados e assinatura. Isso significa que nem todas as atualizações estão disponíveis imediatamente para os clientes existentes. 
+> Atualizações e upgrades são implantadas para clientes com base em vários fatores, como geografia, idioma, Data Center e assinatura. Isso significa que nem todas as atualizações estão disponíveis imediatamente para clientes existentes. 
   
 ## <a name="targeted-release"></a>Lançamento direcionado
 
-Com versão multidifusão, sua organização ou um conjunto de seus usuários recebem um conjunto selecionado de atualizações de serviço aproximadamente uma semana antes de que começamos nosso processo de liberação padrão. Para saber mais, consulte [release programas do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
+Com o lançamento direcionado, sua organização ou um conjunto de usuários recebe um conjunto de atualizações de serviço de seleção de aproximadamente uma semana antes de começarmos nosso processo de lançamento padrão. Saiba mais em [Programas de lançamento do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
   
 ## <a name="update-notifications"></a>Notificações de atualização
 

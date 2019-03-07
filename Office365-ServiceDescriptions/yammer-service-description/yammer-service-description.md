@@ -1,7 +1,7 @@
 ---
 title: Descrição de serviços do Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer é um melhor classe, seguro e a rede social de particular corporativo. Yammer permite que os funcionários sejam mais produtivos e bem-sucedida, permitindo que eles colaborar com mais facilidade, tomar decisões mais rapidamente e auto-organizar em equipes para receber a qualquer desafio comercial. É uma nova maneira de trabalho que controla o alinhamento dos negócios e agilidade, reduz o tempo do ciclo naturalmente, emprega funcionários e melhora o relacionamento com clientes e parceiros.
-ms.openlocfilehash: 7feac0f0b107a159dd7d0545632815ec24679040
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
+ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034797"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467148"
 ---
 # <a name="yammer-service-description"></a>Descrição de serviços do Yammer
 
-Yammer é um melhor classe, seguro e a rede social de particular corporativo. Yammer permite que os funcionários sejam mais produtivos e bem-sucedida, permitindo que eles colaborar com mais facilidade, tomar decisões mais rapidamente e auto-organizar em equipes para receber a qualquer desafio comercial. É uma nova maneira de trabalho que controla o alinhamento dos negócios e agilidade, reduz o tempo do ciclo naturalmente, emprega funcionários e melhora o relacionamento com clientes e parceiros.
+Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
   
 Para obter uma lista de planos do Office 365 que incluem o Yammer, consulte [Famílias e planos do serviço Office 365](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
@@ -50,7 +50,7 @@ O Yammer está disponível nos seguintes planos:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Política de comunicações de serviço do Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
 
-Yammer faz parte do Office 365 e de acordo com a [política de gerenciamento de alterações do Office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), mas não usa multidifusão versão para implantar atualizações. 
+O Yammer faz parte do Office 365 e está em conformidade com a [política de gerenciamento de alterações do office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), mas não usa o lançamento direcionado para distribuir atualizações. 
   
 Todos os usuários do Yammer estão sujeitos ao teste de recurso A/B. Isso permite à Microsoft testar recursos para melhoria da estabilidade, do desempenho e da experiência em vários ambientes e dispositivos. Os usuários dentro da mesma rede podem ter experiências variadas devido ao teste. Os clientes não podem se recusar a fazer o teste A/B.
   

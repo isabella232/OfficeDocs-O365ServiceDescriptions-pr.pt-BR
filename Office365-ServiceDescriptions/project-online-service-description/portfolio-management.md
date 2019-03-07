@@ -1,7 +1,7 @@
 ---
 title: Gerenciamento de portfólio
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: Os seguintes recursos de gerenciamento de portfólio estão disponíveis no Project Online.
-ms.openlocfilehash: c279338ee9ee2c6911e308cb3da65f4aa9f360c6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Os recursos de gerenciamento de portfólio a seguir estão disponíveis no Project online.
+ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034856"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466618"
 ---
 # <a name="portfolio-management"></a>Gerenciamento de portfólio
 
-Os seguintes recursos de gerenciamento de portfólio estão disponíveis no Project Online.
+Os recursos de gerenciamento de portfólio a seguir estão disponíveis no Project online.
   
 Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição de serviço do Project Online](project-online-service-description.md).
   

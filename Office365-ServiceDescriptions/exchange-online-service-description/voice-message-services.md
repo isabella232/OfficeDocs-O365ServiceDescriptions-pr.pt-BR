@@ -1,7 +1,7 @@
 ---
 title: Serviços de Mensagens de Voz
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,16 +12,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 98591e47ece7c59581824c6df375c41c66b7d2d1
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 3879252927a26f47cd5d92f0fbcfbdecf4466c2a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034893"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467918"
 ---
 # <a name="voice-message-services"></a>Serviços de Mensagens de Voz
 
-## <a name="voice-mail"></a>Correio de voz
+## <a name="voice-mail"></a>Caixa postal
 
 O Microsoft Exchange Online fornece serviços de caixa postal hospedados, que oferecem:
   
@@ -31,17 +31,17 @@ O Microsoft Exchange Online fornece serviços de caixa postal hospedados, que of
     
 - Interface de discagem para chamadores (atendedor automático)
     
-Serviços de mensagens de voz hospedada permitem a uma empresa conectar seu sistema telefônico de local aos serviços de correio de voz fornecidos pelo Exchange Online. Mensagens de caixa postal são registradas e armazenadas na infraestrutura do Exchange Online, permitindo que os usuários acessem suas mensagens de voz a partir do Outlook, Outlook na web ou celulares. Todas as conexões de telefonia para o Exchange Online exigem protocolos do voice-over-IP (VoIP). Os administradores podem se conectar a local PBXs IP ou PBX sistemas telefônicos usando gateways de mídia de VoIP e controladores de borda de sessão (SBCs) para o Exchange Online. Um gateway de mídia de VoIP não é necessário se o cliente tiver implantado um PBX IP ou um PBX suporta diretamente o VoIP e é interoperável com serviços de mensagens de voz do Exchange. SBCs são implantados no perímetro de rede do cliente para se conectar a uma rede de telefonia no local e ajudar a proteger as comunicações (e a rede do cliente) contra interceptação e invasão. Também há suporte para a interoperabilidade com os recursos de voz do Microsoft Lync Server 2010 e 2013.
+Os serviços de mensagens de voz hospedados permitem que uma empresa conecte seu sistema de telefone local a serviços de caixa postal fornecidos pelo Exchange Online. As mensagens de caixa postal são gravadas e armazenadas na infraestrutura do Exchange Online, permitindo que os usuários acessem suas mensagens de voz do Outlook, do Outlook na Web ou de telefones celulares. Todas as conexões de telefonia do Exchange Online exigem protocolos de voz sobre IP (VoIP). Os administradores podem conectar os IP PBXs ou sistemas de telefone PBX que usam gateways de mídia VoIP e controladores de borda da sessão (SBCs) ao Exchange Online. O gateway de mídia não é necessário se o cliente tiver implantado um IP PBX ou se o PBX compatível com VoIP diretamente e for interoperável com os serviços de mensagens de voz do Exchange. Os SBCs são implantados no perímetro da rede do cliente para conectar uma rede de telefonia local e ajudar a tornar a comunicação (e a rede do cliente) segura contra interceptação e intrusão. A interoperabilidade com as funcionalidades de voz do Microsoft Lync Server 2010 e 2013 também é compatível.
   
-O recursos de serviços disponíveis no Exchange Online de mensagens de voz são semelhantes aos oferecidos em 2016 de servidor do Exchange local. Elas incluem:
+Os recursos de serviços de mensagens de voz disponíveis no Exchange Online são semelhantes aos oferecidos no Exchange Server 2016 local. Eles incluem:
   
-- Tocar no telefone do Outlook e do Outlook na web.
+- Tocar no telefone do Outlook e do Outlook na Web.
     
 - Notificações de chamada não atendida.
     
 - ID de quem fez a chamada (usando as informações da Lista de Endereços Global, contatos pessoais dos usuários, pasta Contatos personalizada e contatos das redes sociais externas).
     
-- Caixa postal PIN redefinido a partir do Outlook na web e Outlook (consulte [Redefinir PIN da caixa postal](https://go.microsoft.com/fwlink/p/?LinkId=286328)).
+- Redefinição de PIN de caixa postal do Outlook na Web e do Outlook (consulte [redefinir um PIN de caixa postal](https://go.microsoft.com/fwlink/p/?LinkId=286328)).
     
 - Indicador de Espera da Mensagem (confira [MWI no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271794) para ver detalhes). 
     
@@ -67,11 +67,11 @@ Para saber mais sobre os recursos do correio de voz, confira [Correio de Voz no 
 As soluções de caixa postal locais de terceiros poderão interoperar com o Exchange Online se puderem encaminhar mensagens de voz por meio de SMTP ou se oferecerem suporte a Serviços Web do Microsoft Exchange. Se o sistema de caixa postal não suportar nativamente o encaminhamento de mensagens de voz por meio de SMTP, um servidor de email poderá ser mantido localmente para receber mensagens do sistema de caixa postal e encaminhá-las à nuvem usando SMTP. Como muitos sistemas de caixa postal de terceiros usam MAPI/CDO para interoperar com o Exchange Server para recursos de UM avançados, todos os recursos desses sistemas poderão não estar disponíveis quando SMTP for usado para interoperabilidade com o Exchange Online.
   
 > [!NOTE]
-> Exchange Online UM suporte para sistemas de PBX de terceiros por meio de conexões diretas do cliente operado SBCs será finalizado no de 2018 julho. Consulte [suporte para controladores de borda de sessão no Exchange Online Unified Messaging Descontinuado](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) para obter mais informações. 
+> O suporte a UM do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCs operado pelo cliente terminará em julho de 2018. Confira [descontinuação de suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) para obter mais informações. 
   
 ## <a name="skype-for-business-integration"></a>Integração do Skype for Business
 
-As organizações podem adquirir Skype para Business Online como um serviço autônomo ou como parte do Microsoft Office 365. Skype para negócios 2015 local também é suportada. Para saber mais sobre Skype para Business Online, consulte [Skype para negócios Online Service Description](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+As organizações podem comprar o Skype for Business Online como um serviço independente ou como parte do Microsoft Office 365. O Skype for Business 2015 local também é suportado. Para saber mais sobre o Skype for Business Online, consulte [Descrição do Serviço do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilidade do recurso
 

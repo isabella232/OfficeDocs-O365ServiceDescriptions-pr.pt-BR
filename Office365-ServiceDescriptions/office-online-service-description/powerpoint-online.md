@@ -1,7 +1,7 @@
 ---
 title: PowerPoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,21 +14,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint Online (anteriormente o PowerPoint Web App) estende sua experiência do Microsoft PowerPoint ao navegador da web, onde você pode trabalhar com apresentações diretamente no site em que a apresentação está armazenada. Clientes do Microsoft Office 365 com o Office Online podem exibir, criar e editar arquivos em trânsito.
-ms.openlocfilehash: 4d28ee4715ba55122b95588b5f0888bc0155245d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: O PowerPoint online (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft Office 365 com Office Online podem visualizar, criar e editar arquivos em qualquer lugar.
+ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034876"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467338"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-PowerPoint Online (anteriormente o PowerPoint Web App) estende sua experiência do Microsoft PowerPoint ao navegador da web, onde você pode trabalhar com apresentações diretamente no site em que a apresentação está armazenada. Clientes do Microsoft Office 365 com o Office Online podem exibir, criar e editar arquivos em trânsito.
+O PowerPoint online (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft Office 365 com Office Online podem visualizar, criar e editar arquivos em qualquer lugar.
   
 O PowerPoint Editor é um componente de front-end da web que cria uma superfície de edição com base no navegador que habilita os usuários a trabalhar em documentos sem perder a fidelidade.
   
-Se você clicar no botão **Abrir no PowerPoint** na barra de ferramentas Online do PowerPoint, a apresentação é aberta no aplicativo de área de trabalho do PowerPoint (se o Microsoft PowerPoint 2010 ou posterior está instalado no computador). 
+Se você clicar no botão **abrir no PowerPoint** , na barra de ferramentas do PowerPoint online, a apresentação será aberta no aplicativo da área de trabalho do PowerPoint (se o Microsoft PowerPoint 2010 ou posterior estiver instalado no computador). 
   
 Saiba como [Baixar e instalar o Office usando o Office 365 para empresas em um PC](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
   
@@ -102,7 +102,7 @@ Com o PowerPoint Online, você pode incorporar apresentações em sites da Web o
 
 O PowerPoint Online permite que você aplique negrito, itálico, sublinhado, fonte, tamanho e cor ao texto. Você também pode usar o Pincel de Formatação para copiar a formatação das formas inteiras.
   
-## <a name="full-fidelity-reading-view"></a>modo de Exibição de leitura de fidelidade total
+## <a name="full-fidelity-reading-view"></a>Modo de exibição de leitura de fidelidade total
 <a name="bkmk_FullFidelityReading"> </a>
 
 Exiba apresentações como elas foram feitas para serem vistasmostrando animações, transições e áudio/vídeo.
@@ -122,7 +122,7 @@ O PowerPoint Online oferece suporte para oito transições e 37 animações. Par
 
 Cabeçalhos e rodapés, incluindo datas e números de slides, não podem ser inseridos, editados ou excluídos no PowerPoint Online, mas PowerPoint Online os exibe como esperado. Saiba mais sobre as [diferenças de uso de uma apresentação no navegador e no aplicativo da área de trabalho PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="hyperlinks"></a>Hiperlinks
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 Insira, edite e siga os hiperlinks. Links de favoritos funcionam, mas não podem ser editados no PowerPoint Online.
@@ -137,12 +137,12 @@ O conteúdo de áudio e vídeo é reproduzido no Modo de Exibição de Leitura e
 
 Não está disponível em PowerPoint Online. Com o PowerPoint Online, você pode exibir gráficos do Excel em uma apresentação existente, mas não pode editar ou inserir um gráfico do Excel em uma apresentação, usando o PowerPoint Online. Saiba mais sobre [copiar um gráfico do Excel para o PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272773).
   
-## <a name="navigation-slide-sorter"></a>Navegação  classificação de slides
+## <a name="navigation-slide-sorter"></a>Navegação — classificação de slides
 <a name="bkmk_Navigation"> </a>
 
 Não está disponível em PowerPoint Online. O modo de exibição de classificação de slides, que oferece uma visualização de slides em miniatura, permitindo classificar e organizar facilmente seus slides, não está disponível no PowerPoint Online. Usando o aplicativo da área de trabalho PowerPoint, você pode usar a classificação de slides para organizar seus slides, adicionar seções e classificar slides em categorias diferentes.
   
-## <a name="offline-viewing-and-authoring"></a>Criação e exibição offline
+## <a name="offline-viewing-and-authoring"></a>Criação e visualização offline
 <a name="bkmk_Offlineviewingandauthoring"> </a>
 
 O PowerPoint Online é iniciado em um navegador da Web e depende de uma conexão à Internet. Para acessar apresentações offline, o aplicativo da área de trabalho Microsoft PowerPoint precisa ser instalado em seu computador e usado para ver e editar slides.
@@ -182,10 +182,10 @@ Você pode verificar a ortografia e definir o idioma de verificação, usando o 
 
 Mais de uma pessoa pode trabalhar simultaneamente em um documento no PowerPoint Online e no PowerPoint 2016. A presença em tempo real ajuda a ver em que parte do documento seus coautores estão trabalhando para que não ocorra conflitos ao editar e você ainda pode ver as alterações enquanto estão sendo feitas. O PowerPoint 2013 oferece suporte à edição simultânea, mas não há nenhuma indicação de presença. As alterações não podem ser vistas por vários autores até que o documento seja salvo. Para saber mais sobre a coautoria em tempo real no PowerPoint, confira o artigo sobre como [trabalhar em conjunto nas apresentações do PowerPoint](https://go.microsoft.com/fwlink/?linkid=844014).
   
-## <a name="reviewer-tools---advanced"></a>Ferramentas de revisor - avançadas
+## <a name="reviewer-tools---advanced"></a>Ferramentas de revisores-avançado
 <a name="bkmk_AdvancedReviewerTools"> </a>
 
-Não está disponível no PowerPoint Online. Recursos de revisor avançados, como conflitos de mesclagem e comparar apresentações, só estão disponíveis no aplicativo de área de trabalho do PowerPoint. Com o PowerPoint Online, você pode exibir, adicionar, editar ou excluir comentários.
+Não está disponível em PowerPoint Online. Recursos de revisão avançada, como conflitos de mesclagem e comparar apresentações, estão disponíveis somente no aplicativo da área de trabalho do PowerPoint. Com o PowerPoint online, você pode exibir, adicionar, editar ou excluir comentários.
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>Gerenciamento de direitos: Aplicar e consumir IRM e proteção de senha
 <a name="bkmk_CreationPasswords"> </a>
@@ -227,7 +227,7 @@ Você pode inserir SmartArt, alternar para um layout ou esquema de cores diferen
 
 As tabelas podem ser criadas e editadas no PowerPoint Online, e o PowerPoint Online oferece suporte a muitas funções de tabela. Para utilizar as funções avançadas, como mesclar e dividir células, use o aplicativo de área de trabalho do PowerPoint. Saiba mais sobre as [diferenças de uso de uma apresentação no navegador e no aplicativo da área de trabalho PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="tell-me"></a>Diga-Me
+## <a name="tell-me"></a>Diga-me
 <a name="Bkmk_TellMe_PPT"> </a>
 
 Quando você precisar realizar alguma coisa no PowerPoint Online mas não sabe como, você pode usar o recurso de pesquisa Diga-Me para encontrar rapidamente o que você está procurando. Diga-Me compreende o que você está tentando realizar e o ajuda a fazer isso mais rápido fazendo sugestões.
@@ -240,9 +240,9 @@ Você pode desfazer (Ctrl+Z) e refazer (Ctrl+Y) um número infinito de ações r
 ## <a name="view-and-add-comments"></a>Ver e adicionar comentários
 <a name="bkmk_Viewaddcomments"> </a>
 
-Se os arquivos são armazenados no SharePoint Online ou OneDrive for Business, você pode adicionar, editar ou excluir comentários. 
+Se seus arquivos estiverem armazenados no SharePoint Online ou no OneDrive for Business, você poderá adicionar, editar ou excluir comentários. 
   
-Se os arquivos são armazenados em OneDrive, você pode adicionar, editar ou excluir comentários enquanto estiver no modo de edição, e você pode exibir e atualizar os comentários enquanto estiver no modo de leitura.
+Se seus arquivos estiverem armazenados no OneDrive, você poderá adicionar, editar ou excluir comentários no modo de exibição de edição e poderá exibir e atualizar os comentários no modo de exibição de leitura.
   
 ## <a name="view-and-edit-slide-notes"></a>Ver e editar notas de slide
 <a name="bkmk_Viewslidenotes"> </a>

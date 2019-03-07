@@ -1,7 +1,7 @@
 ---
-title: BlackBerry
-ms.author: pebaum
-author: pebaum
+title: Rim
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,17 +13,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Os dispositivos BlackBerry® podem acessar email e documentos no Office 365.
-ms.openlocfilehash: 37d3eb3f3721cd7e124b83a228bbf902ba4cb409
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 2146dc7eb698973f19e9fbacb87c7269b27d1eb5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034791"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466838"
 ---
-# <a name="blackberry"></a>BlackBerry
+# <a name="blackberry"></a>Rim
 
 > [!NOTE]
-> Se você estiver usando o Office 365 operado pela 21Vianet, você pode usar dispositivos do Microsoft Exchange ActiveSync ou uma oferta elaborado pela Research in Motion (RIM, a solução de email sem fio BlackBerry) para executar o Blackberry Enterprise Server (BES). 
+> Se estiver usando o Office 365 operado pela 21Vianet, você poderá usar os dispositivos do Microsoft Exchange ActiveSync ou uma oferta da Research in Motion (RIM, a solução de email sem fio BlackBerry) para executar o BlackBerry Enterprise Server (BES). 
   
 Os dispositivos BlackBerry® podem acessar email e documentos no Office 365.
   
@@ -35,9 +35,9 @@ Para obter mais informações, consulte [Configurar email em um BlackBerry](http
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>BlackBerry® 7 e dispositivos mais antigos com Microsoft Exchange Online
 
-Você pode usar o serviço de Internet do BlackBerry® (BIS) para conectar o BlackBerry 7 e dispositivos mais antigos para o Exchange Online. BIS permite aos usuários BlackBerry acessarem suas contas de email pela Internet por meio de IMAP ou POP.
+Você pode usar o BlackBerry ® Internet Service (BIS) para conectar o BlackBerry 7 e os smartphones anteriores ao Exchange Online. O BIS permite que os usuários do BlackBerry acessem suas contas de email pela Internet por meio de IMAP ou POP.
   
-Operadoras móveis mais tem BIS configurar. Os usuários finais será necessário configurar o email, calendário e sincronização de contatos usando as instruções nos seguintes artigos da Base de Conhecimento:
+A maioria dos operadores móveis tem o BIS configurado. Os usuários finais precisarão configurar a sincronização de email, calendário e contatos usando as instruções nos seguintes artigos da base de dados de conhecimento:
   
 - [KB31310 - BlackBerry Internet Service e serviços do Microsoft Office 365](http://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
@@ -46,7 +46,7 @@ Operadoras móveis mais tem BIS configurar. Os usuários finais será necessári
 - [KB22430 - Como habilitar ou desabilitar a sincronização de contatos sem fio com o BlackBerry Internet Service](http://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
-> Os usuários que se conectam ao suas contas usando conexões de IMAP ou POP podem sincronizar seus emails somente por meio de uma conexão sem fio. Para obter informações sobre como BIS os usuários podem usar uma conexão com fio para sincronizar os contatos e calendário entre seus dispositivos BlackBerry e suas contas, contate o suporte do BlackBerry. 
+> Os usuários que se conectam a suas contas usando conexões IMAP ou POP podem sincronizar seus emails apenas usando uma conexão sem fio. Para obter informações sobre como os usuários do BIS podem usar uma conexão com fio para sincronizar os contatos e o calendário entre seus smartphones BlackBerry e suas contas, contate o suporte do BlackBerry. 
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>Dispositivos BlackBerry com SharePoint Online
 
