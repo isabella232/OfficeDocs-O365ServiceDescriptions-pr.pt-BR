@@ -3,7 +3,7 @@ title: Descrição do serviço de negócios 365 da Microsoft
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/27/2019
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. . Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: f9b6983eb299eef24935f2e784a23b6b7863e8e1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467938"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641476"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição do serviço de negócios 365 da Microsoft
 
@@ -35,7 +35,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Exchange Online  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business online  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
+|Skype for Business Online  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
 |Office Online  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos do Office  <br/> |Sim  <br/> |Sim  <br/> |
 |Project Online  <br/> |Não<sup>3</sup> <br/> |Não<sup>3</sup> <br/> |
@@ -132,11 +132,11 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |SLA 99,9%  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Advanced Threat Analytics  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |**Recursos de gerenciamento de dispositivos e aplicativos** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
-|Gerenciamento de dispositivo móvel (MDM)<sup>15</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Gerenciamento de dispositivo móvel (MDM)<sup>15</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Registro automático de MDM (gerenciamento de dispositivo móvel)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciamento de aplicativo móvel (MAM) para aplicativos do Office e aplicativos LOB<sup>15</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Gerenciamento de aplicativo móvel (MAM) para aplicativos do Office e aplicativos LOB<sup>17</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Gerenciamento de atualizações do Windows, defender, políticas de firewall<sup>15</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Proteção de dados-limpeza seletiva  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Proteção de dados-limpeza seletiva  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Grupo de segurança (SG) direcionando para políticas  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Instalar aplicativos do Office em dispositivos Windows 10 registrados  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Configuração do Windows Defender  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
@@ -173,6 +173,8 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 <br/><sup>10</sup> reduzir estações que foram compradas com um desconto de termo pode estar sujeito a uma taxa de término antecipado. Isso não é aplicável para assinaturas pagas mensalmente. 
 <br/><sup>11</sup> o Microsoft 365 Business inclui a assinatura de arquivamento do Exchange Online. Cada assinante do Arquivamento do Exchange Online recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
 <br/><sup>12</sup> para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://go.microsoft.com/fwlink/?linkid=863349). 
-<br/><sup>13</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos). <br/><sup>14</sup> disponível em [https://securescore.office.com](https://securescore.office.com). Requer permissões de administrador. Saiba mais em [Apresentando a Classificação de Segurança do Office 365](https://go.microsoft.com/fwlink/?linkid=863490).
-<br/><sup>15</sup> gerenciamento simplificado de dispositivos do Windows 10 incorporado ao Microsoft 365 Business console. Recursos do Intune completos para iOS, Android, MacOS e outros gerenciamento de dispositivos de plataforma cruzada no console do Azure, também licenciados para uso com o Microsoft 365 Business. Aplicativos e configurações de terceiros, como perfis WiFi, certificados VPN e assim por diante, podem ser gerenciados no console do Intune completo. <br/>
-<sup>16</sup> este plano vem com o Microsoft Stream Plan 2, que inclui o portal de vídeo, a pesquisa de fala e a transcrição de texto, a pesquisa profunda e a detecção de face.
+<br/><sup>13</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos).
+<br/><sup>14</sup> disponível em [https://securescore.office.com](https://securescore.office.com). Requer permissões de administrador. Saiba mais em [Apresentando a Classificação de Segurança do Office 365](https://go.microsoft.com/fwlink/?linkid=863490).
+<br/><sup>15</sup> gerenciamento simplificado de dispositivos do Windows 10 integrado ao centro de administração do Microsoft 365. Os recursos de gerenciamento do Intune de iOS, Android, macOS e outros gerenciamento de dispositivos entre plataformas incorporados no centro de administração de gerenciamento de dispositivos, também licenciados para uso com o Microsoft 365 Business. Os aplicativos de terceiros e a configuração de itens como perfis WiFi e certificados VPN também podem ser gerenciados no centro de administração de gerenciamento de dispositivos. 
+<br/><sup>16</sup> este plano vem com o Microsoft Stream Plan 2, que inclui o portal de vídeo, a pesquisa de fala e a transcrição de texto, a pesquisa profunda e a detecção de face.
+<br/><sup>17</sup> simplifica o gerenciamento de dispositivos do Windows 10 e as políticas de proteção de aplicativos do Intune criadas no centro de administração do Microsoft 365.
