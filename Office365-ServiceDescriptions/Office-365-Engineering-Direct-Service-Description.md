@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: O Office 365 Engineering Direct é um acréscimo de serviços de suporte de nível empresarial para um contrato de suporte do Microsoft Premier. A descrição do serviço direto de engenharia do Office 365 contém informações adicionais sobre os recursos oferecidos e os requisitos de implementação.
-ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
+ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467888"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30867917"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Descrição do serviço direto de engenharia do Office 365
 
-O Office 365 Engineering Direct é um acréscimo de serviços de suporte de nível empresarial para um contrato de suporte do Microsoft Premier. A [Descrição do serviço direto de engenharia do Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) contém informações adicionais sobre os recursos oferecidos e os requisitos de implementação.
+O Office 365 Engineering Direct é um acréscimo de serviços de suporte de nível empresarial para um contrato de suporte do Microsoft Premier. A [Descrição do serviço direto de engenharia do Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) contém informações adicionais sobre os recursos oferecidos e os requisitos de implementação.
 
 Para obter a oferta de engenharia direta do Office 365 como um novo cliente, sua organização deve se inscrever em uma oferta de suporte da Microsoft Premier, atender ao nível de classificação empresarial grande para os serviços do Office 365 e executar um adendo ao contrato de suporte. Um custo complementar para o pacote de serviços adicionado será aplicado. Entre em contato com o representante da equipe de contas da Microsoft para confirmar o status do contrato de suporte e para iniciar quaisquer alterações contratuais para proteger a oferta de suporte. 
 
