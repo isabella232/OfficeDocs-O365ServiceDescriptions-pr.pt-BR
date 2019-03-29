@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: a34a4f4a2a96254a65f04e934b3c1c7c178d9088
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468078"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955800"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -178,7 +178,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Descoberta Eletrônica Avançada do Office 365  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Classificação de Segurança<sup>4</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|**[Conformidade [objectDesc]](compliance-servicedesc.md)** <br/> ||||||||
+|**[Conformidade[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
 |Avaliações SAS 70 / SSAE16  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Certificado ISO 27001  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Cláusulas do modelo da UE  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -188,7 +188,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Acordo de processamento de dados da Microsoft  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Dados de PAN controlados por PCI  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**[Continuidade do Serviço](service-health-and-continuity.md)** <br/> ||||||||
-|**[Rim](blackberry.md)** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
+|**[BlackBerry](blackberry.md)** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Usar BIS (BlackBerry Internet Service)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Parceiros](partners.md)** <br/> ||||||||
 |Criar convites para avaliação e ordens de compra para um cliente que está usando o plano especificado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -356,7 +356,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |**[Destinatários](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Alertas de Capacidade  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Email secundário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Dicas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |
+|MailTips  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |
 |Acesso de representante  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Regras da Caixa de Entrada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Contas Conectadas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |
@@ -462,7 +462,7 @@ Para saber mais sobre os limites do Exchange Online, confira o seguinte:
 > - Os limites aplicados a uma organização do Microsoft Office 365 podem variar, dependendo do tempo pelo qual a organização já está registrada no serviço. Quando um limite é alterado nos datacenters da Microsoft, pode demorar algum tempo para que a alteração seja aplicada a todos os clientes existentes. 
 > - Não é possível modificar a maioria desses limites, mas você e seus usuários devem conhecê-los. 
 > - Esses limites se aplicam a destinatários internos e externos. 
-> - Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no Exchange Online, consulte [Limites do Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no ExchangeOnlinePreview, consulte [Limites do Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
   
 ## <a name="exchange-online-protection-features"></a>Recursos da Proteção do Exchange Online
 <a name="BM6_EOP"> </a>
@@ -497,11 +497,11 @@ A tabela a seguir exibe os recursos da Proteção do Exchange Online (EOP) que e
 |[Lista segura de endereço IP de um parceiro](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Sim  <br/> |Sim  <br/> |
 |[Roteamento de email condicional](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Sim  <br/> |Sim  <br/> |
 |[Roteamento híbrido de email](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Não  <br/> |Sim  <br/> |
-|[Relatórios do centro de administração do Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Não<sup>8</sup> <br/> |Sim<sup>8, 9</sup> <br/> |
+|[Relatórios do centro de administração do Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Não<sup>8</sup> <br/> |Sim<sup>8, 9</sup> <br/> |
 |[Relatórios de aplicativo de download do Excel](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |Não  <br/> |Sim  <br/> |
 |[Criar relatórios usando serviços Web](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |Não  <br/> |Sim  <br/> |
 |[Rastreamento de mensagens](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |
-|[Acesso ao centro de administração do Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Sim  <br/> |Sim  <br/> |
+|[Acesso ao centro de administração do Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Sim  <br/> |Sim  <br/> |
 |[Acesso ao centro de administração do Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Sim  <br/> |Sim  <br/> |
 |[Acesso ao Windows PowerShell Remoto](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |
    
