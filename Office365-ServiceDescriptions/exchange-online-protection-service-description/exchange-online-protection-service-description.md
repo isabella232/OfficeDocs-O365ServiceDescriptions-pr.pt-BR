@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obter informações sobre recursos e requisitos para o Exchange Online Protection. Está incluída uma lista de planos que fornecem o Exchange Online Protection, além de uma comparação de recursos entre esses planos.
-ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467668"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955760"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrição do serviço de proteção do Exchange Online
 
@@ -109,11 +109,11 @@ Cada recurso é listado abaixo. Para obter informações mais detalhadas sobre o
 |[Lista segura de endereço IP de um parceiro](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Roteamento de email condicional](mail-flow-eop.md#conditional-mail-routing) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Roteamento híbrido de email](mail-flow-eop.md#hybrid-mail-routing) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Relatórios do centro de administração do Microsoft 365](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Sim<sup>9</sup> <br/> |Sim<sup>10</sup> <br/> |Sim <sup>9, 10</sup> <br/> |
+|[Relatórios do centro de administração do Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Sim<sup>9</sup> <br/> |Sim<sup>10</sup> <br/> |Sim <sup>9, 10</sup> <br/> |
 |[Relatórios de aplicativo de download do Excel](reporting-and-message-trace.md#excel-download-application-reports) <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>11</sup> <br/> |
 |[Criar relatórios usando serviços Web](reporting-and-message-trace.md#reporting-using-web-services) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |[Rastreamento de mensagens](reporting-and-message-trace.md#message-trace) <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim  <br/> |
-|[Acesso ao centro de administração do Microsoft 365](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Acesso ao centro de administração do Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Acesso ao centro de administração do Exchange](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Acesso ao Windows PowerShell Remoto](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |
    
