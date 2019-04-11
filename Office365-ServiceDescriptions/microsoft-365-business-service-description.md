@@ -1,9 +1,9 @@
 ---
-title: Descrição do serviço de negócios 365 da Microsoft
+title: Descrição dos serviços do Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/14/2019
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. . Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
+ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641476"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764819"
 ---
-# <a name="microsoft-365-business-service-description"></a>Descrição do serviço de negócios 365 da Microsoft
+# <a name="microsoft-365-business-service-description"></a>Descrição dos serviços do Microsoft 365 Business
 
-O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. . Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as [descrições de serviço do office 365 ](office-365-service-descriptions-technet-library.md).
+O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as [descrições de serviço do office 365 ](office-365-service-descriptions-technet-library.md).
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Disponibilidade de recursos nos planos de negócios do Office 365 Business Premium e Microsoft 365
 
@@ -58,6 +58,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Grupos do Office 365  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo do Office 365  <br/> |Não  <br/> |Não  <br/> |
 |Bloco de Anotações de Classe  <br/> |Não  <br/> |Não  <br/> |
+|Microsoft Kaizala<sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Recursos de Administração do Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Não<sup>6</sup> <br/> |Sim  <br/> |
@@ -96,7 +97,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Descoberta eletrônica avançada do<sup></sup> Office 365 <br/> |Não  <br/> |Não  <br/> |
 |Pontuação segura<sup>14</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |
-|[Conformidade [objectDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Conformidade[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Avaliações SAS 70 / SSAE16  <br/> |Sim  <br/> |Sim  <br/> |
 |Certificado ISO 27001  <br/> |Sim  <br/> |Sim  <br/> |
 |Cláusulas do modelo da UE  <br/> |Sim  <br/> |Sim  <br/> |
@@ -105,7 +106,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Autoridade FISMA para Operar  <br/> |Sim  <br/> |Sim  <br/> |
 |Acordo de processamento de dados da Microsoft  <br/> |Sim  <br/> |Sim  <br/> |
 |Dados de PAN controlados por PCI  <br/> |Não  <br/> |Não  <br/> |
-|[Rede](office-365-platform-service-description/networking.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Sistema de rede](office-365-platform-service-description/networking.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Protocolos IPv4 e IPv6  <br/> |Sim  <br/> |Sim  <br/> |
 |[Atualizações do Serviço](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Atualizações regulares fornecidas a todos os clientes  <br/> |Sim  <br/> |Sim  <br/> |
@@ -178,3 +179,4 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 <br/><sup>15</sup> gerenciamento simplificado de dispositivos do Windows 10 integrado ao centro de administração do Microsoft 365. Os recursos de gerenciamento do Intune de iOS, Android, macOS e outros gerenciamento de dispositivos entre plataformas incorporados no centro de administração de gerenciamento de dispositivos, também licenciados para uso com o Microsoft 365 Business. Os aplicativos de terceiros e a configuração de itens como perfis WiFi e certificados VPN também podem ser gerenciados no centro de administração de gerenciamento de dispositivos. 
 <br/><sup>16</sup> este plano vem com o Microsoft Stream Plan 2, que inclui o portal de vídeo, a pesquisa de fala e a transcrição de texto, a pesquisa profunda e a detecção de face.
 <br/><sup>17</sup> simplifica o gerenciamento de dispositivos do Windows 10 e as políticas de proteção de aplicativos do Intune criadas no centro de administração do Microsoft 365.
+<br/><sup>18</sup> a partir de maio de 2019, os SKUs qualificados existentes do Office 365 e o Microsoft 365 serão preenchidos com o Kaizala pro. A partir de 1º de junho de 2019, o Kaizala pro será incluído em todos os SKUs qualificados do Office 365 e Microsoft 365. 

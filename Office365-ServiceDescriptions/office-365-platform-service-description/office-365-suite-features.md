@@ -3,7 +3,7 @@ title: Recursos do Pacote do Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466938"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764829"
 ---
 # <a name="office-365-suite-features"></a>Recursos do Pacote do Office 365
 
@@ -97,12 +97,14 @@ Os grupos no Office 365 conectam usuários com os colegas, as informações e os
 O Vídeo do Office 365 é um destino seguro para toda a empresa, no qual você pode carregar, compartilhar e descobrir vídeos em seus dispositivos, com a tecnologia dos Serviços de Mídia do Microsoft Azure. O Vídeo do Office 365 pode ajudar a manter os visualizadores envolvidos e informados, comunicar ideias de forma ampla e manter as organizações sincronizadas. Para saber mais, confira [Introdução ao Vídeo do Office 365](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Bloco de Anotações de Classe
-<a name="BKMK_Video"> </a>
 
 O bloco de anotações de classe faz parte do OneNote e está disponível para educação do Office 365 e Office 365 E5 Education. Cada bloco de anotações inclui uma biblioteca de conteúdo para que os professores compartilhem o conteúdo do curso, um espaço de colaboração onde professores e alunos podem trabalhar juntos e um bloco de anotações privado para cada aluno. Depois que um bloco de anotações de classe for criado, os professores e alunos poderão usar o aplicativo OneNote para acessá-lo de qualquer dispositivo.
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+O Microsoft Kaizala é um aplicativo de gerenciamento de trabalho móvel simples e seguro, trazendo recursos exclusivos para o Microsoft 365, com sua capacidade de conectar e envolver pessoas dentro e fora do diretório de uma organização, incluindo funcionários, fornecedores parceiros, fornecedores, clientes e cidadãos – usando [tipos de grupo](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)grandes e flexíveis. O modelo de diretório aberto do Kaizala habilita a identidade baseada em número de telefone para a integração fácil e uma experiência de usuário simples para o gerenciamento de mensagens e de trabalho. O aplicativo móvel do Kaizala permite que os usuários enviem mensagens instantâneas e anexos, como imagens, documentos, vídeos, áudios e muito mais, bem como usem cartões de ação para pesquisas, pesquisas, atribuições de trabalho, anúncios, treinamentos e muito mais. O [Kaizala está disponível com o Office 365](https://products.office.com/en/business/microsoft-kaizala) e funciona no iPhone e no Android. Para saber mais, vá para o [site do Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
-<a name="BKMK_Video"> </a>
 
 Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   

@@ -3,7 +3,7 @@ title: Opções de planos do Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: 03c04b0b5967247a1ea8b058e74abca98d10bb38
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467128"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764809"
 ---
 # <a name="office-365-plan-options"></a>Opções de planos do Office 365
 
@@ -39,7 +39,7 @@ A tabela a seguir lista os diferentes planos e famílias de serviços disponíve
 |**Enterprise (número ilimitado de usuários)** <br/> |[Office 365 Enterprise E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 Enterprise E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 Enterprise E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 Enterprise F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
 |**Education (quantidade ilimitada de usuários)** <br/> |[Office 365 Education](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 Education E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
 |**Government (quantidade ilimitada de usuários)** <br/> |[Ver todos os planos comerciais disponíveis](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
-|**Office 365 operado pela 21Vianet na China** <br/> |[Confira todos os planos empresariais disponíveis](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**Office 365 operado pela 21Vianet na China** <br/> |[Ver todos os planos comerciais disponíveis](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[Ver todos os planos comerciais disponíveis](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Disponibilidade do serviço em cada plano do Office 365
@@ -63,19 +63,21 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 |Power BI  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Yammer Enterprise  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção de informações do Azure<sup>3</sup> <br/> |Não<sup>2</sup> <br/> |Não  <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Não<sup>2</sup> <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |Sim <br/> |Não  <br/> |Sim <br/> |Sim <br/> |Sim  <br/> |Sim  <br/> |Sim <br/> |
    
-> <sup>1</sup> o Project online não está incluído, mas pode ser adquirido como um serviço complementar separado ou adicionado gratuitamente ao plano de educação do Office 365. > 
-<br/><sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. > 
-<br/><sup>3</sup> para saber mais sobre quais recursos de proteção de informações do Azure estão incluídos nos planos do Office 365, confira [proteção de informações do Azure](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> o Office 365 Enterprise E5 contém recursos de sistema de telefonia, conferência de áudio e plano de chamadas. Para implementar um Plano de Chamada é preciso comprar um plano adicional (seja Doméstico ou Internacional). > 
-<br/><sup>5</sup> inclui armazenamento de 2 GB. Não inclui a funcionalidade de sincronização com o desktop. > 
-<br/><sup>6</sup> inclui o plano 1 do Exchange Online. > 
-<br/><sup>7</sup> inclui o plano 2 do Exchange Online. > 
-<br/><sup>8</sup> inclui o Exchange Online plano 1 mais recursos complementares. > 
-<br/><sup>9</sup> inclui o quiosque do Exchange Online. > 
-<br/><sup>10</sup> inclui o Skype for Business online plano 2 com limitações do cliente básico. > <br/><sup>11</sup> inclui o Skype for Business online plano 2 sem nenhuma limitação de cliente. > <br/><sup>12</sup> inclui o Skype for Business online plano 1 mais recursos complementares. > <br/><sup>13</sup> inclui o Skype for Business online plano 2 com suporte de voz e sem nenhuma limitação de cliente. > 
+> <sup>1</sup> o Project online não está incluído, mas pode ser adquirido como um serviço complementar separado ou adicionado gratuitamente ao plano de educação do Office 365.  
+<br/><sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. 
+<br/><sup>3</sup> para saber mais sobre quais recursos de proteção de informações do Azure estão incluídos nos planos do Office 365, confira [proteção de informações do Azure](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> o Office 365 Enterprise E5 contém recursos de sistema de telefonia, conferência de áudio e plano de chamadas. Para implementar um Plano de Chamada é preciso comprar um plano adicional (seja Doméstico ou Internacional). 
+<br/><sup>5</sup> inclui armazenamento de 2 GB. Não inclui a funcionalidade de sincronização com o desktop. 
+<br/><sup>6</sup> inclui o plano 1 do Exchange Online. 
+<br/><sup>7</sup> inclui o plano 2 do Exchange Online. 
+<br/><sup>8</sup> inclui o Exchange Online plano 1 mais recursos complementares. 
+<br/><sup>9</sup> inclui o quiosque do Exchange Online. 
+<br/><sup>10</sup> inclui o Skype for Business online plano 2 com limitações do cliente básico. > <br/><sup>11</sup> inclui o Skype for Business online plano 2 sem nenhuma limitação de cliente. > <br/><sup>12</sup> inclui o Skype for Business online plano 1 mais recursos complementares. > <br/><sup>13</sup> inclui o Skype for Business online plano 2 com suporte de voz e sem nenhuma limitação de cliente.  
 <br/><sup>14</sup> inclui o Skype for Business online plano 1. 
 <br><sup>15</sup> o Microsoft Teams agora é o cliente principal para mensagens, reuniões e chamadas no Office 365. A partir da OCT. 1, 2018, novos clientes do Office 365 com 500 estações ou menos serão integrados ao Microsoft Teams e não terão acesso ao Skype for Business online. Os locatários que já estiverem usando o Skype for Business online poderão continuar a usá-lo (incluindo o provisionamento de novos usuários) até que concluam a transição para o Microsoft Teams.
 <br><sup>16</sup> inclui conformidade avançada, que fornece controle avançado de dados, descoberta eletrônica avançada, Lockbox de cliente, chave do cliente, gerenciamento de acesso privilegiado e recursos de retenção de log de auditoria de longo prazo.
+<br><sup>17</sup> a partir de maio de 2019, os SKUs qualificados existentes do Office 365 e o Microsoft 365 serão preenchidos com o Kaizala pro. A partir de 1º de junho de 2019, o Kaizala pro será incluído em todos os SKUs qualificados do Office 365 e Microsoft 365. 
   
 #### <a name="basic-client-limitations"></a>Limitações básicas de cliente
 
@@ -118,17 +120,18 @@ Os serviços online a seguir estão disponíveis individualmente, como planos au
   
 |**Serviço**|**Planos**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online (Plano 1)](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online (Plano 2)](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Proteção do Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Proteção Avançada contra Ameaças do Exchange Online](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Arquivamento do Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
-|SharePoint Online  <br/> |[SharePoint Online (Plano 1)](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online (Plano 2)](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
-|OneDrive for Business  <br/> |[Plano 1 do OneDrive for Business](https://onedrive.live.com/about/en-us/business/) <br/> [Plano 2 do OneDrive for Business](https://onedrive.live.com/about/en-us/business/) <br/> |
-|Skype for Business online  <br/> |[Skype for Business Online (Plano 1)](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business Online (Plano 2)](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
+|Exchange Online  <br/> |[Exchange Online Plano 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Plano 2 do Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Proteção do Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Proteção Avançada Contra Ameaças do Exchange Online](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Arquivamento do Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Quiosque do Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|SharePoint Online  <br/> |[SharePoint Online Plano 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online Plano 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
+|OneDrive for Business  <br/> |[OneDrive for Business Plano 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business Plano 2](https://onedrive.live.com/about/en-us/business/) <br/> |
+|Skype for Business Online  <br/> |[Skype for Business Online Plano 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business Online Plano 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
 |Aplicativos do Office  <br/> |[Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 Business](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |Gerenciamento de portfólio do Project  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
-|Yammer  <br/> |[Yammer](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |
+|Yammer  <br/> |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |
 |Informações organizacionais  <br/> |[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492) <br/> |
 |Serviço de Business intelligence  <br/> |[Power BI](https://products.office.com/en-us/business/analytics-and-intelligence/home) <br/> |
 |Software de diagrama online  <br/> |[Visio Pro para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=317348) <br/> |
 |Gerenciamento de Direitos de Informação  <br/> |[Proteção de Informações do Azure](https://go.microsoft.com/fwlink/p/?LinkId=397530) <br/> |
+|Kaizala  <br/> |[Microsoft Kaizala pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 <a name="bkmk_standaloneservices"> </a>

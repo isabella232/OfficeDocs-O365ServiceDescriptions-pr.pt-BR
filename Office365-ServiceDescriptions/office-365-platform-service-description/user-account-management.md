@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: O Microsoft Office 365 oferece suporte aos seguintes métodos para criar, gerenciar e autenticar usuários.
-ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467738"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764849"
 ---
 # <a name="user-account-management"></a>Gerenciamento de Contas de Usuário
 
@@ -55,7 +55,7 @@ Por padrão, a assinatura do Office 365 usa o domínio \< _company name_\> **.on
   
 Você pode hospedar até 900 domínios de Internet registrados no Office 365, cada um representado por um namespace diferente. 
   
-Para organizações usando o logon único, todos os usuários em um domínio devem usar o mesmo sistema de identidade: identidade de nuvem ou identidade federada. Por exemplo, você poderia ter um grupo de usuários que só precisa de uma identidade de nuvem porque eles não acessam sistemas locais e outro grupo de usuários que utilizam o Office 365 e sistemas locais. Você deve adicionar dois domínios ao Office 365, como contractors.contoso.com e staff.contoso.com, e configurar o SSO somente para um deles. Um domínio inteiro pode ser convertido da identidade da nuvem para a identidade federada ou da identidade federada para a identidade na nuvem.
+Para organizações usando o logon único, todos os usuários em um domínio devem usar o mesmo sistema de identidade: identidade de nuvem ou identidade federada. Por exemplo, você poderia ter um grupo de usuários que só precisa de uma identidade de nuvem porque eles não acessam sistemas locais e outro grupo de usuários que utilizam o Office 365 e sistemas locais. Você adicionaria dois domínios ao Office 365, como contractors.contoso.com e staff.contoso.com, e só configurou o SSO para um deles. Um domínio inteiro pode ser convertido da identidade da nuvem para a identidade federada ou da identidade federada para a identidade na nuvem.
   
 Para obter mais informações sobre domínios no Office 365, consulte a descrição de serviço de [Domínios](domains.md). 
   
@@ -71,13 +71,13 @@ Com exceção de sites da internet para acesso anônimo criado com o SharePoint 
     
 - **Autenticação da identidade de nuvem** Os usuários com identidades de nuvem são autenticados pelo tradicional método de desafio/resposta. O navegador da Web é redirecionado para o serviço de entrada do Office 365, onde você digita o nome de usuário e a senha da conta corporativa ou de estudante. O serviço de entrada autentica as credenciais e gera um token de serviço, que o navegador da Web envia para o serviço solicitado e o conecta. 
     
-- **Autenticação de identidade federada** Usuários com identidades federadas são autenticados usando o Serviços de Federação do Active Directory (AD FS) 2.0 ou outros Serviço de Token de Segurança. O navegador é redirecionado para o serviço de entrada do Office 365, onde você digita seu ID corporativo na forma de um nome de usuário principal (UPN; por exemplo, isabel@contoso.com). O serviço de entrada determina que você é parte de um domínio federado e oferece redirecioná-lo para o servidor de Federação no local para autenticação. Se você está conectado ao desktop (domínio), você está autenticado (usando Kerberos ou NTLMv2) e o Serviço de Token de Segurança no local gera um token de logon, que o navegador da web envia para o serviço de entrada do Office 365. Usando o token de logon, o serviço de entrada gera um token de serviço que o navegador da web envia para o serviço solicitado e o conecta. Para uma lista de Serviços de Token de Segurança disponíveis, confira [Mapa de logon único](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Autenticação de identidade federada** Usuários com identidades federadas são autenticados usando o Serviços de Federação do Active Directory (AD FS) 2.0 ou outros Serviço de Token de Segurança. O navegador da Web é redirecionado para o serviço de entrada do Office 365, onde você digita sua ID corporativa na forma de um nome de usuário principal (UPN; por isabel@contoso.comexemplo,). O serviço de entrada determina que você é parte de um domínio federado e oferece redirecioná-lo para o servidor de Federação no local para autenticação. Se você está conectado ao desktop (domínio), você está autenticado (usando Kerberos ou NTLMv2) e o Serviço de Token de Segurança no local gera um token de logon, que o navegador da web envia para o serviço de entrada do Office 365. Usando o token de logon, o serviço de entrada gera um token de serviço que o navegador da web envia para o serviço solicitado e o conecta. Para uma lista de Serviços de Token de Segurança disponíveis, confira [Mapa de logon único](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 O Office 365 usa autenticação baseada em formulários, e o tráfego de autenticação pela rede é sempre criptografia com TLS/SSL usando a porta 443. O tráfego de autenticação usa uma porcentagem negligenciável de largura de banda para serviços do Office 365. 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Autenticação multifator para Office 365
 
-Com a Multi-Factor Authentication para Office 365\*, os usuários são obrigados a reconhecer uma chamada de telefone, mensagem de texto ou uma notificação de aplicativo em seu smartphone após digitar corretamente sua senha. Somente após esta segunda autenticação é que o usuário pode iniciar a sessão. Os administradores do Office 365 podem registrar usuários para a autenticação multifator no centro de administração do Microsoft 365. Saiba mais sobre [Multi-Factor Authentication para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Com a autenticação multiFator para o Office 365, os usuários precisam confirmar uma chamada telefônica, uma mensagem de texto ou uma notificação de aplicativo em seu smartphone após a inserção correta da senha. Somente após esta segunda autenticação é que o usuário pode iniciar a sessão. Os administradores do Office 365 podem registrar usuários para a autenticação multifator no centro de administração do Microsoft 365. Saiba mais sobre [Multi-Factor Authentication para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Autenticação de cliente avançado
 
@@ -175,7 +175,7 @@ O Office 365 Enterprise segue um modelo RBAC (controle de acesso baseado em fun�
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Suporte para parceiros e administração delegada
 
-Parceiros podem ser autorizados a administrar contas em nome de clientes. O cliente não requer uma conta de usuário para o uso de parceiros e não utiliza uma licença do Office 365 quando conceder autoridade de administração delegada. Parceiros podem atribuir acesso completo ou limitado a usuários dentro de sua organização. Acesso limitado inclui direitos para redefinir senhas, gerenciar solicitações de serviço e monitorar a integridade do serviço. Para saber mais, confira [Adicionar ou excluir um administrador delegado](https://go.microsoft.com/fwlink/p/?LinkID=270055).
+Parceiros podem ser autorizados a administrar contas em nome de clientes. O cliente não requer uma conta de usuário para o uso de parceiros e não utiliza uma licença do Office 365 quando conceder autoridade de administração delegada. Parceiros podem atribuir acesso completo ou limitado a usuários dentro de sua organização. Acesso limitado inclui direitos para redefinir senhas, gerenciar solicitações de serviço e monitorar a integridade do serviço. 
   
 > [!NOTE]
 > A capacidade de usar e especificar um parceiro como administrador delegado varia de acordo com a região. 
