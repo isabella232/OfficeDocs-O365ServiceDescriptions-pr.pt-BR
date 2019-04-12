@@ -1,9 +1,9 @@
 ---
-title: Política e conformidade no envio e recebimento de mensagens [ServiceDesc]
+title: Diretiva e conformidade no envio e recebimento de mensagens
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
-ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466968"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825179"
 ---
-# <a name="messaging-policy-and-complianceservicedesc"></a>Política e conformidade no envio e recebimento de mensagens [ServiceDesc]
+# <a name="messaging-policy-and-compliance"></a>Diretiva e conformidade no envio e recebimento de mensagens
 
 O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
   
@@ -36,7 +36,7 @@ As regras de transporte fornecem a flexibilidade de aplicar suas próprias polí
 
 O registro em log de auditoria permite que você controle as alterações específicas feitas pelos administradores em sua organização. Esses relatórios ajudam você a cumprir requisitos de regulamentações, conformidade e litígio. Confira mais informações em [Relatórios de auditoria no EOP](https://go.microsoft.com/fwlink/p/?LinkId=314258).
   
-## <a name="data-loss-prevention-dlp"></a>Data loss prevention (DLP)
+## <a name="data-loss-prevention-dlp"></a>Prevenção de perda de dados (DLP)
 <a name="BKMK_datalossprevention"> </a>
 
 Não disponível para clientes autônomos do EOP. A Prevenção de Perda de Dados (DLP) ajuda a identificar, monitorar e proteger informações confidenciais de sua organização por meio de análise profunda de conteúdo. DLP é cada vez mais importante para sistemas de mensagens corporativos porque o email crucial para os negócios inclui dados confidenciais que precisam ser protegidos. O recurso DLP permite que você proteja dados confidenciais sem afetar a produtividade do trabalhador.
@@ -80,6 +80,9 @@ A criptografia de mensagens do Office 365, parte da proteção de informações 
 |Criptografia de Mensagem do Office 365  <br/> |Sim<sup>4</sup> <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> As ações e critérios disponíveis diferem entre o EOP e o Exchange Online. Para uma lista de critérios e ações disponíveis no EOP, confira [Condições de Regra de Transporte](https://go.microsoft.com/fwlink/p/?LinkId=320392) e [Ações de Regra de Transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para uma lista de critérios e ações disponíveis no Exchange Online, confira [Condições de Regra de Fluxo de Emails](https://go.microsoft.com/fwlink/p/?LinkId=320394) e [Ações de Regra de Fluxo de Emails](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio. > <sup>3</sup> Dicas de política de DLP não estão disponíveis para clientes do Exchange Enterprise CAL com Serviços. > <sup>4</sup> com suporte para clientes locais que compram o complemento de proteção de informações do Azure e use o Exchange Online Protection para rotear emails pelo Exchange Online. Para a experiência de área de trabalho, além do complemento de proteção de informações do Azure, o Office 365 proPlus precisa ser adquirido. 
+> <sup>1</sup> As ações e critérios disponíveis diferem entre o EOP e o Exchange Online. Para uma lista de critérios e ações disponíveis no EOP, confira [Condições de Regra de Transporte](https://go.microsoft.com/fwlink/p/?LinkId=320392) e [Ações de Regra de Transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para uma lista de critérios e ações disponíveis no Exchange Online, confira [Condições de Regra de Fluxo de Emails](https://go.microsoft.com/fwlink/p/?LinkId=320394) e [Ações de Regra de Fluxo de Emails](https://go.microsoft.com/fwlink/p/?LinkId=320395). <br/>
+> <sup>2</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio. <br/>
+> <sup>3</sup> Dicas de política de DLP não estão disponíveis para clientes do Exchange Enterprise CAL com Serviços. <br/>
+> <sup>4</sup> com suporte para clientes locais que compram o complemento de proteção de informações do Azure e use o Exchange Online Protection para rotear emails pelo Exchange Online. Para a experiência de área de trabalho, além do complemento de proteção de informações do Azure, o Office 365 proPlus precisa ser adquirido. <br/>
   
 

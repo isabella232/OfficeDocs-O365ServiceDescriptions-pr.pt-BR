@@ -3,7 +3,7 @@ title: Profissional de TI
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes recursos do SharePoint oferecem suporte a profissionais de TI na proteção e no gerenciamento do ambiente SharePoint de sua organização.
-ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467588"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825159"
 ---
 # <a name="it-professional"></a>Profissional de TI
 
@@ -45,9 +45,9 @@ SharePoint Online fornece proteção anti-malware para arquivos carregados e sal
 Não disponível para clientes do SharePoint Online. Os clientes do SharePoint Server 2013 configuram autenticação baseada em declarações para aplicativos da Web que suportam autenticação servidor para servidor e autenticação de aplicativo do SharePoint Server 2013. Saiba mais sobre o [autenticação baseada em declarações](https://go.microsoft.com/fwlink/p/?LinkId=270982).
   
 ## <a name="data-loss-prevention"></a>Prevenção contra perda de dados
-<a name="bkmk_DLP"> </a>
+<a name="bkmk_DLP"> </a> 
 
-A Prevenção contra perda de dados (DLP) identifica dados confidenciais armazenados no SharePoint Online. A identificação de dados confidenciais pode ajudar a reduzir os riscos para sua organização. Você pode pesquisar os tipos de informações confidenciais em sua organização usando a Central de Descobertas Eletrônicas. As detecções de conteúdo confidencial são anotadas, armazenadas e só estarão disponíveis para usuários aprovados na Central de Descobertas Eletrônicas, e os resultados da classificação podem ser facilmente exportados. Para saber mais sobre os tipos de dados confidenciais, confira [Inventário de tipos de informações confidenciais](https://technet.microsoft.com/en-us/library/jj150541%28v=exchg.150%29.aspx). Saiba mais sobre como [Usar a DLP do SharePoint Online para identificar dados confidenciais armazenados em sites](https://technet.microsoft.com/library/dn798914.aspx).
+A Prevenção contra perda de dados (DLP) identifica dados confidenciais armazenados no SharePoint Online. A identificação de dados confidenciais pode ajudar a reduzir os riscos para sua organização. Você pode pesquisar os tipos de informações confidenciais em sua organização usando a Central de Descobertas Eletrônicas. As detecções de conteúdo confidencial são anotadas, armazenadas e só estarão disponíveis para usuários aprovados na Central de Descobertas Eletrônicas, e os resultados da classificação podem ser facilmente exportados. Para saber mais sobre os tipos de dados confidenciais, confira [Inventário de tipos de informações confidenciais](https://technet.microsoft.com/library/jj150541%28v=exchg.150%29.aspx). Saiba mais sobre como [Usar a DLP do SharePoint Online para identificar dados confidenciais armazenados em sites](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp).
   
 ## <a name="encryption-at-rest"></a>Encryption at rest
 <a name="bkmk_EncryptionAtRest"> </a>

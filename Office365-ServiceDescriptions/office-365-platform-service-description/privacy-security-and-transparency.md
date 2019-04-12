@@ -3,7 +3,7 @@ title: Privacidade, Segurança e Transparência
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 01/02/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: A Microsoft valoriza as parcerias que temos com nossos clientes e dá muita importância para a privacidade a segurança dos dados dos clientes. Para saber mais, consulte a Central de Confiabilidade da Microsoft.
-ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467578"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825206"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacidade, Segurança e Transparência
 
@@ -33,7 +33,7 @@ Para saber mais sobre como o Microsoft Office 365 protege a privacidade de seus 
   
 Para as etapas específicas que os administradores de Empresas, Empresas de médio porte, Governo e Educação poderão seguir para configurar as definições de privacidade do Office 365, confira [Opções avançadas de privacidade para administradores](https://go.microsoft.com/fwlink/p/?LinkID=285202).
   
-Para saber mais sobre segurança e privacidade para outros serviços da Microsoft, incluindo o Office 365 ProPlus, confira [A que serviços online a Central de Confiança se aplica?](https://go.microsoft.com/fwlink/p/?LinkID=281962)
+Para saber mais sobre segurança e privacidade para outros serviços da Microsoft, incluindo o Office 365 ProPlus, confira [A que serviços online a Central de Confiança se aplica?](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>Segurança
 
@@ -59,6 +59,6 @@ O Office 365 proteção avançada contra ameaças ajuda a proteger sua organiza�
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
   
 

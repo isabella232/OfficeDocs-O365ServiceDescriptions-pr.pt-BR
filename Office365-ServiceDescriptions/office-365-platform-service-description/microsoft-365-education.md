@@ -2,7 +2,7 @@
 title: Microsoft 365 Education
 ms.author: sharik
 author: skjerland
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 1303484ca25d737b1cc5217b6b3dc8a129585dc6
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468168"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825189"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -97,6 +97,17 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |Proteção de ponto de extremidade do System Center  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> inclui o Exchange Online plano 1 mais recursos complementares. > <sup>2</sup> inclui o plano 2 do Exchange Online. > <sup>3</sup> inclui o SharePoint Online plano 1 mais recursos complementares. > <sup>4</sup> inclui o SharePoint Online plano 2. > <sup>5</sup> o Project online Essentials não está incluído, mas pode ser adicionado gratuitamente ao plano de educação do Office 365. > <sup>6</sup> o Microsoft 365 Education a5 contém recursos de sistema de telefonia, conferência de áudio e plano de chamadas. Para implementar o plano de chamadas exige um plano adicional de compra (plano de chamadas domésticas ou de chamadas internacionais). > <sup>7</sup> para saber mais sobre quais recursos de proteção de informações do Azure estão incluídos nos planos do Office 365, confira [proteção de informações do Azure](https://go.microsoft.com/fwlink/?linkid=838357). > <sup>8</sup> inclui o Intune. > <sup>9</sup> servidores e CALs estão incluídos no Exchange, SharePoint e Skype for Business. > <sup>10</sup> ECAL ou a Cal principal, dependendo da versão de a3 que é adquirida — com a5, os direitos de ECAL são incluídos. > <sup>11</sup> para obter mais informações sobre o Azure Active Directory, confira [o que é o Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). > <sup>12</sup> o Office Pro Plus é necessário para aplicar proteções e enviar emails protegidos da área de trabalho do Outlook. 
+> <sup>1</sup> inclui o Exchange Online plano 1 mais recursos complementares. <br/>
+> <sup>2</sup> inclui o plano 2 do Exchange Online. <br/>
+> <sup>3</sup> inclui o SharePoint Online plano 1 mais recursos complementares. <br/>
+> <sup>4</sup> inclui o SharePoint Online plano 2. <br/>
+> <sup>5</sup> o Project online Essentials não está incluído, mas pode ser adicionado gratuitamente ao plano de educação do Office 365. <br/>
+> <sup>6</sup> o Microsoft 365 Education a5 contém recursos de sistema de telefonia, conferência de áudio e plano de chamadas. Para implementar o plano de chamadas exige um plano adicional de compra (plano de chamadas domésticas ou de chamadas internacionais). <br/>
+> <sup>7</sup> para saber mais sobre quais recursos de proteção de informações do Azure estão incluídos nos planos do Office 365, confira [proteção de informações do Azure](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
+> <sup>8</sup> inclui o Intune. <br/>
+> <sup>9</sup> servidores e CALs estão incluídos no Exchange, SharePoint e Skype for Business. <br/>
+> <sup>10</sup> ECAL ou a Cal principal, dependendo da versão de a3 que é adquirida — com a5, os direitos de ECAL são incluídos. <br/>
+> <sup>11</sup> para obter mais informações sobre o Azure Active Directory, confira [o que é o Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
+> <sup>12</sup> o Office Pro Plus é necessário para aplicar proteções e enviar emails protegidos da área de trabalho do Outlook. 
   
 
