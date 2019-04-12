@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para saber mais sobre os recursos do Office 365 que acabaram de ser lançados ou estão prestes a serem lançados, confira o Microsoft 365 Roadmap.
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825149"
+ms.locfileid: "31833833"
 ---
 # <a name="service-updates"></a>Atualizações do Serviço
 
@@ -32,7 +32,7 @@ Para saber mais sobre os recursos do Office 365 que acabaram de ser lançados ou
   
 ## <a name="targeted-release"></a>Lançamento direcionado
 
-Com o lançamento direcionado, sua organização ou um conjunto de usuários recebe um conjunto de atualizações de serviço de seleção de aproximadamente uma semana antes de começarmos nosso processo de lançamento padrão. Saiba mais em [Programas de lançamento do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
+Com o lançamento direcionado, sua organização ou um conjunto de usuários recebe um conjunto de atualizações de serviço de seleção de aproximadamente uma semana antes de começarmos nosso processo de lançamento padrão. Para saber mais, confira [Office 365 Release Options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
   
 ## <a name="update-notifications"></a>Notificações de atualização
 

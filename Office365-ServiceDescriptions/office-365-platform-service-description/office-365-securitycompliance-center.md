@@ -3,7 +3,7 @@ title: Centro de Conformidade e Segurança do Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade &amp; de segurança do Office 365 foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
-ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
+ms.openlocfilehash: 11175d1cbbf1b60adee403b02118ae2d7f878fde
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31411860"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833853"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -29,21 +29,22 @@ O [centro de conformidade &amp; de segurança do Office 365](https://go.microsof
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US Government F1** <br/> |
-|[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**Recurso** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 governo dos EUA G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 governo dos EUA G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 governo dos EUA F1** <br/> |
+|[Acesso ao centro de &amp; conformidade de segurança](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Gerenciamento de ameaças](https://go.microsoft.com/fwlink/?linkid=845550) , como filtragem de mensagens e anti-malware  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento avançado de ameaças](https://go.microsoft.com/fwlink/?linkid=846673) , como Lockbox de clientes e explorador de ameaças para campanhas de phishing <sup>6</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Gerenciamento de dispositivo móvel](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Prevenção contra perda de dados](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|[Governança de dados](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Prevenção de perda de dados para o Exchange Online, o SharePoint Online e o OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|[Prevenção de perda de dados para chat do Microsoft Teams e conversas de canal](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/>|
+|[Governança de dados](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Governança de dados avançada](https://go.microsoft.com/fwlink/?linkid=842991) <sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Pesquisa e investigação](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[pesquisa de descoberta eletrônica](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[exportação de descoberta eletrônica](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[suspensões de descoberta eletrônica (incluindo bloqueios de descoberta eletrônica baseados em consulta)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Descoberta eletrônica avançada](https://go.microsoft.com/fwlink/?linkid=715714) <sup>5</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
-|[Arquivamento](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Não  <br/> |
+|[Arquivamento](https://technet.microsoft.com/library/exchange-online-limits.aspx) <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Não  <br/> |
 |Políticas de retenção/exclusão manuais  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
    
 > <sup>1</sup> a governança de dados permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede; e criar e aplicar políticas de retenção/exclusão entre cargas de trabalho, usuários e grupos. As políticas de retenção aplicadas às caixas de correio exigem o Office 365 Enterprise E3 ou e5.
@@ -56,8 +57,8 @@ O [centro de conformidade &amp; de segurança do Office 365](https://go.microsof
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Exchange Online Plano 1** <br/> |**Plano 2 do Exchange Online** <br/> |**Quiosque do Exchange Online** <br/> |**SharePoint Online Plano 1** <br/> |**SharePoint Online Plano 2** <br/> |**Skype for Business Online Plano 1** <br/> |**Skype for Business Online Plano 2** <br/> |
-|[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**Recurso** <br/> |**Exchange Online (Plano 1)** <br/> |**Exchange Online (Plano 2)** <br/> |**Quiosque do Exchange Online** <br/> |**SharePoint Online (Plano 1)** <br/> |**SharePoint Online (Plano 2)** <br/> |**Skype for Business Online (Plano 1)** <br/> |**Skype for Business Online (Plano 2)** <br/> |
+|[Acesso ao centro de &amp; conformidade de segurança](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de ameaças](https://go.microsoft.com/fwlink/?linkid=845550) , como filtragem de mensagens e anti-malware  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento avançado de ameaças](https://go.microsoft.com/fwlink/?linkid=846673) , como Lockbox de clientes e explorador de ameaças para campanhas de phishing  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -70,7 +71,7 @@ O [centro de conformidade &amp; de segurança do Office 365](https://go.microsof
 |[exportação de descoberta eletrônica](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |
 |[suspensões de descoberta eletrônica (incluindo bloqueios de descoberta eletrônica baseados em consulta)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |[Descoberta eletrônica avançada](https://go.microsoft.com/fwlink/?linkid=715714) <sup>5</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Arquivamento](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <sup>6</sup> <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
+|[Arquivamento](https://technet.microsoft.com/library/exchange-online-limits.aspx) <sup>6</sup> <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |Políticas de retenção/exclusão manuais  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
    
 > <sup>1</sup> a governança de dados permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede; e criar e aplicar políticas de retenção/exclusão entre cargas de trabalho, usuários e grupos. As políticas de retenção aplicadas às caixas de correio exigem o Office 365 Enterprise E3 ou e5. 
