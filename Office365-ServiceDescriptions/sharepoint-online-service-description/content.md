@@ -3,7 +3,7 @@ title: Conteúdo
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os recursos de Conteúdo a seguir tornam o ECM (Gerenciamento de Conteúdo Corporativo) simples para todos. Eles combinam gerenciamento de conteúdo tradicional, recursos sociais e pesquisa avançada.
-ms.openlocfilehash: cfa36cfa492b1abf7e98be2b259fcd267d7d7930
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467508"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981675"
 ---
 # <a name="content"></a>Conteúdo
 
@@ -29,7 +29,7 @@ O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na We
 ## <a name="accessibility-standards-support"></a>Accessibility Standards Support
 <a name="bkmk_AccessibilitySS"> </a>
 
-A maioria dos elementos da IU (interface de usuário) do SharePoint, como links, controles de formulário e botões, foi projetada para usar o MSAA (Microsoft Active Accessibility). O MSAA permite que pessoas com deficiência interajam com o conteúdo usando tecnologias assistenciais, como um leitor de tela. Saiba mais sobre [Recursos de acessibilidade](https://go.microsoft.com/fwlink/?LinkId=270947).
+A maioria dos elementos da IU (interface de usuário) do SharePoint, como links, controles de formulário e botões, foi projetada para usar o MSAA (Microsoft Active Accessibility). O MSAA permite que pessoas com deficiência interajam com o conteúdo usando tecnologias assistenciais, como um leitor de tela. Saiba mais sobre [Recursos de acessibilidade](https://www.microsoft.com/accessibility/features?activetab=pivot_1%3aprimaryr2).
   
 ## <a name="asset-library-enhancementsvideo-support"></a>Asset Library Enhancements/Video Support
 <a name="bkmk_AssetLibraryEnhancementsViseoSupport"> </a>
@@ -84,17 +84,17 @@ No modo de exibição de Leitura, o Word Online agora possui uma opção para qu
 ## <a name="ediscovery-search"></a>eDiscovery Search
 <a name="bkmk_eDiscovery_Search"> </a>
 
-A pesquisa de Descoberta Eletrônica permite que os usuários pesquisem informações armazenadas eletronicamente (ESI), que podem ser usadas como provas para o auxílio de conformidade e litígios. Conteúdo de pesquisa inclui conteúdos estruturados, como documentos e itens de lista, assim como blogs, wikis, news feeds e conteúdo de caixas de correio do Exchange. Para descobri-lo, o conteúdo precisa ser indexado pela pesquisa. Para saber mais, confira [Criar e executar consultas de Descoberta Eletrônica](https://go.microsoft.com/fwlink/?LinkId=402985).
+A pesquisa de Descoberta Eletrônica permite que os usuários pesquisem informações armazenadas eletronicamente (ESI), que podem ser usadas como provas para o auxílio de conformidade e litígios. Conteúdo de pesquisa inclui conteúdos estruturados, como documentos e itens de lista, assim como blogs, wikis, news feeds e conteúdo de caixas de correio do Exchange. Para descobri-lo, o conteúdo precisa ser indexado pela pesquisa. Para saber mais, confira [Criar e executar consultas de Descoberta Eletrônica](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center).
   
 ## <a name="ediscovery-hold"></a>eDiscovery Hold
 <a name="bkmk_eDiscovery_Hold"> </a>
 
-Aplicar uma retenção significa preservar uma cópia do conteúdo original no caso de modificação ou exclusão feita por um usuário. Podem ser implementadas retenções em conteúdos de sites do SharePoint (incluindo sites do OneDrive for Business) em caixas de correio do Exchange (incluindo conversas arquivadas do Skype for Business). Uma retenção é usada para manter o conteúdo na sua forma original durante a aplicação da retenção. Quando os usuários aplicam uma retenção a um site ou a uma caixa de correio, o conteúdo do site ou da caixa de correio permanece no seu local original. Para saber mais, confira [Adicionar conteúdo a um caso de Descoberta Eletrônica e colocar fontes em retenção](https://go.microsoft.com/fwlink/?LinkId=270964).
+Aplicar uma retenção significa preservar uma cópia do conteúdo original no caso de modificação ou exclusão feita por um usuário. Podem ser implementadas retenções em conteúdos de sites do SharePoint (incluindo sites do OneDrive for Business) em caixas de correio do Exchange (incluindo conversas arquivadas do Skype for Business). Uma retenção é usada para manter o conteúdo na sua forma original durante a aplicação da retenção. Quando os usuários aplicam uma retenção a um site ou a uma caixa de correio, o conteúdo do site ou da caixa de correio permanece no seu local original. Para saber mais, confira [Adicionar conteúdo a um caso de Descoberta Eletrônica e colocar fontes em retenção](https://docs.microsoft.com/sharepoint/governance/add-content-to-a-case-and-place-sources-on-hold-in-the-ediscovery-center).
   
 ## <a name="ediscovery-export"></a>eDiscovery Export
 <a name="bkmk_eDiscovery_export"> </a>
 
-Quando você estiver pronto para entregar seu conteúdo de Descoberta Eletrônica a uma autoridade ou se quiser trabalhar com outro programa jurídico, poderá exportar o conteúdo a partir do Centro de Descoberta Eletrônica. Quando o conteúdo é exportado, ele é fornecido em um formato de EDRM padrão, que é muitas vezes usado por outros programas de Descoberta Eletrônica. Um manifesto do XML do Modelo de Referência de Descoberta Eletrônica é incluído nos resultados de pesquisa para fornecer metadados sobre os itens exportados. Para saber mais, confira [Exportar conteúdo de Descoberta Eletrônica e criar relatórios](https://go.microsoft.com/fwlink/?LinkId=402986).
+Quando você estiver pronto para entregar seu conteúdo de Descoberta Eletrônica a uma autoridade ou se quiser trabalhar com outro programa jurídico, poderá exportar o conteúdo a partir do Centro de Descoberta Eletrônica. Quando o conteúdo é exportado, ele é fornecido em um formato de EDRM padrão, que é muitas vezes usado por outros programas de Descoberta Eletrônica. Um manifesto do XML do Modelo de Referência de Descoberta Eletrônica é incluído nos resultados de pesquisa para fornecer metadados sobre os itens exportados. Para saber mais, confira [Exportar conteúdo de Descoberta Eletrônica e criar relatórios](https://docs.microsoft.com/office365/securitycompliance/export-case-data-in-advanced-ediscovery).
   
 ## <a name="external-sharing-external-access"></a>External Sharing: External Access
 <a name="bkmk_ExternalSharingExternalAccess"> </a>
@@ -124,7 +124,7 @@ As resoluções da imagem permitem que as organizações tenham imagens originai
 ## <a name="information-rights-management-irm"></a>Gerenciamento de Direitos de Informação (IRM)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-O IRM online do SharePoint usa a proteção de informações do Azure, uma tecnologia de proteção de informações no Office 365. A proteção por IRM é aplicada a arquivos nos níveis de biblioteca e lista do SharePoint. Saiba mais sobre [IRM no SharePoint Online](https://go.microsoft.com/fwlink/?LinkId=270963).
+O IRM online do SharePoint usa a proteção de informações do Azure, uma tecnologia de proteção de informações no Office 365. A proteção por IRM é aplicada a arquivos nos níveis de biblioteca e lista do SharePoint. Saiba mais sobre [IRM no SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
   
 ## <a name="managed-metadata-service"></a>Serviço de metadados gerenciados
 <a name="bkmk_ManagedMetadataService"> </a>
@@ -154,7 +154,7 @@ Por padrão, o Office Online está em modo somente exibição A funcionalidade S
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
 
-Não aplicável a clientes do SharePoint Online. No SharePoint Server 2010, Office Web Apps é um aplicativo de serviço do SharePoint. Para o SharePoint Server 2013, há um produto novo para o servidor Office, o Office Web Apps Server. Um único farm do Office Web Apps Server pode suportar usuários que acessam os arquivos do Office através do SharePoint Server 2013, Exchange Server 2013, pastas compartilhadas e sites. Isso permite que você possa implantar e gerenciar a versão online do Office em um ambiente no local. Saiba mais sobre [Integração com o Office Web Apps Server](https://go.microsoft.com/fwlink/?LinkId=270911).
+Não aplicável a clientes do SharePoint Online. No SharePoint Server 2010, Office Web Apps é um aplicativo de serviço do SharePoint. Para o SharePoint Server 2013, há um produto novo para o servidor Office, o Office Web Apps Server. Um único farm do Office Web Apps Server pode suportar usuários que acessam os arquivos do Office através do SharePoint Server 2013, Exchange Server 2013, pastas compartilhadas e sites. Isso permite que você possa implantar e gerenciar a versão online do Office em um ambiente no local. Saiba mais sobre [Integração com o Office Web Apps Server](https://docs.microsoft.comskypeforbusiness/help-topics/help-topobld/add-office-web-apps-server).
   
 ## <a name="preservation-hold-library"></a>Preservation hold library
 <a name="bkmk_PreservationHoldLibrary"> </a>
@@ -179,7 +179,7 @@ No SharePoint, você pode gerenciar os registros em um arquivamento ou pode gere
 ## <a name="recycle-bin-sharepoint-admin-center"></a>Recycle Bin (SharePoint admin center)
 <a name="bkmk_RecycleBinadmincenter"> </a>
 
-Os administradores do SharePoint Online podem restaurar uma coleção de sites excluídos usando o centro de administração do SharePoint. Para saber mais, confira [Restaurar uma coleção de sites excluídos](https://go.microsoft.com/fwlink/p/?LinkId=286114). 
+Os administradores do SharePoint Online podem restaurar uma coleção de sites excluídos usando o centro de administração do SharePoint. Para saber mais, confira [Restaurar uma coleção de sites excluídos](https://docs.microsoft.com/sharepoint/sites/delete-and-restore-site-collections). 
   
 ## <a name="recycle-bin-site-collection"></a>Recycle Bin (site collection)
 <a name="bkmk_RecycleBinSC"> </a>

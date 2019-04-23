@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825199"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981635"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
 
@@ -36,7 +36,7 @@ Por padrão, o acesso ao Outlook é habilitado para todos os usuários. Os admin
 Para saber mais sobre quais clientes do Outlook são compatíveis com o Exchange 2016 e o Exchange Online, confira "Clientes com suporte" em [Requisitos de sistema do Exchange 2016](https://go.microsoft.com/fwlink/?LinkID=828972).
   
 > [!IMPORTANT]
->  O Outlook não é fornecido como parte do preço de assinatura do Exchange Online. O Microsoft Office Pro Plus (que inclui o Microsoft Outlook) foi incluído em alguns dos planos do Office 365 e pode ser adquirido como uma assinatura separada. >  Se usar POP para se conectar a uma conta de email Exchange Online, você verá as seguintes limitações: >  Nenhuma informação de calendário >  Nenhuma informação de disponibilidade >  Nenhuma Lista de Endereços Global >  Nenhum email por push >  Ao conectar-se por POP, todas as mensagens serão baixadas para o cliente e não haverá sincronização entre vários computadores ou dispositivos (como laptops e telefones). 
+>  O Outlook não é fornecido como parte do preço de assinatura do Exchange Online. O Microsoft Office Pro Plus (que inclui o Microsoft Outlook) foi incluído em alguns dos planos do Office 365 e pode ser adquirido como uma assinatura separada. Você verá as seguintes limitações se usar POP para se conectar a uma conta de email do Exchange Online: > sem informações de calendário > não há informações de disponibilidade > nenhuma lista de endereços global > nenhum > de email de envio ao se conectar por POP, todas as mensagens serão downlo aded para o cliente e não haverá sincronização entre vários computadores ou dispositivos (como entre um laptop e um telefone). 
   
 ## <a name="outlook-on-the-web"></a>Outlook na Web
 
