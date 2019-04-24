@@ -1,27 +1,13 @@
 ---
-title: Limites do Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
-ms.date: 03/18/2019
-ms.audience: ITPro
-ms.topic: reference
-f1_keywords:
-- exchange-online-limits
-ms.service: o365-administration
-localization_priority: Normal
-ms.custom:
+título: "Limites do Exchange Online" ms.autor: sharik autor: skjerland gerente: mnirkhe <<<<<<< HEAD ms.data: 15/04/2019 ======= ms.data: 18/04/2019
+>>>>>>> mestre ms.audiência: ITPro ms.tópico: referência f1_teclas:
+- 'limites-do-exchange-online' ms.serviço: o365-prioridade_administração localização: Normal ms.custom:
 - Adm_ServiceDesc
-- Adm_ServiceDesc_top
-ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
-description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641466"
+- Adm_ServiceDesc_top ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
+
+<a name="description-find-the-exchange-online-limits-for-a-variety-of-service-areas-including-address-book-limits-mailbox-storage-limits-and-reporting-and-message-trace-limits-to-name-just-a-few"></a>description: ""
 ---
+
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
 Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
@@ -241,7 +227,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 
 Os limites a seguir são aplicados a todas as mensagens de email.
   
-- **Limite de tamanho de mensagem** Os limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, consulte [O Office 365 agora dá suporte a mensagens de email maiores](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Limite de tamanho de mensagem** Os limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, consulte [O Office 365 agora dá suporte a mensagens de email maiores](https://www.microsoft.com/pt-BR/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
     
     > [!NOTE]
     > Clientes de email específicos podem ter limites de tamanho de mensagem menores ou podem limitar o tamanho de um anexo de arquivo individual para um valor que seja menor do que o limite de tamanho de mensagens do Exchange Online. 
@@ -281,7 +267,7 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de profundidade de mensagem inserida  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> o tamanho da mensagem máxima padrão para caixas de correio do Office 365 é de 25 MB. Os administradores do Office 365 podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para saber mais sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, confira [Office 365 agora dá suporte a emails maiores](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Você pode enviar e receber mensagens de até 150 MB entre usuários do Office 365 (onde a mensagem nunca deixa os datacenters do Office 365). As mensagens roteadas fora dos datacenters do Office 365 estão sujeitas a um aumento de 33% para codificação de translação, nesse caso o tamanho máximo da mensagem é de 112 MB. <br/> <sup>3</sup> O OWA conta com a possibilidade de que sua mensagem esteja sujeita ao aumento de 33% para a codificação e restringe o tamanho da mensagem que você pode enviar a menos 25% da configuração definida. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. <br/> <sup>4</sup> O tamanho das mensagens a serem movidas para o Exchange Online será calculado pelo Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. Esse limite se aplica para mover as migrações com base usando qualquer serviço de replicação de caixa de correio do Exchange. Outros métodos de migração (substituição, em estágios, IMAP, PST) e outras ferramentas de terceiros são limitadas pelo limite geral de tamanho de mensagem. <br/> 
+> <sup>1</sup> o tamanho da mensagem máxima padrão para caixas de correio do Office 365 é de 25 MB. Os administradores do Office 365 podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para saber mais sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, confira [Office 365 agora dá suporte a emails maiores](https://www.microsoft.com/pt-BR/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Você pode enviar e receber mensagens de até 150 MB entre usuários do Office 365 (onde a mensagem nunca deixa os datacenters do Office 365). As mensagens roteadas fora dos datacenters do Office 365 estão sujeitas a um aumento de 33% para codificação de translação, nesse caso o tamanho máximo da mensagem é de 112 MB. <br/> <sup>3</sup> O OWA conta com a possibilidade de que sua mensagem esteja sujeita ao aumento de 33% para a codificação e restringe o tamanho da mensagem que você pode enviar a menos 25% da configuração definida. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. <br/> <sup>4</sup> O tamanho das mensagens a serem movidas para o Exchange Online será calculado pelo Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. Esse limite se aplica para mover as migrações com base usando qualquer serviço de replicação de caixa de correio do Exchange. Outros métodos de migração (substituição, em estágios, IMAP, PST) e outras ferramentas de terceiros são limitadas pelo limite geral de tamanho de mensagem. <br/> 
   <sup>5</sup> Para obter informações sobre OME com os novos recursos, confira [Configurar novos recursos de criptografia de mensagens do Office 365 criados sobre a proteção de informações do Azure](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>6</sup> Não é possível anexar um arquivo com mais de 35 MB. Também não é possível anexar arquivos que juntos ultrapassam 35 MB. Por exemplo, se você anexar um arquivo de 34 MB, só poderá anexar outro de 1 MB. 
   
 ### <a name="message-limits-across-standalone-options"></a>Limites de mensagem em opções autônomas
@@ -304,7 +290,7 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de profundidade de mensagem inserida  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Os administradores do Office 365 podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para saber mais sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, confira [Office 365 agora dá suporte a emails maiores](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Você pode enviar e receber mensagens de até 150 MB entre usuários do Office 365 (onde a mensagem nunca deixa os datacenters do Office 365). As mensagens roteadas fora dos datacenters do Office 365 estão sujeitas a um aumento de 33% para codificação de translação, nesse caso o tamanho máximo da mensagem é de 112 MB. <br/> <sup>3</sup> O OWA conta com a possibilidade de que sua mensagem esteja sujeita ao aumento de 33% para a codificação e restringe o tamanho da mensagem que você pode enviar a menos 25% da configuração definida. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. <br/> <sup>4</sup> Este é o limite padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização. <br/> <sup>5</sup> O tamanho das mensagens a serem movidas para o Exchange Online será calculado pelo Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. <br/> 
+> <sup>1</sup> Os administradores do Office 365 podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para saber mais sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, confira [Office 365 agora dá suporte a emails maiores](https://www.microsoft.com/pt-BR/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Você pode enviar e receber mensagens de até 150 MB entre usuários do Office 365 (onde a mensagem nunca deixa os datacenters do Office 365). As mensagens roteadas fora dos datacenters do Office 365 estão sujeitas a um aumento de 33% para codificação de translação, nesse caso o tamanho máximo da mensagem é de 112 MB. <br/> <sup>3</sup> O OWA conta com a possibilidade de que sua mensagem esteja sujeita ao aumento de 33% para a codificação e restringe o tamanho da mensagem que você pode enviar a menos 25% da configuração definida. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. <br/> <sup>4</sup> Este é o limite padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização. <br/> <sup>5</sup> O tamanho das mensagens a serem movidas para o Exchange Online será calculado pelo Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. <br/> 
   <sup>6</sup> Para obter informações sobre OME com os novos recursos, confira [Configurar novos recursos de criptografia de mensagens do Office 365 criados sobre a proteção de informações do Azure](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
   
 ## <a name="receiving-and-sending-limits"></a>Receber e enviar limites
@@ -387,7 +373,7 @@ Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa 
 |Período de retenção na pasta Lixo Eletrônico  <br/> |30 dias  <br/> |30 dias  <br/> |30 dias  <br/> |30 dias  <br/> |30 dias  <br/> |30 dias  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Este é o limite padrão. Os administradores podem alterar esse valor para suas organizações. 
+> <sup>1</sup> Esse é o valor padrão para organizações do Office 365. Os administradores podem alterar esse valor para um máximo de 30 dias para caixas de correio em sua organização.
   
 ### <a name="retention-limits-across-standalone-options"></a>Limites de retenção em opções autônomas
 
@@ -470,7 +456,7 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, de tran
 |Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
 |Limites de verificação de conteúdos de anexos  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
 |Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte  <br/> |100 destinatários  <br/> |100 destinatários  <br/> |100 destinatários  <br/> |100 destinatários  <br/> |100 destinatários  <br/> |100 destinatários  <br/> |
-|Limite de encaminhamento  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |
+|Limite de encaminhamento  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |
 |Número de vezes que uma mensagem é redirecionada  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |
    
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limites de regra de Diário, Transporte e Caixa de Entrada entre opções independentes
