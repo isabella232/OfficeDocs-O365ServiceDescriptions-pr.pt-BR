@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: 'Para atender aos requisitos exclusivos de aprimoramento dos governos, nas esferas tribal, local, estadual e federal dos Estados Unidos, bem como dos prestadores de serviços que controlam ou processam dados em nome do Governo dos EUA, a Microsoft oferece os serviços do Office 365 US Government Community. Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA. '
+description: Para atender aos requisitos exclusivos e em evolução dos governos dos Estados Unidos, estaduais, locais e do tribal, bem como os prestadores de serviço que mantêm ou processam dados em nome do governo dos EUA, a Microsoft oferece serviços da comunidade de governos dos EUA (GCC) do Office 365. Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA.
 ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379023"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247127"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-Para atender aos requisitos exclusivos de aprimoramento dos governos, nas esferas tribal, local, estadual e federal dos Estados Unidos, bem como dos prestadores de serviços que controlam ou processam dados em nome do Governo dos EUA, a Microsoft oferece os serviços do Office 365 US Government Community. Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA.  
+Para atender aos requisitos exclusivos e em evolução dos governos dos Estados Unidos, estaduais, locais e do tribal, bem como os prestadores de serviço que mantêm ou processam dados em nome do governo dos EUA, a Microsoft oferece serviços da comunidade de governos dos EUA (GCC) do Office 365. Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA. 
   
 Contate sua equipe de contas ou um parceiro preferido para saber mais ou para iniciar o processo de validação. Para saber mais, vá para a página [Planos do Office 365 Government](https://products.office.com/en-us/government/compare-office-365-government-plans). 
   

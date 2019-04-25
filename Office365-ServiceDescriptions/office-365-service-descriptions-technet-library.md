@@ -1,5 +1,5 @@
 ---
-title: 'Descrições do Serviço do Office 365 '
+title: 'Descrições dos serviços do Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário.
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641436"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246787"
 ---
-# <a name="office-365-service-descriptions"></a>Descrições do Serviço do Office 365 
+# <a name="office-365-service-descriptions"></a>Descrições dos serviços do Office 365 
 
 O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário. 
   
@@ -47,29 +47,29 @@ Para começar, consulte as seguintes descrições de serviço:
     
 - [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
     
-- [Descrição do serviço de proteção avançada contra ameaças do Office 365](office-365-advanced-threat-protection-service-description.md)
+- [Descrição do Serviço da Proteção Avançada contra Ameaças do Office 365](office-365-advanced-threat-protection-service-description.md)
     
 - [Descrição do Serviço de Arquivamento do Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
-- [Descrição de serviço do OneDrive for Business](onedrive-for-business-service-description.md)
+- [Descrição do Serviço do OneDrive for Business](onedrive-for-business-service-description.md)
     
-- [Descrição do serviço SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Descrição do Serviço do SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
     
 - [Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
-- [Descrição do serviço de análise de local de trabalho](workplace-analytics-service-description.md)
+- [Descrição do serviço do Workplace Analytics](workplace-analytics-service-description.md)
 
-- [Descrição do serviço do myAnalytics](mya-service-description.md)
+- [Descrição do serviço do MyAnalytics](mya-service-description.md)
     
 - [Descrição do Serviço Power BI](power-bi-service-description.md)
     
-- [Descrição de serviço do Project Online](project-online-service-description/project-online-service-description.md)
+- [Descrição do Serviço do Project Online](project-online-service-description/project-online-service-description.md)
     
-- [Descrição do serviço do Visio online](visio-online-service-description/visio-online-service-description.md)
+- [Descrição do Serviço do Visio Online](visio-online-service-description/visio-online-service-description.md)
     
-- [Descrição de serviços do Yammer](yammer-service-description/yammer-service-description.md)
+- [Descrição do Serviço do Yammer](yammer-service-description/yammer-service-description.md)
     
-- [Descrição do serviço do Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
+- [Descrição do Serviço do Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> Inclui disponibilidade de [recursos do pacote](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx), como o Microsoft Delve, o Microsoft MyAnalytics, o Microsoft Sway e o Microsoft Teams. 

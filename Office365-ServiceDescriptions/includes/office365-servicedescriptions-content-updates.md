@@ -10,7 +10,7 @@
 |------|------------|--------|
 | 3/12/2019 | [Continuidade e Integridade do Serviço](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
 | 3/14/2019 | [Descrição dos serviços do Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
-| 3/14/2019 | [Descrição do serviço do MyAnalytics](/Office365/ServiceDescriptions/mya-service-description) | adicioná |
+| 3/14/2019 | [Descrição do serviço do MyAnalytics](/Office365/ServiceDescriptions/mya-service-description) | adicionado |
 | 3/14/2019 | [Descrições dos serviços do Office 365](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | modificado |
 | 3/14/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
 

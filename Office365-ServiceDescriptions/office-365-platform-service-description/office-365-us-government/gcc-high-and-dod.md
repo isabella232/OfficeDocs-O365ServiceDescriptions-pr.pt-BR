@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponível por meio de licenciamento por volume, as organizações interessadas passam por um processo de validação para garantir a qualificação antes de um ambiente ser estabelecido. As avaliações não estão disponíveis no momento.
+description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento.
 ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379033"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247107"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
-Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponível por meio de licenciamento por volume, as organizações interessadas passam por um processo de validação para garantir a qualificação antes de um ambiente ser estabelecido. As avaliações não estão disponíveis no momento. 
+Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento. 
   
 Contate sua equipe de contas ou um parceiro preferido para saber mais ou para iniciar o processo de validação.
   
@@ -40,7 +40,7 @@ Os assinantes do departamento de defesa com o Office 365 receberão serviços fo
   
 ## <a name="background-screening"></a>Triagem de plano de fundo
 
-A equipe do Office 365 não tem acesso à produção GCC alta e DoD. Qualquer equipe que solicite a elevação temporária de permissões que concederia acesso ao conteúdo do cliente deve primeiro passar as seguintes verificações em segundo plano.
+A equipe do Office 365 não tem acesso à produção GCC alta e DoD. As equipes que solicitarem permissão temporária, que concede acesso ao conteúdo do cliente, devem passar primeiro pelas seguintes verificações.
   
 |||
 |:-----|:-----|
@@ -93,13 +93,13 @@ Além disso, não há suporte para endereços de email não-GCC anexados a perfi
   
  **Serviços corporativos de conectividade** -a funcionalidade de BCS é suportada em cenários de conectividade nos quais as fontes de dados permanecem acessíveis dentro do limite de segurança do seu serviço de nuvem. 
   
- **Soluções de área restrita** -este recurso foi preterido e não está disponível. As soluções de área restrita devem ser migradas para o [modelo de extensibilidade de suplementos do SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
+ **Soluções de área restrita** -este recurso foi preterido e não está disponível. As soluções de área restrita devem ser migradas para o [ Modelo de extensibilidade do Suplemento do SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
  **Conferência PSTN &amp; de chamada PSTN** devido à necessidade de usar a rede telefônica pública comutada (PSTN) para serviços orientados por telefonia, os serviços de &amp; conferência PSTN de chamada PSTN atualmente não estão disponíveis no gcc High e no DOD. 
   
-### <a name="identity"></a>Identity
+### <a name="identity"></a>Identidade
 
 A autenticação multifator usando um modelo de identidade federado permite o uso de cartões PIV e CAC.
   

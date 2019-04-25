@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: O Microsoft Office 365 oferece suporte aos recursos de rede a seguir.
 ms.openlocfilehash: 2245e2e60333d0f1eb85e1243c49c0a04a4f62ec
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467898"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247257"
 ---
-# <a name="networking"></a>Sistema de rede
+# <a name="networking"></a>Rede
 
 O Microsoft Office 365 oferece suporte aos recursos de rede a seguir.
   

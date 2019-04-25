@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: O Visio online estende sua experiência do Microsoft Visio ao navegador da Web, onde você pode trabalhar com diagramas diretamente no site onde o diagrama está armazenado. Os clientes do Microsoft Office 365 com o Office Online podem exibir e compartilhar diagramas e inserir comentários em qualquer lugar.
 ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467558"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246557"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -70,7 +70,7 @@ No Visio online, você pode pesquisar todas as ocorrências de uma palavra, núm
 
 Você não pode alterar a fonte, o tamanho da fonte ou outros atributos de aparência de fonte (como negrito, itálico, sobrescrito ou sublinhado) no Visio online.
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Hiperlinks
 <a name="BM_10"> </a>
 
 No Visio online, você pode acessar diretamente os hiperlinks clicando na forma.

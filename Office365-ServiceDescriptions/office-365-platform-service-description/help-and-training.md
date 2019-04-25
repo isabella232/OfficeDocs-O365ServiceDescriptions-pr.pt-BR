@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: O Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
 ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467078"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247327"
 ---
 # <a name="help-and-training"></a>Ajuda e treinamento
 
@@ -114,7 +114,7 @@ Além da comunidade Office 365 e da ajuda on-line, o Office 365 inclui os seguin
     
     Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar o WeChat. Confira [Obter suporte técnico, de cobrança e de assinatura do Office 365 operado pela 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) e role até a parte inferior da página para obter um código QR. 
     
-## <a name="languages"></a>Languages
+## <a name="languages"></a>Idiomas
 <a name="BKMK_OtherSelfHelpResources"> </a>
 
 Os recursos de ajuda e treinamento estão disponíveis nos seguintes idiomas.

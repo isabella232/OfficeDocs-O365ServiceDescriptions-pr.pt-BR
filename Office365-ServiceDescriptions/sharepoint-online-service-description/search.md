@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Presente no Microsoft SharePoint Server 2013, esse serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os recursos de Pesquisa a seguir ajudam as pessoas a encontrar as informações necessárias para realizar seus trabalhos. Pesquisa é uma combinação de relevância, refinamento e pessoas.
 ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467628"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246617"
 ---
-# <a name="search"></a>Pesquisar
+# <a name="search"></a>Pesquisa
 
 O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Presente no Microsoft SharePoint Server 2013, esse serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os recursos de Pesquisa a seguir ajudam as pessoas a encontrar as informações necessárias para realizar seus trabalhos. Pesquisa é uma combinação de relevância, refinamento e pessoas.
   
@@ -49,12 +49,12 @@ No SharePoint, é mais fácil encontrar pessoas com experiência ou qualificaç�
 
 Os novos refinadores gráficos oferecem uma maneira mais visual de filtrar os resultados da pesquisa. Saiba mais sobre como [configurar a Web Part de refinamento](https://go.microsoft.com/fwlink/?LinkId=271017).
   
-## <a name="hybrid-search"></a>Hybrid search
+## <a name="hybrid-search"></a>Pesquisa híbrida
 <a name="bkmk_HybridSearch"> </a>
 
 Em uma implantação híbrida do SharePoint, o conteúdo do resultado da pesquisa pode vir dos sites locais do SharePoint Online e do SharePoint Server 2013. Para saber mais sobre um ambiente híbrido do SharePoint, confira [Híbrido para SharePoint Server 2013](https://go.microsoft.com/fwlink/?LinkId=275765).
   
-## <a name="manage-search-schema"></a>Manage search schema
+## <a name="manage-search-schema"></a>Gerenciar o esquema de pesquisa
 <a name="bkmk_manage_search_schema"> </a>
 
 Quando as pessoas busca de conteúdo em seus sites do SharePoint, é o que está em seu índice de pesquisa que determina o que eles vão encontrar. O índice de pesquisa contém informações de todos os documentos e páginas em seu site e é construído por rastrear o conteúdo em seu site do SharePoint. O esquema de pesquisa ajuda o rastreador a decidir o conteúdo e os metadados a serem analisados e como indexá-los. Ao alterar o esquema de pesquisa, você pode criar uma experiência de pesquisa personalizada para seus usuários. Saiba mais sobre [gerenciar esquema de pesquisa no SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).

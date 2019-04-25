@@ -14,11 +14,11 @@ ms.custom:
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: O Power BI é um pacote de ferramentas de análise de negócios baseado na nuvem que permite que qualquer pessoa se conecte, visualize e analise os dados com mais rapidez, eficiência e compreensão. Ele conecta os usuários a uma ampla variedade de dados ao vivo por meio de painéis simples, fornece relatórios interativos e visualizações atraentes para dar vida aos dados.
 ms.openlocfilehash: 0288fc982e8662d52d9c05e7a71a2976dee8be31
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466448"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246923"
 ---
 # <a name="power-bi-service-description"></a>Descrição do Serviço Power BI
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
 ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467408"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246327"
 ---
 # <a name="recipients"></a>Recipients
 
@@ -37,7 +37,7 @@ A quantidade de armazenamento da caixa de correio disponível para um usuário e
   
 Para mais informações, consulte as seções "Limites de armazenamento da caixa de correio" e "Alertas de capacidade" no tópico [Limites do Exchange Online](exchange-online-limits.md).
   
-### <a name="mailtips"></a>Dicas
+### <a name="mailtips"></a>MailTips
 
 Dicas de Email são mensagens informativas e automáticas que aparecem acima da linha Para: enquanto os usuários estão redigindo ou endereçando uma mensagem. Elas são projetadas para ajudar a prevenir entregas acidentais, violações de políticas ou NDRs desnecessárias. Por exemplo, as Dicas de Email podem gerar um alerta caso os remetentes tentem enviar mensagens para grupos excessivamente grandes, para grupos com destinatários externos ou para um grupo de distribuição moderado ou restrito. Para saber mais, confira [Dicas de Email](https://go.microsoft.com/fwlink/p/?LinkId=401472).
   

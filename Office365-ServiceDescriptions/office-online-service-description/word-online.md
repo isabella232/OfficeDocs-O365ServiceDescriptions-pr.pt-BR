@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: O Word online (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da Web, onde você pode trabalhar com documentos diretamente no site em que o documento está armazenado.
 ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467298"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246947"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -41,7 +41,7 @@ Os estilos de parágrafo e de caractere salvos no documento estão disponíveis 
 
 Você pode obter um complemento para o Word na loja do Office. Os complementos do Office só funcionam no aplicativo de área de trabalho do Word e não estão disponíveis em Word Online. Saiba como [obter um complemento para o Word](https://go.microsoft.com/fwlink/?LinkId=391443).
   
-## <a name="autosave"></a>Gravação automática
+## <a name="autosave"></a>Salvamento automático
 <a name="bkmk_Save"> </a>
 
 O Word Online salva o documento automaticamente quando você faz alterações.
@@ -146,7 +146,7 @@ Você pode usar predefinições para aplicar efeitos especiais, como rotação, 
 
 Insira um cabeçalho e um rodapé em seu documento no Word Online e no aplicativo da área de trabalho Word. Você também pode aplicar cabeçalhos e rodapés em todas as páginas, exceto na primeira página do seu documento. Para saber mais sobre como usar cabeçalhos e rodapés no Word Online, confira [Novidades no Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Hiperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 Com o Word Online, você pode criar links para indicadores em um documento e definir uma dica de tela que aparece quando o cursor aponta para o link. Saiba mais sobre [hiperlinks no Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271863).

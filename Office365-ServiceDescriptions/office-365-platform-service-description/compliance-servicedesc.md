@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: O Microsoft Office 365 obedece aos padrões e regulamentos da indústria e foi projetado para ajudá-lo a atender aos requisitos normativos de sua empresa. Para mais informações, consulte ofertas de conformidade.
 ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825139"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246757"
 ---
 # <a name="compliance"></a>Conformidade
 

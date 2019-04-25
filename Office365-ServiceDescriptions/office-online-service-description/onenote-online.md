@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Use o OneNote online (antigo OneNote Web App) para fazer anotações online em um bloco de anotações do OneNote que você pode adicionar de qualquer lugar e compartilhar facilmente com outras pessoas. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467018"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247177"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -91,7 +91,7 @@ Com o OneNote Online, você pode baixar arquivos inseridos para seu computador, 
 
 Não está disponível no OneNote Online. Com o aplicativo da área de trabalho OneNote, você pode anotar rapidamente equações matemáticas durante uma reunião, conferência ou aula, e o OneNote pode rapidamente calcular os resultados para você.
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Hiperlinks
 <a name="bkmk_hyperlinks"> </a>
 
 Com o OneNote Online, você pode inserir um hiperlink para um endereço da Web ou aplicar um link a um texto selecionado. Você também pode clicar com o botão direito do mouse em uma guia de página, para copiar um link direto para essa página. Saiba mais sobre as [diferenças de uso de um bloco de anotações no navegador e no aplicativo da área de trabalho OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
@@ -147,7 +147,7 @@ Com o OneNote Online, você pode alterar o alinhamento de parágrafos, aumentar 
 
 Com o OneNote Online, você pode inserir uma imagem de um arquivo ou do Bing Imagens. Você também pode redimensionar imagens e adicionar um texto alternativo. Para recursos de imagens mais avançados, como recortes da tela, imagens digitalizadas ou imagens online, você precisará usar o aplicativo da área de trabalho OneNote. Saiba mais sobre as [diferenças de uso de um bloco de anotações no navegador e no aplicativo da área de trabalho OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="print"></a>Imprimir
+## <a name="print"></a>Print
 <a name="BKMK_Print_OneNote"> </a>
 
 Você pode imprimir anotações no OneNote Online.
@@ -182,7 +182,7 @@ Se você salvou seu bloco de anotações do OneNote em uma biblioteca de documen
 
 Com o OneNote Online, você pode desativar as marcas de autor que aparecem quando alguém edita um bloco de notas. Isso removerá as iniciais que aparecem perto de novas notas em uma página. As marcas de autor estão ligadas por padrão.
   
-## <a name="styles"></a>Estilos
+## <a name="styles"></a>Styles
 <a name="bkmk_Styles"> </a>
 
 Com o OneNote Online, você pode facilmente aplicar estilos de textos, para uma formatação rápida. Saiba mais sobre as [diferenças de uso de um bloco de anotações no navegador e no aplicativo da área de trabalho OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).

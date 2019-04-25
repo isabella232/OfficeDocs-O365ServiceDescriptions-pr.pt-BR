@@ -10,11 +10,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
 ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467868"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246607"
 ---
 # <a name="sharepoint-online-limits"></a>Limites do SharePoint Online
 
@@ -27,7 +27,7 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 |**Recurso** <br/> |**Office 365 Business Essentials ou Business Premium** <br/> |**Office 365 Enterprise E1, E3 ou e5, ou SharePoint Online plano 1 ou 2** <br/> | **Office 365 Enterprise F1** <br/> |
 |Armazenamento<sup>1, 2</sup> <br/> |1 TB por organização mais 10 GB por licença adquirida  <br/> |1 TB por organização mais 10 GB por licença adquirida<sup>3</sup> <br/> |1 TB por organização <sup>3</sup> <br/> |
 |Armazenamento para conjuntos de sites  <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |Até 25 TB por conjunto de sites ou grupo<sup>5</sup> <br/> |
-|Conjuntos de sites por organização  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> | 500.000<br/> |
+|Conjuntos de sites por organização  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> |US$ 500.000<br/> |
 |Número de usuários  <br/> |Até 300  <br/> |1 a 500.000<sup>7</sup> <br/> |1 a 500.000<sup>7</sup> <br/> |
    
 > [!NOTE]

@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel online (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467378"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246977"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -234,7 +234,7 @@ O Excel Online permite que você exiba tabelas e gráficos do Power Pivot, mas �
 
 Você pode exibir e interagir com planilhas do Power View em uma pasta de trabalho, mas não é possível criar o Power View usando o Excel Online. A criação do Power View só estará disponível com o aplicativo da área de trabalho. O Power View permite que você crie, compartilhe e explore dados em exibições interativas e prontas para apresentação. Exiba as informações em mapas, tabelas e gráficos interativos vinculados uns aos outros em uma mesma planilha. Saiba mais sobre o [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
-## <a name="print"></a>Imprimir
+## <a name="print"></a>Print
 <a name="bkmk_Print"> </a>
 
 Use o comando Imprimir no Excel Online para enviar a planilha inteira ou a seleção atual para a impressora. Saiba mais sobre [como imprimir no Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=271676).

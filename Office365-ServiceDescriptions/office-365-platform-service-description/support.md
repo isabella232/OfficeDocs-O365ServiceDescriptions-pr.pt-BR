@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Em todas as assinaturas do Microsoft Office 365 Enterprise, Business, Education e Government, o Suporte da Microsoft fornece suporte técnico para assinaturas, cobrança e pré-vendas em nível global. O suporte está disponível online por meio do portal do Office 365 e por telefone para assinaturas pagas e de avaliação. Para saber mais, veja Opções de suporte do Office 365.
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467528"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246997"
 ---
 # <a name="support"></a>Suporte
 
@@ -67,7 +67,7 @@ O suporte técnico para assinaturas do Office 365 fornece assistência com quest
   
 |**Categoria de suporte**|**Exemplos**|
 |:-----|:-----|
-|Instalação e configuração  <br/> | Exchange Online:  <br/>  Migração de caixa de correio do Office 365  <br/>  Configuração de destinatário (permissões de caixa de correio, configuração de encaminhamento de email, configuração de caixa de correio compartilhada)  <br/>  Configuração da Descoberta Automática  <br/>  SharePoint Online:  <br/>  Grupos de usuários e permissões  <br/>  Configuração de usuários externos  <br/>  Skype for Business online:  <br/>  Instalação e criação de contatos  <br/>  Microsoft Office 365 ProPlus: assistência para instalação e configuração  <br/> |
+|Instalação e configuração  <br/> | Exchange Online:  <br/>  Migração de caixas de correio do Office 365  <br/>  Configuração de destinatário (permissões de caixa de correio, configuração de encaminhamento de email, configuração de caixa de correio compartilhada)  <br/>  Configuração da Descoberta Automática  <br/>  SharePoint Online:  <br/>  Grupos de usuários e permissões  <br/>  Configuração de usuários externos  <br/>  Skype for Business online:  <br/>  Instalação e criação de contatos  <br/>  Microsoft Office 365 ProPlus: assistência para instalação e configuração  <br/> |
 |Configuração  <br/> | Problemas de falha de configuração de serviço  <br/>  Problemas de provisionamento  <br/>  Redelegação e configuração de domínio  <br/>  Problemas de configuração de serviço  <br/>  SSO (logon único)  <br/>  Sincronização do Active Directory  <br/> |
    
 > [!NOTE]
@@ -79,8 +79,8 @@ Quando um caso é aberto, a Microsoft atribui um nível de severidade a ele de a
   
 |**Nível de severidade**|**Descrição de suporte e operações**|**Exemplos**|
 |:-----|:-----|:-----|
-|Sev A (Crítica)  <br/> |Um ou mais serviços não estão acessíveis ou não podem ser usados. A produção, as operações ou as datas limite para implantação são gravemente afetadas, ou há um grave impacto sobre a produção ou a lucratividade. Vários usuários ou serviços são afetados.  <br/> | Problemas generalizados para envio e recebimento de email.  <br/>  Site do SharePoint fora do ar.  <br/>  Nenhum usuário pode enviar mensagens instantâneas, agendar ou ingressar em Reuniões do Skype for Business, ou fazer chamadas do Skype for Business.  <br/> |
-|Sev B (Alta)  <br/> |O serviço pode ser usado, mas com limitações. A situação tem impacto comercial moderado e é possível lidar com ela durante o horário comercial. Um único usuário, cliente ou serviço é parcialmente afetado.  <br/> | Botão Enviar no Outlook está confuso.  <br/>  Não é possível configurar no EAC (Centro de Administração do Exchange), mas é possível no PowerShell.  <br/> |
+|Severidade A (Crítica)  <br/> |Um ou mais serviços não estão acessíveis ou não podem ser usados. A produção, as operações ou as datas limite para implantação são gravemente afetadas, ou há um grave impacto sobre a produção ou a lucratividade. Vários usuários ou serviços são afetados.  <br/> | Problemas generalizados para envio e recebimento de email.  <br/>  Site do SharePoint fora do ar.  <br/>  Nenhum usuário pode enviar mensagens instantâneas, agendar ou ingressar em Reuniões do Skype for Business, ou fazer chamadas do Skype for Business.  <br/> |
+|Severidade B (Alta)  <br/> |O serviço pode ser usado, mas com limitações. A situação tem impacto comercial moderado e é possível lidar com ela durante o horário comercial. Um único usuário, cliente ou serviço é parcialmente afetado.  <br/> | Botão Enviar no Outlook está confuso.  <br/>  Não é possível configurar no EAC (Centro de Administração do Exchange), mas é possível no PowerShell.  <br/> |
 |Severidade C (Não Crítica)  <br/> |A situação tem impacto comercial mínimo. O problema é importante, mas não tem impacto expressivo na produtividade e no serviço atual do cliente. Um único usuário experimenta interrupção parcial, mas existe uma solução alternativa aceitável.  <br/> | Como definir uma senha de usuário que nunca expira.  <br/>  O usuário não pode excluir as informações de contato no Exchange Online.  <br/> |
    
 ### <a name="technical-support-initial-response-times"></a>Tempos de resposta inicial do suporte técnico

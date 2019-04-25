@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: O PowerPoint online (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft Office 365 com Office Online podem visualizar, criar e editar arquivos em qualquer lugar.
 ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467338"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246937"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -122,7 +122,7 @@ O PowerPoint Online oferece suporte para oito transições e 37 animações. Par
 
 Cabeçalhos e rodapés, incluindo datas e números de slides, não podem ser inseridos, editados ou excluídos no PowerPoint Online, mas PowerPoint Online os exibe como esperado. Saiba mais sobre as [diferenças de uso de uma apresentação no navegador e no aplicativo da área de trabalho PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Hiperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 Insira, edite e siga os hiperlinks. Links de favoritos funcionam, mas não podem ser editados no PowerPoint Online.

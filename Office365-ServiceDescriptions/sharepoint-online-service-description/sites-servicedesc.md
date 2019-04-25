@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: O Microsoft SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Presente no Microsoft SharePoint Server 2013, esse serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os seguintes recursos de Sites fornecem um conjunto completo de ferramentas que pode ser usado por sua organização para criar qualquer tipo de site, além de uma única infraestrutura que simplifica o gerenciamento do site. Para saber mais detalhes, consulte Encontrar conteúdo sobre o SharePoint Online.
 ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825169"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246577"
 ---
 # <a name="sites"></a>Sites
 
@@ -96,7 +96,7 @@ Você pode personalizar rapidamente seu site de equipe, para que se torne mais f
 
 Os relatórios de análise da Web são relatórios pré-criados no SharePoint que usam dados para analisar vários aspectos dos sites e dos conjuntos de site. 
   
-## <a name="task-list"></a>Task list
+## <a name="task-list"></a>Lista de tarefas
 <a name="bkmk_Tasklist"> </a>
 
 As listas de tarefas são usadas para gerenciar o trabalho de um modo hierárquico, com tarefas e subtarefas de resumo exibidas em uma única lista. As tarefas podem ter datas de início e de término, podem ser atribuídas às pessoas em sua organização e podem ser incluídas em uma linha do tempo ilustrada. Saiba mais sobre como [adicionar tarefas ao seu projeto](https://go.microsoft.com/fwlink/?LinkId=271230).

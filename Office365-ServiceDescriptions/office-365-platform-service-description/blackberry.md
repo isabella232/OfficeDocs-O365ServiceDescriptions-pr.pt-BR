@@ -1,5 +1,5 @@
 ---
-title: Rim
+title: BlackBerry
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Os dispositivos BlackBerry® podem acessar email e documentos no Office 365.
 ms.openlocfilehash: 2146dc7eb698973f19e9fbacb87c7269b27d1eb5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466838"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246287"
 ---
-# <a name="blackberry"></a>Rim
+# <a name="blackberry"></a>BlackBerry
 
 > [!NOTE]
 > Se estiver usando o Office 365 operado pela 21Vianet, você poderá usar os dispositivos do Microsoft Exchange ActiveSync ou uma oferta da Research in Motion (RIM, a solução de email sem fio BlackBerry) para executar o BlackBerry Enterprise Server (BES). 
