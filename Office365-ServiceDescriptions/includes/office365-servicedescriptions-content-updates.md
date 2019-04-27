@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Semana de 11 de março de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 3/12/2019 | [Continuidade e Integridade do Serviço](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
-| 3/14/2019 | [Descrição dos serviços do Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
-| 3/14/2019 | [Descrição do serviço do MyAnalytics](/Office365/ServiceDescriptions/mya-service-description) | adicionado |
-| 3/14/2019 | [Descrições dos serviços do Office 365](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | modificado |
-| 3/14/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
-
-
 ## <a name="week-of-march-18-2019"></a>Semana de 18 de março de 2019
 
 
@@ -69,3 +57,14 @@
 | 4/11/2019 | [Recursos de arquivamento no Arquivamento do Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | modificado |
 | 4/11/2019 | [Centro de Conformidade e Segurança do Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
 | 4/11/2019 | [Descrição do Serviço do Skype for Business Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modificado |
+
+
+## <a name="week-of-april-15-2019"></a>Semana de 15 de abril de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 4/18/2019 | [Clientes e dispositivos móveis](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | modificado |
+| 4/18/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
+| 4/18/2019 | [Descrição de serviços dos aplicativos do Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
+| 4/18/2019 | [Conteúdo](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | modificado |
