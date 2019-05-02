@@ -3,7 +3,7 @@ title: Office 365 operado pela 21Vianet
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 2/21/2019
+ms.date: 04/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2fb0b7e9c83753e757d1efa87795047ffc403f4f
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247298"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544898"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -98,7 +98,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Office Delve  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Grupos do Office 365  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo do Office 365  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>2</sup> <br/> |
-|Bloco de Anotações de Classe  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Bloco de Anotações de Classe  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>15<sup>  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**[Gerenciamento de Contas de Usuário](user-account-management.md)** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Identidade de nuvem, identidade federada ou autenticação multifator<sup>14</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Configuração de área de trabalho do Office 365  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -159,7 +159,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |**[Atualizações do Serviço](service-updates.md)** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Atualizações regulares fornecidas a todos os clientes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Notificações enviadas para o centro de mensagens quando a ação for necessária, um problema será resolvido, os recursos serão implantados ou as alterações no serviço  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Success.office.com/pt-br/roadmap para alguns serviços updates  <br/> |Sim  <br/> |--  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) para algumas atualizações de serviço  <br/> |Sim  <br/> |--  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Opção para ativar lançamento direcionado  <br/> |Não  <br/> |--  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Ajuda e treinamento](help-and-training.md)** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Ajuda online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -205,11 +205,12 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 <br/><sup>7</sup> os planos de educação do Office 365 não dão suporte a alterações de assentos de licenças do centro de administração do Microsoft 365:
 <br/><sup>8</sup> O Microsoft Sway não está disponível atualmente para clientes de determinadas áreas geográficas. Alguns planos herdados do Office 365, que já não são comercializados desde agosto de 2015, podem não ter acesso ao Microsoft Sway. 
 <br/><sup>9</sup> para Office 365 operado pela 21vianet, confira o contrato de nível de serviço [aqui](http://www.21vbluecloud.com/office365/O365-SLA/).
- <sup>10</sup> para o Office 365 operado pela 21vianet, conFira o [contrato padrão de serviços online do o para o Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/). 
+ <sup>10</sup> para o Office 365 operado pela 21vianet, confira o [contrato padrão de serviços online do o para o Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/). 
 <br/><sup>11</sup> a política de conformidade da Internet da China requer que você obtenha um número de provedor de conteúdo da Internet (ICP) para um site público. Para obter mais informações, consulte o tópico correspondente ICP. 
 <br/><sup>12</sup> alguns conteúdos TechNet podem não se aplicar ao Office 365 operado pela 21vianet. 
 <br/><sup>13</sup> experiências reduzidas. Se sua organização depende do Internet Explorer 8 ou do Internet Explorer 9 para acessar aplicativos e serviços Web mais antigos, considere a possibilidade de atualizar para o Internet Explorer 11 e avaliar o Modo Empresarial deste serviço. Essa atualização ajuda a fornecer a melhor compatibilidade com versões anteriores de aplicativos Web herdados. 
 <br/><sup>14</sup> a autenticação multifator atualmente não é suportada no Outlook Mobile (Ios e Android). 
+<br/><sup>15</sup> o bloco de anotações de classe do OneNote está disponível via 21vianet, mas a barra de ferramentas bloco de anotações de classe do OneNote não está disponível para aplicativos do Windows 10, iPad ou OneNote online.
   
 ## <a name="office-365-application-features"></a>Recursos do aplicativo do Office 365
 <a name="BM3_OfficeApp"> </a>
@@ -233,7 +234,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 |Microsoft Visio Pro<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Nenhum<sup>5</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Aplicativos do Windows 8](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|[Aplicativos do Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Office para Mac para o Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Nenhum<sup>5</sup> <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>5</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -425,7 +426,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 <br/><sup>6</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa. 
 <<br/>sup>7</sup> para descoberta eletrônica, você precisa de uma consulta separada para o local vs. Cloud. 
 <br/><sup>8</sup> há suporte para pop, mas não para IMAP. 
-<br/><sup>9</sup> Office 365 Business Essentials e Business Premium não oferecem direitos de acesso para utilização com servidores locais. Para estar em conformidade, o cliente deve comprar ou ter adquirido previamente as CALs apropriadas ou atualizar para um SKU corporativo, que fornece esses direitos de acesso. > <br/><sup>10</sup> o assistente de configuração híbrida está disponível para o Exchange 2013 CU5 e para implantações locais. No enTanto, alguns recursos híbridos têm limitações – consulte o tópico de ajuda "Saiba mais sobre o Office 365 operado pela 21Vianet" para obter mais detalhes. 
+<br/><sup>9</sup> Office 365 Business Essentials e Business Premium não oferecem direitos de acesso para utilização com servidores locais. Para estar em conformidade, o cliente deve comprar ou ter adquirido previamente as CALs apropriadas ou atualizar para um SKU corporativo, que fornece esses direitos de acesso. > <br/><sup>10</sup> o assistente de configuração híbrida está disponível para o Exchange 2013 CU5 e para implantações locais. No entanto, alguns recursos híbridos têm limitações – consulte o tópico de ajuda "Saiba mais sobre o Office 365 operado pela 21Vianet" para obter mais detalhes. 
 <br/><sup>11</sup> para o Office 365 operado pela 21vianet, o LinkedIn está disponível, mas não o Facebook. > 
 <br/><sup>12</sup> a configuração da implantação híbrida está disponível por meio do assistente de configuração híbrida para o Exchange 2013 CU5 ou pode ser configurada manualmente se você tiver o Exchange 2013 SP1. Consulte o tópico de ajuda "Saiba mais sobre o Office 365 operado pela 21Vianet" para obter mais detalhes. 
 <br/><sup>13</sup> contas conectadas têm suporte para &amp; contas POP IMAP, mas estão desabilitadas para o Outlook.com (Hotmail). 

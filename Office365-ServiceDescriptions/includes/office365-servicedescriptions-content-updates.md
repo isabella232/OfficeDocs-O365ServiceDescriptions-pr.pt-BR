@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-march-18-2019"></a>Semana de 18 de março de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 3/18/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
-| 3/18/2019 | [Direitos de Uso do Produto](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | modificado |
-
-
 ## <a name="week-of-march-25-2019"></a>Semana de 25 de março de 2019
 
 
@@ -68,3 +59,15 @@
 | 4/18/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
 | 4/18/2019 | [Descrição de serviços dos aplicativos do Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
 | 4/18/2019 | [Conteúdo](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | modificado |
+
+
+## <a name="week-of-april-22-2019"></a>Semana de 22 de abril de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 4/24/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
+| 4/26/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
+| 4/26/2019 | [Continuidade e Integridade do Serviço](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
+| 4/26/2019 | [Descrição de serviços dos aplicativos do Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
+| 4/26/2019 | [Limites do SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |

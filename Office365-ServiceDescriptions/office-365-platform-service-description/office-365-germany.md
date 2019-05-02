@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
-ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a3f2a16ef66258a922b8c53f715870f46b623949
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247317"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544978"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -39,7 +39,7 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Skype for Business online  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Office Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Office 365 proPlus<sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Office 365 ProPlus<sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Project Online <sup>3</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Power BI <sup>3</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Visio online<sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -180,7 +180,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |**[Direitos de Uso do Produto](product-use-rights.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> o Office 365 Alemanha não fornece suporte para sistemas operacionais que não sejam suportados pelo fabricante. > <sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura do Office 365 proPlus, que não está incluído no Office 365 Alemanha Business Essentials, Office 365 Alemanha Business Premium, Office 365 Alemanha Enterprise E1, Office 365 Alemanha Education a1 ou Office 365 Alemanha Enterprise K1. > <sup>3</sup> Quando você usa a sincronização de diretórios com um Microsoft Active Directory local, deve excluir as contas ou alterar as senhas usando este serviço, em vez de usar o portal do Office 365 ou o módulo do Azure Active Directory para Windows PowerShell. > <sup>4</sup> Saiba como configurar as políticas de gerenciamento de autoatendimento de redefinição de senha para usuários em [Gerenciar Senhas no Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). > <sup>5</sup> Reduzir usuários adquiridos com um desconto pode estar sujeito a uma taxa de cancelamento antecipado. Isso não se aplica a assinaturas pagas mensalmente. > <sup>6</sup> o Office 365 Alemanha Education a1 Plans não oferecem suporte a alterações de assentos de licenças do centro de administração do Microsoft 365. > <sup>7</sup> o direito de usar aplicativos de software cliente, como o Office 365 ProPlus Office 2016, e o Office 2013 está incluído em alguns planos do Office 365 na Alemanha. Os aplicativos de software cliente são executados no dispositivo de um usuário final, em vez de em datacenters na Alemanha. Para fins de contrato com a Microsoft, os aplicativos de software cliente não são [Serviços Online alemães](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Os aplicativos de software cliente também podem permitir que um usuário final acesse serviços online que não sejam Serviços Online alemães. Os compromissos de residência de dados alemães e o controle de acesso do objeto de confiança de dados alemão se aplicam somente aos Serviços Online alemães. > <sup>8</sup> A [autenticação moderna](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) deve estar habilitada para uso com o Office 365 Alemanha. > <sup>9</sup> Office 365 Alemanha é desenvolvido em conformidade com os padrões de segurança e conformidade de nuvem do Office 365. O Office 365 oferece um amplo conjunto de certificações, avaliados independentemente por auditores credenciados como parte do SOC, ISO e auditorias. Entre as certificações estão ISO 27001/27002, 27017, 27018 e SOC 1 &amp; 2. Os controles de confiança de dados adicionais no Office 365 Germany serão avaliados por avaliadores independentes como parte da nossas auditorias ISO e SOC anuais. 
+> <sup>1</sup> o Office 365 Alemanha não fornece suporte para sistemas operacionais que não sejam suportados pelo fabricante. > <sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura do Office 365 ProPlus, que não está incluído no Office 365 Alemanha Business Essentials, Office 365 Alemanha Business Premium, Office 365 Alemanha Enterprise E1, Office 365 Alemanha Education a1 ou Office 365 Alemanha Enterprise K1. > <sup>3</sup> Quando você usa a sincronização de diretórios com um Microsoft Active Directory local, deve excluir as contas ou alterar as senhas usando este serviço, em vez de usar o portal do Office 365 ou o módulo do Azure Active Directory para Windows PowerShell. > <sup>4</sup> Saiba como configurar as políticas de gerenciamento de autoatendimento de redefinição de senha para usuários em [Gerenciar Senhas no Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). > <sup>5</sup> Reduzir usuários adquiridos com um desconto pode estar sujeito a uma taxa de cancelamento antecipado. Isso não se aplica a assinaturas pagas mensalmente. > <sup>6</sup> o Office 365 Alemanha Education a1 Plans não oferecem suporte a alterações de assentos de licenças do centro de administração do Microsoft 365. > <sup>7</sup> o direito de usar aplicativos de software cliente, como o Office 365 ProPlus Office 2016, e o Office 2013 está incluído em alguns planos do Office 365 na Alemanha. Os aplicativos de software cliente são executados no dispositivo de um usuário final, em vez de em datacenters na Alemanha. Para fins de contrato com a Microsoft, os aplicativos de software cliente não são [Serviços Online alemães](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Os aplicativos de software cliente também podem permitir que um usuário final acesse serviços online que não sejam Serviços Online alemães. Os compromissos de residência de dados alemães e o controle de acesso do objeto de confiança de dados alemão se aplicam somente aos Serviços Online alemães. > <sup>8</sup> A [autenticação moderna](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) deve estar habilitada para uso com o Office 365 Alemanha. > <sup>9</sup> Office 365 Alemanha é desenvolvido em conformidade com os padrões de segurança e conformidade de nuvem do Office 365. O Office 365 oferece um amplo conjunto de certificações, avaliados independentemente por auditores credenciados como parte do SOC, ISO e auditorias. Entre as certificações estão ISO 27001/27002, 27017, 27018 e SOC 1 &amp; 2. Os controles de confiança de dados adicionais no Office 365 Germany serão avaliados por avaliadores independentes como parte da nossas auditorias ISO e SOC anuais. 
   
 ## <a name="office-application-features"></a>Recursos do Aplicativo do Office
 <a name="BM1_Platform"> </a>
@@ -203,7 +203,7 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |Sim<sup>10</sup> <br/> |Não  <br/> |Sim<sup>10</sup> <br/> |Nenhum<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>6</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Nenhum<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|[Aplicativos do Windows 8](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|[Aplicativos do Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Office para Mac para o Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Nenhum<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Nenhum<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Nenhum<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -247,7 +247,7 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 proPlus<sup>10</sup>** <br/> |
+|**Recurso** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 ProPlus<sup>10</sup>** <br/> |
 |**Aplicativos do Office<sup>1, 2</sup>** <br/> ||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -258,7 +258,7 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|[Aplicativos do Windows 8](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Aplicativos do Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office para Mac para o Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
@@ -310,7 +310,7 @@ A tabela a seguir fornece links para as comparações dos recursos de recursos d
   
 ||||
 |:-----|:-----|:-----|
-|**Aplicativo** <br/> |**Office Online** <br/> |**Link para a comparação detalhada de recursos** <br/> |
+|**Application** <br/> |**Office Online** <br/> |**Link para a comparação detalhada de recursos** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |

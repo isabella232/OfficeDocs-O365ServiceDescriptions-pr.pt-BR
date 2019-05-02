@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office para desktop tradicional com versões baseadas em nuvem dos serviços de comunicação e colaboração de próxima geração da Microsoft, incluindo Microsoft Exchange Online, Microsoft SharePoint Online, Office Online e Microsoft Skype for Business online, para ajudar os usuários a serem produtivos em praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 4cf3b4220fb56e21d8105dee9ac8ea447845bcf9
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247287"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544968"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -81,7 +81,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |Office Delve  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Grupos do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Bloco de Anotações de Classe  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Bloco de Anotações de Classe do OneNote  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Gerenciamento de Contas de Usuário](user-account-management.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Identidade de nuvem, Identidade Federada ou Autenticação Multifator  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Configuração de área de trabalho do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -226,7 +226,7 @@ Use a tabela a seguir para comparar a disponibilidade de recursos nos planos de 
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Aplicativos do Windows 8](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
+|[Aplicativos do Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Office para Mac para o Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
@@ -273,11 +273,11 @@ Use a tabela a seguir para comparar a disponibilidade de recursos nos planos de 
 A tabela a seguir fornece links para comparações dos recursos de recursos do Office Online disponíveis nos planos de educação do Office 365 para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as comparações para descobrir quais recursos estão disponíveis no Office Online e clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização podem precisar da capacidade avançada de gráficos do aplicativo da área de trabalho Excel, enquanto outros podem somente precisar exibir e fazer edições leves em documentos do Word e em apresentações do PowerPoint com os Office Online.
   
 > [!NOTE]
->  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. >  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. > os clientes locais do Microsoft Office Online Server recebem uma licença de edição do Office Online se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Office 365 proPlus License). 
+>  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. >  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. > os clientes locais do Microsoft Office Online Server recebem uma licença de edição do Office Online se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Office 365 ProPlus License). 
   
 ||||
 |:-----|:-----|:-----|
-|**Aplicativo** <br/> |**Office Online** <br/> |**Link para a comparação detalhada de recursos** <br/> |
+|**Application** <br/> |**Office Online** <br/> |**Link para a comparação detalhada de recursos** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -771,7 +771,7 @@ Os seguintes planos de qualificação oferecem armazenamento ilimitado do OneDri
     
 - Office 365 A5
     
-Você não pode alocar mais armazenamento para um usuário específico do OneDrive. No enTanto, você pode diminuir a quantidade de armazenamento que um usuário vê. Se um usuário do Office 365 Enterprise F1 precisar de mais armazenamento, você precisará atualizar para o Office 365 Enterprise E1.
+Você não pode alocar mais armazenamento para um usuário específico do OneDrive. No entanto, você pode diminuir a quantidade de armazenamento que um usuário vê. Se um usuário do Office 365 Enterprise F1 precisar de mais armazenamento, você precisará atualizar para o Office 365 Enterprise E1.
   
 Para obter informações sobre tipos de arquivo que você não pode adicionar ao OneDrive for Business, consulte [tipos de arquivos que não podem ser adicionados a uma lista ou biblioteca](https://go.microsoft.com/fwlink/p/?LinkId=273757).
   
@@ -948,7 +948,7 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |[Links profundos](../sharepoint-online-service-description/search.md#deep-links) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Relevância baseada em evento](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Pesquisa de experiência](../sharepoint-online-service-description/search.md#expertise-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Processamento de conteúdo exTensível] <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Processamento de conteúdo extensível] <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Refinadores gráficos](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Pesquisa híbrida](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciar o esquema de pesquisa](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -1187,7 +1187,7 @@ A tabela a seguir lista os recursos do Skype for Business online que estão disp
 |Relatórios do Skype for Business online no centro de administração do Microsoft 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. O Lync 2013 Basic está disponível para todos os clientes. O cliente de desktop do Lync Basic é um aplicativo instalado localmente que fornece recursos de conferência, presença e mensagens instantâneas para planos do Office 365 que incluem o Skype for Business online. O Office 365 proPlus e o Office 365 a3 incluem o aplicativo completo do Skype for Business (Lync), que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. Para obter mais informações sobre os recursos do Lync Basic, consulte [clients for Skype for Business online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup> você deve atribuir um plano do Exchange Online (plano 2) aos usuários que você deseja que tenham caixa postal. An Exchange Online (Plan 1) plan can't be used for voice mail. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. O Lync 2013 Basic está disponível para todos os clientes. O cliente de desktop do Lync Basic é um aplicativo instalado localmente que fornece recursos de conferência, presença e mensagens instantâneas para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 a3 incluem o aplicativo completo do Skype for Business (Lync), que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. Para obter mais informações sobre os recursos do Lync Basic, consulte [clients for Skype for Business online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup> você deve atribuir um plano do Exchange Online (plano 2) aos usuários que você deseja que tenham caixa postal. An Exchange Online (Plan 1) plan can't be used for voice mail. 
   
 ### <a name="skype-for-business-online-limits"></a>Limites do Skype for Business Online
 

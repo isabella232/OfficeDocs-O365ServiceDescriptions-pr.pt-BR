@@ -3,7 +3,7 @@ title: Descrição do Serviço do Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: O Office Online (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. Com o Office Online fica mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão à Internet, de praticamente qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246957"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544958"
 ---
 # <a name="office-online-service-description"></a>Descrição do Serviço do Office Online
 
@@ -32,7 +32,7 @@ Para comparar os recursos entre os planos, confira [Comparar planos do Office 36
 Precisa de ajuda para descobrir qual solução Office é a melhor para a sua organização? As tabelas a seguir comparam recursos de recursos do Office Online para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as tabelas para descobrir quais recursos estão disponíveis no Office Online e, em seguida, clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel enquanto outras só precisam exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office Online. 
   
 > [!NOTE]
->  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. >  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. > os clientes locais do Microsoft Office Online Server recebem uma licença de edição do Office Online se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Office 365 proPlus License). 
+>  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. >  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. > os clientes locais do Microsoft Office Online Server recebem uma licença de edição do Office Online se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Office 365 ProPlus License). 
   
 > [!NOTE]
 > Quando você abre um documento do Office, seja como anexo de email do Outlook ou de uma biblioteca de documentos do SharePoint, o documento é aberto no Office Online em modo somente leitura. Para editar um documento no Office Online (modo de edição), será preciso uma licença do pacote Office 365, como Office 365 Enterprise E1. Para editar um documento no aplicativo da área de trabalho, você precisa de uma licença do pacote da área de trabalho do Office, como uma assinatura do Office 365 ProPlus ou de uma versão instalada do Office Professional Plus 2010. 
@@ -120,6 +120,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |:-----|:-----|:-----|
 |**Recursos do aplicativo** <br/> |**Excel Online** <br/> |**Aplicativo da área de trabalho do Excel** <br/> |
 |[Verificador de acessibilidade](excel-online.md#add-hyperlinks) <br/> |Sim  <br/> |Sim  <br/> |
+|[Adicionar cor de plano de fundo a guias de planilha](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Sim  <br/> |Sim  <br/> |
 |[Adicionar hiperlinks](excel-online.md#add-hyperlinks) <br/> |Sim  <br/> |Sim  <br/> |
 |[Filtragem de tempo avançada (segmentação de dados da linha do tempo)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Não  <br/> |Sim  <br/> |
 |[Alinhamento](excel-online.md#alignment) <br/> |Sim  <br/> |Sim  <br/> |
@@ -129,6 +130,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Preenchimento automático](excel-online.md#autocomplete) <br/> |Sim  <br/> |Sim  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Sim  <br/> |Sim  <br/> |
 |[Cálculos](excel-online.md#calculations) <br/> |Sim  <br/> |Sim  <br/> |
+|[Referências de chamada em fórmulas](excel-online.md#call-reference-in-formulas) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criação de comentários](excel-online.md#comment-creation) <br/> |Sim  <br/> |Sim  <br/> |
 |[Copiar e colar](excel-online.md#copy-and-paste) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar conexões de dados externos<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |
@@ -136,9 +138,10 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Criação de exibições de análises avançadas (Power View, Power Pivot, Slicers)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |Não  <br/> |Sim  <br/> |
 |[Validação de dados](excel-online.md#data-validation) <br/> |Sim <br/> |Sim  <br/> |
 |[Arrastar e soltar células](excel-online.md#drag-and-drop-cells) <br/> |Sim  <br/> |Sim  <br/> |
-|[Dropbox](excel-online.md#dropbox) <br/> |Sim  <br/> |Sim  <br/> |
+|[Dropbox](excel-online.md#dropbox) <br/> |Sim  <br/> |Sim  <br/>|
+|[Duplicata (cópia) workseets](excel-online.md#duplicate-copy-worksheets) <br/> |Sim  <br/> |Sim  <br/>|
 |[Pasta de trabalho incorporada na Web ou em uma página de blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sim  <br/> |Não  <br/> |
-|[Referências externas](excel-online.md#external-references-links) <br/> |Nenhum<sup>5</sup> <br/> |Sim  <br/> |
+|[Referências externas](excel-online.md#external-references-links) <br/> |No<sup>4</sup> <br/> |Sim  <br/> |
 |[Alça de Preenchimento](excel-online.md#fill-handle) <br/> |Sim  <br/> |Sim  <br/> |
 |[Localizar](excel-online.md#find) <br/> |Sim  <br/> |Sim  <br/> |
 |[Formatação de fontes e de células](excel-online.md#font-and-cell-formatting) <br/> |Sim  <br/> |Sim  <br/> |
@@ -148,16 +151,20 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Modo de exibição de leitura de fidelidade total](excel-online.md#full-fidelity-reading-view) <br/> |Sim  <br/> |Sim  <br/> |
 |[Funções](excel-online.md#functions) <br/> |Sim  <br/> |Sim  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |Sim  <br/> |Sim  <br/> |
+|[Dados de grupo](excel-online.md#group-data) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ocultar/exibir linhas, colunas e planilhas](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Sim  <br/> |Sim  <br/> |
-|[Inserir forma/imagem](excel-online.md#insert-charts) <br/> |Sim  <br/> |Sim  <br/> |
+|[Ideias](excel-online.md#ideas) <br/> |Sim  <br/> |Sim  <br/> |
 |[Inserir gráficos](excel-online.md#insert-charts) <br/> |Sim  <br/> |Sim  <br/> |
 |[Inserir/excluir linhas e colunas](excel-online.md#insertdelete-rows-and-columns) <br/> |Sim  <br/> |Sim  <br/> |
+|[Inserir imagens](excel-online.md#insert-pictures) <br/> |Sim  <br/> |Sim  <br/> |
+|[Inserir formas](excel-online.md#insert-shapes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Mesclar células](excel-online.md#merge-cells) <br/> |Sim  <br/> |Sim  <br/> |
+|[Intervalo nomeado](excel-online.md#named-ranges) <br/> |Sim  <br/> |Sim  <br/> |
 |[Formatação de números](excel-online.md#number-formatting) <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Add-ins](excel-online.md#office-add-ins) <br/> |Sim <br/> |Sim  <br/> |
 |[Criação e visualização offline](excel-online.md#offline-viewing-and-authoring) <br/> |Não  <br/> |Sim  <br/> |
-|[Gráficos Pivot](excel-online.md#post-to-social-network-and-present-online) <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
-|[Tabelas Pivot](excel-online.md#post-to-social-network-and-present-online) <br/> |Sim  <br/> |Sim  <br/> |
+|[Gráficos Pivot](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
+|[Tabelas Pivot](excel-online.md#pivot-tables) <br/> |Sim  <br/> |Sim  <br/> |
 |[Poste nas redes sociais e faça apresentações online](excel-online.md#post-to-social-network-and-present-online) <br/> |Não  <br/> |Sim  <br/> |
 |[Visualização do Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 |[Exibição do Power View](excel-online.md#power-view-viewing) <br/> |Sim  <br/> |Sim  <br/> |
@@ -165,6 +172,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Coautoria em tempo real](excel-online.md#real-time-co-authoring) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criação e edição de gráficos recomendados com controles de formatação](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |Não  <br/> |Sim  <br/> |
 |[Atualizar as conexões de dados existentes](excel-online.md#refresh-existing-data-connections) <br/> |Sim  <br/> |Sim  <br/> |
+|[Remover valores duplicados](excel-online.md#remove-duplicate-values) <br/> |Sim  <br/> |Sim  <br/> |
 |[Renomear e adicionar planilhas](excel-online.md#rename-and-add-sheets) <br/> |Sim  <br/> |Sim  <br/> |
 |[Renomear o arquivo com a pasta de trabalho aberta](excel-online.md#rename-file-while-workbook-is-open) <br/> |Sim  <br/> |Não  <br/> |
 |[Substituir](excel-online.md#replace) <br/> |Sim  <br/> |Sim  <br/> |
@@ -177,7 +185,9 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Auditoria e conformidade de planilhas](excel-online.md#spreadsheet-audit-and-compliance) <br/> |Não  <br/> |Sim  <br/> |
 |[Agregações da barra de status](excel-online.md#status-bar-aggregates) <br/> |Sim  <br/> |Sim  <br/> |
 |[Pesquisas](excel-online.md#surveys) <br/> |Sim  <br/> |Não  <br/> |
-|[Diga-Me](excel-online.md#tell-me) <br/> |Sim  <br/> |Sim  <br/> |
+|[Diga-Me](excel-online.md#tell-me) <br/> |Sim  <br/> |Sim  <br/>|
+|[Formatação de texto](excel-online.md#text-formatting) <br/> |Sim  <br/> |Sim  <br/>|
+|[Dados totais](excel-online.md#total-data) <br/> |Sim  <br/> |Sim  <br/>|
 |[Desfazer e refazer](excel-online.md#undo-and-redo) <br/> |Sim  <br/> |Sim  <br/> |
 |[Scripts de macros e VBA](excel-online.md#vba-and-macro-scripting) <br/> |Sim<sup>3</sup>  <br/> |Sim  <br/> |
 |[Exibir gráficos 3D](excel-online.md#view-3d-charts) <br/> |Sim  <br/> |Sim  <br/> |
@@ -186,10 +196,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 > <sup>1</sup> não é possível criar gráficos dinâmicos, somente exibição.
  <br/><sup>2</sup> dependendo de como seu ambiente está configurado, alguns tipos de conexões de dados são compatíveis com pastas de trabalho exibidas no Excel online. Para obter mais informações, consulte Atualizando dados em uma pasta de trabalho em uma janela do navegador. 
  <br/><sup>3</sup> você não pode criar macros com o VBA no Excel online, mas pode abrir e editar planilhas habilitadas para VBA sem remover (ou corromper) o VBA contido no arquivo.
- <br/><sup>4</sup> as pastas de trabalho que usam validação de dados podem ser editadas no Excel online, mas a validação de dados não pode ser configurada no Excel online. 
- <br/><sup>5</sup> no Excel online, o último valor de referência conhecido é exibido na janela do navegador; no entanto, ele deve ser atualizado usando a área de trabalho do Excel. 
- <br/><sup>6</sup> você pode exibir congelar painéis criados usando o aplicativo de área de trabalho do Excel, mas não pode criar painéis de congelamento no Excel online. 
- <br/><sup>7</sup> alguns, mas não todos, os suplementos do Office estão disponíveis. 
+ <br/><sup>4</sup> no Excel online, o último valor de referência conhecido é exibido na janela do navegador; no entanto, ele deve ser atualizado usando o aplicativo da área de trabalho do Excel. 
+ <br/><sup>5</sup> Alguns suplementos do Office estão disponíveis, mas nem todos. 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>
