@@ -3,7 +3,7 @@ title: Office 365 Education
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office para desktop tradicional com versões baseadas em nuvem dos serviços de comunicação e colaboração de próxima geração da Microsoft, incluindo Microsoft Exchange Online, Microsoft SharePoint Online, Office Online e Microsoft Skype for Business online, para ajudar os usuários a serem produtivos em praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544968"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621921"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -277,7 +277,7 @@ A tabela a seguir fornece links para comparações dos recursos de recursos do O
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**Link para a comparação detalhada de recursos** <br/> |
+|**Aplicativo** <br/> |**Office Online** <br/> |**Link para a comparação detalhada de recursos** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -698,7 +698,7 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, de tran
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Número máximo de regras de diário  <br/> |10 regras  <br/> |10 regras  <br/> |10 regras  <br/> |
+|Número máximo de regras de diário  <br/> |regras 50  <br/> |regras 50  <br/> |regras 50  <br/> |
 |Número máximo de regras de transporte  <br/> |300 regras  <br/> |300 regras  <br/> |300 regras  <br/> |
 |Tamanho máximo de uma regra de transporte individual  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |

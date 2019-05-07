@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel online (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
-ms.openlocfilehash: cd69bf3c7683146744d6cbd65ba4cea0921a6e84
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544938"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621821"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -32,7 +32,7 @@ O Excel online (anteriormente Excel Web App) estende sua experiência do Microso
 > [!NOTE]
 > Para ajudá-lo a comparar ofertas, os recursos avançados listados neste artigo incluem recursos do aplicativo de área de trabalho do Excel que só estão disponíveis no pacote do Office (como Office Professional Plus, Office Standard ou Office 365 ProPlus). Para obter uma lista de todos os recursos do Office Online, como o Word online e o PowerPoint online, confira [recursos de disponibilidade nos planos do Office Online](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). 
 
-Para ver qual tipo de arquivo tem suporte no Excel Online, confira [Tipos de arquivo com suporte para o Office Online](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Saiba mais sobre as diferenças entre o Excel Online e o aplicativo Excel para a área de trabalho em [Diferenças entre usar uma pasta de trabalho no navegador e no Excel](https://support.office.com/en-us/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
+Para ver qual tipo de arquivo tem suporte no Excel Online, confira [Tipos de arquivo com suporte para o Office Online](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Saiba mais sobre as diferenças entre o Excel Online e o aplicativo Excel para a área de trabalho em [Diferenças entre usar uma pasta de trabalho no navegador e no Excel](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
   
 ## <a name="add-background-color-to-sheet-tabs"></a>Adicionar cor de plano de fundo a guias de planilha 
 <a name="bkmk_Addbackgroundcolor"></a> Adicione uma cor de preenchimento de plano de fundo às guias da planilha na parte inferior da sua pasta de trabalho para destacá-las. Para obter mais informações, consulte [Adicionar uma cor de plano de fundo a uma guia de planilha](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59). 
@@ -53,9 +53,7 @@ O controle da Linha de Tempo permite filtrar dados modelados. Trata-se de uma ma
 Use os botões de alinhamento na guia Página Inicial para mudar o alinhamento do texto.  
   
 ## <a name="apply-conditional-formatting"></a>Aplicar formatação condicional
-<a name="bkmk_Applyconditionalformatting"> </a>
-
-Use um formato condicional para ajudá-lo a explorar e analisar visualmente os dados, detectar problemas críticos e identificar padrões e tendências. Saiba mais sobre como usar a formatação condicional no Excel online. [use a formatação condicional no Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282326). 
+<a name="bkmk_Applyconditionalformatting"></a> Use um formato condicional para ajudá-lo a explorar e analisar visualmente os dados, detectar problemas críticos e identificar padrões e tendências. Saiba mais sobre como [usar a formatação condicional no Excel online](https://go.microsoft.com/fwlink/p/?LinkId=282326).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 <a name="bkmk_Applydatavalidationtocells"> </a>
@@ -65,7 +63,7 @@ Este recurso está disponível no Excel online. Outros recursos avançados estã
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 <a name="bkmk_Applysmartformatting"> </a>
 
-Não está disponível em Excel Online. No aplicativo da área de trabalho do Excel, os gráficos recomendados permitem que você escolha uma variedade de gráficos que são melhores para apresentar seus dados. Saiba mais sobre [como usar as recomendações de gráfico no Excel](https://support.office.com/article/Create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
+Não está disponível em Excel Online. No aplicativo da área de trabalho do Excel, os gráficos recomendados permitem que você escolha uma variedade de gráficos que são melhores para apresentar seus dados. Saiba mais sobre [como usar as recomendações de gráfico no Excel](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
   
 ## <a name="office-add-ins"></a>Suplementos do Office
 <a name="bkmk_AppsOfficeIntegration"> </a>
@@ -87,8 +85,8 @@ Para calcular o total de uma coluna ou linha de números, selecione as células 
 
 Use o Excel para realizar uma série de cálculos automáticos, manuais e iterativos. O Excel usa funções para realizar esses cálculos. Confira mais informações em [Funções do Excel por categoria](https://go.microsoft.com/fwlink/?linkid=847459).
 
-## <a name="call-reference-in-formulas"></a>Referência de chamada em fórmulas
-<a name="bkmk_Callreferenceinformulas"></a> Você pode usar referências de célula em fórmulas. Quando você faz referência a uma célula ou a um intervalo em uma fórmula, a célula ou o intervalo referenciado é realçado com uma cor. Para obter mais informações, consulte [usar referências de célula em fórmulas](https://support.office.com/en-us/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+## <a name="cell-references-in-formulas"></a>Referências de célula em fórmulas
+<a name="bkmk_Cellreferenceinformulas"></a> Você pode usar referências de célula em fórmulas. Quando você faz referência a uma célula ou a um intervalo em uma fórmula, a célula ou o intervalo referenciado é realçado com uma cor. Para obter mais informações, consulte [usar referências de célula em fórmulas](https://support.office.com/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Chart animations adapt to new data
 <a name="bkmk_Chartanimations"> </a>
@@ -98,7 +96,7 @@ Só o aplicativo Microsoft Excel para a área de trabalho é compatível com os 
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Gráficos e tabelas, inclusive relatórios de Gráfico Dinâmico e de Tabela Dinâmica
 <a name="BKMK_ChartsandtablesincludingPivotChartreportsandPivotTablereports"> </a>
 
-Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento de informações. Saiba mais em [Criar ou excluir uma tabela do Excel](https://support.office.com/en-US/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664) e [Visão geral dos relatórios de Tabela Dinâmica e Gráfico Dinâmico](https://go.microsoft.com/fwlink/?linkid=55417).
+Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento de informações. Saiba mais em [Criar ou excluir uma tabela do Excel](https://support.office.com/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664) e [Visão geral dos relatórios de Tabela Dinâmica e Gráfico Dinâmico](https://go.microsoft.com/fwlink/?linkid=55417).
   
 ## <a name="comment-creation"></a>Comment creation
 <a name="bkmk_Commentcreation"> </a>
@@ -141,7 +139,7 @@ Você pode mover o valor da célula em Excel Online arrastando e soltando as cé
 O Dropbox é um serviço de hospedagem de arquivos que oferece armazenamento na nuvem, sincronização de arquivos, nuvem pessoal e software do cliente.
   
 ## <a name="duplicate-copy-worksheets"></a>Planilhas duplicadas (copiar)
-Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho do Excel online. Saiba mais sobre como [copiar planilhas no Excel online](https://support.office.com/en-us/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
+Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho do Excel online. Saiba mais sobre como [copiar planilhas no Excel online](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
 <a name="bkmk_EmbedWorkbookWeb"> </a>
@@ -199,7 +197,7 @@ Você pode usar a maioria das mais de 400 funções de planilhas do Excel em fó
 Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência de célula e vá para esse local na planilha. Saiba mais sobre os [atalhos de teclado no Excel Online](https://go.microsoft.com/fwlink/p/?LinkID=272943).
  
 ## <a name="group-data"></a>Dados de grupo
-<a name="Group data"></a> Você pode agrupar ou estruturar linhas e colunas em sua planilha do Excel online. Saiba mais sobre como agrupar dados no Excel online.
+<a name="Group data"></a> Você pode agrupar ou estruturar linhas e colunas em sua planilha do Excel online. Saiba mais sobre como [agrupar dados no Excel online](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 <a name="bkmk_HideUnhide"> </a>
@@ -209,7 +207,7 @@ Você pode ocultar e reexibir linhas, colunas e planilhas em uma pasta de trabal
 ## <a name="ideas"></a>Ideias
 <a name="Ideas"> </a>
 
-As ideias permitem que você entenda seus dados por meio de resumos visuais de alto nível, tendências e padrões. Basta clicar em uma célula em um intervalo de dados e, em seguida, clicar no botão ideias na guia página inicial. saiba mais sobre [ideias](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
+As ideias permitem que você entenda seus dados por meio de resumos visuais de alto nível, tendências e padrões. Basta clicar em uma célula em um intervalo de dados e, em seguida, clicar no botão ideias na guia página inicial. saiba mais sobre [ideias](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
 
  
 ## <a name="insert-charts"></a>Insert charts
@@ -223,10 +221,10 @@ Crie um gráfico para representar visualmente os seus dados. Escolha dentre dive
 Selecione uma ou mais linhas antes de clicar em Inserir ou Excluir na guia Página Inicial para adicionar ou remover linhas ou colunas (uma de cada vez ou várias ao mesmo tempo) em sua planilha.
 
 ## <a name="insert-pictures"></a>Inserir imagens
-<a name="bkmk_insertpicture"></a> Adicione alguns interesses visuais inserindo imagens na planilha. Saiba mais sobre como [inserir imagens no Excel online](https://support.office.com/en-us/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
+<a name="bkmk_insertpicture"></a> Adicione alguns interesses visuais inserindo imagens na planilha. Saiba mais sobre como [inserir imagens no Excel online](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
 
 ## <a name="insert-shapes"></a>Inserir formas
-<a name="bkmk_insertshapes"></a> Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas à sua planilha do Excel online. Saiba mais sobre como [adicionar formas](https://support.office.com/en-us/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+<a name="bkmk_insertshapes"></a> Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas à sua planilha do Excel online. Saiba mais sobre como [adicionar formas](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
   
 ## <a name="merge-cells"></a>Merge cells
 <a name="bkmk_MergeCells"> </a>
@@ -247,8 +245,8 @@ Altere o formato dos números. Escolha um formato como Moeda ou Data Abreviada e
 
 O Excel Online é iniciado pelo navegador da Internet e precisa de uma conexão com a Internet. Para acessar planilhas offline, o aplicativo de área de trabalho Microsoft Excel precisa ser instalado em seu computador e usado para ver e editar planilhas do Excel.
 
-## <a name="pivot-tables"></a>Tabelas Pivot
-<a name="bkmk_Pivottables"></a> Você pode inserir tabelas dinâmicas na planilha do Excel online e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma [tabela dinâmica no Excel online](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
+## <a name="pivottables"></a>PivotTables
+<a name="bkmk_Pivottables"></a> Você pode inserir tabelas dinâmicas na planilha do Excel online e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma [tabela dinâmica no Excel online](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
 
   
 ## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
@@ -287,8 +285,7 @@ Apenas o aplicativo de área de trabalho Microsoft Excel dá suporte a gráficos
 Se os dados em sua pasta de trabalho estiverem conectados a fontes externas, como bancos de dados, páginas da Web ou cubos de análise, você pode atualizar esses dados usando o Excel Online.
 
 ## <a name="remove-duplicate-values"></a>Remover valores duplicados
-<a name="bkmk_Removeduplicatevalues"></a> Você pode remover valores duplicados em um intervalo ou tabela. Para obter mais informações, consulte filtro para valores exclusivos ou [remover valores duplicados](https://support.office.com/en-us/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
-
+<a name="bkmk_Removeduplicatevalues"></a> Você pode remover valores duplicados em um intervalo ou tabela. Para obter mais informações, consulte [filtro para valores exclusivos ou remover valores duplicados](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
 ## <a name="rename-and-add-sheets"></a>Rename and add sheets
 <a name="bkmk_renameaddsheets"> </a>

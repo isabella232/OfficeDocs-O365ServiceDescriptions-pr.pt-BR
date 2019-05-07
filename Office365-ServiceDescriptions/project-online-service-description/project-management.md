@@ -3,7 +3,7 @@ title: Gerenciamento de projeto
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 12/21/2016
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Os seguintes recursos de gerenciamento de projetos estão disponíveis no Project online.
-ms.openlocfilehash: 4e21f1ee6a0709975c5375136d38ddc9533fefb9
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d6d51ff730b825b39fdeb8da039e1a56829aa82d
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246877"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621841"
 ---
 # <a name="project-management"></a>Gerenciamento de projeto
 
@@ -48,5 +48,7 @@ O cronograma representa as tarefas e as entregas que devem ser executadas para a
 <a name="bkmk_TimeTaskManagement"> </a>
 
 Use uma abordagem centralizada e comum para relatório de tempo e gerenciamento de tarefas. Capture o tempo de trabalho e o tempo sem trabalho para folha de pagamento, geração de fatura e outras finalidades comerciais. Comunique com eficiência o status de projetos ou trabalho diário e as solicitações ad hoc para medir os picos de utilização e os vales ou o progresso de tarefas. Isso ajuda você a antecipar o efeito sobre o esforço, o custo e o prazo planejados. Para saber mais sobre, veja [Controlar o tempo e o progresso das tarefas](https://go.microsoft.com/fwlink/p/?LinkId=271321).
-  
+
+## <a name="project-home"></a>Página inicial do projeto
+A página inicial do Project é o ponto de partida que lhe dá acesso rápido e fácil aos projetos que trabalharam recentemente e importantes projetos de alto nível. Você pode marcar esses projetos como favoritos com controles fáceis de usar para que eles sejam exibidos de forma proeminente na casa do projeto. Para saber mais, confira [introdução à página inicial do Project](https://support.office.com/article/get-started-with-project-home-a3b38418-35e7-4df4-8e4a-ba6a4fa0562a?ui=en-US&rs=en-US&ad=US).
 

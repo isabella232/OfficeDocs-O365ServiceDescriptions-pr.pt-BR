@@ -3,7 +3,7 @@ title: Descrição de serviço do Project Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 2/21/2019
+ms.date: 05/03/2019
 ms.audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 6b58178c9aea05173f4d5abbc4b44a85b497d631
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 6f55d69126ec2eff471f19cf8f018f7c8f1f6fb0
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246907"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621911"
 ---
 # <a name="project-online-service-description"></a>Descrição de serviço do Project Online
 
@@ -30,7 +30,7 @@ O Project Online está disponível em três planos: Project Online Essentials, P
   
 Para comparar recursos entre planos, confira [Comparar planos do Project Online](https://products.office.com/en-us/project/compare-microsoft-project-management-software).
   
-Você pode exportar, salvar e imprimir páginas nas Descrições de Serviço do Office 365. Saiba como [exportar várias páginas](https://go.microsoft.com/fwlink/?LinkId=403349).
+Você pode exportar, salvar e imprimir páginas nas Descrições de Serviço do Office 365. Saiba como [exportar várias páginas](https://techcommunity.microsoft.com/t5/Project-Support-Blog/Project-Online-New-ways-to-work-with-Team-Assignments/ba-p/362001?advanced=false&collapse_discussion=true&q=New%20ways%20to%20work%20with%20Team%20Assignments&search_type=thread).
   
 ## <a name="project-online-boundaries-and-limits"></a>Limites do Project Online
 
@@ -50,7 +50,7 @@ Seu serviço do Project Online requer o uso do SharePoint Online, que será forn
 
 Qualquer interação em um site do Project online requer uma licença do Project online.
   
-- O Project Online Essentials é o requisito mínimo.
+- O Project online Essentials é uma licença complementar de membro da equipe para clientes que já estão usando o Project online Professional ou o Project Online Premium em sua organização.
     
 - Para casos de uso mais avançados, os usuários precisam ter licenças apropriadas. Os gerentes de projeto requerem no mínimo uma licença do Project online Professional. Os gerentes de portfólio exigem uma licença do Project Online Premium.
     
@@ -69,10 +69,10 @@ Estão disponíveis os seguintes planos do Project Online. Para saber mais sobre
   
 ||||
 |:-----|:-----|:-----|
-|**Plano** <br/> |**Descrição** <br/> |**Usuários de destino** <br/> |
-|Project Online Essentials<sup>1</sup> <br/> | Interface baseada na Web para membros da equipe  <br/>  Atualizar tarefas, problemas e riscos  <br/>  Enviar quadros de horários  <br/>  Compartilhar documentos e colaborar com a presença do Skype for Business  <br/> |Membros da equipe  <br/> |
-|Project Online Professional<sup>1</sup> <br/> | Todas as funcionalidades do Project Online Essentials e:  <br/>  Interface de usuário avançada pelo cliente da área de trabalho  <br/>  Acesso a qualquer momento, em praticamente qualquer lugar, por meio da interface da Web  <br/>  Custo e agendamento de projetos  <br/>  Gerenciamento de recursos  <br/>  Publicação de projetos na nuvem  <br/>  Inclui a versão mais recente do aplicativo Project para área de trabalho, transmitido instantaneamente para o seu PC com Windows.  <br/>  Cada licença de assinatura permite até cinco instalações simultâneas do aplicativo Project para área de trabalho.  <br/> |Gerentes de projeto  <br/> |
-|Project Online Premium<sup>1</sup> <br/> | Todas as funcionalidades do Project Online Professional e:  <br/>  Seleção e otimização de portfólios  <br/>  Gerenciamento de demanda  <br/>  Gerenciamento de recursos da empresa  <br/>  Relatórios prontos de portfólio  <br/> |Gerentes de recursos e portfólios  <br/> |
+|**Plano** <br/> |**Usuários de destino** <br/> |**Descrição** <br/> |
+|Project Online Essentials<sup>1</sup> |Membros da equipe <br/> <br/> |Interface baseada na Web para membros da equipe <br/>  Atualizar tarefas, problemas e riscos <br/>  Enviar quadros de horários <br/> Compartilhar documentos e colaborar com a presença do Microsoft Teams ou do Skype for Business <br/> 
+|Project Online Professional<sup>1</sup> <br/>|Gerentes de projeto  <br/> | Todas as funcionalidades do Project Online Essentials e:  <br/>    Acesso a qualquer momento, em praticamente qualquer lugar, por meio da interface da Web  <br/>  Custo e agendamento de projetos  <br/>  Gerenciamento de recursos  <br/>  Publicação de projetos na nuvem  <br/>  Inclui a versão mais recente do aplicativo Project para área de trabalho, transmitido instantaneamente para o seu PC com Windows.  <br/>  Cada licença de assinatura permite até cinco instalações simultâneas do aplicativo Project para área de trabalho.  <br/> |
+|Project Online Premium<sup>1</sup> <br/>|Gerentes de recursos e portfólios  <br/> | Todas as funcionalidades do Project Online Professional e:  <br/>  Seleção e otimização de portfólios  <br/>  Gerenciamento de demanda  <br/>  Gerenciamento de recursos da empresa  <br/>  Relatórios prontos de portfólio  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Project online Essentials, Project online Professional e Project Online Premium também são oferecidos como parte do Office 365 operado pela 21vianet, uma versão do Office 365 específica para a China. 
@@ -82,14 +82,14 @@ Estão disponíveis os seguintes planos do Project Online. Para saber mais sobre
 
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|**Recurso** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |**Principais funcionalidades (cliente de desktop)** <br/> ||||||
 |[Adicionar colunas](core-functionality.md#add-columns) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Backstage](core-functionality.md#backstage) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Clique para executar](core-functionality.md#click-to-run) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Menus contextuais exibidos com o botão direito](core-functionality.md#contextual-right-click-menus) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|[Campos personalizados](core-functionality.md#custom-fields) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|[Copiar e colar aprimorados entre aplicativos do Microsoft Office](core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|[Campos personalizados](core-functionality.md#custom-fields) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Enhanced copy and paste across Microsoft Office applications](core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Gráfico de Gantt, calendário e exibições de planilha de tarefas](core-functionality.md#gantt-chart-calendar-and-task-sheet-views) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Interface de usuário Microsoft Fluent, a faixa de opções](core-functionality.md#microsoft-fluent-user-interface-the-ribbon) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Desfazer em vários níveis](core-functionality.md#multiple-level-undo) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -101,9 +101,9 @@ Estão disponíveis os seguintes planos do Project Online. Para saber mais sobre
 |[Modelos de projeto](core-functionality.md#project-templates) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Iniciar experiência](core-functionality.md#start-experience) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Quebra automática de linha](core-functionality.md#text-wrap) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|[Exibição de linha do tempo](core-functionality.md#timeline-view) <br/> ||Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|[Exibição de linha do tempo](core-functionality.md#timeline-view) <br/> |Não <br/>|Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Controles de zoom](core-functionality.md#zoom-controls) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|**Planejamento de projeto (cliente de desktop)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|**Planejamento de projeto (cliente de desktop)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Pacote cumulativo de atualizações de linha de base](project-planning.md#baseline-rollup) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Planejamento orçamentário](project-planning.md#budget-planning) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Comparar versões de projeto](project-planning.md#compare-project-versions) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -113,7 +113,7 @@ Estão disponíveis os seguintes planos do Project Online. Para saber mais sobre
 |[Agrupar e classificar dados do Project](project-planning.md#group-and-sort-project-data) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Relatórios](project-planning.md#reports) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Planejador de equipe](project-planning.md#team-planner) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|**Gerenciamento de tarefas (cliente de desktop)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|**Gerenciamento de tarefas (cliente de desktop)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Tarefas ativas e inativas](task-management.md#active-and-inactive-tasks) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Preenchimento Automático](task-management.md#auto-complete) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Programação automática](task-management.md#automatic-scheduling) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -124,7 +124,7 @@ Estão disponíveis os seguintes planos do Project Online. Para saber mais sobre
 |[Tarefas de resumo hierárquicas](task-management.md#top-down-summary-tasks) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Atualizar progresso](task-management.md#update-progress) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Agendamento manual e controlado pelo usuário](task-management.md#user-controlled-and-manual-scheduling) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|**Gerenciamento de recursos do Project (cliente de desktop)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|**Gerenciamento de recursos do Project (cliente de desktop)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Recursos de custos](project-resource-management.md#cost-resources) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Gerenciar tempo ocioso](project-resource-management.md#manage-nonworking-time) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Nivelamento de recursos](project-resource-management.md#resource-leveling) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -132,14 +132,14 @@ Estão disponíveis os seguintes planos do Project Online. Para saber mais sobre
 |[Substituição de recursos](project-resource-management.md#resource-substitution) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Recursos de equipe](project-resource-management.md#team-resources) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Recursos de trabalho, genéricos e materiais](project-resource-management.md#work-generic-and-material-resources) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|**Publicação do Projeto (cliente de desktop)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|**Publicação do Projeto (cliente de desktop)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Criar um site do Project](project-publishing.md#create-a-project-site) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Projetos mestres no SharePoint](project-publishing.md#master-projects-on-sharepoint) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Presença com o Skype for Business](project-publishing.md#presence-with-skype-for-business) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Publicar projetos no Project Server ou Project Online](project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Salvar um arquivo de projeto MPP para SharePoint](project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Sincronização de lista de tarefas com o SharePoint](project-publishing.md#task-list-sync-to-sharepoint) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|**Principais recursos de serviços** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|**Principais recursos de serviços** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Integração do Active Directory](core-services-functionality.md#active-directory-integration) <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Administração, Implantação e Extensibilidade](core-services-functionality.md#administration-deployment-and-extensibility) <br/> |Sim<sup>23</sup> <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Introdução](core-services-functionality.md#getting-started) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
@@ -150,23 +150,26 @@ Estão disponíveis os seguintes planos do Project Online. Para saber mais sobre
 |[Atualizações de serviço](core-services-functionality.md#service-updates) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |N/D  <br/> |N/D  <br/> |
 |[Colaboração de membros da equipe](core-services-functionality.md#team-member-collaboration) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de tempo e de tarefas (para membros da equipe)](core-services-functionality.md#time-and-task-management-for-team-members) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
-|**Gerenciamento de projetos** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|**Gerenciamento de projetos** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Gerenciamento de problemas e riscos](project-management.md#issues-and-risk-management) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciar recursos de projetos](project-management.md#manage-project-resources) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de cronograma](project-management.md#schedule-management) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento de tempo e tarefas](project-management.md#time-and-task-management) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
-|**Gerenciamento de portfólios** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|[Gerenciamento de tempo e tarefas](project-management.md#time-and-task-management) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
+|[Página Inicial](project-management.md#project-home) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
+|**Gerenciamento de portfólios** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Analisar projetos e otimizar portfólios](portfolio-management.md#analyze-projects-and-optimize-portfolio) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Criar e editar projetos](portfolio-management.md#create-and-edit-projects) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento financeiro](portfolio-management.md#financial-management) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Participar do fluxo de trabalho](portfolio-management.md#participate-in-workflow) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Seleção e análise de portfólios](portfolio-management.md#portfolio-analytics-and-selection) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de programas](portfolio-management.md#program-management) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
-|**Relatórios e business intelligence** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|[Mapa](portfolio-management.md#roadmap) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
+|**Relatórios e business intelligence** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Feeds OData](reporting-and-business-intelligence.md#odata-feeds) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Painéis prontos de portfólios](reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |[Relatórios da área de trabalho do Project](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|**Gerenciamento de recursos** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2016** <br/> |**Project Server 2016** <br/> |
+|[Relatórios divididos em fases](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
+|**Gerenciamento de recursos** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Aprovar/rejeitar/modificar solicitações de contrato de recursos de entrada](resource-management.md#approverejectmodify-incoming-resource-engagement-requests) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciar o pool de recursos](resource-management.md#manage-resource-pool) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Planejar a capacidade dos recursos](resource-management.md#plan-resource-capacity) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |

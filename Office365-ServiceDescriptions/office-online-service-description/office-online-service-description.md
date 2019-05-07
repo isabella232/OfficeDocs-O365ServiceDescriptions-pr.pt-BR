@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: O Office Online (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. Com o Office Online fica mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão à Internet, de praticamente qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544958"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621861"
 ---
 # <a name="office-online-service-description"></a>Descrição do Serviço do Office Online
 
@@ -130,7 +130,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Preenchimento automático](excel-online.md#autocomplete) <br/> |Sim  <br/> |Sim  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Sim  <br/> |Sim  <br/> |
 |[Cálculos](excel-online.md#calculations) <br/> |Sim  <br/> |Sim  <br/> |
-|[Referências de chamada em fórmulas](excel-online.md#call-reference-in-formulas) <br/> |Sim  <br/> |Sim  <br/> |
+|[Referências de célula em fórmulas](excel-online.md#cell-references-in-formulas) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criação de comentários](excel-online.md#comment-creation) <br/> |Sim  <br/> |Sim  <br/> |
 |[Copiar e colar](excel-online.md#copy-and-paste) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar conexões de dados externos<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |
@@ -159,12 +159,12 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Inserir imagens](excel-online.md#insert-pictures) <br/> |Sim  <br/> |Sim  <br/> |
 |[Inserir formas](excel-online.md#insert-shapes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Mesclar células](excel-online.md#merge-cells) <br/> |Sim  <br/> |Sim  <br/> |
-|[Intervalo nomeado](excel-online.md#named-ranges) <br/> |Sim  <br/> |Sim  <br/> |
+|[Intervalos nomeados](excel-online.md#named-ranges) <br/> |Sim  <br/> |Sim  <br/> |
 |[Formatação de números](excel-online.md#number-formatting) <br/> |Sim  <br/> |Sim  <br/> |
-|[Office Add-ins](excel-online.md#office-add-ins) <br/> |Sim <br/> |Sim  <br/> |
+|[Suplementos do Office](excel-online.md#office-add-ins) <br/> |Sim<sup>5</sup>  <br/> |Sim  <br/> |
 |[Criação e visualização offline](excel-online.md#offline-viewing-and-authoring) <br/> |Não  <br/> |Sim  <br/> |
-|[Gráficos Pivot](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
-|[Tabelas Pivot](excel-online.md#pivot-tables) <br/> |Sim  <br/> |Sim  <br/> |
+|[PivotCharts](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |Sim  <br/> |Sim  <br/> |
 |[Poste nas redes sociais e faça apresentações online](excel-online.md#post-to-social-network-and-present-online) <br/> |Não  <br/> |Sim  <br/> |
 |[Visualização do Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 |[Exibição do Power View](excel-online.md#power-view-viewing) <br/> |Sim  <br/> |Sim  <br/> |
