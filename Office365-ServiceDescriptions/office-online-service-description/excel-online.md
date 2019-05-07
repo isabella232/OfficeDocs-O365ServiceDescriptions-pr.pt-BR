@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel online (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621821"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641617"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência d
 <a name="bkmk_HideUnhide"> </a>
 
 Você pode ocultar e reexibir linhas, colunas e planilhas em uma pasta de trabalho em Excel Online.
- 
-## <a name="ideas"></a>Ideias
-<a name="Ideas"> </a>
-
-As ideias permitem que você entenda seus dados por meio de resumos visuais de alto nível, tendências e padrões. Basta clicar em uma célula em um intervalo de dados e, em seguida, clicar no botão ideias na guia página inicial. saiba mais sobre [ideias](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Não está disponível em Excel Online. Você pode exibir resultados da análise
 ## <a name="feature-availability"></a>Disponibilidade do recurso
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do Serviço do Office Online](office-online-service-description.md). 
-
+Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do Serviço do Office Online](office-online-service-description.md).

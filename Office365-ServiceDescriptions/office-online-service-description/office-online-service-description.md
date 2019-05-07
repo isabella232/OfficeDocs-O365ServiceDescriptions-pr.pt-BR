@@ -3,7 +3,7 @@ title: Descrição do Serviço do Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: O Office Online (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. Com o Office Online fica mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão à Internet, de praticamente qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621861"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641627"
 ---
 # <a name="office-online-service-description"></a>Descrição do Serviço do Office Online
 
@@ -111,7 +111,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Zoom](word-online.md#zoom) <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> esses processamentos são renderizados no visualizador, mas você não pode criá-los ou editá-los no Office Online. > <sup>2</sup> alguns suplementos do Office estão disponíveis, mas nem todos. 
+> <sup>1</sup> esses processamentos são renderizados no visualizador, mas você não pode criá-los ou editá-los no Office Online. <br/>
+> <sup>2</sup> alguns suplementos do Office estão disponíveis, mas nem todos. <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[GoTo](excel-online.md#goto) <br/> |Sim  <br/> |Sim  <br/> |
 |[Dados de grupo](excel-online.md#group-data) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ocultar/exibir linhas, colunas e planilhas](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Sim  <br/> |Sim  <br/> |
-|[Ideias](excel-online.md#ideas) <br/> |Sim  <br/> |Sim  <br/> |
 |[Inserir gráficos](excel-online.md#insert-charts) <br/> |Sim  <br/> |Sim  <br/> |
 |[Inserir/excluir linhas e colunas](excel-online.md#insertdelete-rows-and-columns) <br/> |Sim  <br/> |Sim  <br/> |
 |[Inserir imagens](excel-online.md#insert-pictures) <br/> |Sim  <br/> |Sim  <br/> |
@@ -193,6 +193,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Exibir gráficos 3D](excel-online.md#view-3d-charts) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ferramentas de análise 'E se...'](excel-online.md#what-if-analysis-tools) <br/> |Não  <br/> |Sim  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup> não é possível criar gráficos dinâmicos, somente exibição.
  <br/><sup>2</sup> dependendo de como seu ambiente está configurado, alguns tipos de conexões de dados são compatíveis com pastas de trabalho exibidas no Excel online. Para obter mais informações, consulte Atualizando dados em uma pasta de trabalho em uma janela do navegador. 
  <br/><sup>3</sup> você não pode criar macros com o VBA no Excel online, mas pode abrir e editar planilhas habilitadas para VBA sem remover (ou corromper) o VBA contido no arquivo.
@@ -298,7 +299,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Ver e adicionar comentários](powerpoint-online.md#view-and-add-comments) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ver e editar notas de slide](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Visualização WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sim  <br/> |Sim  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> o PowerPoint online oferece suporte a uma galeria de oito transições e 37 animações. Para uma seleção maior ou para criar animações personalizadas, use o aplicativo da área de trabalho PowerPoint. 
  <br/><sup>2</sup> o dispositivo em que você está trabalhando precisa dar suporte à tinta. 
  <br/> <sup>3</sup> alguns suplementos do Office estão disponíveis, mas não todos. 
@@ -333,7 +335,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |OpenDocument (.odp)  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> As macros não podem ser executadas ou alteradas. > <sup>2</sup> Se houver macros, será solicitado que os usuários tenham uma cópia do arquivo com as macros removidas. 
+> <sup>1</sup> As macros não podem ser executadas ou alteradas.<br/>
+> <sup>2</sup> Se houver macros, será solicitado que os usuários tenham uma cópia do arquivo com as macros removidas.<br/> 
   
 > [!NOTE]
 > Formatos de arquivo mais recentes (como. docx,. xlsl e. pptx) podem ser criados no Office 2016, 2013, 2010 ou 2007, ou no Office 2000 e posterior com o pacote de compatibilidade. 
