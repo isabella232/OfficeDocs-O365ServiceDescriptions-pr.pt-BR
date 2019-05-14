@@ -3,7 +3,7 @@ title: Descrição dos serviços do Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/08/2019
+ms.date: 05/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. . Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: b338785ee74f3df1be9a85b41ee40d0116247154
+ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246407"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33973349"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição dos serviços do Microsoft 365 Business
 
@@ -62,6 +62,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |[Recursos de Administração do Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Não<sup>6</sup> <br/> |Sim  <br/> |
+|Ativação de computador compartilhado <br/> |Não <br/> |Sim  <br/> |
 |[Gerenciamento de Contas de Usuário](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Configuração de área de trabalho do Office 365  <br/> |Sim  <br/> |Sim  <br/> |
 |Carregamento em massa usando arquivos. csv  <br/> |Sim  <br/> |Sim  <br/> |
@@ -118,7 +119,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recursos de gerenciamento de identidade e acesso** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security e5** <br/> |
-|MFA (autenticação multiFator) do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|MFA (autenticação multifator) do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Unidades administrativas  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Descoberta de aplicativo em nuvem  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Grupos dinâmicos  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
@@ -141,18 +142,18 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Grupo de segurança (SG) direcionando para políticas  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Instalar aplicativos do Office em dispositivos Windows 10 registrados  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Configuração do Windows Defender  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|ImPlantando perfis de dispositivo e configuração de segurança<sup>15</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Implantando perfis de dispositivo e configuração de segurança<sup>15</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Roaming de estado corporativo para o Windows 10 com ingresso no Azure AD  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Recuperação de BitLocker de autoatendimento  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
    
 |||
 |:-----|:-----|
 |**Recursos de gerenciamento do Windows 10** -a Microsoft 365 Business facilita o gerenciamento de dispositivos. Ao configurar seu locatário do Microsoft 365 Business, você seleciona proteção de aplicativos e definições de configuração do dispositivo. Essas configurações determinam as políticas aplicadas automaticamente aos dispositivos quando ingressam no Azure Active Directory. Os recursos de gerenciamento do Windows 10 pro incluem:  <br/> |**Microsoft 365 Business** <br/> |
-|Implantação simplificada com o Windows autoPilot  <br/> |Sim  <br/> |
+|Implantação simplificada com o Windows AutoPilot  <br/> |Sim  <br/> |
 |Ativação de assinatura  <br/> |Sim  <br/> |
 |Controle organizacional da tela do dispositivo em ociosidade  <br/> |Sim  <br/> |
 |Controle organizacional do acesso do usuário aos aplicativos da Microsoft Store  <br/> |Sim  <br/> |
-|Controle organizacional do acesso de usuário à corTana  <br/> |Sim  <br/> |
+|Controle organizacional do acesso de usuário à Cortana  <br/> |Sim  <br/> |
 |Controle organizacional de dicas do Windows e anúncios da Microsoft  <br/> |Sim  <br/> |
 |Dispositivos Windows 10 mantidos atualizados automaticamente  <br/> |Sim  <br/> |
 |**Recursos de segurança do Windows 10** <br/> |**Microsoft 365 Business** <br/> |
@@ -168,9 +169,9 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 <br/><sup>4</sup> a proteção de informações do Azure (AIP) permite os recursos compatíveis com o gerenciamento de direitos de informação (IRM). O plano do AIP 1 está incluído no Microsoft 365 Business. 
 <br/><sup>5</sup> o Microsoft Teams está disponível no Microsoft 365 Business, no Office 365 Business Essentials, no Office 365 Business Premium e no Office 365 Enterprise (E1, E3, e5, F1). 11 No Office 365 Enterprise F1, o Vídeo do Office 365 está limitado a somente visualização (sem publicar ou compartilhar). 
 <br/><sup>6</sup> a proteção de informações do Azure (AIP) permite os recursos compatíveis com o gerenciamento de direitos de informação (IRM). O plano do AIP 1 está incluído no Microsoft 365 Business. 
-<br/><sup>7</sup> a ferramenta Azure ad Connect para habilitar a sincronização de diretórios é suportada no Office 365 Business Premium, que é um componente do Microsoft 365 Business. No enTanto, quando os componentes de gerenciamento do Windows estão habilitados para o Microsoft 365 Business, é necessário um ingresso no AD do Azure. Se você tiver um ambiente do Active Directory local e quiser ingressar em seus dispositivos que ingressaram no domínio no Azure AD, é possível fazer isso [Configurando dispositivos híbridos associados do Azure ad](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
+<br/><sup>7</sup> a ferramenta Azure ad Connect para habilitar a sincronização de diretórios é suportada no Office 365 Business Premium, que é um componente do Microsoft 365 Business. No entanto, quando os componentes de gerenciamento do Windows estão habilitados para o Microsoft 365 Business, é necessário um ingresso no AD do Azure. Se você tiver um ambiente do Active Directory local e quiser ingressar em seus dispositivos que ingressaram no domínio no Azure AD, é possível fazer isso [Configurando dispositivos híbridos associados do Azure ad](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
 <br/><sup>8</sup> se estiver usando a sincronização de diretório com um Active Directory local, você deverá excluir as contas ou alterar as senhas usando o Active Directory local, em vez do portal do Office 365, ou usando o módulo do Azure Active Directory para Windows PowerShell. 
-<br/><sup>9</sup> somente identidades de nuvem. ConFira [permitir que os usuários redefinam suas próprias senhas no Office 365](https://go.microsoft.com/fwlink/?linkid=852917). 
+<br/><sup>9</sup> somente identidades de nuvem. Confira [permitir que os usuários redefinam suas próprias senhas no Office 365](https://go.microsoft.com/fwlink/?linkid=852917). 
 <br/><sup>10</sup> reduzir estações que foram compradas com um desconto de termo pode estar sujeito a uma taxa de término antecipado. Isso não é aplicável para assinaturas pagas mensalmente. 
 <br/><sup>11</sup> o Microsoft 365 Business inclui a assinatura de arquivamento do Exchange Online. Cada assinante do Arquivamento do Exchange Online recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
 <br/><sup>12</sup> para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://go.microsoft.com/fwlink/?linkid=863349). 
