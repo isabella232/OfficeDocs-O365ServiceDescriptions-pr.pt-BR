@@ -26,7 +26,7 @@
 ### [Ajuda e Treinamento](office-365-platform-service-description/help-and-training.md)
 ### [Rede](office-365-platform-service-description/networking.md)
 ### [Privacidade, Segurança e Transparência](office-365-platform-service-description/privacy-security-and-transparency.md)
-### [Conformidade[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md)
+### [Conformidade](office-365-platform-service-description/compliance-servicedesc.md)
 ### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [Parceiros](office-365-platform-service-description/partners.md)
 ### [Contrato de Nível de Serviço](office-365-platform-service-description/service-level-agreement.md)
