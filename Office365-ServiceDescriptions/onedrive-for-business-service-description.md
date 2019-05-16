@@ -3,7 +3,6 @@ title: Descrição de serviço do OneDrive for Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,118 +13,101 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
-description: O OneDrive for Business é um espaço de armazenamento online pessoal na nuvem fornecido por sua empresa. Use-o para armazenar e proteger seus arquivos de trabalho enquanto os acessa de vários dispositivos com facilidade. Compartilhe arquivos com colegas de trabalho conforme necessário e colabore em documentos do Office em tempo real com os aplicativos mais recentes do Office para dispositivos móveis, sites e área de trabalho. Sincronize arquivos no seu computador local usando o cliente de sincronização do OneDrive for Business.
-ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Saiba mais sobre o espaço de armazenamento do OneDrive fornecido para cada plano de assinatura.
+ms.openlocfilehash: 53023491a4b417a6daa2ba0eb57d5e443510c5c3
+ms.sourcegitcommit: 9ea9aa7c3d87354af4ac69f950e36b895b930463
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246917"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34080462"
 ---
-# <a name="onedrive-for-business-service-description"></a><span data-ttu-id="b0dbb-106">Descrição de serviço do OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="b0dbb-106">OneDrive for Business Service Description</span></span>
+# <a name="onedrive-for-business-service-description"></a><span data-ttu-id="46a59-103">Descrição de Serviço do OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="46a59-103">OneDrive for Business Service Description</span></span>
 
-<span data-ttu-id="b0dbb-p102">O OneDrive for Business é um espaço de armazenamento online pessoal na nuvem fornecido por sua empresa. Use-o para armazenar e proteger seus arquivos de trabalho enquanto os acessa de vários dispositivos com facilidade. Compartilhe arquivos com colegas de trabalho conforme necessário e colabore em documentos do Office em tempo real com os aplicativos mais recentes do Office para dispositivos móveis, sites e área de trabalho. Sincronize arquivos no seu computador local usando o cliente de sincronização do OneDrive for Business.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-p102">OneDrive for Business is personal online storage space in the cloud, provided for you by your company. Use it to store and protect your work files while accessing them across multiple devices with ease. Share your files with business colleagues as needed and collaborate on Office documents together in real time with the latest Office desktop, web, and mobile apps. Sync files to your local computer using the OneDrive for Business sync client.</span></span>
+<span data-ttu-id="46a59-104">O OneDrive é um espaço de armazenamento online na nuvem que é fornecido aos usuários individuais licenciados em uma organização.</span><span class="sxs-lookup"><span data-stu-id="46a59-104">OneDrive is online storage space in the cloud that's provided for individual licensed users in an organization.</span></span> <span data-ttu-id="46a59-105">Use-o para ajudar a proteger arquivos de trabalho e acessá-los em vários dispositivos.</span><span class="sxs-lookup"><span data-stu-id="46a59-105">Use it to help protect work files and access them across multiple devices.</span></span> <span data-ttu-id="46a59-106">O OneDrive permite compartilhar arquivos, colaborar em documentos e sincronizar arquivos com seu computador.</span><span class="sxs-lookup"><span data-stu-id="46a59-106">OneDrive lets you share files and collaborate on documents, and sync files to your computer.</span></span> <span data-ttu-id="46a59-107">[Saiba mais sobre os recursos, funcionalidades e preços do OneDrive](https://go.microsoft.com/fwlink/?linkid=850345) </span><span class="sxs-lookup"><span data-stu-id="46a59-107">[Learn more about OneDrive features, functionality, and pricing](https://go.microsoft.com/fwlink/?linkid=850345)</span></span> 
   
-<span data-ttu-id="b0dbb-111">O OneDrive for Business vem incluído no SharePoint Online e também pode ser adquirido como um plano autônomo ou com planos do Office 365.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-111">OneDrive for Business is included in SharePoint Online, and can also be purchased as a standalone plan or with Office 365 plans.</span></span> 
-  
-<span data-ttu-id="b0dbb-112">Saiba mais sobre os recursos e funcionalidades do OneDrive for Business acessando [OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).</span><span class="sxs-lookup"><span data-stu-id="b0dbb-112">To learn more about OneDrive for Business features and functionality, go to [OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).</span></span>
-  
-## <a name="subscription-plans"></a><span data-ttu-id="b0dbb-113">Planos de assinatura</span><span class="sxs-lookup"><span data-stu-id="b0dbb-113">Subscription plans</span></span>
-
-<span data-ttu-id="b0dbb-114">O OneDrive for Business está disponível nos planos a seguir.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-114">OneDrive for Business is available through the following plans.</span></span>
-  
-||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|<span data-ttu-id="b0dbb-115">**Serviço**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-115">**Service**</span></span> <br/> |<span data-ttu-id="b0dbb-116">**Office 365 Business**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-116">**Office 365 Business**</span></span> <br/> |<span data-ttu-id="b0dbb-117">**Office 365 Business Essentials**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-117">**Office 365 Business Essentials**</span></span> <br/> |<span data-ttu-id="b0dbb-118">**Office 365 Business Premium**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-118">**Office 365 Business Premium**</span></span> <br/> |<span data-ttu-id="b0dbb-119">**Office 365 ProPlus**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-119">**Office 365 ProPlus**</span></span> <br/> |<span data-ttu-id="b0dbb-120">**Office 365 Enterprise E1**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-120">**Office 365 Enterprise E1**</span></span> <br/> |<span data-ttu-id="b0dbb-121">**Office 365 Enterprise E3**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-121">**Office 365 Enterprise E3**</span></span> <br/> |<span data-ttu-id="b0dbb-122">**Office 365 Enterprise E5**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-122">**Office 365 Enterprise E5**</span></span> <br/> |<span data-ttu-id="b0dbb-123">**Office 365 Enterprise F1**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-123">**Office 365 Enterprise F1**</span></span> <br/> |
-|<span data-ttu-id="b0dbb-124">Plano do OneDrive for Business incluído</span><span class="sxs-lookup"><span data-stu-id="b0dbb-124">OneDrive for Business Plan included</span></span>  <br/> |<span data-ttu-id="b0dbb-125">Plano 1</span><span class="sxs-lookup"><span data-stu-id="b0dbb-125">Plan 1</span></span>  <br/> |<span data-ttu-id="b0dbb-126">Plano 1</span><span class="sxs-lookup"><span data-stu-id="b0dbb-126">Plan 1</span></span>  <br/> |<span data-ttu-id="b0dbb-127">Plano 1</span><span class="sxs-lookup"><span data-stu-id="b0dbb-127">Plan 1</span></span>  <br/> |<span data-ttu-id="b0dbb-128">Plano 1</span><span class="sxs-lookup"><span data-stu-id="b0dbb-128">Plan 1</span></span>  <br/> |<span data-ttu-id="b0dbb-129">Plano 1</span><span class="sxs-lookup"><span data-stu-id="b0dbb-129">Plan 1</span></span>  <br/> |<span data-ttu-id="b0dbb-130">Plano 2</span><span class="sxs-lookup"><span data-stu-id="b0dbb-130">Plan 2</span></span>  <br/> |<span data-ttu-id="b0dbb-131">Plano 2</span><span class="sxs-lookup"><span data-stu-id="b0dbb-131">Plan 2</span></span>  <br/> |<span data-ttu-id="b0dbb-132">Plano F (antigo Plano K)</span><span class="sxs-lookup"><span data-stu-id="b0dbb-132">Plan F (formerly Plan K)</span></span>  <br/> |
-   
-||||
-|:-----|:-----|:-----|
-|<span data-ttu-id="b0dbb-133">**Serviço**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-133">**Service**</span></span> <br/> |<span data-ttu-id="b0dbb-134">**SharePoint Online (Plano 1)**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-134">**SharePoint Online Plan 1**</span></span> <br/> |<span data-ttu-id="b0dbb-135">**SharePoint Online (Plano 2)**</span><span class="sxs-lookup"><span data-stu-id="b0dbb-135">**SharePoint Online Plan 2**</span></span> <br/> |
-|<span data-ttu-id="b0dbb-136">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="b0dbb-136">OneDrive for Business</span></span>  <br/> |<span data-ttu-id="b0dbb-137">Sim</span><span class="sxs-lookup"><span data-stu-id="b0dbb-137">Yes</span></span>  <br/> |<span data-ttu-id="b0dbb-138">Sim</span><span class="sxs-lookup"><span data-stu-id="b0dbb-138">Yes</span></span>  <br/> |
-   
-<span data-ttu-id="b0dbb-139">Para comparar planos, acesse [Comparar planos do Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) e [Comparar planos do OneDrive for Business](https://products.office.com/pt-BR/onedrive-for-business/compare-onedrive-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="b0dbb-139">To compare plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?linkid=799177) and [Compare OneDrive for Business plans](https://products.office.com/pt-BR/onedrive-for-business/compare-onedrive-for-business-plans).</span></span> 
+<span data-ttu-id="46a59-108">O OneDrive está incluído nos planos do Microsoft 365, Office 365 e do SharePoint Online, e também pode ser adquirido como um plano autônomo.</span><span class="sxs-lookup"><span data-stu-id="46a59-108">OneDrive is included in Microsoft 365 and Office 365 plans, in SharePoint Online plans, and can also be purchased as a standalone plan.</span></span> 
+    
+<span data-ttu-id="46a59-109">Para comparar planos, acesse [Comparar planos do Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) e [Comparar planos do OneDrive for Business](https://products.office.com/pt-BR/onedrive-for-business/compare-onedrive-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="46a59-109">To compare plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?linkid=799177) and [Compare OneDrive for Business plans](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans).</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="b0dbb-140">Os planos autônomos do OneDrive for Business incluem o Office Online.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-140">OneDrive for Business standalone plans include Office Online.</span></span> 
+> <span data-ttu-id="46a59-110">Os planos autônomos do OneDrive for Business incluem o Office Online.</span><span class="sxs-lookup"><span data-stu-id="46a59-110">OneDrive for Business standalone plans include Office Online.</span></span> 
   
-## <a name="system-requirements"></a><span data-ttu-id="b0dbb-141">Requisitos do sistema</span><span class="sxs-lookup"><span data-stu-id="b0dbb-141">System Requirements</span></span>
+## <a name="system-requirements"></a><span data-ttu-id="46a59-111">Requisitos do sistema</span><span class="sxs-lookup"><span data-stu-id="46a59-111">System requirements</span></span>
 
-<span data-ttu-id="b0dbb-142">Conheça os requisitos do sistema nesta [página](https://go.microsoft.com/fwlink/?linkid=837584).</span><span class="sxs-lookup"><span data-stu-id="b0dbb-142">For system requirements, see this [page](https://go.microsoft.com/fwlink/?linkid=837584).</span></span>
+<span data-ttu-id="46a59-112">Para examinar os requisitos para o cliente de sincronização do OneDrive e do aplicativo móvel, confira os [Requisitos de sistema do OneDrive](https://go.microsoft.com/fwlink/?linkid=837584).</span><span class="sxs-lookup"><span data-stu-id="46a59-112">To review the requirements for the OneDrive sync client and mobile app, see [OneDrive system requirements](https://go.microsoft.com/fwlink/?linkid=837584).</span></span>
   
-## <a name="about-sync"></a><span data-ttu-id="b0dbb-143">Sobre a sincronização</span><span class="sxs-lookup"><span data-stu-id="b0dbb-143">About sync</span></span>
+## <a name="about-sync"></a><span data-ttu-id="46a59-113">Sobre a sincronização</span><span class="sxs-lookup"><span data-stu-id="46a59-113">About sync</span></span>
 
-<span data-ttu-id="b0dbb-p103">Se não tiver instalado o cliente de sincronização mais recente do OneDrive for Business, confira [Como instalar o cliente de sincronização do OneDrive for Business](https://support.microsoft.com/pt-BR/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl). Não sabe ao certo qual cliente de sincronização está usando? Confira [Qual versão do OneDrive estou usando?](https://go.microsoft.com/fwlink/?linkid=846624)</span><span class="sxs-lookup"><span data-stu-id="b0dbb-p103">If you do not have the latest OneDrive for Business sync client installed, see [How to install the OneDrive for Business sync client](https://support.microsoft.com/pt-BR/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl). Not sure which sync client you're using? See [Which version of OneDrive am I using?](https://go.microsoft.com/fwlink/?linkid=846624)</span></span>
+<span data-ttu-id="46a59-114">Para instalar o cliente de sincronização mais recente, acesse a [página de download do OneDrive](https://onedrive.live.com/about/download/).</span><span class="sxs-lookup"><span data-stu-id="46a59-114">To install the latest sync client, go to [the OneDrive download page](https://onedrive.live.com/about/download/).</span></span> 
   
-## <a name="unlimited-cloud-storage-details"></a><span data-ttu-id="b0dbb-147">Detalhes do armazenamento em nuvem ilimitado</span><span class="sxs-lookup"><span data-stu-id="b0dbb-147">Unlimited cloud storage details</span></span>
+## <a name="storage-space-per-user"></a><span data-ttu-id="46a59-115">Espaço de armazenamento por usuário</span><span class="sxs-lookup"><span data-stu-id="46a59-115">Storage per external user</span></span>
 
-<span data-ttu-id="b0dbb-148">Os planos a seguir oferecem armazenamento pessoal em nuvem ilimitado para assinaturas com cinco usuários ou mais.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-148">The following plans provide unlimited personal cloud storage for subscriptions with five users or more.</span></span>
-  
-- <span data-ttu-id="b0dbb-149">OneDrive for Business Plano 2</span><span class="sxs-lookup"><span data-stu-id="b0dbb-149">OneDrive for Business Plan 2</span></span>
-    
-- <span data-ttu-id="b0dbb-150">SharePoint Online Plano 2</span><span class="sxs-lookup"><span data-stu-id="b0dbb-150">SharePoint Online Plan 2</span></span>
-    
-- <span data-ttu-id="b0dbb-151">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="b0dbb-151">Office 365 Enterprise E3</span></span>
-    
-- <span data-ttu-id="b0dbb-152">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="b0dbb-152">Office 365 Enterprise E5</span></span>
-    
-- <span data-ttu-id="b0dbb-153">Office 365 A1</span><span class="sxs-lookup"><span data-stu-id="b0dbb-153">Office 365 A1</span></span>
-    
-- <span data-ttu-id="b0dbb-154">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="b0dbb-154">Office 365 A3</span></span>
-    
-- <span data-ttu-id="b0dbb-155">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="b0dbb-155">Office 365 A5</span></span>
-    
-- <span data-ttu-id="b0dbb-156">Office 365 US Government G3</span><span class="sxs-lookup"><span data-stu-id="b0dbb-156">Office 365 US Government G3</span></span>
-    
-- <span data-ttu-id="b0dbb-157">Office 365 US Government G5</span><span class="sxs-lookup"><span data-stu-id="b0dbb-157">Office 365 US Government G5</span></span>
-    
-- <span data-ttu-id="b0dbb-158">Office 365 E3 para entidades sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="b0dbb-158">Office 365 E3 for nonprofit</span></span>
-    
-- <span data-ttu-id="b0dbb-159">Office 365 E5 para entidades sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="b0dbb-159">Office 365 E5 for nonprofit</span></span>
-    
-- <span data-ttu-id="b0dbb-160">Microsoft 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="b0dbb-160">Microsoft 365 Enterprise E3</span></span>
-    
-- <span data-ttu-id="b0dbb-161">Microsoft 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="b0dbb-161">Microsoft 365 Enterprise E5</span></span>
-    
-- <span data-ttu-id="b0dbb-162">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="b0dbb-162">Microsoft 365 A3</span></span>
-    
-- <span data-ttu-id="b0dbb-163">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="b0dbb-163">Microsoft 365 A5</span></span>
-    
-- <span data-ttu-id="b0dbb-164">Microsoft 365 US Government G3</span><span class="sxs-lookup"><span data-stu-id="b0dbb-164">Microsoft 365 US Government G3</span></span>
-    
-- <span data-ttu-id="b0dbb-165">Microsoft 365 US Government G5</span><span class="sxs-lookup"><span data-stu-id="b0dbb-165">Microsoft 365 US Government G5</span></span>
-    
-- <span data-ttu-id="b0dbb-166">Microsoft 365 E3 para entidades sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="b0dbb-166">Microsoft 365 E3 for nonprofit</span></span>
-    
-- <span data-ttu-id="b0dbb-167">Microsoft 365 E5 para entidades sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="b0dbb-167">Microsoft 365 E5 for nonprofit</span></span>
-    
-<span data-ttu-id="b0dbb-168">Assinaturas com menos de cinco usuários recebem 1 TB de armazenamento pessoal em nuvem por usuário.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-168">Subscriptions with less than five users receive 1 TB of personal cloud storage per user.</span></span> 
-  
-<span data-ttu-id="b0dbb-p104">Os clientes inicialmente têm 1 TB de armazenamento pessoal em nuvem por usuário no OneDrive for Business. É possível [aumentar o espaço de armazenamento padrão do OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=838024) para até 5 TB por usuário com a ajuda do administrador do Office 365 quando a quota de 1 TB estiver em 90% da capacidade.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-p104">Customers will initially be provisioned 1 TB of personal cloud storage per user in OneDrive for Business. You may [increase the default OneDrive for Business storage space](https://go.microsoft.com/fwlink/?linkid=838024) to up to 5 TB per user with the help of your Office 365 administrator once the 1TB quota is 90% full.</span></span> 
+<span data-ttu-id="46a59-116">**2 GB**</span><span class="sxs-lookup"><span data-stu-id="46a59-116">**2 GB**</span></span>
+
+- <span data-ttu-id="46a59-117">Office 365 Enterprise F1</span><span class="sxs-lookup"><span data-stu-id="46a59-117">Office 365 Enterprise F1</span></span>
+
+<span data-ttu-id="46a59-118">**1 TB**</span><span class="sxs-lookup"><span data-stu-id="46a59-118">**1 TB per organization**</span></span>
+
+- <span data-ttu-id="46a59-119">Office 365 Business Essentials</span><span class="sxs-lookup"><span data-stu-id="46a59-119">Office 365 Business Essentials</span></span>
+- <span data-ttu-id="46a59-120">Office 365 Business</span><span class="sxs-lookup"><span data-stu-id="46a59-120">Office 365 Business</span></span>
+- <span data-ttu-id="46a59-121">Office 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="46a59-121">Office 365 Business Premium</span></span>
+- <span data-ttu-id="46a59-122">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="46a59-122">Office 365 ProPlus</span></span>
+- <span data-ttu-id="46a59-123">Office 365 Enterprise E1</span><span class="sxs-lookup"><span data-stu-id="46a59-123">Office 365 Enterprise E1</span></span>
+- <span data-ttu-id="46a59-124">Office 365 Government G1</span><span class="sxs-lookup"><span data-stu-id="46a59-124">Office 365 Government G1</span></span>
+- <span data-ttu-id="46a59-125">Office 365 Business Essentials para instituições sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="46a59-125">Office 365 Nonprofit Business Essentials</span></span>
+- <span data-ttu-id="46a59-126">Office 365 Business Premium para instituições sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="46a59-126">Office 365 Nonprofit Business Premium</span></span>
+- <span data-ttu-id="46a59-127">Office 365 E1 para instituições sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="46a59-127">Office 365 Nonprofit E1</span></span>
+- <span data-ttu-id="46a59-128">OneDrive for Business Plano 1</span><span class="sxs-lookup"><span data-stu-id="46a59-128">OneDrive for Business Plan 1</span></span>
+- <span data-ttu-id="46a59-129">SharePoint Online Plano 1</span><span class="sxs-lookup"><span data-stu-id="46a59-129">SharePoint Online Plan 1</span></span>
+
+<span data-ttu-id="46a59-130">**Acima de 1 TB a ilimitado**</span><span class="sxs-lookup"><span data-stu-id="46a59-130">**Beyond 1 TB, to unlimited**</span></span>
+ 
+<span data-ttu-id="46a59-131">1 TB por usuário para assinaturas com até 5 usuários.</span><span class="sxs-lookup"><span data-stu-id="46a59-131">1 TB per user for subscriptions with fewer than 5 users.</span></span> <span data-ttu-id="46a59-132">Para assinaturas com 5 ou mais usuários, a Microsoft fornecerá inicialmente 1 TB por usuário, limite que os administradores podem aumentar para até 5 TB por usuário.</span><span class="sxs-lookup"><span data-stu-id="46a59-132">For subscriptions with 5 or more users, Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="46a59-133">([Saiba como](/onedrive/set-default-storage-space)) solicitar armazenamento adicional, os administradores devem contatar o suporte da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="46a59-133">([Learn how](/onedrive/set-default-storage-space)) To request additional storage, admins must contact Microsoft support.</span></span> 
+
+- <span data-ttu-id="46a59-134">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="46a59-134">Office 365 Enterprise E3</span></span>
+- <span data-ttu-id="46a59-135">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="46a59-135">Office 365 Enterprise E5</span></span>
+- <span data-ttu-id="46a59-136">OneDrive for Business Plano 2</span><span class="sxs-lookup"><span data-stu-id="46a59-136">OneDrive for Business Plan 2</span></span>
+- <span data-ttu-id="46a59-137">SharePoint Online Plano 2</span><span class="sxs-lookup"><span data-stu-id="46a59-137">SharePoint Online Plan 2</span></span>
+- <span data-ttu-id="46a59-138">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="46a59-138">Office 365 Enterprise E3</span></span>
+- <span data-ttu-id="46a59-139">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="46a59-139">Office 365 Enterprise E5</span></span>
+- <span data-ttu-id="46a59-140">Office 365 A1</span><span class="sxs-lookup"><span data-stu-id="46a59-140">Office 365 A1</span></span>
+- <span data-ttu-id="46a59-141">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="46a59-141">Office 365 A3</span></span>
+- <span data-ttu-id="46a59-142">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="46a59-142">Office 365 A5</span></span>
+- <span data-ttu-id="46a59-143">Office 365 US Government G3</span><span class="sxs-lookup"><span data-stu-id="46a59-143">Office 365 US Government G3</span></span>
+- <span data-ttu-id="46a59-144">Office 365 US Government G5</span><span class="sxs-lookup"><span data-stu-id="46a59-144">Office 365 US Government G5</span></span>
+- <span data-ttu-id="46a59-145">Office 365 E3 para instituições sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="46a59-145">Office 365 Nonprofit E3</span></span> 
+- <span data-ttu-id="46a59-146">Office 365 E5 para entidades sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="46a59-146">Office 365 Nonprofit E5</span></span> 
+- <span data-ttu-id="46a59-147">Microsoft 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="46a59-147">Microsoft 365 Enterprise E3</span></span>
+- <span data-ttu-id="46a59-148">Microsoft 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="46a59-148">Microsoft 365 Enterprise E5</span></span>
+- <span data-ttu-id="46a59-149">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="46a59-149">Microsoft 365 A3</span></span>
+- <span data-ttu-id="46a59-150">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="46a59-150">Microsoft 365 A5</span></span>
+- <span data-ttu-id="46a59-151">Microsoft 365 US Government G3</span><span class="sxs-lookup"><span data-stu-id="46a59-151">Microsoft 365 US Government G3</span></span>
+- <span data-ttu-id="46a59-152">Microsoft 365 US Government G5</span><span class="sxs-lookup"><span data-stu-id="46a59-152">Microsoft 365 US Government G5</span></span>
+- <span data-ttu-id="46a59-153">Microsoft 365 E3 para entidades sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="46a59-153">Microsoft 365 E3 for nonprofit</span></span>
+- <span data-ttu-id="46a59-154">Microsoft 365 E5 para entidades sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="46a59-154">Microsoft 365 E5 for nonprofit</span></span>
+
   
 > [!NOTE]
-> <span data-ttu-id="b0dbb-171">É necessário atribuir pelo menos uma licença a um usuário antes de aumentar o espaço de armazenamento padrão do OneDrive.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-171">You must assign at least one license to a user before you can increase the default OneDrive storage space.</span></span> 
+> <span data-ttu-id="46a59-155">É necessário atribuir pelo menos uma licença a um usuário antes de aumentar o espaço de armazenamento padrão do OneDrive.</span><span class="sxs-lookup"><span data-stu-id="46a59-155">You must assign at least one license to a user before you can increase the default OneDrive storage space.</span></span> 
   
-<span data-ttu-id="b0dbb-p105">Sempre que necessitar de armazenamento na nuvem superior aos 5 TB iniciais, [abra uma ocorrência para o suporte técnico da Microsoft](https://go.microsoft.com/fwlink/?linkid=869559) para solicitar. O armazenamento em nuvem adicional é concedido da seguinte maneira:</span><span class="sxs-lookup"><span data-stu-id="b0dbb-p105">Whenever you need cloud storage beyond the initial 5 TB, [open a case with Microsoft technical support](https://go.microsoft.com/fwlink/?linkid=869559) to request it. Additional cloud storage will be granted as follows:</span></span> 
+<span data-ttu-id="46a59-156">Sempre que precisar de armazenamento na nuvem superior aos 5 TB iniciais, os administradores podem solicitar [abrindo uma ocorrência para o suporte técnico da Microsoft](https://go.microsoft.com/fwlink/?linkid=869559).</span><span class="sxs-lookup"><span data-stu-id="46a59-156">Whenever you need cloud storage beyond the initial 5 TB, [open a case with Microsoft technical support](https://go.microsoft.com/fwlink/?linkid=869559) to request it.</span></span> <span data-ttu-id="46a59-157">O armazenamento em nuvem adicional é concedido da seguinte maneira:</span><span class="sxs-lookup"><span data-stu-id="46a59-157">Additional cloud storage will be granted as follows:</span></span> 
   
-- <span data-ttu-id="b0dbb-174">Quando um usuário tiver utilizado pelo menos 90% dos 5 TB de armazenamento no OneDrive for Business, a Microsoft aumentará o espaço de armazenamento padrão no OneDrive for Business para até 25 TB por usuário (os administradores podem configurar limites inferiores por usuários se quiserem).</span><span class="sxs-lookup"><span data-stu-id="b0dbb-174">When a user has filled their 5 TB of OneDrive for Business storage to at least 90% capacity, Microsoft will increase your default storage space in OneDrive for Business to up to 25 TB per user (admins may set a lower per user limit if they wish to).</span></span> 
+- <span data-ttu-id="46a59-158">Quando um usuário tiver utilizado pelo menos 90% dos 5 TB de armazenamento no OneDrive, a Microsoft aumentará o espaço de armazenamento padrão no OneDrive para até 25 TB por usuário (os administradores podem configurar limites inferiores por usuário, se quiserem).</span><span class="sxs-lookup"><span data-stu-id="46a59-158">When a user has filled their 5 TB of OneDrive for Business storage to at least 90% capacity, Microsoft will increase your default storage space in OneDrive for Business to up to 25 TB per user (admins may set a lower per user limit if they wish to).</span></span> 
     
-- <span data-ttu-id="b0dbb-p106">Para qualquer usuário que atinja pelo menos 90% da capacidade de 25 TB do armazenamento do OneDrive for Business, um armazenamento em nuvem adicional de 25 TB nos sites de equipe do SharePoint será fornecido a usuários individuais. Este armazenamento adicional é fornecido ao locatário por meio de crédito.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-p106">For any user that reaches at least 90% capacity of their 25 TB of OneDrive for Business storage, additional cloud storage will be provided as 25 TB SharePoint team sites to individual users. This additional storage is provided to the tenant by way of credit.</span></span>
+- <span data-ttu-id="46a59-159">Para qualquer usuário que atinja pelo menos 90% da capacidade dos 25 TB do armazenamento do OneDrive, um armazenamento em nuvem adicional de 25 TB nos sites de equipe do SharePoint será fornecido a usuários individuais.</span><span class="sxs-lookup"><span data-stu-id="46a59-159">For any user that reaches at least 90% capacity of their 25 TB of OneDrive for Business storage, additional cloud storage will be provided as 25 TB SharePoint team sites to individual users.</span></span> <span data-ttu-id="46a59-160">Este armazenamento adicional é fornecido à organização por meio de crédito.</span><span class="sxs-lookup"><span data-stu-id="46a59-160">This additional storage is provided to the tenant by way of credit.</span></span>
     
-<span data-ttu-id="b0dbb-177">Para ver quanto do armazenamento pessoal em nuvem está sendo usado, o administrador do Office 365 pode acessar o Centro de Administração do OneDrive para gerenciar o armazenamento pessoal em nuvem dos usuários.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-177">To see how much personal cloud storage you are using, your Office 365 administrator can go to the OneDrive Admin Center to manage their users' personal cloud storage.</span></span> 
-  
-<span data-ttu-id="b0dbb-178">Confira [Alterar o espaço de armazenamento dos usuários do OneDrive usando o PowerShell](https://go.microsoft.com/fwlink/?linkid=866402) para saber mais sobre como os administradores do Office 365 podem gerenciar o armazenamento do usuário no OneDrive for Business.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-178">See [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402) for more information on how Office 365 administrators can manage user storage in OneDrive for Business.</span></span> 
-  
-## <a name="supported-uses"></a><span data-ttu-id="b0dbb-179">Usos compatíveis</span><span class="sxs-lookup"><span data-stu-id="b0dbb-179">Supported uses</span></span>
+<span data-ttu-id="46a59-161">Para ver o espaço de armazenamento e o uso de um usuário específico, acesse [gerenciar armazenamento](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) no cliente de sincronização do OneDrive.</span><span class="sxs-lookup"><span data-stu-id="46a59-161">To see the storage space and usage for an individual user, go to [Manage storage](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) in the OneDrive sync client.</span></span> <span data-ttu-id="46a59-162">Para ver a quantidade de armazenamento que usuários em toda a organização estão usando, acesse o [relatório de uso do OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) no Centro de Administração do Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="46a59-162">To see how much storage users across the organization are using, go to the [OneDrive usage report](/office365/admin/activity-reports/onedrive-for-business-usage) in the Microsoft 365 admin center.</span></span> 
+   
+## <a name="supported-uses"></a><span data-ttu-id="46a59-163">Usos compatíveis</span><span class="sxs-lookup"><span data-stu-id="46a59-163">Supported uses</span></span>
 
-<span data-ttu-id="b0dbb-p107">Com o OneDrive for Business, qualquer pessoa pode armazenar, acessar e compartilhar facilmente arquivos de trabalho no espaço de armazenamento pessoal online na nuvem. O armazenamento do OneDrive for Business é provisionado por usuário e foi projetado para atender às necessidades dos indivíduos.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-p107">With OneDrive for Business, every person can easily store, access, and share their work files in their personal online storage space in the cloud. OneDrive for Business storage is provisioned on a per user basis and is designed to serve the needs of individual users.</span></span>
+<span data-ttu-id="46a59-164">O armazenamento do OneDrive é configurado com base no usuário e foi projetado para atender às necessidades de usuários individuais.</span><span class="sxs-lookup"><span data-stu-id="46a59-164">OneDrive for Business storage is provisioned on a per user basis and is designed to serve the needs of individual users.</span></span>
   
-<span data-ttu-id="b0dbb-p108">O armazenamento de dados que não consista de arquivos pessoais de trabalho de uma pessoa, incluindo backups de sistemas e dados de nível departamental e organizacional, não é compatível, tampouco a atribuição de uma licença de usuário a um bot, departamento ou outra entidade inanimada. O SharePoint é a melhor solução para o gerenciamento de conteúdo e colaboração mais avançados, incluindo o armazenamento e o gerenciamento de arquivos, comunicações e sites de intranet em uma equipe ou organização.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-p108">Storage of data other than an individual's personal work files, including system back-ups and departmental and organizational level data, is not supported, nor is the assignment of a per user license to a bot, department, or other non-human entity. SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span>
+<span data-ttu-id="46a59-165">O armazenamento de dados que não seja de arquivos de trabalho de um usuário individual, incluindo backups de sistemas e dados de nível departamental e organizacional, não é compatível, tampouco é atribuído uma licença de usuário a um bot, departamento ou outra entidade não humana.</span><span class="sxs-lookup"><span data-stu-id="46a59-165">Storage of data other than an individual's personal work files, including system back-ups and departmental and organizational level data, is not supported, nor is the assignment of a per user license to a bot, department, or other non-human entity.</span></span> <span data-ttu-id="46a59-166">O SharePoint é a melhor solução para o gerenciamento de conteúdo e colaboração mais avançados, incluindo o armazenamento e o gerenciamento de arquivos, comunicações e sites de intranet em uma equipe ou organização.</span><span class="sxs-lookup"><span data-stu-id="46a59-166">SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span>
   
-## <a name="onedrive-for-business-limitations"></a><span data-ttu-id="b0dbb-184">Limitações do OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="b0dbb-184">OneDrive for Business limitations</span></span>
+## <a name="onedrive-limits"></a><span data-ttu-id="46a59-167">Limites do OneDrive</span><span class="sxs-lookup"><span data-stu-id="46a59-167">OneDrive limits</span></span>
 
-<span data-ttu-id="b0dbb-p109">O OneDrive for Business vem incluído no SharePoint Online. Conheça as limitações, como limites de carregamento de arquivos e cotas de conjunto de sites, em [limites do SharePoint Online](https://go.microsoft.com/fwlink/?linkid=829156) e [Restrições e limitações na sincronização de arquivos e pastas](https://support.microsoft.com/pt-BR/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders).</span><span class="sxs-lookup"><span data-stu-id="b0dbb-p109">OneDrive for Business is included in SharePoint Online. To learn about limitations such as file upload limits and site collection quotas see [SharePoint Online limits](https://go.microsoft.com/fwlink/?linkid=829156) and [Restrictions and limitations when you sync files and folders](https://support.microsoft.com/pt-BR/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders).</span></span>
+<span data-ttu-id="46a59-168">Para saber mais sobre os limites de arquivo e de sincronização, confira [limites do SharePoint Online](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) e [tipos de arquivo e nomes de arquivo inválidos](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).</span><span class="sxs-lookup"><span data-stu-id="46a59-168">To learn about file and sync limits, see [SharePoint Online limits](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) and [Invalid file names and file types](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
   
-<span data-ttu-id="b0dbb-187">Pode haver limites nos recursos de não armazenamento para planos que incluam o armazenamento pessoal em nuvem ilimitado.</span><span class="sxs-lookup"><span data-stu-id="b0dbb-187">For plans that include unlimited personal cloud storage, note that limits may apply on non-storage features.</span></span> 
+<span data-ttu-id="46a59-169">Para planos que incluem armazenamento na nuvem ilimitado para usuários individuais, observe que limites podem se aplicar aos outros recursos que não sejam de armazenamento.</span><span class="sxs-lookup"><span data-stu-id="46a59-169">For plans that include unlimited personal cloud storage, note that limits may apply on non-storage features.</span></span> 
   
 
