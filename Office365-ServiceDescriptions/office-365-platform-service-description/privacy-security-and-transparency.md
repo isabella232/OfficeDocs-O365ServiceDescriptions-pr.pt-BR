@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-privacy-security-transparency
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: A Microsoft valoriza as parcerias que temos com nossos clientes e dá muita importância para a privacidade a segurança dos dados dos clientes. Para saber mais, consulte a Central de Confiabilidade da Microsoft.
-ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 3dc0f70265eea5bd4919e412a6be260b95683285
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247057"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343190"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacidade, Segurança e Transparência
 

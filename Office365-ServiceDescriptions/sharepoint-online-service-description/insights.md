@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-insights-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os Recursos de Ideias de pesquisas a seguir permitem que as organizações usem as informações presentes em bancos de dados, relatórios e aplicativos empresariais para atender a necessidades específicas de seus negócios.
-ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246727"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342500"
 ---
 # <a name="insights"></a>Informações
 

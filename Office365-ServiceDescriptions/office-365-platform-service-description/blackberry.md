@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-blackberry
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Os dispositivos BlackBerry® podem acessar email e documentos no Office 365.
-ms.openlocfilehash: 2146dc7eb698973f19e9fbacb87c7269b27d1eb5
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 410148ac7d422aba4565caf673e9be5fb9f3cb31
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246287"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342976"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -35,7 +35,7 @@ Para obter mais informações, consulte [Configurar email em um BlackBerry](http
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>BlackBerry® 7 e dispositivos mais antigos com Microsoft Exchange Online
 
-Você pode usar o BlackBerry ® Internet Service (BIS) para conectar o BlackBerry 7 e os smartphones anteriores ao Exchange Online. O BIS permite que os usuários do BlackBerry acessem suas contas de email pela Internet por meio de IMAP ou POP.
+Você pode usar o BlackBerry® Internet Service (BIS) para conectar o BlackBerry 7 e os smartphones anteriores ao Exchange Online. O BIS permite que os usuários do BlackBerry acessem suas contas de email pela Internet por meio de IMAP ou POP.
   
 A maioria dos operadores móveis tem o BIS configurado. Os usuários finais precisarão configurar a sincronização de email, calendário e contatos usando as instruções nos seguintes artigos da base de dados de conhecimento:
   

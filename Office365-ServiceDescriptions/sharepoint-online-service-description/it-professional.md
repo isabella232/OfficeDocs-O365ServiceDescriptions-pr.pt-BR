@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-it-professional-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes recursos do SharePoint oferecem suporte a profissionais de TI na proteção e no gerenciamento do ambiente SharePoint de sua organização.
-ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 0f285fabb62b73914966127d4d880bd5ffb6e5a1
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246737"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341930"
 ---
 # <a name="it-professional"></a>Profissional de TI
 

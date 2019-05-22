@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/04/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger seus organização contra links prejudiciais em tempo real. A ATP tem recursos ricos de relatórios e de rastreamento de URL que dão aos administradores a percepção do tipo de ataques que ocorrem na sua organização.
-ms.openlocfilehash: e0b3b686f707063bff2433f1ed6acd368a08aab6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 243f447f4fcdc9c76651894c301fb6c3bfbeb1b9
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246255"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342950"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do Serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -73,9 +73,9 @@ Continuamos a adicionar novos recursos ao Office 365 ATP. Veja a seguir uma list
 |[Inteligência contra ameaças do Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) Os recursos (TI) agora são a investigação de ameaças e os recursos de resposta como parte do plano ATP 2. Novos recursos, como [investigação e resposta automatizadas](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)e aprimoramentos no [Explorador de ameaças](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance), estão saindo.<br/><br/>Se sua organização não tiver a ATP no momento ou se você tiver a ATP, mas não a TI, agora terá várias opções para considerar, com a disponibilidade do plano ATP 1 e do plano ATP 2. Para saber mais, confira [recursos de disponibilidade de recurso nos planos de proteção avançada contra ameaças (ATP)](#feature-availability-across-advanced-threat-protection-atp-plans) (neste artigo) e [preços e planos de proteção avançada contra ameaças do Office 365](https://products.office.com/exchange/advance-threat-protection). |Revise a assinatura da sua organização e, se necessário, [compre ou edite um complemento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).  |
 |Quando as pessoas estão usando o Outlook ou o Outlook Web Application (OWA), os [links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) renderizam URLs originais, não reconfiguradas URLs. (Chamamos isso de processamento de link nativo.)<br>Quando o processamento de link nativo estiver disponível para sua organização, esse recurso funcionará no Outlook 365 (clique para executar), OWA e em Windows e Mac OS. |Nenhum         |
 |As [páginas de aviso de ATP do Office 365](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) apresentam um novo esquema de cores, mais detalhes e a capacidade de continuar em um site apesar de avisos e recomendações fornecidos. |Nenhum         |
-|A proteção de [links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) é estendida para ser aplicada às URLs no Office Online (Word online, Excel online, PowerPoint online e OneNote online) e Office 365 ProPlus no Mac.   |[ReVisar e editar suas políticas de links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
-|Os recursos de quarentena no centro &amp; de conformidade de segurança são estendidos a [ATP para SharePoint Online, onedrive for Business e Microsoft Teams](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams). |[ReVisar e editar suas políticas de anexos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
-|A proteção de [links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) é estendida para aplicar a emails enviados entre pessoas de uma organização. |[ReVisar e editar suas políticas de links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
+|A proteção de [links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) é estendida para ser aplicada às URLs no Office Online (Word online, Excel online, PowerPoint online e OneNote online) e Office 365 ProPlus no Mac.   |[Revisar e editar suas políticas de links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
+|Os recursos de quarentena no centro &amp; de conformidade de segurança são estendidos a [ATP para SharePoint Online, onedrive for Business e Microsoft Teams](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams). |[Revisar e editar suas políticas de anexos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
+|A proteção de [links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) é estendida para aplicar a emails enviados entre pessoas de uma organização. |[Revisar e editar suas políticas de links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
 |A proteção de [links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) é estendida para aplicar a URLs em email, bem como URLs nos documentos do Office 365 ProPlus, como Word, Excel, PowerPoint e Visio no Windows, bem como aplicativos do Office em dispositivos IOS e Android.  |Verifique se você está usando [a autenticação moderna do Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) |
 
   

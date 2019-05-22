@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: As tabelas a seguir listam alterações que foram feitas recentemente ao conteúdo de descrições de serviço.
-ms.openlocfilehash: 1bb02fc16d9f2da5245920a9cde7dbdb1626f107
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246627"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343590"
 ---
 # <a name="recent-service-descriptions-changes"></a>Alterações recentes nas descrições de serviços
 
@@ -66,9 +66,9 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 |Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Atualize para congelar o suporte de painéis no Excel online.  <br/> |
 |SharePoint Online  <br/> |[Descrição do serviço SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Várias atualizações e reestruturação.  <br/> |
 ||[Limites do SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Várias atualizações.  <br/> |
-|Yammer  <br/> |[Recursos de Segurança e Administração no Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |As chaves do fluxo de atividades e anotações foram reMovidas.  <br/> |
-||[Recursos de Colaboração de Documentos no Yammer](yammer-service-description/document-collaboration-features-in-yammer.md) <br/> |Anotações reMovidas.  <br/> |
-||[Descrição do Serviço do Yammer](yammer-service-description/yammer-service-description.md) <br/> |Foram reMovidas as chaves de fluxo de atividades e anotações da tabela de comparação de planos.  <br/> |
+|Yammer  <br/> |[Recursos de Segurança e Administração no Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |As chaves do fluxo de atividades e anotações foram removidas.  <br/> |
+||[Recursos de Colaboração de Documentos no Yammer](yammer-service-description/document-collaboration-features-in-yammer.md) <br/> |Anotações removidas.  <br/> |
+||[Descrição do Serviço do Yammer](yammer-service-description/yammer-service-description.md) <br/> |Foram removidas as chaves de fluxo de atividades e anotações da tabela de comparação de planos.  <br/> |
    
 ## <a name="february-2018"></a>Fevereiro de 2018
 
@@ -114,7 +114,7 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Foi adicionada a disponibilidade de prevenção de perda de dados.  <br/> |
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correção da disponibilidade do IRM via AD RMS.  <br/> |
 ||[Microsoft 365 Education](office-365-platform-service-description/microsoft-365-education.md) <br/> |Página adicionada para nova oferta.  <br/> |
-||[BlackBerry](office-365-platform-service-description/blackberry.md) <br/> |Foram reMovidas referências para descontinuado BlackBerry Business Cloud Services (BBCS).  <br/> |
+||[BlackBerry](office-365-platform-service-description/blackberry.md) <br/> |Foram removidas referências para descontinuado BlackBerry Business Cloud Services (BBCS).  <br/> |
 |Exchange Online  <br/> |[Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Foi adicionada a disponibilidade de chave do cliente para o Office 365 Enterprise e5.  <br/> |
 ||[Limites do Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Limite de anexos esclarecidos de 35 MB para o Outlook Web Access (OWA). Um arquivo individual anexado que excede 35 MB é bloqueado. Além disso, um grupo anexado de arquivos que excedem coletivamente 35 MB também é bloqueado.  <br/> |
 ||[Clientes e dispositivos móveis](exchange-online-service-description/clients-and-mobile-devices.md) <br/> |Várias atualizações; artigo reestruturado.  <br/> |

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Use o OneNote online (antigo OneNote Web App) para fazer anotações online em um bloco de anotações do OneNote que você pode adicionar de qualquer lugar e compartilhar facilmente com outras pessoas. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
-ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cf0e1ceec9577d84402ae6106b6a3561c9aa628c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247177"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343750"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -182,7 +182,7 @@ Se você salvou seu bloco de anotações do OneNote em uma biblioteca de documen
 
 Com o OneNote Online, você pode desativar as marcas de autor que aparecem quando alguém edita um bloco de notas. Isso removerá as iniciais que aparecem perto de novas notas em uma página. As marcas de autor estão ligadas por padrão.
   
-## <a name="styles"></a>Styles
+## <a name="styles"></a>Estilos
 <a name="bkmk_Styles"> </a>
 
 Com o OneNote Online, você pode facilmente aplicar estilos de textos, para uma formatação rápida. Saiba mais sobre as [diferenças de uso de um bloco de anotações no navegador e no aplicativo da área de trabalho OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).

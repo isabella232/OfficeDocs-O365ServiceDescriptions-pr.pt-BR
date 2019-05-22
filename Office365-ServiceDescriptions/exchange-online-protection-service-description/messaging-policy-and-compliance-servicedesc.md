@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
-ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e4851def9c6eb5675c5302f865f6db369ffbfeb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246117"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341880"
 ---
 # <a name="messaging-policy-and-compliance"></a>Diretiva e conformidade no envio e recebimento de mensagens
 
@@ -83,6 +83,6 @@ A criptografia de mensagens do Office 365, parte da proteção de informações 
 > <sup>1</sup> As ações e critérios disponíveis diferem entre o EOP e o Exchange Online. Para uma lista de critérios e ações disponíveis no EOP, confira [Condições de Regra de Transporte](https://go.microsoft.com/fwlink/p/?LinkId=320392) e [Ações de Regra de Transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para uma lista de critérios e ações disponíveis no Exchange Online, confira [Condições de Regra de Fluxo de Emails](https://go.microsoft.com/fwlink/p/?LinkId=320394) e [Ações de Regra de Fluxo de Emails](https://go.microsoft.com/fwlink/p/?LinkId=320395). <br/>
 > <sup>2</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio. <br/>
 > <sup>3</sup> Dicas de política de DLP não estão disponíveis para clientes do Exchange Enterprise CAL com Serviços. <br/>
-> <sup>4</sup> com suporte para clientes locais que compram o complemento de proteção de informações do Azure e use o Exchange Online Protection para rotear emails pelo Exchange Online. Para a experiência de área de trabalho, além do complemento de proteção de informações do Azure, o Office 365 proPlus precisa ser adquirido. <br/>
+> <sup>4</sup> com suporte para clientes locais que compram o complemento de proteção de informações do Azure e use o Exchange Online Protection para rotear emails pelo Exchange Online. Para a experiência de área de trabalho, além do complemento de proteção de informações do Azure, o Office 365 ProPlus precisa ser adquirido. <br/>
   
 

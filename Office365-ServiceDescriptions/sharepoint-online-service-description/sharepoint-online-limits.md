@@ -2,19 +2,19 @@
 title: Limites do SharePoint Online
 ms.author: sharik
 author: skjerland
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
-ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 5c89f7fa92a91a780be9350e16be87e537370586
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368364"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342530"
 ---
 # <a name="sharepoint-online-limits"></a>Limites do SharePoint Online
 
@@ -55,7 +55,7 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 
 - **Grupos do SharePoint** : um usuário pode pertencer a 5.000 grupos e cada grupo pode ter até 5.000 usuários. Você pode ter até 10.000 grupos por conjunto de sites.
 
-- **Metadados gerenciados** -200.000 termos no repositório de termos, conjuntos de termos globais, 1.000 grupos.
+- Metadados gerenciados-200.000 termos no repositório de termos 1.000, conjuntos de termos globais, 1.000 grupos.
 
 - **** Subsites-até 2.000 por conjunto de sites.
 

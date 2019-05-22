@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento.
-ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247107"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343250"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -63,7 +63,7 @@ As assinaturas do Office 365 nos ambientes GCC High e DoD incluem os principais 
   
 ### <a name="exchange-online"></a>Exchange Online
 
- O suporte à uniFicação de **mensagens do Exchange Online para IP-PBX local** -suporte para integração de sistemas IP-PBX com a unificaÇão de mensagens do Exchange Online não é suportado em assinaturas gcc alta e DOD. 
+ O suporte à unificação de **mensagens do Exchange Online para IP-PBX local** -suporte para integração de sistemas IP-PBX com a Unificação de mensagens do Exchange Online não é suportado em assinaturas gcc alta e DOD. 
   
 ### <a name="sharepoint-online"></a>SharePoint Online
 
@@ -85,7 +85,7 @@ Os High locatários GCC podem ser compartilhados somente com outros grandes loca
     
 - O locatário C não GCC pode compartilhar com GCC High locatário A ou B.
     
-- O maior locatário A ou B do GCC não pode ser compartilhado com O High locatário C não GCC.
+- O maior locatário A ou B do GCC não pode ser compartilhado com o High locatário C não GCC.
     
 Além disso, não há suporte para endereços de email não-GCC anexados a perfis de usuário e não serão enviados emails de alerta. Por exemplo, no usuário local, um endereço de email do Gmail é atribuído e, em seguida, sincronizado com o locatário High do Azure GCC. O usuário A navega para uma biblioteca e cria um alerta para qualquer alteração. O alerta não será enviado para o endereço do gmail.
   

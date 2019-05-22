@@ -3,7 +3,7 @@ title: Descrição do serviço SharePoint Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,41 +15,41 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: O Microsoft SharePoint Online no Office 365 permite que as pessoas compartilhem e trabalhem juntas, para informar e envolver outras pessoas na empresa, para transformar os processos de negócios e para aproveitar o conhecimento coletivo. Além disso, o SharePoint fornece recursos para que as organizações protejam e gerenciem dados e criem soluções personalizadas. Para obter uma visão geral rápida, confira o que é o SharePoint?
-ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cb5fece44554d57ee019b298fcf2aa9938cd6c48
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246597"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341830"
 ---
 # <a name="sharepoint-online-service-description"></a>Descrição do serviço SharePoint Online
 
-O Microsoft SharePoint Online no Office 365 permite que as pessoas compartilhem e trabalhem juntas, para informar e envolver outras pessoas na empresa, para transformar os processos de negócios e para aproveitar o conhecimento coletivo. Além disso, o SharePoint fornece recursos para que as organizações protejam e gerenciem dados e criem soluções personalizadas. Para obter uma visão geral rápida, confira [o que é o SharePoint?](https://go.microsoft.com/fwlink/p/?LinkId=290976)
+O Microsoft SharePoint Online no Office 365 permite que as pessoas compartilhem e trabalhem juntas, para informar e envolver outras pessoas na empresa, para transformar os processos de negócios e para aproveitar o conhecimento coletivo. Além disso, o SharePoint fornece recursos para que as organizações protejam e gerenciem dados e criem soluções personalizadas. Para obter uma visão geral rápida, confira [o que é o SharePoint?](https://support.office.com/article/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f?ocmsassetID=HA010378184&CTT=1&CorrelationId=30ae3fd1-2af8-4f5c-a1f6-150e338b43da&ui=en-US&rs=en-US&ad=US)
   
-Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&clcid=0x409).
   
 ## <a name="whats-new"></a>Novidades
 
-Confira mais informações sobre novos recursos no SharePoint Online em [Novidades do SharePoint Online](https://go.microsoft.com/fwlink/?LinkId=271744).
+Confira mais informações sobre novos recursos no SharePoint Online em [Novidades do SharePoint Online](https://support.office.com/article/what-s-new-in-sharepoint-online-02449ef0-027e-4089-8717-f0ae7ea58029?ocmsassetID=HA104098441&CorrelationId=cf1c6949-7734-4168-b4b8-6be84a833a6e&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="system-requirements"></a>Requisitos do sistema
 
 Para obter o requisitos de sistema para o Office 365, o serviço mensal baseado em assinatura disponível para organizações comerciais, educacionais e governamentais, veja [Requisitos do sistema do Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 > [!NOTE]
-> Uma organização pode implantar um ambiente híbrido do SharePoint, que é composto pelo SharePoint Server 2013 ou 2016, normalmente implantado no local, e pelo SharePoint Online. Saiba mais em [Híbrido para o SharePoint Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=286111) ou [Híbrido para o SharePoint Server 2016](https://go.microsoft.com/fwlink/?linkid=847872). 
+> Uma organização pode implantar um ambiente híbrido do SharePoint, que é composto pelo SharePoint Server 2013 ou 2016, normalmente implantado no local, e pelo SharePoint Online. Saiba mais em [Híbrido para o SharePoint Server 2013](https://docs.microsoft.com/SharePoint/hybrid/hybrid) ou [Híbrido para o SharePoint Server 2016](https://docs.microsoft.com/SharePoint/hybrid/hybrid). 
   
 ## <a name="sharepoint-online-boundaries-and-limits"></a>Limites do SharePoint Online
 
 Há alguns limites para o serviço do SharePoint Online gerenciado pela Microsoft, como cotas de conjunto de sites, limites de carregamento de arquivos e limites de armazenamento. Para obter detalhes, consulte [SharePoint Online Limits](sharepoint-online-limits.md).
   
-Saiba mais sobre o suporte móvel em [Usar um dispositivo móvel para trabalhar com sites do SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=290974).
+Saiba mais sobre o suporte móvel em [Usar um dispositivo móvel para trabalhar com sites do SharePoint Online](https://support.office.com/article/use-a-mobile-device-to-work-with-sharepoint-online-sites-a99f2acf-381a-442c-b305-3e74c251bcb6?ocmsassetID=HA102891452&CTT=1&CorrelationId=67de4f00-eb38-4568-9c82-06a7139d6903&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="subscription-options"></a>Opções de assinatura
 
 O Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Para saber mais sobre os diversos planos, inclusive opções de planos autônomos, e ver informações sobre como migrar de um plano para outro, confira [Opções de planos do Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Cada pessoa que acessa o SharePoint Online deve ter um plano do Office 365 associado ou o serviço autônomo do SharePoint Online Plano 1 ou do SharePoint Online Plano 2. No enTanto, um plano de início não é vendido como uma oferta autônoma, somente como parte da assinatura de primeiro lugar, como o primeiro, como o SharePoint Online. Como os funcionários de primeira empresa não podem ser administradores, os locatários com os funcionários de primeiro nível exigem pelo menos um administrador corporativo para gerenciar o SharePoint. Os operadores de primeiras não verão os menus de navegação do SharePoint, portanto, os funcionários de primeiro lugar precisam navegar até sites do SharePoint diretamente por URL.
+Cada pessoa que acessa o SharePoint Online deve ter um plano do Office 365 associado ou o serviço autônomo do SharePoint Online Plano 1 ou do SharePoint Online Plano 2. No entanto, um plano de início não é vendido como uma oferta autônoma, somente como parte da assinatura de primeiro lugar, como o primeiro, como o SharePoint Online. Como os funcionários de primeira empresa não podem ser administradores, os locatários com os funcionários de primeiro nível exigem pelo menos um administrador corporativo para gerenciar o SharePoint. Os operadores de primeiras não verão os menus de navegação do SharePoint, portanto, os funcionários de primeiro lugar precisam navegar até sites do SharePoint diretamente por URL.
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -57,7 +57,7 @@ O OneDrive for Business (antigo SkyDrive Pro) é um armazenamento pessoal online
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>Usuários externos do SharePoint Online Enterprise
 
-Os usuários externos herdam os direitos de uso do cliente do SharePoint Online que os está convidando a colaborar. Ou seja, se uma organização adquirir um plano E3 Enterprise e desenvolver um site que usa recursos corporativos, serão concedidos direitos de uso e/ou exibição dos recursos corporativos no conjunto de sites para o qual o usuário externo foi convidado. Embora os usuários externos possam ser convidados como membros estendidos do projeto para realizarem diversas ações em um site, eles não terão as mesmas capacidades de um membro completo, pago e licenciado em sua organização. Saiba mais sobre [o que os usuários externos podem ou não fazer](https://go.microsoft.com/fwlink/p/?LinkId=397616).
+Os usuários externos herdam os direitos de uso do cliente do SharePoint Online que os está convidando a colaborar. Ou seja, se uma organização adquirir um plano E3 Enterprise e desenvolver um site que usa recursos corporativos, serão concedidos direitos de uso e/ou exibição dos recursos corporativos no conjunto de sites para o qual o usuário externo foi convidado. Embora os usuários externos possam ser convidados como membros estendidos do projeto para realizarem diversas ações em um site, eles não terão as mesmas capacidades de um membro completo, pago e licenciado em sua organização. Saiba mais sobre [o que os usuários externos podem ou não fazer](https://docs.microsoft.com/sharepoint/external-sharing-overview?redirectSourcePath=%252fen-us%252farticle%252fexternal-sharing-overview-c8a462eb-0723-4b0b-8d0a-70feafe4be85).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilidade de recursos nos planos do Office 365
 <a name="bkmk_tableo365"> </a>
@@ -69,7 +69,6 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recursos para desenvolvedores** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online (Plano 1)** <br/> |**SharePoint Online (Plano 2)** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Serviços de acesso](developer.md#access-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |[Catálogo de Aplicativos (SharePoint)](developer.md#app-catalog-sharepoint) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Implantação de Aplicativo: Aplicativos Hospedados em Nuvem](developer.md#app-deployment-cloud-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Implantação de Aplicativo: Aplicativos Hospedados pelo SharePoint](developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -84,11 +83,10 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Site do desenvolvedor](developer.md#developer-site) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |[Aplicativos baseados em formulários](developer.md#infopath-forms-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Soluções de confiança total](developer.md#full-trust-solutions) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|[Serviços de formulários do InfoPath](developer.md#infopath-forms-services) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim<sup>17</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|[Serviços de formulários do InfoPath](developer.md#infopath-forms-services) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim<sup>16</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Modelo de objeto de JavaScript](developer.md#javascript-object-model) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Receptor de eventos remotos](developer.md#remote-event-receiver) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[APIs REST](developer.md#rest-apis) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Soluções de área restrita](developer.md#sandboxed-solutions) <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciador de Design do SharePoint](developer.md#sharepoint-design-manager) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Estrutura do SharePoint](developer.md#sharepoint-framework) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -99,7 +97,7 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Mapeamento de acesso alternativo (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |[Proteção antimalware](it-professional.md#anti-malware-protection) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |[Suporte a autenticação baseada em declarações](it-professional.md#claims-based-authentication-support) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|[Chave de Cliente do Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Nenhum<sup>20</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Chave de Cliente do Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sem<sup>19</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Prevenção contra perda de dados](it-professional.md#data-loss-prevention) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Criptografia de tempo de parada](it-professional.md#encryption-at-rest) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |Criptografia em trânsito  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
@@ -138,8 +136,8 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Compartilhamento externo: Link de convidado](content.md#external-sharing-guest-link) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Não  <br/> |Não  <br/> |
 |[Navegação facetada](content.md#faceted-navigation) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>6</sup> <br/> |Não  <br/> |Sim<sup>7</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Sincronização de pastas](content.md#folder-sync) <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|Auditoria Híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>19</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|Tipos de Conteúdo e Taxonomia Híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>19</sup> <br/> |Sim  <br/> |Sim  <br/> |
+|Auditoria Híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |
+|Tipos de Conteúdo e Taxonomia Híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Renderizações de imagem](content.md#image-renditions) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento de Direitos de Informação (IRM)](content.md#information-rights-management-irm) <br/> |Não<sup>3</sup> <br/> |Não<sup>3</sup> <br/> |Não<sup>3</sup> <br/> |Não<sup>3</sup> <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Não<sup>3, 4</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviço de metadados gerenciados](content.md#managed-metadata-service) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -147,7 +145,7 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Disposição em várias fases](content.md#multi-stage-disposition) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Online (criar/editar)](content.md#office-online-createedit) <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>15</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Online (visualizar)](content.md#office-online-view) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Office proPlus  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Office ProPlus  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Integração com o Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Incluído  <br/> |Incluído  <br/> |Incluído  <br/> |Incluído  <br/> |Incluído  <br/> |Incluído  <br/> |Incluído  <br/> |Sim  <br/> |Sim  <br/> |
 |[Biblioteca de retenção para preservação](content.md#preservation-hold-library) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Publishing Analytics](content.md#publishing-analytics) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -177,15 +175,15 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Exploração rápida](insights.md#quick-explore) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Modo integrado aos SSRS (serviços de relatório do SQL Server)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |[Segmentação de dados da linha do tempo](insights.md#timeline-slicer) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Visio online](https://technet.microsoft.com/en-us/library/mt827475.aspx) <sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
-|[Serviços do Visio](insights.md#visio-services) <sup>18</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|[Visio online](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
+|[Serviços do Visio](insights.md#visio-services) <sup>17</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |**Recursos de pesquisa** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online (Plano 1)** <br/> |**SharePoint Online (Plano 2)** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Rastreamentos contínuos](search.md#continuous-crawls) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Links profundos](search.md#deep-links) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Relevância baseada em evento](search.md#event-based-relevancy) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Pesquisa de experiência](search.md#expertise-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Refinadores gráficos](search.md#graphical-refiners) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Conteúdo reAlçado (Web Part)  <br/> |Sim  <br/> |Sim  <br/> |||Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
+|Conteúdo realçado (Web Part)  <br/> |Sim  <br/> |Sim  <br/> |||Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |[Pesquisa híbrida](search.md#hybrid-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Pesquisa inteligente (Microsoft Graph)  <br/> |Sim  <br/> |Sim  <br/> |||Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |[Gerenciar o esquema de pesquisa](search.md#manage-search-schema) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -210,9 +208,9 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Personalizar caminhos gerenciados](sites-servicedesc.md#custom-managed-paths) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Bibliotecas de documentos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gestão](sites-servicedesc.md#governance) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Sites do hub  <br/> |Não<sup>21</sup> <br/> |Não<sup>21</sup> <br/> |Não<sup>21</sup> <br/> |Não<sup>21</sup> <br/> |Não<sup>21</sup> <br/> |Não<sup>21</sup> <br/> |Não<sup>21</sup> <br/> |Não  <br/> |Não  <br/> |
-|Inicializador de Aplicativos Híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>19</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|OneDrive for Business e sites híbridos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>19</sup> <br/> |Sim  <br/> |Sim  <br/> |
+|Sites do hub  <br/> |Nenhum<sup>20</sup> <br/> |Nenhum<sup>20</sup> <br/> |Nenhum<sup>20</sup> <br/> |Nenhum<sup>20</sup> <br/> |Nenhum<sup>20</sup> <br/> |Nenhum<sup>20</sup> <br/> |Nenhum<sup>20</sup> <br/> |Não  <br/> |Não  <br/> |
+|Inicializador de Aplicativos Híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |
+|OneDrive for Business e sites híbridos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Escalabilidade e gerenciamento da lista grande](sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Conectividade móvel](sites-servicedesc.md#mobile-connectivity) <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Interface do Usuário Multilíngue](sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim  <br/> |Sim  <br/> |
@@ -236,7 +234,7 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Armazenamento adicional](add-ons.md#additional-storage) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicativos provisionados do Azure: Serviços de acesso](add-ons.md#azure-provisioned-apps-access-services) <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Não  <br/> |Não  <br/> |
 |[Aplicativos provisionados do Azure: código personalizado no Azure Lightweight Web Role (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
-   
+> [!NOTE]
 > <sup>1</sup> Para usar a sincronização de pastas, você deve ter o Office 2013 ou posterior (edição Standard ou Professional) ou uma assinatura do Office 365 que inclua aplicativos do Office. Office 365 Business Essentials, Office 365 Enterprise E1 e Office 365 Education Plans não incluem assinaturas para aplicativos de área de trabalho do Office. No entanto, será possível usar a sincronização de pastas se você instalar o Office 2013 ou posterior e assinar um desses planos. 
 <br/><sup>2</sup> os funcionários de primeiro lugar têm funcionalidade limitada do onedrive for Business. Os primeiros profissionais recebem 2GB de armazenamento e não têm recursos de sincronização de área de trabalho. As contas de início não incluem um site pessoal do OneDrive for Business e, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB ou 5 TB de armazenamento online.
 <br/> <sup>3</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. 
@@ -251,9 +249,8 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 <br/> <sup>12</sup> não é possível adicionar comentários sobre Blogs. 
 <br/> <sup>13</sup> o site da Comunidade da organização está disponível, mas a ajuda pública fornecida pela Comunidade não está disponível. 
 <br/><sup>14</sup> o acesso 2010 não é suportado. 
-<br/> <sup>15</sup> para o Office Online, F1 os usuários devem ter acesso ao Office Online (blocos do Live) para criação de conteúdo. No enTanto, eles têm limitações associadas aos principais aplicativos móveis comerciais. Os seguintes itens são incluídos: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint e grupos. Os seguintes itens **não** estão incluídos: Outlook, Word, Excel, PowerPoint e OneNote.. 
-<br/> <sup>16</sup> soluções de área restrita não podem conter código de usuário. Eles podem conter apenas arquivos de definição (. xml) e recursos processados pelo servidor quando eles ativam. 
-<br/><sup>17</sup> os formulários do InfoPath que contêm o código do usuário (área restrita) só podem ser consumidos no cliente avançado do InfoPath. 
-<br/><sup>18</sup> o consumo do Visio online (recurso Exibir) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md).  <br/><sup>19</sup> F1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 F1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente. 
-<br/><sup>20</sup> a chave do cliente está disponível no Office 365 Enterprise e5. A chave do cliente permite controlar as chaves de criptografia da organização e, em seguida, configurar o Office 365 para usá-las para criptografar seus dados em repouso nos data centers da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business que são armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. A chave do cliente ajuda você a cumprir as obrigações de conformidade, pois você controla as chaves de criptografia que o Office 365 usa para descriptografar dados. Para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://go.microsoft.com/fwlink/?linkid=862702). 
-<br/><sup>21</sup> em breve. 
+<br/> <sup>15</sup> para o Office Online, F1 os usuários devem ter acesso ao Office Online (blocos do Live) para criação de conteúdo. No entanto, eles têm limitações associadas aos principais aplicativos móveis comerciais. Os seguintes itens são incluídos: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint e grupos. Os seguintes itens **não** estão incluídos: Outlook, Word, Excel, PowerPoint e OneNote.<br/> 
+<sup>16</sup> os formulários do InfoPath que contêm o código do usuário (área restrita) só podem ser consumidos no cliente avançado do InfoPath. 
+<br/><sup>17</sup> o consumo do Visio online (recurso Exibir) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md).  <br/><sup>18</sup> F1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 F1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente. 
+<br/><sup>19</sup> a chave do cliente está disponível no Office 365 Enterprise e5. A chave do cliente permite controlar as chaves de criptografia da organização e, em seguida, configurar o Office 365 para usá-las para criptografar seus dados em repouso nos data centers da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business que são armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. A chave do cliente ajuda você a cumprir as obrigações de conformidade, pois você controla as chaves de criptografia que o Office 365 usa para descriptografar dados. Para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697). 
+<br/><sup>20</sup> em breve. 

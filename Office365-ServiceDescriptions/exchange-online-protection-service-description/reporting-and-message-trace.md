@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - reporting-and-message-trace-in-eop
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
-ms.openlocfilehash: 9ad043776baf9c9a2e5ea8ca7cead0811ca66d3a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 5b836794a430bff7d28814c917e9cfbd14304a2f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246277"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341920"
 ---
 # <a name="reporting-and-message-trace"></a>Rastreamento de mensagens e relatórios
 
@@ -36,7 +36,7 @@ Para informações mais detalhadas sobre esses relatórios, confira [Usar relat�
 ## <a name="excel-download-application-reports"></a>Excel download application reports
 <a name="BKMK_exceldownloadapplicationreports"> </a>
 
-Relatórios de proteção email também estão disponíveis na pasta de trabalho de relatórios do Excel 2013, que fornece relatórios resumidos com recursos de busca detalhada. No enTanto, recomendamos o uso dos relatórios do centro de administração do Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. 
+Relatórios de proteção email também estão disponíveis na pasta de trabalho de relatórios do Excel 2013, que fornece relatórios resumidos com recursos de busca detalhada. No entanto, recomendamos o uso dos relatórios do centro de administração do Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. 
   
 Para mais informações gerais e links para baixar e instalar a pasta de trabalho, confira [Mail Protection Reports for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para saber mais sobre como usar a pasta de trabalho, confira [Relatórios de Proteção de Email usando a Pasta de Trabalho de Relatório do Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211).
   

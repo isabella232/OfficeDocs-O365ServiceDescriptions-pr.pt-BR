@@ -3,19 +3,19 @@ title: Microsoft 365 Education
 ms.author: sharik
 author: skjerland
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247247"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343600"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -42,7 +42,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |Yammer acadêmico  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**Ferramentas de sala de aula** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Experiências em sala de aula no Microsoft Teams  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Bloco de Anotações de Classe  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Bloco de Anotações de Classe do OneNote  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Sway  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Ferramentas de aprendizagem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -51,7 +51,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |Minecraft Education Edition com Construtor de código  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Fazer um aplicativo de teste  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Configurar o aplicativo escolar de computadores  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|**Voz, vídeo e reuniões** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 educaTion a5** <sup>6</sup> <br/> |
+|**Voz, vídeo e reuniões** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education a5** <sup>6</sup> <br/> |
 |Transmissão de Reunião do Skype  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Conferência de áudio do Office 365  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
@@ -94,7 +94,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |Skype for Business<sup>9</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |
 |CAL do Windows Server  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |System Center Configuration Manager  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Proteção de ponto de extremidade do System Center  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|System Center Endpoint Protection  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> inclui o Exchange Online plano 1 mais recursos complementares. <br/>

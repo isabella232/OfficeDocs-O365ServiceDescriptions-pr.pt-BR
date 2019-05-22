@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-social-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
 description: O Microsoft SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes características sociais permitem que as pessoas trabalhem juntas das formas mais eficientes para elas. Como? Fornecendo excelentes ferramentas de colaboração que todos podem usar para compartilhar ideias, encontrar pessoas e especialização, além de informações comerciais do local.
-ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 9d3988bd0c2b33855bdf8e2aa283faead5a9a61c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246567"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342440"
 ---
 # <a name="social"></a>Social
 

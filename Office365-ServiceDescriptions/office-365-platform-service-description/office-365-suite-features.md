@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-suite-features
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247187"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343280"
 ---
 # <a name="office-365-suite-features"></a>Recursos do Pacote do Office 365
 
@@ -96,7 +96,7 @@ Os grupos no Office 365 conectam usuários com os colegas, as informações e os
 
 O Vídeo do Office 365 é um destino seguro para toda a empresa, no qual você pode carregar, compartilhar e descobrir vídeos em seus dispositivos, com a tecnologia dos Serviços de Mídia do Microsoft Azure. O Vídeo do Office 365 pode ajudar a manter os visualizadores envolvidos e informados, comunicar ideias de forma ampla e manter as organizações sincronizadas. Para saber mais, confira [Introdução ao Vídeo do Office 365](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
   
-## <a name="onenote-class-notebook"></a>Bloco de Anotações de Classe
+## <a name="onenote-class-notebook"></a>Bloco de Anotações de Classe do OneNote
 
 O bloco de anotações de classe faz parte do OneNote e está disponível para educação do Office 365 e Office 365 E5 Education. Cada bloco de anotações inclui uma biblioteca de conteúdo para que os professores compartilhem o conteúdo do curso, um espaço de colaboração onde professores e alunos podem trabalhar juntos e um bloco de anotações privado para cada aluno. Depois que um bloco de anotações de classe for criado, os professores e alunos poderão usar o aplicativo OneNote para acessá-lo de qualquer dispositivo.
 

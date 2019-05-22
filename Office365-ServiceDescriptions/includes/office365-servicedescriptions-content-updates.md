@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-08-2019"></a>Semana de 08 de Abril de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 10/04/2019 | [Descrição dos serviços do Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
-| 10/04/2019 | [Opções de planos do Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-plan-options) | modificado |
-| 10/04/2019 | [Descrição dos serviços da plataforma Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificado |
-| 10/04/2019 | [Recursos do Pacote do Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-suite-features) | modificado |
-| 10/04/2019 | [Gerenciamento de Contas de Usuário](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | modificado |
-| 4/11/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | modificado |
-| 4/11/2019 | [Conformidade e política do sistema de mensagens](/Office365/ServiceDescriptions/exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc) | modificado |
-| 4/11/2019 | [Clientes e dispositivos móveis](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | modificado |
-| 4/11/2019 | [Conformidade](/Office365/ServiceDescriptions/office-365-platform-service-description/compliance-servicedesc) | modificado |
-| 4/11/2019 | [Microsoft 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/microsoft-365-education) | modificado |
-| 4/11/2019 | [Privacidade, Segurança e Transparência](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | modificado |
-| 4/11/2019 | [Atualizações do Serviço](/Office365/ServiceDescriptions/office-365-platform-service-description/service-updates) | modificado |
-| 4/11/2019 | [Profissional de TI](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | modificado |
-| 4/11/2019 | [Sites](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | modificado |
-| 4/11/2019 | [Recursos de arquivamento no Arquivamento do Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | modificado |
-| 4/11/2019 | [Centro de Conformidade e Segurança do Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
-| 4/11/2019 | [Descrição do Serviço do Skype for Business Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modificado |
-
-
 ## <a name="week-of-april-15-2019"></a>Semana de 15 de abril de 2019
 
 
@@ -84,3 +60,15 @@
 | 5/7/2019 | [Descrição de Serviço do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | modificado |
 | 5/7/2019 | [Suporte](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modificado |
 | 5/7/2019 | [Descrição do Serviço do Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificado |
+
+
+## <a name="week-of-may-13-2019"></a>Semana de 13 de maio de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 5/13/2019 | [Descrição do Serviço do Project Online](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | modificado |
+| 5/13/2019 | [Descrição dos serviços do Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
+| 5/13/2019 | [Descrição de serviços dos aplicativos do Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
+| 5/15/2019 | [Descrição do Serviço do OneDrive for Business](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | modificado |
+| 5/17/2019 | [Descrição de serviços dos aplicativos do Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |

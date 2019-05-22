@@ -3,7 +3,7 @@ title: Office 365 operado pela 21Vianet
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/30/2019
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 2fb0b7e9c83753e757d1efa87795047ffc403f4f
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 0ae5794a14a82293926df93ce3b9d5858b06aa88
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544898"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343650"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -25,13 +25,12 @@ O Office 365 operado pela 21Vianet foi projetado para atender às necessidades d
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China. 
   
-A Microsoft não opera o serviço em si. A 21Vianet opera, fornece e gerencia a entrega do serviço. A 21Vianet é o maior provedor de serviços de datacenter de Internet de operadora neutra da China, fornecendo hospedagem, serviços de rede gerenciada e serviços de infraestrutura de computação em nuvem. Com o licenciamento de tecnologias da Microsoft, a 21Vianet opera datacenters locais do Office 365 para fornecer a possibilidade de usar os serviços do Office 365 mantendo os dados dentro da China. A 21Vianet também oferece [serviços de assinatura e cobrança, bem como suporte](https://go.microsoft.com/fwlink/p/?linkid=847978
-).
+A Microsoft não opera o serviço em si. A 21Vianet opera, fornece e gerencia a entrega do serviço. A 21Vianet é o maior provedor de serviços de datacenter de Internet de operadora neutra da China, fornecendo hospedagem, serviços de rede gerenciada e serviços de infraestrutura de computação em nuvem. Com o licenciamento de tecnologias da Microsoft, a 21Vianet opera datacenters locais do Office 365 para fornecer a possibilidade de usar os serviços do Office 365 mantendo os dados dentro da China. A 21Vianet também oferece [serviços de assinatura e cobrança, bem como suporte](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone).
   
 > [!NOTE]
->  Esses serviços estão sujeitos à legislação chinesa. 
+> Esses serviços estão sujeitos à legislação chinesa. 
   
-Devido à natureza exclusiva dos serviços na China, operados por um parceiro de datacenters dentro da China, existem alguns recursos que ainda não foram habilitados. Os clientes verão os serviços se aproximarem da paridade de recursos completos ao longo do tempo. Veja as diferenças nas notas de rodapé de descrição do serviço. Para uma visão geral mais detalhada das diferenças, confira [Saiba mais sobre o Office 365 operado pela 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725).
+Devido à natureza exclusiva dos serviços na China, operados por um parceiro de datacenters dentro da China, existem alguns recursos que ainda não foram habilitados. Os clientes verão os serviços se aproximarem da paridade de recursos completos ao longo do tempo. Veja as diferenças nas notas de rodapé de descrição do serviço. Para uma visão geral mais detalhada das diferenças, confira [Saiba mais sobre o Office 365 operado pela 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?redirectSourcePath=%252fen-US%252farticle%252fLearn-about-Office-365-operated-by-21Vianet-A8AB5061-3346-4DA0-BB7C-5260822B53AE&view=o365-21vianet).
   
 ## <a name="service-availability-within-each-plan"></a>Disponibilidade de serviço em cada plano
 
@@ -55,7 +54,7 @@ Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individua
 |Visio online<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Yammer Enterprise  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Proteção de Informações do Azure  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-   
+> [!NOTE]
 > <sup>1</sup> Inclui recursos como administração do Office 365, aplicativos do pacote do Office 365, gerenciamento de contas de usuários, domínios, integridade e continuidade do serviço, relatórios, atualizações de serviços, ajuda e treinamento, redes e assim por diante. Veja mais informações na tabela [Recursos da plataforma](office-365-operated-by-21vianet.md#platform-features).
 <br/> <sup>2</sup> O Project Online não está incluído, mas você pode comprá-lo separadamente como um serviço complementar ou adicioná-lo gratuitamente ao plano do Office 365 A1. 
 <br/><sup>3</sup> o consumo do Visio online (recurso Exibir) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). 
@@ -195,17 +194,17 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Fornecer administração delegada  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**[Contrato de Nível de Serviço](service-level-agreement.md)**<sup>9</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Direitos de Uso do Produto](product-use-rights.md)**<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-   
+> [!NOTE]   
 > <sup>1</sup> o Office 365 e o Office 365 operado pela 21vianet não oferecem suporte a nenhum sistema operacional que não seja suportado pelo fabricante. 
 <br/><sup>2</sup> no Office 365 Enterprise F1 operado pela 21vianet, o vídeo do Office 365 está limitado somente a visualização (sem publicar ou compartilhar). 
 <br/><sup>3</sup> se você estiver usando a sincronização de diretório com um Active Directory local, você deve excluir contas ou alterar senhas usando o Active Directory local, em vez do portal do Office 365, ou usando o módulo do Azure Active Directory para Windows ™. 
 <br/><sup>4</sup> ainda indisponível no Office 365 operado pela 21vianet, mas em breve. 
-<br/><sup>5</sup> você só pode ter um site público com o Office 365, a menos que tenha atualizado de uma versão anterior do Office 365. Nesse caso, é possível ter dois Sites Públicos, mas somente um deles pode ser hospedado com um nome de domínio personalizado. Saiba mais sobre como trabalhar com os dois sites públicos para assinaturas Business em [Trabalhar com seus dois Sites Públicos do Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Se você tem uma assinatura diferente, saiba mais sobre sites públicos em [Ajuda do Site Público para Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009). 
-<br/><sup>6</sup> Reduzir usuários adquiridos com um desconto pode estar sujeito a uma taxa de cancelamento antecipado. Isso não é aplicável para assinaturas pagas mensalmente. >
-<br/><sup>7</sup> os planos de educação do Office 365 não dão suporte a alterações de assentos de licenças do centro de administração do Microsoft 365:
-<br/><sup>8</sup> O Microsoft Sway não está disponível atualmente para clientes de determinadas áreas geográficas. Alguns planos herdados do Office 365, que já não são comercializados desde agosto de 2015, podem não ter acesso ao Microsoft Sway. 
-<br/><sup>9</sup> para Office 365 operado pela 21vianet, confira o contrato de nível de serviço [aqui](http://www.21vbluecloud.com/office365/O365-SLA/).
- <sup>10</sup> para o Office 365 operado pela 21vianet, confira o [contrato padrão de serviços online do o para o Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/). 
+<br/><sup>5</sup> você só pode ter um site público com o Office 365, a menos que tenha atualizado de uma versão anterior do Office 365. Nesse caso, é possível ter dois Sites Públicos, mas somente um deles pode ser hospedado com um nome de domínio personalizado. Saiba mais sobre como trabalhar com os dois sites públicos para assinaturas Business em [Trabalhar com seus dois Sites Públicos do Office 365](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5). Se você tem uma assinatura diferente, saiba mais sobre sites públicos em [Ajuda do Site Público para Office 365](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5). 
+<br/><sup>6</sup> Reduzir usuários adquiridos com um desconto pode estar sujeito a uma taxa de cancelamento antecipado. Isso não é aplicável para assinaturas pagas mensalmente. <br/>
+<sup>7</sup> os planos de educação do Office 365 não dão suporte a alterações de assentos de licenças do centro de administração do Microsoft 365.<br/>
+<sup>8</sup> O Microsoft Sway não está disponível atualmente para clientes de determinadas áreas geográficas. Alguns planos herdados do Office 365, que já não são comercializados desde agosto de 2015, podem não ter acesso ao Microsoft Sway. 
+<br/><sup>9</sup> para Office 365 operado pela 21vianet, confira o contrato de nível de serviço [aqui](http://www.21vbluecloud.com/office365/O365-SLA/).<br/>
+<sup>10</sup> para o Office 365 operado pela 21vianet, confira o [contrato padrão de serviços online do o para o Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/). 
 <br/><sup>11</sup> a política de conformidade da Internet da China requer que você obtenha um número de provedor de conteúdo da Internet (ICP) para um site público. Para obter mais informações, consulte o tópico correspondente ICP. 
 <br/><sup>12</sup> alguns conteúdos TechNet podem não se aplicar ao Office 365 operado pela 21vianet. 
 <br/><sup>13</sup> experiências reduzidas. Se sua organização depende do Internet Explorer 8 ou do Internet Explorer 9 para acessar aplicativos e serviços Web mais antigos, considere a possibilidade de atualizar para o Internet Explorer 11 e avaliar o Modo Empresarial deste serviço. Essa atualização ajuda a fornecer a melhor compatibilidade com versões anteriores de aplicativos Web herdados. 
@@ -235,7 +234,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Nenhum<sup>5</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Aplicativos do Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|[Office para Mac para o Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Nenhum<sup>5</sup> <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
+|[Office para Mac para o Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Nenhum<sup>5</sup> <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>5</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Mobile para Android] <sup>15</sup> (.. /Office-Applications-Service-Description/Office-Applications.MD # Office-Mobile-for-Android) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>5</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -273,16 +272,15 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 |Suporte a bloqueio de armazenamento de arquivo baseado em nuvem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Atualizações de versão  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Volume activation (KMS/MAK)  <br/> |Sim  <br/> |Sim  <br/> |Não<sup>8</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-   
-> <sup>1</sup> Os recursos de armazenamento em arquivo morto e conformidade são compatíveis com esta versão do Office, mas os planos do Exchange Online e do SharePoint Online não estão incluídos e devem ser adquiridos separadamente ou usados com os equivalentes com suporte do servidor local. 
-<br/><sup>2</sup> O AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente a fim de habilitar os recursos de IRM compatíveis. 
+> [!NOTE]  
+> <sup>1</sup> Os recursos de armazenamento em arquivo morto e conformidade são compatíveis com esta versão do Office, mas os planos do Exchange Online e do SharePoint Online não estão incluídos e devem ser adquiridos separadamente ou usados com os equivalentes com suporte do servidor local.<br/><sup>2</sup> O AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente a fim de habilitar os recursos de IRM compatíveis. 
 <br/><sup>3</sup> Se você tem o Office Professional Plus 2013 ou uma versão autônoma do Excel 2013, baixe e use o [Power Map Preview for Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) como um suplemento sem suporte. 
- <br/><sup>4</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
+ <br/><sup>4</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>5</sup> Algumas escolas estão qualificadas para o Education Plus, que inclui o Office 365 ProPlus e permite que alunos, professores e funcionários instalem a versão mais recente do Office em até cinco computadores Mac ou PC e em outros dispositivos móveis, como tablets com Windows e iPad. As escolas se qualificam para o Education Plus do Office 365 quando licenciam o Office em toda a instituição para professores e funcionários por meio do Registro para Soluções Educacionais, Soluções Educacionais de Assinatura Open Value ou um contrato escolar. Observe que o Access e o Publisher estão disponíveis apenas em PCs. O OneNote para Mac está disponível como um download separado na Mac App Store. 
 <br/><sup>6</sup> O Office for Mac 2011 pode ser instalado, mas não ativado. 
 <br/><sup>7</sup> o Office 365 ProPlus é compatível com a infraestrutura de área de trabalho virtual (VDI) dedicada do usuário. O Office 365 ProPlus só oferece suporte a RDS (Serviços de Área de Trabalho Remota) quando adquirido por meio de um Programa de Licenciamento por Volume. 
 <br/><sup>8</sup> A ativação de volume para o Office 365 Enterprise E3 e o Office 365 ProPlus é limitada a instalações no Windows Server 2008 R2 e mais recente com instalações da função RDS habilitada ou do Windows To Go. Em ambos os casos, os usuários que acessam essas instalações precisam ter licenças do Office 365 Enterprise E3 ou do Office 365 ProPlus. 
-<br/><sup>9</sup> O Access está disponível caso você esteja no Canal Atual ou no lançamento direcionado do Canal Adiado. Se você está no Canal Adiado, o Access estará disponível em junho de 2017. Confira mais informações em [Access incluído como parte do Office 365 Business e Business Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
+<br/><sup>9</sup> O Access está disponível caso você esteja no Canal Atual ou no lançamento direcionado do Canal Adiado. Se você está no Canal Adiado, o Access estará disponível em junho de 2017. Confira mais informações em [Access incluído como parte do Office 365 Business e Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
 <br/><sup>10</sup> O Visio Online está atualmente no modo de visualização para o Office 365 operado pela 21Vianet. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). 
 <br/><sup>11</sup> Em breve no Office 365 operado pela 21Vianet. 
 <br/><sup>15</sup> serviços Google (incluindo o repositório de reprodução) não estão acessíveis dentro da China. Há vários repositórios de aplicativos mantidos por grandes fabricantes de telefone ou empresas de mecanismos de pesquisa nas quais os usuários podem instalar aplicativos móveis.
@@ -296,8 +294,10 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 A tabela a seguir fornece links para comparações dos recursos do Office Online para aplicativos da área de trabalho do Microsoft Office. Use as comparações para descobrir que recursos estão disponíveis no Office Online e clique no nome do recurso para ler uma breve descrição de como ele funciona.
   
 > [!NOTE]
->  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas de comparação não são uma lista abrangente de recursos do Microsoft Office. >  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. >  Os clientes locais do Microsoft Office Web Apps Server 2013 receberão uma licença de edição dos Office Online se adquirirem uma licença do pacote da área de trabalho Office (como uma licença do Office Professional Plus, do Office Standard ou do Office 365 ProPlus). 
-  
+>  - Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas de comparação não são uma lista abrangente de recursos do Microsoft Office. 
+>  - O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. 
+>  - Os clientes locais do Microsoft Office Web Apps Server 2013 recebem uma licença de edição do Office Online se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, Office Standard ou uma licença do Office 365 ProPlus). 
+
 ||||
 |:-----|:-----|:-----|
 |**Aplicativo** <br/> |**Office Online operado pela 21Vianet** <br/> |**Link para a comparação detalhada de recursos** <br/> |
@@ -417,20 +417,21 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |Relatórios de Uso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Complementos do Outlook e MAPI do Outlook  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |Não  <br/> |
-   
-> <sup>1</sup> algumas Web Parts e suplementos de terceiros podem não estar disponíveis. 
-<br/><sup>2</sup> O AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente para que os recursos de IRM com suporte sejam habilitados. 
-<br/><sup>3</sup> as regras de transporte são formadas por critérios flexíveis, que permitem definir condições e exceções, e ações a serem tomadas com base nos critérios. Os critérios e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto. 
-<br/><sup>4</sup> acessível apenas via acesso direto à interface de gerenciamento do centro de administração do Exchange (Eat). 
-<br/><sup>5</sup> o Exchange Server 2013 usa apenas o mecanismo antimalware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. 
-<br/><sup>6</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa. 
-<<br/>sup>7</sup> para descoberta eletrônica, você precisa de uma consulta separada para o local vs. Cloud. 
-<br/><sup>8</sup> há suporte para pop, mas não para IMAP. 
-<br/><sup>9</sup> Office 365 Business Essentials e Business Premium não oferecem direitos de acesso para utilização com servidores locais. Para estar em conformidade, o cliente deve comprar ou ter adquirido previamente as CALs apropriadas ou atualizar para um SKU corporativo, que fornece esses direitos de acesso. > <br/><sup>10</sup> o assistente de configuração híbrida está disponível para o Exchange 2013 CU5 e para implantações locais. No entanto, alguns recursos híbridos têm limitações – consulte o tópico de ajuda "Saiba mais sobre o Office 365 operado pela 21Vianet" para obter mais detalhes. 
-<br/><sup>11</sup> para o Office 365 operado pela 21vianet, o LinkedIn está disponível, mas não o Facebook. > 
-<br/><sup>12</sup> a configuração da implantação híbrida está disponível por meio do assistente de configuração híbrida para o Exchange 2013 CU5 ou pode ser configurada manualmente se você tiver o Exchange 2013 SP1. Consulte o tópico de ajuda "Saiba mais sobre o Office 365 operado pela 21Vianet" para obter mais detalhes. 
-<br/><sup>13</sup> contas conectadas têm suporte para &amp; contas POP IMAP, mas estão desabilitadas para o Outlook.com (Hotmail). 
-<br/><sup>14</sup> não há suporte para o uso de cmdlet para trabalhar com a lista de endereços e a lista de endereços global. 
+> [!NOTE]   
+> <sup>1</sup> algumas Web Parts e suplementos de terceiros podem não estar disponíveis. <br/>
+<sup>2</sup> O AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente para que os recursos de IRM com suporte sejam habilitados.<br/>
+<sup>3</sup> as regras de transporte são formadas por critérios flexíveis, que permitem definir condições e exceções, e ações a serem tomadas com base nos critérios. Os critérios e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto.<br/>
+<sup>4</sup> acessível apenas via acesso direto à interface de gerenciamento do centro de administração do Exchange (Eat).<br/>
+<sup>5</sup> o Exchange Server 2013 usa apenas o mecanismo antimalware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas.<br/>
+<sup>6</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa. <br/>
+<sup>7</sup> para descoberta eletrônica, você precisa de uma consulta separada para o local vs. Cloud.<br/>
+<sup>8</sup> há suporte para pop, mas não para IMAP.<br/>
+<sup>9</sup> Office 365 Business Essentials e Business Premium não oferecem direitos de acesso para utilização com servidores locais. Para estar em conformidade, o cliente deve comprar ou ter adquirido previamente as CALs apropriadas ou atualizar para um SKU corporativo, que fornece esses direitos de acesso.<br/>
+<sup>10</sup> o assistente de configuração híbrida está disponível para o Exchange 2013 CU5 e para implantações locais. No entanto, alguns recursos híbridos têm limitações – consulte o tópico de ajuda "Saiba mais sobre o Office 365 operado pela 21Vianet" para obter mais detalhes.<br/>
+<sup>11</sup> para o Office 365 operado pela 21vianet, o LinkedIn está disponível, mas não o Facebook. <br/>
+<sup>12</sup> a configuração da implantação híbrida está disponível por meio do assistente de configuração híbrida para o Exchange 2013 CU5 ou pode ser configurada manualmente se você tiver o Exchange 2013 SP1. Consulte o tópico de ajuda "Saiba mais sobre o Office 365 operado pela 21Vianet" para obter mais detalhes.<br/>
+<sup>13</sup> contas conectadas têm suporte para &amp; contas POP IMAP, mas estão desabilitadas para o Outlook.com (Hotmail).<br/>
+<sup>14</sup> não há suporte para o uso de cmdlet para trabalhar com a lista de endereços e a lista de endereços global. 
   
 ### <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -505,18 +506,18 @@ A tabela a seguir exibe os recursos da Proteção do Exchange Online (EOP) que e
 |[Acesso ao centro de administração do Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Sim  <br/> |Sim  <br/> |
 |[Acesso ao centro de administração do Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Sim  <br/> |Sim  <br/> |
 |[Acesso ao Windows PowerShell Remoto](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |
-   
-> <sup>1</sup> Os usuários de email são definidos como "Caixas de Correio" e, juntamente com os contatos externos de email, podem ser adicionados, removidos e gerenciados diretamente no Centro de administração do Exchange (EAC). 
-<br/> <sup>2</sup> Sem personalização de RBAC. Apenas funções de administrador. 
+> [!NOTE]   
+> <sup>1</sup> Os usuários de email são definidos como "Caixas de Correio" e, juntamente com os contatos externos de email, podem ser adicionados, removidos e gerenciados diretamente no Centro de administração do Exchange (EAC).<br/> <sup>2</sup> Sem personalização de RBAC. Apenas funções de administrador. 
 <br/> <sup>3</sup> Os domínios gerenciados podem ser visualizados e os tipos de domínio podem ser editados no EAC. Todos os outros gerenciamento de domínio devem ser feitos no centro de administração do Microsoft 365. 
-<br/> <sup>4</sup> As ações e critérios flexíveis disponíveis diferem entre o EOP e o Exchange Online. Para uma lista de critérios e ações disponíveis no EOP, confira [Condições de Regra de Transporte](https://go.microsoft.com/fwlink/p/?LinkId=320392) e [Ações de Regra de Transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para uma lista de critérios e ações disponíveis no Exchange Online, confira [Condições de Regra de Fluxo de Emails](https://go.microsoft.com/fwlink/p/?LinkId=320394) e [Ações de Regra de Fluxo de Emails](https://go.microsoft.com/fwlink/p/?LinkId=320395). <sup>5</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio. 
-<br/> <sup>6</sup> A ação padrão do filtro de conteúdo é mover as mensagens de spam para a pasta Lixo Eletrônico do destinatário. Para que isso funcione com caixas de correio locais, você também precisa configurar duas regras de Transporte do Exchange em seus servidores locais para detectar os cabeçalhos de spam adicionados pelo EOP. Para saber mais, confira [Garantir que o Spam Seja Direcionado para a Pasta Lixo Eletrônico de Cada Usuário](https://go.microsoft.com/fwlink/p/?LinkId=320396). 
+<br/> <sup>4</sup> As ações e critérios flexíveis disponíveis diferem entre o EOP e o Exchange Online. Para uma lista de critérios e ações disponíveis no EOP, confira [Condições de Regra de Transporte](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules) e [Ações de Regra de Transporte](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). Para uma lista de critérios e ações disponíveis no Exchange Online, confira [Condições de Regra de Fluxo de Emails](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) e [Ações de Regra de Fluxo de Emails](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
+<sup>5</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio. 
+<br/> <sup>6</sup> A ação padrão do filtro de conteúdo é mover as mensagens de spam para a pasta Lixo Eletrônico do destinatário. Para que isso funcione com caixas de correio locais, você também precisa configurar duas regras de Transporte do Exchange em seus servidores locais para detectar os cabeçalhos de spam adicionados pelo EOP. Para saber mais, confira [Garantir que o Spam Seja Direcionado para a Pasta Lixo Eletrônico de Cada Usuário](https://docs.microsoft.com/office365/SecurityCompliance/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). 
 <br/> <sup>7</sup> Este recurso está disponível para clientes do Exchange Server 2013 Service Pack 1 (SP1) cujas caixas de correio estão sendo filtradas pelo EOP e, em breve, estará disponível para clientes do Exchange Online. 
 <br/> <sup>8</sup> Os relatórios do EOP são um subconjunto dos relatórios do Exchange Online que excluem informações sobre caixas de correio. 
 <br/> <sup>9</sup> Inclui relatórios DLP. 
 <br/> <sup>10</sup> Examina as mensagens de entrada e saída, mas não verifica as mensagens internas enviadas de um remetente em sua organização para um destinatário em sua organização. 
-<br/> <sup>11</sup> As ações e predicados disponíveis diferem entre o EOP e o Exchange Online. 
-<br/> <sup>12</sup> A configuração híbrida não está disponível por meio do Assistente Híbrido, mas poderá ser configurada manualmente se você tiver o Exchange SP1. 
+<br/> <sup>11</sup> As ações e predicados disponíveis diferem entre o EOP e o Exchange Online. <br/> 
+<sup>12</sup> A configuração híbrida não está disponível por meio do Assistente Híbrido, mas poderá ser configurada manualmente se você tiver o Exchange SP1. 
   
 ## <a name="exchange-online-archiving-features"></a>Recursos de Arquivamento do Exchange Online
 <a name="BM7_EOArchiving"> </a>
@@ -529,7 +530,7 @@ Arquivamento do Exchange Online está disponível pelos planos a seguir.
 |**Plano**|**Descrição**|
 |:-----|:-----|
 |**Arquivamento do Exchange Online para Exchange Server para Office 365 operado pela 21Vianet** <br/> |Arquivamento baseado em nuvem para usuários com caixas de correio primárias em Exchange Server 2013 ou Exchange 2010 (SP2 ou posterior).  <br/> Se quiser adicionar um arquivo baseado na nuvem a uma caixa de correio principal localizada em um servidor do Exchange no local, você precisa configurar uma implantação híbrida. Para saber mais sobre implantações híbridas, confira [Implantações híbridas do Exchange Server](https://technet.microsoft.com/library/jj200581%28v=exchg.150%29.aspx).  <br/> |
-|**Arquivamento do Exchange Online para Exchange Online para Office 365 operado pela 21Vianet** <br/> | Os planos a seguir já incluem o arquivamento e não necessitam do Arquivamento do Exchange Online como um complemento:  <br/>  Office 365 A1 operado pela 21Vianet  <br/>  Office 365 Enterprise E3 operado pela 21Vianet  <br/>  Plano 2 do Exchange Online para Office 365 operado pela 21Vianet  <br/>  Confira mais detalhes sobre as funcionalidades de arquivamento das caixas de correio do Exchange Online em [Caixas de correio de arquivo morto no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).  <br/> |
+|**Arquivamento do Exchange Online para Exchange Online para Office 365 operado pela 21Vianet** <br/> | Os planos a seguir já incluem o arquivamento e não necessitam do Arquivamento do Exchange Online como um complemento:  <br/>  Office 365 A1 operado pela 21Vianet  <br/>  Office 365 Enterprise E3 operado pela 21Vianet  <br/>  Plano 2 do Exchange Online para Office 365 operado pela 21Vianet  <br/>  Confira mais detalhes sobre as funcionalidades de arquivamento das caixas de correio do Exchange Online em [Caixas de correio de arquivo morto no Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview). <br/> |
    
 A tabela a seguir exibe os recurso do Arquivamento do Exchange Online disponíveis no Office 365 operado pela 21Vianet.
   
@@ -558,8 +559,11 @@ A tabela a seguir exibe os recurso do Arquivamento do Exchange Online disponíve
 |Auditoria  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> As caixas de correio do usuário devem residir no Exchange 2010 SP2 ou posterior. > <sup>2</sup> O Arquivamento Local só pode ser usado para arquivar emails para um único usuário ou entidade na qual uma licença foi aplicada. É proibido o uso de um Arquivamento Local como meio de armazenamento de e-mails de vários usuários ou entidades. Por exemplo, os administradores de TI não podem criar caixas de correio compartilhadas e fazer com que os usuários copiem (com o campo Cc ou Cco ou com uma regra de transporte) uma caixa de correio compartilhada explicitamente para o arquivamento. > <sup>3</sup> Para obter uma lista de versões do Microsoft Outlook compatíveis, confira [Recursos do cliente no arquivamento do Exchange Online](../exchange-online-archiving-service-description/client-features.md). > <sup>4</sup> O AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente a fim de habilitar os recursos de IRM compatíveis. > <sup>5</sup> Ao colocar uma caixa de correio em Bloqueio In-loco ou Retenção de Litígio, a retenção é aplicada à caixa de correio primária e à caixa de correio de arquivo morto. 
-  
+> <sup>1</sup> As caixas de correio do usuário devem residir no Exchange 2010 SP2 ou posterior.<br/> 
+<sup>2</sup> O Arquivamento Local só pode ser usado para arquivar emails para um único usuário ou entidade na qual uma licença foi aplicada. É proibido o uso de um Arquivamento Local como meio de armazenamento de e-mails de vários usuários ou entidades. Por exemplo, os administradores de TI não podem criar caixas de correio compartilhadas e fazer com que os usuários copiem (com o campo Cc ou Cco ou com uma regra de transporte) uma caixa de correio compartilhada explicitamente para o arquivamento. <br/> 
+<sup>3</sup> Para obter uma lista de versões do Microsoft Outlook compatíveis, confira [Recursos do cliente no arquivamento do Exchange Online](../exchange-online-archiving-service-description/client-features.md).<br/> 
+<sup>4</sup> O AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente a fim de habilitar os recursos de IRM compatíveis.<br/> 
+<sup>5</sup> Ao colocar uma caixa de correio em Bloqueio In-loco ou Retenção de Litígio, a retenção é aplicada à caixa de correio primária e à caixa de correio de arquivo morto. 
 ## <a name="sharepoint-online-features"></a>Recursos do SharePoint Online
 <a name="BM8_SPOnline"> </a>
 
@@ -573,10 +577,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recursos para desenvolvedores** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
-|[Serviços do Access](../sharepoint-online-service-description/developer.md#access-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Serviços de acesso](../sharepoint-online-service-description/developer.md#access-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Serviços de acesso](../sharepoint-online-service-description/developer.md#access-services) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Catálogo de Aplicativos (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+[Catálogo de Aplicativos (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Implantação de Aplicativo: Aplicativos Hospedados em Nuvem](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Implantação de Aplicativo: Aplicativos Hospedados pelo SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços de Gerenciamento de Aplicativos](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -597,12 +598,11 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |[Site do desenvolvedor](../sharepoint-online-service-description/developer.md#developer-site) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicativos baseados em formulários](../sharepoint-online-service-description/developer.md#forms-based-applications) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Soluções de confiança total](../sharepoint-online-service-description/developer.md#full-trust-solutions) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Serviços de formulários do InfoPath](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não<sup>15</sup> <br/> |Não  <br/> |
+|[Serviços de formulários do InfoPath](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sem<sup>14</sup> <br/> |Não  <br/> |
 |[Modelo de objeto de JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |List and Library APIs <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Receptor de eventos remotos](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[APIs REST](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Soluções de área restrita](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |No<sup>10</sup> <br/> |No<sup>10</sup> <br/> |No<sup>10</sup> <br/> |No<sup>10</sup> <br/> |No<sup>10</sup> <br/> |
 |[Gerenciador de Design do SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |SharePoint Store <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -662,11 +662,11 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |[Retenção de Descoberta Eletrônica](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Não<sup>6</sup> <br/> |Não  <br/> |Não<sup>6</sup> <br/> |Não<sup>6</sup> <br/> |Não<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Não<sup>6</sup> <br/> |
 |[Exportação de Descoberta Eletrônica](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Não<sup>6</sup> <br/> |Não  <br/> |Não<sup>6</sup> <br/> |Não  <br/> |Não<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Não<sup>6</sup> <br/> |
 |Email enabled lists and libraries <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Compartilhamento externo: Acesso externo](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |
-|[Compartilhamento externo: Link de convidado](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |
-|[Sincronização de pastas](../sharepoint-online-service-description/content.md#folder-sync) <br/> |Sim<sup>1, 11</sup> <br/> |Sim  <br/> |Sim<sup>1, 11</sup> <br/> |Sim<sup>1, 11</sup> <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |Sim<sup>2, 12</sup> <br/> |
+|[Compartilhamento externo: Acesso externo](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |
+|[Compartilhamento externo: Link de convidado](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |
+|[Sincronização de pastas](../sharepoint-online-service-description/content.md#folder-sync) <br/> |Sim<sup>1, 10</sup> <br/> |Sim  <br/> |Sim<sup>1, 10</sup> <br/> |Sim<sup>1, 10</sup> <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |Sim<sup>2, 11</sup> <br/> |
 |Auditoria Híbrida  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Tipos de Conteúdo e Taxonomia Híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>16</sup> <br/> |
+|Tipos de Conteúdo e Taxonomia Híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>15</sup> <br/> |
 |[Gerenciamento de Direitos de Informação (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |No<sup>4</sup> <br/> |
 |[Gerenciamento de Direitos de Informação (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Serviço de metadados gerenciados](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -722,8 +722,8 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |[Modo integrado aos SSRS (serviços de relatório do SQL Server)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Segmentação de dados da linha do tempo](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Usar e Interagir com Pastas de Trabalho do Excel que Contêm Modelos de Dados](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx)<sup>15, 16</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Serviços do Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>15</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Visio online](https://technet.microsoft.com/library/mt827475.aspx) <sup>14, 15</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Serviços do Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>14</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**Recursos de pesquisa** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Advanced Content Processing <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Rastreamentos contínuos](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -759,11 +759,11 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |[Suporte para diversos navegadores](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Personalizar caminhos gerenciados](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Gestão](../sharepoint-online-service-description/sites-servicedesc.md#governance) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Inicializador de Aplicativos Híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>16</sup> <br/> |
-|Sites e OneDrive Business Híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>16</sup> <br/> |
+|Inicializador de Aplicativos Híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>15</sup> <br/> |
+|Sites e OneDrive Business Híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>15</sup> <br/> |
 |[Escalabilidade e gerenciamento da lista grande](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Conectividade móvel](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Não  <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |
-|[Interface do Usuário Multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |
+|[Conectividade móvel](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Não  <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>12</sup> <br/> |
+|[Interface do Usuário Multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |
 |My Tasks <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Web Parts OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento de permissões](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -786,7 +786,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |**Recursos sociais** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Ask Me About <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Blogs pessoais](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Communities Reputation, Badging, and Moderation <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |NoNo  <br/> |
+|Communities Reputation, Badging, and Moderation <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Comunidade](../sharepoint-online-service-description/social.md#community) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Feed de empresa](../sharepoint-online-service-description/social.md#company-feed) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Document Conversations with Yammer <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -811,23 +811,22 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |[Armazenamento adicional](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicativos provisionados do Azure: Serviços de acesso](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicativos provisionados do Azure: código personalizado no Azure Lightweight Web Role (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-   
-> <sup>1</sup> Para usar a sincronização de pastas, você deve ter o Office 2013 ou posterior (edição Standard ou Professional) ou uma assinatura do Office 365 que inclua aplicativos do Office. Office 365 Business Essentials, Office 365 Enterprise E1 e Office 365 Education Plans não incluem assinaturas para aplicativos de área de trabalho do Office. No entanto, será possível usar a sincronização de pastas se você instalar o Office 2013 ou posterior e assinar um desses planos. 
-<br/> <sup>2</sup> As contas Kiosk limitaram a funcionalidade do OneDrive for Business. Os clientes do Kiosk podem usar o aplicativo cliente de sincronização de pastas do OneDrive for Business para sincronizar bibliotecas de documentos de sites de equipe com um computador compartilhado e acessar documentos offline. Mas as contas Kiosk não incluem um Site Pessoal do OneDrive for Business, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB de armazenamento online. 
-<br/> <sup>3</sup> o acesso 2010 não é suportado.
-<br/> <sup>4</sup> Como os usuários Kiosk não podem ser administradores, os locatários com usuários Kiosk precisam de, pelo menos, um usuário corporativo para acessar o centro de administração.
-<br/> <sup>5</sup> os clientes do SharePoint Online precisam baixar e instalar o aplicativo de ajuste de modelo de classificação gratuita para criar e personalizar modelos de classificação. 
-<br/> <sup>6</sup> Quando você usa recursos de Descoberta Eletrônica, os requisitos de licenciamento para um plano que permite esse recurso se aplicam a todos os usuários finais que fazem parte da ação de Descoberta Eletrônica (Pesquisar, Bloquear, Exportar). 
-<br/> <sup>7</sup> Usuários autenticados do SharePoint Online podem acessar conjuntos de sites particulares com navegação facetada. 
-<br/> <sup>8</sup> os usuários de quiosque não podem criar documentos do Office usando blocos dinâmicos. Para criar um documento, os usuários Kiosk devem fazer isso em um site do SharePoint Online, clicando em **Novo** e escolhendo um tipo de arquivo, como documento do Word, pasta de trabalho do Excel, apresentação do PowerPoint, bloco de anotações do OneNote ou pesquisa do Excel, no menu **Criar um novo arquivo**. 
-<br/> <sup>9</sup> alguns provedores podem estar bloqueados em seu país/região. 
-<br/> <sup>10</sup> as soluções em área restrita não podem conter código de usuário. Em vez disso, eles podem incluir apenas arquivos de definição (.xml) e recursos processados pelo servidor, quando o ativam. 
-<br/> <sup>11</sup> compartilhando um documento, uma biblioteca ou um site por email com alguém fora da sua organização. Os administradores têm a capacidade de habilitar esse recurso, mas recebem uma mensagem de aviso indicando que isso pode fazer com que os arquivos compartilhados possam ser acessados de fora do país de origem. Os usuários que tentam compartilhar com pessoas de fora da organização recebem a mesma mensagem de aviso. 
-<br/> <sup>12</sup> as contas de quiosque têm funcionalidade limitada do onedrive for Business. Os clientes do Kiosk podem usar o aplicativo cliente de sincronização de pastas do OneDrive for Business para sincronizar bibliotecas de documentos de sites de equipe com um computador compartilhado e acessar documentos offline. Mas as contas Kiosk não incluem um Site Pessoal do OneDrive for Business, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB ou 5 TB de armazenamento online.
-<br/> <sup>13</sup> você pode exibir documentos em qualquer navegador móvel. Para isso, é necessário instalar o aplicativo do Office Mobile para editar documentos. O Office Mobile está atualmente disponível para tablets e telefones Windows, tablets e telefones Android, iPhone e iPad. 
-<br/> <sup>14</sup> a ajuda está disponível somente em inglês e em chinês simplificado. 
-<br/> <sup>15</sup> o consumo do Visio online (recurso Exibir) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). 
-<br/> <sup>16</sup> K1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 K1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente. 
+> [!NOTE]   
+><sup>1</sup> Para usar a sincronização de pastas, você deve ter o Office 2013 ou posterior (edição Standard ou Professional) ou uma assinatura do Office 365 que inclua aplicativos do Office. Office 365 Business Essentials, Office 365 Enterprise E1 e Office 365 Education Plans não incluem assinaturas para aplicativos de área de trabalho do Office. No entanto, será possível usar a sincronização de pastas se você instalar o Office 2013 ou posterior e assinar um desses planos. <br/> 
+<sup>2</sup> As contas Kiosk limitaram a funcionalidade do OneDrive for Business. Os clientes do Kiosk podem usar o aplicativo cliente de sincronização de pastas do OneDrive for Business para sincronizar bibliotecas de documentos de sites de equipe com um computador compartilhado e acessar documentos offline. Mas as contas Kiosk não incluem um Site Pessoal do OneDrive for Business, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB de armazenamento online. <br/> 
+<sup>3</sup> o acesso 2010 não é suportado.<br/> 
+<sup>4</sup> Como os usuários Kiosk não podem ser administradores, os locatários com usuários Kiosk precisam de, pelo menos, um usuário corporativo para acessar o centro de administração.<br/> 
+<sup>5</sup> os clientes do SharePoint Online precisam baixar e instalar o aplicativo de ajuste de modelo de classificação gratuita para criar e personalizar modelos de classificação. <br/> 
+<sup>6</sup> Quando você usa recursos de Descoberta Eletrônica, os requisitos de licenciamento para um plano que permite esse recurso se aplicam a todos os usuários finais que fazem parte da ação de Descoberta Eletrônica (Pesquisar, Bloquear, Exportar).<br/> 
+<sup>7</sup> Usuários autenticados do SharePoint Online podem acessar conjuntos de sites particulares com navegação facetada.<br/>
+<sup>8</sup> os usuários de quiosque não podem criar documentos do Office usando blocos dinâmicos. Para criar um documento, os usuários Kiosk devem fazer isso em um site do SharePoint Online, clicando em **Novo** e escolhendo um tipo de arquivo, como documento do Word, pasta de trabalho do Excel, apresentação do PowerPoint, bloco de anotações do OneNote ou pesquisa do Excel, no menu **Criar um novo arquivo**. <br/> 
+<sup>9</sup> alguns provedores podem estar bloqueados em seu país/região. <br/>
+<sup>10</sup> compartilhar um documento, uma biblioteca ou um site por email com alguém fora da sua organização. Os administradores têm a capacidade de habilitar esse recurso, mas recebem uma mensagem de aviso indicando que isso pode fazer com que os arquivos compartilhados possam ser acessados de fora do país de origem. Os usuários que tentam compartilhar com pessoas de fora da organização recebem a mesma mensagem de aviso. <br/> 
+<sup>11</sup> as contas de quiosque têm funcionalidade limitada do onedrive for Business. Os clientes do Kiosk podem usar o aplicativo cliente de sincronização de pastas do OneDrive for Business para sincronizar bibliotecas de documentos de sites de equipe com um computador compartilhado e acessar documentos offline. Mas as contas Kiosk não incluem um Site Pessoal do OneDrive for Business, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB ou 5 TB de armazenamento online.<br/> 
+<sup>12</sup> você pode exibir documentos em qualquer navegador móvel. Para isso, é necessário instalar o aplicativo do Office Mobile para editar documentos. O Office Mobile está atualmente disponível para tablets e telefones Windows, tablets e telefones Android, iPhone e iPad. <br/>
+<sup>13</sup> a ajuda está disponível somente em inglês e em chinês simplificado. <br/> 
+<sup>14</sup> o consumo do Visio online (recurso Exibir) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). <br/> 
+<sup>15</sup> K1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 K1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente. 
   
 ## <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
 <a name="BM9_Skype"> </a>
@@ -835,7 +834,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 A tabela a seguir exibe os recursos do Skype for Business online que estão disponíveis nos planos do Office 365 operados pela 21Vianet.
   
 > [!NOTE]
-> Essa tabela indica a disponibilidade do cliente e do serviço nas opções do Office 365. Se você deseja comparar recursos específicos entre os vários clientes desktop, clientes Web e clientes móveis do Skype for Business, confira [Tabela de comparação dos clientes do Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=278876) e [Tabelas de Comparação do Cliente Móvel](https://go.microsoft.com/fwlink/?LinkID=278874). 
+> Essa tabela indica a disponibilidade do cliente e do serviço nas opções do Office 365. Se você deseja comparar recursos individuais entre os vários clientes de área de trabalho do Skype for Business, clientes da Web e clientes móveis, consulte [tabelas de comparação de clientes de área de trabalho](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) e tabelas de comparação de [clientes móveis](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables). 
   
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China. 
@@ -939,7 +938,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 |Caixa postal  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Planos de chamadas no Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Plano de Chamada Doméstico, requer a compra de suplemento)  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Planos de chamadas no Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Plano de Chamada Internacional, requer a compra de suplemento)  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Créditos de Comunicação](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Créditos de Comunicação](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Skype for Business Voz  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**[Segurança e arquivamento](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Mensagens instantâneas e criptografia de mídia  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -966,12 +965,12 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 |Centro de administração do Skype for Business  <br/> |Sim  <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Relatórios do Skype for Business online no centro de administração do Microsoft 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-   
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. O Lync 2013 Basic está disponível para todos os clientes. O cliente de desktop do Lync Basic é um aplicativo instalado localmente que fornece recursos de conferência, presença e mensagens instantâneas para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype for Business (Lync), que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. É necessário atribuir uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, Confira as [tabelas de comparação de clientes do Skype for Business online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
-<br/> <sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan. 
-<br/> <sup>3</sup> Only accessible through the Skype for Business admin center management interface. 
-<br/> <sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus. 
-<br/> <sup>5</sup> In Office 365 operated by 21Vianet, tenants with a standalone Skype for Business plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
+> [!NOTE]
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. O Lync 2013 Basic está disponível para todos os clientes. O cliente de desktop do Lync Basic é um aplicativo instalado localmente que fornece recursos de conferência, presença e mensagens instantâneas para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype for Business (Lync), que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. É necessário atribuir uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
+<sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.<br/> 
+<sup>3</sup> Only accessible through the Skype for Business admin center management interface.<br/> 
+<sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus. <br/> 
+<sup>5</sup> In Office 365 operated by 21Vianet, tenants with a standalone Skype for Business plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
   
 ### <a name="skype-for-business-online-features-across-office-365-standalone-plans"></a>Recursos do Skype for Business online nos planos autônomos do Office 365
 
@@ -981,7 +980,7 @@ A tabela a seguir exibe os planos do Office 365 que incluem o serviço SharePoin
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China. 
   
 > [!NOTE]
-> Usuários licenciados do Plano Autônomo 2 do Skype for Business online receberão o cliente básico do Skype for Business, não o cliente completo do Skype for Business. Se quiser que os usuários tenham o cliente do Skype for Business, será necessário atualizá-los para uma licença que o inclua, como uma licença do Enterprise. Para implantar o cliente do Skype for Business para seus usuários, confira [Implantar o cliente do Skype for Business no Office 365](http://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
+> Usuários licenciados do Plano Autônomo 2 do Skype for Business online receberão o cliente básico do Skype for Business, não o cliente completo do Skype for Business. Se quiser que os usuários tenham o cliente do Skype for Business, será necessário atualizá-los para uma licença que o inclua, como uma licença do Enterprise. Para implantar o cliente do Skype for Business para seus usuários, confira [Implantar o cliente do Skype for Business no Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365?redirectSourcePath=%252fen-US%252farticle%252fDeploy-the-Skype-for-Business-client-in-Office-365-8c563b81-22c9-4024-9efe-9fe28c7bbc96). 
   
 ||||
 |:-----|:-----|:-----|
@@ -1071,8 +1070,8 @@ A tabela a seguir exibe os planos do Office 365 que incluem o serviço SharePoin
 |Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |
 |Relatórios do Skype for Business online no centro de administração do Microsoft 365  <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |
    
-
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).
+> [!NOTE]
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/> <sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user. 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/> <sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 

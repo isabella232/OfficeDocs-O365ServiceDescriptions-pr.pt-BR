@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-sites-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: O Microsoft SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Presente no Microsoft SharePoint Server 2013, esse serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os seguintes recursos de Sites fornecem um conjunto completo de ferramentas que pode ser usado por sua organização para criar qualquer tipo de site, além de uma única infraestrutura que simplifica o gerenciamento do site. Para saber mais detalhes, consulte Encontrar conteúdo sobre o SharePoint Online.
-ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246577"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342480"
 ---
 # <a name="sites"></a>Sites
 

@@ -3,7 +3,7 @@ title: Visio Online
 ms.author: sharik
 author: skjerland
 ms.date: 6/28/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: O Visio online estende sua experiência do Microsoft Visio ao navegador da Web, onde você pode trabalhar com diagramas diretamente no site onde o diagrama está armazenado. Os clientes do Microsoft Office 365 com o Office Online podem exibir e compartilhar diagramas e inserir comentários em qualquer lugar.
-ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246557"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342340"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -118,7 +118,7 @@ Se o diagrama for salvo em uma biblioteca de documentos do SharePoint ou no OneD
 ## <a name="smartart"></a>SmartArt
 <a name="BM_19"> </a>
 
-Com o Visio online, você não pode adicionar SmartArt a um diagrama. No enTanto, se o SmartArt foi adicionado usando o aplicativo da área de trabalho Visio, ele estará visível no Visio online.
+Com o Visio online, você não pode adicionar SmartArt a um diagrama. No entanto, se o SmartArt foi adicionado usando o aplicativo da área de trabalho Visio, ele estará visível no Visio online.
   
 ## <a name="tell-me"></a>Diga-me
 <a name="BM_20"> </a>
@@ -128,7 +128,7 @@ O recurso diga-me não está disponível no Visio online. No aplicativo da área
 ## <a name="undo-and-redo"></a>Desfazer e refazer
 <a name="BM_21"> </a>
 
-Os recursos de desfazer e reFazer não estão disponíveis no Visio online.
+Os recursos de desfazer e refazer não estão disponíveis no Visio online.
   
 ## <a name="view-and-add-comments"></a>Ver e adicionar comentários
 <a name="BM_22"> </a>

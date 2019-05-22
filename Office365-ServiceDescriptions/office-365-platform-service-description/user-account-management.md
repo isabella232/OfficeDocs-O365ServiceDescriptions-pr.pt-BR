@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-user-account-management
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: O Microsoft Office 365 oferece suporte aos seguintes métodos para criar, gerenciar e autenticar usuários.
-ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247197"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343110"
 ---
 # <a name="user-account-management"></a>Gerenciamento de Contas de Usuário
 
@@ -77,7 +77,7 @@ O Office 365 usa autenticação baseada em formulários, e o tráfego de autenti
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Autenticação multifator para Office 365
 
-Com a autenticação multiFator para o Office 365, os usuários precisam confirmar uma chamada telefônica, uma mensagem de texto ou uma notificação de aplicativo em seu smartphone após a inserção correta da senha. Somente após esta segunda autenticação é que o usuário pode iniciar a sessão. Os administradores do Office 365 podem registrar usuários para a autenticação multifator no centro de administração do Microsoft 365. Saiba mais sobre [Multi-Factor Authentication para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Com a autenticação multifator para o Office 365, os usuários precisam confirmar uma chamada telefônica, uma mensagem de texto ou uma notificação de aplicativo em seu smartphone após a inserção correta da senha. Somente após esta segunda autenticação é que o usuário pode iniciar a sessão. Os administradores do Office 365 podem registrar usuários para a autenticação multifator no centro de administração do Microsoft 365. Saiba mais sobre [Multi-Factor Authentication para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Autenticação de cliente avançado
 
