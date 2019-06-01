@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
-ms.openlocfilehash: 5c89f7fa92a91a780be9350e16be87e537370586
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8e678bf7fc2373b5e8f97341d2c167548b36322b
+ms.sourcegitcommit: 178a0c81d51a48562b9433c47642ce78c51651a3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342530"
+ms.lasthandoff: 06/01/2019
+ms.locfileid: "34669680"
 ---
 # <a name="sharepoint-online-limits"></a>Limites do SharePoint Online
 
@@ -43,7 +43,7 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
   
 ## <a name="service-limits-for-all-plans"></a>Limites de serviço para todos os planos
 
-- **Itens em listas e bibliotecas** -uma lista pode ter até 30 milhões itens e uma biblioteca pode ter até 30 milhões arquivos e pastas. Após 100, os itens 00 são adicionados a uma lista, biblioteca ou pasta, a herança de permissão para a lista, biblioteca ou pasta não pode ser alterada. Para saber mais sobre outras restrições para exibir listas grandes, confira [gerenciar grandes listas e bibliotecas no Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Para obter informações sobre caracteres que não podem ser usados em nomes de arquivos, confira [caracteres inválidos em nomes de arquivos e pastas](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Itens em listas e bibliotecas** -uma lista pode ter até 30 milhões itens e uma biblioteca pode ter até 30 milhões arquivos e pastas. Depois que 100.000 itens são adicionados a uma lista, biblioteca ou pasta, a herança de permissão para a lista, biblioteca ou pasta não pode ser alterada. Para saber mais sobre outras restrições para exibir listas grandes, confira [gerenciar grandes listas e bibliotecas no Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Para obter informações sobre caracteres que não podem ser usados em nomes de arquivos, confira [caracteres inválidos em nomes de arquivos e pastas](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - **Tamanho do arquivo e comprimento do caminho do arquivo** -15 GB. Para saber mais sobre restrições e limites ao usar o novo cliente de sincronização do OneDrive (OneDrive. exe), confira nomes de arquivos [e tipos de arquivos inválidos no onedrive, no onedrive for Business e no SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
