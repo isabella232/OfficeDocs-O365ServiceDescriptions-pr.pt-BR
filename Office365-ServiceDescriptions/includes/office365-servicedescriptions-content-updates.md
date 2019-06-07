@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-april-22-2019"></a>Semana de 22 de abril de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 4/24/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
-| 4/26/2019 | [Limites do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
-| 4/26/2019 | [Continuidade e Integridade do Serviço](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
-| 4/26/2019 | [Descrição de serviços dos aplicativos do Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
-| 4/26/2019 | [Limites do SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |
-
-
 ## <a name="week-of-april-29-2019"></a>Semana de 29 de abril de 2019
 
 
@@ -176,3 +164,12 @@
 | 5/21/2019 | [Recursos de Suporte no Yammer](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | modificado |
 | 5/21/2019 | [Recursos da Plataforma Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | modificado |
 | 5/21/2019 | [Descrição do Serviço do Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | modificado |
+
+
+## <a name="week-of-may-27-2019"></a>Semana de 27 de maio de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 5/28/2019 | [Descrição dos serviços do Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
+| 5/31/2019 | [Limites do SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |

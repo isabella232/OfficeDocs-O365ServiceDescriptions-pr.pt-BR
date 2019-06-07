@@ -9,35 +9,34 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
-ms.openlocfilehash: 8e678bf7fc2373b5e8f97341d2c167548b36322b
-ms.sourcegitcommit: 178a0c81d51a48562b9433c47642ce78c51651a3
+ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2019
-ms.locfileid: "34669680"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742150"
 ---
-# <a name="sharepoint-online-limits"></a>Limites do SharePoint Online
+# <a name="sharepoint-online-limits"></a>Limites do SharePoint Online 
 
 Encontre os limites do SharePoint para planos do Office 365 e planos autônomos do SharePoint Online.
   
-## <a name="limits-by-plan"></a>Limites por plano
+## <a name="limits-by-plan"></a>Limites por plano 
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Office 365 Business Essentials ou Business Premium** <br/> |**Office 365 Enterprise E1, E3 ou e5, ou SharePoint Online plano 1 ou 2** <br/> | **Office 365 Enterprise F1** <br/> |
-|Armazenamento<sup>1, 2</sup> <br/> |1 TB por organização mais 10 GB por licença adquirida  <br/> |1 TB por organização mais 10 GB por licença adquirida<sup>3</sup> <br/> |1 TB por organização <sup>3</sup> <br/> |
-|Armazenamento para conjuntos de sites  <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |Até 25 TB por conjunto de sites ou grupo<sup>5</sup> <br/> |
-|Conjuntos de sites por organização  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> |US$ 500.000<br/> |
+|Armazenamento total por organização<sup>1, 2</sup> <br/> |1 TB mais 10 GB por licença adquirida  <br/> |1 TB mais 10 GB por licença adquirida<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|Máximo de armazenamento por conjunto de sites<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
+|Conjuntos de sites por organização  <br/> |1 milhão<sup>6</sup> <br/> |1 milhão<sup>6</sup> <br/> |1 milhão<br/> |
 |Número de usuários  <br/> |Até 300  <br/> |1 a 500.000<sup>7</sup> <br/> |1 a 500.000<sup>7</sup> <br/> |
    
-> [!NOTE]
-> <sup>1</sup> Você pode adquirir um volume ilimitado de armazenamento adicional do SharePoint Online. Consulte [Alterar o espaço de armazenamento de sua assinatura](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C). 
-<br/><sup>2</sup> Recomendamos monitorar a Lixeira e esvaziá-la regularmente. O espaço de armazenamento que ela usa faz parte do limite de armazenamento de arquivo total da organização. 
+<sup>1</sup> você pode adquirir uma quantidade ilimitada de armazenamento adicional do SharePoint. Consulte [Alterar o espaço de armazenamento de sua assinatura](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<br/><sup>2</sup> Recomendamos monitorar a Lixeira e esvaziá-la regularmente. O espaço de armazenamento que ele usa faz parte do limite total de armazenamento da organização. 
 <br/> <sup>3</sup> Quando você tiver uma assinatura do Office 365 e um plano autônomo do SharePoint Online, os valores de armazenamento serão adicionados. 
-<br/><sup>4</sup> os administradores do SharePoint Online podem definir limites de armazenamento para conjuntos de sites e sites.
-<br/> <sup>5</sup> Os funcionários de quiosque não podem administrar os conjuntos de sites do SharePoint Online. Você precisa de pelo menos uma licença de usuário do Enterprise para gerenciar conjuntos de sites de quiosque. 
-<br/> <sup>6</sup> Não incluindo os conjuntos de sites do OneDrive Business criados para cada usuário licenciado. 
-<br/><sup>7</sup> Se você tiver mais de 500.000 usuários, entre em contato com um representante da Microsoft. 
+<br/> <sup>4</sup> este é o limite de armazenamento para um único conjunto de sites, não a quantidade de armazenamento fornecida para cada conjunto de sites. Este limite se aplica a todos os tipos de conjuntos de sites, incluindo sites de equipe conectados ao grupo do Office 365 e o OneDrive. Os administradores do SharePoint podem [definir manualmente os limites de armazenamento menores](/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>5</sup> os funcionários de primeiro lugar não podem administrar conjuntos de sites do SharePoint. 
+<br/> <sup>6</sup> não incluindo o onedrive criado para cada usuário licenciado. 
+<br/> <sup>7</sup> Se você tiver mais de 500.000 usuários, entre em contato com um representante da Microsoft. 
   
 
   
@@ -49,7 +48,10 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 
 - **Movimentação e cópia nos conjuntos de sites** – 100 GB por operação. O navegador da Web deve permanecer aberto.
 
-- **Sync** -para obter o desempenho ideal, recomendamos armazenar até 300.000 arquivos em uma única biblioteca de sites do onedrive ou de equipe. Embora o SharePoint Online possa armazenar documentos de 30 milhões por biblioteca, para o desempenho ideal, recomendamos sincronizar no máximo 300.000 arquivos em todas as bibliotecas de documentos. Além disso, os mesmos problemas de desempenho podem ocorrer se você tiver 300.000 itens ou mais em todas as bibliotecas que estiver sincronizando, mesmo que não esteja sincronizando todos os itens dessas bibliotecas. Se você usar o cliente de sincronização anterior do OneDrive for Business (Groove. exe), o limite de sincronização por biblioteca será de 20.000 itens (incluindo 5.000 itens por site de equipe).
+- **Sync** -para obter o desempenho ideal, recomendamos armazenar até 300.000 arquivos em todas as bibliotecas de documentos sincronizadas, mesmo que você esteja usando arquivos por demanda ou escolhendo apenas algumas pastas dentro das bibliotecas para sincronizar. Se você usar o cliente de sincronização anterior do OneDrive for Business (Groove. exe), o limite de sincronização por biblioteca será de 20.000 itens (incluindo 5.000 itens por site de equipe).
+
+    > [!NOTE]
+    > Se os usuários precisarem sincronizar arquivos em bibliotecas de documentos com centenas de milhares de arquivos, você poderá "Ocultar" as pastas do cliente de sincronização definindo o nível de permissão das pastas como "leitura restrita". 
 
 - **Versões** -50.000 versões principais e 511 versões secundárias.
 
@@ -57,7 +59,7 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 
 - Metadados gerenciados-200.000 termos no repositório de termos 1.000, conjuntos de termos globais, 1.000 grupos.
 
-- **** Subsites-até 2.000 por conjunto de sites.
+- **** Subsites-2.000 por conjunto de sites.
 
 - **Aplicativos hospedados do SharePoint** -instâncias de 20.000 por organização.
 
@@ -66,7 +68,7 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 - **Users** -2 milhões por conjunto de sites.
 
 > [!NOTE]
-> Não há limite para o número de usuários externos que você pode convidar para seus conjuntos de sites do SharePoint Online. Para saber mais, confira [Gerenciar o compartilhamento externo para seu ambiente do SharePoint Online](/sharepoint/external-sharing-overview).
+> Não há limite para o número de convidados que você pode convidar para os conjuntos de sites do SharePoint. Para obter mais informações sobre o compartilhamento externo, consulte [visão geral do compartilhamento externo](/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>Confira também
 

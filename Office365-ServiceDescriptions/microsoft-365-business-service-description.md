@@ -3,7 +3,7 @@ title: Descrição dos serviços do Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/29/2019
+ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. . Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
-ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
+ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34493489"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742100"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição dos serviços do Microsoft 365 Business
 
@@ -26,8 +26,8 @@ O Microsoft 365 Business é uma solução integrada que reúne a melhor produtiv
 
 A tabela a seguir lista os recursos de plataforma para o Office 365 Business Premium e planos de negócios do Microsoft 365.
   
-Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [Descrição do serviço da plataforma do office 365](office-365-platform-service-description/office-365-platform-service-description.md).
-  
+Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [Descrição do serviço da plataforma do office 365](office-365-platform-service-description/office-365-platform-service-description.md).<br/>
+
 ||||
 |:-----|:-----|:-----|
 |**Opções de plano** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
@@ -149,7 +149,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
    
 |||
 |:-----|:-----|
-|**Recursos de gerenciamento do Windows 10** -a Microsoft 365 Business facilita o gerenciamento de dispositivos. Ao configurar seu locatário do Microsoft 365 Business, você seleciona proteção de aplicativos e definições de configuração do dispositivo. Essas configurações determinam as políticas aplicadas automaticamente aos dispositivos quando ingressam no Azure Active Directory. Os recursos de gerenciamento do Windows 10 pro incluem:  <br/> |**Microsoft 365 Business** <br/> |
+|**Recursos de gerenciamento do Windows 10** -a Microsoft 365 Business facilita o gerenciamento de dispositivos. Ao configurar seu locatário do Microsoft 365 Business, você seleciona proteção de aplicativos e definições de configuração do dispositivo. Essas configurações determinam as políticas aplicadas automaticamente aos dispositivos quando ingressam no Azure Active Directory. Os recursos de gerenciamento do Windows 10 pro incluem: <br/>|**Microsoft 365 Business** <br/> |
 |Implantação simplificada com o Windows AutoPilot  <br/> |Sim  <br/> |
 |Ativação de assinatura  <br/> |Sim  <br/> |
 |Controle organizacional da tela do dispositivo em ociosidade  <br/> |Sim  <br/> |
@@ -162,9 +162,9 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Proteger PCs contra ameaças baseadas na Web no Microsoft Edge  <br/> |Sim  <br/> |
 |Usar regras que reduzem a superfície de ataque de dispositivos <br/> |Sim  <br/> |
 |Proteger pastas de ameaças como ransomware <br/> |Sim  <br/> |
-|Ajudar a proteger arquivos e pastas em computadores contra o acesso não autorizado ao BitLocker <br/> |Sim  <br/> |
-   
-> <sup>1</sup> inclui o plano 1 do Exchange Online.
+|Ajudar a proteger arquivos e pastas em computadores contra o acesso não autorizado ao BitLocker <br/> |Sim  <br/> |   
+
+<sup>1</sup> inclui o plano 1 do Exchange Online.
 <br/><sup>2</sup> inclui o Skype for Business online plano 2 com limitações do cliente básico.
 <br/><sup>3</sup> o Project online não está incluído, mas pode ser adquirido como um serviço complementar separado ou adicionado gratuitamente ao plano do Office Education. 
 <br/><sup>4</sup> a proteção de informações do Azure (AIP) permite os recursos compatíveis com o gerenciamento de direitos de informação (IRM). O plano do AIP 1 está incluído no Microsoft 365 Business. 
