@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742150"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780660"
 ---
 # <a name="sharepoint-online-limits"></a>Limites do SharePoint Online 
 
@@ -30,15 +30,13 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 |Conjuntos de sites por organização  <br/> |1 milhão<sup>6</sup> <br/> |1 milhão<sup>6</sup> <br/> |1 milhão<br/> |
 |Número de usuários  <br/> |Até 300  <br/> |1 a 500.000<sup>7</sup> <br/> |1 a 500.000<sup>7</sup> <br/> |
    
-<sup>1</sup> você pode adquirir uma quantidade ilimitada de armazenamento adicional do SharePoint. Consulte [Alterar o espaço de armazenamento de sua assinatura](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> você pode adquirir uma quantidade ilimitada de armazenamento adicional do SharePoint. Consulte [Alterar o espaço de armazenamento de sua assinatura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> Recomendamos monitorar a Lixeira e esvaziá-la regularmente. O espaço de armazenamento que ele usa faz parte do limite total de armazenamento da organização. 
-<br/> <sup>3</sup> Quando você tiver uma assinatura do Office 365 e um plano autônomo do SharePoint Online, os valores de armazenamento serão adicionados. 
-<br/> <sup>4</sup> este é o limite de armazenamento para um único conjunto de sites, não a quantidade de armazenamento fornecida para cada conjunto de sites. Este limite se aplica a todos os tipos de conjuntos de sites, incluindo sites de equipe conectados ao grupo do Office 365 e o OneDrive. Os administradores do SharePoint podem [definir manualmente os limites de armazenamento menores](/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>3</sup> se você tiver uma assinatura do Office 365 e um complemento de armazenamento de arquivos extra do Office 365, os valores de armazenamento serão adicionados. 
+<br/> <sup>4</sup> este é o limite de armazenamento para um único conjunto de sites, não a quantidade de armazenamento fornecida para cada conjunto de sites. Este limite se aplica a todos os tipos de conjuntos de sites, incluindo sites de equipe conectados ao grupo do Office 365 e o OneDrive. Os administradores do SharePoint podem [definir manualmente os limites de armazenamento menores](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits). 
 <br/> <sup>5</sup> os funcionários de primeiro lugar não podem administrar conjuntos de sites do SharePoint. 
 <br/> <sup>6</sup> não incluindo o onedrive criado para cada usuário licenciado. 
 <br/> <sup>7</sup> Se você tiver mais de 500.000 usuários, entre em contato com um representante da Microsoft. 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>Limites de serviço para todos os planos
 
@@ -57,7 +55,7 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 
 - **Grupos do SharePoint** : um usuário pode pertencer a 5.000 grupos e cada grupo pode ter até 5.000 usuários. Você pode ter até 10.000 grupos por conjunto de sites.
 
-- Metadados gerenciados-200.000 termos no repositório de termos 1.000, conjuntos de termos globais, 1.000 grupos.
+- **Metadados gerenciados** -200.000 termos no repositório de termos 1.000, conjuntos de termos globais, 1.000 grupos.
 
 - **** Subsites-2.000 por conjunto de sites.
 
@@ -68,8 +66,8 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 - **Users** -2 milhões por conjunto de sites.
 
 > [!NOTE]
-> Não há limite para o número de convidados que você pode convidar para os conjuntos de sites do SharePoint. Para obter mais informações sobre o compartilhamento externo, consulte [visão geral do compartilhamento externo](/sharepoint/external-sharing-overview).
+> Não há limite para o número de convidados que você pode convidar para os conjuntos de sites do SharePoint. Para obter mais informações sobre o compartilhamento externo, consulte [visão geral do compartilhamento externo](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>Confira também
 
-[Limites de pesquisa para o SharePoint Online](/sharepoint/search-limits)
+[Limites de pesquisa para o SharePoint Online](https://docs.microsoft.com/sharepoint/search-limits)

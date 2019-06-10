@@ -3,7 +3,7 @@ title: Descrição de Serviço do Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 6/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,32 +15,37 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: b7beee90d49d9962a0234758ae3f9aba087a226a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: bff7473068f2ce3919d0dd0771067c1b13a3b2f3
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342760"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780630"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de Serviço do Exchange Online
 
 Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
   
 > [!NOTE]
-> Se precisar de ajuda com uma tarefa ou se estiver solucionando um problema, talvez você considere os seguintes artigos úteis: > [Email](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) para obter ajuda com a criação e envio de email. > [Email no Office 365 para empresas - Ajuda do Administrador](https://go.microsoft.com/fwlink/?linkid=529722)> [Corrigir problemas do Outlook e do Office 365 com o Assistente de Recuperação e Suporte para Office 365](https://diagnostics.office.com/)> [Notificações de falha na entrega de email no Office 365](https://go.microsoft.com/fwlink/?linkid=526653)> [Ajuda do Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)
+> Se precisar de ajuda com uma tarefa ou se estiver solucionando um problema, talvez você considere os seguintes artigos úteis: <br/>
+[Email](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) para obter ajuda sobre como criar e enviar emails. <br/> 
+[Email no Office 365 para empresas-ajuda para administradores](https://docs.microsoft.com/office365/admin/email/email)<br/> 
+[Corrigir problemas do Outlook e do Office 365 com o assistente de recuperação e suporte da Microsoft para o Office 365](https://diagnostics.office.com/)<br/> 
+[Notificações de falha na entrega de email no Office 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
+[Ajuda do Exchange Online](https://docs.microsoft.com/exchange/exchange-online)
   
 Microsoft Exchange Online é uma solução de mensagens hospedada que fornece o recursos do Microsoft Exchange Server como um serviço baseado em nuvem. Isso permite que os usuários acessem o e-mail, o calendário, os contatos e as tarefas a partir de computadores, da Web e de dispositivos móveis. Ele se integra totalmente ao Active Directory, permitindo que os administradores usem políticas de grupo, bem como outras ferramentas administrativas, para gerenciar os recursos do Exchange Online em seu ambiente.
   
 As organizações que assinam o Exchange Online mantêm controle sobre os serviços de mensagens que oferecem aos usuários, mas elas não têm a carga operacional de software de servidor local. Com os planos hospedados do Exchange Online descritos neste documento, o email é hospedado em servidores que dão suporte a vários clientes simultaneamente. Esses servidores estão hospedados em data centers da Microsoft e acessíveis aos usuários em uma ampla gama de dispositivos de dentro de uma rede corporativa ou pela Internet.
   
-Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Para comparar os planos do Office 365 Germany, confira [Planos de assinatura do Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
+Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans). Para comparar os planos do Office 365 Germany, confira [Planos de assinatura do Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
 > [!TIP]
-> Você pode exportar, salvar e imprimir páginas nas Descrições de Serviço do Office 365. Saiba como [exportar várias páginas](https://go.microsoft.com/fwlink/?LinkId=403349). 
+> Você pode exportar, salvar e imprimir páginas nas Descrições de Serviço do Office 365. Saiba como [exportar várias páginas](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
   
 ## <a name="whats-new-in-exchange-online"></a>Novidades no Exchange Online
 
-Para saber mais sobre os novos recursos do Exchange Online, confira [Novidades no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkID=271724).
+Para saber mais sobre os novos recursos do Exchange Online, confira [Novidades no Exchange Online](https://docs.microsoft.com/exchange/exchange-online).
   
 ## <a name="office-365-plans-for-exchange-online"></a>Planos do Office 365 para o Exchange Online
 
@@ -76,7 +81,8 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |**[Política e Conformidade de Mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Arquivamento de Caixas de Correio baseadas no Exchange Online| Não|Não|Sim|Sim|Sim|Sim|Sim|Não|
 |Arquivamento baseado em Nuvem de Caixas de Correio Locais|Sim <sup>1</sup>|Sim<sup>1</sup>|Não|Não|Sim|Sim|Sim|Não|
-|Marcas e políticas de retenção para MRM (gerenciamento de registros de mensagens)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Políticas de retenção, rótulos e marcas manuais |Não|Não|Não|Não|Sim|Sim|Sim|Sim|
 |Criptografia de dados em repouso (BitLocker)|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim|Sim|Sim|Sim|Sim|Sim|
 |IRM usando a Proteção de Informações do Azure|Não|Sim|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Sim|Não<sup>2</sup>|
 |IRM usando Windows Server AD RMS|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|
@@ -169,13 +175,12 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Complementos do Outlook e MAPI do Outlook|Sim<sup>19</sup>|Sim|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Não|
 
-> [!NOTE]
-> <sup>1</sup> requer uma assinatura de arquivamento do Exchange Online (EOA) para cada usuário de caixa de correio local que tenha um arquivo morto baseado em nuvem. <br/>
+<sup>1</sup> requer uma assinatura de arquivamento do Exchange Online para cada usuário de caixa de correio local que tenha um arquivo morto baseado em nuvem. <br/>
 <sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. <br/>
 <sup>3</sup> O Windows Server AD RMS é um servidor local que precisa ser adquirido e gerenciado separadamente de forma a permitir os recursos de IRM com suporte. <br/>
 <sup>4</sup> as regras de transporte são formadas por critérios flexíveis, que permitem definir condições e exceções, e ações a serem tomadas com base nos critérios. Os critérios e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto. <br/>
-<sup>5</sup> para o Exchange 2013, a DLP requer uma licença de acesso para cliente (cal) do Exchange Enterprise. Para saber mais sobre CALs e sobre licenciamento de servidor, confira o artigo [Licenciamento do Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=299133). <br/>
-<sup>6</sup> o exchange server 2013 tem a maioria dos mesmos recursos antispam internos que o exchange Server 2010. Para obter informações sobre os benefícios da filtragem de spam hospedado do Exchange nas ofertas locais, consulte [benefícios de recursos antispam no Exchange Online Protection no Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=271726). <br/>
+<sup>5</sup> para o Exchange 2013, a DLP requer uma licença de acesso para cliente (cal) do Exchange Enterprise. Para saber mais sobre CALs e sobre licenciamento de servidor, confira o artigo [Licenciamento do Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business). <br/>
+<sup>6</sup> o exchange server 2013 tem a maioria dos mesmos recursos antispam internos que o exchange Server 2010. Para obter informações sobre os benefícios da filtragem de spam hospedado do Exchange nas ofertas locais, consulte [benefícios de recursos antispam no Exchange Online Protection no Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
 <sup>7</sup> acessível apenas via acesso direto à interface de gerenciamento do centro de administração do Exchange (Eat). <br/>
 <sup>8</sup> o Exchange Server 2013 usa apenas o mecanismo antimalware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. <br/>
 <sup>9</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa.  <br/>
@@ -191,7 +196,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 <sup>19</sup> algumas Web Parts e suplementos de terceiros podem não estar disponíveis. <br/>
 <sup>20</sup> para descoberta eletrônica, você precisa de uma consulta separada para o local vs. Cloud. <br/>
 <sup>21</sup> a tabela indica se o cliente funciona ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos. <br/>
-<sup>22</sup> para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://go.microsoft.com/fwlink/?linkid=862702). <br/>
+<sup>22</sup> para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> o suporte da um do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCS operado pelo cliente terminará em abril de 2019. Consulte o blog da equipe do Exchange descontinuando o [suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) para obter mais informações. <br/>
 <sup>24</sup> um usuário F1 não pode adicionar representantes à sua própria caixa de correio, mas pode acessar outra caixa de correio (incluindo caixas de correio compartilhadas) e executar qualquer ação que tenha sido delegada a elas.
   
@@ -211,7 +216,8 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |**[Política e Conformidade de Mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Arquivamento de Caixas de Correio baseadas no Exchange Online|Sim|Não|Sim|Sim|Não|
 |Arquivamento baseado em Nuvem de Caixas de Correio Locais|Sim <sup>5</sup>|Sim <sup>5</sup>|Não|Sim|Não|
-|Marcas e políticas de retenção para MRM (gerenciamento de registros de mensagens)|Sim|Sim|Sim|Sim|Sim|
+|Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|
+|Políticas de retenção, rótulos e marcas manuais|Não|Não|Sim|Sim|Sim|
 |Criptografia de dados em repouso (BitLocker)|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim|Sim|
 |IRM usando a Proteção de Informações do Azure|Não|Sim|No<sup>11</sup>|No<sup>11</sup>|No<sup>11</sup>|
 |IRM usando Windows Server AD RMS|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|
@@ -300,24 +306,23 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Web Parts do Outlook Web App|Sim|Sim|Sim|Sim|Sim|
 |Complementos do Outlook e MAPI do Outlook|Sim|Sim|Sim<sup>21</sup>|Sim<sup>21</sup>|Não|
 
-> [!NOTE]
-> <sup>1</sup> as regras de transporte são formadas por critérios flexíveis, que permitem definir condições e exceções, e ações a serem tomadas com base nos critérios. Os critérios e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto. <br/>
-<sup>2</sup> para obter informações sobre os benefícios da filtragem de spam hospedado do Exchange nas ofertas locais, consulte [benefícios de recursos antispam no Exchange Online Protection no Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=271726). <br/>
+<sup>1</sup> as regras de transporte são formadas por critérios flexíveis, que permitem definir condições e exceções, e ações a serem tomadas com base nos critérios. Os critérios e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto. <br/>
+<sup>2</sup> para obter informações sobre os benefícios da filtragem de spam hospedado do Exchange nas ofertas locais, consulte [benefícios de recursos antispam no Exchange Online Protection no Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
 <sup>3</sup> o SharePoint deve ser implantado na organização local do Exchange. <br/>
 <sup>4</sup> o SharePoint Online deve ser incluído no plano de assinatura do Office 365. <br/>
-<sup>5</sup> requer uma assinatura de arquivamento do Exchange Online (EOA) para cada usuário de caixa de correio local que tenha um arquivo morto baseado em nuvem. <br/>
-<sup>6</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa. <br/>
+<sup>5</sup> requer uma assinatura de arquivamento do Exchange Online para cada usuário de caixa de correio local que tenha um arquivo morto baseado em nuvem. <br/>
+<sup>6</sup> uma assinatura de arquivamento do Exchange Online pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa. <br/>
 <sup>7</sup> o Exchange Server 2013 usa apenas o mecanismo antimalware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. <br/>
 <sup>8</sup> acessível apenas via acesso direto à interface de gerenciamento do centro de administração do Exchange (Eat). <br/>
 <sup>9</sup> não há suporte para IMAP. <br/>
-<sup>10</sup> para o Exchange 2013 ou posterior, a DLP requer uma cal (licença de acesso para cliente) do Exchange Enterprise. Para saber mais sobre CALs e sobre licenciamento de servidor, confira o artigo [Licenciamento do Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=299133). <br/>
+<sup>10</sup> para o Exchange 2013 ou posterior, a DLP requer uma cal (licença de acesso para cliente) do Exchange Enterprise. Para saber mais sobre CALs e sobre licenciamento de servidor, confira o artigo [Licenciamento do Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business). <br/>
 <sup>11</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. A criptografia de mensagem do Office 365 depende da proteção de informações do Azure. <br/>
 <sup>12</sup> o AD RMS para Windows Server é um servidor local que deve ser adquirido e gerenciado separadamente para habilitar os recursos de IRM compatíveis. <br/>
 <sup>13</sup> com suporte para clientes que executam o Exchange Server 2013 ou posterior que compram a proteção de informações do Azure. A criptografia de mensagem do Office 365 requer que os clientes locais circulem emails por meio do Exchange Online, usando o Exchange Online Protection para filtragem de email ou estabelecendo o fluxo de email híbrido. <br/>
 <sup>14</sup> os clientes que executam o Exchange Server 2013 ou posterior precisam baixar e instalar a atualização cumulativa mais recente (cu) ou a cu imediatamente anterior, para acessar a impressão digital de documentos e dicas de política no OWA e no OWA para dispositivos. <br/>
 <sup>15</sup> disponível para clientes que executam o Exchange Server 2013 ou posterior. <br/>
 <sup>16</sup> a criptografia de unidade de disco BitLocker é compatível com o Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
-<sup>17</sup> o plano 1 do Exchange Online tem um [limite de tamanho na caixa de correio e no arquivo morto](https://go.microsoft.com/fwlink/?LinkId=330039). O complemento arquivamento do Exchange Online para o Exchange Online Adiciona arquivo ilimitado baseado em nuvem e [bloqueio in-loco](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold). <br/>
+<sup>17</sup> o plano 1 do Exchange Online tem um [limite de tamanho na caixa de correio e no arquivo morto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits). O complemento arquivamento do Exchange Online para o Exchange Online Adiciona arquivo ilimitado baseado em nuvem e [bloqueio in-loco](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold). <br/>
 <sup>18</sup> os calendários do quiosque do Exchange Online só podem ser acessados ou compartilhados por meio do OWA. <br/>
 <sup>19</sup> contas conectadas têm suporte para &amp; contas POP IMAP, mas estão desabilitadas para o Outlook.com (Hotmail). <br/>
 <sup>20</sup> usar cmdlets no PowerShell do Exchange Online para personalizar listas de endereços padrão e a lista de endereços global (GAL) padrão não é suportada. <br/>
