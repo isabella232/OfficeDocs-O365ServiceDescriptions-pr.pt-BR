@@ -3,7 +3,6 @@ title: Descrição do Serviço do Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: O Office Online (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. Com o Office Online fica mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão à Internet, de praticamente qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343772"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018303"
 ---
 # <a name="office-online-service-description"></a>Descrição do Serviço do Office Online
 
 O Office Online (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. Com o Office Online fica mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão à Internet, de praticamente qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar. 
   
-Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-online-plans"></a>Disponibilidade dos recursos nos planos do Office Online
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Para comparar os recursos entre os planos, confira [Comparar planos do Office 36
 Precisa de ajuda para descobrir qual solução Office é a melhor para a sua organização? As tabelas a seguir comparam recursos de recursos do Office Online para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as tabelas para descobrir quais recursos estão disponíveis no Office Online e, em seguida, clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel enquanto outras só precisam exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office Online. 
   
 > [!NOTE]
->  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. >  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. > os clientes locais do Microsoft Office Online Server recebem uma licença de edição do Office Online se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Office 365 ProPlus License). 
+>  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. <br/>  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. <br/>  Os clientes locais do Microsoft Office Online Server recebem uma licença de edição do Office Online se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, Office Standard ou Office 365 ProPlus License). 
   
 > [!NOTE]
 > Quando você abre um documento do Office, seja como anexo de email do Outlook ou de uma biblioteca de documentos do SharePoint, o documento é aberto no Office Online em modo somente leitura. Para editar um documento no Office Online (modo de edição), será preciso uma licença do pacote Office 365, como Office 365 Enterprise E1. Para editar um documento no aplicativo da área de trabalho, você precisa de uma licença do pacote da área de trabalho do Office, como uma assinatura do Office 365 ProPlus ou de uma versão instalada do Office Professional Plus 2010. 
@@ -45,7 +44,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |**Recursos do aplicativo** <br/> |**Word Online** <br/> |**Aplicativo da área de trabalho Word** <br/> |
 |[Guias de alinhamento e layout dinâmico](word-online.md#alignment-guides-and-live-layout) <br/> |Não  <br/> |Sim  <br/> |
 |[Aplicar estilos](word-online.md#apply-styles) <br/> |Sim  <br/> |Sim  <br/> |
-|[Gravação automática](word-online.md#autosave) <br/> |Não  <br/> |Sim  <br/> |
+|[Gravação automática](word-online.md#autosave) <br/> |Sim  <br/> |Sim  <br/> |
 |[AutoTexto](word-online.md#autotext) <br/> |Sim  <br/> |Sim  <br/> |
 |[Procurar e começar de modelos criados por profissionais](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |Sim  <br/> |Sim  <br/> |
 |[Marcadores e numeração](word-online.md#bullets-and-numbering) <br/> |Sim  <br/> |Sim  <br/> |
@@ -214,9 +213,9 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Coautoria](onenote-online.md#co-authoring) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar e gerenciar páginas e seções](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Sim  <br/> |Sim  <br/> |
 |[Baixar cópia de arquivos do Office inseridos](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |
-|[Arrastar e soltar páginas] <br/> |Sim  <br/> |Sim <br/> |
-|[Seções arrastar e soltar] <br/> |Sim  <br/> |Sim <br/> |
-|[Arrastar e soltar grupos de seções] <br/> |Não  <br/> |Sim <br/> |
+|Arrastar e soltar páginas <br/> |Sim  <br/> |Sim <br/> |
+|Arrastar e soltar seções <br/> |Sim  <br/> |Sim <br/> |
+|Arrastar e soltar grupos de seções <br/> |Não  <br/> |Sim <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Sim  <br/> |Sim  <br/> |
 |[Editar arquivos inseridos](onenote-online.md#EmbeddedFileEdit) <br/> |Não  <br/> |Sim  <br/> |
 |[Equações](onenote-online.md#equations) <br/> |Sim  <br/> |Sim  <br/> |
@@ -301,10 +300,11 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Visualização WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> o PowerPoint online oferece suporte a uma galeria de oito transições e 37 animações. Para uma seleção maior ou para criar animações personalizadas, use o aplicativo da área de trabalho PowerPoint. 
- <br/><sup>2</sup> o dispositivo em que você está trabalhando precisa dar suporte à tinta. 
- <br/> <sup>3</sup> alguns suplementos do Office estão disponíveis, mas não todos. 
- <br/><sup>4</sup> não é possível criar gráficos dinâmicos ou tabelas dinâmicas, mas você pode vê-los no visualizador. 
+><sup>1</sup> o PowerPoint online oferece suporte a uma galeria de oito transições e 37 animações. Para uma seleção maior ou para criar animações personalizadas, use o aplicativo da área de trabalho PowerPoint. 
+ <br/>
+<sup>2</sup> o dispositivo em que você está trabalhando precisa dar suporte à tinta. <br/> 
+<sup>3</sup> alguns suplementos do Office estão disponíveis, mas não todos. <br/>
+<sup>4</sup> não é possível criar gráficos dinâmicos ou tabelas dinâmicas, mas você pode vê-los no visualizador. 
   
 ## <a name="supported-file-types-for-office-online"></a>Tipos de arquivo com suporte para o Office Online
 <a name="bkmk_SupportedFileTypes"> </a>

@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>Semana de maio de 2006, 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modificado |
-| 5/6/2019 | [Descrição do Serviço do Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificado |
-| 5/7/2019 | [Descrição de Serviço do Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | modificado |
-| 5/7/2019 | [Suporte](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modificado |
-| 5/7/2019 | [Descrição do Serviço do Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificado |
-
-
 ## <a name="week-of-may-13-2019"></a>Semana de 13 de maio de 2019
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Centro de Conformidade e Segurança do Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
 | 6/7/2019 | [Limites do SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |
 | 6/7/2019 | [Descrição do Serviço do SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modificado |
+
+
+## <a name="week-of-june-10-2019"></a>Semana de 10 de junho de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 6/13/2019 | [Descrição de serviços dos aplicativos do Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
+| 6/13/2019 | [Descrição do Serviço do SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modificado |
