@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: O Microsoft SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Presente no Microsoft SharePoint Server 2013, esse serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os seguintes recursos de Sites fornecem um conjunto completo de ferramentas que pode ser usado por sua organização para criar qualquer tipo de site, além de uma única infraestrutura que simplifica o gerenciamento do site. Para saber mais detalhes, consulte Encontrar conteúdo sobre o SharePoint Online.
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342480"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130865"
 ---
 # <a name="sites"></a>Sites
 
@@ -104,7 +104,7 @@ As listas de tarefas são usadas para gerenciar o trabalho de um modo hierárqui
 ## <a name="team-notebook"></a>Bloco de anotações de equipe
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-Ao criar um site de equipe, um bloco de anotações OneNote 2013 compartilhado é automaticamente criado, como parte do site. Você pode usar esse bloco de anotações para capturar, compilar e compartilhar informações. (Esse recurso estará disponível apenas se você se inscreveu em um pacote Office 365 que inclui suporteOffice Online.)
+Ao criar um site de equipe, um bloco de anotações OneNote 2013 compartilhado é automaticamente criado, como parte do site. Você pode usar esse bloco de anotações para capturar, compilar e compartilhar informações. (Este recurso só estará disponível se você se inscrever em um pacote do Office 365 que inclui o Office para o suporte da Web.)
   
 ## <a name="variations"></a>Variações
 <a name="bkmk_Variations"> </a>

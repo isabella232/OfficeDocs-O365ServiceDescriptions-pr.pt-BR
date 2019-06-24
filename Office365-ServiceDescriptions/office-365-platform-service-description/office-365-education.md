@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office para desktop tradicional com versões baseadas em nuvem dos serviços de comunicação e colaboração de próxima geração da Microsoft, incluindo Microsoft Exchange Online, Microsoft SharePoint Online, Office Online e Microsoft Skype for Business online, para ajudar os usuários a serem produtivos em praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 4b0835673a5c78c9751f802632c3b96900237a13
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e Microsoft Skype for Business online — para ajudar os usuários a serem produtivos de praticamente qualquer lugar pela Internet.
+ms.openlocfilehash: 77ebe95029bf7602638fc23c4104766d61cf1431
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343610"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131085"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office para desktop tradicional com versões baseadas em nuvem dos serviços de comunicação e colaboração de próxima geração da Microsoft, incluindo Microsoft Exchange Online, Microsoft SharePoint Online, Office Online e Microsoft Skype for Business online, para ajudar os usuários a serem produtivos em praticamente qualquer lugar através da Internet.
+O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e Microsoft Skype for Business online — para ajudar os usuários a serem produtivos de praticamente qualquer lugar pela Internet.
   
 Este artigo lista os recursos para os planos de educação do Office 365 (a1, a3 e a5). Para comparar recursos entre planos comerciais e empresariais, confira [comparar planos do Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda) ou, para obter uma lista mais detalhada dos recursos, consulte a descrição de serviço relevante nas [descrições do serviço do Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library).
   
@@ -38,7 +38,7 @@ Cada plano de educação do Office 365 inclui vários serviços individuais, com
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Skype for Business Online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
-|Office Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos do Office  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Project Online  <br/> |Não<sup>1</sup> <br/> |Não<sup>1</sup> <br/> |Não<sup>1</sup> <br/> |
 |Power BI  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
@@ -283,27 +283,27 @@ Use a tabela a seguir para comparar a disponibilidade de recursos nos planos de 
 > <sup>1</sup> o AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente a fim de habilitar os recursos de IRM compatíveis. <br/> 
 <sup>2</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
 <sup>3</sup> algumas escolas estão qualificadas para educação Plus, que inclui o Office 365 ProPlus e permite que os alunos, professores e funcionários instalem a versão mais recente do Office em até cinco computadores PC ou Mac e em outros dispositivos móveis, incluindo tablets do Windows e o iPad. As escolas se qualificam para o Education Plus do Office 365 quando licenciam o Office em toda a instituição para professores e funcionários por meio do Registro para Soluções Educacionais, Soluções Educacionais de Assinatura Open Value ou um contrato escolar. Observe que o Access e o Publisher estão disponíveis apenas em PCs. O OneNote para Mac está disponível como um download separado na Mac App Store. <br/> 
-<sup>4</sup> as versões do Office Online estão incluídas. Para obter mais informações, consulte [recursos do Office Online](office-365-education.md#office-online-features)
+<sup>4</sup> o Office para as versões da Web está incluído. Para obter mais informações, consulte [Office para os recursos da Web](office-365-education.md#office-for-the-web-features)
   
-## <a name="office-online-features"></a>Recursos do Office Online
+## <a name="office-for-the-web-features"></a>Office para recursos da Web
 <a name="OfcOnline"> </a>
 
-A tabela a seguir fornece links para comparações dos recursos de recursos do Office Online disponíveis nos planos de educação do Office 365 para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as comparações para descobrir quais recursos estão disponíveis no Office Online e clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização podem precisar da capacidade avançada de gráficos do aplicativo da área de trabalho Excel, enquanto outros podem somente precisar exibir e fazer edições leves em documentos do Word e em apresentações do PowerPoint com os Office Online.
+A tabela a seguir fornece links para comparações do Office para recursos de recursos da Web disponíveis nos planos de educação do Office 365 para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as comparações para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização podem precisar da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras podem precisar apenas exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web.
   
 > [!NOTE]
 > - Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. <br/>
 > - As tabelas não são uma lista abrangente de recursos do Microsoft Office. <br/> 
 > - O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. <br/>
-> - Os clientes locais do Microsoft Office Online Server recebem uma licença de edição do Office Online se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, Office Standard ou Office 365 ProPlus License). 
+> - Os clientes locais do Microsoft Office Online Server recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Office 365 ProPlus License). 
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**Link para a comparação detalhada de recursos** <br/> |
-|Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio Online  <br/> |[Comparação de recursos do Visio online](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-online-plans) <br/> |
+|**Application** <br/> |**Office para a Web** <br/> |**Link para a comparação detalhada de recursos** <br/> |
+|Word  <br/> |Word para a Web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel para a Web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote para a Web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint para a Web <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Visio Online  <br/> |[Comparação de recursos do Visio online](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Recursos do Exchange Online 
 <a name="OfcOnline"> </a>
@@ -799,9 +799,9 @@ Os seguintes limites se aplicam ao Microsoft Exchange ActiveSync, um protocolo d
 ## <a name="onedrive-for-business-features"></a>Recursos do OneDrive for Business
 <a name="OfcOnline"> </a>
 
-O OneDrive for Business (anteriormente SkyDrive pro) é um espaço de armazenamento online pessoal na nuvem. Use-o para armazenar seus arquivos de trabalho em vários dispositivos com facilidade e segurança. Compartilhe seus arquivos com colegas conforme necessário e edite documentos do Office juntos em tempo real com o Office Online. Sincronizar arquivos com o computador local usando o aplicativo de sincronização do OneDrive for Business.
+O OneDrive for Business (anteriormente SkyDrive pro) é um espaço de armazenamento online pessoal na nuvem. Use-o para armazenar seus arquivos de trabalho em vários dispositivos com facilidade e segurança. Compartilhe seus arquivos com colegas, conforme necessário, e edite documentos do Office juntos em tempo real com o Office para a Web. Sincronizar arquivos com o computador local usando o aplicativo de sincronização do OneDrive for Business.
   
-O OneDrive for Business está incluído no SharePoint Online e também pode ser adquirido como um plano independente. A opção independente do OneDrive for Business inclui os Office Online. Para saber mais, confira [o que é o onedrive for Business?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
+O OneDrive for Business está incluído no SharePoint Online e também pode ser adquirido como um plano independente. A opção independente do OneDrive for Business inclui o Office para a Web. Para saber mais, confira [o que é o onedrive for Business?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
   
 ### <a name="system-requirements"></a>Requisitos do sistema
 
@@ -920,7 +920,7 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |[Organizador de conteúdo](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerente de design](../sharepoint-online-service-description/content.md#design-manager) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Conjuntos de documentos](../sharepoint-online-service-description/content.md#document-sets) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Tradução de documento no Word Online](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Tradução de documento no Word para a Web](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Pesquisa de Descoberta Eletrônica](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |[Retenção de Descoberta Eletrônica](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |[Exportação de Descoberta Eletrônica](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
@@ -935,8 +935,8 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |[Serviço de metadados gerenciados](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Navegação controlada por metadados](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Disposição em várias fases](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Office Online (criar/editar)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Office Online (visualizar)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Office para a Web (criar/editar)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Office para a Web (modo de exibição)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Office ProPlus (Osub)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |[Integração com o Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |PowerPoint Automation Services <br/> |Não  <br/> |Não  <br/> |Não  <br/> |

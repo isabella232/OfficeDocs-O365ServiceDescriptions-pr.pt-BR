@@ -1,5 +1,5 @@
 ---
-title: Excel Online
+title: Excel para a Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: O Excel online (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
-ms.openlocfilehash: f84df58c744384690d83b2db11ce96fc644ae7af
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
+ms.openlocfilehash: 36e009d1f3f59ae66c330cb9e61aee3f81b3b2cb
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343770"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130915"
 ---
-# <a name="excel-online"></a>Excel Online
+# <a name="excel-for-the-web"></a>Excel para a Web
 
-O Excel online (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office Online.
+O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
   
 > [!NOTE]
-> Pastas de trabalho que excedem 30 megabytes (MB) não podem ser exibidas no Excel online no Microsoft SharePoint Online. Para exibir arquivos maiores, você precisa ter o aplicativo de área de trabalho Excel instalado no computador. 
+> Pastas de trabalho que excedem 30 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro do Microsoft SharePoint Online. Para exibir arquivos maiores, você precisa ter o aplicativo de área de trabalho Excel instalado no computador. 
   
 > [!NOTE]
-> Para ajudá-lo a comparar ofertas, os recursos avançados listados neste artigo incluem recursos do aplicativo de área de trabalho do Excel que só estão disponíveis no pacote do Office (como Office Professional Plus, Office Standard ou Office 365 ProPlus). Para obter uma lista de todos os recursos do Office Online, como o Word online e o PowerPoint online, confira [recursos de disponibilidade nos planos do Office Online](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). 
+> Para ajudá-lo a comparar ofertas, os recursos avançados listados neste artigo incluem recursos do aplicativo de área de trabalho do Excel que só estão disponíveis no pacote do Office (como Office Professional Plus, Office Standard ou Office 365 ProPlus). Para obter uma lista de todos os recursos do Office para a Web, como o Word para a Web e o PowerPoint para a Web, consulte [recursos de disponibilidade nos planos do Office para a Web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). 
 
-Para ver qual tipo de arquivo tem suporte no Excel Online, confira [Tipos de arquivo com suporte para o Office Online](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Saiba mais sobre as diferenças entre o Excel Online e o aplicativo Excel para a área de trabalho em [Diferenças entre usar uma pasta de trabalho no navegador e no Excel](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
+Para ver qual tipo de arquivo tem suporte no Excel para a Web, confira [tipos de arquivo com suporte para o Office para a Web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Para saber mais sobre as diferenças entre o Excel para a Web e o aplicativo da área de trabalho do Excel, confira [diferenças entre usar uma pasta de trabalho no navegador e no Excel](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
   
 ## <a name="add-background-color-to-sheet-tabs"></a>Adicionar cor de plano de fundo a guias de planilha 
 <a name="bkmk_Addbackgroundcolor"></a> Adicione uma cor de preenchimento de plano de fundo às guias da planilha na parte inferior da sua pasta de trabalho para destacá-las. Para obter mais informações, consulte [Adicionar uma cor de plano de fundo a uma guia de planilha](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59). 
@@ -53,27 +53,27 @@ O controle da Linha de Tempo permite filtrar dados modelados. Trata-se de uma ma
 Use os botões de alinhamento na guia Página Inicial para mudar o alinhamento do texto.  
   
 ## <a name="apply-conditional-formatting"></a>Aplicar formatação condicional
-<a name="bkmk_Applyconditionalformatting"></a> Use um formato condicional para ajudá-lo a explorar e analisar visualmente os dados, detectar problemas críticos e identificar padrões e tendências. Saiba mais sobre como [usar a formatação condicional no Excel online](https://go.microsoft.com/fwlink/p/?LinkId=282326).
+<a name="bkmk_Applyconditionalformatting"></a> Use um formato condicional para ajudá-lo a explorar e analisar visualmente os dados, detectar problemas críticos e identificar padrões e tendências. Saiba mais sobre como [usar a formatação condicional no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=282326).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Este recurso está disponível no Excel online. Outros recursos avançados estão disponíveis somente no aplicativo da área de trabalho do Excel.
+Este recurso está disponível no Excel para a Web. Outros recursos avançados estão disponíveis somente no aplicativo da área de trabalho do Excel.
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 <a name="bkmk_Applysmartformatting"> </a>
 
-Não está disponível em Excel Online. No aplicativo da área de trabalho do Excel, os gráficos recomendados permitem que você escolha uma variedade de gráficos que são melhores para apresentar seus dados. Saiba mais sobre [como usar as recomendações de gráfico no Excel](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
+Não está disponível no Excel para a Web. No aplicativo da área de trabalho do Excel, os gráficos recomendados permitem que você escolha uma variedade de gráficos que são melhores para apresentar seus dados. Saiba mais sobre [como usar as recomendações de gráfico no Excel](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
   
 ## <a name="office-add-ins"></a>Suplementos do Office
 <a name="bkmk_AppsOfficeIntegration"> </a>
 
- Alguns, não todos, suplementos do Office estão disponíveis no Excel Online. Você pode obter um suplemento para o Excel na Office Store. Saiba mais sobre [Como obter um suplemento do Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+ Alguns, mas nem todos os suplementos do Office estão disponíveis no Excel para a Web. Você pode obter um suplemento para o Excel na Office Store. Saiba mais sobre [Como obter um suplemento do Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
   
 ## <a name="autocomplete"></a>Preenchimento automático
 <a name="bkmk_Autocomplete"> </a>
 
-O Excel Online pode completar o que você está digitando em uma célula e, se houver mais de um valor possível, exibe-os em uma lista para sua seleção.
+O Excel para a Web pode concluir o que você está digitando em uma célula e, se houver mais de um valor possível, exibi-las em uma lista que você pode escolher.
   
 ## <a name="autosum"></a>AutoSum
 <a name="bkmk_AutoSum"> </a>
@@ -101,17 +101,17 @@ Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento
 ## <a name="comment-creation"></a>Comment creation
 <a name="bkmk_Commentcreation"> </a>
 
-Você pode inserir, editar e excluir comentários no Excel Online. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Você pode inserir, editar e excluir comentários no Excel para a Web. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 <a name="bkmk_Copyandpaste"> </a>
 
-Para alcançar os melhores resultados, copie itens para outros locais da planilha usando atalhos de teclado, não o menu aberto com um clique direito ou os comandos de área de transferência no Excel Online. Saiba mais sobre [como usar os recursos copiar e colar no Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=271669).
+Para obter melhores resultados, use atalhos de teclado, não o menu do botão direito do mouse ou comandos da área de transferência no Excel para a Web, para copiar itens para outro local da planilha. Saiba mais sobre como [usar copiar e colar no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271669).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 <a name="bkmk_Createexternaldataconnections"> </a>
 
-Você pode usar o Excel Online para ver conexões de dados, mas não para criar conexões de dados externos usando Excel Online. Você precisará do aplicativo da área de trabalho do Excel para trabalhar com dados externos. Saiba mais sobre [como trabalhar com dados externos nos Serviços do Excel](https://go.microsoft.com/fwlink/p/?LinkId=282330). 
+Você pode usar o Excel para a Web para exibir conexões de dados, mas não pode criar conexões de dados externos usando o Excel para a Web. Você precisará do aplicativo da área de trabalho do Excel para trabalhar com dados externos. Saiba mais sobre [como trabalhar com dados externos nos Serviços do Excel](https://go.microsoft.com/fwlink/p/?LinkId=282330). 
   
 ## <a name="create-tables"></a>Create tables
 <a name="bkmk_CreateTables"> </a>
@@ -121,7 +121,7 @@ Crie uma tabela para organizar e analisar dados relacionados. Com tabelas, é ma
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>Criação de exibições de análises avançadas (Power View, Power Pivot, Slicers)
 <a name="bkmk_Creationadvancedanalysistools"> </a>
 
-Visualizações de análises avançadas, como Power Pivot e Power View, só estão disponíveis no aplicativo Excel para a área de trabalho. Os seguintes recursos não são compatíveis com o Excel Online. Saiba mais sobre o [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671).
+Visualizações de análises avançadas, como Power Pivot e Power View, só estão disponíveis no aplicativo Excel para a área de trabalho. Não há suporte para esses recursos no Excel para a Web. Saiba mais sobre o [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671).
   
 ## <a name="data-validation"></a>Validação de dados
 <a name="BKMK_DataValidation"> </a>
@@ -131,7 +131,7 @@ Use a validação de dados para restringir o tipo de dados ou os valores que os 
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 <a name="bkmk_DragAndDrop"> </a>
 
-Você pode mover o valor da célula em Excel Online arrastando e soltando as células de um lugar para outro.
+Você pode mover o valor da célula no Excel para a Web arrastando e soltando as células de um lugar para outro.
   
 ## <a name="dropbox"></a>Dropbox
 <a name="bkmk_Dropbox"> </a>
@@ -139,7 +139,7 @@ Você pode mover o valor da célula em Excel Online arrastando e soltando as cé
 O Dropbox é um serviço de hospedagem de arquivos que oferece armazenamento na nuvem, sincronização de arquivos, nuvem pessoal e software do cliente.
   
 ## <a name="duplicate-copy-worksheets"></a>Planilhas duplicadas (copiar)
-Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho do Excel online. Saiba mais sobre como [copiar planilhas no Excel online](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
+Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho do Excel para a Web. Saiba mais sobre como [copiar planilhas no Excel para a Web](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
 <a name="bkmk_EmbedWorkbookWeb"> </a>
@@ -174,12 +174,12 @@ Consulte as fórmulas responsáveis pelos resultados de uma célula na barra de 
 ## <a name="formula-tools--advanced"></a>Formula tools- advanced
 <a name="bkmk_AdvancedFormulaTools"> </a>
 
-O aplicativo de área de trabalho Microsoft Excel dá suporte às ferramentas de fórmula mais avançadas, como estilo de referência 3D e fórmulas de matriz. Excel Online apenas suporta a maioria das fórmulas básicas do Excel. Saiba mais sobre [fórmulas](https://go.microsoft.com/fwlink/p/?LinkId=271665).
+O aplicativo de área de trabalho Microsoft Excel dá suporte às ferramentas de fórmula mais avançadas, como estilo de referência 3D e fórmulas de matriz. O Excel para a Web só oferece suporte às fórmulas mais básicas do Excel. Saiba mais sobre [fórmulas](https://go.microsoft.com/fwlink/p/?LinkId=271665).
   
 ## <a name="freeze-panes"></a>Freeze panes
 <a name="bkmk_FreezePanes"> </a>
 
-O recurso congelar painéis está disponível na faixa de opções do Excel online. Saiba mais sobre [como congelar painéis funcionam no Excel](https://go.microsoft.com/fwlink/p/?LinkId=282331) e [consulte Dicas para o Excel online](https://go.microsoft.com/fwlink/?linkid=869873).
+O recurso congelar painéis está disponível na faixa de opções da Web do Excel. Saiba mais sobre [como congelar painéis funcionam no Excel](https://go.microsoft.com/fwlink/p/?LinkId=282331) e [consulte Dicas para o Excel para a Web](https://go.microsoft.com/fwlink/?linkid=869873).
   
 ## <a name="full-fidelity-reading-view"></a>Modo de exibição de leitura de fidelidade total
 <a name="bkmk_FullFidelityReadingView"> </a>
@@ -189,20 +189,20 @@ Tudo o que você pode ver na pasta de trabalho no navegador, em modo de exibiç�
 ## <a name="functions"></a>Funções
 <a name="bkmk_Functions"> </a>
 
-Você pode usar a maioria das mais de 400 funções de planilhas do Excel em fórmulas no Excel Online.
+Você pode usar a maioria das funções de planilha mais de 400 do Excel em fórmulas no Excel para a Web.
   
 ## <a name="goto"></a>GoTo
 <a name="BKMK_GoTo_Excel"> </a>
 
-Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência de célula e vá para esse local na planilha. Saiba mais sobre os [atalhos de teclado no Excel Online](https://go.microsoft.com/fwlink/p/?LinkID=272943).
+Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência de célula e vá para esse local na planilha. Saiba mais sobre [atalhos de teclado no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkID=272943).
  
 ## <a name="group-data"></a>Dados de grupo
-<a name="Group data"></a> Você pode agrupar ou estruturar linhas e colunas em sua planilha do Excel online. Saiba mais sobre como [agrupar dados no Excel online](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+<a name="Group data"></a> Você pode agrupar ou estruturar linhas e colunas na planilha do Excel para a Web. Saiba mais sobre como [agrupar dados no Excel para a Web](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 <a name="bkmk_HideUnhide"> </a>
 
-Você pode ocultar e reexibir linhas, colunas e planilhas em uma pasta de trabalho em Excel Online.
+Você pode ocultar e Reexibir linhas, colunas e planilhas em uma pasta de trabalho no Excel para a Web.
   
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
@@ -215,10 +215,10 @@ Crie um gráfico para representar visualmente os seus dados. Escolha dentre dive
 Selecione uma ou mais linhas antes de clicar em Inserir ou Excluir na guia Página Inicial para adicionar ou remover linhas ou colunas (uma de cada vez ou várias ao mesmo tempo) em sua planilha.
 
 ## <a name="insert-pictures"></a>Inserir imagens
-<a name="bkmk_insertpicture"></a> Adicione alguns interesses visuais inserindo imagens na planilha. Saiba mais sobre como [inserir imagens no Excel online](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
+<a name="bkmk_insertpicture"></a> Adicione alguns interesses visuais inserindo imagens na planilha. Saiba mais sobre como [inserir imagens no Excel para a Web](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
 
 ## <a name="insert-shapes"></a>Inserir formas
-<a name="bkmk_insertshapes"></a> Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas à sua planilha do Excel online. Saiba mais sobre como [adicionar formas](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+<a name="bkmk_insertshapes"></a> Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas à sua planilha do Excel para a Web. Saiba mais sobre como [adicionar formas](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
   
 ## <a name="merge-cells"></a>Merge cells
 <a name="bkmk_MergeCells"> </a>
@@ -226,7 +226,7 @@ Selecione uma ou mais linhas antes de clicar em Inserir ou Excluir na guia Pági
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
  
 ## <a name="named-ranges"></a>Intervalos nomeados
-<a name="bkmk_Namedranges"></a> Não é possível criar intervalos nomeados no Excel online, mas você pode usar os intervalos nomeados criados na área de trabalho do Excel em sua planilha no Excel online.
+<a name="bkmk_Namedranges"></a> Não é possível criar intervalos nomeados no Excel para a Web, mas você pode usar os intervalos nomeados criados na área de trabalho do Excel em sua planilha no Excel para a Web.
 
  
 ## <a name="number-formatting"></a>Number formatting
@@ -237,31 +237,31 @@ Altere o formato dos números. Escolha um formato como Moeda ou Data Abreviada e
 ## <a name="offline-viewing-and-authoring"></a>Criação e exibição offline
 <a name="bkmk_Offlineviewingauthoring"> </a>
 
-O Excel Online é iniciado pelo navegador da Internet e precisa de uma conexão com a Internet. Para acessar planilhas offline, o aplicativo de área de trabalho Microsoft Excel precisa ser instalado em seu computador e usado para ver e editar planilhas do Excel.
+O Excel para a Web é iniciado a partir de um navegador da Internet e depende de uma conexão com a Internet. Para acessar planilhas offline, o aplicativo de área de trabalho Microsoft Excel precisa ser instalado em seu computador e usado para ver e editar planilhas do Excel.
 
 ## <a name="pivottables"></a>PivotTables
-<a name="bkmk_Pivottables"></a> Você pode inserir tabelas dinâmicas na planilha do Excel online e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma [tabela dinâmica no Excel online](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
+<a name="bkmk_Pivottables"></a> Você pode inserir tabelas dinâmicas no Excel para a planilha da Web e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma [tabela dinâmica no Excel para a Web](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
 
   
 ## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
 <a name="bkmk_posttosocialnetwork"> </a>
 
-Compartilhe partes selecionadas de suas planilhas na Web, inserindo-as em suas páginas de redes sociais, em conversas do Skype for Business ou em reuniões. O Excel Online não oferece suporte a estes recursos. 
+Compartilhe partes selecionadas de suas planilhas na Web, inserindo-as em suas páginas de redes sociais, em conversas do Skype for Business ou em reuniões. O Excel para a Web não dá suporte a esses recursos. 
   
 ## <a name="power-pivot-viewing"></a>Visualização do Power Pivot
 <a name="bkmk_PowerPivotinteractivity"> </a>
 
-O Excel online permite que você exiba tabelas e gráficos do Power pivot, mas precisa que o aplicativo da área de trabalho do Excel Crie modelos de dados do Power pivot.
+O Excel para a Web permite que você exiba tabelas e gráficos do Power pivot, mas precisa que o aplicativo da área de trabalho do Excel Crie modelos de dados do Power pivot.
   
 ## <a name="power-view-viewing"></a>Power View viewing
 <a name="bkmk_powerviewinteractivity"> </a>
 
-Você pode exibir e interagir com planilhas do Power View em uma pasta de trabalho, mas não é possível criar o Power View usando o Excel Online. A criação do Power View só estará disponível com o aplicativo da área de trabalho. O Power View permite que você crie, compartilhe e explore dados em exibições interativas e prontas para apresentação. Exiba as informações em mapas, tabelas e gráficos interativos vinculados uns aos outros em uma mesma planilha. Saiba mais sobre o [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
+Você pode exibir e interagir com as folhas do Power View em uma pasta de trabalho, mas não é possível criar o Power View usando o Excel para a Web. A criação do Power View só estará disponível com o aplicativo da área de trabalho. O Power View permite que você crie, compartilhe e explore dados em exibições interativas e prontas para apresentação. Exiba as informações em mapas, tabelas e gráficos interativos vinculados uns aos outros em uma mesma planilha. Saiba mais sobre o [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
 ## <a name="print"></a>Print
 <a name="bkmk_Print"> </a>
 
-Use o comando Imprimir no Excel Online para enviar a planilha inteira ou a seleção atual para a impressora. Saiba mais sobre [como imprimir no Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=271676).
+Use o comando Imprimir no Excel para a Web para enviar a planilha inteira ou a seleção atual para a impressora. Saiba mais sobre [como imprimir no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
 ## <a name="real-time-co-authoring"></a>Coautoria em tempo real
 <a name="bkmk_Coauthoring"> </a>
@@ -271,12 +271,12 @@ Duas ou mais pessoas podem trabalhar na mesma planilha ao mesmo tempo, abrindo-a
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Recommended chart creation and editing with formatting controls
 <a name="bkmk_Advancedrecommendedchart"> </a>
 
-Apenas o aplicativo de área de trabalho Microsoft Excel dá suporte a gráficos avançados. O Excel Online não oferece suporte a estes recursos. Saiba mais sobre os [tipos de gráficos disponíveis](https://go.microsoft.com/fwlink/p/?LinkId=271666).
+Apenas o aplicativo de área de trabalho Microsoft Excel dá suporte a gráficos avançados. O Excel para a Web não dá suporte a esses recursos. Saiba mais sobre os [tipos de gráficos disponíveis](https://go.microsoft.com/fwlink/p/?LinkId=271666).
   
 ## <a name="refresh-existing-data-connections"></a>Refresh existing data connections
 <a name="bkmk_refreshdata"> </a>
 
-Se os dados em sua pasta de trabalho estiverem conectados a fontes externas, como bancos de dados, páginas da Web ou cubos de análise, você pode atualizar esses dados usando o Excel Online.
+Se os dados em sua pasta de trabalho estiverem conectados a fontes externas, como bancos de dados, páginas da Web ou cubos de análise, você pode atualizar esses dados usando o Excel para a Web.
 
 ## <a name="remove-duplicate-values"></a>Remover valores duplicados
 <a name="bkmk_Removeduplicatevalues"></a> Você pode remover valores duplicados em um intervalo ou tabela. Para obter mais informações, consulte [filtro para valores exclusivos ou remover valores duplicados](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
@@ -289,17 +289,17 @@ Clique no ícone Nova Planilha para adicionar uma planilha. Clique com o botão 
 ## <a name="rename-file-while-workbook-is-open"></a>Renomear o arquivo com a pasta de trabalho aberta
 <a name="bkmk_RenameFileWorkbookOpen"> </a>
 
-No Excel Online, você pode renomear um arquivo da pasta de trabalho sem fechá-la clicando no nome de arquivo no cabeçalho e digitando um novo nome. Para renomear um arquivo usando o aplicativo da área de trabalho Excel, feche o arquivo, navegue para seu local no dispositivo e renomeie o arquivo.
+No Excel para a Web, você pode renomear um arquivo de pasta de trabalho sem fechá-lo clicando no nome do arquivo no cabeçalho e digitando um novo nome. Para renomear um arquivo usando o aplicativo da área de trabalho Excel, feche o arquivo, navegue para seu local no dispositivo e renomeie o arquivo.
   
 ## <a name="replace"></a>Substituir
 <a name="bkmk_Replace"> </a>
 
-Não está disponível em Excel Online. Se o aplicativo de área de trabalho Excel estiver instalado em seu computador, você poderá usar o Excel para localizar e substituir conteúdo em um documento. Saiba mais sobre como [usar localizar e substituir no Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
+Não está disponível no Excel para a Web. Se o aplicativo de área de trabalho Excel estiver instalado em seu computador, você poderá usar o Excel para localizar e substituir conteúdo em um documento. Saiba mais sobre como [usar localizar e substituir no Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
 ## <a name="rights-management-irm-and-password-security"></a>Rights Management: IRM and password security
 <a name="bkmk_RightsManagement"> </a>
 
- Proteja suas pastas de trabalho usando senhas, permissões e outras restrições no aplicativo da área de trabalho Excel. No Excel Online, você pode carregar e interagir com as pastas de trabalho que contêm uma Proteção da planilha, que impede que os usuários selecionem ou digitem nas células protegidas. Saiba mais sobre a [proteção de pastas de trabalho do Excel](https://go.microsoft.com/fwlink/p/?LinkId=271672).
+ Proteja suas pastas de trabalho usando senhas, permissões e outras restrições no aplicativo da área de trabalho Excel. No Excel para a Web, você pode carregar e interagir com pastas de trabalho que contêm proteção de planilha, o que impede que os usuários selecionem ou digitem em células protegidas. Saiba mais sobre a [proteção de pastas de trabalho do Excel](https://go.microsoft.com/fwlink/p/?LinkId=271672).
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 <a name="bkmk_SaveDownload"> </a>
@@ -309,7 +309,7 @@ Quer ter sua própria cópia da pasta de trabalho? Use o comando Salvar como na 
 ## <a name="share"></a>Compartilhar
 <a name="bkmk_Share"> </a>
 
-Processo de um clique que envia um link para que outros vejam ou editem o documento. Saiba mais sobre [usando o Office Online para trabalhar junto no Office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
+Processo de um clique que envia um link para que outros vejam ou editem o documento. Saiba mais sobre como [usar o Office para a Web para trabalhar em conjunto no office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
 ## <a name="sheet-protection"></a>Proteção da planilha
 <a name="bkmk_SheetProtection"> </a>
@@ -319,35 +319,35 @@ Ao compartilhar um arquivo do Excel com outros usuários, você pode proteger a 
 ## <a name="slicer-viewing"></a>Exibição de segmentação de dados
 <a name="bkmk_Slicerviewing"> </a>
 
-Exiba segmentações de dados em sua planilha e filtre dados clicando nos botões de segmentação de dados. Você não pode criar ou editar segmentações de dados no Excel Online.
+Exiba segmentações de dados em sua planilha e filtre dados clicando nos botões de segmentação de dados. Você não pode criar ou editar segmentações de, no Excel, para a Web.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 <a name="bkmk_Sortfilterdata"> </a>
 
-No Excel Online, você pode exibir e reordenar todas as planilhas, classificar e filtrar os dados e extrair para os detalhes do PivotTables.
+No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar os dados e detalhar os detalhes das tabelas dinâmicas.
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Spreadsheet audit and compliance
 <a name="bkmk_Spreadsheetauditcompliance"> </a>
 
-No aplicativo de área de trabalho Microsoft Excel, você pode usar os recursos de pesquisa e comparação para comparar versões de uma pasta de trabalho, verificar se há problemas ou inconsistências em uma pasta de trabalho e ver links entre a pasta de trabalho e as planilhas. O Excel Online não oferece suporte a estes recursos. Saiba mais sobre [o que você pode fazer com o recurso Pesquisa de Planilhas](https://go.microsoft.com/fwlink/p/?LinkId=271677).
+No aplicativo de área de trabalho Microsoft Excel, você pode usar os recursos de pesquisa e comparação para comparar versões de uma pasta de trabalho, verificar se há problemas ou inconsistências em uma pasta de trabalho e ver links entre a pasta de trabalho e as planilhas. O Excel para a Web não dá suporte a esses recursos. Saiba mais sobre [o que você pode fazer com o recurso Pesquisa de Planilhas](https://go.microsoft.com/fwlink/p/?LinkId=271677).
   
 ## <a name="status-bar-aggregates"></a>Status bar aggregates
 <a name="bkmk_StatusBarAggregates"> </a>
 
-Quando você seleciona um grupo de células no Excel Online, pode ver SUM, AVERAGE e COUNT na barra de status. Você também pode personalizar a barra de status escolhendo quais conjuntos agregados deseja ver.
+Ao selecionar um grupo de células no Excel para a Web, você pode ver a soma, média e contar na barra de status. Você também pode personalizar a barra de status escolhendo quais conjuntos agregados deseja ver.
   
 ## <a name="surveys"></a>Pesquisas
 <a name="bkmk_Surveys"> </a>
 
-Use Pesquisar para enviar um formulário do Excel Online para usuários para que possam preencher. Respostas serão compiladas automaticamente em uma planilha online. Saiba mais sobre [pesquisas no Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
+Use a pesquisa para enviar um Excel para o formulário da Web aos usuários que eles podem preencher. As respostas serão compiladas automaticamente em uma planilha online. Saiba mais sobre [pesquisas no Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
   
 ## <a name="tell-me"></a>Diga-me
 <a name="bkmk_Tell_Me_Excel"> </a>
 
-Quando você precisar realizar alguma coisa em Excel Online mas não sabe como, você pode usar o recurso de pesquisa Diga-Me para encontrar rapidamente o que você está procurando. Diga-Me compreende o que você está tentando realizar e o ajuda a fazer isso mais rápido fazendo sugestões.
+Quando você precisa realizar algo no Excel para a Web, mas não sabe como, você pode usar o recurso de pesquisa diga-me para encontrar rapidamente o que você está procurando. Diga-Me compreende o que você está tentando realizar e o ajuda a fazer isso mais rápido fazendo sugestões.
 
 ## <a name="text-formatting"></a>Formatação de texto
-<a name="bkmk_Textformatting"></a> Você pode aplicar várias opções de formatação de texto, incluindo tachado, aumentando/diminuindo o recuo no Excel online.
+<a name="bkmk_Textformatting"></a> Você pode aplicar várias opções de formatação de texto, incluindo tachado, aumentando/diminuindo o recuo no Excel para a Web.
 
 ## <a name="total-data"></a>Dados totais
 <a name="bkmk_Toaldata"></a> Você pode rapidamente totalizar dados em uma tabela clicando em alternar linha de total em Formatar como tabela na guia página inicial. 
@@ -356,24 +356,24 @@ Quando você precisar realizar alguma coisa em Excel Online mas não sabe como, 
 ## <a name="undo-and-redo"></a>Desfazer e refazer
 <a name="bkmk_UndoRedo"> </a>
 
-Excel Online salva seu trabalho automaticamente. Se você errar, use Desfazer ou pressione Ctrl + Z, e use Refazer ou pressione Ctrl + Y. Saiba mais sobre [atalhos de teclado no Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=272943).
+O Excel para a Web salva seu trabalho automaticamente. Se você cometer um erro, use desfazer ou pressione CTRL + Z e refaça ou pressione Ctrl + Y. saiba mais sobre [atalhos de teclado no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
   
 ## <a name="vba-and-macro-scripting"></a>VBA and macro scripting
 <a name="bkmk_VBAMacrosscripting"> </a>
 
-O aplicativo de área de trabalho Microsoft Excel é uma ferramenta extremamente poderosa para manipular, analisar e apresentar dados. Algumas vezes, mesmo com todo esse vasto conjunto de recursos, sua organização pode achar mais fácil usar o Visual Basic for Applications (VBA), uma linguagem de programação, para criar macros que realizam tarefas comuns e repetitivas, ou fazer tarefas que a interface de usuário (IU) não parece capaz de realizar. Você não pode criar macros com o VBA no Excel Online, mas pode abrir e editar planilhas com o VBA ativado sem remover (ou corromper) o VBA contido no arquivo. Saiba mais sobre a [introdução às macros](https://go.microsoft.com/fwlink/p/?LinkId=271678).
+O aplicativo de área de trabalho Microsoft Excel é uma ferramenta extremamente poderosa para manipular, analisar e apresentar dados. Algumas vezes, mesmo com todo esse vasto conjunto de recursos, sua organização pode achar mais fácil usar o Visual Basic for Applications (VBA), uma linguagem de programação, para criar macros que realizam tarefas comuns e repetitivas, ou fazer tarefas que a interface de usuário (IU) não parece capaz de realizar. Você não pode criar macros com o VBA no Excel para a Web, mas pode abrir e editar planilhas habilitadas para VBA sem remover (ou corromper) o VBA contido no arquivo. Saiba mais sobre a [introdução às macros](https://go.microsoft.com/fwlink/p/?LinkId=271678).
   
 ## <a name="view-3d-charts"></a>View 3D charts
 <a name="bkmk_View3dcharts"> </a>
 
-Exiba gráficos 3D em sua planilha. Você não pode criar ou editar gráficos 3D em Excel Online.
+Exiba gráficos 3D em sua planilha. Você não pode criar ou editar gráficos 3D no Excel para a Web.
   
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Não está disponível em Excel Online. Você pode exibir resultados da análise "E se" em Excel Online, conforme o esperado. Para usar ferramentas de análise como Atingir Meta, Tabelas de Dados, Solver e Séries, você vai precisar do aplicativo de área de trabalho Excel. Saiba mais sobre as [diferenças de uso de uma pasta de trabalho no navegador e no aplicativo de área de trabalho Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
+Não está disponível no Excel para a Web. Você pode visualizar os resultados da análise "e se" no Excel para a Web, conforme o esperado. Para usar ferramentas de análise como Atingir Meta, Tabelas de Dados, Solver e Séries, você vai precisar do aplicativo de área de trabalho Excel. Saiba mais sobre as [diferenças de uso de uma pasta de trabalho no navegador e no aplicativo de área de trabalho Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
   
 ## <a name="feature-availability"></a>Disponibilidade do recurso
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do Serviço do Office Online](office-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Office para a descrição do serviço Web](office-online-service-description.md).

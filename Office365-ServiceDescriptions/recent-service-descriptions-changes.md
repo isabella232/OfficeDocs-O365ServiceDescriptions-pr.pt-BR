@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: As tabelas a seguir listam alterações que foram feitas recentemente ao conteúdo de descrições de serviço.
-ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8840159713f3563d55f3f894b71a1bf56c22fee6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343590"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131295"
 ---
 # <a name="recent-service-descriptions-changes"></a>Alterações recentes nas descrições de serviços
 
@@ -53,7 +53,7 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 ||[Descrição dos serviços da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Adicionou o Microsoft 365 Business.  <br/> |
 ||[Centro de conformidade &amp; de segurança do Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Entrada de limite de arquivamento alterada para "Sim" para o Office 365 Business Essentials e o Office 365 Business Premium.  <br/> |
 ||[Centro de conformidade &amp; de segurança do Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"Gerenciamento avançado de segurança" alterado para "Office 365 Cloud app Security".  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Alterou a primeira observação no tópico para "as pastas de trabalho que excedem 30 megabytes (MB) não podem ser exibidas no Excel online no Microsoft SharePoint Online." Anteriormente, a anotação diziava 10 MB.  <br/> |
+|Office para a Web  <br/> |[Excel para a Web](office-online-service-description/excel-online.md) <br/> |Alterou a primeira observação no tópico para "as pastas de trabalho que excedem 30 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro do Microsoft SharePoint Online." Anteriormente, a anotação diziava 10 MB.  <br/> |
 |OneDrive for Business  <br/> |[Descrição de serviço do OneDrive for Business](onedrive-for-business-service-description.md) <br/> |Atualização principal da descrição de serviço do OneDrive for Business.  <br/> |
    
 ## <a name="march-2018"></a>Março de 2018
@@ -63,7 +63,7 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
 |Exchange Online  <br/> |[Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Atualizações de criptografia de dados em repouso no datacenter e no Office 365 Message Encryption (OME).  <br/> |
 ||[Política e Conformidade de Mensagens](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Atualizações de criptografia de dados em repouso no datacenter e no Office 365 Message Encryption (OME).  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Atualize para congelar o suporte de painéis no Excel online.  <br/> |
+|Office para a Web  <br/> |[Excel para a Web](office-online-service-description/excel-online.md) <br/> |Atualize para congelar o suporte de painéis no Excel para a Web.  <br/> |
 |SharePoint Online  <br/> |[Descrição do serviço SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Várias atualizações e reestruturação.  <br/> |
 ||[Limites do SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Várias atualizações.  <br/> |
 |Yammer  <br/> |[Recursos de Segurança e Administração no Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |As chaves do fluxo de atividades e anotações foram removidas.  <br/> |
@@ -182,11 +182,11 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |IRM (gerenciamento de direitos de informação) atualizado usando o Windows Server AD RMS.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Foi adicionada a linha "criar senhas de aplicativo" em "gerenciamento de conta de usuário".  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Adicionado o ponteiro para &amp; a descrição do recurso centro de conformidade de segurança. (O &amp; centro de conformidade de segurança está disponível para o Office 365 Alemanha.)  <br/> |
-|Office Online  <br/> |[Descrição do Serviço do Office Online](office-online-service-description/office-online-service-description.md) <br/> |Adicionou o Visio.  <br/> |
+|Office para a Web  <br/> |[Descrição do serviço Web do Office](office-online-service-description/office-online-service-description.md) <br/> |Adicionou o Visio.  <br/> |
 |Exchange Online  <br/> |[Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Foram alterados "marcas de retenção e políticas de retenção" para as marcas de retenção e as políticas de retenção do MRM (gerenciamento de registros de mensagens).  <br/> |
 ||[Serviços de Mensagens de Voz](exchange-online-service-description/voice-message-services.md) <br/> |Atualizado para incluir um anúncio de fim de vida útil para a Unificação de mensagens do Exchange Online por meio de SBC.  <br/> |
 | Workplace Analytics  <br/> |[Descrição do serviço do Workplace Analytics](workplace-analytics-service-description.md) <br/> |Adição da nova descrição de serviço  <br/> |
 |Vários  <br/> |Vários  <br/> |O Azure RMS renomeou a proteção de informações do Azure (AIP).  <br/> |
-|Vários  <br/> |Vários  <br/> |Removido o Office Online vs. detalhes de comparação de área de trabalho do Office do Office 365 Alemanha e Office 365 operado por páginas da 21Vianet. Adicionado o ponteiro para o mesmo conteúdo na página de descrição do serviço do Office Online.  <br/> |
+|Vários  <br/> |Vários  <br/> |Removido o Office para a Web versus o detalhe de comparação da área de trabalho do Office do Office 365 Alemanha e Office 365 operado pelas páginas da 21Vianet. Adicionado o ponteiro para o mesmo conteúdo no Office para a página de descrição do serviço Web.  <br/> |
    
 

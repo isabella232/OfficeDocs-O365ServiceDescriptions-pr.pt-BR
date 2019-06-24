@@ -3,7 +3,6 @@ title: Descrição dos serviços do Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. . Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742100"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130965"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição dos serviços do Microsoft 365 Business
 
@@ -36,7 +35,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |
 |Skype for Business Online  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
-|Office Online  <br/> |Sim  <br/> |Sim  <br/> |
+|Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos do Office  <br/> |Sim  <br/> |Sim  <br/> |
 |Project Online  <br/> |Não<sup>3</sup> <br/> |Não<sup>3</sup> <br/> |
 |Power BI  <br/> |Não  <br/> |Não  <br/> |
@@ -118,7 +117,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Recursos de gerenciamento de identidade e acesso** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security e5** <br/> |
+|**Recursos de gerenciamento de identidade e acesso** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
 |MFA (autenticação multifator do Azure)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Unidades administrativas  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Descoberta de aplicativo em nuvem  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
@@ -126,14 +125,13 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Redefinição de senha de autoatendimento para identidades de nuvem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Redefinição de senha de autoatendimento com write-back do AD local  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Sincronização bidirecional de objetos de dispositivo entre diretórios locais e o Azure AD (write-back de dispositivo)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Acesso condicional (com base em grupo, local, estado do dispositivo, entrada ou risco do usuário)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|Acesso condicional (baseado em estado de grupo, local ou dispositivo)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Identidade visual da empresa (personalização de páginas de logon/painel de acesso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proxy de aplicativo  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |CAL do usuário do Microsoft Identity Manager (MIM)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Connect Health  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |SLA 99,9%  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Advanced Threat Analytics  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Acesso condicional  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |**Recursos de gerenciamento de dispositivos e aplicativos** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
 |Gerenciamento de dispositivo móvel (MDM)<sup>15</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Registro automático de MDM (gerenciamento de dispositivo móvel)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |

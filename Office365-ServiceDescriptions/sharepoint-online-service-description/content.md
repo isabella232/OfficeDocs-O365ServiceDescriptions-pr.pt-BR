@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os recursos de Conteúdo a seguir tornam o ECM (Gerenciamento de Conteúdo Corporativo) simples para todos. Eles combinam gerenciamento de conteúdo tradicional, recursos sociais e pesquisa avançada.
-ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342550"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130945"
 ---
 # <a name="content"></a>Conteúdo
 
@@ -76,12 +76,12 @@ O Gerente de Design permite que as organizações alterem páginas mestras, layo
 
 Os conjuntos de documentos permitem que os usuários armazenem, manipulem, exportem e adicionem uma descrição a vários arquivos como uma entidade única. Políticas, marcações e modelos podem ser aplicados a qualquer conjunto de documento criado. Saiba mais sobre [Conjuntos de documento](https://go.microsoft.com/fwlink/?LinkId=270954).
   
-## <a name="document-translation-in-word-online"></a>Document Translation in Word Online
+## <a name="document-translation-in-word-for-the-web"></a>Tradução de documento no Word para a Web
 <a name="bkmk_DocumentTranslationWordWebApp"> </a>
 
-No modo de exibição de Leitura, o Word Online agora possui uma opção para que as empresas possam traduzir seus documentos diretamente no navegador. Até os comentários do documento são traduzidos.
+No modo de exibição de leitura, o Word para a Web agora tem uma opção para permitir que as organizações convertam seus documentos diretamente no navegador. Até os comentários do documento são traduzidos.
   
-## <a name="ediscovery-search"></a>eDiscovery Search
+## <a name="ediscovery-search"></a>Pesquisa de Descoberta Eletrônica
 <a name="bkmk_eDiscovery_Search"> </a>
 
 A pesquisa de Descoberta Eletrônica permite que os usuários pesquisem informações armazenadas eletronicamente (ESI), que podem ser usadas como provas para o auxílio de conformidade e litígios. Conteúdo de pesquisa inclui conteúdos estruturados, como documentos e itens de lista, assim como blogs, wikis, news feeds e conteúdo de caixas de correio do Exchange. Para descobri-lo, o conteúdo precisa ser indexado pela pesquisa. Para saber mais, confira [Criar e executar consultas de Descoberta Eletrônica](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center).
@@ -141,15 +141,15 @@ A navegação controlada por metadados facilita a descoberta de conteúdo em bib
 
 As políticas de retenção podem ter várias fases, permitindo que você especifique todo o ciclo de vida do documento como uma política. Por exemplo, revisar os contratos anualmente e excluí-los depois de sete anos. Saiba mais sobre como [armazenar e gerenciar registros](https://go.microsoft.com/fwlink/?LinkId=270968).
   
-## <a name="office-online-createedit"></a>Office Online (criar/editar)
+## <a name="office-for-the-web-createedit"></a>Office para a Web (criar/editar)
 <a name="bkmk_OfficeWebAppsEdi"> </a>
 
-Se você for um cliente Office 365, então você pode criar e editar arquivos do Office automaticamente usando o Office Online de um navegador de Internet. Para saber quais são os recursos disponíveis no Office Online, consulte [Descrição do Serviço do Office Online](../office-online-service-description/office-online-service-description.md).
+Se você for um cliente do Office 365, poderá criar e editar automaticamente arquivos do Office usando o Office para a Web a partir de um navegador da Internet. Para saber quais recursos estão disponíveis no Office para a Web, confira [a descrição do serviço Web do Office](../office-online-service-description/office-online-service-description.md).
   
-## <a name="office-online-view"></a>Office Online (exibição)
+## <a name="office-for-the-web-view"></a>Office para a Web (modo de exibição)
 <a name="bkmk_OfficeWebAppsView"> </a>
 
-Por padrão, o Office Online está em modo somente exibição A funcionalidade Somente exibição é fornecida gratuitamente. Saiba mais sobre [usar o Office Online no site do SharePoint da sua organização](https://go.microsoft.com/fwlink/?LinkId=392609).
+Por padrão, o Office para a Web é somente para exibição. A funcionalidade somente exibição é fornecida gratuitamente. Saiba mais sobre como [usar o Office para a Web no site do SharePoint da sua organização](https://go.microsoft.com/fwlink/?LinkId=392609).
   
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>

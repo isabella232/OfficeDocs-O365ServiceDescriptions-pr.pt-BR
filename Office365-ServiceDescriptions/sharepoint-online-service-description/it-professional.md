@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar em projetos, armazenar dados e documentos em um local central e compartilhar informações com outras pessoas. Os seguintes recursos do SharePoint oferecem suporte a profissionais de TI na proteção e no gerenciamento do ambiente SharePoint de sua organização.
-ms.openlocfilehash: 0f285fabb62b73914966127d4d880bd5ffb6e5a1
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 70868f9c00c42318013d1fdc8449668a2461f34a
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341930"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131305"
 ---
 # <a name="it-professional"></a>Profissional de TI
 
@@ -102,7 +102,7 @@ Não disponível para clientes do SharePoint Online. A limitação de recurso fo
 ## <a name="service-application-platform"></a>Service Application Platform
 <a name="bkmk_ServiceApplicationPlatform"> </a>
 
-Os serviços do SharePoint podem ser consumidos individualmente de qualquer aplicativo da Web. Essa plataforma fornece a flexibilidade necessária para usar os serviços, dependendo das necessidades de aplicativo. Web Analytics não é mais um aplicativo de serviço. Os processos de análise e comunicação foram incorporados ao aplicativo do serviço de Pesquisa. O Office Online não é mais um aplicativo de serviço. O Office Web Apps Server agora é um produto de servidor separado. Dependendo de qual plano do Office 365 sua organização assina, o Office Online pode estar disponível aos clientes do SharePoint Online. Saiba mais sobre [aplicativos de serviço do SharePoint.](https://go.microsoft.com/fwlink/p/?LinkId=270989).
+Os serviços do SharePoint podem ser consumidos individualmente de qualquer aplicativo da Web. Essa plataforma fornece a flexibilidade necessária para usar os serviços, dependendo das necessidades de aplicativo. Web Analytics não é mais um aplicativo de serviço. Os processos de análise e comunicação foram incorporados ao aplicativo do serviço de Pesquisa. O Office para a Web não é mais um aplicativo de serviço. O Office Web Apps Server agora é um produto de servidor separado. Dependendo de qual plano do Office 365 sua organização está inscrito, o Office para a Web pode estar disponível para os clientes do SharePoint Online. Saiba mais sobre [aplicativos de serviço do SharePoint.](https://go.microsoft.com/fwlink/p/?LinkId=270989).
   
 ## <a name="sharepoint-health-analyzer"></a>SharePoint Health Analyzer
 <a name="bkmk_SharePointHealthAnalyzer"> </a>
