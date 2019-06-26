@@ -3,7 +3,6 @@ title: Office 365 GCC High e DoD
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento.
-ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343250"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233518"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
 Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento. 
   
-Contate sua equipe de contas ou um parceiro preferido para saber mais ou para iniciar o processo de validação.
+Contate sua equipe de contas ou um parceiro preferido para saber mais ou para iniciar o processo de validação. Para obter mais informações sobre como comprar, consulte [Microsoft 365 governamentais-como comprar](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
 ## <a name="how-to-use-this-service-description-section"></a>Como usar a seção Descrição de Serviço
 
@@ -56,7 +55,7 @@ A equipe do Office 365 não tem acesso à produção GCC alta e DoD. As equipes 
 |Verificação de impressão digital  <br/> |Verificação de antecedentes por impressão digital dos bancos de dados do FBI (Agência Federal de Investigação)  <br/> |
 |Departamento de Defesa IT-2  <br/> |Equipe solicitando permissões elevadas aos dados do cliente ou acesso administrativo privilegiado aos recursos do serviço de SRG do Departamento de Defesa L5 deve passar por adjudicação do Departamento de Defesa IT-2 com base em uma investigação bem-sucedida do OPM Nível 3  <br/> |
 
-<sup>1</sup> aplica-se somente ao pessoal com acesso temporário ou de posição ao conteúdo do cliente hospedado no Office 365 gcc-alta ou em nuvens DOD
+<sup>1</sup> aplica-se somente ao pessoal com acesso temporário ou de posição ao conteúdo do cliente hospedado em nuvens do Office 365 gcc-alta ou DOD.
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Nuances de recursos com base na arquitetura de nuvem compatível
 
 As assinaturas do Office 365 nos ambientes GCC High e DoD incluem os principais recursos do Exchange Online, SharePoint Online e Skype for Business. Considerando a maior certificação e a capacitação da infraestrutura, há algumas diferenças de recursos entre as ofertas gerais de negócios do Office 365 e as disponíveis no GCC High e no DoD.
@@ -93,7 +92,7 @@ Além disso, não há suporte para endereços de email não-GCC anexados a perfi
   
  **Serviços corporativos de conectividade** -a funcionalidade de BCS é suportada em cenários de conectividade nos quais as fontes de dados permanecem acessíveis dentro do limite de segurança do seu serviço de nuvem. 
   
- **Soluções de área restrita** -este recurso foi preterido e não está disponível. As soluções de área restrita devem ser migradas para o [ Modelo de extensibilidade do Suplemento do SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
+ **Soluções de área restrita** -este recurso foi preterido e não está disponível. As soluções de área restrita devem ser migradas para o [ Modelo de extensibilidade do Suplemento do SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
