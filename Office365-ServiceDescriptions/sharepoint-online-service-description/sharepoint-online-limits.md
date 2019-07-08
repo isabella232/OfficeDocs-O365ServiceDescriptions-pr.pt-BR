@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
-ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
+ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233528"
+ms.lasthandoff: 07/07/2019
+ms.locfileid: "35581310"
 ---
 # <a name="sharepoint-online-limits"></a>Limites do SharePoint Online 
 
@@ -40,9 +40,9 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
   
 ## <a name="service-limits-for-all-plans"></a>Limites de serviço para todos os planos
 
-- **Itens em listas e bibliotecas** -uma lista pode ter até 30 milhões itens e uma biblioteca pode ter até 30 milhões arquivos e pastas. Depois que 100.000 itens são adicionados a uma lista, biblioteca ou pasta, a herança de permissão para a lista, biblioteca ou pasta não pode ser alterada. Para saber mais sobre outras restrições para exibir listas grandes, confira [gerenciar grandes listas e bibliotecas no Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Para obter informações sobre caracteres que não podem ser usados em nomes de arquivos, confira [caracteres inválidos em nomes de arquivos e pastas](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Itens em listas e bibliotecas** -uma lista pode ter até 30 milhões itens e uma biblioteca pode ter até 30 milhões arquivos e pastas. Depois que 100.000 itens são adicionados a uma lista, biblioteca ou pasta, a herança de permissão para a lista, biblioteca ou pasta não pode ser alterada. Para saber mais sobre outras restrições para exibir listas grandes, confira [gerenciar grandes listas e bibliotecas no Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). 
 
-- **Tamanho do arquivo e comprimento do caminho do arquivo** -15 GB. Para saber mais sobre restrições e limites ao usar o novo cliente de sincronização do OneDrive (OneDrive. exe), confira nomes de arquivos [e tipos de arquivos inválidos no onedrive, no onedrive for Business e no SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Tamanho do arquivo e comprimento do caminho do arquivo** -15 GB. O tamanho máximo para arquivos anexados a itens de lista é de 250 MB. Para saber mais sobre restrições e limites ao usar o novo cliente de sincronização do OneDrive (OneDrive. exe), confira [nomes de arquivo e tipos de arquivo](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)inválidos.
 
 - **Movimentação e cópia nos conjuntos de sites** – 100 GB por operação. O navegador da Web deve permanecer aberto.
 
