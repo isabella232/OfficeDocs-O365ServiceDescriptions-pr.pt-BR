@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>Semana de 27 de maio de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 5/28/2019 | [Descrição dos serviços do Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
-| 5/31/2019 | [Limites do SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |
-
-
 ## <a name="week-of-june-03-2019"></a>Semana de 03 de junho de 2019
 
 
@@ -93,3 +84,11 @@
 | 6/28/2019 | [Domínios](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | modificado |
 | 6/28/2019 | [Rede](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | modificado |
 | 6/28/2019 | [Gerenciamento de Contas de Usuário](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | modificado |
+
+
+## <a name="week-of-july-01-2019"></a>Semana de 1º de julho de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 7/1/2019 | [Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modificado |
