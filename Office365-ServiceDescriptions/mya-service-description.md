@@ -2,20 +2,19 @@
 title: Descrição do serviço do MyAnalytics
 ms.author: sharik
 author: skjerland
-ms.reviewer: v-pascha
-ms.date: 03/14/2019
+ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics--recursos, distribuições, privacidade e pré-requisitos
-ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 464938e19185e360990cc9b146b670ccd3e5beca
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246497"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753820"
 ---
 # <a name="myanalytics-service-description"></a>Descrição do serviço do MyAnalytics
 
@@ -29,19 +28,19 @@ O myAnalytics processa as informações de uma maneira que protege a privacidade
 
 O myAnalytics consiste nos seguintes elementos:
 
-* O [Personal Dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard)do myAnalytics: ajuda você a refletir seus hábitos de trabalho, como o tempo que você tem disponível para o foco, suas práticas de reunião e email e sua rede.
-* [Suplemento do Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): fornece informações acionáveis no Outlook que ajudam você a se manter sobre suas tarefas e realizar mais.
-* [Resumo de email](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): fornece importantes destaques da semana anterior.
-* [Deslocamentos](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications)do myAnalytics: essas breves notificações orientadas a dados e ai aparecem no Outlook enquanto você está lendo ou redigindo um email ou um convite de reunião.
+* [Painel](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2)do myAnalytics: ajuda você a refletir em seus padrões de trabalho, como o horário que você tem disponível para o foco, suas práticas de reunião e email e sua rede.
+* [Suplemento do Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in)do insights: fornece informações acionáveis no Outlook que ajudam você a permanecer sobre suas tarefas e realizar mais.
+* [Resumo de email](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): oferece importantes destaques sobre seus padrões de trabalho em um email semanal.
+* [Sugestões internas no Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): essas sugestões rápidas, orientadas a dados e ai aparecem no Outlook enquanto você está lendo ou redigindo um email ou um convite de reunião.
 
 ## <a name="myanalytics-distributions"></a>Distribuições do myAnalytics
 
 Os elementos do myAnalytics estão disponíveis em vários níveis para usuários de diferentes planos do Microsoft Office 365, conforme descrito na tabela a seguir:
 
-| Planejar | Elementos disponíveis |
-| --- | --- |
-| Microsoft 365 E3</br>Microsoft 365 Business</br>Office 365 E3</br>Office 365 E1</br>Business Premium</br>Business Essentials | </br></br></br>[Suplemento](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in) |
-| Microsoft 365 E5</br>Office 365 Enterprise E5</br>Office 365 A5</br>Office 365 E5 para entidades sem fins lucrativos</br>Complemento do myAnalytics | </br>[Painel](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard), [suplemento](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in), Resumo de [email](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest)e deslocamentos [](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications) do myAnalytics |
+| Planejar | Plano de serviço | Elementos disponíveis |
+| --- | --- | ----- |
+| Microsoft 365 E3</br>Microsoft 365 Business</br>Office 365 E3</br>Office 365 E1</br>Business Premium</br>Business Essentials |  <br>Ideias por <br>MyAnalytics| </br></br></br>[Suplemento do Outlook do insights](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in) <br> (outros elementos myAnalytics<br> será disponibilizado no futuro)|
+| Microsoft 365 E5</br>Office 365 Enterprise E5</br>Office 365 A5</br>Office 365 E5 para entidades sem fins lucrativos</br>Complemento do myAnalytics | MyAnalytics (completo)<br>e<br>  Ideias do myAnalytics | </br>[Dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2), [suplemento do Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in), [Resumo](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)de emails e [sugestões embutidas](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications) |
 
 Para obter mais informações, consulte [disponibilidade de recursos](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 
