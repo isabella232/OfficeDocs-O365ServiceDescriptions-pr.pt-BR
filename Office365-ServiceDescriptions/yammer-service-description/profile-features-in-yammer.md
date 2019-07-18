@@ -3,7 +3,6 @@ title: Recursos de perfil no Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,50 +12,50 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Os seguintes recursos de perfil estão disponíveis no Yammer.
-ms.openlocfilehash: c98517d1a7dc51976ec4c3b20b6ad7e42f6bb94a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: e1462d97725dd2485021fbd7dc8d1b378b0c51fc
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342180"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777932"
 ---
-# <a name="profile-features-in-yammer"></a><span data-ttu-id="acfe2-103">Recursos de perfil no Yammer</span><span class="sxs-lookup"><span data-stu-id="acfe2-103">Profile Features in Yammer</span></span>
+# <a name="profile-features-in-yammer"></a><span data-ttu-id="e201f-103">Recursos de perfil no Yammer</span><span class="sxs-lookup"><span data-stu-id="e201f-103">Profile Features in Yammer</span></span>
 
-<span data-ttu-id="acfe2-104">Os seguintes recursos de perfil estão disponíveis no Yammer.</span><span class="sxs-lookup"><span data-stu-id="acfe2-104">The following profile features are available in Yammer.</span></span>
+<span data-ttu-id="e201f-104">Os seguintes recursos de perfil estão disponíveis no Yammer.</span><span class="sxs-lookup"><span data-stu-id="e201f-104">The following profile features are available in Yammer.</span></span>
   
-## <a name="user-profiles"></a><span data-ttu-id="acfe2-105">Perfis de usuário</span><span class="sxs-lookup"><span data-stu-id="acfe2-105">User Profiles</span></span>
-<span data-ttu-id="acfe2-106"><a name="bkmk_UserProfiles"> </a></span><span class="sxs-lookup"><span data-stu-id="acfe2-106"></span></span>
+## <a name="user-profiles"></a><span data-ttu-id="e201f-105">Perfis de usuário</span><span class="sxs-lookup"><span data-stu-id="e201f-105">User Profiles</span></span>
+<span data-ttu-id="e201f-106"><a name="bkmk_UserProfiles"> </a></span><span class="sxs-lookup"><span data-stu-id="e201f-106"></span></span>
 
-<span data-ttu-id="acfe2-p101">Faça o upload de uma imagem, preencha detalhes do contato e liste sua especialização. Os perfis agregam todas as suas informações, inclusive conversas e arquivos.</span><span class="sxs-lookup"><span data-stu-id="acfe2-p101">Upload a picture, fill in contact details and list your expertise. Profiles aggregate all your information, including conversations and files.</span></span>
+<span data-ttu-id="e201f-p101">Faça o upload de uma imagem, preencha detalhes do contato e liste sua especialização. Os perfis agregam todas as suas informações, inclusive conversas e arquivos.</span><span class="sxs-lookup"><span data-stu-id="e201f-p101">Upload a picture, fill in contact details and list your expertise. Profiles aggregate all your information, including conversations and files.</span></span>
   
-## <a name="expertise"></a><span data-ttu-id="acfe2-109">Especialização</span><span class="sxs-lookup"><span data-stu-id="acfe2-109">Expertise</span></span>
-<span data-ttu-id="acfe2-110"><a name="bkmk_Expertise"> </a></span><span class="sxs-lookup"><span data-stu-id="acfe2-110"></span></span>
+## <a name="expertise"></a><span data-ttu-id="e201f-109">Especialização</span><span class="sxs-lookup"><span data-stu-id="e201f-109">Expertise</span></span>
+<span data-ttu-id="e201f-110"><a name="bkmk_Expertise"> </a></span><span class="sxs-lookup"><span data-stu-id="e201f-110"></span></span>
 
-<span data-ttu-id="acfe2-p102">Alcance a empresa para encontrar as especializações necessárias. Como a Especialização é pesquisada instantaneamente, podem ser encontradas informações úteis sob demanda.</span><span class="sxs-lookup"><span data-stu-id="acfe2-p102">Reach across the company to find the experts you need. Because Expertise is instantly searchable, useful information can be found on demand.</span></span>
+<span data-ttu-id="e201f-p102">Alcance a empresa para encontrar as especializações necessárias. Como a Especialização é pesquisada instantaneamente, podem ser encontradas informações úteis sob demanda.</span><span class="sxs-lookup"><span data-stu-id="e201f-p102">Reach across the company to find the experts you need. Because Expertise is instantly searchable, useful information can be found on demand.</span></span>
   
-## <a name="member-directory"></a><span data-ttu-id="acfe2-113">Diretório de membros</span><span class="sxs-lookup"><span data-stu-id="acfe2-113">Member Directory</span></span>
-<span data-ttu-id="acfe2-114"><a name="bkmk_MemberDirectory"> </a></span><span class="sxs-lookup"><span data-stu-id="acfe2-114"></span></span>
+## <a name="member-directory"></a><span data-ttu-id="e201f-113">Diretório de membros</span><span class="sxs-lookup"><span data-stu-id="e201f-113">Member Directory</span></span>
+<span data-ttu-id="e201f-114"><a name="bkmk_MemberDirectory"> </a></span><span class="sxs-lookup"><span data-stu-id="e201f-114"></span></span>
 
-<span data-ttu-id="acfe2-115">Navegue o Diretório de membros para encontrar pessoas em sua equipe e colegas de trabalho na empresa.</span><span class="sxs-lookup"><span data-stu-id="acfe2-115">Browse the Member Directory to find people on your team and coworkers from across the company.</span></span>
+<span data-ttu-id="e201f-115">Navegue o Diretório de membros para encontrar pessoas em sua equipe e colegas de trabalho na empresa.</span><span class="sxs-lookup"><span data-stu-id="e201f-115">Browse the Member Directory to find people on your team and coworkers from across the company.</span></span>
   
-## <a name="org-chart"></a><span data-ttu-id="acfe2-116">Organograma</span><span class="sxs-lookup"><span data-stu-id="acfe2-116">Org Chart</span></span>
-<span data-ttu-id="acfe2-117"><a name="bkmk_OrgChart"> </a></span><span class="sxs-lookup"><span data-stu-id="acfe2-117"></span></span>
+## <a name="org-chart"></a><span data-ttu-id="e201f-116">Organograma</span><span class="sxs-lookup"><span data-stu-id="e201f-116">Org Chart</span></span>
+<span data-ttu-id="e201f-117"><a name="bkmk_OrgChart"> </a></span><span class="sxs-lookup"><span data-stu-id="e201f-117"></span></span>
 
-<span data-ttu-id="acfe2-p103">Adicione gerenciadores e relatórios para criar um Organograma da empresa junto com seus colegas de trabalho. As informações do Organograma aparecem automaticamente nos perfis.</span><span class="sxs-lookup"><span data-stu-id="acfe2-p103">Add managers and reports to create a company org chart together with your coworkers. Org Chart information automatically appears on profiles.</span></span>
+<span data-ttu-id="e201f-p103">Adicione gerenciadores e relatórios para criar um Organograma da empresa junto com seus colegas de trabalho. As informações do Organograma aparecem automaticamente nos perfis.</span><span class="sxs-lookup"><span data-stu-id="e201f-p103">Add managers and reports to create a company org chart together with your coworkers. Org Chart information automatically appears on profiles.</span></span>
   
-## <a name="praise"></a><span data-ttu-id="acfe2-120">Elogio</span><span class="sxs-lookup"><span data-stu-id="acfe2-120">Praise</span></span>
-<span data-ttu-id="acfe2-121"><a name="bkmk_Praise"> </a></span><span class="sxs-lookup"><span data-stu-id="acfe2-121"></span></span>
+## <a name="praise"></a><span data-ttu-id="e201f-120">Elogio</span><span class="sxs-lookup"><span data-stu-id="e201f-120">Praise</span></span>
+<span data-ttu-id="e201f-121"><a name="bkmk_Praise"> </a></span><span class="sxs-lookup"><span data-stu-id="e201f-121"></span></span>
 
-<span data-ttu-id="acfe2-p104">Dê e receba reconhecimento por um trabalho bem feito. As realizações e os crachás aparecem nos perfis na guia Elogio.</span><span class="sxs-lookup"><span data-stu-id="acfe2-p104">Give and receive recognition for a job well done. Accomplishments and badges appear on profiles in the Praise tab.</span></span>
+<span data-ttu-id="e201f-p104">Dê e receba reconhecimento por um trabalho bem feito. As realizações e os crachás aparecem nos perfis na guia Elogio.</span><span class="sxs-lookup"><span data-stu-id="e201f-p104">Give and receive recognition for a job well done. Accomplishments and badges appear on profiles in the Praise tab.</span></span>
   
-## <a name="leaderboards"></a><span data-ttu-id="acfe2-124">Classificações</span><span class="sxs-lookup"><span data-stu-id="acfe2-124">Leaderboards</span></span>
-<span data-ttu-id="acfe2-125"><a name="bkmk_Leaderboards"> </a></span><span class="sxs-lookup"><span data-stu-id="acfe2-125"></span></span>
+## <a name="leaderboards"></a><span data-ttu-id="e201f-124">Classificações</span><span class="sxs-lookup"><span data-stu-id="e201f-124">Leaderboards</span></span>
+<span data-ttu-id="e201f-125"><a name="bkmk_Leaderboards"> </a></span><span class="sxs-lookup"><span data-stu-id="e201f-125"></span></span>
 
-<span data-ttu-id="acfe2-p105">Identifique os colegas de trabalho influentes em sua rede. As classificações exibem pessoas com mais mensagens, mensagens respondidas e mensagens afins.</span><span class="sxs-lookup"><span data-stu-id="acfe2-p105">Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.</span></span>
+<span data-ttu-id="e201f-p105">Identifique os colegas de trabalho influentes em sua rede. As classificações exibem pessoas com mais mensagens, mensagens respondidas e mensagens afins.</span><span class="sxs-lookup"><span data-stu-id="e201f-p105">Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="acfe2-128">Disponibilidade do recurso</span><span class="sxs-lookup"><span data-stu-id="acfe2-128">Feature Availability</span></span>
-<span data-ttu-id="acfe2-129"><a name="bkmk_Leaderboards"> </a></span><span class="sxs-lookup"><span data-stu-id="acfe2-129"></span></span>
+## <a name="feature-availability"></a><span data-ttu-id="e201f-128">Disponibilidade do recurso</span><span class="sxs-lookup"><span data-stu-id="e201f-128">Feature Availability</span></span>
+<span data-ttu-id="e201f-129"><a name="bkmk_Leaderboards"> </a></span><span class="sxs-lookup"><span data-stu-id="e201f-129"></span></span>
 
-<span data-ttu-id="acfe2-130">Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de serviços do Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="acfe2-130">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="e201f-130">Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de serviços do Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="e201f-130">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
   
 
