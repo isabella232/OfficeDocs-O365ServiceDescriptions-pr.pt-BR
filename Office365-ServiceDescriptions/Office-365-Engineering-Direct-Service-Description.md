@@ -3,19 +3,18 @@ title: Descrição do serviço direto de engenharia do Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: O Office 365 Engineering Direct é um acréscimo de serviços de suporte de nível empresarial para um contrato de suporte do Microsoft Premier. A descrição do serviço direto de engenharia do Office 365 contém informações adicionais sobre os recursos oferecidos e os requisitos de implementação.
-ms.openlocfilehash: 68ba0a963cdf4bd28417ca3332175beeb65e5df6
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: eb890bdd2ab0fa5b01702828b0eb9a02eb7c8a91
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341850"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776452"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Descrição do serviço direto de engenharia do Office 365
 
@@ -26,4 +25,4 @@ Para obter a oferta de engenharia direta do Office 365 como um novo cliente, sua
 Se você for um grande cliente corporativo que (a) foi migrado de uma oferta herdada do Office 365 dedicada para a malha de serviços multilocatário mais recente ou (b) foi integrada como um cliente de vários locatários, o Office 365 Engineering Direct será fornecido para seu organização como um programa de suporte de transição referido como serviços de suporte avançado. A oferta de transição é fornecida sem custos para o saldo do contrato existente de serviços de assinatura do Office 365. No momento da renovação de seus serviços de assinatura, o Office 365 Engineering Direct estará disponível como oferta de suporte opcional para um custo complementar. Se comprado, um adendo de contrato separado para o pacote de serviços adicionado será executado e acrescentado ao contrato de suporte Premier existente.
 
 > [!NOTE]
-> No momento, o Office 365 Engineering Direct e o programa serviços de suporte avançado de transição não estão disponíveis para clientes herdados do ITAR-support associados à nuvem da Comunidade governamental (GCC) ou ofertas de assinatura avançada GCC do Office 365.
+> No momento, o Office 365 Engineering Direct e o programa serviços de suporte avançado de transição não estão disponíveis para clientes herdados do ITAR-Supports ou clientes afiliados às ofertas de assinatura de alta (GCC High) na nuvem da Comunidade governamental do Office 365.

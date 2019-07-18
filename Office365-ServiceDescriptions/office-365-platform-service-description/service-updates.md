@@ -3,7 +3,6 @@ title: Atualizações do Serviço
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para saber mais sobre os recursos do Office 365 que acabaram de ser lançados ou estão prestes a serem lançados, confira o Microsoft 365 Roadmap.
-ms.openlocfilehash: ae15d48a07134044eb90e3295063351d93433ef2
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: cd9de8191efb5d22644ba2901735c4be82f5ae62
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343170"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777492"
 ---
 # <a name="service-updates"></a>Atualizações do Serviço
 

@@ -3,7 +3,6 @@ title: Aplicativos do Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
-ms.openlocfilehash: 8af3a955b02478bf461df710041e0e4970868845
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 82a6678d7a019740daf6e4f5c57e9cd02d677113
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342990"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776372"
 ---
 # <a name="office-applications"></a>Aplicativos do Office
 

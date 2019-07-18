@@ -3,7 +3,6 @@ title: Alta Disponibilidade e Continuidade de Negócios
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação para a infraestrutura de email de uma organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar caixas de correio e itens excluídos.
-ms.openlocfilehash: d9aac8e2843e085bea9aa4c1e3edc0dbb0789130
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 17c53172e9b49661118c6e33754246c627e08540
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342880"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776822"
 ---
 # <a name="high-availability-and-business-continuity"></a>High Availability and Business Continuity
 

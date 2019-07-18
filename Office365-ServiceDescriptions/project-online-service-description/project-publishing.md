@@ -3,7 +3,6 @@ title: Publicação de projetos
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Os recursos de interoperabilidade do SharePoint e do Skype for Business a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 0691390ce59d1fe1d10066687d6590f45014f254
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: e38730c48d3bf94d1e9bdc6b464d682ba9d2c138
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343690"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777832"
 ---
 # <a name="project-publishing"></a>Publicação de projetos
 

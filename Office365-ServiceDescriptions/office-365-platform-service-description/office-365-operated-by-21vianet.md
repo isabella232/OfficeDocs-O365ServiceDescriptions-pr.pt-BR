@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 3b3a7f925d4d2740d0f7ce8d3643f400c5dc506a
-ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
+ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753840"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777302"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -50,13 +50,13 @@ Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individua
 |Office 365 ProPlus  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Project Online<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Power BI  <br/> |Não <br/> |Não  <br/> |Não  <br/> |Não <br/> |Não  <br/> |Não <br/> |Não <br/> |
-|Visio online<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Visio para a Web<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Yammer Enterprise  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Proteção de Informações do Azure  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
    
 <sup>1</sup> Inclui recursos como administração do Office 365, aplicativos do pacote do Office 365, gerenciamento de contas de usuários, domínios, integridade e continuidade do serviço, relatórios, atualizações de serviços, ajuda e treinamento, redes e assim por diante. Veja mais informações na tabela [Recursos da plataforma](office-365-operated-by-21vianet.md#platform-features).
 <br/><sup>2</sup> O Project Online não está incluído, mas você pode comprá-lo separadamente como um serviço complementar ou adicioná-lo gratuitamente ao plano do Office 365 A1. 
-<br/><sup>3</sup> o consumo do Visio online (recurso Exibir) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>3</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md). 
   
 ## <a name="system-requirements"></a>Requisitos do sistema
 
@@ -282,7 +282,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 <br/><sup>7</sup> o Office 365 ProPlus é compatível com a infraestrutura de área de trabalho virtual (VDI) dedicada do usuário. O Office 365 ProPlus só oferece suporte a RDS (Serviços de Área de Trabalho Remota) quando adquirido por meio de um Programa de Licenciamento por Volume. 
 <br/><sup>8</sup> A ativação de volume para o Office 365 Enterprise E3 e o Office 365 ProPlus é limitada a instalações no Windows Server 2008 R2 e mais recente com instalações da função RDS habilitada ou do Windows To Go. Em ambos os casos, os usuários que acessam essas instalações precisam ter licenças do Office 365 Enterprise E3 ou do Office 365 ProPlus. 
 <br/><sup>9</sup> O Access está disponível caso você esteja no Canal Atual ou no lançamento direcionado do Canal Adiado. Se você está no Canal Adiado, o Access estará disponível em junho de 2017. Confira mais informações em [Access incluído como parte do Office 365 Business e Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
-<br/><sup>10</sup> O Visio Online está atualmente no modo de visualização para o Office 365 operado pela 21Vianet. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>10</sup> o Visio para a Web está atualmente em versão prévia para o Office 365 operado pela 21vianet. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md). 
 <br/><sup>11</sup> Em breve no Office 365 operado pela 21Vianet. 
 <br/><sup>15</sup> serviços Google (incluindo o repositório de reprodução) não estão acessíveis dentro da China. Há vários repositórios de aplicativos mantidos por grandes fabricantes de telefone ou empresas de mecanismos de pesquisa nas quais os usuários podem instalar aplicativos móveis.
   
@@ -721,7 +721,7 @@ A versão do Office 365 operado pela 21Vianet do Office 365 é específica da Ch
 |[Modo integrado aos SSRS (serviços de relatório do SQL Server)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Segmentação de dados da linha do tempo](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Usar e Interagir com Pastas de Trabalho do Excel que Contêm Modelos de Dados](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Visio online](https://docs.microsoft.com/exchange/exchange-hybrid) <sup>14, 15</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Visio para a Web](https://docs.microsoft.com/exchange/exchange-hybrid) <sup>14, 15</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços do Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>14</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**Recursos de pesquisa** <br/> |**Office 365 Business Essentials operado pela 21Vianet** <br/> |**Office 365 Business operado pela 21Vianet** <br/> |**Office 365 Business Premium operado pela 21Vianet** <br/> |**Office 365 A1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E1 operado pela 21Vianet** <br/> |**Office 365 Enterprise E3 operado pela 21Vianet** <br/> |**Office 365 Enterprise F1 operado pela 21Vianet** <br/> |
 |Advanced Content Processing <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -824,7 +824,7 @@ A versão do Office 365 operado pela 21Vianet do Office 365 é específica da Ch
 <br/><sup>11</sup> as contas de quiosque têm funcionalidade limitada do onedrive for Business. Os clientes do Kiosk podem usar o aplicativo cliente de sincronização de pastas do OneDrive for Business para sincronizar bibliotecas de documentos de sites de equipe com um computador compartilhado e acessar documentos offline. Mas as contas Kiosk não incluem um Site Pessoal do OneDrive for Business, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB ou 5 TB de armazenamento online.
 <br/><sup>12</sup> você pode exibir documentos em qualquer navegador móvel. Para isso, é necessário instalar o aplicativo do Office Mobile para editar documentos. O Office Mobile está atualmente disponível para tablets e telefones Windows, tablets e telefones Android, iPhone e iPad. 
 <br/><sup>13</sup> a ajuda está disponível somente em inglês e em chinês simplificado. 
-<br/><sup>14</sup> o consumo do Visio online (recurso Exibir) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>14</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md). 
 <br/><sup>15</sup> K1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 K1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente. 
   
 ## <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online

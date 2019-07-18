@@ -3,7 +3,6 @@ title: Parceiros
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Como um parceiro autorizado Microsoft, o Microsoft Office 365 lhe oferece uma oportunidade de expandir sua base de clientes e criar relacionamentos duradouros com eles. Por uma taxa mensal ou anual paga a você, seus clientes podem usar serviços baseados em nuvem para que não precisem gerenciar backups de dados, hardware de servidor e atualizações de servidor. Os serviços disponíveis para você dependem dos tipos de serviços que você está autorizado a oferecer.
-ms.openlocfilehash: e2f4cf0d034708f25b187eb1626f058b89ed6dde
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 50a575da327c05d627edf99c2afd3b5812fc4dd7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343200"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777364"
 ---
 # <a name="partners"></a>Parceiros
 

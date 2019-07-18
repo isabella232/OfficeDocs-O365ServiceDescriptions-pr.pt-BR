@@ -3,7 +3,6 @@ title: Office 365 Germany
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
-ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 4a98fa9b16e68233ffb9cc76d62bd07c1eed97e7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131066"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777382"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -39,10 +38,10 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Skype for Business online  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Office 365 ProPlus<sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Office 365 ProPlus <sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Project Online <sup>3</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Power BI <sup>3</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Visio online<sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Visio para a Web <sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Yammer Enterprise  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |
 |Proteção de Informações do Azure  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
    
@@ -50,7 +49,7 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 > <sup>1</sup> serviço de assinatura baseado em nuvem com recursos relacionados, incluindo o centro de administração do Microsoft 365, onde você pode configurar usuários e domínios. <br/>
 <sup>2</sup> Compre um plano do Office 365 ProPlus separadamente. O Office 365 ProPlus está incluído no Office 365 Germany Enterprise E3 e no Office 365 Germany Enterprise E4. [A autenticação moderna](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) deve ser habilitada para uso com o Office 365 Germany. <br/>
 <sup>3</sup> o Project online e o Power bi não estão incluídos, mas podem ser comprados como um serviço complementar separado ou adicionados gratuitamente ao plano de educação do Office 365 Alemanha a1. <br/>
-<sup>4</sup> O consumo do Visio Online (recurso de visualização) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). 
+<sup>4</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md). 
   
 ## <a name="system-requirements"></a>Requisitos do sistema
 
@@ -700,7 +699,7 @@ A tabela a seguir exibe a opção independente do OneDrive for Business e os rec
 |Scorecards & Dashboards <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Modo integrado aos SSRS (serviços de relatório do SQL Server)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Segmentação de dados da linha do tempo](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Visio online](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Visio para a Web](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços do Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>4</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**Recursos de pesquisa** <br/> |**OneDrive for Business Plano 1** <br/> |**OneDrive for Business Plano 2** <br/> |**SharePoint Online (Plano 1)** <br/> |**SharePoint Online (Plano 2)** <br/> |
 |Advanced Content Processing <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -793,7 +792,7 @@ A tabela a seguir exibe a opção independente do OneDrive for Business e os rec
 > <sup>1</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um suplemento separado para habilitar os recursos de IRM compatíveis.<br/>
 <sup>2</sup> As Lojas de Aplicativos do Office e do SharePoint são serviços opcionais operados pela Microsoft Corporation ou por suas afiliadas em qualquer uma das instalações da Microsoft em todo o mundo. Os aplicativos disponíveis na Loja são fornecidos por vários desenvolvedores de aplicativo e estão sujeitos aos termos e condições e à política de privacidade do desenvolvedor do aplicativo. O uso de qualquer um desses aplicativos pode resultar na transferência, armazenamento ou processamento de seus dados em um país/região em que o desenvolvedor do aplicativo, suas afiliadas ou provedores de serviços mantenham instalações. A disponibilidade de aplicativos e métodos de pagamento específicos depende da sua região e do serviço. Examine cuidadosamente os termos e condições e as declarações de privacidade do desenvolvedor do aplicativo antes de baixar e usar esses aplicativos.<br/>
 <sup>3</sup> Ainda não está disponível para telefones Windows.<br/> 
-<sup>4</sup> O consumo do Visio Online (recurso de visualização) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md). 
+<sup>4</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md). 
   
 ## <a name="project-online-features"></a>Recursos do Project Online
 <a name="BM1_Platform"> </a>
@@ -962,7 +961,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |[Modo integrado aos SSRS (serviços de relatório do SQL Server)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Segmentação de dados da linha do tempo](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Usar e Interagir com Pastas de Trabalho do Excel que Contêm Modelos de Dados](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Visio online](https://technet.microsoft.com/library/mt827475.aspx) <sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Visio para a Web](https://technet.microsoft.com/library/mt827475.aspx) <sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços do Visio](../sharepoint-online-service-description/insights.md#visio-services) <sup>18</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**Recursos de pesquisa** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |Advanced Content Processing <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -1068,7 +1067,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 <sup>14</sup> O site de comunidade da organização está disponível, mas não a possibilidade de ter ajuda da comunidade pública.<br/>
 <sup>15</sup> O Access 2010 não tem suporte.<br/> <sup>16</sup> Os usuários Kiosk não podem criar documentos do Office usando blocos dinâmicos. Para criar um documento, os usuários Kiosk devem fazer isso em um site do SharePoint Online, clicando em **Novo** e escolhendo um tipo de arquivo, como documento do Word, pasta de trabalho do Excel, apresentação do PowerPoint, bloco de anotações do OneNote ou pesquisa do Excel, no menu **Criar um novo arquivo**. <br/>
 <sup>17</sup> os formulários do InfoPath que contêm o código do usuário (área restrita) só podem ser consumidos no cliente avançado do InfoPath.<br/>
-<sup>18</sup> o consumo do Visio online (recurso Exibir) está disponível gratuitamente. Os recursos para criar e editar no Visio Online exigem uma licença. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md).<br/>
+<sup>18</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md).<br/>
 <sup>19</sup> K1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 K1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente. 
   
 ## <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
@@ -1213,9 +1212,9 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 <sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon. 
   
-## <a name="visio-online-features"></a>Recursos do Visio Online
+## <a name="visio-for-the-web-features"></a>Visio para recursos da Web
 <a name="BM3_Skype"> </a>
 
-O Visio online está disponível para o Office 365 Alemanha. Para saber mais sobre o Visio Online, confira o artigo [Descrição de serviço Online do Visio](../visio-online-service-description/visio-online-service-description.md).
+O Visio para a Web está disponível para o Office 365 Alemanha. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md).
   
 

@@ -3,7 +3,6 @@ title: Recursos do Pacote do Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 4/08/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343280"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776902"
 ---
 # <a name="office-365-suite-features"></a>Recursos do Pacote do Office 365
 
