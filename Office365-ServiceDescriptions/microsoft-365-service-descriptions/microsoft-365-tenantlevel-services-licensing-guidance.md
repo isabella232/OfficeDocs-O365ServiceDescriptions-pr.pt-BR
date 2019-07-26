@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para os serviços de nível de locatário do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: dea49f7c6ea3a0082968335586e146a33d4a76cc
-ms.sourcegitcommit: 983c4e2b50177883d9369f12b43e09d51e1e5f28
+ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411456"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908718"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365
 
@@ -191,7 +191,7 @@ As políticas de retenção do ADG podem ser aplicadas a usuários licenciados e
 
 ## <a name="office-365-advanced-ediscovery"></a>Descoberta Eletrônica Avançada do Office 365
 
-A descoberta eletrônica avançada fornece soluções de investigação e descoberta eletrônica para departamentos jurídicos e de ti em organizações para identificar, coletar, preservar, reduzir e revisar o conteúdo relacionado a uma investigação ou litígio antes de exportar do Office 365 System.
+A descoberta eletrônica avançada do Office 365 fornece soluções de investigação e descoberta eletrônica para departamentos jurídicos e de ti em corporações para identificar, coletar, preservar, reduzir e revisar o conteúdo relacionado a uma investigação ou litígio antes de exportar Sistema do Office 365.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
@@ -199,7 +199,7 @@ Usuários licenciados do Office 365 e5, Microsoft 365 e5, Microsoft 365 E5 confo
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-Os usuários se beneficiam da descoberta eletrônica avançada quando seu conteúdo é colocado em espera como parte de litígio ou investigação.
+Um usuário se beneficia da descoberta eletrônica avançada quando o usuário é selecionado como um funcionário de dados (uma pessoa com controle administrativo de um documento ou arquivo eletrônico) para um caso.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -207,7 +207,7 @@ Por padrão, os recursos de descoberta eletrônica avançada são habilitados no
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-As organizações podem gerenciar a descoberta eletrônica avançada em uma base por usuário e adicionar usuários a um caso de descoberta eletrônica avançada, além de fornecer aos usuários acesso de edição aos locais compartilhados por meio de permissões de descoberta eletrônica. Para obter instruções sobre como aplicar permissões de descoberta eletrônica avançada a usuários licenciados, consulte [atribuir permissões de descoberta eletrônica no centro de conformidade de & de segurança](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+os administradores de descoberta eletrônica podem selecionar usuários específicos como responsáveis por dados para um caso usando a ferramenta de gerenciamento do responsáveis pela descoberta eletrônica avançada, conforme descrito em [Adicionar responsáveis a um caso de descoberta eletrônica avançada](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case).
 
 ## <a name="office-365-customer-key"></a>Chave de cliente do Office 365
 
@@ -255,7 +255,7 @@ A Microsoft não se compromete a fornecer solicitações de aprovação de contr
 
 ## <a name="privileged-access-management-in-office-365"></a>Gerenciamento de acesso privilegiado no Office 365
 
-O gerenciamento de acesso privilegiado (PAM) fornece controle de acesso granular sobre tarefas administrativas privilegiadas no Office 365. Após habilitar o gerenciamento de acesso privilegiado, os usuários precisarão solicitar acesso just-in-time por meio de um fluxo de trabalho de aprovação com alto escopo e limite de tempo para concluir tarefas elevadas e privilegiadas.
+O gerenciamento de acesso privilegiado (PAM) fornece controle de acesso granular sobre tarefas administrativas privilegiadas no Office 365. Depois de habilitar o PAM, os usuários precisarão solicitar acesso just-in-time por meio de um fluxo de trabalho de aprovação com alto escopo e limite de tempo para concluir tarefas elevadas e privilegiadas.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
@@ -293,21 +293,21 @@ Por padrão, os emails do Exchange Online, os sites do SharePoint e as contas do
 
 Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança do Office 365, em**locais**de **prevenção** > de perda de dados.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-conversations"></a>Prevenção de perda de dados para chat de equipes e conversas de canal
+## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Prevenção de perda de dados para chat de equipes e mensagens de canal
 
-Com a prevenção de perda de dados (DLP) para chat de equipes e conversas de canal, as organizações podem bloquear mensagens em chats e conversas de canal que contêm informações confidenciais, como informações financeiras, informações de identificação pessoal informações relacionadas à integridade ou outras informações confidenciais.
+Com a prevenção de perda de dados (DLP) para mensagens de chat e de canal do Teams, as organizações podem bloquear chats e mensagens de canal que contenham informações confidenciais, como informações financeiras, informações de identificação pessoal, informações relacionadas à saúde ou outras informações confidenciais.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
-Usuários licenciados do Office 365 e5, Microsoft 365 e5, Microsoft 365 E5 conformidade e conformidade avançada do Office 365 podem se beneficiar do DLP para o chat de equipes e conversas de canal.
+Usuários licenciados do Office 365 e5, Microsoft 365 e5, Microsoft 365 E5 conformidade e o Office 365 Advanced Compliance podem se beneficiar de DLP para o Teams chat e mensagens de canal.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-Os remetentes se beneficiam com informações confidenciais em suas mensagens de chat de saída e de conversa de canal inspecionadas para obter informações confidenciais, conforme configurado na política de DLP da organização.
+Os remetentes se beneficiam com informações confidenciais em seus chat de saída e mensagens de canal inspecionadas para obter informações confidenciais, conforme configurado na política de DLP da organização.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Por padrão, o chat do Microsoft Teams e as conversas de canal são um *local habilitado (carga de trabalho)* para esses recursos de DLP para todos os usuários no locatário. Para obter mais informações sobre como usar políticas de DLP, consulte [Overview of Data Loss Prevention](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Por padrão, as mensagens de chat e de canal do teams são um *local habilitado (carga de trabalho)* para esses recursos de DLP para todos os usuários no locatário. Para obter mais informações sobre como usar políticas de DLP, consulte [Overview of Data Loss Prevention](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
@@ -359,3 +359,23 @@ Os administradores criam e gerenciam políticas avançadas de criptografia de me
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
 Os administradores devem aplicar regras de fluxo de email para a criptografia de mensagens avançada somente a usuários licenciados. Para obter mais informações sobre a definição de regras de fluxo de emails, consulte [definir regras de fluxo de email para criptografar mensagens de email no Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
+
+## <a name="supervision-policies"></a>Políticas de supervisão
+
+As políticas de supervisão no Office 365 permitem que você capture comunicações de funcionários para verificação por revisores designados. Você pode definir políticas específicas que capturam emails internos e externos, Microsoft Teams ou comunicações de terceiros em sua organização. Os revisores podem, então, examinar as mensagens para garantir que estejam em conformidade com os padrões de mensagem da sua organização e as resolvem com o tipo de classificação.
+
+### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
+
+Usuários licenciados do Office 365 e5, Microsoft 365 e5, Microsoft 365 E5 conformidade e conformidade avançada do Office 365 podem se beneficiar de políticas de supervisão.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
+
+Os usuários se beneficiam do serviço com suas comunicações monitoradas por políticas de supervisão.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
+
+Os administradores criam políticas de supervisão no centro de conformidade de & de segurança. Essas políticas definem quais comunicações e usuários estão sujeitos a análise na organização, definem condições personalizadas que as comunicações devem atender e especificam quem deve realizar revisões.
+ 
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
+
+Os administradores escolhem usuários ou grupos específicos para incluir em uma política de supervisão. Ao escolher um grupo, também é possível selecionar usuários específicos no grupo para excluir da política de supervisão. Para obter mais informações sobre políticas de supervisão, consulte [políticas de supervisão no Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
