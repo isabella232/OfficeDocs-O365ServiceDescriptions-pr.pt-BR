@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Os seguintes limites existem atualmente para o Exchange Online Protection. Estes limites não são configuráveis, a menos que haja outra regra nesse sentido.
-ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776702"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928400"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites do Exchange Online Protection
 
@@ -38,7 +38,7 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Estes
     
 - **Limite de adiamento de mensagens** As mensagens em adiamento permanecerão nas filas por 2 dias. As tentativas de repetição de mensagens baseiam-se no tipo de erro recebido do sistema de mensagens do destinatário. As mensagens são repetidas a cada 15 minutos. 
     
-- **Período de retenção da quarentena de spam** Por padrão, as mensagens de spam enviadas para a quarentena são retidas por 15 dias. Os administradores podem reduzir este valor usando as diretivas de filtro de conteúdo. 
+- **Período de retenção de quarentena de spam** Por padrão, as mensagens de spam enviadas para a quarentena são mantidas por 30 dias. Os administradores podem reduzir este valor usando as diretivas de filtro de conteúdo. 
     
 - **Notificações da quarentena de spam para usuário final** Por padrão, e se estiverem habilitadas, as notificações da quarentena de spam são enviadas a cada 3 dias. Elas podem ser configuradas para envio diário ou até de 15 em 15 dias. 
     
@@ -55,7 +55,7 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Estes
 |Limite de remetentes bloqueados  <br/> |1.024 entradas  <br/> |1.024 entradas  <br/> ||
 |Limite da lista de IP Permitidos e de IP Bloqueados  <br/> |1273 entradas  <br/> |1273 entradas  <br/> |1273 entradas  <br/> |
 |Limite de adiamento de mensagens  <br/> |2 dias, repetida a cada 15 minutos  <br/> |2 dias, repetida a cada 15 minutos  <br/> |2 dias, repetida a cada 15 minutos  <br/> |
-|Período de retenção da quarentena de spam  <br/> |15 dias por padrão, mas pode ser reduzido  <br/> |15 dias por padrão, mas pode ser reduzido  <br/> |15 dias por padrão, mas pode ser reduzido  <br/> |
+|Período de retenção da quarentena de spam  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |
 |Notificações da quarentena de spam para usuário final  <br/> |3 dias por padrão, configurável de 1 a 15 dias  <br/> |3 dias por padrão, configurável de 1 a 15 dias  <br/> |3 dias por padrão, configurável de 1 a 15 dias  <br/> |
    
 

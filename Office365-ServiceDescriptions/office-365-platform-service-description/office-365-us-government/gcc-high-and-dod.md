@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento.
-ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233518"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928410"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -76,15 +76,17 @@ As assinaturas do Office 365 nos ambientes GCC High e DoD incluem os principais 
     
 4. Pessoas específicas
     
-Os clientes que usam o SharePoint Online e o OneDrive for Business nos ambientes GCC High ou DoD podem manter os documentos privados (primeira opção), compartilhar com qualquer pessoa em sua organização (segunda opção), compartilhar com qualquer pessoa que tenha o link para o documento (terceira opção) e compartilhar com pessoas específicas somente em ambientes GCC de alta e DoD (quarta opção); Obviamente, essas opções também podem ser restringidas com base nos controles de acesso de nível de locatário.
+Os clientes que usam o SharePoint Online e o OneDrive for Business nos ambientes GCC High ou DoD podem manter os documentos privados (primeira opção), compartilhar com qualquer pessoa em sua organização (segunda opção), compartilhar com qualquer pessoa que tenha o link para o documento (terceira opção) e compartilhar com pessoas específicas (opção quarta). Essas opções também podem ser restringidas com base nos controles de acesso de nível de locatário.
+
+Ao compartilhar com pessoas específicas, o SharePoint verificará se os usuários são os destinatários pretendidos de um link enviando-lhes uma senha de uso único para o endereço de email que foi compartilhado. No entanto, quando um locatário GCC-alto é compartilhadas com outro locatário GCC, uma conta de convidado será criada para o destinatário no Azure AD e entrará com seu nome de usuário e senha.
   
-Os High locatários GCC podem ser compartilhados somente com outros grandes locatários. Por exemplo:
+Outros exemplos:
   
-- O GCC High locatário A pode compartilhar com o GCC High locatário B.
+- O GCC High locatário A pode compartilhar com o GCC High locatário B, e B os usuários entram usando o nome de usuário e a senha do Azure AD.
     
-- O locatário C não GCC pode compartilhar com GCC High locatário A ou B.
+- O locatário C não GCC pode compartilhar com GCC High locatário A ou B, e A ou B os usuários entram usando as senha de uso único.
     
-- O maior locatário A ou B do GCC não pode ser compartilhado com o High locatário C não GCC.
+- O GCC High locatário A ou B pode compartilhar com o High-GCC locatário C, e os usuários de C entram usando as mesmas senha.
     
 Além disso, não há suporte para endereços de email não-GCC anexados a perfis de usuário e não serão enviados emails de alerta. Por exemplo, no usuário local, um endereço de email do Gmail é atribuído e, em seguida, sincronizado com o locatário High do Azure GCC. O usuário A navega para uma biblioteca e cria um alerta para qualquer alteração. O alerta não será enviado para o endereço do gmail.
   
@@ -92,7 +94,7 @@ Além disso, não há suporte para endereços de email não-GCC anexados a perfi
   
  **Serviços corporativos de conectividade** -a funcionalidade de BCS é suportada em cenários de conectividade nos quais as fontes de dados permanecem acessíveis dentro do limite de segurança do seu serviço de nuvem. 
   
- **Soluções de área restrita** -este recurso foi preterido e não está disponível. As soluções de área restrita devem ser migradas para o [ Modelo de extensibilidade do Suplemento do SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
+ **Soluções de área restrita** -este recurso foi preterido e não está disponível. As soluções de área restrita devem ser migradas para o [modelo de extensibilidade de suplementos do SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
