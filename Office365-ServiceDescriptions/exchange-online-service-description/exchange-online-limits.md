@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
+ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928892"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35940529"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -266,13 +266,15 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de tamanho de mensagem - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
 |Limite de tamanho de mensagem - Outlook para Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite de tamanho de mensagem - migração|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
+|Limite de tamanho de mensagem-Outlook para iOS e Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>5</sup>|150 MB |150 MB|150 MB|150 MB|150 MB|150 MB|
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
-|Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
+|Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Limite de anexos de arquivo|250 anexos|250 anexos|250 anexos|250 anexos|250 anexos|250 anexos|
 |Limite de tamanho de anexo de arquivo - Outlook|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
 |Limite de tamanho de anexo de arquivo – OWA <sup>6</sup>|35 MB|35 MB|35 MB|35 MB|35 MB|35 MB|
 |Limite de tamanho de anexo de arquivo - Outlook para Mac|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|Limite de tamanho de anexo de arquivo-Outlook para iOS e Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |Limite de mensagem com várias partes|250 partes|250 partes|250 partes|250 partes|250 partes|250 partes|
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|
 
@@ -289,13 +291,15 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de tamanho de mensagem - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
 |Limite de tamanho de mensagem - Outlook para Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |Limite de tamanho de mensagem - migração|Não aplicável|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
+|Limite de tamanho de mensagem-Outlook para iOS e Android |25 MB |33 MB |33 MB |33 MB |
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>6</sup>|150 MB|150 MB |150 MB |150 MB|
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>6</sup>|25 MB|25 MB |25 MB |25 MB|
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
 |Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Limite de anexos de arquivo|1024 attachments<sup>4</sup>|250 anexos|250 anexos|250 anexos|
 |Limite de tamanho de anexo de arquivo - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB|
 |Limite de tamanho de anexo de arquivo - OWA|35 MB<sup>4</sup>|35 MB|35 MB|35 MB|
 |Limite de tamanho de anexo de arquivo - Outlook para Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
+|Limite de tamanho de anexo de arquivo-Outlook para iOS e Android|25 MB |33 MB|33 MB|33 MB|
 |Limite de mensagem com várias partes|250 partes|250 partes|250 partes|250 partes|
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|
 
@@ -343,7 +347,7 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Limite de taxa de destinatários|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|
-|Limite de destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|
+|Limite de destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|
 |Limite de endereço proxy do destinatário|400|400|400|400|400|400|
 |Limite de taxa de mensagens|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|
 
@@ -468,7 +472,7 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, de tran
 |Tamanho máximo de uma regra de transporte individual|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |Limites de verificação de conteúdos de anexos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
-|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|
+|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|
 |Limite de encaminhamento|10 destinatários|10 destinatários|10 destinatários|10 destinatários|10 destinatários|10 destinatários|
 |Número de vezes que uma mensagem é redirecionada|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
 |Número de vezes em que uma mensagem é redirecionada por regras de transporte|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
