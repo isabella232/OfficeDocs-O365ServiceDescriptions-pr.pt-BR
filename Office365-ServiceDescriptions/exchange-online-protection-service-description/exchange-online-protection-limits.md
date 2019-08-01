@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Os seguintes limites existem atualmente para o Exchange Online Protection. Estes limites não são configuráveis, a menos que haja outra regra nesse sentido.
-ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928400"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051597"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites do Exchange Online Protection
 
@@ -52,7 +52,7 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Estes
 |Limite de tamanho de mensagens (incluindo anexos)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Limite de destinatários  <br/> |Confira "Limite de destinatários" acima  <br/> |500 destinatários durante o envio de uma caixa de correio hospedada; consulte "Limite de destinatários" acima para outros cenários  <br/> |Confira "Limite de destinatários" acima  <br/> |
 |Limite de remetentes seguros  <br/> |1.024 entradas  <br/> |1.024 entradas  <br/> ||
-|Limite de remetentes bloqueados  <br/> |1.024 entradas  <br/> |1.024 entradas  <br/> ||
+|Limite de remetentes bloqueados por política  <br/> |1.024 entradas  <br/> |1.024 entradas  <br/> ||
 |Limite da lista de IP Permitidos e de IP Bloqueados  <br/> |1273 entradas  <br/> |1273 entradas  <br/> |1273 entradas  <br/> |
 |Limite de adiamento de mensagens  <br/> |2 dias, repetida a cada 15 minutos  <br/> |2 dias, repetida a cada 15 minutos  <br/> |2 dias, repetida a cada 15 minutos  <br/> |
 |Período de retenção da quarentena de spam  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |
