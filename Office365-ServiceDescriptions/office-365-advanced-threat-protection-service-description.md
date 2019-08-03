@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger seus organização contra links prejudiciais em tempo real. A ATP tem recursos ricos de relatórios e de rastreamento de URL que dão aos administradores a percepção do tipo de ataques que ocorrem na sua organização.
-ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
-ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
+ms.openlocfilehash: aaa017f127ee17ce872ec7ba8fb13b78bc332048
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36058813"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171691"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do Serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -93,7 +93,8 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |Links Seguros |Sim|Sim |Sim | 
 |Políticas anti-phishing |Sim |Sim |Sim |
 |ATP para SharePoint, OneDrive e Microsoft Teams |Sim |Sim |Sim|
-|Links seguros no Teams |Sim|Sim |Sim |
+|Anexos seguros no Teams |Sim|Sim |Sim |
+|Links seguros no Teams |Não |Não |Não |
 |Relatórios em tempo real |Sim |Sim |Sim|
 |*Automação, investigação, correção e educação* |
 |Rastreadores de Ameaças |Não |Sim |Sim |
@@ -114,6 +115,16 @@ Os [anexos seguros de ATP](https://docs.microsoft.com/office365/securitycomplian
 ### <a name="safe-links"></a>Links seguros
 
 O recurso [links seguros de ATP](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protege seus usuários contra URLs mal-intencionadas em uma mensagem ou em um documento do Office. A proteção permanece sempre que eles clicam no link, pois links mal-intencionados são bloqueados dinamicamente, enquanto o acesso a links legítimos é permitido.
+
+Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
+
+- Office 365 ProPlus no Windows ou Mac
+- Office para a Web (Word para a Web, Excel para a Web, PowerPoint para a Web e OneNote para a Web)
+- Word, Excel, PowerPoint e Visio no Windows, bem como aplicativos do Office em dispositivos iOS e Android 
+
+> [!NOTE] 
+> Os usuários devem ser licenciados para a ATP, devem ser incluídos nas políticas de links seguros de ATP e devem estar conectados em seus dispositivos para que a proteção seja realizada.
+
 
 ### <a name="anti-phishing-policies"></a>Políticas anti-phishing
 
