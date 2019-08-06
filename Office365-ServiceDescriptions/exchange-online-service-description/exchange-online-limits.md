@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940529"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206841"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -410,7 +410,7 @@ Estes limites se aplicam a grupos de distribuição no catálogo de endereços c
 
 - **Limitar o envio de mensagens a grupos de distribuição grandes**: os grupos de distribuição que contêm o número de membros especificado por esse limite devem ter as opções de gerenciamento de entrega ou de aprovação de mensagem configuradas. O gerenciamento de entrega especifica uma lista de remetentes que podem enviar mensagens para o grupo de distribuição. A aprovação de mensagens especifica um ou mais moderadores que devem aprovar todas as mensagens enviadas ao grupo de distribuição.
 
-- **Tamanho máximo de mensagem para grupos de distribuição grandes**: se uma mensagem for enviada para 5.000 ou mais destinatários, o tamanho da mensagem não poderá exceder esse limite. Se o tamanho da mensagem exceder o limite, a mensagem não será entregue, e o remetente receberá uma NDR (notificação de falha na entrega). A contagem total de destinatários é determinada após a expansão do grupo de distribuição.
+- **Tamanho máximo de mensagem para grupos de distribuição grandes**: se uma mensagem for enviada para 5.000 ou mais destinatários, o tamanho da mensagem não poderá exceder esse limite. Se o tamanho da mensagem exceder o limite, a mensagem não será entregue, e o remetente receberá uma NDR (notificação de falha na entrega).
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>Limites de grupos de distribuição em opções do Office 365
 
