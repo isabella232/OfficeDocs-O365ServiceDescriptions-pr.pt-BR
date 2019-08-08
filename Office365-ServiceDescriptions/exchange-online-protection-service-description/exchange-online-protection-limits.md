@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Os seguintes limites existem atualmente para o Exchange Online Protection. Estes limites não são configuráveis, a menos que haja outra regra nesse sentido.
-ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051597"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231389"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites do Exchange Online Protection
 
@@ -36,7 +36,7 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Estes
     
 - **Limite da lista de IP Permitidos e de IP Bloqueados** Ao configurar uma lista de IP Permitidos e de IP Bloqueados no filtro de conexão, você pode especificar um número máximo de 1273 entradas, em que uma entrada é também um endereço IP único ou um intervalo CIDR de endereços IP de /24 a /32. 
     
-- **Limite de adiamento de mensagens** As mensagens em adiamento permanecerão nas filas por 2 dias. As tentativas de repetição de mensagens baseiam-se no tipo de erro recebido do sistema de mensagens do destinatário. As mensagens são repetidas a cada 15 minutos. 
+- **Limite de adiamento de mensagens** As mensagens no adiamento permanecerão nas filas por 24 horas. As tentativas de repetição de mensagens baseiam-se no tipo de erro recebido do sistema de mensagens do destinatário. As mensagens são repetidas a cada 15 minutos. 
     
 - **Período de retenção de quarentena de spam** Por padrão, as mensagens de spam enviadas para a quarentena são mantidas por 30 dias. Os administradores podem reduzir este valor usando as diretivas de filtro de conteúdo. 
     
