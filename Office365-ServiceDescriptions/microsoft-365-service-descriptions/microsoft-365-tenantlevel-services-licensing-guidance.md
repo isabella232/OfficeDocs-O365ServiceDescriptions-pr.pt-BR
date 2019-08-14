@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para os serviços de nível de locatário do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
+ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258859"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384865"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365
 
@@ -63,7 +63,7 @@ Por padrão, os recursos do Azure ATP estão habilitados no nível do locatário
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-A Microsoft fornece as solicitações de aprovação do controle de acesso de lockbox do cliente para usuários licenciados.
+A Microsoft fornece recursos de detecção de ameaças para usuários licenciados.
 
 ## <a name="azure-information-protection"></a>Proteção de Informações do Azure
 
@@ -250,7 +250,7 @@ Os administradores podem ativar os controles de lockbox do cliente no centro de 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-A Microsoft não se compromete a fornecer solicitações de aprovação de controle de acesso de lockbox de cliente para usuários que não estão licenciados. Com o tempo, as verificações de licença ou a ferramenta direcionada serão adicionadas ao Lockbox do cliente para garantir que o Lockbox do cliente seja atribuível a usuários licenciados.
+A Microsoft fornece solicitações de aprovação de controle de acesso de lockbox de cliente para usuários na sua organização do Office 365.
 
 ## <a name="privileged-access-management-in-office-365"></a>Gerenciamento de acesso privilegiado no Office 365
 
