@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web. Comece com um diagrama básico para expressar ideias comuns, como ilustrar um plano, criar uma proposta ou descrever uma sequência de etapas em um processo. É simples e fácil criar diagramas de primeira classe com tipos de diagramas comumente usados e conjuntos de formas ricas. O Visio para os usuários da Web pode exibir e colaborar compartilhando diagramas e inserindo comentários em arquivos carregados no SharePoint Online ou no OneDrive for Business online.
-ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777722"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450295"
 ---
 # <a name="visio-for-the-web-service-description"></a>Visio para a descrição do serviço Web
 
@@ -32,31 +32,31 @@ A tabela a seguir compara os recursos de recurso da Web do Visio para os aplicat
 ||||
 |:-----|:-----|:-----|
 |**Recursos do aplicativo** <br/> |**Visio para a Web** <br/> |**Aplicativo da área de trabalho Visio** <br/> |
-|[Aplicar formatação avançada a texto e formas](visio-online.md#BM_1) <br/> |Sim  <br/> |Sim  <br/> |
-|[Organizar objetos](visio-online.md#BM_2) <br/> |Sim  <br/> |Sim  <br/> |
-|[Criar soluções de mashup](visio-online.md#BM_3) <br/> |Sim  <br/> |Sim  <br/> |
-|[Criar diagramas](visio-online.md#BM_4) <br/> |Sim  <br/> |Sim  <br/> |
-|[Recortar, copiar e colar](visio-online.md#BM_5) <br/> |Sim  <br/> |Sim  <br/> |
-|[Editar diagramas](visio-online.md#BM_6) <br/> |Sim  <br/> |Sim  <br/> |
-|[Incorporar diagrama em uma página do SharePoint, da Web ou de blog](visio-online.md#BM_7) <br/> |Sim  <br/> |Não  <br/> |
-|[Localizar](visio-online.md#BM_8) <br/> |Sim  <br/> |Sim  <br/> |
-|[Formatação de fontes](visio-online.md#BM_9) <br/> |Sim  <br/> |Sim  <br/> |
-|[](visio-online.md#BM_10) Hiperlinks <sup>1</sup> <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
-|[Navegação](visio-online.md#BM_11) <br/> |Sim  <br/> |Sim  <br/> |
-|[Suplementos do Office](visio-online.md#BM_12) <br/> |Não  <br/> |Sim  <br/> |
-|[Exibição offline](visio-online.md#BM_13) <br/> |Não  <br/> |Sim  <br/> |
-|[Imprimir em PDF](visio-online.md#BM_14) <br/> |Sim<sup>4</sup> <br/> |Sim  <br/> |
-|[Revisores de texto](visio-online.md#BM_15) <br/> |Não  <br/> |Sim  <br/> |
-|[Coautoria em tempo real](visio-online.md#BM_16) <br/> |Não  <br/> |Sim  <br/> |
-|[Salvar como ou Baixar uma cópia](visio-online.md#BM_17) <br/> |Sim  <br/> |Sim  <br/> |
-|[Compartilhar um diagrama](visio-online.md#BM_18) <sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[SmartArt](visio-online.md#BM_19) <br/> |Não  <br/> |Sim  <br/> |
-|[Diga-Me](visio-online.md#BM_20) <br/> |Não  <br/> |Sim  <br/> |
-|[Desfazer e refazer](visio-online.md#BM_21) <br/> |Não  <br/> |Sim  <br/> |
-|[Ver e adicionar comentários](visio-online.md#BM_22) <br/> |Sim<sup>5</sup> <br/> |Sim  <br/> |
-|[Exibir dados da forma](visio-online.md#BM_23) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
-|[Exibir arquivos do Visio no navegador](visio-online.md#BM_24) <br/> |Sim  <br/> |Sim  <br/> |
-|[Zoom](visio-online.md#BM_25) <br/> |Sim<sup>6</sup> <br/> |Sim  <br/> |
+|[Aplicar formatação avançada a texto e formas](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sim  <br/> |Sim  <br/> |
+|[Organizar objetos](visio-online.md#arrange-objects) <br/> |Sim  <br/> |Sim  <br/> |
+|[Criar soluções de mashup](visio-online.md#build-mashup-solutions) <br/> |Sim  <br/> |Sim  <br/> |
+|[Criar diagramas](visio-online.md#create-diagrams) <br/> |Sim  <br/> |Sim  <br/> |
+|[Recortar, copiar e colar](visio-online.md#cut-copy-and-paste) <br/> |Sim  <br/> |Sim  <br/> |
+|[Editar diagramas](visio-online.md#edit-diagrams) <br/> |Sim  <br/> |Sim  <br/> |
+|[Incorporar diagrama em uma página do SharePoint, da Web ou de blog](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Sim  <br/> |Não  <br/> |
+|[Localizar](visio-online.md#find) <br/> |Sim  <br/> |Sim  <br/> |
+|[Formatação de fontes](visio-online.md#font-formatting) <br/> |Sim  <br/> |Sim  <br/> |
+|[](visio-online.md#hyperlinks) Hiperlinks <sup>1</sup> <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
+|[Navegação](visio-online.md#navigation) <br/> |Sim  <br/> |Sim  <br/> |
+|[Suplementos do Office](visio-online.md#office-add-ins) <br/> |Não  <br/> |Sim  <br/> |
+|[Exibição offline](visio-online.md#offline-viewing) <br/> |Não  <br/> |Sim  <br/> |
+|[Imprimir em PDF](visio-online.md#print-to-pdf) <br/> |Sim<sup>4</sup> <br/> |Sim  <br/> |
+|[Revisores de texto](visio-online.md#proofing-tools) <br/> |Não  <br/> |Sim  <br/> |
+|[Coautoria em tempo real](visio-online.md#real-time-co-authoring) <br/> |Não  <br/> |Sim  <br/> |
+|[Salvar como ou Baixar uma cópia](visio-online.md#save-as-or-download-a-copy) <br/> |Sim  <br/> |Sim  <br/> |
+|[Compartilhar um diagrama](visio-online.md#share-a-diagram) <sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |
+|[SmartArt](visio-online.md#smartart) <br/> |Não  <br/> |Sim  <br/> |
+|[Diga-Me](visio-online.md#tell-me) <br/> |Não  <br/> |Sim  <br/> |
+|[Desfazer e refazer](visio-online.md#undo-and-redo) <br/> |Não  <br/> |Sim  <br/> |
+|[Ver e adicionar comentários](visio-online.md#view-and-add-comments) <br/> |Sim<sup>5</sup> <br/> |Sim  <br/> |
+|[Exibir dados da forma](visio-online.md#view-shape-data) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
+|[Exibir arquivos do Visio no navegador](visio-online.md#view-visio-files-in-the-browser) <br/> |Sim  <br/> |Sim  <br/> |
+|[Zoom](visio-online.md#zoom) <br/> |Sim<sup>6</sup> <br/> |Sim  <br/> |
    
 > <sup>1</sup> siga os hiperlinks (não é possível inserir ou editá-los). 
 <br/><sup>2</sup> compartilhar via SharePoint ou uma unidade para negócios e compartilhar com usuários que não têm o SharePoint ou o onedrive. 

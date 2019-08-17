@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento.
-ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928410"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450285"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -84,7 +84,7 @@ Outros exemplos:
   
 - O GCC High locatário A pode compartilhar com o GCC High locatário B, e B os usuários entram usando o nome de usuário e a senha do Azure AD.
     
-- O locatário C não GCC pode compartilhar com GCC High locatário A ou B, e A ou B os usuários entram usando as senha de uso único.
+- High-GCC o locatário C pode compartilhar com GCC High locatário A ou B, e A ou B os usuários entram usando uma senha de uso único.
     
 - O GCC High locatário A ou B pode compartilhar com o High-GCC locatário C, e os usuários de C entram usando as mesmas senha.
     
