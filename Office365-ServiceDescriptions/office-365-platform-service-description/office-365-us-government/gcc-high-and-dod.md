@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento.
-ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450285"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568114"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -108,4 +108,8 @@ A autenticação multifator usando um modelo de identidade federado permite o us
 
 O Yammer Enterprise não está disponível nos ambientes GCC High e DoD.
   
+## <a name="customer-support"></a>Suporte ao cliente
 
+A Microsoft o lembra de não compartilhar informações controladas, confidenciais ou confidenciais com a equipe de suporte ao cliente como parte do seu incidente de suporte ao usar o Office 365 GCC High/DOD, pelo menos até que você confirme a autorização do agente de suporte para exibir ou acessar esses dados.
+
+A Microsoft está comprometida em proteger sua [privacidade](https://privacy.microsoft.com/privacystatement). No entanto, o suporte do Office 365 GCC High/DoD não está incluído no limite de capacitação de serviço e não fornece garantias de conformidade de gerenciamento de dados do FedRAMP, DOD SRG, ITAR, IRS 1075 ou CJIS.
