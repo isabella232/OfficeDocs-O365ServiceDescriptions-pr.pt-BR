@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: O Microsoft Office 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office com os quais você já está familiarizado, como o Word, o Excel e o PowerPoint.
-ms.openlocfilehash: 1f13d80f04b0c9ecbd6ac85add1b6a17c6c02c45
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: f33fc698420f511ce1fdf6b14f51565e71d9cd3f
+ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908798"
+ms.lasthandoff: 08/28/2019
+ms.locfileid: "36656305"
 ---
 # <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
@@ -83,7 +83,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Power Query para Excel  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Power View para Excel  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Configurações de roaming  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
-|Ativação de computador compartilhado  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
+|Ativação de computador compartilhado  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
 |Suporte a bloqueio de armazenamento de arquivo baseado em nuvem  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
 |Tocar para localizar e reutilizar conteúdo  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Atualizações de versão  <br/> |Não  <br/> |Não  <br/>|Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
@@ -97,13 +97,13 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 <sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1.<br/>
 <sup>3</sup> O Windows Server AD RMS é um servidor local que precisa ser adquirido e gerenciado separadamente de forma a permitir os recursos de IRM com suporte.<br/>
 <sup>4</sup> Se você tiver o Office Professional Plus 2013 ou uma versão autônoma do Excel 2013, você pode baixar e usar o [Power Map Preview for Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) como um suplemento não compatível.<br/> 
-<sup>5</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para saber mais sobre os recursos do Lync Basic, confira o artigo [Clientes para o Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/> 
+<sup>5</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para obter uma comparação de recursos e recursos, consulte [Desktop Client Comparison Tables for Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
 <sup>6</sup> Algumas escolas estão qualificadas para o Education Plus, que inclui o Office 365 ProPlus e permite que alunos, professores e funcionários instalem a versão mais recente do Office em até cinco computadores Mac ou PC e em outros dispositivos móveis, incluindo tablets com Windows e iPad. As escolas se qualificam para o Education Plus do Office 365 quando licenciam o Office em toda a instituição para professores e funcionários por meio do Registro para Soluções Educacionais, Soluções Educacionais de Assinatura Open Value ou um contrato escolar. Observe que o Access e o Publisher estão disponíveis apenas em PCs. O OneNote para Mac está disponível como um download separado na Mac App Store. <br/>
 <sup>7</sup> o Office para Mac 2011 pode ser instalado, mas não ativado. <br/>
 <sup>8</sup> o Office 365 ProPlus é compatível com a infraestrutura de área de trabalho virtual (VDI) dedicada do usuário. O Office 365 ProPlus só oferece suporte a RDS (Serviços de Área de Trabalho Remota) quando adquirido por meio de um Programa de Licenciamento por Volume.<br/>
 <sup>9</sup> A ativação de volume para o Office 365 Enterprise E3 e Office 365 ProPlus é limitada a instalações no Windows Server 2008 R2 e mais recentes com instalações da função RDS habilitada ou do Windows To Go. Em ambos os casos, os usuários que acessam essas instalações precisam ter licenças do Office 365 Enterprise E3 ou Office 365 ProPlus.<br/> 
 <sup>10</sup> Os recursos do Skype for Business no Office 365 Enterprise F1 incluem o Skype for Business Plano 1 (sem compartilhamento de área de trabalho ou de aplicativos, não é possível iniciar áudio, vídeo ou webconferência com vários participantes, sem agendamento de reuniões).<br/> 
-<sup>11</sup> o acesso está disponível no momento se você estiver no canal atual ou no lançamento de destino para o canal adiado. Se você está no Canal Adiado, o Access estará disponível em junho de 2017. Confira mais informações em [Access incluído como parte do Office 365 Business e Business Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/> 
+<sup>11</sup> o acesso está disponível no momento se você estiver no canal atual ou no lançamento de destino para o canal adiado. Se você está no Canal Adiado, o Access estará disponível em junho de 2017. Confira mais informações em [Access incluído como parte do Office 365 Business e Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/> 
 <sup>12</sup> o InfoPath 2013 ainda é suportado e vem na instalação do Office Professional Plus 2016, mas não há nenhuma nova versão para o Office 2016.<br/> 
 <sup>13</sup> suporte somente para recursos básicos de edição.<br/> 
 <sup>14</sup> limitado a dispositivos com telas integradas medindo 10,1 polegadas ou menos diagonalmente.<br/> 
