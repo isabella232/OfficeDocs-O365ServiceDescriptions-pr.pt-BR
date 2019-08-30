@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: O arquivamento do Microsoft Exchange Online é uma solução de arquivamento de classe empresarial baseada em nuvem do Microsoft Office 365 para organizações que implantou o Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e posterior) ou Inscreva-se em determinados planos do Exchange Online ou do Office 365. O Arquivamento do Exchange Online auxilia essas organizações com o seus competitivos arquivamento, conformidade, regulamentação, e eDiscovery ao mesmo tempo em que simplifica a infraestrutura no local e, desse modo, reduz custos e facilita os encargos de TI.
-ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
+ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656285"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672575"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrição do Serviço de Arquivamento do Exchange Online
 
@@ -65,7 +65,7 @@ Cada usuário que acessa o serviço do Arquivamento do Exchange Online deve ter 
   
 ## <a name="unlimited-archive-storage-quota"></a>Cota de armazenamento de arquivo morto ilimitada
 
- O recurso de arquivamento ilimitado no Office 365 (chamado de arquivamento de expansão automática) fornece uma quantidade ilimitada de armazenamento em caixas de correio de arquivo morto no Exchange Online. Cada assinante do Arquivamento do Exchange Online recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Nas implantações híbridas do Exchange, o arquivamento de expansão automática só tem suporte para caixas de correio de arquivo morto baseadas em nuvem quando a caixa de correio do usuário local reside no Exchange Server 2019, no Exchange Server 2016 ou no Exchange Server 2013 (SP1 ou posterior). Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). Saiba mais sobre disponibilidade em [Mapa do Office 365](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=).
+ O recurso de arquivamento ilimitado no Office 365 (chamado *de arquivamento de expansão automática*) fornece até 1 TB de armazenamento em caixas de correio de arquivo morto no Exchange Online. Cada assinante do Arquivamento do Exchange Online recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o espaço de armazenamento adicional é automaticamente adicionado quando a capacidade de armazenamento de 100 GB é atingida. Nas implantações híbridas do Exchange, o arquivamento de expansão automática só tem suporte para caixas de correio de arquivo morto baseadas em nuvem quando a caixa de correio do usuário local reside no Exchange Server 2019, no Exchange Server 2016 ou no Exchange Server 2013 (SP1 ou posterior). Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Os administradores não podem ajustar a cota de armazenamento.<br/>
