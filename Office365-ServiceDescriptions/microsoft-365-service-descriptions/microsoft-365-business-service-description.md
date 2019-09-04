@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. . Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206851"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717539"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição dos serviços do Microsoft 365 Business
 
@@ -133,9 +133,9 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |SLA 99,9%  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Advanced Threat Analytics  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |**Recursos de gerenciamento de dispositivos e aplicativos** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
-|Gerenciamento de dispositivo móvel (MDM)<sup>15</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Gerenciamento de dispositivo móvel (MDM) do Intune para PCs, Macs e dispositivos móveis<sup>15</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Registro automático de MDM (gerenciamento de dispositivo móvel)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciamento de aplicativo móvel (MAM) para aplicativos do Office e aplicativos LOB<sup>17</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Gerenciamento de aplicativo móvel (MAM) do Intune para aplicativos do Office e aplicativos LOB<sup>17</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Gerenciamento de atualizações do Windows, defender, políticas de firewall<sup>15</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção de dados-limpeza seletiva  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Grupo de segurança (SG) direcionando para políticas  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
