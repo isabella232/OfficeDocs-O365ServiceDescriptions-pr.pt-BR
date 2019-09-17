@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e Microsoft Skype for Business online — para ajudar os usuários a serem produtivos de praticamente qualquer lugar pela Internet.
-ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854879"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998483"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -74,7 +74,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |Microsoft Flow  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft MyAnalytics  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|Microsoft myAnalytics<sup>9</sup>  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Planner  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft PowerApps  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft StaffHub  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -186,8 +186,9 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 <sup>5</sup> disponível em [https://securescore.office.com](https://securescore.office.com/) (o link exige permissões de administrador). Saiba mais em [Apresentando a Classificação de Segurança do Office 365](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/> 
 <sup>6</sup> o Microsoft Sway não está disponível atualmente para clientes em determinadas regiões. Alguns planos herdados do Office 365, que já não são comercializados desde agosto de 2015, podem não ter acesso ao Microsoft Sway. <br/> 
 <sup>7</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos). <br>
-<sup>8</sup> para obter informações sobre os recursos do Microsoft Stream incluídos em cada plano, consulte The [Stream Licensing Overview](https://stream.microsoft.com/documentation/stream-license-overview/). <br/>
-  
+<sup>8</sup> para obter informações sobre os recursos do Microsoft Stream incluídos em cada plano, consulte The [Stream Licensing Overview](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
+<sup>9</sup> para obter mais informações, consulte [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
+
 ## <a name="office-365-security-amp-compliance-center-features"></a>Recursos do centro &amp; de conformidade de segurança do Office 365
 <a name="SCC"> </a>
 
@@ -215,7 +216,7 @@ O [centro de conformidade &amp; de segurança do Office 365](https://docs.micros
 |[Descoberta eletrônica avançada](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20) <sup>4</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Arquivamento](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Políticas de retenção/exclusão manuais](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Auditoria](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) unificada <sup>6</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Auditoria unificada](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) <sup>6</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |||||
    
 > [!NOTE]
@@ -620,7 +621,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 |Limite de tamanho de mensagem - migração  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)  <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
-|Limite de comprimento de assunto  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |
+|Limite de comprimento de assunto  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |
 |Limite de anexos de arquivo  <br/> |250 anexos  <br/> |250 anexos  <br/> |250 anexos  <br/> |
 |Limite de tamanho de anexo de arquivo - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |Limite de tamanho de anexo de arquivo - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |

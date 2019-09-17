@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você quiser saber as diferenças entre os planos do Office 365, incluindo planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: ce86b6829551ee5d0d82e528cf61dee811d9f1ad
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 2547b3dfa0379ca0b0ba28830e5c3d9cf499131b
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568131"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998530"
 ---
 # <a name="office-365-platform-service-description"></a>Descrição de serviço da plataforma Office 365
 
@@ -100,7 +100,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Microsoft Flow  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft MyAnalytics  <br/> |Não<sup>22</sup>  <br/> |Não<sup>22</sup>  <br/> |Não<sup>22</sup>  <br/> |Não<sup>22</sup>  <br/> |No<sup>21,</sup> <sup>22</sup>  <br/> |Sim  <br/> |Não  <br/> |
+|Microsoft myAnalytics<sup>22</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Microsoft Planner  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Microsoft PowerApps  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -124,7 +124,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Gerenciar grupos de segurança do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Várias funções de administrador disponíveis  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Permitir que um parceiro administre o Office 365 para você  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Serviços do Azure Active Directory<sup>23</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Serviços do Azure Active Directory<sup>22</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Domínios](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Adicionar domínios de segundo nível personalizados, como fourthcoffee.com  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Adicionar domínios de terceiro nível personalizados, como marketing.fourthcoffee.com  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -221,9 +221,9 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 <br/><sup>15</sup> Disponível apenas nos planos do Office 365 Education, como o Office 365 E5 Education. 
 <br/><sup>15</sup> disponível apenas nos planos de educação do Office 365, incluindo o Office 365 E5 Education. 16 Saiba mais em Como controlar seus dados no Office 365 usando Chave de Cliente. 
 <br/><sup>16</sup> para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos). Os dados do cliente da Europa, Oriente Médio e África são exportados para a Europa Ocidental [Holanda].) > <br/><sup>18</sup> consumo somente para o Microsoft Stream: sem publicação ou compartilhamento.
+<br/><sup>17</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos).
+<br/><sup>18</sup> consumo somente para o Microsoft Stream: sem publicação ou compartilhamento.
 <br/><sup>19</sup> a partir de maio de 2019, os SKUs qualificados existentes do Office 365 e o Microsoft 365 serão preenchidos com o Kaizala pro. A partir de 1º de junho de 2019, o Kaizala pro será incluído em todos os SKUs qualificados do Office 365 e Microsoft 365.
 <br/><sup>20</sup> disponível como um complemento gratuito. Para obter mais informações, consulte [Get Access to Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
-<br/><sup>21</sup> para obter myAnalytics (completo) com o E3 Plan, você precisará comprar o complemento myAnalytics. Para obter mais informações, consulte [planos e ambientes](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)do myAnalytics. 
-<br/><sup>22</sup> inclui insights pelo myAnalytics. Para obter mais informações, consulte [planos e ambientes](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)do myAnalytics.
-<br/><sup>23</sup> inclui os recursos do Azure Active Directory descritos na coluna **aplicativos do Office 365** na [página de preços do Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). Você deve adicionar o Azure Active Directory Plan 1 ou o plano 2, o Enterprise Mobile Security ou o Microsoft 365 E3 ou E5 para obter os recursos premium do Azure AD.
+<br/><sup>21</sup> para obter mais informações, consulte [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
+<br/><sup>22</sup> inclui os recursos do Azure Active Directory descritos na coluna **aplicativos do Office 365** na [página de preços do Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). Você deve adicionar o Azure Active Directory Plan 1 ou o plano 2, o Enterprise Mobile Security ou o Microsoft 365 E3 ou E5 para obter os recursos premium do Azure AD.<br/>

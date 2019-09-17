@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: O Microsoft Office 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office com os quais você já está familiarizado, como o Word, o Excel e o PowerPoint.
-ms.openlocfilehash: f33fc698420f511ce1fdf6b14f51565e71d9cd3f
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656305"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998513"
 ---
 # <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
@@ -74,7 +74,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Suporte à política de nuvem do Office  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Gerenciamento de direitos de informação usando a proteção de informações do Azure  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |
 |Information Rights Management usando o Windows Server AD RMS  <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim <br/>| Sim<sup>3</sup> <br/>|Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |
-|Suporte a suplementos do Office, ActiveX e BHO  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>+++<sup> <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
+|Suporte a suplementos do Office, ActiveX e BHO  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>+++<sup> <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
 |Acesso de cliente do OneNote aos blocos de anotações no SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>++</sup> <br/> |Sim <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Sim <br/> |
 |Telemetria do Office  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Suporte offline a aplicativos do cliente  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/>  |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ade0eb80e1161d9dc70baba7496bc2ecc48699aa
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776902"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998453"
 ---
 # <a name="office-365-suite-features"></a>Recursos do Pacote do Office 365
 
@@ -48,7 +48,7 @@ Use a API do Microsoft Graph para criar rapidamente aplicativos que se conectam 
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
 
-O MyAnalytics fornece estatísticas que ajudam a compreender como você dedica seu tempo no trabalho. O MyAnalytics observa suas atividades diárias de trabalho, localiza áreas que merecem sua atenção e oferece ferramentas para otimizar seu tempo. Para saber mais sobre o MyAnalytics, acesse [Conheça melhor seu jeito de trabalhar com o MyAnalytics](https://support.office.com/en-us/article/Learn-more-about-the-way-you-work-with-Microsoft-MyAnalytics-23462129-e512-40ee-acad-d968916c31b8?ui=en-US&amp;rs=en-US&amp;ad=US) e [Microsoft MyAnalytics para administradores do Office 365](https://support.office.com/en-us/article/Microsoft-MyAnalytics-for-Office-365-admins-77590915-6eb0-47a6-a72f-8116cfcfc2c7).
+O myAnalytics oferece informações sobre dois dos principais fatores em sua produtividade pessoal: como você gasta o tempo e quem o gastou. O myAnalytics analisa seus padrões de trabalho cotidianos, localiza áreas que podem se beneficiar da sua atenção e fornece as ferramentas para alcançar o uso mais elaborado do tempo. Saiba mais em [Microsoft myAnalytics](https://products.office.com/business/myanalytics-personal-analytics) e [Microsoft myAnalytics para administradores do Office 365](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins).
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 <a name="BKMK_Planner"> </a>
