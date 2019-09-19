@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para os serviços de nível de locatário do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
-ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
+ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384865"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035127"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365
 
@@ -39,7 +39,7 @@ Os analistas e profissionais de segurança do SecOps se beneficiam de ter visual
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Por padrão, os recursos do AADIP são habilitados no nível do locatário para todos os usuários dentro do locatário. Para obter informações sobre como configurar o AADIP, consulte Habilitando a [proteção de identidade do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
+Por padrão, os recursos do AADIP são habilitados no nível do locatário para todos os usuários dentro do locatário. Para obter informações sobre como configurar o AADIP, consulte [habilitando a proteção de identidade do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
@@ -79,10 +79,10 @@ O recurso de scanner AIP automaticamente classifica, rotula e protege arquivos q
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Por padrão, os recursos do AIP estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre a configuração de políticas do AIP para usuários licenciados, consulte Ativando o [Azure Rights Management](https://docs.microsoft.com/azure/information-protection/activate-service).
+Por padrão, os recursos do AIP estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre a configuração de políticas do AIP para usuários licenciados, consulte [ativando o Azure Rights Management](https://docs.microsoft.com/azure/information-protection/activate-service).
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-As políticas de recurso do AIP (exceto o recurso de scanner) podem ser delimitadas para grupos ou usuários específicos; os registros podem ser editados para impedir que usuários não licenciados executem os recursos de classificação ou rotulação do AIP. Para obter instruções sobre como fazer o escopo de implantações de AIP, consulte Configurando [a política de proteção de informações do Azure](https://docs.microsoft.com/azure/information-protection/configure-policy).
+As políticas de recurso do AIP (exceto o recurso de scanner) podem ser delimitadas para grupos ou usuários específicos; os registros podem ser editados para impedir que usuários não licenciados executem os recursos de classificação ou rotulação do AIP. Para obter instruções sobre como fazer o escopo de implantações de AIP, consulte [Configurando a política de proteção de informações do Azure](https://docs.microsoft.com/azure/information-protection/configure-policy).
 
 Para o recurso de scanner do AIP, a Microsoft não compromete o fornecimento de recursos de classificação, rótulo ou proteção de arquivos para usuários que não estão licenciados. Com o tempo, as verificações de licença ou a ferramenta direcionada serão adicionadas ao AIP para garantir que o recurso de scanner seja atribuível a usuários licenciados.
 
@@ -122,7 +122,7 @@ Para comparar recursos, confira [diferenças entre o Microsoft Cloud app Securit
 
 Usuários licenciados do Office 365 E5/a5/G5 podem se beneficiar do OCAS.
 
-Para obter mais informações, consulte a folha de dados de licenciamento do [Microsoft Cloud app Security](http://www.aka.ms/mcaslicensing).
+Para obter mais informações, consulte a folha de dados de [Licenciamento do Microsoft Cloud app Security](http://www.aka.ms/mcaslicensing).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
@@ -150,9 +150,9 @@ Usuários licenciados do Azure AD P1 podem se beneficiar dos recursos de descobe
 
 Para se beneficiar dos recursos de [controle de aplicativo de acesso condicional](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) no MCAS, os usuários também devem ser licenciados para o Azure Active Directory P1, que está incluído no Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/a5/G5 e segurança da Microsoft 365 E5/a5/G5.
 
-Para se beneficiar do [rotulamento automático](https://docs.microsoft.com/cloud-app-security/data-protection-policies), os usuários devem ser licenciados para a proteção de informações do Azure P1, que está incluída no Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5 e conformidade com o Microsoft 365 E5/a5/G5.
+Para se beneficiar do [rotulamento automático](https://docs.microsoft.com/cloud-app-security/data-protection-policies), os usuários devem ser licenciados para a proteção de informações do Azure P2, que está incluída no Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5 e conformidade com o Microsoft 365 E5/a5/G5.
 
-Para obter mais informações, consulte a folha de dados de licenciamento do [Microsoft Cloud app Security](http://www.aka.ms/mcaslicensing).
+Para obter mais informações, consulte a folha de dados de [Licenciamento do Microsoft Cloud app Security](http://www.aka.ms/mcaslicensing).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
@@ -278,7 +278,7 @@ Com a prevenção de perda de dados (DLP) para o Exchange Online, o SharePoint O
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
-Usuários licenciados do Office 365 E3/a3/G3, Microsoft 365 Business, Microsoft 365 E3/a3/G3 e Office 365 Data Loss Prevention podem se beneficiar do DLP para o Exchange Online, o SharePoint Online e o OneDrive for Business.
+Usuários licenciados do Office 365 E3/a3/G3, Microsoft 365 Business, Microsoft 365 a1/E3/a3/G3 e a prevenção de perda de dados do Office 365 podem se beneficiar da DLP para o Exchange Online, o SharePoint Online e o OneDrive for Business.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
@@ -355,7 +355,7 @@ Os remetentes de mensagens se beneficiam do controle adicionado sobre emails con
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Os administradores criam e gerenciam as políticas de criptografia de mensagens do Office 365 no centro de administração do Exchange em**regras**de **fluxo** > de emails. Por padrão, essas regras se aplicam a todos os usuários no locatário. Para obter mais informações sobre como configurar os novos recursos de criptografia de mensagens do Office 365, consulte [configurar novos recursos de criptografia de mensagens do office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Os administradores criam e gerenciam as políticas de criptografia de mensagens do Office 365 no centro de administração do Exchange em > **regras**de **fluxo de emails**. Por padrão, essas regras se aplicam a todos os usuários no locatário. Para obter mais informações sobre como configurar os novos recursos de criptografia de mensagens do Office 365, consulte [configurar novos recursos de criptografia de mensagens do office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 

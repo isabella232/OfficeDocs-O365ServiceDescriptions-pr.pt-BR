@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger seus organização contra links prejudiciais em tempo real. A ATP tem recursos ricos de relatórios e de rastreamento de URL que dão aos administradores a percepção do tipo de ataques que ocorrem na sua organização.
-ms.openlocfilehash: 6ab6b9832496127f8ceba6d3383c20b68f2f6dbe
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: e335ae1882a6142572eb32df6fc2dcbd8ff89ebe
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998463"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035117"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do Serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -69,7 +69,7 @@ Continuamos a adicionar novos recursos ao Office 365 ATP. Veja a seguir uma list
 
 |Atualizações de recursos|Itens de ação|
 |---------|---------|
-|[Inteligência contra ameaças do Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) Os recursos (TI) agora são a investigação de ameaças e os recursos de resposta como parte do plano ATP 2. Novos recursos, como [investigação e resposta automatizadas](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)e aprimoramentos no [Explorador de ameaças](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance), estão saindo.<br/><br/>Se sua organização não tiver a ATP no momento ou se você tiver a ATP, mas não a TI, agora terá várias opções para considerar, com a disponibilidade do plano ATP 1 e do plano ATP 2. Para saber mais, confira [recursos de disponibilidade de recurso nos planos de proteção avançada contra ameaças (ATP)](#feature-availability-across-advanced-threat-protection-atp-plans) (neste artigo) e [preços e planos de proteção avançada contra ameaças do Office 365](https://products.office.com/exchange/advance-threat-protection).|Revise a assinatura da sua organização e, se necessário, [compre ou edite um complemento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).|
+|[Inteligência contra ameaças do Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) Os recursos (TI) agora são a investigação de ameaças e os recursos de resposta como parte do plano ATP 2. Novos recursos, como [resposta a incidentes automatizados](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)e aprimoramentos no [Explorador de ameaças](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance), estão saindo.<br/><br/>Se sua organização não tiver a ATP no momento ou se você tiver a ATP, mas não a TI, agora terá várias opções para considerar, com a disponibilidade do plano ATP 1 e do plano ATP 2. Para saber mais, confira [recursos de disponibilidade de recurso nos planos de proteção avançada contra ameaças (ATP)](#feature-availability-across-advanced-threat-protection-atp-plans) (neste artigo) e [preços e planos de proteção avançada contra ameaças do Office 365](https://products.office.com/exchange/advance-threat-protection).|Revise a assinatura da sua organização e, se necessário, [compre ou edite um complemento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).|
 |Quando as pessoas estão usando o Outlook ou o Outlook Web Application (OWA), os [links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) renderizam URLs originais, não reconfiguradas URLs. (Chamamos isso de processamento de link nativo.)<br>Quando o processamento de link nativo estiver disponível para sua organização, esse recurso funcionará no Outlook 365 (clique para executar), OWA e em Windows e Mac OS.|Nenhum|
 |As [páginas de aviso de ATP do Office 365](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) apresentam um novo esquema de cores, mais detalhes e a capacidade de continuar em um site apesar de avisos e recomendações fornecidos.|Nenhum|
 |A proteção de [links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) é estendida para aplicar às URLs do Office para a Web (Word para Web, Excel para Web, PowerPoint para Web e OneNote para a Web) e Office 365 ProPlus no Mac.|[Revisar e editar suas políticas de links seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)|
@@ -99,7 +99,7 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |*Automação, investigação, correção e educação*|
 |Rastreadores de Ameaças|Não|Sim|Sim|
 |Explorer (investigação avançada de ameaças)|Não|Sim|Sim|
-|Investigação e resposta automatizadas|Não|Sim|Sim|
+|Resposta de incidente automatizada|Não|Sim|Sim|
 |Simulador de ataque|Não|Sim|Sim|
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Recursos de proteção avançada contra ameaças (ATP)
