@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: O Microsoft SharePoint Online no Office 365 permite que as pessoas compartilhem e trabalhem juntas, para informar e envolver outras pessoas na empresa, para transformar os processos de negócios e para aproveitar o conhecimento coletivo. Além disso, o SharePoint fornece recursos para que as organizações protejam e gerenciem dados e criem soluções personalizadas. Para obter uma visão geral rápida, confira o que é o SharePoint?
-ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 18f39141220c96b0d85da0a75cd42e09a4d298fc
+ms.sourcegitcommit: 6d5ef72a0919dd8e730031a1ddac4db6632ac2cd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568124"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131472"
 ---
 # <a name="sharepoint-online-service-description"></a>Descrição do serviço SharePoint Online
 
@@ -238,7 +238,7 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Aplicativos provisionados do Azure: código personalizado no Azure Lightweight Web Role (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 
 <sup>1</sup> Para usar a sincronização de pastas, você deve ter o Office 2013 ou posterior (edição Standard ou Professional) ou uma assinatura do Office 365 que inclua aplicativos do Office. Office 365 Business Essentials, Office 365 Enterprise E1 e Office 365 Education Plans não incluem assinaturas para aplicativos de área de trabalho do Office. No entanto, será possível usar a sincronização de pastas se você instalar o Office 2013 ou posterior e assinar um desses planos. <br/>
-<sup>2</sup> os funcionários de primeiro lugar têm funcionalidade limitada do onedrive for Business. Os primeiros profissionais recebem 2GB de armazenamento e não têm recursos de sincronização de área de trabalho. As contas de início não incluem um site pessoal do OneDrive for Business e, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB ou 5 TB de armazenamento online.<br/> 
+<sup>2</sup> os funcionários de primeiro lugar têm funcionalidade limitada do onedrive for Business. Os primeiros funcionários recebem 2GB de armazenamento.<br/> 
 <sup>3</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. <br/>
 <sup>4</sup> como os funcionários de primeira linha não podem ser administradores, os locatários com os funcionários de primeira linha precisam de, pelo menos, um usuário corporativo para acessar o centro de administração. <br/>
 <sup>5</sup> os clientes do SharePoint Online precisam baixar e instalar o aplicativo de ajuste de modelo de classificação livre para criar e personalizar modelos de classificação. <br/> 
