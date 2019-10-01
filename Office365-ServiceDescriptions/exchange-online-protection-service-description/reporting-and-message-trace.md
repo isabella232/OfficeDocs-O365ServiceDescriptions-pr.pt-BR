@@ -12,46 +12,36 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
-ms.openlocfilehash: ec06c0dea22fc45f2cee507e9022b9babbd809e3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: cedf3d62360ce8c43da9dbb96c0938d78ffec110
+ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776642"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37334111"
 ---
 # <a name="reporting-and-message-trace"></a>Rastreamento de mensagens e relatórios
 
 O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
-  
+
 Você está procurando informações sobre todas as características EOP? Confira o [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
-  
+
 ## <a name="microsoft-365-admin-center-reports"></a>Relatórios do centro de administração do Microsoft 365
-<a name="BKMK_office365admincenterreports"> </a>
 
-A página relatórios no centro de administração do Microsoft 365 fornece informações sobre o tráfego de mensagens, detecções de spam e malware e mensagens afetadas pelas regras de transporte do Exchange ou políticas de prevenção de perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do EOP. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
-  
-Para informações mais detalhadas sobre esses relatórios, confira [Usar relatórios de proteção de email no Office 365 para exibir dados sobre detecções de malware, spam e de regra](https://go.microsoft.com/fwlink/p/?LinkID=401102).
-  
-## <a name="excel-download-application-reports"></a>Excel download application reports
-<a name="BKMK_exceldownloadapplicationreports"> </a>
+A página de relatórios no centro de administração do Microsoft 365 fornece informações sobre o tráfego de mensagens, detecções de spam e malware e mensagens afetadas por regras de fluxo de emails (também conhecidas como regras de transporte) ou políticas de prevenção de perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do EOP. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
 
-Relatórios de proteção email também estão disponíveis na pasta de trabalho de relatórios do Excel 2013, que fornece relatórios resumidos com recursos de busca detalhada. No entanto, recomendamos o uso dos relatórios do centro de administração do Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. 
-  
-Para mais informações gerais e links para baixar e instalar a pasta de trabalho, confira [Mail Protection Reports for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para saber mais sobre como usar a pasta de trabalho, confira [Relatórios de Proteção de Email usando a Pasta de Trabalho de Relatório do Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211).
-  
+Para obter informações mais detalhadas sobre esses relatórios, consulte [usar relatórios de proteção de email no Office 365 para exibir dados sobre detecções de malware, spam e de regra](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports).
+
 ## <a name="reporting-using-web-services"></a>Criar relatórios usando serviços Web
-<a name="BKMK_reportingusingwebservices"> </a>
 
-Não disponível para clientes autônomos do EOP. Você pode usar o serviço REST/OData Tenant Reporting Web para coletar via programação um resumo e relatórios detalhados sobre dados de mensagens, e você pode exibir os dados em uma página da Web de um portal da Web de gerenciamento personalizado. Para saber mais, confira [Serviço de Relatório na Web do Office 365](https://go.microsoft.com/fwlink/?LinkId=279926).
-  
+> [!NOTE]
+> Muitos dos recursos de relatórios baseados em REST e cmdlets relacionados foram preteridos em janeiro de 2018. Para obter informações sobre os relatórios do Microsoft Graph substitutos disponíveis no Office 365, consulte os subtópicos sobre [como trabalhar com os relatórios de uso do Office 365 no Microsoft Graph](https://go.microsoft.com/fwlink/p/?LinkID=865135).
+
+Não disponível para clientes autônomos do EOP. Você pode usar o serviço Web de relatório de locatários do REST/OData para coletar programaticamente relatórios resumidos e detalhados sobre dados de mensagens e pode exibir os dados em uma página da Web em um portal de gerenciamento da Web personalizado.
+
 ## <a name="message-trace"></a>Rastreamento de mensagens
-<a name="BKMK_messagetrace"> </a>
 
-O recurso de rastreamento de mensagens no EAC permite que um administrador acompanhe as mensagens de email conforme elas passam pelo EOP. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Mostra também quais as ações ocorreram com a mensagem antes do status final. Obtendo informações detalhadas sobre uma mensagem específica permite que você responde com eficiência às perguntas do usuário, solucione problemas de fluxo de email, valide alterações de política e alivie a necessidade de entrar em contato com o suporte técnico para assistência. Para saber mais, confira [Rastrear uma mensagem de email](https://go.microsoft.com/fwlink/p/?LinkID=282262).
-  
+O recurso de rastreamento de mensagens no EAC permite que um administrador acompanhe as mensagens de email conforme elas passam pelo EOP. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Mostra também quais as ações ocorreram com a mensagem antes do status final. Obtendo informações detalhadas sobre uma mensagem específica permite que você responde com eficiência às perguntas do usuário, solucione problemas de fluxo de email, valide alterações de política e alivie a necessidade de entrar em contato com o suporte técnico para assistência. Para obter mais informações, consulte [executar um rastreamento de mensagem e exibir os resultados no centro de administração do Exchange](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
+
 ## <a name="feature-availability"></a>Disponibilidade do recurso
-<a name="BKMK_messagetrace"> </a>
 
 Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
-  
-
