@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: f9ba402476f707748e6b3bd487ce97def3d985cb
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
+ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051622"
+ms.lasthandoff: 10/05/2019
+ms.locfileid: "37401757"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -27,21 +27,25 @@ O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Mic
   
 > [!NOTE]
 > Pastas de trabalho que excedem 30 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro do Microsoft SharePoint Online. Para exibir arquivos maiores, você precisa ter o aplicativo de área de trabalho Excel instalado no computador. 
-  
-> [!NOTE]
-> Para ajudá-lo a comparar ofertas, os recursos avançados listados neste artigo incluem recursos do aplicativo de área de trabalho do Excel que só estão disponíveis no pacote do Office (como Office Professional Plus, Office Standard ou Office 365 ProPlus). Para obter uma lista de todos os recursos do Office para a Web, como o Word para a Web e o PowerPoint para a Web, consulte [recursos de disponibilidade nos planos do Office para a Web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). 
 
-Para ver qual tipo de arquivo tem suporte no Excel para a Web, confira [tipos de arquivo com suporte para o Office para a Web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Para saber mais sobre as diferenças entre o Excel para a Web e o aplicativo da área de trabalho do Excel, confira [diferenças entre usar uma pasta de trabalho no navegador e no Excel](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
+> [!NOTE]
+> Para ajudá-lo a comparar ofertas, os recursos avançados listados neste artigo incluem recursos do aplicativo de área de trabalho do Excel que só estão disponíveis no pacote do Office (como Office Professional Plus, Office Standard ou Office 365 ProPlus). Para obter uma lista de todos os recursos do Office para a Web, como o Word para a Web e o PowerPoint para a Web, consulte [recursos de disponibilidade nos planos do Office para a Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+
+Para ver qual tipo de arquivo tem suporte no Excel para a Web, confira [tipos de arquivo com suporte para o Office para a Web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Para saber mais sobre as diferenças entre o Excel para a Web e o aplicativo da área de trabalho do Excel, confira [diferenças entre usar uma pasta de trabalho no navegador e no Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
 ## <a name="add-background-color-to-sheet-tabs"></a>Adicionar cor de plano de fundo a guias de planilha 
 
-Adicione uma cor de preenchimento de plano de fundo às guias da planilha na parte inferior da sua pasta de trabalho para destacá-las. Para obter mais informações, consulte [Adicionar uma cor de plano de fundo a uma guia de planilha](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59). 
+Adicione uma cor de preenchimento de plano de fundo às guias da planilha na parte inferior da sua pasta de trabalho para destacá-las. Para obter mais informações, consulte [Adicionar uma cor de plano de fundo a uma guia de planilha](https://support.office.com/article/440B28F2-3146-4DCA-95DF-3B9D43ACBE59).
 
 ## <a name="add-hyperlinks"></a>Adicionar hiperlinks
 
-Inclua um link para páginas da Web ou abra arquivos na Web adicionando um hiperlink a uma célula. Você pode digitar o endereço da Web diretamente na célula ou usar o comando Inserir hiperlink. 
+Inclua um link para páginas da Web ou abra arquivos na Web adicionando um hiperlink a uma célula. Você pode digitar o endereço da Web diretamente na célula ou usar o comando Inserir hiperlink.
+
+## <a name="advanced-data-types-stocks-and-geography"></a>Tipos de dados avançados: ações e Geografia
+
+Você pode obter dados geográficos e de ações no Excel. É tão fácil quanto digitar texto em uma célula e, em seguida, convertê-lo para o tipo de dados stocks ou o tipo de dados geography. Saiba mais sobre [os tipos de dados de ações e geografia](https://support.office.com/article/e61a33056-9935-484f-8ac8-f1a89e210877).
   
-## <a name="advanced-time-filtering-timeline-slicer"></a>Filtragem de tempo avançada (segmentação de dados da linha do tempo)
+## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
 O controle da Linha de Tempo permite filtrar dados modelados. Trata-se de uma maneira visual de exibir e alterar um intervalo contínuo de datas e filtrar objetos com base em conteúdo dinâmico, como Tabelas Dinâmicas e Gráficos Dinâmicos.  
   
@@ -59,11 +63,7 @@ Este recurso está disponível no Excel para a Web. Outros recursos avançados e
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-Não está disponível no Excel para a Web. No aplicativo da área de trabalho do Excel, os gráficos recomendados permitem que você escolha uma variedade de gráficos que são melhores para apresentar seus dados. Saiba mais sobre [como usar as recomendações de gráfico no Excel](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
-  
-## <a name="office-add-ins"></a>Suplementos do Office
-
- Alguns, mas nem todos os suplementos do Office estão disponíveis no Excel para a Web. Você pode obter um suplemento para o Excel na Office Store. Saiba mais sobre [Como obter um suplemento do Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+Não está disponível no Excel para a Web. No aplicativo da área de trabalho do Excel, os gráficos recomendados permitem que você escolha uma variedade de gráficos que são melhores para apresentar seus dados. Saiba mais sobre [como usar as recomendações de gráfico no Excel](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0).
   
 ## <a name="autocomplete"></a>Preenchimento automático
 
@@ -79,7 +79,7 @@ Use o Excel para realizar uma série de cálculos automáticos, manuais e iterat
 
 ## <a name="cell-references-in-formulas"></a>Referências de célula em fórmulas
 
-Você pode usar referências de célula em fórmulas. Quando você faz referência a uma célula ou a um intervalo em uma fórmula, a célula ou o intervalo referenciado é realçado com uma cor. Para obter mais informações, consulte [usar referências de célula em fórmulas](https://support.office.com/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+Você pode usar referências de célula em fórmulas. Quando você faz referência a uma célula ou a um intervalo em uma fórmula, a célula ou o intervalo referenciado é realçado com uma cor. Para obter mais informações, consulte [usar referências de célula em uma fórmula](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>As animações de gráficos se adaptam aos novos dados
 
@@ -87,15 +87,15 @@ Só o aplicativo Microsoft Excel para a área de trabalho é compatível com os 
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Gráficos e tabelas, inclusive relatórios de Gráfico Dinâmico e de Tabela Dinâmica
 
-Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento de informações. Saiba mais em [Criar ou excluir uma tabela do Excel](https://support.office.com/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664) e [Visão geral dos relatórios de Tabela Dinâmica e Gráfico Dinâmico](https://go.microsoft.com/fwlink/?linkid=55417).
+Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento de informações. Para saber mais, confira [criar e formatar tabelas](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) e [visão geral de relatórios de tabela dinâmica e gráfico dinâmico](https://go.microsoft.com/fwlink/?linkid=55417).
   
 ## <a name="comment-creation"></a>Comment creation
 
-Você pode inserir, editar e excluir comentários no Excel para a Web. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Você pode inserir, editar e excluir comentários no Excel para a Web. Você também pode resolver um thread de comentários, que o fecha para editar e para novos comentários, mas o deixa em vigor. Isso permite que você reabra o thread para comentários, se necessário. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Para obter melhores resultados, use atalhos de teclado, não o menu do botão direito do mouse ou comandos da área de transferência no Excel para a Web, para copiar itens para outro local da planilha. Saiba mais sobre como [usar copiar e colar no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271669).
+Para obter melhores resultados, use atalhos de teclado, não o menu do botão direito do mouse ou comandos da área de transferência no Excel para a Web, para copiar itens para outro local da planilha. Saiba mais sobre como [usar copiar e colar no Excel para a Web](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -111,7 +111,7 @@ Visualizações de análises avançadas, como Power Pivot e Power View, só est�
   
 ## <a name="data-validation"></a>Validação de dados
 
-Use a validação de dados para restringir o tipo de dados ou os valores que os usuários inserem em uma célula. Saiba mais em [Aplicar a validação de dados a células](https://go.microsoft.com/fwlink/?linkid=844735)
+Use a validação de dados para restringir o tipo de dados ou os valores que os usuários inserem em uma célula. Para saber mais, confira [aplicar validação de dados a células](https://go.microsoft.com/fwlink/?linkid=844735).
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
@@ -123,9 +123,9 @@ O Dropbox é um serviço de hospedagem de arquivos que oferece armazenamento na 
   
 ## <a name="duplicate-copy-worksheets"></a>Planilhas duplicadas (copiar)
 
-Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho do Excel para a Web. Saiba mais sobre como [copiar planilhas no Excel para a Web](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
+Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho do Excel para a Web. Saiba mais sobre como [copiar planilhas no Excel para a Web](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online).
 
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Inserir pasta de trabalho em uma página da Web ou de blog (OneDrive)
 
 Se você armazenar uma pasta de trabalho do OneDrive.com, será possível inseri-la diretamente em um blog ou em um site. Seus leitores podem classificar, filtrar e calcular dados no local, e quando você atualiza a pasta de trabalho no OneDrive, eles veem as mudanças na próxima vez em que atualizam a página. Saiba mais sobre a [inserção de uma pasta de trabalho do Excel em seu blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
@@ -171,7 +171,7 @@ Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência d
  
 ## <a name="group-data"></a>Dados de grupo
 
-Você pode agrupar ou estruturar linhas e colunas na planilha do Excel para a Web. Saiba mais sobre como [agrupar dados no Excel para a Web](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+Você pode agrupar ou estruturar linhas e colunas na planilha do Excel para a Web. Saiba mais sobre como [agrupar dados no Excel para a Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -187,37 +187,39 @@ Selecione uma ou mais linhas antes de clicar em Inserir ou Excluir na guia Pági
 
 ## <a name="insert-pictures"></a>Inserir imagens
 
-Adicione alguns interesses visuais inserindo imagens na planilha. Saiba mais sobre como [inserir imagens no Excel para a Web](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
+Adicione alguns interesses visuais inserindo imagens na planilha. Saiba mais sobre como [inserir imagens no Excel para a Web](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3).
 
 ## <a name="insert-shapes"></a>Inserir formas
 
-Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas à sua planilha do Excel para a Web. Saiba mais sobre como [adicionar formas](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas à sua planilha do Excel para a Web. Saiba mais sobre como [adicionar formas](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
   
 ## <a name="merge-cells"></a>Merge cells
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
- 
+
 ## <a name="named-ranges"></a>Intervalos nomeados
 
 Não é possível criar intervalos nomeados no Excel para a Web, mas você pode usar os intervalos nomeados criados na área de trabalho do Excel em sua planilha no Excel para a Web.
 
- 
 ## <a name="number-formatting"></a>Formatação de números
 
 Altere o formato dos números. Escolha um formato como Moeda ou Data Abreviada em uma lista de formatos, mude as casas decimais ou insira um separador de milhar.
   
-## <a name="offline-viewing-and-authoring"></a>Criação e exibição offline
+## <a name="office-add-ins"></a>Suplementos do Office
+
+ Alguns, mas nem todos os suplementos do Office estão disponíveis no Excel para a Web. Você pode obter um suplemento para o Excel na Office Store. Saiba mais sobre [Como obter um suplemento do Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+
+## <a name="offline-viewing-and-authoring"></a>Criação e visualização offline
 
 O Excel para a Web é iniciado a partir de um navegador da Internet e depende de uma conexão com a Internet. Para acessar planilhas offline, o aplicativo de área de trabalho Microsoft Excel precisa ser instalado em seu computador e usado para ver e editar planilhas do Excel.
 
 ## <a name="pivottables"></a>PivotTables
 
-Você pode inserir tabelas dinâmicas no Excel para a planilha da Web e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma [tabela dinâmica no Excel para a Web](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
+Você pode inserir tabelas dinâmicas no Excel para a planilha da Web e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma [tabela dinâmica no Excel para a Web](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
 
-  
 ## <a name="post-to-social-network-and-present-online"></a>Poste nas redes sociais e faça apresentações online
 
-Compartilhe partes selecionadas de suas planilhas na Web, inserindo-as em suas páginas de redes sociais, em conversas do Skype for Business ou em reuniões. O Excel para a Web não dá suporte a esses recursos. 
+Compartilhe partes selecionadas de suas planilhas na Web, inserindo-as em suas páginas de redes sociais, em conversas do Skype for Business ou em reuniões. O Excel para a Web não dá suporte a esses recursos.
   
 ## <a name="power-pivot-viewing"></a>Visualização do Power Pivot
 
@@ -245,7 +247,7 @@ Se os dados em sua pasta de trabalho estiverem conectados a fontes externas, com
 
 ## <a name="remove-duplicate-values"></a>Remover valores duplicados
 
-Você pode remover valores duplicados em um intervalo ou tabela. Para obter mais informações, consulte [filtro para valores exclusivos ou remover valores duplicados](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
+Você pode remover valores duplicados em um intervalo ou tabela. Para obter mais informações, consulte [filtro para valores exclusivos ou remover valores duplicados](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
 ## <a name="rename-and-add-sheets"></a>Renomear e adicionar planilhas
 
@@ -281,7 +283,7 @@ Exiba segmentações de dados em sua planilha e filtre dados clicando nos botõe
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar os dados e detalhar os detalhes das tabelas dinâmicas.
+No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar os dados e detalhar os detalhes das tabelas dinâmicas. Saiba mais sobre [classificação e filtragem de dados](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Auditoria e conformidade de planilhas
 
@@ -309,7 +311,7 @@ Você pode rapidamente totalizar dados em uma tabela clicando em alternar linha 
 
 ## <a name="undo-and-redo"></a>Desfazer e refazer
 
-O Excel para a Web salva seu trabalho automaticamente. Se você cometer um erro, use desfazer ou pressione CTRL + Z e refaça ou pressione Ctrl + Y. saiba mais sobre [atalhos de teclado no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
+O Excel para a Web salva seu trabalho automaticamente. Se você cometer um erro, use desfazer ou pressione CTRL + Z e refaça ou pressione Ctrl + Y. Saiba mais sobre [atalhos de teclado no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
   
 ## <a name="vba-and-macro-scripting"></a>Scripts de macros e VBA
 
