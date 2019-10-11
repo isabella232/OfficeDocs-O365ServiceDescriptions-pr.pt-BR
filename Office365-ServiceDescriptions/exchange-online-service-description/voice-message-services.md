@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7f01e3e013ea714735af300a8ecf36dd26984757
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776922"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442556"
 ---
 # <a name="voice-message-services"></a>Serviços de Mensagens de Voz
 
@@ -66,7 +66,7 @@ Para saber mais sobre os recursos do correio de voz, confira [Correio de Voz no 
 As soluções de caixa postal locais de terceiros poderão interoperar com o Exchange Online se puderem encaminhar mensagens de voz por meio de SMTP ou se oferecerem suporte a Serviços Web do Microsoft Exchange. Se o sistema de caixa postal não suportar nativamente o encaminhamento de mensagens de voz por meio de SMTP, um servidor de email poderá ser mantido localmente para receber mensagens do sistema de caixa postal e encaminhá-las à nuvem usando SMTP. Como muitos sistemas de caixa postal de terceiros usam MAPI/CDO para interoperar com o Exchange Server para recursos de UM avançados, todos os recursos desses sistemas poderão não estar disponíveis quando SMTP for usado para interoperabilidade com o Exchange Online.
   
 > [!NOTE]
-> O suporte a UM do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCs operado pelo cliente terminará em julho de 2018. Confira [descontinuação de suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) para obter mais informações. 
+> O suporte a UM do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCs operado pelo cliente terminará em julho de 2018. Confira [descontinuação de suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Discontinuation-of-support-for-Session-Border-Controllers-in/ba-p/607117) para obter mais informações. 
   
 ## <a name="skype-for-business-integration"></a>Integração do Skype for Business
 

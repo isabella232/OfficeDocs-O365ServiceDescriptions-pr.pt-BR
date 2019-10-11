@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: d0ed7a4c56c5f58a643d609f29bef284904bee47
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776682"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442696"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
 
@@ -25,11 +25,11 @@ ms.locfileid: "35776682"
 O Microsoft Outlook é um programa de email que inclui suporte para calendário, contatos, tarefas e os seguintes recursos principais:
   
 - **MAPI sobre http** O MAPI (Messaging Application Program interface) sobre HTTP permite que os usuários do Outlook se conectem às caixas de correio do Exchange Online pela Internet de fora do firewall da sua organização. MAPI sobre HTTP, a substituição de longo prazo do Outlook em qualquer lugar. Este método de conectividade oferece maior resiliência de conexão, entrada mais segura, extensibilidade, além de aprimoramentos para ti e suporte. Para saber mais, veja [RPC sobre http atinge o fim do suporte no Office 365](https://go.microsoft.com/fwlink/?linkid=863890) e [MAPI sobre http](https://go.microsoft.com/fwlink/?linkid=393041).
-    
+
 - **Descoberta Automática** O recurso do serviço da Descoberta Automática configura automaticamente o Outlook para trabalhar com o Exchange Online. Os usuários do Outlook podem receber suas configurações de perfil necessárias diretamente do Exchange Online na primeira vez em que eles entrarem com seu endereço de email e senha. Essas configurações atualizam automaticamente o cliente Outlook com as informações necessárias, para a criação e manutenção do perfil do usuário. É necessário um certificado SSL para usar o serviço de Descoberta Automática. Esse certificado SSL é limitado a um domínio primário de SSL único. 
-    
-- **Modo em Cache do Exchange** O recurso Modo em Cache do Exchange permite que os usuários do Outlook acessem cópias locais de suas caixas de correio do Exchange Online quando não estiverem conectados à internet. O Modo em Cache do Exchange mantém uma cópia do lado do cliente da caixa de correio do Exchange dos usuários no Outlook e sincroniza essa cópia automaticamente com o servidor de email. É recomendado o uso do Outlook no Modo em Cache do Exchange, porque ele disponibiliza acesso offline e ajuda a fornecer uma experiência do usuário com capacidade de resposta, mesmo que as condições de rede entre o cliente e o servidor não sejam ideais. 
-    
+
+- **Modo cache do Exchange** O recurso de modo cache do Exchange permite que os usuários do Outlook acessem cópias locais de suas caixas de correio do Exchange Online quando não estão conectados à Internet. O Modo em Cache do Exchange mantém uma cópia do lado do cliente da caixa de correio do Exchange dos usuários no Outlook e sincroniza essa cópia automaticamente com o servidor de email. É recomendado o uso do Outlook no Modo em Cache do Exchange, porque ele disponibiliza acesso offline e ajuda a fornecer uma experiência do usuário com capacidade de resposta, mesmo que as condições de rede entre o cliente e o servidor não sejam ideais. 
+
 Por padrão, o acesso ao Outlook é habilitado para todos os usuários. Os administradores podem desabilitar o acesso para usuários específicos ou grupos através do Windows PowerShell. É recomendado o uso da última versão do Outlook  com o último service pack instalado  para acessar o Exchange Online. 
   
 Para saber mais sobre quais clientes do Outlook são compatíveis com o Exchange 2016 e o Exchange Online, confira "Clientes com suporte" em [Requisitos de sistema do Exchange 2016](https://go.microsoft.com/fwlink/?LinkID=828972).
@@ -39,14 +39,14 @@ Para saber mais sobre quais clientes do Outlook são compatíveis com o Exchange
   
 ## <a name="outlook-on-the-web"></a>Outlook na Web
 
-O Outlook na Web App é uma versão baseada na Web do programa de email do Outlook usado com o Exchange Online. Ele permite que os usuários acessem email, calendário e contatos por um navegador da Web, de qualquer lugar em que estiverem conectados à Internet. Para saber mais sobre os navegadores com suporte, confira [Navegadores com suporte para o Outlook na Web para empresas](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
+O Outlook na Web App é uma versão baseada na Web do programa de email do Outlook usado com o Exchange Online. Permite que os usuários acessem seus emails, calendários e contatos por meio de um navegador da Web, de qualquer lugar que se conectem à Internet. Para saber mais sobre os navegadores com suporte, confira [Navegadores com suporte para o Outlook na Web para empresas](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
 O Outlook na Web vem com duas versões para clientes, ambas podem ser usadas com o Exchange Online:
   
-- **Outlook na Web** A versão padrão do Outlook na Web fornece aos usuários do Exchange Online uma experiência com mensagens semelhante à dos usuários do Outlook. Ela dá suporte aos mais navegadores da Web mais recentes e é otimizada para o uso em tablets e smartphones, assim como em desktops e laptops. Os usuários podem ler e enviar mensagens, organizar contatos e agendar compromissos e reuniões. O tempo limite padrão com base na atividade é de seis horas, mas pode ser [configurado por um administrador no Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Este tempo limite depende das interações do usuário dentro do aplicativo Web, como clicar em um botão ou selecionar uma mensagem. Há também um tempo limite separado controlado pela segurança, que não é configurável e não depende da atividade do usuário para ocorrer. Se um usuário estiver conectado por 8 horas, o OWA desconectará automaticamente o usuário e exigirá uma nova autenticação. 
-    
-- **Versão light do Outlook na Web** A versão light do Outlook na Web fornece aos usuários do Exchange Online acesso à caixa de correio, usando quase nenhum navegador da web. Os usuários podem ler e enviar mensagens, organizar contatos e agendar compromissos e reuniões. O tempo limite padrão com base na atividade é de seis horas, mas pode ser [configurado por um administrador no Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Este tempo limite depende das interações do usuário dentro do aplicativo Web, como clicar em um botão ou selecionar uma mensagem. Há também um tempo limite separado controlado pela segurança, que não é configurável e não depende da atividade do usuário para ocorrer. Se um usuário estiver conectado por 8 horas, a versão light do OWA desconectará o usuário automaticamente e exigirá uma nova autenticação. 
-    
+- **Outlook na Web** A versão padrão do Outlook na Web fornece aos usuários do Exchange Online uma experiência com mensagens semelhante à dos usuários do Outlook. Ela dá suporte aos mais navegadores da Web mais recentes e é otimizada para o uso em tablets e smartphones, assim como em desktops e laptops. Os usuários podem ler e enviar mensagens, organizar contatos e agendar compromissos e reuniões. O tempo limite padrão com base na atividade é de seis horas, mas pode ser [configurado por um administrador no Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Esse tempo limite depende das interações do usuário no aplicativo Web, como a seleção de um botão ou a seleção de uma mensagem. Há também um tempo limite separado controlado pela segurança, que não é configurável e não depende da atividade do usuário para ocorrer. Se um usuário estiver conectado por 8 horas, o OWA desconectará automaticamente o usuário e exigirá uma nova autenticação. 
+
+- **Versão light do Outlook na Web** A versão light do Outlook na Web fornece aos usuários do Exchange Online acesso à caixa de correio, usando quase nenhum navegador da web. Os usuários podem ler e enviar mensagens, organizar contatos e agendar compromissos e reuniões. O tempo limite padrão com base na atividade é de seis horas, mas pode ser [configurado por um administrador no Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Esse tempo limite depende das interações do usuário no aplicativo Web, como a seleção de um botão ou a seleção de uma mensagem. Há também um tempo limite separado controlado pela segurança, que não é configurável e não depende da atividade do usuário para ocorrer. Se um usuário estiver conectado por 8 horas, a versão light do OWA desconectará o usuário automaticamente e exigirá uma nova autenticação. 
+
 O Outlook na Web também está disponível em versões para celular. Para saber mais, confira [esta página](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
 ## <a name="outlook-for-mac"></a>Outlook para Mac
@@ -63,7 +63,7 @@ O Exchange Online funciona com aplicativos do Outlook disponíveis para iOS, And
 |Disponibilidade do aplicativo móvel do Outlook  <br/> |Sim  <br/> [Obter o Outlook para Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sim  <br/> [Obter o Outlook para iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Interno  <br/> |
 |Aplicativos de email internos compatíveis com o Exchange Online  <br/> |Aplicativo de email do Gmail/Samsung  <br/> |aplicativo de email iOS  <br/> |Email, calendário, contatos do Outlook  <br/> |
 |Mais informações  <br/> |[Configuração móvel do Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configuração de iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuração do Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
-   
+
 Há também opções para usar o Exchange Online com dispositivos, incluindo Blackberry.
   
 ### <a name="feature-availability"></a>Disponibilidade de recursos
@@ -73,43 +73,43 @@ O Outlook oferece aos usuários a experiência de email e de calendário rápida
 O Outlook permite aos usuários:
   
 - Gerenciar o dia inteiro de um dispositivo móvel.
-    
+
 - Conecte-se aos aplicativos e serviços que eles precisam para serem produtivos, ao mesmo tempo em que as informações pessoais e de trabalho estão separadas e protegidas.
-    
+
 Com o Outlook para iOS, Outlook para Android ou Outlook para Windows Phone, os usuários podem: 
   
 - Benefício de uma caixa de entrada destaques que prioriza emails importantes
-    
+
 - Personalizar gestos de passar o dedo para corresponder aos seus hábitos de email exclusivos
-    
+
 - Criar itinerários de viagem que podem ser adicionados diretamente ao calendário, com informações importantes disponíveis rapidamente
-    
+
 - RSVP para reuniões da caixa de entrada.
-    
+
 - Use ícones intuitivos nos compromissos de email e calendário que os ajudam a processar rapidamente as informações
-    
+
 - Usar uma experiência consistente e familiar do Outlook em todos os dispositivos
-    
+
 - Iniciar e ingressar em reuniões do Skype com facilidade no calendário
-    
+
 - Ler e responder a emails criptografados e protegidos por IRM
-    
+
 - Compartilhar arquivos armazenados no OneDrive for Business
-    
+
 - Definir respostas automáticas com um toque
-    
+
 - Exibir e gerenciar calendários compartilhados e delegados
-    
+
 - Pesquisar a lista de endereços global de sua empresa com alguns toques
-    
+
 - Exibir a disponibilidade de um colaborador e agendar um horário de reunião que funcione para todos
-    
+
 - Confira o status aceitar, provisório e recusar
-    
+
 - Compartilhar calendários diretamente de seus telefones
-    
+
 - Iniciar e ingressar em reuniões do Skype diretamente de um calendário
-    
+
 - Acessar calendários pessoais e de trabalho em um só lugar, sem trocar aplicativos
     
 ## <a name="exchange-activesync"></a>Exchange ActiveSync
@@ -140,9 +140,9 @@ Para saber mais sobre conectividade de POP3 e de IMAP4, confira [POP3 e IMAP4](h
 O Protocolo SMTP é usado para enviar emails de saída para os clientes que se conectam ao Exchange Online por IMAP ou POP. É o protocolo primário para o roteamento e a entrega através do Exchange Server. O Exchange Online suporta dois tipos de serviços de retransmissão SMTP para os aplicativos de clientes internos autorizados que exigem envio de email SMTP:
   
 - O Envio de mensagem SMTP para usuários dentro do ambiente gerenciado.
-    
+
 - Retransmissão de mensagem SMTP autenticada para endereços fora do ambiente gerenciado.
-    
+
 > [!IMPORTANT]
 > Os endereços IP para servidores de origem autorizados são necessários para autorizar a retransmissão SMTP. A criptografia e autenticação do protocolo TLS são necessárias ao usar o SMTP para enviar emails. 
   
@@ -151,9 +151,9 @@ O Protocolo SMTP é usado para enviar emails de saída para os clientes que se c
 O email do Office 365 está disponível nos dispositivos BlackBerry® por meio do Exchange ActiveSync. Para saber quais são as suas opções, consulte estes tópicos:
   
 - [Configurar o email em um dispositivo BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)
-    
+
 - [Configurar o email em um dispositivo BlackBerry 7,1 so e anterior](https://go.microsoft.com/fwlink/?linkid=863403)
-    
+
 Para mais informações, consulte [BlackBerry](../office-365-platform-service-description/blackberry.md).
   
 > [!NOTE]
@@ -163,4 +163,3 @@ Para mais informações, consulte [BlackBerry](../office-365-platform-service-de
 
 Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
   
-

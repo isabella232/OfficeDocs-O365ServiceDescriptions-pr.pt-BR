@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 114812240efb18573ed7defaa88010bebfdac0bd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776912"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442536"
 ---
 # <a name="sharing-and-collaboration"></a>Compartilhamento e Colaboração
 
 ## <a name="federated-sharing"></a>Compartilhamento federado
 
-Federação se refere à infraestrutura confiável subjacente que suporta compartilhamento federado, um método fácil para os usuários do Microsoft Exchange Online compartilharem informações de calendário e contato com destinatários de outras organizações federadas externas ou com usuários que possuem acesso à Internet. Isso inclui as organizações que são também hospedadas pelo Exchange Online ou pelas organizações externas do Microsoft Exchange Server 2010 ou Exchange Server 2013. Usando relacionamentos de organização e políticas de compartilhamento, os administradores do Exchange Online podem permitir que os usuários enviem convites de compartilhamento de calendário usando o Microsoft Outlook Web App ou o Microsoft Outlook 2010 ou posterior.
+A Federação se refere à infraestrutura de confiança subjacente que oferece suporte ao compartilhamento federado, um método para os usuários do Microsoft Exchange Online compartilharem dados de calendário de disponibilidade e informações de contato com destinatários em outras organizações federadas externas ou com usuários com acesso à Internet. Isso inclui as organizações que são também hospedadas pelo Exchange Online ou pelas organizações externas do Microsoft Exchange Server 2010 ou Exchange Server 2013. Usando relacionamentos de organização e políticas de compartilhamento, os administradores do Exchange Online podem permitir que os usuários enviem convites de compartilhamento de calendário usando o Microsoft Outlook Web App ou o Microsoft Outlook 2010 ou posterior.
   
 > [!IMPORTANT]
 >  As organizações do External Exchange 2010 e do Exchange 2013 devem configurar uma confiança de federação com o Microsoft Federation Gateway como parte da configuração do compartilhamento federado. As organizações do Exchange Online não precisam configurar uma confiança de federação - a confiança de federação com o Microsoft Federation Gateway é criada automaticamente quando o locatário do Office 365 é criado. >  As organizações do Exchange Online devem configurar um relacionamento de organização ou uma política de compartilhamento para permitir o compartilhamento federado. >  Compartilhar a lista de acesso global (GAL) ou mover as caixas de correio do usuário entre as organizações do Exchange Online em diferentes locatários do Office 365 não são suportados no compartilhamento federado. 

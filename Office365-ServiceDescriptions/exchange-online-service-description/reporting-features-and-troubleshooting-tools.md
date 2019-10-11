@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: O Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração do Exchange (Eat).
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776862"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442636"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Recursos de Relatórios e Ferramentas de Solução de Problemas
 
@@ -41,7 +41,7 @@ Você também pode usar a pasta de trabalho de relatórios do Excel 2013 para vi
   
 ### <a name="reporting-using-web-services"></a>Criar relatórios usando serviços Web
 
-O acesso aos relatórios de resumo e detalhados sobre caixas de correio, grupos e dados de mensagens está disponível por meio do uso do serviço Web de Relatório de Locatário REST/OData, que é uma interface programática que permite criar relatórios personalizados. Para saber mais, confira [Serviços Web de Relatórios do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=287041).
+O acesso aos relatórios de resumo e detalhado sobre caixas de correio, grupos e dados de mensagens está disponível usando o serviço Web de relatório de locatários do REST/OData, que é uma interface programática que permite criar relatórios personalizados. Para obter mais informações, consulte [Office 365 Reporting Web Services](https://go.microsoft.com/fwlink/p/?LinkId=287041).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Ferramentas de recursos e solução de problemas de relatório no EAC
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. . Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as descrições de serviço do Office 365.
-ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
-ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
+ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717539"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442546"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição dos serviços do Microsoft 365 Business
 
@@ -58,7 +58,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Vídeo do Office 365  <br/> |Não  <br/> |Não  <br/> |
 |Bloco de Anotações de Classe  <br/> |Não  <br/> |Não  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Recursos de Administração do Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Recursos do centro de administração do Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Não<sup>6</sup> <br/> |Sim  <br/> |
 |Ativação de computador compartilhado <br/> |Não <br/> |Sim  <br/> |
@@ -94,7 +94,7 @@ Para exibir a disponibilidade de recursos nos planos do Office 365, confira a [D
 |Gerenciamento de Segurança Avançada  <br/> |Não  <br/> |Não  <br/> |
 |Sistema de Proteção de Dados do Cliente  <br/> |Não  <br/> |Não  <br/> |
 |Chave de cliente do Office 365<sup>12</sup> <br/> |Não  <br/> |Não  <br/> |
-|Descoberta eletrônica avançada do<sup></sup> Office 365 <br/> |Não  <br/> |Não  <br/> |
+|<sup>Descoberta eletrônica</sup> avançada do Office 365 <br/> |Não  <br/> |Não  <br/> |
 |Pontuação segura<sup>14</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |
 |[Conformidade[ServiceDesc]](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |

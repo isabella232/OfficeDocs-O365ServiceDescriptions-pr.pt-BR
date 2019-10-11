@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Para a maioria das organizações que usam o Office 365, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui.
-ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231409"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442596"
 ---
 # <a name="mail-flow"></a>Fluxo de e-mails
 
@@ -65,7 +65,7 @@ O [Assistente de Implantação do Microsoft Exchange Server](https://go.microsof
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>Espaço de endereço compartilhado com controle de roteamento local (MX aponta para local)
 
-Espaço de endereço compartilhado com controle de roteamento no local (MX aponta para local) é um cenário de roteamento de email de implantação híbrida em que as caixas de correio são hospedadas parcialmente no Exchange Online e parcialmente no local, e o fluxo de email de Internet de entrada e de saída é encaminhado por meio da organização do Exchange local. Esse cenário é também chamado de transporte de email centralizado. Neste cenário, o Exchange Online recebe o EOP, e o email de Internet de entrada é roteado para o servidor de email local antes de ser roteado para o EOP e, finalmente, para as caixas de correio hospedadas no Exchange Online. Além disso, o email de saída das caixas de correio do Exchange Online é encaminhado por meio da organização do Exchange local para mensagens enviadas a destinatários externos. Com essa configuração, você usa um namespace de domínio SMTP único para todas as caixas de correio na organização do Exchange local e na sua organização do Exchange Online. 
+Espaço de endereçamento compartilhado com controle de roteamento local (os pontos MX para local) é um cenário de roteamento de email de implantação híbrida no qual suas caixas de correio são hospedadas parcialmente no Exchange Online e no fluxo de email de entrada e saída da Internet o é roteado através da organização do Exchange local. Esse cenário é também chamado de transporte de email centralizado. Neste cenário, o Exchange Online é provisionado com o EOP e o email de entrada da Internet é roteado para o seu servidor de email local antes de ser roteado para o EOP e finalmente para caixas de correio hospedadas no Exchange Online. Além disso, o email de saída das caixas de correio do Exchange Online é encaminhado por meio da organização do Exchange local para mensagens enviadas a destinatários externos. Com essa configuração, você usa um namespace de domínio SMTP único para todas as caixas de correio na organização do Exchange local e na sua organização do Exchange Online. 
   
 Para saber mais sobre as opções de transporte em uma implantação híbrida, confira [Opções de Transporte em Implantações Híbridas do Exchange](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   

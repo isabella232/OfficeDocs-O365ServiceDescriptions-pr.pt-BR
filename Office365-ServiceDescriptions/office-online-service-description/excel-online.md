@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401757"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442746"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -88,7 +88,11 @@ Só o aplicativo Microsoft Excel para a área de trabalho é compatível com os 
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Gráficos e tabelas, inclusive relatórios de Gráfico Dinâmico e de Tabela Dinâmica
 
 Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento de informações. Para saber mais, confira [criar e formatar tabelas](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) e [visão geral de relatórios de tabela dinâmica e gráfico dinâmico](https://go.microsoft.com/fwlink/?linkid=55417).
-  
+
+## <a name="check-spelling"></a>Verificar ortografia
+
+Para verificar a ortografia de qualquer texto na sua planilha, selecione **revisar** > **** > **ortografia**da verificação. Saiba mais sobre a [verificação ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+
 ## <a name="comment-creation"></a>Comment creation
 
 Você pode inserir, editar e excluir comentários no Excel para a Web. Você também pode resolver um thread de comentários, que o fecha para editar e para novos comentários, mas o deixa em vigor. Isso permite que você reabra o thread para comentários, se necessário. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
@@ -123,7 +127,7 @@ O Dropbox é um serviço de hospedagem de arquivos que oferece armazenamento na 
   
 ## <a name="duplicate-copy-worksheets"></a>Planilhas duplicadas (copiar)
 
-Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho do Excel para a Web. Saiba mais sobre como [copiar planilhas no Excel para a Web](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online).
+Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho do Excel para a Web. Saiba mais sobre como [copiar planilhas no Excel para a Web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Inserir pasta de trabalho em uma página da Web ou de blog (OneDrive)
 
@@ -137,7 +141,7 @@ Uma referência externa (também chamada de link) é uma referência a uma célu
 
 Arraste a Alça de Preenchimento no canto inferior direito de uma célula ou de um intervalo de células selecionado para preencher as células adjacentes com dados.
   
-## <a name="find"></a>Encontrar
+## <a name="find"></a>Localizar
 
 Encontre o conteúdo de células na planilha ativa. Uma caixa de diálogo fácil de usar fornece a opção de pesquisar para cima ou para baixo na seleção atual da planilha.
   
@@ -171,7 +175,7 @@ Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência d
  
 ## <a name="group-data"></a>Dados de grupo
 
-Você pode agrupar ou estruturar linhas e colunas na planilha do Excel para a Web. Saiba mais sobre como [agrupar dados no Excel para a Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+Você pode agrupar ou estruturar linhas e colunas na planilha do Excel para a Web. Saiba mais sobre como [agrupar dados no Excel para a Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -181,9 +185,9 @@ Você pode ocultar e Reexibir linhas, colunas e planilhas em uma pasta de trabal
 
 Crie um gráfico para representar visualmente os seus dados. Escolha dentre diversos tipos de gráficos, como gráficos de coluna, linha, pizza ou barra. Saiba mais sobre os [tipos de gráficos disponíveis](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
-## <a name="insertdelete-rows-and-columns"></a>Inserir/excluir linhas e colunas
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-Selecione uma ou mais linhas antes de clicar em Inserir ou Excluir na guia Página Inicial para adicionar ou remover linhas ou colunas (uma de cada vez ou várias ao mesmo tempo) em sua planilha.
+Selecione uma ou mais linhas antes de selecionar **Inserir** ou **excluir** na guia **página inicial** para adicionar ou remover linhas ou colunas na planilha um de cada vez ou vários ao mesmo tempo.
 
 ## <a name="insert-pictures"></a>Inserir imagens
 
@@ -195,7 +199,7 @@ Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas 
   
 ## <a name="merge-cells"></a>Merge cells
 
-Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
+Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. Você pode alterar o alinhamento selecionando os botões de alinhamento.
 
 ## <a name="named-ranges"></a>Intervalos nomeados
 
@@ -213,7 +217,7 @@ Altere o formato dos números. Escolha um formato como Moeda ou Data Abreviada e
 
 O Excel para a Web é iniciado a partir de um navegador da Internet e depende de uma conexão com a Internet. Para acessar planilhas offline, o aplicativo de área de trabalho Microsoft Excel precisa ser instalado em seu computador e usado para ver e editar planilhas do Excel.
 
-## <a name="pivottables"></a>PivotTables
+## <a name="pivottables"></a>Tabela Dinâmica
 
 Você pode inserir tabelas dinâmicas no Excel para a planilha da Web e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma [tabela dinâmica no Excel para a Web](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
 
@@ -249,13 +253,13 @@ Se os dados em sua pasta de trabalho estiverem conectados a fontes externas, com
 
 Você pode remover valores duplicados em um intervalo ou tabela. Para obter mais informações, consulte [filtro para valores exclusivos ou remover valores duplicados](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
-## <a name="rename-and-add-sheets"></a>Renomear e adicionar planilhas
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
-Clique no ícone Nova Planilha para adicionar uma planilha. Clique com o botão direito do mouse na guia de uma planilha para renomeá-la.
+Selecione o ícone nova planilha para adicionar uma planilha. Clique com o botão direito do mouse na guia de uma planilha para renomeá-la.
   
 ## <a name="rename-file-while-workbook-is-open"></a>Renomear o arquivo com a pasta de trabalho aberta
 
-No Excel para a Web, você pode renomear um arquivo de pasta de trabalho sem fechá-lo clicando no nome do arquivo no cabeçalho e digitando um novo nome. Para renomear um arquivo usando o aplicativo da área de trabalho Excel, feche o arquivo, navegue para seu local no dispositivo e renomeie o arquivo.
+No Excel para a Web, você pode renomear um arquivo de pasta de trabalho sem fechá-lo selecionando o nome de arquivo no cabeçalho e digitando um novo nome. Para renomear um arquivo usando o aplicativo da área de trabalho Excel, feche o arquivo, navegue para seu local no dispositivo e renomeie o arquivo.
   
 ## <a name="replace"></a>Substituir
 
@@ -279,7 +283,7 @@ Ao compartilhar um arquivo do Excel com outros usuários, você pode proteger a 
   
 ## <a name="slicer-viewing"></a>Exibição de segmentação de dados
 
-Exiba segmentações de dados em sua planilha e filtre dados clicando nos botões de segmentação de dados. Você não pode criar ou editar segmentações de, no Excel, para a Web.
+Exiba segmentações de dados em sua planilha e filtre seus dados selecionando os botões de segmentação de dados. Você não pode criar ou editar segmentações de, no Excel, para a Web.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -307,7 +311,7 @@ Você pode aplicar várias opções de formatação de texto, incluindo tachado,
 
 ## <a name="total-data"></a>Dados totais
 
-Você pode rapidamente totalizar dados em uma tabela clicando em alternar linha de total em Formatar como tabela na guia página inicial. 
+Você pode rapidamente totalizar dados em uma tabela habilitando a opção Alternar linha de total. Para obter mais informações, consulte [total de dados em uma tabela do Excel](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web).
 
 ## <a name="undo-and-redo"></a>Desfazer e refazer
 

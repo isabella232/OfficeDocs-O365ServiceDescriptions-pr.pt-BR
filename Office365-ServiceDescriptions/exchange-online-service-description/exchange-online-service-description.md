@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 2038f53408d3c7e924e90f8b9f7a898a52d36530
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776592"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442646"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de Serviço do Exchange Online
 
@@ -35,7 +35,7 @@ Você deseja uma comparação de recursos de assinaturas do Office 365 que inclu
   
 Microsoft Exchange Online é uma solução de mensagens hospedada que fornece o recursos do Microsoft Exchange Server como um serviço baseado em nuvem. Isso permite que os usuários acessem o e-mail, o calendário, os contatos e as tarefas a partir de computadores, da Web e de dispositivos móveis. Ele se integra totalmente ao Active Directory, permitindo que os administradores usem políticas de grupo, bem como outras ferramentas administrativas, para gerenciar os recursos do Exchange Online em seu ambiente.
   
-As organizações que assinam o Exchange Online mantêm controle sobre os serviços de mensagens que oferecem aos usuários, mas elas não têm a carga operacional de software de servidor local. Com os planos hospedados do Exchange Online descritos neste documento, o email é hospedado em servidores que dão suporte a vários clientes simultaneamente. Esses servidores estão hospedados em data centers da Microsoft e acessíveis aos usuários em uma ampla gama de dispositivos de dentro de uma rede corporativa ou pela Internet.
+As organizações que assinam o Exchange Online mantêm controle sobre os serviços de mensagens que oferecem aos usuários, mas elas não têm a carga operacional de software de servidor local. Com os planos hospedados do Exchange Online descritos neste documento, o email é hospedado em servidores que dão suporte a vários clientes simultaneamente. Esses servidores são hospedados em data centers da Microsoft e podem ser acessados por usuários em uma ampla variedade de dispositivos de dentro de uma rede corporativa ou pela Internet.
   
 Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans). Para comparar os planos do Office 365 Germany, confira [Planos de assinatura do Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
@@ -171,7 +171,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Políticas de ActiveSync para Dispositivos Móveis|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Relatórios de Uso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Complementos do Outlook e MAPI do Outlook|Sim<sup>19</sup>|Sim|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Não|
 
 <sup>1</sup> requer uma assinatura de arquivamento do Exchange Online para cada usuário de caixa de correio local que tenha um arquivo morto baseado em nuvem. <br/>
@@ -196,7 +196,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 <sup>20</sup> para descoberta eletrônica, você precisa de uma consulta separada para o local vs. Cloud. <br/>
 <sup>21</sup> a tabela indica se o cliente funciona ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos. <br/>
 <sup>22</sup> para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> o suporte da um do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCS operado pelo cliente terminará em abril de 2019. Consulte o blog da equipe do Exchange descontinuando o [suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) para obter mais informações. <br/>
+<sup>23</sup> o suporte da um do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCS operado pelo cliente terminará em abril de 2019. Consulte o blog [da equipe do Exchange descontinuando o suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) para obter mais informações. <br/>
 <sup>24</sup> um usuário F1 não pode adicionar representantes à sua própria caixa de correio, mas pode acessar outra caixa de correio (incluindo caixas de correio compartilhadas) e executar qualquer ação que tenha sido delegada a elas.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilidade de recursos nos planos autônomos do Exchange Online
@@ -301,7 +301,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|
 |Políticas de ActiveSync para Dispositivos Móveis|Sim|Sim|Sim|Sim|Sim|
 |Relatórios de Uso|Sim|Sim|Sim|Sim|Sim|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Web Parts do Outlook Web App|Sim|Sim|Sim|Sim|Sim|
 |Complementos do Outlook e MAPI do Outlook|Sim|Sim|Sim<sup>21</sup>|Sim<sup>21</sup>|Não|
 
