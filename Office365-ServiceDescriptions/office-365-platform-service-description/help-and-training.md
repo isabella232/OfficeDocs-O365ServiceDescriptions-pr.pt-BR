@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: O Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
-ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 8bd0fbb57d7555514f6aa58c8e1b95740d852f79
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130895"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523409"
 ---
 # <a name="help-and-training"></a>Ajuda e treinamento
 
@@ -88,17 +88,17 @@ Na home page da comunidade Office 365, os clientes podem acessar os seguintes re
     
 - **Blogs** O blog técnico Office 365é um bom recurso para obter informações atuais sobre os serviços on-line Office 365 e aprender sobre as vantagens dos recursos e das funções do Office 365. Os tópicos incluem ideias dos produtos, anúncios de novos produtos, entrevistas do cliente e uma série de blogs do convidado. 
     
-Para saber mais, visite a comunidade do [Office 365](https://go.microsoft.com/fwlink/?LinkId=272057).
+Para saber mais, visite a comunidade do [Office 365](https://techcommunity.microsoft.com/).
   
-## <a name="office-365-techcenter"></a>TechCenter do Office 365
+## <a name="manage-office-365-guidance"></a>Gerenciar orientações do Office 365
 
-Os profissionais de IT das grandes organizações podem visitar o TechCenter Office 365 no TechNet. O TechCenter Office 365 fornece uma orientação de implantação complexa para as grandes organizações.
+Profissionais de ti de grandes organizações podem visitar a Home Page gerenciar documentação do Office 365. Esta página fornece links para uma orientação de implantação complexa destinada a grandes organizações.
   
-Para saber mais, visite o [TechCenter do Office 365](https://go.microsoft.com/fwlink/?LinkId=272058).
+Para obter mais informações, visite [gerenciar o Office 365](https://docs.microsoft.com/Office365/).
   
 ## <a name="other-self-help-resources"></a>Outros recursos de autoajuda
 
-Além da comunidade Office 365 e da ajuda on-line, o Office 365 inclui os seguintes recursos de autoajuda:
+Além da ajuda online e da Comunidade do Office 365, o Office 365 inclui os seguintes recursos de autoajuda:
   
 - **Ferramenta de solução de problemas para o Office 365** Depois de responder a pequenas perguntas sobre seu problema, a ferramenta de solução de problemas para o Office 365 sugere ferramentas úteis e informações com base em suas respostas. Para usar a ferramenta, acesse a página [Ferramenta de solução de problemas para o Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) da comunidade Office 365. 
     
@@ -149,6 +149,4 @@ Os recursos de ajuda e treinamento estão disponíveis nos seguintes idiomas.
    
 ## <a name="feature-availability"></a>Disponibilidade do recurso
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções independentes e nas soluções locais, consulte [Descrição de serviço da plataforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
-  
-
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).

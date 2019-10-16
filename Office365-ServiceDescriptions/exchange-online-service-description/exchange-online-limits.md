@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 5e804bdb93ac7f2e001879e6f0555330f7425ff3
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: efab17a6513dac571abfd314549d0f90017564da
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442686"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523446"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -346,23 +346,27 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Limite de taxa de destinatários|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|
+|Limite de taxa de destinatário<sup>1</sup>|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|
 |Limite de destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|
 |Limite de endereço proxy do destinatário|400|400|400|400|400|400|
 |Limite de taxa de mensagens|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|
+
+> [!NOTE]
+> <sup>1</sup> depois que o limite de taxa de destinatários for atingido, as mensagens não poderão ser enviadas da caixa de correio até que o número de destinatários que foram enviados mensagens nas últimas 24 horas fique abaixo do limite. Por exemplo, um usuário envia uma mensagem de email para os destinatários 5.000 às 09:00 AM e, em seguida, envia outra mensagem para os destinatários 2.500 no 10:00 AM e, em seguida, envia outra mensagem para os destinatários de 2.500, atingindo o limite de mensagens de 11:00. O usuário não poderá enviar mensagens novamente até 09:00, no dia seguinte.
 
 #### <a name="sending-limits-across-standalone-options"></a>Limites de envio nas opções autônomas
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Exchange Server 2013**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Limite de taxa de destinatários|Sem limites<sup>1</sup>|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|
+|Limite de taxa de destinatários|Sem limites<sup>1</sup>|10.000 destinatários por dia<sup>2</sup>|10.000 destinatários por dia<sup>2</sup>|10.000 destinatários por dia<sup>2</sup>|
 |Limite de destinatários|500 destinatários<sup>1</sup>|500 destinatários|500 destinatários|500 destinatários|
 |Limite de endereço proxy do destinatário|400|400|400|400|
 |Limite de taxa de mensagens|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|
 
 > [!NOTE]
-> <sup>1</sup> Este é o limite padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização.
+> <sup>1</sup> Este é o limite padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização.<br/>
+<sup>2</sup> depois que o limite de taxa de destinatários for atingido, as mensagens não poderão ser enviadas da caixa de correio até que o número de destinatários que foram enviados mensagens nas últimas 24 horas fique abaixo do limite. Por exemplo, um usuário envia uma mensagem de email para os destinatários 5.000 às 09:00 AM e, em seguida, envia outra mensagem para os destinatários 2.500 no 10:00 AM e, em seguida, envia outra mensagem para os destinatários de 2.500, atingindo o limite de mensagens de 11:00. O usuário não poderá enviar mensagens novamente até 09:00, no dia seguinte.
 
 ## <a name="reporting-and-message-trace-limits"></a>Limites de rastreamento de mensagens e relatórios
 
@@ -474,8 +478,8 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, de tran
 |Limites de verificação de conteúdos de anexos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|
 |Limite de encaminhamento|10 destinatários|10 destinatários|10 destinatários|10 destinatários|10 destinatários|10 destinatários|
-|Número de vezes que uma mensagem é redirecionada|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
-|Número de vezes em que uma mensagem é redirecionada por regras de transporte|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
+|Número de vezes que uma mensagem é redirecionada|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
+|Número de vezes em que uma mensagem é redirecionada por regras de transporte|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limites de regra de Diário, Transporte e Caixa de Entrada entre opções independentes
 
@@ -486,8 +490,8 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, de tran
 |Número máximo de regras de transporte|Sem limite|300 regras|300 regras|300 regras|
 |Tamanho máximo de uma regra de transporte individual|40 KB|8 KB|8 KB|8 KB|
 |Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte|Sem limites|20 KB|20 KB|20 KB|
-|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|Sem limite|100 destinatários|100 destinatários|100 destinatários|
-|Limite de encaminhamento|Sem limites|10 destinatários|10 destinatários|10 destinatários|
+|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|Sem limites|100 destinatários|100 destinatários|100 destinatários|
+|Limite de encaminhamento|Sem limite|10 destinatários|10 destinatários|10 destinatários|
 |Número de vezes que uma mensagem é redirecionada|3 redirecionamentos|1 redirecionamento|1 redirecionamento|1 redirecionamento|
 |Número de vezes em que uma mensagem é redirecionada por regras de transporte|Sem limite|1 redirecionamento|1 redirecionamento|1 redirecionamento|
 

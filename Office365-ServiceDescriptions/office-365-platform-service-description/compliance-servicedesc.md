@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: O Microsoft Office 365 obedece aos padrões e regulamentos da indústria e foi projetado para ajudá-lo a atender aos requisitos normativos de sua empresa. Para mais informações, consulte ofertas de conformidade.
-ms.openlocfilehash: fc899afcbf91bd34825f1b741428ae9e08c49856
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 8d93ff65402361b610ef6a41ed855667a0cdc8b6
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776982"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523456"
 ---
 # <a name="compliance"></a>Conformidade
 
@@ -107,10 +107,9 @@ Além disso, observe as seguintes perguntas para o PCI-DSS:
     
   - **Regra de privacidade financeira** Essa regra rege a coleta e a divulgação de informações financeiras pessoais dos clientes por instituições financeiras. 
     
-  - **Regra** de salvaguardas Essa regra exige que todas as instituições financeiras projetem, implementem e mantenham as salvaguardas para proteger as informações do cliente, se eles coletam ou recebem essas informações de outras instituições financeiras 
+  - **Regra de salvaguardas** Essa regra exige que todas as instituições financeiras projetem, implementem e mantenham as salvaguardas para proteger as informações do cliente, se eles coletam ou recebem essas informações de outras instituições financeiras 
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](office-365-platform-service-description.md).
   
-
