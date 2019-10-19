@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: O Microsoft Office 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office com os quais você já está familiarizado, como o Word, o Excel e o PowerPoint.
-ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998513"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595229"
 ---
 # <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
@@ -57,7 +57,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |[Office Mobile para Android](office-applications.md#office-mobile-for-android) <br/> |Não  <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup>  <br/>|Sim  <br/> |Sim  <br/> |Sim<sup>14</sup>  <br/> |Sim  <br/> |Sim<sup>14</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>14</sup>  <br/> |Sim  <br/> |
 |[Office Mobile para Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Não  <br/> |Sim<sup>13</sup> <br/> |Sim <sup>13</sup> <br/>|Sim  <br/> |Sim  <br/> |Sim<sup>14</sup>  <br/> |Sim  <br/> |Sim<sup>14</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>14</sup>  <br/> |Sim  <br/> |
 |Outlook para Android  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
-|**Valor Corporativo** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
+|**Valor corporativo** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
 |5 instalações por usuário em PC ou Mac  <br/> |Não  <br/> |Não  <br/>| Não  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> | Sim<sup>7</sup> <br/> |
 |Provisionamento automatizado de contas de usuário  <br/> |N/D  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Interface de usuário multilíngue  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
@@ -66,7 +66,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Suporte ao cliente para SharePoint local  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Controle de atualizações de software  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/>  |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Comparação de Banco de Dados  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br> |
-|Virtualização de área de trabalho  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim<sup>8</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
+|Virtualização de área de trabalho  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim<sup>8</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
 |Comparação de planilhas do Excel  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Pesquisa de planilhas do Excel  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/>
 |Armazenamento e conformidade do Exchange Online e do SharePoint Online  <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/>|Sim<sup>1</sup> <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |

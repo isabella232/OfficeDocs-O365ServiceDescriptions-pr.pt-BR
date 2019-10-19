@@ -1,5 +1,5 @@
 ---
-title: Rastreamento de mensagens e relatórios
+title: Relatórios e rastreamento de mensagens
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
-ms.openlocfilehash: b87d81210cce585d8e5ccf9d8d52456286bfab91
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b8afb8a404fb322d70ce5d393c5a5e70cc5af6aa
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442706"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581897"
 ---
-# <a name="reporting-and-message-trace"></a>Rastreamento de mensagens e relatórios
+# <a name="reporting-and-message-trace"></a>Relatórios e rastreamento de mensagens
 
 O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração do Exchange (Eat).
 
@@ -40,8 +40,8 @@ Não disponível para clientes autônomos do EOP. Você pode usar o serviço Web
 
 ## <a name="message-trace"></a>Rastreamento de mensagens
 
-O recurso de rastreamento de mensagens no EAC permite que um administrador acompanhe as mensagens de email conforme elas passam pelo EOP. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Mostra também quais as ações ocorreram com a mensagem antes do status final. Obtendo informações detalhadas sobre uma mensagem específica permite que você responde com eficiência às perguntas do usuário, solucione problemas de fluxo de email, valide alterações de política e alivie a necessidade de entrar em contato com o suporte técnico para assistência. Para obter mais informações, consulte [executar um rastreamento de mensagem e exibir os resultados no centro de administração do Exchange](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
+O recurso de rastreamento de mensagens no Eat permite que você, como administrador, siga as mensagens de email à medida que elas passam pelo EOP. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Mostra também quais as ações ocorreram com a mensagem antes do status final. Obtendo informações detalhadas sobre uma mensagem específica permite que você responde com eficiência às perguntas do usuário, solucione problemas de fluxo de email, valide alterações de política e alivie a necessidade de entrar em contato com o suporte técnico para assistência. Para obter mais informações, consulte [executar um rastreamento de mensagem e exibir os resultados no centro de administração do Exchange](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
 
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).

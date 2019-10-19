@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: O Microsoft Exchange Online usa um modelo de Controle de Acesso Baseado em Função (RBAC) para permitir que os administradores da organização controlem detalhadamente o que usuários e funcionários de TI podem fazer no serviço. Por exemplo, se um responsável pela conformidade for responsável por solicitações de pesquisa de caixa de correio, o administrador poderá delegar esse recurso administrativo ao responsável por meio de RBAC. O Exchange Online usa a mesma estrutura de RBAC do Microsoft Exchange Server 2013.
-ms.openlocfilehash: 49d388e08b606fab5df0fc23435aef37d1029050
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: d6b0add4925524fd024ebea2ff044afd96cde698
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776842"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581947"
 ---
 # <a name="permissions"></a>Permissões
 
@@ -35,7 +35,7 @@ Existem dois tipos de funções, funções administrativas e de usuário final:
   
 - **Funções administrativas** Essas funções contêm permissões que podem ser atribuídas a administradores ou usuários especialistas que utilizam grupos de funções que gerenciam uma parte da organização do Exchange Online, como destinatários, servidores ou bancos de dados. 
     
-- **Funções do usuário final** Essas funções, atribuídas por meio de diretivas de atribuição de função, permitem que os usuários gerenciem aspectos de suas próprias caixas de correio e grupos de distribuição de sua propriedade. As funções de usuário final começam com o prefixo  `My`.
+- **Funções de usuário final** Essas funções, atribuídas por meio de diretivas de atribuição de função, permitem que os usuários gerenciem aspectos de suas próprias caixas de correio e grupos de distribuição de sua propriedade. As funções de usuário final começam com o prefixo  `My`.
     
 As funções atribuem permissões aos administradores e usuários para executar tarefas por meio da disponibilização de cmdlets. Como o EAC (centro de administração do Exchange) e o Shell de Gerenciamento do Exchange usam cmdlets para gerenciar o Exchange Online, conceder acesso a um cmdlet fornece ao administrador ou usuário a permissão para executar a tarefa em cada uma das interfaces de gerenciamento do Exchange Online.
   
@@ -48,7 +48,7 @@ Confira mais informações sobre permissões no Exchange Online em [Permissões 
   
 ## <a name="role-groups"></a>Grupos de função
 
-Grupos de funções de Gerenciamento associam papéis de gerenciamento a um grupo de administradores ou usuários especialistas. Os administradores gerenciam uma ampla configuração de organização ou destinatário do Exchange Online. Usuários especialistas gerenciam os recursos específicos do Exchange Online, como conformidade, ou podem ter recursos de gerenciamento limitados, como membros de Suporte Técnico, mas não recebem amplos direitos administrativos. Os grupos de função geralmente associam funções de gerenciamento administrativas que permitem a administradores e usuários especialistas gerenciarem a configuração de sua organização e destinatários. Por exemplo, grupos de função controlam se administradores podem gerenciar destinatários ou usar recursos de descoberta da caixa de correio. 
+Grupos de funções de Gerenciamento associam papéis de gerenciamento a um grupo de administradores ou usuários especialistas. Os administradores gerenciam uma ampla configuração de organização ou destinatário do Exchange Online. Usuários especialistas gerenciam os recursos específicos do Exchange Online, como conformidade, ou podem ter recursos de gerenciamento limitados, como membros de Suporte Técnico, mas não recebem amplos direitos administrativos. Grupos de função geralmente associam funções de gerenciamento administrativo que permitem que administradores e usuários especialistas gerenciem a configuração de sua organização e seus destinatários. Por exemplo, grupos de função controlam se administradores podem gerenciar destinatários ou usar recursos de descoberta da caixa de correio. 
   
 > [!IMPORTANT]
 > Alguns grupos de funções disponíveis na versão local do Microsoft Exchange Server 2013 podem não estar disponíveis no Exchange Online. 
@@ -64,8 +64,8 @@ Diretivas de atribuição de função de gerenciamento associam funções de ger
   
 Confira mais informações sobre políticas de atribuição de funções em [Grupos de funções e políticas de atribuição de funções](https://go.microsoft.com/fwlink/p/?LinkId=271937).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

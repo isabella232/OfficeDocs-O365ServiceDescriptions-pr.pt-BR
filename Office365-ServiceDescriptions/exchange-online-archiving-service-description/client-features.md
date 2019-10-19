@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: O arquivamento do Microsoft Exchange Online permite que os usuários se conectem às caixas de correio de arquivo morto de vários dispositivos e plataformas. Toda a conectividade de rede para o arquivamento do usuário ocorre pela Internet, e as conexões de rede virtual privada (VPN) não são obrigatórias. As organizações podem publicar um servidor de Acesso para Cliente para permitir que os usuários acessem sua caixa de correio primária usando o Outlook em Qualquer Lugar, sem requerer uma conexão VPN. Se o acesso VPN for requerido para acessar a caixa de correio primária do usuário localizada em um servidor local, esse requisito não mudará.
-ms.openlocfilehash: dfe2ebf3b329d99f3166aa2d965603987205054c
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 9bdf09711e571d6d75636bcebfd3572ecadfe670
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442496"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581437"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Recursos do cliente no arquivamento do Exchange Online
 
@@ -33,7 +33,7 @@ O Microsoft Outlook é um sofisticado programa de email que inclui suporte ao ca
 - **Outlook em qualquer lugar** O Outlook em qualquer lugar permite que os usuários do Outlook se conectem ao Exchange Server e ao arquivamento do Exchange Online pela Internet sem a necessidade de uma conexão VPN. A comunicação entre o Outlook e o Arquivamento do Exchange Online ocorre via túnel com segurança SSL, usando o componente de rede Windows RPC-over-HTTP.    
 - **Descoberta automática** O serviço da Descoberta automática do Exchange configura automaticamente o Outlook para trabalhar com o Arquivamento do Exchange Online. A descoberta automática permite que os usuários do Outlook recebam suas configurações de perfil necessárias diretamente do Exchange na primeira vez (e em intervalos fixos depois) que eles entrem com seu endereço de email e senha. 
 
-O Outlook 2010, e posterior, e o Outlook Web App oferecem aos usuários todos os recursos do arquivamento, assim como os recursos relacionados, como políticas de retenção e de arquivamento.
+O Outlook 2010 e posterior e o Outlook na Web fornecem aos usuários todos os recursos do arquivo morto, bem como os recursos relacionados, como políticas de retenção e arquivamento.
   
 O Outlook 2007 oferece suporte básico ao arquivamento, mas nem todos os recursos de arquivamento e conformidade estão disponíveis no Outlook 2007. Por exemplo, com o Outlook 2007, os usuários não podem aplicar políticas de retenção ou de arquivamento aos itens em suas caixas de correio. Eles devem usar as políticas provisionadas pelo administrador. Os usuários do Outlook 2007 devem ter a Atualização Cumulativa do Office 2007 de fevereiro de 2011 para acessarem o arquivamento.
   
@@ -60,12 +60,12 @@ A tabela a seguir lista os clientes suportados pelo Arquivamento do Exchange Onl
 <sup>2</sup> Requer atualização para ativar o suporte ao arquivamento. Os usuários do Outlook 2007 não podem exibir ou aplicar as políticas de retenção ou de arquivamento nos itens em suas caixas de correio de arquivamento; eles devem usar as políticas fornecidas pelo administrador. E mais, os usuários do Outlook 2007 não podem pesquisar a caixa de correio local e o arquivamento ao mesmo tempo. <br/> 
 <sup>3</sup> você não pode usar o Outlook 2016 para Mac ou o Outlook para Mac para mover ou copiar pastas, itens de calendário, contatos, tarefas ou anotações para o arquivo morto, ou exibi-las na caixa de correio de arquivo morto, se os itens foram movidos anteriormente usando qualquer outra versão do Outlook (como Outlook 2016 para Windows). Para obter mais informações, consulte [usar seu arquivo morto online com o Outlook 2016 para Mac](https://support.office.com/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
 
-## <a name="outlook-web-app"></a>Outlook Web App
+## <a name="outlook-on-the-web"></a>Outlook na Web
 
-O Outlook Web App é uma versão baseada na Web do programa de email Outlook usada com o Exchange Online. Sempre que os usuários estão conectados à Internet, em casa, no escritório ou em trânsito, eles podem acessar seus emails por meio do Outlook Web App.
+O Outlook na Web App é uma versão baseada na Web do programa de email do Outlook usado com o Exchange Online. Sempre que os usuários estão conectados à&mdash;Internet em casa, no escritório ou em trânsito&mdash;, eles podem acessar seus emails por meio do Outlook na Web.
   
-Os usuários podem acessar seu arquivamento se conectando ao Outlook Web App local (usando a mesma URL). O arquivamento aparecerá ao lado de sua caixa de correio principal no Outlook Web App. Não há nenhuma maneira explícita de acessar o arquivamento diretamente do Outlook Web App.
+Os usuários podem acessar o arquivo usando a entrada no Outlook na Web local (usando a mesma URL). O arquivo morto aparece junto com a caixa de correio principal no Outlook na Web. Não há uma maneira explícita de acessar o arquivo morto diretamente do Outlook na Web.
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do Serviço de Arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).

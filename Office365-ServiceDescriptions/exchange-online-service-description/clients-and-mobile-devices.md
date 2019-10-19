@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442696"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581917"
 ---
-# <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
+# <a name="clients-and-mobile-devices"></a>Clientes e dispositivos móveis
 
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
@@ -39,7 +39,7 @@ Para saber mais sobre quais clientes do Outlook são compatíveis com o Exchange
   
 ## <a name="outlook-on-the-web"></a>Outlook na Web
 
-O Outlook na Web App é uma versão baseada na Web do programa de email do Outlook usado com o Exchange Online. Permite que os usuários acessem seus emails, calendários e contatos por meio de um navegador da Web, de qualquer lugar que se conectem à Internet. Para saber mais sobre os navegadores com suporte, confira [Navegadores com suporte para o Outlook na Web para empresas](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
+O Outlook na Web App é uma versão baseada na Web do programa de email do Outlook usado com o Exchange Online. Ele permite que os usuários acessem seus emails, calendários e contatos por meio de um navegador da Web de onde eles se conectam à Internet. Para saber mais sobre os navegadores com suporte, confira [Navegadores com suporte para o Outlook na Web para empresas](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
 O Outlook na Web vem com duas versões para clientes, ambas podem ser usadas com o Exchange Online:
   
@@ -70,7 +70,7 @@ Há também opções para usar o Exchange Online com dispositivos, incluindo Bla
 
 O Outlook oferece aos usuários a experiência de email e de calendário rápida e intuitiva que eles esperam de um aplicativo móvel moderno, enquanto é o único aplicativo a oferecer suporte aos melhores recursos do Office 365. É o único aplicativo de email projetado especificamente para oferecer suporte à experiência completa do Office 365, oferecendo aos usuários uma experiência coerente de desktop para celular. O Outlook é integrado ao Intune, mobilidade corporativa e segurança e aos controles do Exchange para manter os dados e os usuários seguros.
   
-O Outlook permite aos usuários:
+Com o Outlook, os usuários podem:
   
 - Gerenciar o dia inteiro de um dispositivo móvel.
 
@@ -159,7 +159,7 @@ Para mais informações, consulte [BlackBerry](../office-365-platform-service-de
 > [!NOTE]
 > Se você estiver usando o Office 365 operado pela 21Vianet na China, o BlackBerry Business Cloud Services não estará disponível, mas será possível usar os dispositivos com o Exchange ActiveSync ou uma oferta da RIM (Research in Motion, a solução de email sem fio da BlackBerry) para executar o BES (Blackberry Enterprise Server). 
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   

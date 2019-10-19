@@ -11,32 +11,30 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: a88ccb9ec0280b43d58c290210b569fb17e7f7a0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776472"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581877"
 ---
-# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Conformidade e segurança recursos de Arquivamento do Exchange Online
+# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Recursos de conformidade e segurança no arquivamento do Exchange Online
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Recursos de conformidade no Exchange Online
 
 As seções a seguir descrevem os recursos de conformidade do Microsoft Arquivamento do Exchange Online.
   
 ### <a name="retention-policies"></a>Diretivas de retenção
-<a name="BKMK_Retentionpolicies"> </a>
 
-O Arquivamento do Exchange Online oferece políticas de retenção para ajudar as organizações a reduzir as obrigações associadas ao email e a outros meios de comunicação. Com essas políticas, os administradores podem aplicar configurações de retenção a pastas específicas nas caixas de entrada dos usuários. Os administradores podem também dar aos usuários um menu de políticas de retenção e permitir que eles apliquem as políticas a itens, conversas ou pastas específicos usando o Outlook 2010 ou posterior ou o Outlook Web App. No Arquivamento do Exchange Online, os administradores gerenciam políticas de retenção da infraestrutura no local.
+O Arquivamento do Exchange Online oferece políticas de retenção para ajudar as organizações a reduzir as obrigações associadas ao email e a outros meios de comunicação. Com essas políticas, os administradores podem aplicar configurações de retenção a pastas específicas nas caixas de entrada dos usuários. Os administradores também podem fornecer aos usuários um menu de políticas de retenção e permitir que eles apliquem as políticas a itens específicos, conversas ou pastas usando o Outlook 2010 ou posterior ou o Outlook na Web. No Arquivamento do Exchange Online, os administradores gerenciam políticas de retenção da infraestrutura no local.
   
 O Arquivamento do Exchange Online oferece dois tipos de condições: arquivar e excluir. Ambos os tipos podem ser combinados no mesmo item ou pasta. Por exemplo, um usuário pode marcar um email para ser movido automaticamente para o arquivo morto pessoal em um número específico de dias e excluído após outro intervalo de dias.
   
-Com o Outlook 2010 e o Outlook Web App, os usuários têm a flexibilidade de aplicar políticas de retenção a pastas, conversas ou mensagens individuais e também podem exibir as políticas de retenção e as datas de exclusão esperadas das mensagens. Os usuários de outros clientes de email podem ter emails excluídos ou arquivados com base nas políticas de retenção do lado do servidor provisionadas pelo administrador, mas não têm o mesmo nível de visibilidade e controle.
+Com o Outlook 2010 e posterior e o Outlook na Web, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais e também podem exibir as políticas de retenção aplicadas e datas de exclusão esperadas nas mensagens. Os usuários de outros clientes de email podem ter emails excluídos ou arquivados com base nas políticas de retenção do lado do servidor provisionadas pelo administrador, mas não têm o mesmo nível de visibilidade e controle.
   
 Os recursos de política de retenção oferecidos no Arquivamento do Exchange Online são iguais aos oferecidos no Exchange Server 2010 Service Pack 2 (SP2) e posterior. Os administradores podem gerenciar políticas de retenção de local Exchange Server 2010 e em ambientes posteriores. As pastas gerenciadas, uma abordagem mais antiga do gerenciamento de registros de mensagem que foi introduzida no Exchange 2007, não estão disponíveis no Exchange Online. Confira mais informações em [Marcas de retenção e políticas de retenção](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>Bloqueio In-loco e Retenção de Litígio
-<a name="BKMK_In_placehold"> </a>
 
 Quando existe uma expectativa razoável de litígio, as organizações são solicitadas a preservar informações armazenadas eletronicamente (ESI), incluindo emails, pertinentes ao caso. Essa expectativa pode acontecer antes que os detalhes do caso sejam conhecidos, e a preservação geralmente é total. As organizações podem preservar todos os emails relacionados a um tópico específico ou todos os emails de determinados indivíduos.
   
@@ -72,7 +70,6 @@ Confira mais informações em [Bloqueio In-loco e Retenção Local](https://go.m
 > A cota padrão para a Pasta Itens Recuperáveis é de 100 GB para os usuários do Arquivamento do Exchange Online. 
   
 ### <a name="in-place-ediscovery"></a>Descoberta Eletrônica In-loco
-<a name="BKMK_In_placehold"> </a>
 
 Arquivamento do Exchange Online eDiscovery suporta no local para pesquisar o conteúdo de caixas de correio em uma organização. Usando o centro de administração do Exchange ou remota do Windows PowerShell de um local Exchange 2013 servidor, os administradores ou gerentes de descoberta autorizados podem pesquisar uma variedade de itens de caixa de correio - incluindo as mensagens de e-mail, anexos, compromissos do calendário, tarefas e contatos. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Confira mais detalhes em [Descoberta Eletrônica In-loco](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
@@ -100,7 +97,7 @@ TLS é usado para criptografar a conexão entre servidores de email para ajudar 
 
 Conexões de cliente a Arquivamento do Exchange Online use os seguintes métodos de criptografia para aumentar a segurança:
   
-- SSL é usado para proteger o Outlook, o Outlook Web App e tráfego de serviços Web do Exchange, usando a porta TCP 443.
+- O SSL é usado para proteger o Outlook, o Outlook na Web e o tráfego de serviços Web do Exchange, usando a porta TCP 443.
     
 - Conexões de cliente com servidores locais não são alteradas com a introdução do Arquivamento do Exchange Online.
     
@@ -114,13 +111,13 @@ Semelhantemente, Arquivamento do Exchange Online armazena mensagens que são cri
 
 O Arquivamento do Exchange Online não oferece serviços hospedados de IRM (Gerenciamento de Direitos de Informação), mas os administradores podem usar o AD RMS (Active Directory Rights Management Services) local com o Exchange Online. Se um servidor AD RMS for implantado, o Outlook poderá se comunicar diretamente com o servidor, permitindo que os usuários redijam e leiam mensagens protegidas pelo AD RMS. Se estiver configurada a interoperabilidade entre o servidor do AD RMS e o ambiente do Exchange no local, os usuários será capazes de compor e ler mensagens protegidas por IRM.
   
-#### <a name="support-for-irm-in-outlook-web-app"></a>Suporte para IRM no Outlook Web App
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Suporte para IRM no Outlook na Web
 
-Os usuários podem ler e criar mensagens protegidas por IRM nativamente no Outlook Web App, assim como no Outlook. Eles podem também exibir mensagens protegidas por IRM no Outlook Web App usando os navegadores Internet Explorer, Firefox, Safari e Chrome (sem nenhum plug-in necessário). Os recursos de visualização incluem pesquisa de texto completo, exibição de conversa e o painel de visualização. Interoperabilidade entre o servidor do Active Directory Rights Management Services e o ambiente do Exchange no local deve ser configurada para habilitar isso.
+Os usuários podem ler e criar mensagens protegidas por IRM nativamente no Outlook na Web, assim como podem no Outlook. As mensagens protegidas por IRM no Outlook na Web podem ser acessadas por meio do Internet Explorer, Firefox, Safari e Chrome (sem nenhum plug-in necessário). Os recursos de visualização incluem pesquisa de texto completo, exibição de conversa e o painel de visualização. Interoperabilidade entre o servidor do Active Directory Rights Management Services e o ambiente do Exchange no local deve ser configurada para habilitar isso.
   
 #### <a name="irm-search"></a>Pesquisa IRM
 
-As mensagens protegidas por IRM são indexadas e pesquisáveis, incluindo cabeçalhos, assunto, corpo e anexos. Os usuários podem pesquisar itens protegidos por IRM no Outlook e no Outlook Web App e os administradores podem pesquisar itens protegidos por IRM usando a Descoberta Eletrônica In-loco ou o cmdlet **Search-Mailbox**. 
+As mensagens protegidas por IRM são indexadas e pesquisáveis, incluindo cabeçalhos, assunto, corpo e anexos. Os usuários podem pesquisar itens protegidos por IRM no Outlook e no Outlook na Web, e os administradores podem pesquisar itens protegidos por IRM usando a descoberta eletrônica in-loco ou o cmdlet **Search-Mailbox** .
   
 ### <a name="auditing"></a>Auditoria
 
@@ -134,7 +131,7 @@ Vários relatórios de auditoria pré-definidos estão disponíveis no Painel de
   
 Auditoria de administrador consta do registro por padrão e auditoria de caixa de correio Registro em log está desativado por padrão. Os administradores podem usar o PowerShell remoto do Windows para habilitar o log para algumas ou todas as caixas de correio em sua organização de auditoria de caixa de correio. Confira mais informações em [Relatórios de auditoria](https://go.microsoft.com/fwlink/p/?LinkId=314175).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
 Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do Serviço de Arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
   

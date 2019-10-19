@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: Esta seção descreve as interfaces de gerenciamento que estão disponíveis para administradores do Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 6a9e97d1c6ca59535ee76c1e8436b35899fba941
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442476"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581457"
 ---
 # <a name="administration-and-managementeop"></a>Administração e gerenciamento [EOP]
 
@@ -37,7 +37,7 @@ O Centro de administração do Exchange (EAC) é um console de gerenciamento uni
 
  Os administradores podem usar o Remote Windows PowerShell para executar tarefas de gerenciamento de linha de comando. Para saber mais sobre como usar o Windows PowerShell, incluindo informações sobre como criar uma sessão remota do Shell e documentação sobre cada cmdlet, confira [Exchange PowerShell Online](https://go.microsoft.com/fwlink/p/?LinkId=282266).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
   

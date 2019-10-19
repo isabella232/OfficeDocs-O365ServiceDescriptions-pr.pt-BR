@@ -1,5 +1,5 @@
 ---
-title: Diretiva e conformidade no envio e recebimento de mensagens
+title: Conformidade e política de sistema de mensagens
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
-ms.openlocfilehash: af611b7124c85866bad5bec74f853d70f721e5ae
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334118"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581867"
 ---
-# <a name="messaging-policy-and-compliance"></a>Diretiva e conformidade no envio e recebimento de mensagens
+# <a name="messaging-policy-and-compliance"></a>Conformidade e política de sistema de mensagens
 
 O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
 
@@ -35,7 +35,7 @@ O registro em log de auditoria permite que você controle as alterações espec�
 
 ## <a name="data-loss-prevention-dlp"></a>Prevenção de perda de dados (DLP)
 
-Não disponível para clientes autônomos do EOP. A Prevenção de Perda de Dados (DLP) ajuda a identificar, monitorar e proteger informações confidenciais de sua organização por meio de análise profunda de conteúdo. DLP é cada vez mais importante para sistemas de mensagens corporativos porque o email crucial para os negócios inclui dados confidenciais que precisam ser protegidos. O recurso DLP permite que você proteja dados confidenciais sem afetar a produtividade do trabalhador.
+Não disponível para clientes autônomos do EOP. A Prevenção de Perda de Dados (DLP) ajuda a identificar, monitorar e proteger informações confidenciais de sua organização por meio de análise profunda de conteúdo. DLP é cada vez mais importante para sistemas de mensagens corporativos porque o email crucial para os negócios inclui dados confidenciais que precisam ser protegidos. O recurso DLP permite proteger dados confidenciais sem afetar a produtividade do trabalhador.
 
 Você pode configurar as políticas de DLP no EAC, que permitem:
 
@@ -51,7 +51,7 @@ Você pode configurar as políticas de DLP no EAC, que permitem:
 
 - Detecte dados confidenciais por meio de impressão digital do documento. A impressão digital de documentos ajuda você a criar facilmente tipos de informações confidenciais personalizados com base em formulários baseados em texto que você pode usar para definir regras de fluxo de email e políticas de DLP.
 
-- Adicione Dicas de Política, que podem ajudar a reduzir a perda de dados ao exibirem um aviso para os usuários do Outlook 2013, Outlook Web App e OWA para Dispositivos além de aprimorar a efetividade de suas políticas permitindo o relato de falsos positivos.
+- Adicionar dicas de política, que podem ajudar a reduzir a perda de dados, exibindo um aviso para o Outlook 2013, Outlook na Web e OWA para dispositivos usuários e também podem melhorar a eficácia de suas políticas, permitindo relatórios falsos positivos.
 
 - Revise os dados de incidentes em relatórios de DLP ou adicione seus próprios relatórios específicos usando uma ação de geração de relatórios de incidentes.
 
@@ -70,7 +70,7 @@ A criptografia de mensagens do Office 365, parte da proteção de informações 
 |:-----|:-----|:-----|:-----|
 |Regras do fluxo de email|Sim<sup>1</sup>|Sim<sup>1</sup>|Sim<sup>1, 3</sup>|
 |Registro em log de auditoria|Sim<sup>2</sup>|Sim|Sim|
-|Prevenção de Perda de Dados (DLP)|Não|Sim|Sim<sup>3</sup>|
+|Prevenção de perda de dados (DLP)|Não|Sim|Sim<sup>3</sup>|
 |Criptografia de Mensagem do Office 365|Sim<sup>4</sup>|Sim|Sim<sup>4</sup>|
 
 > [!NOTE]

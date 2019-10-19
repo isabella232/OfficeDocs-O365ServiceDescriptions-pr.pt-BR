@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e Microsoft Skype for Business online — para ajudar os usuários a serem produtivos de praticamente qualquer lugar pela Internet.
-ms.openlocfilehash: 04fb1fef3858595ee4d1fbedb810444852471855
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para o Web e Microsoft Skype for Business Online&mdash;para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
+ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523371"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595260"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e Microsoft Skype for Business online — para ajudar os usuários a serem produtivos de praticamente qualquer lugar pela Internet.
+O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para o Web e Microsoft Skype for Business Online&mdash;para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
   
 Este artigo lista os recursos para os planos de educação do Office 365 (a1, a3 e a5). Para comparar recursos entre planos comerciais e empresariais, confira [comparar planos do Office 365 para empresas](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) ou, para obter uma lista mais detalhada dos recursos, consulte a descrição de serviço relevante nas [descrições do serviço do Office 365](../office-365-service-descriptions-technet-library.md).
   
@@ -69,7 +69,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |**[Recursos de Administração do Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Recursos do Pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Recursos do pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Flow  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -85,7 +85,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |Grupos do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Bloco de Anotações de Classe do OneNote  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Gerenciamento de Contas de Usuário](user-account-management.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Gerenciamento de contas de usuário](user-account-management.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Identidade de nuvem, Identidade Federada ou Autenticação Multifator  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Configuração de área de trabalho do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Upload em massa usando arquivos. csv  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -111,7 +111,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |Usar um provedor diferente para email e IM  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Verificação de propriedade de domínio necessária para domínios personalizados  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Continuidade e Integridade do Serviço](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Continuidade e integridade do serviço](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Status de alertas individuais disponíveis no painel do centro de administração do 365 da Microsoft  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |RSS feed de **Integridade do serviço**  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -140,7 +140,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |Navegador usado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Sistema operacional usado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Criar seus próprios relatórios usando serviços da Web de relatório do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Atualizações do Serviço](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Atualizações de serviço](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Atualizações regulares fornecidas a todos os clientes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Notificações enviadas para o Centro de Mensagens quando uma ação é necessária  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Success.office.com/pt-br/roadmap para alguns serviços updates  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -153,14 +153,14 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |**[Sistema de rede](networking.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Protocolos IPv4 e IPv6  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**Confiança** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Privacidade, Segurança e Transparência](privacy-security-and-transparency.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Privacidade, segurança e transparência](privacy-security-and-transparency.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Gerenciamento de Segurança Avançada  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Sistema de Proteção de Dados do Cliente  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Descoberta eletrônica avançada<sup>7</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Pontuação segura<sup>5</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|**[Conformidade [objectdesc]](compliance-servicedesc.md)** <br/> ||||
+|**[Conformidade](compliance-servicedesc.md)** <br/> ||||
 |Avaliações SAS 70 / SSAE16  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Certificado ISO 27001  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Cláusulas do modelo da UE  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -169,14 +169,14 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |Autoridade FISMA para Operar  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Acordo de processamento de dados da Microsoft  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Dados de PAN controlados por PCI  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|**[Continuidade do Serviço](service-health-and-continuity.md)** <br/> ||||
+|**[Continuidade de serviço](service-health-and-continuity.md)** <br/> ||||
 |**[BlackBerry](blackberry.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Usar BIS (BlackBerry Internet Service)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Parceiros](partners.md)** <br/> ||||
 |Criar convites para avaliação e ordens de compra para um cliente que está usando o plano especificado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Fornecer administração delegada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Contrato de Nível de Serviço](service-level-agreement.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Direitos de Uso do Produto](product-use-rights.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Direitos de uso do produto](product-use-rights.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> o Office 365 não oferece suporte para sistemas operacionais que não tenham suporte do fabricante.<br/> 
@@ -190,7 +190,6 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 <sup>9</sup> para obter mais informações, consulte [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Recursos do centro &amp; de conformidade de segurança do Office 365
-<a name="SCC"> </a>
 
 O [centro de conformidade &amp; de segurança do Office 365](https://docs.microsoft.com/office365/securitycompliance/?redirectSourcePath=%252fen-us%252farticle%252fSecurity-and-Compliance-in-Office-365-for-business-Admin-Help-7fe448f7-49bd-4d3e-919d-0a6d1cf675bb) foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
@@ -227,8 +226,7 @@ O [centro de conformidade &amp; de segurança do Office 365](https://docs.micros
 <sup>5</sup> a proteção avançada contra ameaças está disponível no Office 365 a5 e como um serviço autônomo para o Office 365 a1 e o Office 365 a3.<br/>
 <sup>6</sup> você também pode usar a [API de atividade de gerenciamento do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificada. <br/>
   
-## <a name="office-application-features"></a>Recursos do Aplicativo do Office
-<a name="SCC"> </a>
+## <a name="office-application-features"></a>Recursos do aplicativo do Office  
 
 Use a tabela a seguir para comparar a disponibilidade de recursos nos planos de educação do Office 365.
   
@@ -252,7 +250,7 @@ Use a tabela a seguir para comparar a disponibilidade de recursos nos planos de 
 |[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |Outlook para Android  <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|**Valor Corporativo** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Valor corporativo** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |5 instalações por usuário em PC ou Mac  <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |Provisionamento automatizado de contas de usuário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Interface de usuário multilíngue  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
@@ -290,9 +288,8 @@ Use a tabela a seguir para comparar a disponibilidade de recursos nos planos de 
 <sup>4</sup> o Office para as versões da Web está incluído. Para obter mais informações, consulte [Office para os recursos da Web](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>Office para recursos da Web
-<a name="OfcOnline"> </a>
 
-A tabela a seguir fornece links para comparações do Office para recursos de recursos da Web disponíveis nos planos de educação do Office 365 para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as comparações para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização podem precisar da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras podem precisar apenas exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web.
+A tabela a seguir fornece links para comparações do Office para recursos de recursos da Web disponíveis nos planos de educação do Office 365 para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as comparações para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização podem precisar da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras podem precisar apenas exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web.
   
 > [!NOTE]
 > - Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. <br/>
@@ -302,7 +299,7 @@ A tabela a seguir fornece links para comparações do Office para recursos de re
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office para a Web** <br/> |**Link para a comparação detalhada de recursos** <br/> |
+|**Aplicativo** <br/> |**Office para a Web** <br/> |**Link para a comparação detalhada de recursos** <br/> |
 |Word  <br/> |Word para a Web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel para a Web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote para a Web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -310,7 +307,6 @@ A tabela a seguir fornece links para comparações do Office para recursos de re
 |Visio  <br/> |Visio para a Web  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Recursos do Exchange Online 
-<a name="OfcOnline"> </a>
 
 A tabela a seguir lista os recursos do Exchange Online que estão disponíveis nos planos do Office 365 Education.
   
@@ -323,13 +319,13 @@ A tabela a seguir lista os recursos do Exchange Online que estão disponíveis n
 |Suporte para migração de substituição  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Suporte para migração em estágios  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Permissões](../exchange-online-service-description/permissions.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Permissões baseadas em funções  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Grupos de Funções  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Políticas de Atribuição de Função  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Política e Conformidade de Mensagens](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Permissões baseadas em função  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Grupos de função  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Diretivas de atribuição de função  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Política e conformidade de mensagens](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Arquivamento de Caixas de Correio baseadas no Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Arquivamento baseado em Nuvem de Caixas de Correio Locais  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Marcas e políticas de retenção para MRM (gerenciamento de registros de mensagens)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Arquivamento baseado em nuvem de caixas de correio no local  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Marcas de retenção e políticas de retenção do MRM (gerenciamento de registros de mensagens)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Criptografia de dados de tempo de parada (BitLocker)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |IRM usando a Proteção de Informações do Azure  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |IRM usando Windows Server AD RMS  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |
@@ -337,55 +333,55 @@ A tabela a seguir lista os recursos do Exchange Online que estão disponíveis n
 |S/MIME  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> ||
 |Bloqueio In-loco e Retenção de Litígio  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Descoberta Eletrônica In-loco  <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
-|Regras de Transporte  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
+|Regras de transporte  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
 |Prevenção contra perda de dados  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Registro em Diário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Proteção antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Proteção Antispam Interna  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Personalizar políticas antispam  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Proteção Antimalware Interna  <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |
-|Políticas Antimalware Personalizadas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Proteção antispam interna  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Customize anti-spam policies  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Proteção Antimalware interna  <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |
+|Customize antimalware policies  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Quarentena - gerenciamento de administrador  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Quarentena - auto-gerenciamento de usuário final  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|**[Fluxo de e-mails](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Roteamento Personalizado de Email de Saída  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Mensagens Seguras com um Parceiro Confiável  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Roteamento de Email Condicional  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Adicionar um Parceiro a uma Lista de Confiança de Entrada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Roteamento de Email Híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Roteamento personalizado de email de saída  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Secure messaging with a trusted partner  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Conditional mail routing  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Adicionando um parceiro a uma lista segura de entrada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Roteamento de email híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Destinatários](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Alertas de Capacidade  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Alertas de capacidade  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Email secundário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |MailTips  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Acesso de Representante  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Acesso de representante  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Regras da Caixa de Entrada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Contas Conectadas  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |
-|Caixas de Correio Inativas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Catálogo de Endereços Offline  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Políticas de Catálogo de Endereços  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Catálogo de Endereços Hierárquico  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Lista de Endereços e Lista de Endereços Global  <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
+|Contas conectadas  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |
+|Caixas de correio inativas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Offline address book  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Políticas do catálogo de endereços  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Catálogo de endereços hierárquico  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Listas de endereços e lista de endereços global  <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
 |Grupos do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Grupos de Distribuição  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Contatos Externos (global)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Cartão de Visita Universal  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vinculação de Contatos com Redes Sociais  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Caixas de Correio de Recurso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciamento de Sala de Conferências  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Respostas de ausência temporária  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Compartilhamento de Calendário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Recursos de Relatórios e Ferramentas de Solução de Problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Grupos de distribuição  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Contatos externos (global)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Cartão de contato universal  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Link de contato com redes sociais  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Caixas de correio de recurso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Gerenciamento da sala de conferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Respostas de Ausência Temporária  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Compartilhamento de calendário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Recursos de relatório e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Relatórios do centro de administração do Microsoft 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Pasta de Trabalho de Relatório de Excel  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatórios de Serviços Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Rastreamento de Mensagem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatórios de Auditoria  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatórios da Unificação de Mensagens  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Compartilhamento e Colaboração](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Compartilhamento Federado (incluindo Publicação de Calendário)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Sites de Correio da Equipe  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
-|Pastas Públicas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Pasta de trabalho de relatórios do Excel  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Relatórios de serviços Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Message trace  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Relatórios de auditoria  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Relatórios de Unificação de Mensagens  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Compartilhamento e colaboração](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Compartilhamento federado (incluindo publicação de calendário)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Caixas de correio local  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
+|Pastas públicas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Clientes e dispositivos móveis](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 | Outlook para Windows <sup>9</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Outlook na Web<sup>9</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -396,30 +392,30 @@ A tabela a seguir lista os recursos do Exchange Online que estão disponíveis n
 |POP e IMAP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |SMTP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Suporte de Aplicativo EWS  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Serviços de Mensagens de Voz](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Caixa Postal  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Integração entre Caixa Postal e Fax de Terceiros  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Interoperabilidade de Caixa Postal de Terceiros  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Serviços de mensagens de voz](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Caixa postal  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Integração entre caixa postal e FAX de terceiros  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Interoperabilidade de caixa postal de terceiros  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Integração do Skype for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Alta Disponibilidade e Continuidade de Negócios](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Replicação de Caixa de Correio em Data Centers  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Recuperação de Caixa de Correio Excluída  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Recuperação de Itens Excluídos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Recuperação de Item Individual  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> ||
-|**[Interoperabilidade, Conectividade e Compatibilidade](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Alta disponibilidade e continuidade de negócios](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Replicação de caixa de correio em data centers  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Recuperação da caixa de correio excluída  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Recuperação de itens excluídos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Recuperação de item único  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> ||
+|**[Interoperabilidade, conectividade e compatibilidade](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Presença do Skype for Business no OWA e no Outlook  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Interoperabilidade do SharePoint  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte de Conectividade EWS  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte de Retransmissão SMTP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Instalação e Administração do Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Suporte à conectividade do EWS  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Suporte a retransmissão SMTP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Instalação e administração do Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Acesso ao portal do Microsoft Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Acesso ao centro de administração do Microsoft 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Acesso ao centro de administração do Exchange  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Acesso Remoto do Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Políticas de ActiveSync para Dispositivos Móveis  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatórios de Uso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Complementos do Outlook e MAPI do Outlook  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |
+|Políticas do ActiveSync para dispositivos móveis  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Relatórios de uso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Estendendo o serviço-personalização, suplementos e recursos](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Suplementos do Outlook e MAPI do Outlook  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |
    
 > [!NOTE]
 > <sup>1</sup> o AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente a fim de habilitar os recursos de IRM compatíveis. <br/>
@@ -478,7 +474,6 @@ Os limites no Microsoft Exchange Online podem ser classificados em uma das segui
 >  - Para obter informações sobre os limites de grupo do Office 365, consulte "como faço para gerenciar meus grupos?" no [Saiba mais sobre grupos do Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
   
 #### <a name="address-book-limits"></a>Limites de catálogo de endereços
-<a name="abl"> </a>
 
 - **Limite de lista de endereços** O número máximo de listas de endereços que pode ser criado em uma organização do Exchange Online ou do Exchange Server 2013. Esse número inclui listas de endereços padrão no Exchange Online, como Todos os Contatos e Todos os Grupos. 
     
@@ -497,7 +492,6 @@ Os limites no Microsoft Exchange Online podem ser classificados em uma das segui
 |Limite de listas de endereços globais  <br/> |250  <br/> |250  <br/> |250  <br/> |
    
 #### <a name="mailbox-storage-limits"></a>Limites de armazenamento de caixa de correio
-<a name="StorageLimits"> </a>
 
 A quantidade de armazenamento de caixa de correio disponível é determinada pelo tipo de caixa de correio e pela licença da assinatura do usuário. Os administradores podem reduzir o tamanho máximo da caixa de correio por usuário ou globalmente.
   
@@ -525,7 +519,6 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 <sup>7</sup> se você tiver criado uma política de retenção no Exchange Online, as mensagens serão automaticamente movidas para a caixa de correio de arquivo morto de um usuário se a caixa de correio principal do usuário for maior do que 10 MB. A política de retenção não será executada automaticamente para caixas de correio menores do que 10 MB. 
   
 #### <a name="capacity-alerts"></a>Alertas de capacidade
-<a name="CapacityAlerts"> </a>
 
 O Exchange Online oferece três tipos de notificações quando uma caixa de correio do usuário atinge ou está se aproximando de sua capacidade máxima:
   
@@ -543,7 +536,6 @@ O Exchange Online oferece três tipos de notificações quando uma caixa de corr
 |Proibir Envio/Recebimento  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
    
 #### <a name="mailbox-folder-limits"></a>Limites da pasta da caixa de correio
-<a name="MailboxFolderLimits"> </a>
 
 Estes limites são para limitar as caixas de correios para tamanhos conhecidos que podem ser suportados pelo Exchange Online. O objetivo desses limites é impedir uma quantidade infinita de itens de caixa de correio por pasta, de pastas por caixa de correio ou de pastas públicas por organização do Exchange Online. Por razões práticas, os limites da pasta da caixa de correio são ilimitadas e o suficiente para suportar a maioria das caixas de correio do Exchange Online e caixas de correio locais que são migradas para o Exchange Online.
   
@@ -592,7 +584,6 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 > <sup>1</sup> você pode enviar e receber até 150 MB de mensagens entre os usuários do Office 365 (onde a mensagem nunca deixa os datacenters do Office 365). As mensagens roteadas fora dos datacenters do Office 365 estão sujeitas a um aumento de 33% para codificação de translação, nesse caso o tamanho máximo da mensagem é de 112 MB. 
   
 #### <a name="message-limits"></a>Limites de mensagem
-<a name="MessageLimits"> </a>
 
 - **Limite de tamanho de mensagem** Os limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, consulte [O Office 365 agora dá suporte a mensagens de email maiores](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
     
@@ -606,7 +597,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 - **Limite de tamanho de anexo de arquivo** O tamanho máximo de um único anexo. 
     
     > [!NOTE] 
-    > Esse é o tamanho máximo de um único anexo. Programas cliente individuais, inclusive o Outlook Web App, poderão limitar o tamanho dos anexos abaixo desse valor máximo. O Exchange ActiveSync não implementa limites de tamanho de anexos para anexos individuais. O tamanho total de todos os anexos para uma mensagem do Exchange ActiveSync deve ser menor do que o limite de tamanho de mensagem. 
+    > Esse é o tamanho máximo de um único anexo. Programas cliente individuais, incluindo o Outlook na Web, podem limitar o tamanho dos anexos abaixo desse máximo. O Exchange ActiveSync não implementa limites de tamanho de anexos para anexos individuais. O tamanho total de todos os anexos para uma mensagem do Exchange ActiveSync deve ser menor do que o limite de tamanho de mensagem. 
   
 - **Limite de mensagem com várias partes** O número máximo de partes do corpo da mensagem que são permitidas em uma mensagem MIME com várias partes. Esse limite também controla a quantidade máxima de anexos permitidos em uma mensagem. 
     
@@ -621,7 +612,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 |Limite de tamanho de mensagem - migração  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)  <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
-|Limite de comprimento de assunto  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |
+|Limite de comprimento de assunto  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |
 |Limite de anexos de arquivo  <br/> |250 anexos  <br/> |250 anexos  <br/> |250 anexos  <br/> |
 |Limite de tamanho de anexo de arquivo - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |Limite de tamanho de anexo de arquivo - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
@@ -637,7 +628,6 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 <sup>5</sup> para obter informações sobre o ome com novos recursos, confira [configurar os novos recursos de criptografia de mensagens do Office 365 criados na parte superior da proteção de informações do Azure](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
   
 #### <a name="receiving-and-sending-limits"></a>Receber e enviar limites
-<a name="RecipientLimits"> </a>
 
 Os limites de recebimento e envio são aplicados para combater spam e worms em emails em massa ou vírus. Esses limites ajudam a proteger a integridade dos seus sistemas e a manter seus usuários seguros.
   
@@ -678,12 +668,10 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
 |Limite de taxa de mensagem (somente para envio de cliente SMTP)  <br/> |30 mensagens por minuto  <br/> |30 mensagens por minuto  <br/> |30 mensagens por minuto  <br/> |
    
 #### <a name="reporting-and-message-trace-limits"></a>Limites de rastreamento de mensagens e relatórios
-<a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
 Para saber quais são os limites de rastreamento de mensagens e relatórios, consulte a seção "Latência e disponibilidade de dados de rastreamento de mensagens e criação de relatórios" em [Geração de Relatórios e Rastreamento de Mensagens no Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
   
 #### <a name="retention-limits"></a>Limites de retenção
-<a name="RetentionLimits"> </a>
 
 Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa de entrada podem ser acessados.
   
@@ -704,7 +692,6 @@ Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa 
 > <sup>1</sup> Este é o limite padrão. Os administradores podem alterar esse valor para suas organizações. 
   
 #### <a name="distribution-group-limits"></a>Limites de grupos de distribuição
-<a name="iDistributionGroupLimits"> </a>
 
 Estes limites se aplicam a grupos de distribuição no catálogo de endereços compartilhado de sua organização.
   
@@ -720,14 +707,14 @@ Estes limites se aplicam a grupos de distribuição no catálogo de endereços c
 |Número máximo de membros do grupo de distribuição<sup>1</sup> <br/> |100.000 membros  <br/> |100.000 membros  <br/> |100.000 membros  <br/> |
 |Limite de envio de mensagens para grupos de distribuição grandes  <br/> |5.000 ou mais membros  <br/> |5.000 ou mais membros  <br/> |5.000 ou mais membros  <br/> |
 |Tamanho máximo de mensagens para grupos de distribuição grandes  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Número máximo de proprietários do grupo de distribuição  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|Número máximo de proprietários do grupo de distribuição  <br/> |254  <br/> |254  <br/> |254  <br/> |
 |Número máximo de grupos que um usuário pode criar  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Se você estiver usando o DirSync do Azure Active Directory, o número máximo de membros do grupo de distribuição que pode ser sincronizado do Active Directory local para o Azure Active Directory é 15.000. Se estiver usando o Azure AD Connect, esse número será 50.000. <br/> 
-<sup>2</sup> Esse limite também se aplica a administradores. 
+<sup>2</sup> Esse limite também se aplica a administradores.
+
 #### <a name="journal-transport-and-inbox-rule-limits"></a>Limites de regras de diário, transporte e caixa de entrada
-<a name="TransportRuleLimits"> </a>
 
 A lista a seguir inclui os limites que se aplicam às regras de diário, de transporte, também conhecidas como regras da organização, e os limites que se aplicam às regras da Caixa de Entrada. As regras da Caixa de Entrada são configuradas por usuários individuais e aplicadas às mensagens enviadas e recebidas pela caixa de correio do usuário individual.
   
@@ -739,7 +726,7 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, de tran
     
 - **Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte** O número total de caracteres usados por todas as expressões regulares em todas as condições de regras de transporte e exceções na organização. Você pode ter algumas regras que usam expressões regulares longas e complexas ou pode ter muitas regras que usam expressões regulares simples. 
     
-- **Limites de verificação de conteúdo do anexo**As condições de regra de transporte permitem que você examine o conteúdo de anexos de mensagens, mas somente o primeiro 1 MB do texto extraído de um anexo é inspecionado. Esse limite de 1 MB refere-se ao texto extraído do anexo, não o tamanho do arquivo do anexo. Por exemplo, um arquivo de 2 MB pode conter menos de 1 MB de texto, portanto todo o texto seria inspecionado 
+- **Limites de verificação para conteúdo de anexos** As condições de regra de transporte permitem que você examine o conteúdo de anexos de mensagens, mas apenas o primeiro 1 MB do texto extraído de um anexo é inspecionado. Esse limite de 1 MB refere-se ao texto extraído do anexo, não o tamanho do arquivo do anexo. Por exemplo, um arquivo de 2 MB pode conter menos de 1 MB de texto, portanto todo o texto seria inspecionado 
     
 - **Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte** Quando uma mensagem é afetada por diferentes regras de transporte, apenas um número finito de destinatários pode ser adicionado à mensagem. Depois que o limite é atingido, os destinatários restantes não são adicionados à mensagem. Além disso, grupos de distribuição não podem ser adicionados a uma mensagem por meio de uma regra de transporte. 
     
@@ -760,7 +747,6 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, de tran
 |Número de vezes que uma mensagem é redirecionada  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |
    
 #### <a name="moderation-limits"></a>Limites de moderação
-<a name="ModerationLimits"> </a>
 
 Estes limites controlam as configurações de moderação que são usadas para aprovação de mensagens aplicadas a grupos de distribuição e regras de transporte.
   
@@ -783,7 +769,6 @@ Estes limites controlam as configurações de moderação que são usadas para a
 |Taxa máxima para mensagens de notificação de moderação expiradas  <br/> |300 notificações de expiração por hora  <br/> |300 notificações de expiração por hora  <br/> |300 notificações de expiração por hora  <br/> |
    
 #### <a name="exchange-activesync-limits"></a>Limites do Exchange ActiveSync
-<a name="bkmk_ExchangeActiveSync_Limits"> </a>
 
 Os seguintes limites se aplicam ao Microsoft Exchange ActiveSync, um protocolo de cliente que sincroniza dados de caixa de correio entre dispositivos móveis e o Exchange. 
   
@@ -801,7 +786,6 @@ Os seguintes limites se aplicam ao Microsoft Exchange ActiveSync, um protocolo d
 |Limite de anexos de arquivo do Exchange ActiveSync  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
    
 ## <a name="onedrive-for-business-features"></a>Recursos do OneDrive for Business
-<a name="OfcOnline"> </a>
 
 O OneDrive for Business (anteriormente SkyDrive pro) é um espaço de armazenamento online pessoal na nuvem. Use-o para armazenar seus arquivos de trabalho em vários dispositivos com facilidade e segurança. Compartilhe seus arquivos com colegas, conforme necessário, e edite documentos do Office juntos em tempo real com o Office para a Web. Sincronizar arquivos com o computador local usando o aplicativo de sincronização do OneDrive for Business.
   
@@ -834,7 +818,6 @@ O OneDrive for Business vem incluído no SharePoint Online. Para saber mais sobr
 O OneDrive for Business plano 2 está disponível para o Office 365 a1, a3 e a5. Para exibir os recursos disponíveis no plano, consulte a [Descrição do serviço do onedrive for Business](../onedrive-for-business-service-description.md).
   
 ## <a name="sharepoint-online-features"></a>Recursos do SharePoint Online
-<a name="OfcOnline"> </a>
 
 A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano educacional do Office 365. 
   
@@ -843,24 +826,24 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recursos para desenvolvedores** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Catálogo de Aplicativos (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Implantação de Aplicativo: Aplicativos Hospedados em Nuvem](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Implantação de Aplicativo: Aplicativos Hospedados pelo SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Serviços de Gerenciamento de Aplicativos](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|BCS: Alerts for External Lists <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[BCS: Tipos de Conteúdo Externo (ECTs) com Escopo de Aplicativo](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Catálogo de aplicativos (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Implantação de aplicativo: aplicativos hospedados na nuvem](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Implantação de aplicativo: aplicativos hospedados pelo SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Serviços de gerenciamento de aplicativos](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|BCS: alertas de listas externas <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[BCS: tipos de conteúdo externo com escopo de aplicativo (ECTs)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[BCS: Web Parts de dados corporativos](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[BCS: Lista externa](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[BCS: lista externa](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[BCS: Conector OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|BCS: Profile Pages <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|BCS: Rich Client Integration <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|BCS: Secure Store Service <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|BCS: páginas de perfil <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|BCS: integração de cliente avançado <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|BCS: serviço de repositório seguro <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |BCS: Tenant-level external data log <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Browser-based customizations <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Modelo de Objeto Cliente (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Client-side rendering (CSR) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Custom Site Definitions <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Página de provisionamento de site personalizado](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Definições de site personalizadas <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Página de provisionamento de site personalizada](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Site do desenvolvedor](../sharepoint-online-service-description/developer.md#developer-site) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicativos baseados em formulários](../sharepoint-online-service-description/developer.md#forms-based-applications) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Soluções de confiança total](../sharepoint-online-service-description/developer.md#full-trust-solutions) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -884,60 +867,60 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |Analytics Platform <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Proteção antimalware](../sharepoint-online-service-description/it-professional.md#anti-malware-protection) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Suporte a autenticação baseada em declarações](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Configuration Wizards <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Deferred Site Collection upgrade <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Distributed Cache <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Assistentes de configuração <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Atualização de conjunto de sites adiada <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Cache distribuído <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Prevenção contra perda de dados](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Criptografia de tempo de parada](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Conjuntos de sites de cabeçalho de host](../sharepoint-online-service-description/it-professional.md#host-header-site-collections) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Improved Permissions Management <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Improved Self-Service Site Creation <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Managed Accounts <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Gerenciamento de permissões aprimorado <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Criação de site de autoatendimento aprimorada <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Contas gerenciadas <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Minimal Download Strategy (MDS) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento de Dispositivos Móveis para o Office 365](../sharepoint-online-service-description/it-professional.md#mobile-device-management-for-office-365) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Gerenciamento de dispositivos móveis para o Office 365](../sharepoint-online-service-description/it-professional.md#mobile-device-management-for-office-365) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[OAuth](../sharepoint-online-service-description/it-professional.md#oauth) <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |
 |[Gerenciamento de patches](../sharepoint-online-service-description/it-professional.md#patch-management) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Modelos de cota](../sharepoint-online-service-description/it-professional.md#quota-templates) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Suporte de banco de dados somente leitura](../sharepoint-online-service-description/it-professional.md#read-only-database-support) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Remote BLOB Storage](../sharepoint-online-service-description/it-professional.md#remote-blob-storage) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Suporte a banco de dados somente leitura](../sharepoint-online-service-description/it-professional.md#read-only-database-support) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Armazenamento remoto de BLOBs](../sharepoint-online-service-description/it-professional.md#remote-blob-storage) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Gerenciamento de solicitação](../sharepoint-online-service-description/it-professional.md#request-management) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Request throttling <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Limitação de recurso](../sharepoint-online-service-description/it-professional.md#resource-throttling) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Plataforma de aplicativos de serviço](../sharepoint-online-service-description/it-professional.md#service-application-platform) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Plataforma do aplicativo de serviço](../sharepoint-online-service-description/it-professional.md#service-application-platform) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Analisador de Integridade do SharePoint](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Centro de administração do SharePoint (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Shredded Storage <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Políticas de conformidade de conjunto de sites](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Site Collection Health Checks <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|State Service <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Streamlined Central Administration <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|System Status Notifications <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Unattached Content Database Recovery <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Verificações de integridade do conjunto de sites <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Serviço de Controle de Sessão <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Administração Central simplificada <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Notificações de status do sistema <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Recuperação de banco de dados de conteúdo desanexado <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Upgrade evaluation site collections <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Uso, relatórios e registro em log](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Relatórios de uso e registro em log](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Suporte do Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**Recursos de conteúdo** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Suporte aos padrões de acessibilidade](../sharepoint-online-service-description/content.md#accessibility-standards-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Suporte a vídeo/Aprimoramentos da biblioteca de ativos](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Suporte a vídeo/aprimoramentos da biblioteca de ativos](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Auditoria](../sharepoint-online-service-description/content.md#auditing) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Auditoria &amp; Criação de relatórios (p.ex.: edições de documentos, edições de políticas, exclusões)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[&amp; Relatórios de auditoria (por exemplo, edições de Doc, edições de políticas, exclusões)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Organizador de conteúdo](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerente de design](../sharepoint-online-service-description/content.md#design-manager) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Conjuntos de documentos](../sharepoint-online-service-description/content.md#document-sets) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Tradução de documento no Word para a Web](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Pesquisa de Descoberta Eletrônica](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
+|[pesquisa de descoberta eletrônica](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |[Retenção de Descoberta Eletrônica](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
-|[Exportação de Descoberta Eletrônica](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
-|Email enabled lists and libraries <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Compartilhamento externo: Acesso externo](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
-|[Compartilhamento externo: Link de convidado](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |Sim<sup>6</sup> <br/> |Sim  <br/> |Sim<sup>6</sup> <br/> |
+|[exportação de descoberta eletrônica](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
+|Bibliotecas e listas habilitadas para email <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Compartilhamento externo: acesso externo](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
+|[Compartilhamento externo: link de convidado](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |Sim<sup>6</sup> <br/> |Sim  <br/> |Sim<sup>6</sup> <br/> |
 |[Sincronização de pastas](../sharepoint-online-service-description/content.md#folder-sync) <br/> |Sim<sup>1, 6</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|Auditoria Híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Tipos de Conteúdo e Taxonomia Híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Auditoria híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Tipos de conteúdo e taxonomia híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento de Direitos de Informação (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |Sim  <br/> |Sim  <br/> |<sup>6</sup> Sim  <br/> |
 |[Gerenciamento de Direitos de Informação (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Serviço de metadados gerenciados](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Navegação controlada por metadados](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Navegação orientada por metadados](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Disposição em várias fases](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office para a Web (criar/editar)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office para a Web (modo de exibição)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -948,25 +931,25 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |[Edição rápida](../sharepoint-online-service-description/content.md#quick-edit) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento de registros](../sharepoint-online-service-description/content.md#records-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Lixeira (centro de administração do SharePoint)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Lixeira (coleção de sites)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Related Items <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Lixeira (conjunto de sites)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Itens relacionados <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Rich Media Management <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Tipos de conteúdo compartilhados](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Tipos de conteúdo compartilhado](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços de tradução do SharePoint](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Pesquisas <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[IDs exclusivos de documento](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[IDs exclusivas do documento](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Pesquisa de vídeo](../sharepoint-online-service-description/content.md#video-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Publishing Analytics](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Catálogo](../sharepoint-online-service-description/content.md#catalog) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Página categoria e página de item de catálogo](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Web Parts de pesquisa](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Publicação entre sites](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|WCM: Designer Tools <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Publicação intersite](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|WCM: ferramentas de designer <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Navegação facetada](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |Não  <br/> |Sim<sup>14</sup> <br/> |Sim<sup>14</sup> <br/> |
-|[Renderizações de imagem](../sharepoint-online-service-description/content.md#image-renditions) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Renderização de imagens](../sharepoint-online-service-description/content.md#image-renditions) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |WCM: Managed navigation <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|WCM: Mobile and Device Rendering <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|WCM: Multiple Domains <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|WCM: renderização móvel e de dispositivo <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|WCM: vários domínios <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |WCM: Recommendations <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[WCM: SEO (Otimização do Mecanismo de Pesquisa)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços de automação do Word](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -975,7 +958,7 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |[Medidas e membros calculados](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Biblioteca de conexões de dados](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Tabelas e gráficos dinâmicos separados](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Lista de campos e suporte a campos](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Aprimoramentos de filtro](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Pesquisa de filtro](../sharepoint-online-service-description/insights.md#filter-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços do PerformancePoint](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
@@ -987,7 +970,7 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |Scorecards & Dashboards <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Modo integrado aos SSRS (serviços de relatório do SQL Server)](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Segmentação de dados da linha do tempo](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Usar e Interagir com Pastas de Trabalho do Excel que Contêm Modelos de Dados](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Usar e interagir com pastas de trabalho do Excel que contêm modelos de dados](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços do Visio](../sharepoint-online-service-description/insights.md#visio-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**Recursos de pesquisa** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Advanced Content Processing <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -995,7 +978,7 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |Custom entity extraction <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Links profundos](../sharepoint-online-service-description/search.md#deep-links) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Relevância baseada em evento](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Pesquisa de experiência](../sharepoint-online-service-description/search.md#expertise-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Pesquisa de especialização](../sharepoint-online-service-description/search.md#expertise-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Processamento de conteúdo extensível] <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Refinadores gráficos](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Pesquisa híbrida](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -1020,24 +1003,24 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |[Pesquisas de "Esta lista"](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**Recursos de sites** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Change the look <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Connections to Microsoft Office Clients <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Suporte para diversos navegadores](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Personalizar caminhos gerenciados](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Conexões para clientes do Microsoft Office <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Suporte ao navegador cruzado](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Caminhos gerenciados personalizados](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Gestão](../sharepoint-online-service-description/sites-servicedesc.md#governance) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Inicializador de Aplicativos Híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Inicializador de aplicativos híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business e sites híbridos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Escalabilidade e gerenciamento da lista grande](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Escalabilidade e gerenciamento de lista grande](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Conectividade móvel](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |
-|[Interface do Usuário Multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
+|[Interface de usuário multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
 |My Tasks <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Web Parts OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Web Parts do OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento de permissões](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Project functionality for team sites <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Modelo do site de projeto](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Project Summary web part <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Project workspace <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Listas do SharePoint](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|SharePoint Ribbon <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Faixa de opções do SharePoint <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Bibliotecas de documentos](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Lista de tarefas](../sharepoint-online-service-description/sites-servicedesc.md#task-list) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Team Site: Drag & Drop <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -1051,30 +1034,30 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |**Recursos sociais** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Ask Me About <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Blogs pessoais](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |
-|Communities Reputation, Badging, and Moderation <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |
+|Reputação de comunidades, símbolos e moderação <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |
 |[Comunidade](../sharepoint-online-service-description/social.md#community) <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |
-|[Feed de empresa](../sharepoint-online-service-description/social.md#company-feed) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Document Conversations with Yammer <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Feed da empresa](../sharepoint-online-service-description/social.md#company-feed) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Conversas de documento com o Yammer <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Acompanhar <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microblog <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |News feed <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|One Click Sharing <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|People, Sites, Document Recommendations <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Personal Site <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Photos and Presence <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Compartilhamento com um clique <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Pessoas, sites, recomendações de documento <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Site pessoal <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Fotos e presença <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Perfil <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Classificações <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Shared with Me <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Compartilhado comigo <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Feed de site (site de equipe clássico usando o SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Tag profiles <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Tasks integrated with Outlook <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Trending Tags <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Marcas de tendências <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Wikis](../sharepoint-online-service-description/social.md#wikis) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Yammer  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**Complementos** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Armazenamento adicional](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Aplicativos provisionados do Azure: Serviços de acesso](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services) <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |
+|[Aplicativos provisionados do Azure: serviços do Access](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services) <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |Sim<sup>11</sup> <br/> |
 |[Aplicativos provisionados do Azure: código personalizado no Azure Lightweight Web Role (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
@@ -1112,7 +1095,6 @@ A tabela a seguir mostra os limites do SharePoint para cada plano de educação 
 <sup>6</sup> Se você tiver mais de 500.000 usuários, entre em contato com um representante da Microsoft. 
   
 ## <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
-<a name="OfcOnline"> </a>
 
 A tabela a seguir lista os recursos do Skype for Business online que estão disponíveis para cada plano de educação do Office 365.
   
@@ -1131,17 +1113,17 @@ A tabela a seguir lista os recursos do Skype for Business online que estão disp
 |Clientes móveis do Skype for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Skype for Business Web App  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Mensagens instantâneas, presença e contatos](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Presença e IM PC-PC  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Presença e IM entre vários participantes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Configuração do cartão de visita  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|IM e presença de PC para PC  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|IM e presença de vários participantes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Configuração de cartão de visita  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Configuração da minha imagem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Minha imagem: URL da foto  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Configuração de lista de contatos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Repositório de Contatos Unificado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Pesquisa do Catálogo de Endereços  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Expansão de Lista de Distribuição  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Minha imagem: experiência de foto de URL  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Configuração da lista de contatos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Repositório unificado de contatos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Pesquisa do catálogo de endereços  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Expansão de lista de distribuição  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Chat persistente  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Fotos do remetente/destinatário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Fotos de remetente/destinatário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Áudio, vídeo e mídia de Skype para Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Compartilhamento de área de trabalho por meio do VbSS (compartilhamento de tela baseado em vídeo)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Compartilhamento de área de trabalho e aplicativo por meio do protocolo RDP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -1154,32 +1136,32 @@ A tabela a seguir lista os recursos do Skype for Business online que estão disp
 | Federação do Skype  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |AOL e federação do Yahoo!  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Agendamento de Conferência de Áudio e Ad Hoc  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendamento de Conferência de Vídeo e Ad Hoc  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo de Palestrante Ativo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Codificação e Decodificação H.264  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo com Vários Participantes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo de alta definição ou fotos de todos os participantes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Controles do Apresentador  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Modo de exibição de participante selecionado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Ad hoc e agendar conferência de áudio  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Agendamento de conferência de vídeo e ad hoc  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Vídeo de orador ativo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Codificação e decodificação H. 264  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Vídeo de vários participantes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Vídeo de alta definição ou imagens de todos os participantes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Controles do apresentador  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Exibição selecionada do participante  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Compartilhamento do OneNote  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendamento de webconferência e ad hoc  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Reunião discada do Skype for Business via Conferência por Áudio (próprio)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Reunião discada do Skype for Business via Certified Audio Conferencing Provider (ACP)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Ad hoc e agendar Webconferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Reunião de discagem do Skype for Business via Conferência de áudio (primeira parte)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|Reunião de discagem do Skype for Business via provedor de serviços de conferência de áudio (ACP)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Compartilhamento do PowerPoint  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Transferência de arquivos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Transferência de arquivo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Quadro de comunicações e anotações  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Carregamento do PowerPoint  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Sondagem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gravação e Reprodução no Cliente  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gravação e Reprodução no Servidor  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Lobby de Reunião  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Gravação e reprodução do lado do cliente  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Gravação e reprodução no servidor  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Lobby de reunião  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Transmissão de Reunião do Skype  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Acesso de Convidado para Reuniões do Skype com o Skype for Business Web App  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Acesso de convidado para reuniões do Skype com o Skype for Business Web App  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Agendar reuniões do Skype for Business no Outlook  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendar reuniões do Skype for Business no Outlook em nome de outros (delegação)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendar reuniões no Skype for Business com o Agendador da Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendar reuniões online no Outlook Web App  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Agendar reuniões do Skype for Business no Outlook em nome de outras (delegação)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Agendar reuniões do Skype for Business com o Agendador da Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Agendar reuniões online no Outlook na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Delegação do Outlook para agendar reuniões  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Criar reuniões públicas com as IDs estáticas de reunião no Outlook  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**Chamadas de voz** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -1223,20 +1205,20 @@ A tabela a seguir lista os recursos do Skype for Business online que estão disp
 |[Créditos de comunicação](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Skype for Business Voz  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Segurança e arquivamento](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Mensagens instantâneas e criptografia de mídia  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|IM e filtragem de arquivos  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Criptografia de IM e mídia  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Mensagens instantâneas e filtragem de arquivos  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Controle de versão do cliente  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Arquivamento de Conteúdo de IM  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Arquivamento de Conteúdo de Conferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Compartilhamento de aplicativos e arquivamento de compartilhamento de desktop  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
-|Configuração do arquivamento em nível de usuário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Arquivamento de conteúdo de IM  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Arquivamento de conteúdo de conferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Compartilhamento de aplicativos e arquivamento de compartilhamento de área de trabalho  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
+|Configuração de arquivamento em nível de usuário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Arquivos de rastreamento de logon  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Interoperabilidade entre Exchange e SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Interoperabilidade de Presença com Exchange Server  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Interoperabilidade de Presença com Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Interoperabilidade de presença com Exchange Server  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Interoperabilidade de presença com Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Interoperabilidade de Unificação de Mensagens com Exchange Server  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Interoperabilidade de Unificação de Mensagens com Exchange Online  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Interoperabilidade do Outlook Web App  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Interoperabilidade do Outlook na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Interoperabilidade de arquivamento com Exchange Server  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Interoperabilidade de arquivamento com Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Pesquisa de habilidade com SharePoint Server  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |

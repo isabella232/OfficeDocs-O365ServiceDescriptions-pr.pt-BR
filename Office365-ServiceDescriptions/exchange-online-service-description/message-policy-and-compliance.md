@@ -1,5 +1,5 @@
 ---
-title: Política e Conformidade de Mensagens
+title: Política e conformidade de mensagens
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231419"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581957"
 ---
-# <a name="message-policy-and-compliance"></a>Política e Conformidade de Mensagens
+# <a name="message-policy-and-compliance"></a>Política e conformidade de mensagens
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Arquivamento de Caixas de Correio baseadas no Exchange Online
 
 As caixas de correio do Exchange Online residem na nuvem, e o arquivamento delas requer ambientes de hospedagem exclusivos. Em alguns casos, o Exchange Online pode ser usado também para arquivar caixas de correio locais na nuvem. As opções de arquivamento com o Exchange Online são descritas nesta seção.
   
-O Exchange Online oferece recursos de arquivamento interno para caixas de correio baseadas em nuvem, incluindo um Arquivo Morto In-loco que oferece aos usuários um local conveniente para armazenar mensagens de email antigas. O Arquivo Morto In-loco é um tipo especial de caixa de correio que aparece ao longo das pastas de caixa de correio principal de um usuário no Outlook e no Outlook Web App. Os usuários podem acessar e pesquisar o arquivo morto da mesma forma que acessam e pesquisam suas caixas de correio principais. A funcionalidade disponível depende do cliente em uso:
+O Exchange Online oferece recursos de arquivamento interno para caixas de correio baseadas em nuvem, incluindo um Arquivo Morto In-loco que oferece aos usuários um local conveniente para armazenar mensagens de email antigas. Um arquivo morto in-loco é um tipo especial de caixa de correio que aparece junto com as pastas de caixa de correio principais de um usuário no Outlook e no Outlook na Web. Os usuários podem acessar e pesquisar o arquivo morto da mesma forma que acessam e pesquisam suas caixas de correio principais. A funcionalidade disponível depende do cliente em uso:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010 e Outlook Web App** Os usuários têm acesso a todos os recursos do arquivo morto, além de recursos de conformidade relacionados, como controle sobre políticas de arquivo morto e retenção. 
+- **Outlook 2016, outlook 2013, outlook 2010 e Outlook na Web** Os usuários têm acesso a todos os recursos do arquivamento, bem como os recursos de conformidade relacionados, como controle sobre políticas de retenção e arquivamento. 
     
 - **Outlook 2007** Os usuários têm suporte básico para o Arquivo Morto In Loco, mas nem todos os recursos de arquivamento e de conformidade estão disponíveis. Por exemplo, os usuários não podem aplicar políticas de retenção ou de arquivamento a itens de caixa de correio e devem se basear em políticas provisionadas pelo administrador. 
     
@@ -45,7 +45,8 @@ Apenas os dados de mensagens de um usuário podem ser armazenados em cada arquiv
 > [!IMPORTANT]
 > - O uso de registro no diário, regras de transporte ou encaminhamento automático de regras para copiar mensagens para uma caixa de correio do Exchange Online com a finalidade de arquivamento não é permitido. A Microsoft reserva-se o direito de negar o arquivamento ilimitado em situações nas quais um arquivamento de caixa de correio não esteja sendo usado em um cenário pessoal. 
 > - O Arquivo Morto In Loco tem requisitos de licenciamento específico para usuários do Outlook. Os usuários do Outlook 2007 devem ter a Atualização Cumulativa do Office 2007 para fevereiro de 2011 para acessarem o arquivo morto pessoal. 
-> - O Exchange Online não dá suporte ao cmdlet _New-MailboxImportRequest_ do Windows PowerShell do Exchange Server 2010 Service Pack 1 ou posterior para a importação controlada pelo administrador de arquivos. pst em um arquivo morto pessoal. Se um usuário tiver a caixa de correio principal e o arquivo morto no Exchange Online, um administrador poderá usar o PST Capture, uma ferramenta gratuita, para importar dados de arquivo .pst para o arquivo morto ou a caixa de correio principal do usuário. 
+> - O Exchange Online não dá suporte ao cmdlet _New-MailboxImportRequest_ do Windows PowerShell do Exchange Server 2010 Service Pack 1 ou posterior para a importação controlada pelo administrador de arquivos. pst em um arquivo morto pessoal. Se um usuário tiver a caixa de correio principal e o arquivo morto no Exchange Online, um administrador poderá usar o PST Capture, uma ferramenta gratuita, para importar dados de arquivo .pst para o arquivo morto ou a caixa de correio principal do usuário.
+
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Arquivamento baseado em nuvem de caixas de correio no local
 
 Usar o Exchange Online para arquivamento baseado em nuvem de caixas de correio do Exchange Server 2010 ou posteriores no local é possível com o Arquivamento do Microsoft Exchange Online, uma solução de arquivamento hospedada da Microsoft. Isso requer que a organização no local esteja no modo Híbrido ou seja configurada para o Arquivamento do Exchange Online.
@@ -55,13 +56,13 @@ Usar o Exchange Online para arquivamento baseado em nuvem de caixas de correio d
   
 ## <a name="retention-tags-and-retention-policies"></a>Marcas e políticas de retenção
 
-O Exchange Online oferece políticas de retenção para ajudar as organizações a reduzir as obrigações associadas ao email e a outros meios de comunicação. Com essas políticas, os administradores podem aplicar configurações de retenção a pastas específicas nas caixas de entrada dos usuários. Os administradores podem também dar aos usuários um menu de políticas de retenção e permitir que eles apliquem as políticas a itens, conversas ou pastas específicos usando o Outlook 2010 ou posterior ou o Outlook Web App.
+O Exchange Online oferece políticas de retenção para ajudar as organizações a reduzir as obrigações associadas ao email e a outros meios de comunicação. Com essas políticas, os administradores podem aplicar configurações de retenção a pastas específicas nas caixas de entrada dos usuários. Os administradores também podem fornecer aos usuários um menu de políticas de retenção e permitir que eles apliquem as políticas a itens específicos, conversas ou pastas usando o Outlook 2010 ou posterior ou o Outlook na Web.
   
 No Exchange Online, os administradores gerenciam as políticas de retenção usando o Centro de administração do Exchange (EAC) ou o Windows PowerShell remoto.
   
 O Exchange Online oferece dois tipos de políticas: políticas de arquivo morto e políticas de exclusão. Ambos os tipos podem ser combinados no mesmo item ou pasta. Por exemplo, o usuário pode marcar uma mensagem de email para ser movida automaticamente para o Arquivo Morto In-loco em um número especificado de dias e excluída após outro intervalo de dias.
   
-Com o Outlook 2010 ou posterior e Outlook Web App, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais. Eles podem também exibir as políticas de retenção aplicadas e as datas de exclusão esperadas em mensagens. Os usuários de outros clientes de email podem apenas ter mensagens de email excluídas ou arquivadas com base nas políticas de retenção do lado de servidor definidas pelo administrador.
+Com o Outlook 2010 ou posterior e o Outlook na Web, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais. Eles podem também exibir as políticas de retenção aplicadas e as datas de exclusão esperadas em mensagens. Os usuários de outros clientes de email podem apenas ter mensagens de email excluídas ou arquivadas com base nas políticas de retenção do lado de servidor definidas pelo administrador.
   
 Os recursos de política de retenção oferecidos no Exchange Online são iguais aos oferecidos no Exchange Server 2010 Service Pack 2 RU4. Os administradores podem usar o Windows PowerShell remoto para migrar políticas de retenção de ambientes do Exchange Server 2010 ou posterior locais para o Exchange Online.
   
@@ -82,7 +83,7 @@ Os servidores do Office 365 usam o BitLocker para criptografar as unidades de di
 
 Além do BitLocker, usamos uma tecnologia chamada DKM (Distributed Key Manager). O DKM é uma funcionalidade do lado do cliente que usa um conjunto de chaves secretas para criptografar e descriptografar informações. Somente membros de um grupo de segurança específico nos serviços de domínio Active Directory podem acessar essas chaves para descriptografar os dados que são criptografados pelo DKM. No Exchange Online, apenas certas contas de serviço, sob as quais os processos do Exchange são executados, fazem parte do grupo de segurança. Como parte do procedimento operacional padrão no datacenter, nenhum humano recebe credenciais que fazem parte deste grupo de segurança e, portanto, nenhuma pessoa tem acesso às chaves que podem descriptografar esses segredos.
   
-## <a name="customer-key"></a>Chave do Cliente
+## <a name="customer-key"></a>Chave de Cliente
 
 Com a chave do cliente, você controla as chaves de criptografia da sua organização e, em seguida, configura o Office 365 para usá-las para criptografar seus dados em repouso nos data centers da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business que são armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. Para obter mais informações, consulte [controle de dados no Office 365 usando chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) e [criptografia de serviço com a chave do cliente para o Office 365 perguntas frequentes](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
   
@@ -127,7 +128,7 @@ Além disso, você pode usar a Retenção local para:
   
 Confira mais informações em [Bloqueio In-loco e Retenção Local](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds).
   
-## <a name="in-place-ediscovery"></a>Descoberta eletrônica In-loco
+## <a name="in-place-ediscovery"></a>Descoberta Eletrônica In-loco
 
 O Exchange Online permite que os clientes pesquisem o conteúdo de caixas de correio em uma organização usando uma interface baseada na Web. Os administradores e oficiais de segurança e conformidade autorizados a realizar pesquisa de Descoberta Eletrônica In-loco (por atribuição) podem pesquisar mensagens de email, anexos, compromissos de calendário, tarefas, contatos e outros itens. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Os resultados da pesquisa também incluirão itens da pasta Itens Excluídos se eles corresponderem à consulta da pesquisa.
   
@@ -174,7 +175,7 @@ Para obter mais informações sobre regras de fluxo de emails, consulte [Mail Fl
   
 ## <a name="data-loss-prevention"></a>Prevenção contra perda de dados
 
-O recurso de prevenção contra perda de dados (DLP) o ajudará a identificar, monitorar e proteger informações confidenciais em sua organização por meio de análise de conteúdo profunda. DLP é um recurso superior cada vez mais importante para sistemas de mensagens corporativos porque o email crucial para os negócios inclui dados confidenciais que precisam ser protegidos. O recurso DLP no Exchange Online permite que você proteja dados confidenciais sem afetar a produtividade do trabalhador.
+O recurso de prevenção contra perda de dados (DLP) o ajudará a identificar, monitorar e proteger informações confidenciais em sua organização por meio de análise de conteúdo profunda. DLP é um recurso superior cada vez mais importante para sistemas de mensagens corporativos porque o email crucial para os negócios inclui dados confidenciais que precisam ser protegidos. O recurso DLP no Exchange Online permite proteger dados confidenciais sem afetar a produtividade do trabalhador.
   
 Você pode configurar políticas de DLP na interface de gerenciamento do Centro de administração do Exchange (EAC), que lhe permite: 
   
@@ -188,9 +189,9 @@ Você pode configurar políticas de DLP na interface de gerenciamento do Centro 
     
 - Detectar informações confidenciais em anexos de mensagens, texto do corpo ou linhas de assunto e ajustar o nível de confiança em que o Exchange Online atua.
     
-- Detecte dados sensíveis por meio de impressão digital do documento. A Impressão Digital do Documento ajuda você a criar facilmente tipos de informações sensíveis personalizadas com base em formulários baseados em texto que você pode usar para definir regras de transporte e políticas DLP.
+- Detecte dados confidenciais por meio de impressão digital do documento. A impressão digital de documentos ajuda você a criar facilmente tipos de informações confidenciais personalizadas com base em formulários baseados em texto que você pode usar para definir as regras de transporte e políticas de DLP.
     
-- Adicione Dicas de Política, que podem ajudar a reduzir a perda de dados ao exibir um aviso para os usuários do Outlook 2016, Outlook 2013, Outlook Web App e OWA para Dispositivos, além de aumentar a efetividade das políticas permitindo a denúncia de falsos positivos. 
+- Adicionar dicas de política, que podem ajudar a reduzir a perda de dados, exibindo um aviso para o Outlook 2016, Outlook 2013, Outlook na Web e OWA para dispositivos usuários e também podem melhorar a eficácia de suas políticas, permitindo relatórios falsos positivos. 
     
 - Revise os dados de incidentes em relatórios de DLP ou adicione seus próprios relatórios específicos usando uma ação de geração de relatórios de incidentes.
     
@@ -216,8 +217,8 @@ Para garantir uma solução de registro no diário bem-sucedida e confiável, é
     
 Confira mais informações sobre o registro no diário em [Registro no diário](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

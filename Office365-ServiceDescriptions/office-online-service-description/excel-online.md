@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442746"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595299"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -96,6 +96,10 @@ Para verificar a ortografia de qualquer texto na sua planilha, selecione **revis
 ## <a name="comment-creation"></a>Comment creation
 
 Você pode inserir, editar e excluir comentários no Excel para a Web. Você também pode resolver um thread de comentários, que o fecha para editar e para novos comentários, mas o deixa em vigor. Isso permite que você reabra o thread para comentários, se necessário. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+
+## <a name="convert-a-table-to-a-range"></a>Converter uma tabela em um intervalo
+
+Após criar uma tabela do Excel, você só poderá querer o estilo de tabela sem a funcionalidade de tabela. Para parar de trabalhar com seus dados em uma tabela sem perder qualquer formatação de estilo de tabela aplicada, você pode converter a tabela em um intervalo de dados regular na planilha. Saiba mais sobre como [converter uma tabela do Excel em um intervalo de dados](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
@@ -175,11 +179,15 @@ Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência d
  
 ## <a name="group-data"></a>Dados de grupo
 
-Você pode agrupar ou estruturar linhas e colunas na planilha do Excel para a Web. Saiba mais sobre como [agrupar dados no Excel para a Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
+Você pode agrupar ou estruturar linhas e colunas na planilha do Excel para a Web. Os atalhos de teclado facilitam a expansão ou o recolhimento rápido dos grupos criados. Saiba mais sobre como [agrupar dados no Excel para a Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
 Você pode ocultar e Reexibir linhas, colunas e planilhas em uma pasta de trabalho no Excel para a Web.
+
+## <a name="ideas"></a>Ideias
+
+Ideias no Excel ajuda você a compreender seus dados por meio de resumos visuais, tendências e padrões de alto nível. Basta selecionar uma célula em um intervalo de dados e, em seguida, selecionar o botão **ideias** na guia **página inicial** . ideias no Excel analisarão seus dados e devolverão visuais interessantes a ele em um painel de tarefas. Saiba mais sobre as [ideias no Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -287,7 +295,7 @@ Exiba segmentações de dados em sua planilha e filtre seus dados selecionando o
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar os dados e detalhar os detalhes das tabelas dinâmicas. Saiba mais sobre [classificação e filtragem de dados](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar dados (de cima para baixo ou da esquerda para a direita) e detalhar os detalhes das tabelas dinâmicas. Saiba mais sobre [classificação e filtragem de dados](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Auditoria e conformidade de planilhas
 
@@ -331,4 +339,4 @@ Não está disponível no Excel para a Web. Você pode visualizar os resultados 
   
 ## <a name="feature-availability"></a>Disponibilidade do recurso
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Office para a descrição do serviço Web](office-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, confira [Office para a descrição do serviço Web](office-online-service-description.md).

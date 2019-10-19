@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Em todas as assinaturas do Microsoft Office 365 Enterprise, Business, Education e Government, o Suporte da Microsoft fornece suporte técnico para assinaturas, cobrança e pré-vendas em nível global. O suporte está disponível online por meio do portal do Office 365 e por telefone para assinaturas pagas e de avaliação. Para saber mais, veja Opções de suporte do Office 365.
-ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854899"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582187"
 ---
 # <a name="support"></a>Suporte
 
@@ -201,4 +201,4 @@ Se você já adquiriu licenças da Microsoft em um programa de licenciamento por
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](office-365-platform-service-description.md).

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: O arquivamento do Microsoft Exchange Online é uma solução de arquivamento de classe empresarial baseada em nuvem do Microsoft Office 365 para organizações que implantou o Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e posterior) ou Inscreva-se em determinados planos do Exchange Online ou do Office 365. O Arquivamento do Exchange Online auxilia essas organizações com o seus competitivos arquivamento, conformidade, regulamentação, e eDiscovery ao mesmo tempo em que simplifica a infraestrutura no local e, desse modo, reduz custos e facilita os encargos de TI.
-ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
-ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
+ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672575"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581857"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrição do Serviço de Arquivamento do Exchange Online
 
@@ -79,7 +79,7 @@ Cada usuário que acessa o serviço do Arquivamento do Exchange Online deve ter 
 ||||
 |:-----|:-----|:-----|
 |**Recurso** <br/> |**Arquivamento do Exchange Online para Exchange Server<sup>1</sup>**          <br/> |**Arquivamento do Exchange Online para Exchange Online<sup>2</sup>** <br/> |
-|**[Recursos de arquivamento no Arquivamento do Exchange Online](archive-features.md)** <br/> |||
+|**[Recursos de arquivamento no arquivamento do Exchange Online](archive-features.md)** <br/> |||
 |Caixa de correio de arquivamento  <br/> |Sim  <br/> |Sim  <br/> |
 |Mover mensagens usando a política de arquivamento  <br/> |Sim  <br/> |Sim  <br/> |
 |Importar dados para o arquivamento  <br/> |Sim  <br/> |Sim  <br/> |
@@ -88,8 +88,8 @@ Cada usuário que acessa o serviço do Arquivamento do Exchange Online deve ter 
 |Backup da caixa de correio  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Recursos do cliente no arquivamento do Exchange Online](client-features.md)** <br/> |||
 |Outlook<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|Outlook Web App  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Conformidade e segurança recursos de Arquivamento do Exchange Online](compliance-and-security-features.md)** <br/> |||
+|Outlook Online  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Recursos de conformidade e segurança no arquivamento do Exchange Online](compliance-and-security-features.md)** <br/> |||
 |Diretivas de retenção  <br/> |Sim  <br/> |Sim  <br/> |
 |Bloqueio In-loco e Retenção de Litígio<sup>6</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |Descoberta Eletrônica In-loco  <br/> |Sim  <br/> |Sim  <br/> |
@@ -104,7 +104,7 @@ Cada usuário que acessa o serviço do Arquivamento do Exchange Online deve ter 
 <sup>1</sup> As caixas de correio do usuário devem residir no Exchange 2010 SP2 ou posterior.
 <br/>
 <sup>2</sup> um arquivo morto no local só pode ser usado para arquivar emails para um único usuário ou entidade para o qual uma licença foi aplicada. É proibido o uso de um Arquivo-Morto no Local como meio de armazenamento de emails de vários usuários ou entidades. Por exemplo, os administradores de TI não podem criar caixas de correio compartilhadas e fazer com que os usuários copiem (com o campo Cc ou Cco ou com uma regra de transporte) uma caixa de correio compartilhada explicitamente para o arquivamento. <br/> 
-<sup>3</sup> Veja a lista de versões do Microsoft Outlook compatíveis em [Recursos do cliente no arquivamento do Exchange Online](client-features.md). <br/>
+<sup>3</sup> para obter uma lista de versões do Microsoft Outlook compatíveis, confira [recursos de cliente no arquivamento do Exchange Online](client-features.md). <br/>
 <sup>4</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. <br/>
 <sup>5</sup> O AD RMS para Windows Server é um servidor local que precisa ser adquirido e gerenciado separadamente de forma a permitir os recursos de IRM com suporte. <br/>
 <sup>6</sup> Ao colocar uma caixa de correio em Bloqueio In-loco e Retenção de Litígio, a retenção é aplicada à caixa de correio primária e à caixa de correio de arquivo morto. 

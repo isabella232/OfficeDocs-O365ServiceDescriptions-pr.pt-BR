@@ -16,21 +16,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131255"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582057"
 ---
 # <a name="office-365-plan-options"></a>Opções de planos do Office 365
 
 O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
   
 ## <a name="office-365-service-families-and-plans"></a>Famílias e planos do serviço Office 365
-<a name="bkmk_O365Service_Families_and_Plans"> </a>
 
-A tabela a seguir lista os diferentes planos e famílias de serviços disponíveis no Office 365. Para obter uma visão geral de alto nível dos recursos e informações sobre preços, ou para conversar com um representante online, clique em qualquer um dos links na coluna de planos.
+A tabela a seguir lista os diferentes planos e famílias de serviços disponíveis no Office 365. Para obter uma visão geral de alto nível dos recursos e informações sobre preços, ou para conversar com um representante online, selecione qualquer um dos links na coluna planos.
   
 |**Família de serviços Office 365**|**Planos**|
 |:-----|:-----|
@@ -108,7 +107,7 @@ Você pode combinar os planos autônomo, Enterprise e Business (por exemplo, o P
 ## <a name="standalone-services"></a>Serviços autônomos
 <a name="bkmk_standaloneservices"> </a>
 
-Os serviços online a seguir estão disponíveis individualmente, como planos autônomos. Eles também podem ser adicionados aos planos da família de serviços Business e Enterprise que não os tenham incluídos. Para obter informações sobre preços, ou para conversar com um representante online, clique em qualquer um dos planos listados da tabela a seguir.
+Os serviços online a seguir estão disponíveis individualmente, como planos autônomos. Eles também podem ser adicionados aos planos da família de serviços Business e Enterprise que não os tenham incluídos. Para obter informações sobre preços, ou para conversar com um representante online, selecione qualquer um dos planos listados na tabela a seguir.
   
 |**Serviço**|**Planos**|
 |:-----|:-----|
@@ -128,4 +127,4 @@ Os serviços online a seguir estão disponíveis individualmente, como planos au
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 <a name="bkmk_standaloneservices"> </a>
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](office-365-platform-service-description.md).

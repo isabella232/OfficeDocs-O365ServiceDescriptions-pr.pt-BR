@@ -1,5 +1,5 @@
 ---
-title: Fluxo de e-mails
+title: Fluxo de mensagens
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Para a maioria das organizações que usam o Office 365, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui.
-ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442596"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581447"
 ---
-# <a name="mail-flow"></a>Fluxo de e-mails
+# <a name="mail-flow"></a>Fluxo de emails
 
 Para a maioria das organizações que usam o Office 365, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui. 
   
 ## <a name="custom-routing-of-outbound-email"></a>Roteamento personalizado de email de saída
 
-O Microsoft Exchange Online pode rotear os emails que estão saindo da sua organização por meio de um servidor local ou um serviço hospedado (às vezes chamado de "host inteligente"). Isso permite que a organização use dispositivos de DLP (prevenção contra perda de dados), realize pós-processamento personalizado do email de saída e entregue o email a parceiros de negócios por meio de redes privadas. O Exchange Online também dá suporte à Regravação de Endereço, que encaminha emails de saída por meio de um gateway local que modifica os endereços. Esse recurso permite que você oculte subdomínios, faça o email de uma organização com vários domínios parecer um único domínio ou faça email retransmitido por parceiros parecer como se fosse enviado de dentro da sua organização. Os administradores configuram o roteamento do email personalizado dentro do EAC (Centro de Administração do Exchange).
+O Microsoft Exchange Online pode rotear os emails que estão saindo da sua organização por meio de um servidor local ou um serviço hospedado (às vezes chamado de "host inteligente"). Isso permite que sua organização use dispositivos DLP (prevenção contra perda de dados), execute o pós-processamento personalizado de emails de saída e envie emails para parceiros de negócios por meio de redes privadas. O Exchange Online também dá suporte à Regravação de Endereço, que encaminha emails de saída por meio de um gateway local que modifica os endereços. Esse recurso permite ocultar subdomínios, fazer com que os emails de uma organização de vários domínios sejam exibidos como um único domínio ou fazer com que o email retransmitido por parceiro pareça ser enviado de dentro da sua organização. Os administradores configuram o roteamento do email personalizado dentro do EAC (Centro de Administração do Exchange).
   
 Saiba mais em [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
@@ -94,7 +94,7 @@ Saiba mais sobre os requisitos de implantação híbrida em [Pré-requisitos da 
 > [!IMPORTANT]
 > Em algumas configurações híbrida, pode ser preciso adquirir as licenças da Proteção do Exchange Online para as suas caixas de correio local. 
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Confira a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais em [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte a [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   

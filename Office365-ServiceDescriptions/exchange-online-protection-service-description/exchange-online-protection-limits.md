@@ -1,5 +1,5 @@
 ---
-title: Limites do Exchange Online Protection
+title: Limites de proteção do Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Os seguintes limites existem atualmente para o Exchange Online Protection. Estes limites não são configuráveis, a menos que haja outra regra nesse sentido.
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+description: Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que o contrário seja especificado.
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231389"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581458"
 ---
-# <a name="exchange-online-protection-limits"></a>Limites do Exchange Online Protection
+# <a name="exchange-online-protection-limits"></a>Limites de proteção do Exchange Online
 
-Os seguintes limites existem atualmente para o Exchange Online Protection. Estes limites não são configuráveis, a menos que haja outra regra nesse sentido. 
+Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que o contrário seja especificado. 
   
 > [!TIP]
 > Para saber mais sobre limites no Exchange Online, consulte [Limites do Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Os limites de regras de transporte também se aplicam aos clientes do EOP autônomo. Os limites de taxas de destinatários e de taxas de mensagens para o Exchange Online não se aplicam aos clientes do EOP autônomo. 

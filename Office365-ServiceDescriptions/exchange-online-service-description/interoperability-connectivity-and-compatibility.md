@@ -1,5 +1,5 @@
 ---
-title: Interoperabilidade, Conectividade e Compatibilidade
+title: Interoperabilidade, conectividade e compatibilidade
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776792"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581827"
 ---
-# <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidade, Conectividade e Compatibilidade
+# <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidade, conectividade e compatibilidade
 
 ## <a name="interoperability-with-other-microsoft-products"></a>Interoperabilidade com outros produtos da Microsoft
 
@@ -28,7 +28,7 @@ Para clientes que implantaram o Microsoft Lync Server 2010, o Lync Server 2013 o
   
 O Lync Server 2010 e o Lync Server 2013 locais poderão interoperar com o Exchange Online de duas maneiras adicionais:
   
-- IM (Mensagens instantâneas) e interoperabilidade de presença no Outlook Web App
+- Interoperabilidade de IM e presença no Outlook na Web
     
 - Interoperabilidade de caixa postal
     
@@ -50,14 +50,14 @@ O Exchange Online oferece os seguintes recursos para a conexão com aplicativos 
     
 ### <a name="exchange-web-services"></a>Serviços Web do Exchange
 
-Serviços Web Exchange (EWS) são o API de desenvolvimento preferencial para o Exchange Server e o Exchange Online. Usando o EWS ou a API gerenciada do EWS, os administradores podem acessar os dados armazenados com o Exchange Online a partir dos aplicativos executados no local, no Azure ou em outros serviços hospedados. O EWS permite que os administradores realizem ações especializadas, como consultar o conteúdo de uma caixa de correio em fila, publicar um evento de calendário, criar uma tarefa ou disparar uma ação específica baseada no conteúdo de uma mensagem de email. O Exchange Online habilita a funcionalidade EWS, concedendo permissões de aplicativo para as contas de clientes. Essas permissões permitem que o aplicativo de cliente acesse a caixa de correio do aplicativo e adicione conteúdo. A Representação do Exchange é um método usado para conceder permissões de aplicativo. Para obter mais detalhes sobre como usar os Serviços Web do Exchange com o Exchange Online, consulte os artigos técnicos no Centro de Desenvolvimento do Exchange Online.
+Serviços Web Exchange (EWS) são o API de desenvolvimento preferencial para o Exchange Server e o Exchange Online. Usando o EWS ou a API gerenciada do EWS, os administradores podem acessar os dados armazenados com o Exchange Online a partir dos aplicativos executados no local, no Azure ou em outros serviços hospedados. O EWS permite que os administradores realizem ações especializadas, como consultar o conteúdo de uma caixa de correio, postar um evento de calendário, criar uma tarefa ou acionar uma ação específica com base no conteúdo de uma mensagem de email. O Exchange Online habilita a funcionalidade EWS, concedendo permissões de aplicativo para as contas de clientes. Essas permissões permitem que o aplicativo de cliente acesse a caixa de correio do aplicativo e adicione conteúdo. A Representação do Exchange é um método usado para conceder permissões de aplicativo. Para obter mais detalhes sobre como usar os Serviços Web do Exchange com o Exchange Online, consulte os artigos técnicos no Centro de Desenvolvimento do Exchange Online.
   
 ### <a name="smtp-relay"></a>Retransmissão SMTP
 
 O Exchange Online pode ser usado como um serviço de entrega SMTP, para retransmitir as mensagens de email enviadas de gateways de fax, dispositivos de rede e aplicativos personalizados. Por exemplo, se um aplicativo de linha de negócios envia alertas de email para usuários, ele pode ser configurado para usar o Exchange Online como o sistema de entrega de email. O aplicativo ou serviço deve ser autenticado com o nome de usuário e senha de uma caixa de correio válida e licenciada do Exchange Online, e conectar-se usando o protocolo TLS (Transport Layer Security).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Recursos de arquivamento no Arquivamento do Exchange Online
+title: Recursos de arquivamento no arquivamento do Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: As seções a seguir descrevem os recursos de arquivamento do arquivamento do Microsoft Exchange Online.
-ms.openlocfilehash: 7cbaaf81106084795630ced11837f4f9a56dcf85
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 8e27ce238fa0aa7e2b670f6d991178c5f595908a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780670"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581397"
 ---
-# <a name="archive-features-in-exchange-online-archiving"></a>Recursos de arquivamento no Arquivamento do Exchange Online
+# <a name="archive-features-in-exchange-online-archiving"></a>Recursos de arquivamento no arquivamento do Exchange Online
 
 As seções a seguir descrevem os recursos de arquivamento do arquivamento do Microsoft Exchange Online.
   
 ## <a name="archive-mailbox"></a>Caixa de correio de arquivamento
 
-O Arquivamento do Exchange Online oferece aos usuários recursos avançados de arquivamento com o recurso da caixa de correio de arquivamento. Uma caixa de correio de arquivamento é uma caixa especializada que aparece lado a lado com as pastas primárias da caixa de correio dos usuários no Outlook ou no Outlook Web App. Os usuários podem acessar o arquivamento da mesma forma como acessam suas caixas de correio primárias. Além disso, eles podem pesquisar seus arquivos e caixas de correio primárias.
+O Arquivamento do Exchange Online oferece aos usuários recursos avançados de arquivamento com o recurso da caixa de correio de arquivamento. Uma caixa de correio de arquivo morto é uma caixa de correio especializada que aparece junto com as pastas de caixa de correio principais dos usuários no Outlook ou no Outlook na Web. Os usuários podem acessar o arquivamento da mesma forma como acessam suas caixas de correio primárias. Além disso, eles podem pesquisar seus arquivos e caixas de correio primárias.
   
 Os administradores podem usar o Centro de administração do Exchange (EAC) ou o Windows PowerShell remoto para ativar o recurso de arquivamento para usuários específicos. Confira mais informações em [Habilitar ou desabilitar as caixas de correio de arquivo morto no Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
   
@@ -58,7 +58,7 @@ Os usuários podem importar dados para o arquivamento das seguintes maneiras:
 
 Os usuários poderão restaurar os itens que eles excluíram de qualquer pasta de e-mail em seu arquivo. Quando um item é excluído, ele é mantido na pasta Itens excluídos do arquivo. Ele permanecerá lá até ser removido manualmente pelo usuário ou removido automaticamente pelas políticas de retenção.
   
-Após um item ter sido removido da pasta Itens excluídos do arquivamento, ele é mantido na pasta Itens recuperáveis por mais 14 dias, até ser removido permanentemente. Os usuários podem recuperar esses itens usando o recurso **Recuperar itens excluídos** no Microsoft Outlook ou no Outlook Web App. 
+Após um item ter sido removido da pasta Itens excluídos do arquivamento, ele é mantido na pasta Itens recuperáveis por mais 14 dias, até ser removido permanentemente. Os usuários podem recuperar esses itens usando o recurso **recuperar itens excluídos** no Microsoft Outlook ou no Outlook na Web. 
   
 Se um usuário tiver removido manualmente um item da pasta Itens recuperáveis, um administrador poderá recuperar o item dentro do mesmo período de 14 dias usando o recurso chamado Recuperação de um item. Este recurso permite que os administradores façam uma pesquisa em várias caixas de correio para encontrar os itens removidos, então, usem o cmdlet  `Search-Mailbox` do Windows PowerShell para mover os itens da caixa de correio de descoberta para as caixas de correio dos usuários. Para mais informações, confira [Ativar ou desativar recuperação de item único para uma caixa de correio](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
   
@@ -77,7 +77,7 @@ Quando os administradores excluem os usuários do Exchange Server local, os arqu
 
 As caixas de correio de arquivamento no Arquivamento do Exchange Online são replicadas em várias cópias do banco de dados, em centros de dados da Microsoft geograficamente dispersos, para fornecer a capacidade de restauração dos dados no caso de falha da infraestrutura de mensagens. Para as falhas em grande escala, o gerenciamento de continuidade de negócios é iniciado. 
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do Serviço de Arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
   

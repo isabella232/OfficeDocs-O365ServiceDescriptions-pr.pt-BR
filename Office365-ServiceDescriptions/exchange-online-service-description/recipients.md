@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
-ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442616"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582127"
 ---
 # <a name="recipients"></a>Destinatários
 
@@ -42,7 +42,7 @@ Dicas de Email são mensagens informativas e automáticas que aparecem acima da 
   
 ### <a name="delegate-access"></a>Acesso de representante
 
-O Exchange Online dá suporte ao acesso delegadoa habilidade para os usuários permitirem outros usuários a gerenciarem seus emails e calendários. O acesso delegado é normalmente usado entre um gerente e um assistente, no qual o assistente processa as mensagens de email de entrada do gerente e coordena a agenda do gerente. O acesso delegado pode ser ativado pelos usuários do Exchange Online no Outlook ou no Outlook Web App, ou pelos administradores no Exchange Admin Center. 
+O Exchange Online dá suporte ao acesso delegadoa habilidade para os usuários permitirem outros usuários a gerenciarem seus emails e calendários. O acesso delegado é normalmente usado entre um gerente e um assistente, no qual o assistente processa as mensagens de email de entrada do gerente e coordena a agenda do gerente. O acesso de representante pode ser habilitado por usuários do Exchange Online no Outlook ou no Outlook na Web ou por administradores no centro de administração do Exchange. 
   
 Os representantes podem ter dois tipos de acesso:
   
@@ -54,7 +54,7 @@ Para saber mais sobre como delegar acesso, consulte [Gerenciar Permissões de De
   
 ### <a name="inbox-rules"></a>Regras da Caixa de Entrada
 
-O Exchange Online permite que os usuários criem regras de caixa de entrada que desempenhem ações específicas, baseadas em critérios e de forma automática, nas mensagens, conforme elas chegam. Por exemplo, eles podem criar uma regra para mover automaticamente todos os emails para uma pasta específica, caso o email tenha sido enviado para um determinado grupo de distribuição. Os usuários gerenciam as regras da caixa de entrada a partir do Outlook ou do Outlook Web App. Os administradores podem bloquear determinados tipos de regras da caixa de entrada, desabilitando o encaminhamento e/ou as respostas automáticas do servidor. Por exemplo, ao desabilitar o encaminhamento de emails do servidor, é possível evitar que os usuários encaminhem emails automaticamente para contas pessoais. Semelhantemente, ao desabilitar as respostas automáticas do servidor, é possível evitar que partes externas usem essas respostas para identificar endereços de email válidos. Essas alterações são feitas por meio do Windows PowerShell remoto.
+O Exchange Online permite que os usuários criem regras de caixa de entrada que desempenhem ações específicas, baseadas em critérios e de forma automática, nas mensagens, conforme elas chegam. Por exemplo, eles podem criar uma regra para mover automaticamente todos os emails para uma pasta específica, caso o email tenha sido enviado para um determinado grupo de distribuição. Os usuários gerenciam as regras de caixa de entrada do Outlook ou do Outlook na Web. Os administradores podem bloquear determinados tipos de regras da caixa de entrada, desabilitando o encaminhamento e/ou as respostas automáticas do servidor. Por exemplo, ao desabilitar o encaminhamento de emails do servidor, é possível evitar que os usuários encaminhem emails automaticamente para contas pessoais. Semelhantemente, ao desabilitar as respostas automáticas do servidor, é possível evitar que partes externas usem essas respostas para identificar endereços de email válidos. Essas alterações são feitas por meio do Windows PowerShell remoto.
   
 ### <a name="clutter"></a>Email secundário
 
@@ -62,7 +62,7 @@ O Email secundário foi desenvolvido para ajudar você a focar nas mensagens mai
   
 ### <a name="connected-accounts"></a>Contas conectadas
 
-O recurso de Contas Conectadas permite que os usuários do Exchange Online conectem contas de email externas (como contas pessoais) a suas contas de email internas no Exchange Online, e em seguida usem o Outlook Web App para interagir com todas suas mensagens em um só local. As Contas Conectadas são automaticamente sincronizadas ao entrar no Outlook Web App. Os usuários também podem sincronizar as contas manualmente a partir do Outlook Web App. Os administradores podem ativar e desativar esse recurso para usuários específicos ou para todos os usuários, por meio do [Centro de administração do Exchange](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
+O recurso de contas conectadas permite que os usuários do Exchange Online conectem contas de email externas (como contas pessoais) às suas contas de email internas no Exchange Online e, em seguida, use o Outlook na Web para interagir com todas as suas mensagens em um só lugar. Contas conectadas são sincronizadas automaticamente após entrar no Outlook na Web; os usuários também podem sincronizar manualmente as contas do Outlook na Web. Os administradores podem habilitar e desabilitar esse recurso para usuários específicos ou todos os usuários por meio do [centro de administração do Exchange](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
   
 ### <a name="inactive-mailboxes"></a>Caixas de correio inativas
 
@@ -83,17 +83,17 @@ Para mais informações, consulte:
     
 ## <a name="contacts-and-distribution-groups"></a>Contatos e grupos de distribuição
 
-### <a name="offline-address-book"></a>Catálogo de Endereços Offline
+### <a name="offline-address-book"></a>Offline address book
 
-O recurso Catálogo de Endereços Offline fornece informações instantâneas do Active Directory disponíveis na Lista de Endereços Global do Outlook. Ele é colocado em cache localmente no Outlook, para que esteja disponível quando um usuário estiver trabalhando offline.
+O recurso catálogo de endereços offline fornece um instantâneo das informações do Active Directory disponíveis na GAL (lista de endereços global) do Outlook. Ele é colocado em cache localmente no Outlook, para que esteja disponível quando um usuário estiver trabalhando offline.
   
-### <a name="address-book-policies"></a>Políticas de Catálogo de Endereços
+### <a name="address-book-policies"></a>Políticas do catálogo de endereços
 
-O Exchange Online oferece suporte para as Políticas do Catálogo de Endereços. As Políticas do Catálogo de Endereços (ABPs) permitem segmentar os usuários em grupos específicos para fornecer visualizações personalizadas da lista de endereços global (GAL) de sua organização. Ao criar uma ABP, atribua uma GAL, um OAB (catálogo de endereços offline), uma lista de salas e uma ou mais listas de endereços para a política. Você pode então atribuir a ABP para usuários de caixa de correio, fornecendo acesso a uma GAL personalizada no Outlook e Outlook Web App. Os administradores podem configurar as políticas do catálogo de endereços usando o Windows PowerShell remoto. Para saber mais sobre as Políticas de Catálogos de Endereços, confira [Catálogo de Endereços no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=394203).
+O Exchange Online oferece suporte a políticas de catálogo de endereços. Políticas de catálogo de endereços (ABPs) permitem segmentar usuários em grupos específicos para fornecer visualizações personalizadas da GAL (lista de endereços global) da sua organização. Ao criar uma ABP, atribua uma GAL, um OAB (catálogo de endereços offline), uma lista de salas e uma ou mais listas de endereços para a política. Você pode atribuir o ABP aos usuários de caixa de correio, fornecendo acesso a uma GAL personalizada no Outlook e no Outlook na Web. Os administradores podem configurar as políticas do catálogo de endereços usando o Windows PowerShell remoto. Para saber mais sobre as Políticas de Catálogos de Endereços, confira [Catálogo de Endereços no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=394203).
   
-### <a name="address-lists"></a>Listas de Endereços
+### <a name="address-lists"></a>Listas de endereços
 
-O Exchange Online suporta a personalização das Listas de Endereços e da Lista de Endereços Global, um diretório de toda a organização com todos os usuários ativados por e-mail, grupos de distribuição e contatos externos. Os administradores podem ocultar usuários, grupos de distribuição e contatos da Lista de Endereços Global, usando a ferramenta Sincronização de Diretório ou o Windows PowerShell remoto.
+O Exchange Online oferece suporte à personalização de listas de endereços e GALs. Uma GAL é um diretório para toda a organização de todos os usuários habilitados para email, grupos de distribuição e contatos externos. Os administradores podem ocultar usuários, grupos de distribuição e contatos da GAL usando a ferramenta de sincronização de diretório ou o Windows PowerShell remoto.
   
 ### <a name="hierarchical-address-books"></a>Catálogos de endereços hierárquicos
 
@@ -101,7 +101,7 @@ O Exchange Online suporta a personalização das Listas de Endereços e da Lista
   
 ### <a name="distribution-groups-global"></a>Grupos de distribuição (global)
 
-Um grupo de distribuição (ou lista de distribuição) é um conjunto de usuários, contatos e outros grupos de distribuição disponíveis para todos os usuários em uma empresa. Os usuários endereçam emails para um alias do grupo de distribuição, para enviar mensagens para todas as pessoas do grupo. Os grupos de distribuição são semelhantes aos grupos de distribuição pessoais criados por indivíduos no Outlook, somente suas listas de membros são globalmente disponíveis para a empresa. Os administradores criam grupos de distribuição no centro de administração do Exchange. Os grupos também podem ser sincronizados com o Exchange Online a partir do Active Directory local. Eles aparecem na Lista de Endereços Global no Outlook. O Exchange Online suporta as capacidades avançadas do grupo de distribuição, incluindo as descritas abaixo:
+Um grupo de distribuição (ou lista de distribuição) é um conjunto de usuários, contatos e outros grupos de distribuição disponíveis para todos os usuários em uma empresa. Os usuários endereçam emails para um alias do grupo de distribuição, para enviar mensagens para todas as pessoas do grupo. Os grupos de distribuição são semelhantes aos grupos de distribuição pessoais criados por indivíduos no Outlook, somente suas listas de membros são globalmente disponíveis para a empresa. Os administradores criam grupos de distribuição no centro de administração do Exchange. Os grupos também podem ser sincronizados com o Exchange Online a partir do Active Directory local. Eles aparecem na GAL no Outlook. O Exchange Online suporta as capacidades avançadas do grupo de distribuição, incluindo as descritas abaixo:
   
 - **Grupos restritos de distribuição** Por padrão, qualquer um pode mandar e-mails para qualquer grupo de distribuição. Os administradores podem alterar as permissões para permitir que apenas indivíduos específicos enviem emails para um determinado grupopor exemplo, para desencorajar o uso inadequado de listas grandes de distribuição. Os administradores podem também impedir que fontes externas enviem emails para grupos de distribuição, para ajudar a evitar spam. Para os grupos de distribuição sincronizados a partir do Active Directory local, usando a ferramenta de Sincronização de Diretório, os atributos para restrição são sincronizados com a nuvem automaticamente. Para saber mais, consulte [Gerenciar Grupos de Distribuição](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx).
     
@@ -119,7 +119,7 @@ Um grupo de distribuição (ou lista de distribuição) é um conjunto de usuár
   
 ### <a name="external-contacts-global"></a>Contatos externos (global)
 
-Um contato externo é um registro com informações sobre uma pessoa que trabalha fora de uma organização específica. Os contatos externos são semelhantes aos contatos pessoais criados por indivíduos no Outlook, a única diferença é que são globalmente disponíveis para a empresa. Os administradores criam contatos externos usando o centro de administração do Exchange ou o Windows PowerShell remoto. Esses contatos também podem ser sincronizados com o Exchange Online a partir do Active Directory local. Eles aparecem na Lista de Endereços Global no Outlook.
+Um contato externo é um registro com informações sobre uma pessoa que trabalha fora de uma organização específica. Os contatos externos são semelhantes aos contatos pessoais criados por indivíduos no Outlook, a única diferença é que são globalmente disponíveis para a empresa. Os administradores criam contatos externos usando o centro de administração do Exchange ou o Windows PowerShell remoto. Esses contatos também podem ser sincronizados com o Exchange Online a partir do Active Directory local. Eles aparecem na GAL no Outlook.
   
 Para saber mais sobre contatos externos, consulte [Criar um relacionamento de organização no Exchange Online](https://technet.microsoft.com/EN-US/library/jj916671%28v=exchg.150%29.aspx).
   
@@ -127,21 +127,21 @@ Para saber mais sobre contatos externos, consulte [Criar um relacionamento de or
 
 ### <a name="resource-mailboxes"></a>Caixas de correio de recurso
 
-A caixa de correio de recursos (como para salas de conferência e equipamentos físicos) representa as salas de reuniões de uma empresa ou outras facilidades ou recursos. Os usuários podem reservar salas ou recursos, adicionando o alias de email dos recursos às solicitações de reuniões no Outlook ou no Outlook Web App. As salas de conferência e os recursos aparecem na Lista de Endereços Global no Outlook e no Outlook Web App.
+A caixa de correio de recursos (como para salas de conferência e equipamentos físicos) representa as salas de reuniões de uma empresa ou outras facilidades ou recursos. Os usuários podem reservar salas ou recursos adicionando o alias de email do recurso às solicitações de reunião no Outlook ou no Outlook na Web. As salas de conferência e os recursos aparecem na GAL no Outlook e no Outlook na Web.
   
 Os administradores criam caixas de correio de recurso usando o centro de administração do Exchange ou o Windows PowerShell remoto. As caixas de correio também podem ser sincronizadas com o Exchange Online a partir do Active Directory local.
   
 Para obter mais informações sobre caixas de correio de recursos, consulte:
   
-- [Criar e Gerenciar Caixas de Correio](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
+- [Criar e gerenciar caixas de correio de sala](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
-- [Gerenciar Caixas de Correio do Equipamento](https://go.microsoft.com/fwlink/?LinkId=717534)
+- [Gerenciar caixas de correio de equipamento](https://go.microsoft.com/fwlink/?LinkId=717534)
     
 ### <a name="conference-room-management"></a>Gerenciamento da sala de conferência
 
 O Exchange Online inclui o RBA (Atendente de Reserva de Recursos), que automatiza o agendamento de salas de conferência e outros recursos. Uma caixa de correio de recursos configurada com RBA aceita, rejeita ou reconhece as solicitações de reuniões de um organizador de reuniões baseado na disponibilidade do calendário do recurso. 
   
-Os administradores podem personalizar respostas automáticas da sala de conferência e configurar políticas de reservas no Outlook Web App. Essas políticas incluem quem pode agendar o recurso, quando o recurso pode ser agendado, quais informações de reuniões são visíveis no calendário de recursos e a porcentagem de conflitos de agendamento permitida. Os administradores podem desabilitar o Atendente de Reserva de Recursos e determinar usuários específicos para gerenciar manualmente as solicitações de reuniões para salas de conferência.
+Os administradores podem personalizar as respostas de sala de conferência automatizadas e configurar as políticas de reserva no Outlook na Web. Essas políticas incluem quem pode agendar o recurso, quando o recurso pode ser agendado, quais informações de reuniões são visíveis no calendário de recursos e a porcentagem de conflitos de agendamento permitida. Os administradores podem desabilitar o Atendente de Reserva de Recursos e determinar usuários específicos para gerenciar manualmente as solicitações de reuniões para salas de conferência.
   
 Os administradores devem definir e gerenciar as configurações RBA pelo Windows PowerShell remoto.
   
@@ -153,9 +153,9 @@ As mensagens de ausência temporária são respostas automáticas para as mensag
 
 Os usuários podem compartilhar seu calendário pessoal de duas maneiras:
   
-- **Compartilhamento de agendas federado** Federação se refere à infraestrutura confiável subjacente que suporta o compartilhamento federado, um método fácil para os usuários do Exchange compartilharem dados da agenda de disponibilidade e informações de contato com destinatários de outras organizações federadas externas. Isto inclui organizações do Exchange Online ou organizações que executam o Exchange Server 2010 ou o Exchange Server 2013 local. Os administradores do Exchange Online não precisam configurar uma relação de confiança com o Microsoft Federation Gateway, porque essa relação de confiança é pré-configurada para todos os clientes do Exchange Online, quando o serviço do locatário do Office 365 é criado. Uma política de compartilhamento padrão permite que os usuários enviem convites de compartilhamento de calendário do Outlook Web App ou do Outlook 2010. Os administradores usam o Windows PowerShell remoto para desabilitar essa política ou para configurar o nível de disponibilidade dos dados de calendário que os usuários podem compartilhar. Os administradores também podem criar um relacionamento de organização para organização com outra organização federada, que permite que o nível desejado de informações de disponibilidade para cada usuário seja visível na organização, sem que os usuários individuais tenham que fazer um convite compartilhado. Dentro do escopo das Políticas de Compartilhamento definidas pelo administrador e/ou dos relacionamentos de organização para organização, os usuários podem limitar individualmente ainda mais o detalhe de seu compartilhamento. 
+- **Compartilhamento de agendas federado** Federação se refere à infraestrutura confiável subjacente que suporta o compartilhamento federado, um método fácil para os usuários do Exchange compartilharem dados da agenda de disponibilidade e informações de contato com destinatários de outras organizações federadas externas. Isto inclui organizações do Exchange Online ou organizações que executam o Exchange Server 2010 ou o Exchange Server 2013 local. Os administradores do Exchange Online não precisam configurar uma relação de confiança com o Microsoft Federation Gateway, porque essa relação de confiança é pré-configurada para todos os clientes do Exchange Online, quando o serviço do locatário do Office 365 é criado. Uma política de compartilhamento padrão permite que os usuários enviem convites de compartilhamento de calendário do Outlook na Web ou do Outlook 2010. Os administradores usam o Windows PowerShell remoto para desabilitar essa política ou para configurar o nível de disponibilidade dos dados de calendário que os usuários podem compartilhar. Os administradores também podem criar um relacionamento de organização para organização com outra organização federada, que permite que o nível desejado de informações de disponibilidade para cada usuário seja visível na organização, sem que os usuários individuais tenham que fazer um convite compartilhado. Dentro do escopo das Políticas de Compartilhamento definidas pelo administrador e/ou dos relacionamentos de organização para organização, os usuários podem limitar individualmente ainda mais o detalhe de seu compartilhamento. 
     
-- **Compartilhamento de agendas da Internet** O Exchange Online permite que os usuários publiquem suas agendas usando o formato iCal para o acesso anônimo por qualquer um dentro ou fora da organização. Os destinatários podem estar usando o Exchange, outra plataforma ou simplesmente um navegador da web. Os usuários do Exchange Online também podem se inscrever em calendários que outras pessoas publicaram em locais da Internet por meio do iCal. Esse compartilhamento de calendário pessoal é diferente do compartilhamento de calendário federado, que é configurado por um administrador e fornece compartilhamento de disponibilidade de organização para organização. Nenhum usuário pode publicar dados do calendário no formato iCal antes que o administrador tenha configurado e aplicado uma Política de Compartilhamento que o permita. Os administradores podem desabilitar a publicação e as assinaturas iCal para os usuários de uma organização, usando o Windows PowerShell remoto. 
+- **Compartilhamento de agendas da Internet** O Exchange Online permite que os usuários publiquem suas agendas usando o formato iCal para o acesso anônimo por qualquer um dentro ou fora da organização. Os destinatários podem estar usando o Exchange, outra plataforma ou simplesmente um navegador da web. Os usuários do Exchange Online também podem se inscrever em calendários que outras pessoas publicaram em locais da Internet por meio do iCal. Esse compartilhamento de calendário pessoal é diferente do compartilhamento de calendário federado, que é configurado por um administrador e fornece compartilhamento de disponibilidade de organização para organização. Nenhum usuário pode publicar dados de calendário no formato iCal até que o administrador tenha definido e aplicado uma política de compartilhamento que o permita. Os administradores podem desabilitar a publicação e as assinaturas iCal para os usuários de uma organização, usando o Windows PowerShell remoto.
     
 Para saber mais sobre o compartilhamento federado, confira [Compartilhando no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -167,8 +167,7 @@ O Exchange Online suporta o recurso do Localizador de Salas do Outlook 2010, que
     
 - Qualquer grupo de distribuição que contenha apenas salas pode ser convertido em uma lista de salas pelo Windows PowerShell remoto.
     
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
-

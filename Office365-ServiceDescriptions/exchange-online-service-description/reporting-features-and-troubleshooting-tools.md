@@ -1,5 +1,5 @@
 ---
-title: Recursos de Relatórios e Ferramentas de Solução de Problemas
+title: Recursos de relatório e ferramentas de solução de problemas
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: O Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração do Exchange (Eat).
-ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442636"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581987"
 ---
-# <a name="reporting-features-and-troubleshooting-tools"></a>Recursos de Relatórios e Ferramentas de Solução de Problemas
+# <a name="reporting-features-and-troubleshooting-tools"></a>Recursos de relatório e ferramentas de solução de problemas
 
 O Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração do Exchange (Eat).
   
@@ -49,7 +49,7 @@ As ferramentas de recursos de relatório e de solução de problemas a seguir es
   
 ### <a name="trace-an-email-message"></a>Rastrear uma mensagem de email
 
-O recurso de rastreamento de mensagem permite que um administrador acompanhe as mensagens de email conforme elas passam pelo serviço Exchange Online. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Isso permite responder com eficiências às perguntas dos usuários e solucionar problemas de fluxo de emails e diminui a necessidade de entrar em contato com o suporte técnico para solicitar assistência.
+O recurso de rastreamento de mensagens permite que você, como administrador, siga as mensagens de email à medida que elas passam pelo serviço do Exchange Online. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Isso permite responder com eficiências às perguntas dos usuários e solucionar problemas de fluxo de emails e diminui a necessidade de entrar em contato com o suporte técnico para solicitar assistência.
   
 > [!IMPORTANT]
 > Para solucionar problemas e tendências gerais, use as ferramentas de relatório para obter esses dados. Para pontos específicos únicos em que são necessários detalhes sobre uma mensagem, use a ferramenta de rastreamento de mensagem. 
@@ -70,8 +70,8 @@ Para saber mais sobre o log de auditoria, confira [Relatórios de Auditoria](htt
 
 Você pode usar esses relatórios para monitorar e solucionar problemas de UM (Unificação de Mensagens) em sua organização do Exchange Online. Para saber mais, confira [Executar Relatórios para Chamadas de Caixa Postal](https://go.microsoft.com/fwlink/p/?LinkId=287042).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

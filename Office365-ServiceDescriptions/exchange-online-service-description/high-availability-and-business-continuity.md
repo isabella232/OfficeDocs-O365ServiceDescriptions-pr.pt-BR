@@ -1,5 +1,5 @@
 ---
-title: Alta Disponibilidade e Continuidade de Negócios
+title: Alta disponibilidade e continuidade de negócios
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação para a infraestrutura de email de uma organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar caixas de correio e itens excluídos.
-ms.openlocfilehash: 17c53172e9b49661118c6e33754246c627e08540
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776822"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581967"
 ---
-# <a name="high-availability-and-business-continuity"></a>High Availability and Business Continuity
+# <a name="high-availability-and-business-continuity"></a>Alta disponibilidade e continuidade de negócios
 
 O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação para a infraestrutura de email de uma organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar caixas de correio e itens excluídos.
   
@@ -35,16 +35,15 @@ Os administradores podem excluir caixas de correio do Exchange Online usando o c
   
 ## <a name="deleted-item-recovery"></a>Recuperação de itens excluídos
 
-O Exchange Online permite que os usuários restaurem itens que excluíram de qualquer pasta de email, incluindo a pasta Itens Excluídos. Quando um item é excluído, ele é mantido na pasta Itens Excluídos do usuário. Ele permanece lá até que seja removido manualmente pelo usuário ou automaticamente removido por políticas de retenção. Os administradores podem personalizar as políticas de retenção no EAC ou usando o Windows PowerShell remoto.
+O Exchange Online permite que os usuários restaurem itens que foram excluídos de qualquer pasta de email, incluindo a pasta itens excluídos. Quando um item é excluído, ele é mantido na pasta Itens Excluídos do usuário. Ele permanece lá até que seja removido manualmente pelo usuário ou automaticamente removido por políticas de retenção. Os administradores podem personalizar as políticas de retenção no EAC ou usando o Windows PowerShell remoto.
   
-Após um item ser removido da pasta Itens Excluídos, ele permanece na pasta Itens Recuperáveis por mais 14 dias antes de ser removido permanentemente, mas os administradores podem aumentar esse tempo até um máximo de 30 dias usando o Windows PowerShell remoto. Os usuários podem recuperar o item durante este período de tempo usando o recurso Recuperar Itens Excluídos no Outlook Web App ou no Outlook. Saiba como [alterar o período de retenção de item excluído](https://go.microsoft.com/fwlink/p/?LinkId=286940).
+Após um item ser removido da pasta Itens Excluídos, ele permanece na pasta Itens Recuperáveis por mais 14 dias antes de ser removido permanentemente, mas os administradores podem aumentar esse tempo até um máximo de 30 dias usando o Windows PowerShell remoto. Os usuários podem recuperar o item durante esse período de tempo usando o recurso recuperar itens excluídos no Outlook na Web ou no Outlook. Saiba como [alterar o período de retenção de item excluído](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
 Se um usuário remover manualmente um item da pasta Itens Recuperáveis, um administrador poderá recuperar o item dentro do mesmo período de 14 dias usando o recurso de Recuperação de Item Único e o Windows PowerShell remoto. Por padrão, a Recuperação de Item Único será desabilitada quando a caixa de correio for criada. Para saber mais, confira [Habilitar ou desabilitar a recuperação de item único para uma caixa de correio](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
 Para preservar mensagens por mais de 30 dias na pasta de Itens Recuperáveis, as organizações podem implementar a preservação de email de longo prazo ou Bloqueios In-loco baseados em tempo. Saiba mais sobre como [colocar uma caixa de correio em Bloqueio In-loco](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
-

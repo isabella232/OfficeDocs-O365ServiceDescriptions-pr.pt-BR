@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: cf8bb19629e619304217aab4863f0ad4f34bbe5c
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: ad1ca8df3ff7726b45a23f530ef20884e3ce512e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334191"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582147"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -24,7 +24,7 @@ O Office 365 operado pela 21Vianet foi projetado para atender às necessidades d
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-A Microsoft não opera o serviço em si. A 21Vianet opera, fornece e gerencia a entrega do serviço. A 21Vianet é o maior provedor de serviços de datacenter de Internet de operadora neutra da China, fornecendo hospedagem, serviços de rede gerenciada e serviços de infraestrutura de computação em nuvem. Com o licenciamento de tecnologias da Microsoft, a 21Vianet opera datacenters locais do Office 365 para fornecer a possibilidade de usar os serviços do Office 365 mantendo os dados dentro da China. A 21Vianet também oferece [serviços de assinatura e cobrança, bem como suporte](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone).
+A Microsoft não opera o serviço em si. A 21Vianet opera, fornece e gerencia a entrega do serviço. a 21Vianet é o maior provedor de serviços de centro de dados da Internet e mais neutro da China, fornecendo hospedagem, serviços gerenciados de rede e serviços de infraestrutura de computação em nuvem. Com o licenciamento de tecnologias da Microsoft, a 21Vianet opera datacenters locais do Office 365 para fornecer a possibilidade de usar os serviços do Office 365 mantendo os dados dentro da China. A 21Vianet também oferece [serviços de assinatura e cobrança, bem como suporte](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone).
 
 > [!NOTE]
 > Esses serviços estão sujeitos à legislação chinesa.
@@ -62,13 +62,11 @@ Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individua
 
 Confira os requisitos de sistema do Office 365 em [Requisitos de sistema do Office](https://products.office.com/office-system-requirements/#Office365forBEG) no site de produtos do [office.com](https://www.office.com).
 
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
-<a name="BKMK_Security"> </a>
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidade &amp; do centro de conformidade de segurança no Office 365 operado pela 21vianet
 
 The Office 365 Security &amp; Compliance Center is not available in any plans for Office 365 operated by 21Vianet.
 
 ## <a name="platform-features"></a>Recursos da plataforma 
-<a name="BM1_Platform"> </a>
 
 A tabela a seguir lista todos os recursos da plataforma para o Office 365 operado pela 21Vianet.
 
@@ -198,7 +196,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 <sup>2</sup> no Office 365 Enterprise F1 operado pela 21vianet, o vídeo do Office 365 está limitado somente a visualização (sem publicar ou compartilhar). <br/>
 <sup>3</sup> se você estiver usando a sincronização de diretório com um Active Directory local, você deve excluir contas ou alterar senhas usando o Active Directory local, em vez do portal do Office 365, ou usando o módulo do Azure Active Directory para Windows ™. <br/>
 <sup>4</sup> ainda indisponível no Office 365 operado pela 21vianet, mas em breve. <br/>
-<sup>5</sup> você só pode ter um site público com o Office 365, a menos que tenha atualizado de uma versão anterior do Office 365. Nesse caso, é possível ter dois Sites Públicos, mas somente um deles pode ser hospedado com um nome de domínio personalizado. Saiba mais sobre como trabalhar com os dois sites públicos para assinaturas Business em [Trabalhar com seus dois Sites Públicos do Office 365](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5). Se você tem uma assinatura diferente, saiba mais sobre sites públicos em [Ajuda do Site Público para Office 365](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5).<br/>
+<sup>5</sup> você só pode ter um site público com o Office 365, a menos que tenha atualizado de uma versão anterior do Office 365. Nesse caso, é possível ter dois sites públicos, mas somente um deles pode ser hospedado com um nome de domínio personalizado. Para obter mais informações sobre como trabalhar com os dois sites para assinaturas comerciais, confira [trabalhar com seus dois sites públicos do Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5). Se você tiver uma assinatura diferente, saiba mais sobre sites públicos na [ajuda do site público do Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5).<br/>
 <sup>6</sup> Reduzir usuários adquiridos com um desconto pode estar sujeito a uma taxa de cancelamento antecipado. Isso não é aplicável para assinaturas pagas mensalmente.<br/>
 <sup>7</sup> os planos de educação do Office 365 não dão suporte a alterações de assentos de licenças do centro de administração do Microsoft 365.<br/>
 <sup>8</sup> O Microsoft Sway não está disponível atualmente para clientes de determinadas áreas geográficas. Alguns planos herdados do Office 365, que já não são comercializados desde agosto de 2015, podem não ter acesso ao Microsoft Sway. <br/>
@@ -206,13 +204,12 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 <sup>10</sup> para o Office 365 operado pela 21vianet, confira o [contrato padrão de serviços online do o para o Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/).
 <br/>
 <sup>11</sup> a política de conformidade da Internet da China requer que você obtenha um número de provedor de conteúdo da Internet (ICP) para um site público. Para obter mais informações, consulte o tópico correspondente ICP. <br/>
-<sup>12</sup> alguns conteúdos TechNet podem não se aplicar ao Office 365 operado pela 21vianet.<br/>
+<sup>12</sup> alguns conteúdos podem não se aplicar ao Office 365 operado pela 21vianet.<br/>
 <sup>13</sup> experiências reduzidas. Se sua organização depende do Internet Explorer 8 ou do Internet Explorer 9 para acessar aplicativos e serviços Web mais antigos, considere a possibilidade de atualizar para o Internet Explorer 11 e avaliar o Modo Empresarial deste serviço. Essa atualização ajuda a fornecer a melhor compatibilidade com versões anteriores de aplicativos Web herdados. <br/>
 <sup>14</sup> a autenticação multifator atualmente não é suportada no Outlook Mobile (Ios e Android). <br/>
 <sup>15</sup> o bloco de anotações de classe do OneNote está disponível via 21vianet, mas a barra de ferramentas bloco de anotações de classe do OneNote não está disponível para aplicativos do Windows 10, iPad ou OneNote para a Web.
 
 ## <a name="office-365-application-features"></a>Recursos do aplicativo do Office 365
-<a name="BM3_OfficeApp"> </a>
 
 A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disponíveis no Office 365 operado pelos planos da 21Vianet.
 
@@ -287,12 +284,11 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 <br/><sup>15</sup> serviços Google (incluindo o repositório de reprodução) não estão acessíveis dentro da China. Há vários repositórios de aplicativos mantidos por grandes fabricantes de telefone ou empresas de mecanismos de pesquisa nas quais os usuários podem instalar aplicativos móveis.
 
 ## <a name="office-for-the-web-features"></a>Office para recursos da Web
-<a name="BM4_OfficeOnline"> </a>
 
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-A tabela a seguir fornece links para comparações do Office para recursos de recursos da Web para aplicativos de área de trabalho avançados do Microsoft Office. Use as comparações para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona.
+A tabela a seguir fornece links para comparações do Office para recursos de recursos da Web para aplicativos de área de trabalho avançados do Microsoft Office. Use as comparações para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona.
 
 > [!NOTE]
 > - Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas de comparação não são uma lista abrangente de recursos do Microsoft Office.
@@ -301,14 +297,13 @@ A tabela a seguir fornece links para comparações do Office para recursos de re
 
 ||||
 |:-----|:-----|:-----|
-|**Application**|**Office para Web operado pela 21Vianet**|**Link para a comparação detalhada de recursos**|
+|**Aplicativo**|**Office para Web operado pela 21Vianet**|**Link para a comparação detalhada de recursos**|
 |Word|Word para Web operado pela 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para Web operado pela 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para Web operado pela 21Vianet|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
 |PowerPoint|PowerPoint para Web operado pela 21Vianet|[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint)|
 
 ## <a name="exchange-online-features"></a>Recursos do Exchange Online 
-<a name="BM5_ExchangeOnline"> </a>
 
 A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis no Office 365 operado pelos planos da 21Vianet.
 
@@ -388,7 +383,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |Pastas Públicas|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Clientes e dispositivos móveis](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
 |Microsoft Outlook|Sim|Sim|Sim|Sim|Sim|Sim| Não<sup>6</sup>|
-|Outlook na Web|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Outlook Online|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Exchange ActiveSync|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |POP e IMAP|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -467,9 +462,8 @@ Para saber mais sobre os limites do Exchange Online, confira o seguinte:
 > - Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no ExchangeOnlinePreview, consulte [Limites do Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Recursos da Proteção do Exchange Online
-<a name="BM6_EOP"> </a>
 
-A tabela a seguir exibe os recursos da Proteção do Exchange Online (EOP) que estão disponíveis no Office 365 operado pelos planos da 21Vianet. Para informações mais detalhadas sobre os recursos da EOP, clique nos links na tabela.
+A tabela a seguir exibe os recursos da Proteção do Exchange Online (EOP) que estão disponíveis no Office 365 operado pelos planos da 21Vianet. Para obter informações mais detalhadas sobre os recursos do EOP, selecione os links na tabela.
 
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
@@ -512,7 +506,7 @@ A tabela a seguir exibe os recursos da Proteção do Exchange Online (EOP) que e
 <sup>4</sup> as regras de fluxo de emails (também conhecidas como regras de transporte) no EOP são descritas em [regras de fluxo de emails (regras de transporte) no Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). As condições, exceções e ações da regra de fluxo de emails diferem levemente entre o EOP e o Exchange Online. Essas diferenças são observadas nas [condições e exceções de regra de fluxo de emails (predicados) no Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) e [ações de regra de fluxo de email no Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).<br/>
 <sup>5</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio. <br/>
 <sup>5</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio.<br/>
-<sup>6</sup> A ação padrão do filtro de conteúdo é mover as mensagens de spam para a pasta Lixo Eletrônico do destinatário. Para que isso funcione com caixas de correio locais do Exchange, você também precisa configurar duas regras de transporte na sua organização do Exchange local para detectar os cabeçalhos de spam adicionados pelo EOP. Para obter mais informações, consulte [garantir que o spam seja roteado para a pasta lixo eletrônico de cada usuário](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder).<br/>
+<sup>6</sup> A ação padrão do filtro de conteúdo é mover as mensagens de spam para a pasta Lixo Eletrônico do destinatário. Para que isso funcione com caixas de correio locais do Exchange, você também precisa configurar duas regras de transporte em sua organização do Exchange local para detectar os cabeçalhos de spam adicionados pelo EOP. Para obter mais informações, consulte [garantir que o spam seja roteado para a pasta lixo eletrônico de cada usuário](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder).<br/>
 <sup>7</sup> Este recurso está disponível para clientes do Exchange Server 2013 Service Pack 1 (SP1) cujas caixas de correio estão sendo filtradas pelo EOP e, em breve, estará disponível para clientes do Exchange Online. <br/>
 <sup>8</sup> Os relatórios do EOP são um subconjunto dos relatórios do Exchange Online que excluem informações sobre caixas de correio. <br/>
 <sup>9</sup> Inclui relatórios DLP. <br/>
@@ -521,7 +515,6 @@ A tabela a seguir exibe os recursos da Proteção do Exchange Online (EOP) que e
 <sup>12</sup> A configuração híbrida não está disponível por meio do Assistente Híbrido, mas poderá ser configurada manualmente se você tiver o Exchange SP1.
 
 ## <a name="exchange-online-archiving-features"></a>Recursos de Arquivamento do Exchange Online
-<a name="BM7_EOArchiving"> </a>
 
 Arquivamento do Exchange Online está disponível pelos planos a seguir.
 
@@ -547,7 +540,7 @@ A tabela a seguir exibe os recurso do Arquivamento do Exchange Online disponíve
 |Backup da caixa de correio|Não|Sim|
 |**[Recursos do cliente no arquivamento do Exchange Online](../exchange-online-archiving-service-description/client-features.md)**|||
 |Outlook<sup>3</sup>|Não|Sim|
-|Outlook na Web|Não|Sim|
+|Outlook Online|Não|Sim|
 |**[Conformidade e segurança recursos de Arquivamento do Exchange Online](../exchange-online-archiving-service-description/compliance-and-security-features.md)**|||
 |Políticas de Retenção|Não|Sim|
 |Bloqueio In-loco e Retenção de Litígio<sup>5</sup>|Não|Sim|
@@ -566,7 +559,6 @@ A tabela a seguir exibe os recurso do Arquivamento do Exchange Online disponíve
 <sup>5</sup> Ao colocar uma caixa de correio em Bloqueio In-loco ou Retenção de Litígio, a retenção é aplicada à caixa de correio primária e à caixa de correio de arquivo morto.
 
 ## <a name="sharepoint-online-features"></a>Recursos do SharePoint Online
-<a name="BM8_SPOnline"> </a>
 
 Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todos os planos oferecem suporte a todos os recursos do SharePoint. A tabela a seguir mostra se um recurso está disponível em um plano.
 
@@ -820,7 +812,7 @@ A versão do Office 365 operado pela 21Vianet do Office 365 é específica da Ch
 <br/><sup>5</sup> os clientes do SharePoint Online precisam baixar e instalar o aplicativo de ajuste de modelo de classificação gratuita para criar e personalizar modelos de classificação.
 <br/><sup>6</sup> Quando você usa recursos de Descoberta Eletrônica, os requisitos de licenciamento para um plano que permite esse recurso se aplicam a todos os usuários finais que fazem parte da ação de Descoberta Eletrônica (Pesquisar, Bloquear, Exportar).
 <br/><sup>7</sup> Usuários autenticados do SharePoint Online podem acessar conjuntos de sites particulares com navegação facetada.
-<br/><sup>8</sup> os usuários de quiosque não podem criar documentos do Office usando blocos dinâmicos. Para criar um documento, os usuários Kiosk devem fazer isso em um site do SharePoint Online, clicando em **Novo** e escolhendo um tipo de arquivo, como documento do Word, pasta de trabalho do Excel, apresentação do PowerPoint, bloco de anotações do OneNote ou pesquisa do Excel, no menu **Criar um novo arquivo**.
+<br/><sup>8</sup> os usuários de quiosque não podem criar documentos do Office usando blocos dinâmicos. Para criar um documento, os usuários do quiosque devem fazer isso em um site do SharePoint Online selecionando **novo** e selecionando um documento tipo de arquivo-Word, pasta de trabalho do Excel, apresentação do PowerPoint, bloco de anotações do OneNote ou pesquisa do Excel-no menu **criar um novo arquivo** .
 <br/><sup>9</sup> alguns provedores podem estar bloqueados em seu país/região.
 <br/><sup>10</sup> compartilhar um documento, uma biblioteca ou um site por email com alguém fora da sua organização. Os administradores têm a capacidade de habilitar esse recurso, mas recebem uma mensagem de aviso indicando que isso pode fazer com que os arquivos compartilhados possam ser acessados de fora do país de origem. Os usuários que tentam compartilhar com pessoas de fora da organização recebem a mesma mensagem de aviso.
 <br/><sup>11</sup> as contas de quiosque têm funcionalidade limitada do onedrive for Business. Os clientes do Kiosk podem usar o aplicativo cliente de sincronização de pastas do OneDrive for Business para sincronizar bibliotecas de documentos de sites de equipe com um computador compartilhado e acessar documentos offline. Mas as contas Kiosk não incluem um Site Pessoal do OneDrive for Business, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB ou 5 TB de armazenamento online.
@@ -830,7 +822,6 @@ A versão do Office 365 operado pela 21Vianet do Office 365 é específica da Ch
 <br/><sup>15</sup> K1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 K1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente.
 
 ## <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
-<a name="BM9_Skype"> </a>
 
 A tabela a seguir exibe os recursos do Skype for Business online que estão disponíveis nos planos do Office 365 operados pela 21Vianet.
 
@@ -1074,7 +1065,6 @@ A tabela a seguir exibe os planos do Office 365 que incluem o serviço SharePoin
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
 ## <a name="project-online-features"></a>Recursos do Project Online
-<a name="BM10_ProjectOnline"> </a>
 
 A tabela a seguir exibe os recursos do Project Online que estão disponíveis entre planos do Office 365 operados pela 21Vianet.
 
@@ -1179,7 +1169,6 @@ A tabela a seguir exibe os recursos do Project Online que estão disponíveis en
 <br/><sup>2</sup> Há suporte para apenas extensibilidade para cenários de membro da equipe.
 
 ## <a name="follow-on-wechat"></a>Acompanhar no WeChat
-<a name="BM10_ProjectOnline"> </a>
 
 Faça a leitura deste Código QR para acompanhar as discussões no WeChat e obter as atualizações mais recentes do Office 365 operado pela 21Vianet.
 

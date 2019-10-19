@@ -1,5 +1,5 @@
 ---
-title: Serviços de Mensagens de Voz
+title: Serviços de mensagens de voz
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442556"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581427"
 ---
-# <a name="voice-message-services"></a>Serviços de Mensagens de Voz
+# <a name="voice-message-services"></a>Serviços de mensagens de voz
 
 ## <a name="voice-mail"></a>Caixa postal
 
@@ -44,11 +44,11 @@ Os recursos de serviços de mensagens de voz disponíveis no Exchange Online sã
     
 - Indicador de Espera da Mensagem (confira [MWI no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271794) para ver detalhes). 
     
-- Regras para Responder as Chamadas (confira [Permitir que Usuários do Correio de Voz Encaminhem Chamadas](https://go.microsoft.com/fwlink/p/?LinkId=271795) para ver detalhes). 
+- Regras de atendimento de chamadas (Confira [permitir que os usuários de caixa postal encaminhem as chamadas](https://go.microsoft.com/fwlink/p/?LinkId=271795) para obter detalhes).
     
-- Correio de Voz Protegido no Exchange Online (confira [Protected Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796) para saber mais detalhes). 
+- Caixa postal protegida no Exchange Online (consulte [proteger caixa postal no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796) para obter detalhes).
     
-- Visualizar Correio de Voz (confira[Permitir que Usuários Vejam a Transcrição do Correio de Voz](https://go.microsoft.com/fwlink/p/?LinkId=271797) para ver uma lista de idiomas suportados). 
+- Visualização de caixa postal (consulte [permitir que os usuários vejam uma transcrição](https://go.microsoft.com/fwlink/p/?LinkId=271797) de caixa postal para obter uma lista de idiomas com suporte).
     
 - Acesso de fala ao e-mail, correio de voz, agenda, contatos pessoais e grupos de contato pessoal.
     
@@ -56,10 +56,16 @@ Os recursos de serviços de mensagens de voz disponíveis no Exchange Online sã
     
 - Os administradores configuram e gerenciam a interoperabilidade dos serviços de mensagens de voz usando o centro de administração do Exchange (EAC).
     
-Para saber mais sobre os recursos do correio de voz, confira [Correio de Voz no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+Para obter mais informações sobre recursos de caixa postal, consulte caixa [postal no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
   
 > [!IMPORTANT]
-> O recurso Reconhecimento Automático de Fala (ASR) não está disponível na navegação por menus ou na pesquisa de diretório para usuários do Outlook Voice Access ou de chamadores de atendedor automático que usam comandos de voz. > O cliente deve fornecer uma conexão de telefonia a partir da rede telefônica pública comutada (PSTN) usando um gateway VoIP e PBX, IP PBX ou Skype for Business Server 2015. > O cliente deve fornecer os dispositivos de hardware SBC locais e assegurar que os SBCs sejam configurados corretamente para conectar os serviços do correio de voz on-line. Isso inclui a configuração do nível apropriado de segurança usando certificados e interfaces IP públicas e particulares e habilitando as portas TCP corretas por meio de firewalls locais. > A caixa postal hospedada está disponível somente para o Plano 2 do Exchange Online e assinantes do Office 365 Enterprise E3. 
+> O recurso Reconhecimento Automático de Fala (ASR) não está disponível na navegação por menus ou na pesquisa de diretório para usuários do Outlook Voice Access ou de chamadores de atendedor automático que usam comandos de voz. 
+>
+> O cliente deve fornecer uma conexão de telefonia da rede telefônica pública comutada (PSTN) usando um gateway VoIP e PBX, IP PBX ou Skype for Business Server 2015. 
+>
+> O cliente deve fornecer os dispositivos de hardware de SBC locais e garantir que o SBCs esteja configurado corretamente para se conectar aos serviços de caixa postal online. Isso inclui a configuração do nível apropriado de segurança usando certificados e interfaces IP públicas e particulares e habilitando as portas TCP corretas por meio de firewalls locais. 
+>
+> A caixa postal hospedada está disponível somente para assinantes do Exchange Online Plan 2 e Office 365 Enterprise E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilidade do correio de voz de terceiros.
 
@@ -72,8 +78,8 @@ As soluções de caixa postal locais de terceiros poderão interoperar com o Exc
 
 As organizações podem comprar o Skype for Business Online como um serviço independente ou como parte do Microsoft Office 365. O Skype for Business 2015 local também é suportado. Para saber mais sobre o Skype for Business Online, consulte [Descrição do Serviço do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

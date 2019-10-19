@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839862"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595259"
 ---
 ---
 
@@ -117,10 +117,12 @@ A tabela a seguir mostra as opções que podem atender às necessidades de cada 
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Como comprar o Microsoft 365 governamentais?
 
 Siga estas etapas para adquirir as licenças do Microsoft 365 governamentais:
+
 1. [Preencha e envie o formulário](https://products.office.com/government/eligibility-validation) para validar a qualificação da sua organização.
 2. Trabalhe com a equipe de conta da Microsoft ou com um parceiro qualificado para fazer um pedido. Os clientes podem comprar as licenças do Microsoft 365 para o governo dos EUA apenas por meio de parceiros selecionados.
 
 **LSPs GCC e GCC alta (+ 500 estações)**
+
 - CDW
 - Conexão (anteriormente, conexão com PC)
 - Dell
@@ -145,7 +147,7 @@ Siga estas etapas para adquirir as licenças do Microsoft 365 governamentais:
 
 **Observação:** Todos os provedores de soluções de licenciamento da Microsoft (LSPs) na lista anterior podem ser clientes GCC e GCC alto por meio do Enterprise Agreement (EA) para criar a folha de preços do cliente (CPS). As organizações que não se qualificam para o EA podem comprar licenças GCC por meio dos parceiros do AOS-G ou do parceiro CSP listados.
 
-**Se você trabalhar com um parceiro de CSP, entre em contato com ele ou [encontre um CSP.](https://www.microsoft.com/solution-providers/home)**
+**Se você trabalhar com um parceiro de CSP, entre em contato com ele ou [encontre um CSP](https://www.microsoft.com/solution-providers/home).**
 
 ## <a name="what-trials-are-available"></a>Quais avaliações estão disponíveis?
 

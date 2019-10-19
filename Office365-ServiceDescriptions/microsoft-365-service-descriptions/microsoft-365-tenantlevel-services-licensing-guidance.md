@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para os serviços de nível de locatário do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035127"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582027"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365
 
@@ -80,6 +80,7 @@ O recurso de scanner AIP automaticamente classifica, rotula e protege arquivos q
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
 Por padrão, os recursos do AIP estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre a configuração de políticas do AIP para usuários licenciados, consulte [ativando o Azure Rights Management](https://docs.microsoft.com/azure/information-protection/activate-service).
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
 As políticas de recurso do AIP (exceto o recurso de scanner) podem ser delimitadas para grupos ou usuários específicos; os registros podem ser editados para impedir que usuários não licenciados executem os recursos de classificação ou rotulação do AIP. Para obter instruções sobre como fazer o escopo de implantações de AIP, consulte [Configurando a política de proteção de informações do Azure](https://docs.microsoft.com/azure/information-protection/configure-policy).
@@ -362,7 +363,7 @@ Os administradores criam e gerenciam as políticas de criptografia de mensagens 
 Os administradores devem aplicar regras de fluxo de email para a criptografia de mensagens do Office 365 somente a usuários licenciados. Para obter mais informações sobre a definição de regras de fluxo de emails, consulte [definir regras de fluxo de email para criptografar mensagens de email no Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
 
 
-## <a name="office-365-advanced-message-encryption"></a>Criptografia de mensagem avançada do Office 365
+## <a name="office-365-advanced-message-encryption"></a>Criptografia de Mensagem Avançada do 365 Office
 
 A criptografia avançada de mensagens ajuda os clientes a cumprir as obrigações de conformidade que exigem controles mais flexíveis sobre destinatários externos e seu acesso a emails criptografados. Com a criptografia avançada de mensagens, os administradores podem controlar emails confidenciais compartilhados fora da organização usando políticas automáticas que podem detectar tipos de informações confidenciais (por exemplo, informações de identificação pessoal ou IDs financeiras ou de integridade) ou Eles podem usar palavras-chave para aprimorar a proteção aplicando modelos de email personalizados e expirando o acesso a emails criptografados por meio de um portal da Web seguro. Além disso, os administradores podem controlar ainda mais os emails criptografados acessados externamente por meio de um portal da Web seguro revogando o acesso a qualquer momento.
 

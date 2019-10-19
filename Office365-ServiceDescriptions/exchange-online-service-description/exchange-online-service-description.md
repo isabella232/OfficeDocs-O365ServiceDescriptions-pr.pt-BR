@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442646"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581937"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de Serviço do Exchange Online
 
@@ -58,7 +58,7 @@ As assinaturas do usuário não são exigidas para salas de conferência e caixa
 
 Para obter o requisitos de sistema para o Office 365, o serviço mensal baseado em assinatura disponível para organizações comerciais, educacionais e governamentais, veja [Requisitos do sistema do Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
-## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limites de armazenamento e de destinatários do Exchange Online
+## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limites de armazenamento e de destinatários para o Exchange Online
 
 Para obter informações sobre os limites de armazenamento e de destinatários disponíveis nos planos de assinatura do Exchange Online, consulte [Limites do Exchange Online](exchange-online-limits.md).
   
@@ -74,12 +74,12 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Suporte para migração de substituição|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte para migração em estágios|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Permissões](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Permissões baseadas em funções|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Grupos de Funções|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Políticas de Atribuição de Função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|**[Política e Conformidade de Mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Permissões baseadas em função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Grupos de função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Diretivas de atribuição de função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|**[Política e conformidade de mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Arquivamento de Caixas de Correio baseadas no Exchange Online| Não|Não|Sim|Sim|Sim|Sim|Sim|Não|
-|Arquivamento baseado em Nuvem de Caixas de Correio Locais|Sim <sup>1</sup>|Sim<sup>1</sup>|Não|Não|Sim|Sim|Sim|Não|
+|Arquivamento baseado em nuvem de caixas de correio no local|Sim <sup>1</sup>|Sim<sup>1</sup>|Não|Não|Sim|Sim|Sim|Não|
 |Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Políticas de retenção, rótulos e marcas manuais |Não|Não|Não|Não|Sim|Sim|Sim|Sim|
 |Criptografia de dados em repouso (BitLocker)|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -90,57 +90,57 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |S/MIME|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim|Sim|Sim|Sim|Sim|Sim||
 |Bloqueio In-loco e Retenção de Litígio|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
 |Descoberta Eletrônica In-loco|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim|
-|Regras de Transporte|Sim <sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|
+|Transport rules|Sim <sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|
 |Prevenção contra perda de dados|Sim<sup>5, 14</sup>|Sim<sup>5, 14</sup>|Não|Não|Não|Sim|Sim|Não|
 |Registro em Diário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Proteção antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Proteção Antispam Interna|Sim <sup>6</sup>|Sim <sup>6</sup>|Sim|Sim|Sim|Sim|Sim|Sim|
-|Personalizar políticas antispam|Sim, mas somente via o PowerShell|Sim, mas somente via o PowerShell|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
-|Proteção Antimalware Interna|Sim <sup>8</sup>|Sim <sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|
-|Políticas Antimalware Personalizadas|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
+|Proteção antispam interna|Sim <sup>6</sup>|Sim <sup>6</sup>|Sim|Sim|Sim|Sim|Sim|Sim|
+|Customize anti-spam policies|Sim, mas somente via o PowerShell|Sim, mas somente via o PowerShell|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
+|Proteção Antimalware interna|Sim <sup>8</sup>|Sim <sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|
+|Customize antimalware policies|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|Sim|Não|Não|Não|Não|Sim|Não|
-|**[Fluxo de e-mails](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Roteamento Personalizado de Email de Saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Mensagens Seguras com um Parceiro Confiável|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Roteamento de Email Condicional|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Adicionar um Parceiro a uma Lista de Confiança de Entrada|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Roteamento de Email Híbrido|Sim|Sim|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim|Sim|Sim|
+|**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Conditional mail routing|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Adicionando um parceiro a uma lista segura de entrada|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Roteamento de email híbrido|Sim|Sim|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim|Sim|Sim|
 |**[Destinatários](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Alertas de Capacidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Alertas de capacidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Email secundário|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |MailTips|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Acesso de Representante|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sem<sup>24</sup>|
+|Acesso de representante|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sem<sup>24</sup>|
 |Regras da Caixa de Entrada|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Contas Conectadas|Sim|Sim|Sim|Sim|Sim<sup>17</sup>|Sim<sup>17</sup>|Sim<sup>17</sup>|Sim<sup>17</sup>|
-|Caixas de Correio Inativas|Não|Não|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|Sim|Sim|Não <sup>9</sup>|
-|Catálogo de Endereços Offline|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Políticas de Catálogo de Endereços|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Catálogo de Endereços Hierárquico|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Lista de Endereços e Lista de Endereços Global|Sim|Sim|Sim|Sim|Sim<sup>18</sup>|Sim<sup>18</sup>|Sim<sup>18</sup>|Sim<sup>18</sup>|
+|Contas conectadas|Sim|Sim|Sim|Sim|Sim<sup>17</sup>|Sim<sup>17</sup>|Sim<sup>17</sup>|Sim<sup>17</sup>|
+|Caixas de correio inativas|Não|Não|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|Sim|Sim|Não <sup>9</sup>|
+|Offline address book|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Políticas do catálogo de endereços|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Catálogo de endereços hierárquico|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Listas de endereços e lista de endereços global|Sim|Sim|Sim|Sim|Sim<sup>18</sup>|Sim<sup>18</sup>|Sim<sup>18</sup>|Sim<sup>18</sup>|
 |Grupos do Office 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Grupos de Distribuição|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Contatos Externos (global)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Cartão de Visita Universal|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Vinculação de Contatos com Redes Sociais|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Caixas de Correio de Recurso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Gerenciamento de Sala de Conferências|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Respostas de ausência temporária|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Compartilhamento de Calendário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Recursos de Relatórios e Ferramentas de Solução de Problemas](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Contatos externos (global)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Cartão de contato universal|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Link de contato com redes sociais|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Caixas de correio de recurso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Gerenciamento da sala de conferência|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Respostas de Ausência Temporária|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Compartilhamento de calendário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|**[Recursos de relatório e ferramentas de solução de problemas](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Relatórios do centro de administração do Microsoft 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Pasta de Trabalho de Relatório de Excel|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Relatórios de Serviços Web|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Rastreamento de Mensagem|Não|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Relatórios de Auditoria|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>3</sup>|
-|Relatórios da Unificação de Mensagens|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
-|**[Compartilhamento e Colaboração](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Compartilhamento Federado (incluindo Publicação de Calendário)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Sites de Correio da Equipe|Sim<sup>10</sup>|Sim<sup>10</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|
-|Pastas Públicas|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Pasta de trabalho de relatórios do Excel|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Relatórios de serviços Web|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Message trace|Não|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Relatórios de auditoria|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>3</sup>|
+|Relatórios de Unificação de Mensagens|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
+|**[Compartilhamento e colaboração](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Compartilhamento federado (incluindo publicação de calendário)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Caixas de correio local|Sim<sup>10</sup>|Sim<sup>10</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|
+|Pastas públicas|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Clientes e dispositivos móveis](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-| Outlook para Windows <sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| Não|
+|Outlook para Windows <sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| Não|
 |Outlook na Web<sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Outlook para Mac<sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| Não|
 |Outlook para iOS e Android<sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -148,31 +148,31 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Gerenciamento de Dispositivos Móveis para o Office 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |POP e IMAP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>12</sup>|
 |SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Suporte de Aplicativo EWS|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|**[Serviços de Mensagens de Voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Suporte a aplicativos EWS|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|**[Serviços de mensagens de voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Mensagem de voz<sup>23</sup>|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
 |Integração entre caixa postal e FAX de terceiros<sup>23</sup>|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
 |Interoperabilidade de caixa postal de terceiros<sup>23</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Integração do Skype for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Alta Disponibilidade e Continuidade de Negócios](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Replicação de Caixa de Correio em Data Centers|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Recuperação de Caixa de Correio Excluída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Recuperação de Itens Excluídos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Recuperação de Item Individual|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não||
-|**[Interoperabilidade, Conectividade e Compatibilidade](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Alta disponibilidade e continuidade de negócios](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Replicação de caixa de correio em data centers|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Recuperação da caixa de correio excluída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Recuperação de itens excluídos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Recuperação de item único|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não||
+|**[Interoperabilidade, conectividade e compatibilidade](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Presença do Skype for Business no OWA e no Outlook|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Interoperabilidade do SharePoint|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Suporte de Conectividade EWS|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Suporte de Retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Instalação e Administração do Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Suporte à conectividade do EWS|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Suporte a retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|**[Instalação e administração do Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Acesso ao portal do Microsoft Office 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso ao centro de administração do Microsoft 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso ao centro de administração do Exchange|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Políticas de ActiveSync para Dispositivos Móveis|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Relatórios de Uso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Complementos do Outlook e MAPI do Outlook|Sim<sup>19</sup>|Sim|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Não|
+|Políticas do ActiveSync para dispositivos móveis|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Relatórios de uso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|**Estendendo o serviço-personalização, suplementos e recursos**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Suplementos do Outlook e MAPI do Outlook|Sim<sup>19</sup>|Sim|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Não|
 
 <sup>1</sup> requer uma assinatura de arquivamento do Exchange Online para cada usuário de caixa de correio local que tenha um arquivo morto baseado em nuvem. <br/>
 <sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. <br/>
@@ -209,12 +209,12 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Suporte para migração de substituição|Sim|Sim|Sim|Sim|Sim|
 |Suporte para migração em estágios|Não|Não|Sim|Sim|Sim|
 |**[Permissões](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Permissões baseadas em funções|Sim|Sim|Sim|Sim|Não|
-|Grupos de Funções|Sim|Sim|Sim|Sim|Não|
-|Políticas de Atribuição de Função|Sim|Sim|Sim|Sim|Não|
+|Permissões baseadas em função|Sim|Sim|Sim|Sim|Não|
+|Grupos de função|Sim|Sim|Sim|Sim|Não|
+|Diretivas de atribuição de função|Sim|Sim|Sim|Sim|Não|
 |**[Política e Conformidade de Mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Arquivamento de Caixas de Correio baseadas no Exchange Online|Sim|Não|Sim|Sim|Não|
-|Arquivamento baseado em Nuvem de Caixas de Correio Locais|Sim <sup>5</sup>|Sim <sup>5</sup>|Não|Sim|Não|
+|Arquivamento baseado em nuvem de caixas de correio no local|Sim <sup>5</sup>|Sim <sup>5</sup>|Não|Sim|Não|
 |Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|
 |Políticas de retenção, rótulos e marcas manuais|Não|Não|Sim|Sim|Sim|
 |Criptografia de dados em repouso (BitLocker)|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim|Sim|
@@ -224,86 +224,86 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |S/MIME|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim|Sim|Sim|
 |Bloqueio In-loco e Retenção de Litígio|Sim|Sim|Sem<sup>17</sup>|Sim|Não|
 |Descoberta Eletrônica In-loco|Sim<sup>22</sup>|Sim<sup>22</sup>|Sim<sup>22</sup>|Sim<sup>22</sup>|Sim<sup>22</sup>|
-|Regras de Transporte|Sim <sup>1</sup>|Sim <sup>1</sup>|Sim <sup>1</sup>|Sim <sup>1</sup>|Sim <sup>1</sup>|
+|Regras de transporte|Sim <sup>1</sup>|Sim <sup>1</sup>|Sim <sup>1</sup>|Sim <sup>1</sup>|Sim <sup>1</sup>|
 |Prevenção contra perda de dados|Sim<sup>10, 14</sup>|Sim<sup>10, 14</sup>|Não|Sim|Não|
 |Registro em Diário|Sim|Sim|Sim|Sim|Sim|
 |**[Proteção antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Proteção Antispam Interna|Sim <sup>2</sup>|Sim <sup>2</sup>|Sim|Sim|Sim|
-|Personalizar políticas antispam|Sim, mas apenas via PowerShell|Sim, mas apenas via PowerShell|Sim|Sim|Sim <sup>8</sup>|
-|Proteção Antimalware Interna|Sim <sup>7</sup>|Sim <sup>7</sup>|Sim<sup>7</sup>|Sim<sup>7</sup>|Sim<sup>7</sup>|
-|Políticas Antimalware Personalizadas|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
+|Proteção antispam interna|Sim <sup>2</sup>|Sim <sup>2</sup>|Sim|Sim|Sim|
+|Customize anti-spam policies|Sim, mas apenas via PowerShell|Sim, mas apenas via PowerShell|Sim|Sim|Sim <sup>8</sup>|
+|Proteção Antimalware interna|Sim <sup>7</sup>|Sim <sup>7</sup>|Sim<sup>7</sup>|Sim<sup>7</sup>|Sim<sup>7</sup>|
+|Customize antimalware policies|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|
-|**[Fluxo de e-mails](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Roteamento Personalizado de Email de Saída|Sim|Sim|Sim|Sim|Sim|
-|Mensagens Seguras com um Parceiro Confiável|Sim|Sim|Sim|Sim|Sim|
-|Roteamento de Email Condicional|Não|Não|Sim|Sim|Sim|
-|Adicionar um Parceiro a uma Lista de Confiança de Entrada|Não|Não|Sim|Sim|Sim|
-|Roteamento de Email Híbrido|Sim|Sim|Sim|Sim|Sim|
+|**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|
+|Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|
+|Conditional mail routing|Não|Não|Sim|Sim|Sim|
+|Adicionando um parceiro a uma lista segura de entrada|Não|Não|Sim|Sim|Sim|
+|Roteamento de email híbrido|Sim|Sim|Sim|Sim|Sim|
 |**[Destinatários](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Alertas de Capacidade|Sim|Sim|Sim|Sim|Sim|
+|Alertas de capacidade|Sim|Sim|Sim|Sim|Sim|
 |Email secundário|Não|Não|Sim|Sim|Sim|
 |MailTips|Sim|Sim|Sim|Sim|Sim|
-|Acesso de Representante|Sim|Sim|Sim\|Sim|Não|
+|Acesso de representante|Sim|Sim|Sim\|Sim|Não|
 |Regras da Caixa de Entrada|Sim|Sim|Sim|Sim|Não|
-|Contas Conectadas|Sim|Sim|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|
-|Caixas de Correio Inativas|Não|Não|Não <sup>6</sup>|Sim|Não<sup>6</sup>|
-|Catálogo de Endereços Offline|Sim|Sim|Sim|Sim|Sim|
-|Políticas de Catálogo de Endereços|Sim|Sim|Sim|Sim|Sim|
-|Catálogo de Endereços Hierárquico|Sim|Sim|Sim|Sim|Não|
-|Lista de Endereços e Lista de Endereços Global|Sim|Sim|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|
+|Contas conectadas|Sim|Sim|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|
+|Caixas de correio inativas|Não|Não|Não <sup>6</sup>|Sim|Não<sup>6</sup>|
+|Offline address book|Sim|Sim|Sim|Sim|Sim|
+|Políticas do catálogo de endereços|Sim|Sim|Sim|Sim|Sim|
+|Catálogo de endereços hierárquico|Sim|Sim|Sim|Sim|Não|
+|Listas de endereços e lista de endereços global|Sim|Sim|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|
 |Grupos do Office 365|Não|Não|Sim<sup>24</sup>|Sim<sup>24</sup>|Não|
 |Grupos de distribuição|Sim|Sim|Sim|Sim|Sim|
-|Contatos Externos (global)|Sim|Sim|Sim|Sim|Sim|
-|Cartão de Visita Universal|Sim|Sim|Sim|Sim|Sim|
-|Vinculação de Contatos com Redes Sociais|Sim|Sim|Sim|Sim|Sim|
-|Caixas de Correio de Recurso|Sim|Sim|Sim|Sim|Sim|
-|Gerenciamento de Sala de Conferências|Sim|Sim|Sim|Sim|Sim|
-|Respostas de ausência temporária|Sim|Sim|Sim|Sim|Sim|
-|Compartilhamento de Calendário|Sim|Sim|Sim|Sim|Sim <sup>18</sup>|
-|**[Recursos de Relatórios e Ferramentas de Solução de Problemas](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|Contatos externos (global)|Sim|Sim|Sim|Sim|Sim|
+|Cartão de contato universal|Sim|Sim|Sim|Sim|Sim|
+|Link de contato com redes sociais|Sim|Sim|Sim|Sim|Sim|
+|Caixas de correio de recurso|Sim|Sim|Sim|Sim|Sim|
+|Gerenciamento da sala de conferência|Sim|Sim|Sim|Sim|Sim|
+|Respostas de Ausência Temporária|Sim|Sim|Sim|Sim|Sim|
+|Compartilhamento de calendário|Sim|Sim|Sim|Sim|Sim <sup>18</sup>|
+|**[Recursos de relatório e ferramentas de solução de problemas](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Relatórios do centro de administração do Microsoft 365|Não|Não|Sim|Sim|Sim|
-|Pasta de Trabalho de Relatório de Excel|Não|Não|Sim|Sim|Sim|
-|Relatórios de Serviços Web|Não|Não|Sim|Sim|Sim|
-|Rastreamento de Mensagem|Não|Sim|Sim|Sim|Sim <sup>8</sup>|
-|Relatórios de Auditoria|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
-|Relatórios da Unificação de Mensagens|Sim|Sim|Não|Sim|Não|
+|Pasta de trabalho de relatórios do Excel|Não|Não|Sim|Sim|Sim|
+|Relatórios de serviços Web|Não|Não|Sim|Sim|Sim|
+|Message trace|Não|Sim|Sim|Sim|Sim <sup>8</sup>|
+|Relatórios de auditoria|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
+|Relatórios de Unificação de Mensagens|Sim|Sim|Não|Sim|Não|
 |**[Compartilhamento e Colaboração](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Compartilhamento Federado|Sim|Sim|Sim|Sim|Sim|
-|Sites de Correio da Equipe|Sim <sup>3</sup>|Sim <sup>3</sup>|Sim <sup>4</sup>|Sim <sup>4</sup>|Sim <sup>4</sup>|
-|Pastas Públicas|Sim|Sim|Sim|Sim|Não|
+|Caixas de correio local|Sim <sup>3</sup>|Sim <sup>3</sup>|Sim <sup>4</sup>|Sim <sup>4</sup>|Sim <sup>4</sup>|
+|Pastas públicas|Sim|Sim|Sim|Sim|Não|
 |**[Clientes e dispositivos móveis](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Microsoft Outlook|Sim|Sim|Sim|Sim|Não|
-|Outlook Web App|Sim|Sim|Sim|Sim|Sim|
+|Outlook na Web|Sim|Sim|Sim|Sim|Sim|
 |Exchange ActiveSync|Sim|Sim|Sim|Sim|Sim|
 |POP e IMAP|Sim|Sim|Sim|Sim|Sim <sup>9</sup>|
 |SMTP|Sim|Sim|Sim|Sim|Sim|
-|Suporte de Aplicativo EWS|Sim|Sim|Sim|Sim|Não|
+|Suporte a aplicativos EWS|Sim|Sim|Sim|Sim|Não|
 |Outlook para Mac|Sim|Sim|Sim|Sim|Não|
 |**[Serviços de Mensagens de Voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Caixa Postal|Sim|Sim|Não|Sim|Não|
-|Interoperabilidade de Caixa Postal de Terceiros|Sim|Sim|Sim|Sim|Sim|
+|Caixa postal|Sim|Sim|Não|Sim|Não|
+|Interoperabilidade de caixa postal de terceiros|Sim|Sim|Sim|Sim|Sim|
 |Integração do Skype for Business|Sim|Sim|Sim|Sim|Sim|
 |**[Alta Disponibilidade e Continuidade de Negócios](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Replicação de Caixa de Correio em Data Centers|Não|Não|Sim|Sim|Sim|
-|Recuperação de Caixa de Correio Excluída|Sim|Sim|Sim|Sim|Sim|
-|Recuperação de Itens Excluídos|Sim|Sim|Sim|Sim|Sim|
-|Recuperação de Item Individual|Sim|Sim|Sim|Sim|Não|
-|**[Interoperabilidade, Conectividade e Compatibilidade](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|Replicação de caixa de correio em data centers|Não|Não|Sim|Sim|Sim|
+|Recuperação da caixa de correio excluída|Sim|Sim|Sim|Sim|Sim|
+|Recuperação de itens excluídos|Sim|Sim|Sim|Sim|Sim|
+|Recuperação de item único|Sim|Sim|Sim|Sim|Não|
+|**[Interoperabilidade, conectividade e compatibilidade](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Presença do Skype for Business no OWA e no Outlook|Sim|Sim|Sim|Sim|Sim|
 |Interoperabilidade do SharePoint|Sim|Sim|Sim|Sim|Sim|
-|Suporte de Conectividade EWS|Sim|Sim|Sim|Sim|Sim|
-|Suporte de Retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|
-|**[Instalação e Administração do Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|Suporte à conectividade do EWS|Sim|Sim|Sim|Sim|Sim|
+|Suporte a retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|
+|**[Instalação e administração do Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Acesso ao portal do Microsoft Office 365|Não|Não|Sim|Sim|Sim|
 |Acesso ao centro de administração do Microsoft 365|Não|Não|Sim|Sim|Sim|
 |Acesso ao centro de administração do Exchange|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|
-|Políticas de ActiveSync para Dispositivos Móveis|Sim|Sim|Sim|Sim|Sim|
-|Relatórios de Uso|Sim|Sim|Sim|Sim|Sim|
+|Políticas do ActiveSync para dispositivos móveis|Sim|Sim|Sim|Sim|Sim|
+|Relatórios de uso|Sim|Sim|Sim|Sim|Sim|
 |**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Web Parts do Outlook Web App|Sim|Sim|Sim|Sim|Sim|
-|Complementos do Outlook e MAPI do Outlook|Sim|Sim|Sim<sup>21</sup>|Sim<sup>21</sup>|Não|
+|Outlook nas Web Parts|Sim|Sim|Sim|Sim|Sim|
+|Suplementos do Outlook e MAPI do Outlook|Sim|Sim|Sim<sup>21</sup>|Sim<sup>21</sup>|Não|
 
 <sup>1</sup> as regras de transporte são formadas por critérios flexíveis, que permitem definir condições e exceções, e ações a serem tomadas com base nos critérios. Os critérios e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto. <br/>
 <sup>2</sup> para obter informações sobre os benefícios da filtragem de spam hospedado do Exchange nas ofertas locais, consulte [benefícios de recursos antispam no Exchange Online Protection no Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>

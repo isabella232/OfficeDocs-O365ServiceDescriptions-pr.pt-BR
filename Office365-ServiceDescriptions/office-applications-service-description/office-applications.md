@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
-ms.openlocfilehash: 82a6678d7a019740daf6e4f5c57e9cd02d677113
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f4a99204cdd078a79bdf2ed4ff760dfe74e975a6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776372"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582157"
 ---
 # <a name="office-applications"></a>Aplicativos do Office
 
@@ -83,7 +83,7 @@ O Office Mobile para Windows Phone inclui seus aplicativos favoritos do Office, 
 
 Os aplicativos móveis do Office para Windows 10 são otimizados para toque e telas menores em Windows 10 phones e tablets. Os aplicativos estão disponíveis para download gratuito na Windows Store. Para obter mais informações, consulte [obter o Office para Windows 10 Mobile](https://products.office.com/mobile/office-mobile-apps-for-windows).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de serviços dos aplicativos do Office](office-applications-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de aplicativos do Office](office-applications-service-description.md).
   

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: c162bb056d8f4c1c2bffb3e14069025f53c20e1e
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776852"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581997"
 ---
 # <a name="planning-and-deployment"></a>Planejamento e implantação
 
@@ -134,8 +134,8 @@ A Microsoft oferece diversas ferramentas para ajudar na migração de um ambient
     
 - **Windows PowerShell Remoto** Como parte da atualização de serviço de dezembro de 2011 do Exchange Online, o Windows PowerShell remoto pode ser usado para ajudar a solucionar erros de migração. Por exemplo, os administradores podem exibir informações de diagnósticos para lotes de migração, assim como as estatísticas de migração e as informações de diagnóstico para usuários baseadas em seus endereços SMTP principais. 
     
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

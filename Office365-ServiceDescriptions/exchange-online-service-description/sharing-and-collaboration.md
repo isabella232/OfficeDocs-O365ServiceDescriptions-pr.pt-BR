@@ -1,5 +1,5 @@
 ---
-title: Compartilhamento e Colaboração
+title: Compartilhamento e colaboração
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,21 +11,25 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442536"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582007"
 ---
-# <a name="sharing-and-collaboration"></a>Compartilhamento e Colaboração
+# <a name="sharing-and-collaboration"></a>Compartilhamento e colaboração
 
 ## <a name="federated-sharing"></a>Compartilhamento federado
 
-A Federação se refere à infraestrutura de confiança subjacente que oferece suporte ao compartilhamento federado, um método para os usuários do Microsoft Exchange Online compartilharem dados de calendário de disponibilidade e informações de contato com destinatários em outras organizações federadas externas ou com usuários com acesso à Internet. Isso inclui as organizações que são também hospedadas pelo Exchange Online ou pelas organizações externas do Microsoft Exchange Server 2010 ou Exchange Server 2013. Usando relacionamentos de organização e políticas de compartilhamento, os administradores do Exchange Online podem permitir que os usuários enviem convites de compartilhamento de calendário usando o Microsoft Outlook Web App ou o Microsoft Outlook 2010 ou posterior.
+A Federação se refere à infraestrutura de confiança subjacente que oferece suporte ao compartilhamento federado, um método para os usuários do Microsoft Exchange Online compartilharem dados de calendário de disponibilidade e informações de contato com destinatários em outras organizações federadas externas ou com usuários com acesso à Internet. Isso inclui as organizações que são também hospedadas pelo Exchange Online ou pelas organizações externas do Microsoft Exchange Server 2010 ou Exchange Server 2013. Usando relações de organização e políticas de compartilhamento, os administradores do Exchange Online podem permitir que os usuários enviem convites de compartilhamento de calendário do Microsoft Outlook na Web ou do Microsoft Outlook 2010 ou posterior.
   
 > [!IMPORTANT]
->  As organizações do External Exchange 2010 e do Exchange 2013 devem configurar uma confiança de federação com o Microsoft Federation Gateway como parte da configuração do compartilhamento federado. As organizações do Exchange Online não precisam configurar uma confiança de federação - a confiança de federação com o Microsoft Federation Gateway é criada automaticamente quando o locatário do Office 365 é criado. >  As organizações do Exchange Online devem configurar um relacionamento de organização ou uma política de compartilhamento para permitir o compartilhamento federado. >  Compartilhar a lista de acesso global (GAL) ou mover as caixas de correio do usuário entre as organizações do Exchange Online em diferentes locatários do Office 365 não são suportados no compartilhamento federado. 
+>  As organizações do External Exchange 2010 e do Exchange 2013 devem configurar uma confiança de federação com o Microsoft Federation Gateway como parte da configuração do compartilhamento federado. As organizações do Exchange Online não precisam configurar uma confiança de federação - a confiança de federação com o Microsoft Federation Gateway é criada automaticamente quando o locatário do Office 365 é criado. 
+>
+>  As organizações do Exchange Online devem configurar um relacionamento de organização ou uma política de compartilhamento para permitir o compartilhamento federado. 
+>
+>  O compartilhamento de listas de acesso global (GALs) ou a transferência de caixas de correio do usuário entre as organizações do Exchange Online em diferentes locatários do Office 365 não é suportado no compartilhamento federado. 
   
 Para saber mais sobre o compartilhamento federado, confira [Compartilhando no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -46,16 +50,16 @@ As pastas públicas no Exchange Online foram modernizadas para aproveitar as tec
   
 Para saber mais sobre pastas públicas, confira [Pastas públicas](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   
-## <a name="group-and-shared-mailboxes"></a>Caixas de correio Compartilhadas e de Grupo
+## <a name="group-and-shared-mailboxes"></a>Grupos e caixas de correio compartilhadas
 
-Com as caixas de correio Compartilhadas e de Grupo, um grupo específico de pessoas pode monitorar e enviar emails com mais facilidade de uma conta comum, como endereços de email públicos (por exemplo, info@contoso.com ou contato@contoso.com). Quando uma pessoa no grupo responde a uma mensagem enviada à caixa de correio Compartilhada, o email parece ser da caixa de correio Compartilhada, não do usuário individual.
+Grupos e caixas de correio compartilhadas facilitam um grupo específico de pessoas a monitorar e enviar emails de uma conta comum, como endereços de email públicos (por exemplo, info@contoso.com ou contact@contoso.com). Quando uma pessoa no grupo responde a uma mensagem enviada para a caixa de correio compartilhada, o email parece ser da caixa de correio compartilhada, e não do usuário individual.
   
-Normalmente, as caixas de correio de Grupo ou Compartilhadas não exigem uma licença de usuário separada. No entanto, para habilitar o Arquivo-Morto no Local para uma caixa de correio de Grupo ou Compartilhada, você deve atribuir um Plano 1 do Exchange Online ou uma licença do Plano 2 do Exchange Online a ela. Depois que a licença for atribuída, o tamanho da caixa de correio aumentará de acordo com o plano licenciado. Para colocar uma caixa de correio Compartilhada em um Bloqueio In-loco, você deve atribuir uma licença do Plano 2 do Exchange Online a ela. Observe que as caixas de correio de Grupo não podem ser atribuídas neste momento, mas devem ser contabilizadas no total de suas licenças.
+Normalmente, grupos ou caixas de correio compartilhadas não exigem uma licença de usuário separada. No entanto, para habilitar o arquivo morto in-loco para um grupo ou uma caixa de correio compartilhada, você deve atribuir uma licença do Exchange Online plano 1 ou do Exchange Online plano 2 a ele. Depois que a licença for atribuída, o tamanho da caixa de correio aumentará de acordo com o plano licenciado. Para colocar uma caixa de correio compartilhada em bloqueio in-loco, você deve atribuir uma licença do Exchange Online Plan 2 a ela. Observe que as caixas de correio de grupo não podem ser atribuídas neste momento, mas devem ser contabilizadas no total de licenças.
   
-O Arquivo-Morto no Local pode ser usado para arquivar e-mails para um único usuário ou uma entidade (como uma caixa de correio Compartilhada) para a qual uma licença foi aplicada. É proibido usar o Arquivo Morto no Local para armazenar os emails de vários usuários ou entidades. Por exemplo, um administrador de TI não pode criar uma caixa de correio Compartilhada e fazer com que os usuários a copiem (pelo campo Cc ou Cco ou por meio de uma regra de transporte) para o expresso fim de arquivamento. Observe que uma caixa de correio Compartilhada usada por várias pessoas não armazena os emails desses usuários individuais. Vários usuários têm acesso a ela e enviam emails em nome da caixa de correio Compartilhada. Portanto, os únicos emails armazenados na caixa de correio Compartilhada são aqueles foram enviados por ela ou para ela, como caixa de correio Compartilhada.
+O Arquivo-Morto no Local pode ser usado para arquivar e-mails para um único usuário ou uma entidade (como uma caixa de correio Compartilhada) para a qual uma licença foi aplicada. É proibido usar o Arquivo Morto no Local para armazenar os emails de vários usuários ou entidades. Por exemplo, um administrador de TI não pode criar uma caixa de correio compartilhada e fazer com que os usuários a copiem (pelo campo Cc ou Cco ou por meio de uma regra de transporte) para o expresso fim de arquivamento. Observe que uma caixa de correio compartilhada usada por várias pessoas não armazena os emails desses usuários individuais. Vários usuários têm acesso a ela e enviam emails em nome da caixa de correio compartilhada. Portanto, os únicos emails armazenados na caixa de correio compartilhada são aqueles enviados para ou dele, como a caixa de correio compartilhada.
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de Serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 
