@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project online.
-ms.openlocfilehash: ffd4cbcac9f784295c0be0b992aef9553f249cc6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f1d7dd59dd9456172929dbad512161abbdc688ce
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777872"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631590"
 ---
 # <a name="project-resource-management"></a>Gerenciamento de recursos do Project
 
@@ -25,44 +25,36 @@ Os seguintes recursos de gerenciamento de recursos estão disponíveis no Projec
   
 Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição de serviço do Project Online](project-online-service-description.md).
   
-## <a name="cost-resources"></a>Cost resources
-<a name="bkmk_CostResources"> </a>
+## <a name="cost-resources"></a>Recursos de custos
 
 Gerencie os custos no seu projeto.
   
 ## <a name="manage-nonworking-time"></a>Gerenciar tempo ocioso
-<a name="bkmk_Managenonworkingtime"> </a>
 
 Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. Saiba mais sobre [Adicionar feriados e dias de férias ao seu projeto](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Resource leveling
-<a name="bkmk_Resourceleveling"> </a>
 
 Quando as pessoas em seu projeto estão trabalhando em muitas tarefas ao mesmo tempo, você pode ajustar suas atribuições automaticamente. Isso é conhecido como nivelamento de recursos. Confira [Atribuições de recursos de nível](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
-## <a name="resource-sheet-and-usage-views"></a>Resource sheet and usage views
-<a name="bkmk_resourcesheetandusageviews"> </a>
+## <a name="resource-sheet-and-usage-views"></a>Exibições de uso e folha de recursos
 
 Apresentar informações sobre o recurso graficamente usando os modos de exibição de uso do recurso, planilha, gráfico e formulário. Confira [Escolher o relatório correto](https://go.microsoft.com/fwlink/?LinkId=402920).
   
-## <a name="resource-substitution"></a>Resource substitution
-<a name="bkmk_ResourceSubstitution"> </a>
+## <a name="resource-substitution"></a>Substituição de recursos
 
 Substitua recursos genéricos como carpinteiros por pessoas reais. Confira [Criar e compartilhar um pool de recursos](https://go.microsoft.com/fwlink/?LinkId=402921).
   
 ## <a name="team-resources"></a>Team resources
-<a name="bkmk_Teamresources"> </a>
 
 Adicionar recursos ao projeto de uma equipe, como recursos materiais como computadores e cimento. Saiba mais sobre [Adicionar pessoas ao projeto](https://go.microsoft.com/fwlink/p/?LinkId=271347).
   
 ## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
-<a name="bkmk_WorkGenericMaterialResources"> </a>
 
 Adicione recursos ao seu projeto, como recursos de trabalho como pessoas, recursos genéricos como carpinteiros, e recursos de materiais como computadores e cimento. Confira [Inserir custos de equipamentos e outros recursos de custo](https://go.microsoft.com/fwlink/?LinkId=402922).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
-<a name="bkmk_WorkGenericMaterialResources"> </a>
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do Serviço do Project for Office 365](http://technet.microsoft.com/library/f610ba5b-57d0-4324-a205-bce300adc7a3.aspx).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Project for Office 365 Service Description](project-online-service-description.md).
   
 

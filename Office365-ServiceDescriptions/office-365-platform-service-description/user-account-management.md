@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: O Microsoft Office 365 oferece suporte aos seguintes métodos para criar, gerenciar e autenticar usuários.
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582167"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631650"
 ---
 # <a name="user-account-management"></a>Gerenciamento de Contas de Usuário
 
@@ -104,7 +104,7 @@ A experiência de entrada sofre alterações dependendo do tipo de identidade do
 |Outlook 2010 ou Office Outlook 2007 no Windows Vista  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
 |POP, IMAP, Outlook para Mac  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
-|Experiências da Web: Office 365 portal/Outlook Web App/SharePoint Online/Office para a Web  <br/> |Entrar em cada sessão do navegador<sup>4</sup> <br/> |Entrar em cada sessão <sup>3</sup> <br/> |
+|Experiências da Web: Office 365 portal/Outlook na Web/SharePoint Online/Office para a Web  <br/> |Entrar em cada sessão do navegador<sup>4</sup> <br/> |Entrar em cada sessão <sup>3</sup> <br/> |
 |Office 2010 ou Office 2007 usando SharePoint Online  <br/> |Entrar em cada sessão do SharePoint Online<sup>4</sup> <br/> |Entrar em cada sessão do SharePoint Online<sup>3</sup> <br/> |
 |Skype for Business online  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Nenhum alerta  <br/> |
 |Outlook para Mac  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ Existem várias ferramentas para redefinir senhas de usuários com identidades d
     
     Para planos corporativos, se os administradores perderem ou esquecerem suas senhas, um administrador diferente com a função de administrador global poderá redefinir as senhas dos administradores no centro de administração do Microsoft 365 ou usando o Windows PowerShell. Para saber mais, confira [Redefinir senhas para administradores](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Se você estiver trabalhando no Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **O usuário altera senhas com o Outlook Web App** A página de opções Outlook Web App inclui um hiperlink para Alterar senha, que redireciona os usuários para a página **Alterar Senha**. O usuário deve saber sua senha anterior. Para saber mais, confira [Alterar senha](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- O **usuário altera as senhas com o Outlook na Web** A página Opções do Outlook na Web inclui um hiperlink alterar senha, que redireciona os usuários para a página **alterar senha** . O usuário deve saber sua senha anterior. Para saber mais, confira [Alterar senha](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
 - **Direitos de redefinir senha com base em função** Para planos Corporativos, usuários autorizados, como a equipe do suporte técnico, podem receber o direito de usuário **Redefinir Senha** e o direito de alterar senhas usando funções predefinidas ou personalizadas do Office 365 sem se tornarem administradores de serviços completos. Por padrão, em planos Corporativos, os administradores com a função Administrador Global, Administrador de Senha ou Administrador de Gerenciamento de Usuário podem alterar senhas. Para saber mais, veja [Atribuindo funções de administrador](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
     
@@ -157,7 +157,7 @@ Existem várias ferramentas para redefinir senhas de usuários com identidades d
     
  **Gerenciamento de senhas de identidade federada:**
   
-Ao usar identidades federadas, as senhas são gerenciadas no Active Directory. O serviço de token de segurança local negocia a autenticação com o gateway de Federação do Office 365 sem passar as senhas locais do Active Directory dos usuários pela Internet para o Office 365. As políticas de senha locais são usadas ou, para clientes web, identificação de dois fatores. O Outlook Web App não inclui um link Alterar Senha. Os usuários podem alterar suas senhas usando ferramentas padrão, no local ou através das opções de logon de seu PC desktop.
+Ao usar identidades federadas, as senhas são gerenciadas no Active Directory. O serviço de token de segurança local negocia a autenticação com o gateway de Federação do Office 365 sem passar as senhas locais do Active Directory dos usuários pela Internet para o Office 365. As políticas de senha locais são usadas ou, para clientes web, identificação de dois fatores. O Outlook na Web não inclui um hiperlink alterar senha. Os usuários podem alterar suas senhas usando ferramentas padrão, no local ou através das opções de logon de seu PC desktop.
   
 Se você tiver a [Sincronização de Diretórios com SSO (logon único)](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100)) habilitada no seu ambiente do Office 365 e houver uma interrupção que afete o seu provedor de identidade federado, o Backup de Sincronização de Senha para Entrada Federada oferece a opção de alterar manualmente seu domínio para a Sincronização de Senha. O uso da Sincronização de Senha permitirá que seus usuários acessem o Office 365 enquanto a interrupção é solucionada. Saiba [como alternar do Logon Único para a Sincronização de Senha](https://go.microsoft.com/fwlink/p/?LinkId=509832).
   

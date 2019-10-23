@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: 801079a5a6b26872acb34ad2b21aad4aff875430
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582117"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633420"
 ---
 # <a name="office-365-suite-features"></a>Recursos do Pacote do Office 365
 
@@ -67,11 +67,11 @@ O Microsoft Sway é um aplicativo de storytelling digital profissional para empr
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-O Microsoft Teams é um espaço de trabalho com foco em bate-papos no Office 365, que ajuda os membros a realizar mais trabalhando juntos. O Microsoft Teams funciona como um hub para o trabalho em equipe, fornecendo acesso instantâneo para conversas de bate-papo, conteúdo e ferramentas do Office 365 em um único espaço de trabalho. O SharePoint e o OneNote são recursos internos, e os membros da equipe podem trabalhar em documentos do Office diretamente no aplicativo. Além de bate-papos, o Microsoft Teams também fornece suporte para chamadas de vídeo e reuniões de modo que as equipes possam se reunir ao vivo, seja sob demanda ou de forma agendada. Os membros da equipe podem colaborar facilmente com várias equipes e pesquisar pessoas, bate-papos e arquivos a qualquer momento. O Microsoft Teams funciona nas plataformas Windows, Mac, Web, Android e iOS. Para saber mais, confira [Ajuda Online do Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). O Microsoft Teams ainda não está disponível no [Office 365 Germany](office-365-germany.md).
+O Microsoft Teams é um espaço de trabalho com foco em bate-papos no Office 365, que ajuda os membros a realizar mais trabalhando juntos. O Microsoft Teams funciona como um hub para o trabalho em equipe, fornecendo acesso instantâneo para conversas de bate-papo, conteúdo e ferramentas do Office 365 em um único espaço de trabalho. O SharePoint e o OneNote são recursos internos, e os membros da equipe podem trabalhar em documentos do Office diretamente no aplicativo. Além de chats, o Microsoft Teams também dá suporte a chamadas de vídeo e reuniões para permitir que as equipes se reúnam, seja por demanda ou agendadas. Os membros da equipe podem colaborar facilmente com várias equipes e pesquisar pessoas, bate-papos e arquivos a qualquer momento. O Microsoft Teams funciona nas plataformas Windows, Mac, Web, Android e iOS. Para saber mais, confira [Ajuda Online do Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). O Microsoft Teams ainda não está disponível no [Office 365 Germany](office-365-germany.md).
   
 ## <a name="office-delve"></a>Office Delve
 
-O Office Delve permite que os usuários pesquisem e descubram conteúdo no Office 365 com base em informações personalizadas. O Delve é a primeira experiência a usar a tecnologia Office Graph. Saiba mais sobre o Office Delve em [O que é o Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
+O Office Delve permite que os usuários pesquisem e descubram conteúdo no Office 365 com base em ideias personalizadas. O Delve é a primeira experiência a usar a tecnologia Office Graph. Saiba mais sobre o Office Delve em [O que é o Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
   
 ## <a name="office-365-groups"></a>Grupos do Office 365
 
@@ -87,7 +87,7 @@ O bloco de anotações de classe faz parte do OneNote e está disponível para e
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-O Microsoft Kaizala é um aplicativo de gerenciamento de trabalho móvel simples e seguro, trazendo recursos exclusivos para o Microsoft 365, com sua capacidade de conectar e envolver pessoas dentro e fora do diretório de uma organização, incluindo funcionários, fornecedores parceiros, fornecedores, clientes e cidadãos – usando [tipos de grupo](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)grandes e flexíveis. O modelo de diretório aberto do Kaizala habilita a identidade baseada em número de telefone para a integração fácil e uma experiência de usuário simples para o gerenciamento de mensagens e de trabalho. O aplicativo móvel do Kaizala permite que os usuários enviem mensagens instantâneas e anexos, como imagens, documentos, vídeos, áudios e muito mais, bem como usem cartões de ação para pesquisas, pesquisas, atribuições de trabalho, anúncios, treinamentos e muito mais. O [Kaizala está disponível com o Office 365](https://products.office.com/en/business/microsoft-kaizala) e funciona no iPhone e no Android. Para saber mais, vá para o [site do Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
+O Microsoft Kaizala é um aplicativo de gerenciamento de trabalho móvel simples e seguro, trazendo recursos exclusivos para o Microsoft 365, com sua capacidade de conectar e envolver pessoas dentro e fora do diretório de uma organização, incluindo funcionários, fornecedores parceiros, fornecedores, clientes e cidadãos – usando [tipos de grupo](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)grandes e flexíveis. O modelo de diretório aberto do Kaizala habilita a identidade baseada em número de telefone para a integração fácil e uma experiência de usuário simples para o gerenciamento de mensagens e de trabalho. O aplicativo móvel do Kaizala permite que os usuários enviem mensagens instantâneas e anexos, como imagens, documentos, vídeos, áudios e muito mais, além de usar cartões de ação para pesquisas, sondas, atribuições de trabalho, anúncios, treinamentos e muito mais. O [Kaizala está disponível com o Office 365](https://products.office.com/en/business/microsoft-kaizala) e funciona no iPhone e no Android. Para saber mais, vá para o [site do Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

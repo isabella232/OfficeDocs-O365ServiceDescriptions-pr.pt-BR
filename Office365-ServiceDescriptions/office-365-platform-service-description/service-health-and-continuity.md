@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Os administradores do Microsoft Office 365 podem exibir o status dos serviços e descobrir quando a manutenção está agendada. As informações de integridade do serviço estão disponíveis a qualquer momento entrando no Office 365.
-ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450275"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633432"
 ---
 # <a name="service-health-and-continuity"></a>Continuidade e Integridade do Serviço
 
@@ -83,7 +83,7 @@ O Microsoft System Center é uma plataforma de gerenciamento integrada que ajuda
   
 ### <a name="office-365-service-communications-api"></a>API de Comunicações de Serviço do Office 365
 
-A API de Comunicações de Serviço do Office 365 permite que você acesse as comunicações de serviço do Office 365 da maneira desejada. Com essa nova ferramenta de administração, você pode criar ou conectar suas ferramentas às comunicações de serviço do Office 365, simplificando seu modo de monitoramento do ambiente. A API de Comunicações de Serviço permite que você monitore o seguinte em seu ambiente:
+A API de comunicações do serviço do Office 365 permite que você acesse as comunicações do serviço do Office 365 da maneira desejada. Com essa nova ferramenta de administração, você pode criar ou conectar suas ferramentas às comunicações de serviço do Office 365, simplificando seu modo de monitoramento do ambiente. A API de comunicações de serviço permite monitorar o seguinte no seu ambiente:
   
 - Integridade do serviço em tempo real
     

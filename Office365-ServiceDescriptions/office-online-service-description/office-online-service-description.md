@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: O Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. O Office para a Web torna mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão com a Internet, de quase qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: df6a4d09a970968a8c83cb5864b96af0f3e6f5db
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051612"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633877"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrição do serviço Web do Office
 
@@ -26,9 +26,8 @@ O Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Exc
 Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidade de recursos nos planos do Office para Web
-<a name="bkmk_FeatureavailabilityO365"> </a>
 
-Precisa de ajuda para descobrir qual solução Office é a melhor para a sua organização? As tabelas a seguir comparam o Office para recursos de recursos da Web para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as tabelas para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras só precisam exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web. 
+Precisa de ajuda para descobrir qual solução Office é a melhor para a sua organização? As tabelas a seguir comparam o Office para recursos de recursos da Web para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as tabelas para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras só precisam exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web. 
   
 > [!NOTE]
 >  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. <br/>  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. <br/>  Os clientes locais do Microsoft Office Online Server recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Office 365 ProPlus License). 
@@ -37,7 +36,6 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 > Quando você abre um documento do Office, como um anexo de email do Outlook ou de uma biblioteca de documentos do SharePoint, o documento será iniciado no Office para a Web e será somente leitura. Para editar um documento no Office para a Web (modo de edição), você precisa de uma licença do pacote do Office 365, como o Office 365 Enterprise E1. Para editar um documento no aplicativo da área de trabalho, você precisa de uma licença do pacote da área de trabalho do Office, como uma assinatura do Office 365 ProPlus ou de uma versão instalada do Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
-<a name="BKMK_WordFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -51,7 +49,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Legendas](word-online.md#captions) <br/> |Não  <br/> |Sim  <br/> |
 |[Citações e bibliografia](word-online.md#citations-and-bibliography) <br/> |Não  <br/> |Sim  <br/> |
 |[Área de transferência](word-online.md#clipboard) <br/> |Sim  <br/> |Sim  <br/> |
-|[Colaboração - avançado](word-online.md#collaboration--advanced) <br/> |Não  <br/> |Sim  <br/> |
+|[Colaboração, avançada](word-online.md#collaboration-advanced) <br/> |Não  <br/> |Sim  <br/> |
 |[Controles de conteúdo](word-online.md#content-controls) <br/> |Sim  <br/> |Sim  <br/> |
 |[Folhas de rosto](word-online.md#cover-pages) <br/> |Não<sup>1</sup> <br/> |Sim  <br/> |
 |[Criação de elementos de documento avançados](word-online.md#creation-of-advanced-document-elements) <br/> |Não  <br/> |Sim  <br/> |
@@ -76,16 +74,16 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Criação e visualização offline](word-online.md#offline-viewing-and-authoring) <br/> |Não  <br/> |Sim  <br/> |
 |[Quebras de página](word-online.md#page-breaks) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ferramentas de layout de página](word-online.md#page-layout-tools) <br/> |Sim  <br/> |Sim  <br/> |
-|[Ferramentas de layout de página - avançado](word-online.md#page-layout-tools--advanced) <br/> |Não  <br/> |Sim  <br/> |
+|[Ferramentas de layout de página, avançadas](word-online.md#page-layout-tools-advanced) <br/> |Não  <br/> |Sim  <br/> |
 |[Números de página](word-online.md#page-numbers) <br/> |Sim  <br/> |Sim  <br/> |
 |[Formatação de parágrafo](word-online.md#paragraph-formatting) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ferramentas de imagens](word-online.md#picture-tools) <br/> |Sim  <br/> |Sim  <br/> |
 |[Esquemas de cores e fontes pré-formatados](word-online.md#preformatted-font-and-color-schemes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Apresentações online](word-online.md#preformatted-font-and-color-schemes) <br/> |Não  <br/> |Sim  <br/> |
 |[Imprimir para PDF](word-online.md#print-to-pdf) <br/> |Sim  <br/> |Sim  <br/> |
-|[Impressão - avançado](word-online.md#printing--advanced) <br/> |Não  <br/> |Sim  <br/> |
+|[Impressão, avançado](word-online.md#printing-advanced) <br/> |Não  <br/> |Sim  <br/> |
 |[Revisores de texto](word-online.md#proofing-tools) <br/> |Sim  <br/> |Sim  <br/> |
-|[Revisores de texto - avançado](word-online.md#proofing-tools--advanced) <br/> |Não  <br/> |Sim  <br/> |
+|[Ferramentas de revisão de ortografia, avançadas](word-online.md#proofing-tools-advanced) <br/> |Não  <br/> |Sim  <br/> |
 |[Coautoria em tempo real](word-online.md#real-time-co-authoring) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ferramentas de referência](word-online.md#reference-tools) <br/> |Não  <br/> |Sim  <br/> |
 |[Processamento de caixas de texto/formas](word-online.md#rendering-of-text-boxesshapes) <br/> |Sim  <br/> |Sim  <br/> |
@@ -102,7 +100,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Aproveite](word-online.md#tap) <br/> |Não  <br/> |Sim  <br/> |
 |[Diga-Me](word-online.md#tell-me) <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviço de tradução](word-online.md#translation-service) <br/> |Sim  <br/> |Sim  <br/> |
-|[Desfazer e Refazer](word-online.md#undo-and-redo) <br/> |Sim  <br/> |Sim  <br/> |
+|[Desfazer e refazer](word-online.md#undo-and-redo) <br/> |Sim  <br/> |Sim  <br/> |
 |[Scripts VBA e formulários](word-online.md#vba-and-forms-scripts) <br/> |Não  <br/> |Sim  <br/> |
 |[Ver e adicionar comentários](word-online.md#view-and-add-comments) <br/> |Sim  <br/> |Sim  <br/> |
 |[Marcas d'água](word-online.md#watermarks) <br/> |Não<sup>1</sup> <br/> |Sim  <br/> |
@@ -114,7 +112,6 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 > <sup>2</sup> alguns suplementos do Office estão disponíveis, mas nem todos. <br/>
   
 ### <a name="excel"></a>Excel
-<a name="BKMK_ExcelFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -139,14 +136,14 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Validação de dados](excel-online.md#data-validation) <br/> |Sim <br/> |Sim  <br/> |
 |[Arrastar e soltar células](excel-online.md#drag-and-drop-cells) <br/> |Sim  <br/> |Sim  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |Sim  <br/> |Sim  <br/>|
-|[Duplicata (cópia) workseets](excel-online.md#duplicate-copy-worksheets) <br/> |Sim  <br/> |Sim  <br/>|
-|[Pasta de trabalho incorporada na Web ou em uma página de blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sim  <br/> |Não  <br/> |
+|[Planilhas duplicadas (copiar)](excel-online.md#duplicate-copy-worksheets) <br/> |Sim  <br/> |Sim  <br/>|
+|[Inserir pasta de trabalho em uma página da Web ou de blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sim  <br/> |Não  <br/> |
 |[Referências externas](excel-online.md#external-references-links) <br/> |No<sup>4</sup> <br/> |Sim  <br/> |
-|[Alça de Preenchimento](excel-online.md#fill-handle) <br/> |Sim  <br/> |Sim  <br/> |
+|[Alça de preenchimento](excel-online.md#fill-handle) <br/> |Sim  <br/> |Sim  <br/> |
 |[Localizar](excel-online.md#find) <br/> |Sim  <br/> |Sim  <br/> |
 |[Formatação de fontes e de células](excel-online.md#font-and-cell-formatting) <br/> |Sim  <br/> |Sim  <br/> |
 |[Barra de fórmulas](excel-online.md#formula-bar) <br/> |Sim  <br/> |Sim  <br/> |
-|[Ferramentas de fórmula avançadas](excel-online.md#formula-tools--advanced) <br/> |Não  <br/> |Sim  <br/> |
+|[Ferramentas de fórmula, avançadas](excel-online.md#formula-tools-advanced) <br/> |Não  <br/> |Sim  <br/> |
 |[Congelar painéis](excel-online.md#freeze-panes) <br/> |Sim <br/> |Sim  <br/> |
 |[Modo de exibição de leitura de fidelidade total](excel-online.md#full-fidelity-reading-view) <br/> |Sim  <br/> |Sim  <br/> |
 |[Funções](excel-online.md#functions) <br/> |Sim  <br/> |Sim  <br/> |
@@ -164,7 +161,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Criação e visualização offline](excel-online.md#offline-viewing-and-authoring) <br/> |Não  <br/> |Sim  <br/> |
 |[PivotCharts](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
 |[PivotTables](excel-online.md#pivottables) <br/> |Sim  <br/> |Sim  <br/> |
-|[Poste nas redes sociais e faça apresentações online](excel-online.md#post-to-social-network-and-present-online) <br/> |Não  <br/> |Sim  <br/> |
+|[Postar na rede social e apresentar online](excel-online.md#post-to-social-network-and-present-online) <br/> |Não  <br/> |Sim  <br/> |
 |[Visualização do Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 |[Exibição do Power View](excel-online.md#power-view-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 |[Imprimir](excel-online.md#print) <br/> |Sim  <br/> |Sim  <br/> |
@@ -175,7 +172,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Renomear e adicionar planilhas](excel-online.md#rename-and-add-sheets) <br/> |Sim  <br/> |Sim  <br/> |
 |[Renomear o arquivo com a pasta de trabalho aberta](excel-online.md#rename-file-while-workbook-is-open) <br/> |Sim  <br/> |Não  <br/> |
 |[Substituir](excel-online.md#replace) <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento de Direitos: IRM e segurança por senha](excel-online.md#rights-management-irm-and-password-security) <br/> |Não  <br/> |Sim  <br/> |
+|[Gerenciamento de direitos: IRM e segurança de senha](excel-online.md#rights-management-irm-and-password-security) <br/> |Não  <br/> |Sim  <br/> |
 |[Salvar ou baixar uma cópia](excel-online.md#save-or-download-a-copy) <br/> |Sim  <br/> |Sim  <br/> |
 |[Compartilhar](excel-online.md#share) <br/> |Sim  <br/> |Sim  <br/> |
 |[Proteção da planilha](excel-online.md#sheet-protection) <br/> |Sim  <br/> |Sim  <br/> |
@@ -200,7 +197,6 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
  <br/><sup>5</sup> Alguns suplementos do Office estão disponíveis, mas nem todos. 
   
 ### <a name="onenote"></a>OneNote
-<a name="BKMK_OneNoteFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -217,7 +213,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |Arrastar e soltar seções <br/> |Sim  <br/> |Sim <br/> |
 |Arrastar e soltar grupos de seções <br/> |Não  <br/> |Sim <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Sim  <br/> |Sim  <br/> |
-|[Editar arquivos inseridos](onenote-online.md#EmbeddedFileEdit) <br/> |Não  <br/> |Sim  <br/> |
+|[Editar arquivos inseridos](onenote-online.md#edit-embedded-files) <br/> |Não  <br/> |Sim  <br/> |
 |[Equações](onenote-online.md#equations) <br/> |Sim  <br/> |Sim  <br/> |
 |[Hiperlinks](onenote-online.md#hyperlinks) <br/> |Sim  <br/> |Sim  <br/> |
 |[OCR (reconhecimento óptico de caracteres) em imagens](onenote-online.md#image-optical-character-recognition-ocr) <br/> |Não  <br/> |Sim  <br/> |
@@ -239,18 +235,17 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Estilos](onenote-online.md#styles) <br/> |Sim  <br/> |Sim  <br/> |
 |[Tabelas](onenote-online.md#tables) <br/> |Sim  <br/> |Sim  <br/> |
 |[Suporte a modelos](onenote-online.md#template-support) <br/> |Não  <br/> |Sim  <br/> |
-|[Desfazer e Refazer](onenote-online.md#undo-and-redo) <br/> |Sim  <br/> |Sim  <br/> |
+|[Desfazer e refazer](onenote-online.md#undo-and-redo) <br/> |Sim  <br/> |Sim  <br/> |
 |[Reprodução de vídeo](onenote-online.md#video-playback) <br/> |Não  <br/> |Sim  <br/> |
 |[Exibir versões anteriores da página](onenote-online.md#view-previous-page-versions) <br/> |Sim  <br/> |Sim  <br/> |
-   
+
 > [!NOTE]
 > <sup>1</sup> no OneNote para a Web, você pode mover seções dentro de um bloco de anotações e copiar e colar páginas de uma seção para outra. 
  <br/> <sup>2</sup> alguns suplementos do Office estão disponíveis, mas nem todos. 
- <br/><sup>3</sup> você pode pesquisar na página ou seção, mas não em todo o bloco de anotações ou entre blocos de anotações (como você pode na versão da área de trabalho). 
+ <br/><sup>3</sup> você pode pesquisar na página ou seção, mas não em todo o bloco de anotações ou entre blocos de anotações (como você pode na versão da área de trabalho).
  <br/><sup>4</sup> na versão da área de trabalho, não existe uma opção de "download", mas você pode salvar como em outro local. 
   
 ### <a name="powerpoint"></a>PowerPoint
-<a name="BKMK_PowerPointFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -264,7 +259,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Área de transferência](powerpoint-online.md#clipboard) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar e gerenciar slides](powerpoint-online.md#create-and-manage-slides) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar animações personalizadas](powerpoint-online.md#create-custom-animation) <br/> |Não<sup>1</sup> <br/> |Sim  <br/> |
-|[Ferramentas de desenho - avançado](powerpoint-online.md#design-tools--advanced) <br/> |Não  <br/> |Sim  <br/> |
+|[Ferramentas de design, avançadas](powerpoint-online.md#design-tools-advanced) <br/> |Não  <br/> |Sim  <br/> |
 |[Incorporar a apresentação em uma página da web ou de blog](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |Sim  <br/> |Não  <br/> |
 |[Formatação de fontes](powerpoint-online.md#font-formatting) <br/> |Sim  <br/> |Sim  <br/> |
 |[Modo de exibição de leitura de fidelidade total](powerpoint-online.md#full-fidelity-reading-view) <br/> |Sim  <br/> |Sim  <br/> |
@@ -274,7 +269,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Hiperlinks](powerpoint-online.md#hyperlinks) <br/> |Sim  <br/> |Sim  <br/> |
 |[Inserir vídeo online](powerpoint-online.md#insert-online-video) <br/> |Sim  <br/> |Sim  <br/> |
 |[Integração com o Excel para gráficos](powerpoint-online.md#integration-with-excel-for-charts) <br/> |Não  <br/> |Sim  <br/> |
-|[Navegação  classificação de slides](powerpoint-online.md#navigation-slide-sorter) <br/> |Sim  <br/> |Sim  <br/> |
+|[Navegação-classificação de slides](powerpoint-online.md#navigation---slide-sorter) <br/> |Sim  <br/> |Sim  <br/> |
 |[Suplementos do Office](powerpoint-online.md#office-add-ins) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
 |[Criação e visualização offline](powerpoint-online.md#offline-viewing-and-authoring) <br/> |Não  <br/> |Sim  <br/> |
 |[Recorte de imagem](powerpoint-online.md#picture-cropping) <br/> |Sim  <br/> |Sim  <br/> |
@@ -284,22 +279,22 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Imprimir para PDF](powerpoint-online.md#print-to-pdf) <br/> |Sim  <br/> |Sim  <br/> |
 |[Revisores de texto](powerpoint-online.md#proofing-tools) <br/> |Sim  <br/> |Sim  <br/> |
 |[Coautoria em tempo real](powerpoint-online.md#real-time-co-authoring) <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |
-|[Ferramentas de revisores-avançado](powerpoint-online.md#reviewer-tools---advanced) <br/> |Não  <br/> |Sim  <br/> |
-|Rights Management: IRM and password security <br/> |Não  <br/> |Sim  <br/> |
+|[Ferramentas de revisor, avançadas](powerpoint-online.md#reviewer-tools-advanced) <br/> |Não  <br/> |Sim  <br/> |
+|Gerenciamento de direitos: IRM e segurança de senha <br/> |Não  <br/> |Sim  <br/> |
 |[Executar apresentação de slides](powerpoint-online.md#run-slide-show) <br/> |Sim  <br/> |Sim  <br/> |
-|[Salvar como ou Baixar uma cópia](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Sim  <br/> |Sim  <br/> |
+|[Salvar como ou baixar uma cópia](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Sim  <br/> |Sim  <br/> |
 |[Formas](powerpoint-online.md#shapes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Compartilhar](powerpoint-online.md#share) <br/> |Sim  <br/> |Sim  <br/> |
 |[Apresentação de slides](powerpoint-online.md#slide-show) <br/> |Sim  <br/> |Sim  <br/> |
 |[SmartArt](powerpoint-online.md#smartart) <br/> |Sim  <br/> |Sim  <br/> |
-|[Criação/edição e formatação de tabela](powerpoint-online.md#table-creationediting-and-formatting) <br/> |Sim  <br/> |Sim  <br/> |
+|[Criação, edição e formatação de tabelas](powerpoint-online.md#table-creation-editing-and-formatting) <br/> |Sim  <br/> |Sim  <br/> |
 |[Diga-Me](powerpoint-online.md#tell-me) <br/> |Sim  <br/> |Sim  <br/> |
 |[Desfazer e refazer](powerpoint-online.md#undo-and-redo) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ver e adicionar comentários](powerpoint-online.md#view-and-add-comments) <br/> |Sim  <br/> |Sim  <br/> |
 |[Ver e editar notas de slide](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Visualização WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 
-> [!NOTE]   
+> [!NOTE]
 ><sup>1</sup> o PowerPoint para a Web suporta uma galeria de oito transições e 37 animações. Para uma seleção maior ou para criar animações personalizadas, use o aplicativo da área de trabalho PowerPoint. 
  <br/>
 <sup>2</sup> o dispositivo em que você está trabalhando precisa dar suporte à tinta. <br/> 
@@ -307,7 +302,6 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 <sup>4</sup> não é possível criar gráficos dinâmicos ou tabelas dinâmicas, mas você pode vê-los no visualizador. 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Tipos de arquivo com suporte para o Office para a Web
-<a name="bkmk_SupportedFileTypes"> </a>
 
 ||||
 |:-----|:-----|:-----|

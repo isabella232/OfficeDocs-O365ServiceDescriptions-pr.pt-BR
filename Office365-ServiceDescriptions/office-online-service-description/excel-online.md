@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595299"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631630"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -79,10 +79,9 @@ Use o Excel para realizar uma série de cálculos automáticos, manuais e iterat
 
 ## <a name="cell-references-in-formulas"></a>Referências de célula em fórmulas
 
-Você pode usar referências de célula em fórmulas. Quando você faz referência a uma célula ou a um intervalo em uma fórmula, a célula ou o intervalo referenciado é realçado com uma cor. Para obter mais informações, consulte [usar referências de célula em uma fórmula](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+Você pode usar referências de célula em fórmulas. Quando você faz [referência a uma célula ou a um intervalo em uma fórmula](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa), a célula ou o intervalo referenciado é realçado com uma cor. Para obter mais informações, consulte [usar referências de célula em uma fórmula](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>As animações de gráficos se adaptam aos novos dados
-
 Só o aplicativo Microsoft Excel para a área de trabalho é compatível com os recursos avançados de gráficos. Saiba mais sobre [como animar um gráfico SmartArt](https://go.microsoft.com/fwlink/p/?LinkId=271668).
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Gráficos e tabelas, inclusive relatórios de Gráfico Dinâmico e de Tabela Dinâmica
@@ -95,7 +94,7 @@ Para verificar a ortografia de qualquer texto na sua planilha, selecione **revis
 
 ## <a name="comment-creation"></a>Comment creation
 
-Você pode inserir, editar e excluir comentários no Excel para a Web. Você também pode resolver um thread de comentários, que o fecha para editar e para novos comentários, mas o deixa em vigor. Isso permite que você reabra o thread para comentários, se necessário. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Você pode inserir, editar e excluir comentários no Excel para a Web. Você também pode resolver um thread de comentários, que o fecha para editar e para novos comentários, mas o deixa em vigor. Isso permite que você reabra o thread para comentários, se necessário. Use @mentions em seus comentários para enviar emails para a pessoa mencionada. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Converter uma tabela em um intervalo
 
@@ -103,7 +102,7 @@ Após criar uma tabela do Excel, você só poderá querer o estilo de tabela sem
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Para obter melhores resultados, use atalhos de teclado, não o menu do botão direito do mouse ou comandos da área de transferência no Excel para a Web, para copiar itens para outro local da planilha. Saiba mais sobre como [usar copiar e colar no Excel para a Web](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816).
+Você pode recortar, copiar e colar texto, números, equações, formas, gráficos e imagens. Se houver dados em colunas que você precisa girar para reorganizá-los em linhas, use o recurso **transpor** no menu **colar** .
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -124,6 +123,10 @@ Use a validação de dados para restringir o tipo de dados ou os valores que os 
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
 Você pode mover o valor da célula no Excel para a Web arrastando e soltando as células de um lugar para outro.
+
+## <a name="draw-cell-borders"></a>Desenhar bordas de célula
+
+Você pode desenhar bordas em torno de células em uma planilha para ajudar a organizar visualmente seus dados. Saiba mais sobre [bordas de célula no Excel](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web).
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -155,9 +158,9 @@ Personalize seus dados e dê a eles a aparência exata que você quiser. Escolha
   
 ## <a name="formula-bar"></a>Formula bar
 
-Consulte as fórmulas responsáveis pelos resultados de uma célula na barra de fórmulas. Você pode adicionar, mudar e excluir partes da fórmula no navegador como faria no aplicativo de área de trabalho Excel.
+Consulte as fórmulas responsáveis pelos resultados de uma célula na barra de fórmulas. Você pode adicionar, mudar e excluir partes da fórmula no navegador como faria no aplicativo de área de trabalho Excel. O Excel para a Web realça os argumentos da fórmula com cores que fornecem um mapeamento visual entre a fórmula e os dados da planilha.
   
-## <a name="formula-tools--advanced"></a>Ferramentas de fórmula avançadas
+## <a name="formula-tools-advanced"></a>Ferramentas de fórmula, avançadas
 
 O aplicativo de área de trabalho Microsoft Excel dá suporte às ferramentas de fórmula mais avançadas, como estilo de referência 3D e fórmulas de matriz. O Excel para a Web só oferece suporte às fórmulas mais básicas do Excel. Saiba mais sobre [fórmulas](https://go.microsoft.com/fwlink/p/?LinkId=271665).
   
@@ -211,7 +214,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>Intervalos nomeados
 
-Não é possível criar intervalos nomeados no Excel para a Web, mas você pode usar os intervalos nomeados criados na área de trabalho do Excel em sua planilha no Excel para a Web.
+Não é possível criar intervalos nomeados no Excel para a Web, mas você pode usar os intervalos nomeados criados na área de trabalho do Excel em sua planilha no Excel para a Web. Quando você seleciona um intervalo nomeado, o nome aparece imediatamente antes da barra de fórmulas.
 
 ## <a name="number-formatting"></a>Formatação de números
 
@@ -295,7 +298,7 @@ Exiba segmentações de dados em sua planilha e filtre seus dados selecionando o
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar dados (de cima para baixo ou da esquerda para a direita) e detalhar os detalhes das tabelas dinâmicas. Saiba mais sobre [classificação e filtragem de dados](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar dados (de cima para baixo ou da esquerda para a direita, vários níveis) e analisar os detalhes das tabelas dinâmicas. Saiba mais sobre [classificação e filtragem de dados](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Auditoria e conformidade de planilhas
 
@@ -337,6 +340,6 @@ Exiba gráficos 3D em sua planilha. Você não pode criar ou editar gráficos 3D
 
 Não está disponível no Excel para a Web. Você pode visualizar os resultados da análise "e se" no Excel para a Web, conforme o esperado. Para usar ferramentas de análise como Atingir Meta, Tabelas de Dados, Solver e Séries, você vai precisar do aplicativo de área de trabalho Excel. Saiba mais sobre as [diferenças de uso de uma pasta de trabalho no navegador e no aplicativo de área de trabalho Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
 Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, confira [Office para a descrição do serviço Web](office-online-service-description.md).
