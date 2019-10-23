@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
+ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631630"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637248"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -94,7 +94,7 @@ Para verificar a ortografia de qualquer texto na sua planilha, selecione **revis
 
 ## <a name="comment-creation"></a>Comment creation
 
-Você pode inserir, editar e excluir comentários no Excel para a Web. Você também pode resolver um thread de comentários, que o fecha para editar e para novos comentários, mas o deixa em vigor. Isso permite que você reabra o thread para comentários, se necessário. Use @mentions em seus comentários para enviar emails para a pessoa mencionada. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Você pode inserir, editar e excluir comentários no Excel para a Web. Você também pode resolver um thread de comentários, que o fecha para editar e para novos comentários, mas o deixa em vigor. Isso permite que você reabra o thread para comentários, se necessário. [Use @mentions em seus comentários](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) para enviar emails para a pessoa mencionada. Saiba mais sobre [como adicionar comentários ao Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Converter uma tabela em um intervalo
 
