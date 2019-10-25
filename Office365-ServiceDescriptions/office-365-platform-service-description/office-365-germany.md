@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
-ms.openlocfilehash: 0b975ca872e580cc8293fee0c0929d80edda0524
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 1c0882c54a90f2e5ec298c29fba5c6cfb4b00d2a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595289"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701683"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
@@ -550,7 +550,7 @@ A tabela a seguir exibe a opção independente do OneDrive for Business e os rec
 |[Catálogo de aplicativos (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Sim|Sim|Sim|Sim|
 |[Implantação de aplicativo: aplicativos hospedados na nuvem](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Sim|Sim|Sim|Sim|
 |[Implantação de aplicativo: aplicativos hospedados pelo SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Sim|Sim|Sim|Sim|
-|[Serviços de Gerenciamento de Aplicativos](../sharepoint-online-service-description/developer.md#app-management-services)|Sim|Sim|Sim|Sim|
+|[Serviço de gerenciamento de aplicativos](../sharepoint-online-service-description/developer.md#app-management-service)|Sim|Sim|Sim|Sim|
 |BCS: alertas de listas externas|Não|Não|Não|Sim|
 |[BCS: tipos de conteúdo externo com escopo de aplicativo (ECTs)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Não|Não|Não|Sim|
 |[BCS: Web Parts de dados corporativos](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Não|Não|Não|Sim|
@@ -670,7 +670,7 @@ A tabela a seguir exibe a opção independente do OneDrive for Business e os rec
 |WCM: renderização móvel e de dispositivo|Não|Não|Sim|Sim|
 |WCM: vários domínios|Não|Não|Não|Não|
 |WCM: Recommendations|Não|Não|Sim|Sim|
-|[WCM: SEO (Otimização do Mecanismo de Pesquisa)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Não|Não|Sim|Sim|
+|[WCM: otimização do mecanismo de pesquisa (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Não|Não|Sim|Sim|
 |[Serviços de automação do Word](../sharepoint-online-service-description/content.md#word-automation-services)|Não|Não|Não|Não|
 |**Recursos de percepções**|**OneDrive for Business Plano 1**|**OneDrive for Business Plano 2**|**SharePoint Online (Plano 1)**|**SharePoint Online (Plano 2)**|
 |[Central de Business Intelligence](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Não|Não|Não|Sim|
@@ -730,7 +730,7 @@ A tabela a seguir exibe a opção independente do OneDrive for Business e os rec
 |OneDrive for Business e sites híbridos|Sim|Sim|Sim|Sim|
 |[Escalabilidade e gerenciamento de lista grande](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Sim|Sim|Sim|Sim|
 |[Conectividade móvel](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim|Sim|
-|[Interface de usuário multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Sim|Sim|Sim|Sim|
+|[Interface de usuário multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Sim|Sim|Sim|Sim|
 |Minhas Tarefas|Não|Não|Sim|Sim|
 |[Web Parts do OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Não|Não|Sim|Sim|
 |[Gerenciamento de permissões](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Sim|Sim|Sim|Sim|
@@ -807,7 +807,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |[Catálogo de aplicativos (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |[Implantação de aplicativo: aplicativos hospedados na nuvem](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |[Implantação de aplicativo: aplicativos hospedados pelo SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|[Serviços de Gerenciamento de Aplicativos](../sharepoint-online-service-description/developer.md#app-management-services)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|[Serviço de gerenciamento de aplicativos](../sharepoint-online-service-description/developer.md#app-management-service)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |BCS: alertas de listas externas|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |[BCS: tipos de conteúdo externo com escopo de aplicativo (ECTs)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |[BCS: Web Parts de dados corporativos](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Não|Não|Não|Sim|Não|Sim|Sim|Não|
@@ -928,7 +928,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |WCM: renderização móvel e de dispositivo|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |WCM: vários domínios|Não|Não|Não|Não|Não|Não|Não|Não|
 |WCM: Recommendations|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|[WCM: SEO (Otimização do Mecanismo de Pesquisa)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|[WCM: otimização do mecanismo de pesquisa (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |[Serviços de automação do Word](../sharepoint-online-service-description/content.md#word-automation-services)|Não|Não|Não|Não|Não|Não|Não|Não|
 |**Recursos de percepções**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |[Central de Business Intelligence](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Não|Não|Não|Não|Não|Sim|Sim|Não|
@@ -990,7 +990,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |OneDrive for Business e sites híbridos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim<sup>19</sup>|
 |[Escalabilidade e gerenciamento de lista grande](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |[Conectividade móvel](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Não|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|
-|[Interface de usuário multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|
+|[Interface de usuário multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|
 |My Tasks|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |[Web Parts do OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |[Gerenciamento de permissões](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|

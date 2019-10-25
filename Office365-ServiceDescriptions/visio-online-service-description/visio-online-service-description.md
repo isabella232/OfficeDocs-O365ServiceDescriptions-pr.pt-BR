@@ -9,13 +9,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web. Comece com um diagrama básico para expressar ideias comuns, como ilustrar um plano, criar uma proposta ou descrever uma sequência de etapas em um processo. É simples e fácil criar diagramas de primeira classe com tipos de diagramas comumente usados e conjuntos de formas ricas. O Visio para os usuários da Web pode exibir e colaborar compartilhando diagramas e inserindo comentários em arquivos carregados no SharePoint Online ou no OneDrive for Business online.
-ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+description: Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web.
+ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450295"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700233"
 ---
 # <a name="visio-for-the-web-service-description"></a>Visio para a descrição do serviço Web
 
@@ -27,7 +27,7 @@ Para obter ajuda ao usar o Visio para a Web, consulte [centro de ajuda do Visio]
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilidade e comparação de recursos
 
-A tabela a seguir compara os recursos de recurso da Web do Visio para os aplicativos de área de trabalho do Visio ricos em recursos. Use a tabela para descobrir quais recursos estão disponíveis no Visio para a Web e, em seguida, clique no nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam dos recursos avançados do aplicativo da área de trabalho Visio, enquanto outras só precisam exibir e editar levemente diagramas do Visio com o Visio para a Web. 
+A tabela a seguir compara os recursos de recurso da Web do Visio para os aplicativos de área de trabalho do Visio ricos em recursos. Use a tabela para descobrir quais recursos estão disponíveis no Visio para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam dos recursos avançados do aplicativo da área de trabalho Visio, enquanto outras só precisam exibir e editar levemente diagramas do Visio com o Visio para a Web. 
   
 ||||
 |:-----|:-----|:-----|
@@ -41,15 +41,15 @@ A tabela a seguir compara os recursos de recurso da Web do Visio para os aplicat
 |[Incorporar diagrama em uma página do SharePoint, da Web ou de blog](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Sim  <br/> |Não  <br/> |
 |[Localizar](visio-online.md#find) <br/> |Sim  <br/> |Sim  <br/> |
 |[Formatação de fontes](visio-online.md#font-formatting) <br/> |Sim  <br/> |Sim  <br/> |
-|[](visio-online.md#hyperlinks) Hiperlinks <sup>1</sup> <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
+|[Hiperlinks](visio-online.md#hyperlinks)<sup>1</sup> <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
 |[Navegação](visio-online.md#navigation) <br/> |Sim  <br/> |Sim  <br/> |
 |[Suplementos do Office](visio-online.md#office-add-ins) <br/> |Não  <br/> |Sim  <br/> |
 |[Exibição offline](visio-online.md#offline-viewing) <br/> |Não  <br/> |Sim  <br/> |
-|[Imprimir em PDF](visio-online.md#print-to-pdf) <br/> |Sim<sup>4</sup> <br/> |Sim  <br/> |
+|[Imprimir para PDF](visio-online.md#print-to-pdf) <br/> |Sim<sup>4</sup> <br/> |Sim  <br/> |
 |[Revisores de texto](visio-online.md#proofing-tools) <br/> |Não  <br/> |Sim  <br/> |
 |[Coautoria em tempo real](visio-online.md#real-time-co-authoring) <br/> |Não  <br/> |Sim  <br/> |
 |[Salvar como ou Baixar uma cópia](visio-online.md#save-as-or-download-a-copy) <br/> |Sim  <br/> |Sim  <br/> |
-|[Compartilhar um diagrama](visio-online.md#share-a-diagram) <sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |
+|[Compartilhar um diagrama](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[SmartArt](visio-online.md#smartart) <br/> |Não  <br/> |Sim  <br/> |
 |[Diga-Me](visio-online.md#tell-me) <br/> |Não  <br/> |Sim  <br/> |
 |[Desfazer e refazer](visio-online.md#undo-and-redo) <br/> |Não  <br/> |Sim  <br/> |

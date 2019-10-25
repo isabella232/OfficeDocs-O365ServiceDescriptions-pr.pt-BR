@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para o Web e Microsoft Skype for Business Online&mdash;para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595260"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701393"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -829,7 +829,7 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |[Catálogo de aplicativos (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Implantação de aplicativo: aplicativos hospedados na nuvem](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Implantação de aplicativo: aplicativos hospedados pelo SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Serviços de gerenciamento de aplicativos](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Serviço de gerenciamento de aplicativos](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |BCS: alertas de listas externas <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[BCS: tipos de conteúdo externo com escopo de aplicativo (ECTs)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[BCS: Web Parts de dados corporativos](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -951,7 +951,7 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |WCM: renderização móvel e de dispositivo <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |WCM: vários domínios <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |WCM: Recommendations <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[WCM: SEO (Otimização do Mecanismo de Pesquisa)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[WCM: otimização do mecanismo de pesquisa (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Serviços de automação do Word](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |**Recursos de percepções** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Central de Business Intelligence](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
@@ -1011,7 +1011,7 @@ A tabela a seguir descreve os recursos do SharePoint disponíveis em cada plano 
 |OneDrive for Business e sites híbridos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Escalabilidade e gerenciamento de lista grande](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Conectividade móvel](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |
-|[Interface de usuário multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
+|[Interface de usuário multilíngue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
 |My Tasks <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Web Parts do OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento de permissões](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |

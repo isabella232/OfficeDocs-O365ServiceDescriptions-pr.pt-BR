@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obter informações sobre recursos e requisitos para o Exchange Online Protection. Incluído é uma lista de planos que fornecem proteção do Exchange Online, bem como uma comparação de recursos entre esses planos.
-ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581907"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700223"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrição do serviço de proteção do Exchange Online
 
@@ -25,9 +25,9 @@ Obter informações sobre recursos e requisitos para o Exchange Online Protectio
 
 O Microsoft Proteção do Exchange Online (EOP) é um serviço de filtragem de e-mails baseado na nuvem que ajuda a proteger sua organização contra spam e malware, e inclui recursos para defender sua organização das violações da política de mensagens. O EOP pode simplificar o gerenciamento de seu ambiente de mensagem e reduzir muitos dos problemas que surgem na manutenção do hardware e do software locais.
 
-Veja a seguir algumas das principais formas de usar o EOP para proteção de mensagens:
+A lista a seguir descreve as principais maneiras de usar o EOP para proteção de mensagens:
 
-- **Em um cenário autônomo: o**EOP fornece proteção de email baseada em nuvem para seu ambiente local do exchange server 2013 ou posterior, versões herdadas do Exchange Server ou para qualquer outra solução de email SMTP local.
+- **Em um cenário autônomo: o**EOP fornece proteção de email baseada em nuvem para seu ambiente de email local (Exchange Server ou outras soluções de email SMTP no local).
 
 - **Como parte do Microsoft Exchange Online**: por padrão, o EOP protege caixas de correio hospedadas na nuvem do Exchange Online. Para saber mais sobre a Exchange Online, consulte [Descrição de Serviço do Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
 
@@ -50,13 +50,13 @@ O EOP está disponível nos seguintes planos de assinatura:
 
 |**Plano**|**Descrição**|
 |:-----|:-----|
-|[EOP autônomo](https://products.office.com/exchange/exchange-email-security-spam-protection)|Onde EOP protege suas caixas de correio locais.|
-|[Recursos EOP no Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Onde EOP protege suas caixas de correio hospedadas em nuvem do Exchange Online.|
-|[Exchange Enterprise CAL com os serviços de](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Onde o EOP protege suas caixas de correio locais, como o EOP autônomo, e inclui a prevenção contra perda de dados (DLP) e criação de relatórios usando serviços Web.|
+|[EOP autônomo](https://products.office.com/exchange/exchange-email-security-spam-protection)|Um serviço separado baseado em nuvem que protege sua organização de email local.|
+|[Recursos do EOP no Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|A proteção interna para suas caixas de correio hospedadas na nuvem do Exchange Online.|
+|[Exchange Enterprise CAL com Serviços](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Licenças de complemento adquiridas para sua organização do Exchange local que incluem o EOP e outros recursos baseados em nuvem (consulte a próxima seção para obter detalhes).|
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Recursos do Exchange Enterprise CAL com Serviços
 
-O Microsoft Exchange Enterprise CAL com Serviços fornece os recursos de proteção de email do EOP para seu ambiente de mensagens local, junto com dois recursos adicionais:
+O Microsoft Exchange Enterprise CAL com serviços fornece os recursos de proteção de email do EOP e os seguintes recursos adicionais baseados em nuvem:
 
 - [Prevenção de perda de dados (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
@@ -64,7 +64,7 @@ O Microsoft Exchange Enterprise CAL com Serviços fornece os recursos de proteç
 
 Para obter mais informações sobre o licenciamento do Exchange Enterprise CAL com serviços, confira [Licenciamento do Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
 
-Se você tiver licenças do Exchange Enterprise CAL com serviços e quiser provisionar o serviço, siga as instruções em [configurar seu serviço EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). As etapas de configuração são as mesmas para a configuração do EOP autônomo.
+Se você tiver licenças do Exchange Enterprise CAL com serviços e quiser provisionar o EOP, siga as instruções em [Configure Your EOP Service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). As etapas de configuração são as mesmas para a configuração do EOP autônomo.
 
 > [!NOTE]
 > Novos recursos do Exchange Enterprise CAL com Serviços são implantados ao mesmo tempo que o Exchange Online, não que o EOP autônomo. Esteja ciente de que os cronogramas de implantação para o EOP autônomo e o Exchange Online/Exchange Enterprise CAL com Serviços podem ser ligeiramente diferentes.
@@ -91,7 +91,7 @@ Cada recurso é listado abaixo. Para obter informações mais detalhadas sobre o
 |[Bloqueio de borda baseado em diretório (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Sim|Sim|Sim|
 |[Regras de fluxo de emails](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|Sim<sup>4</sup>|Sim<sup>4, 6</sup>|Sim|
 |[Registro em log de auditoria](messaging-policy-and-compliance-servicedesc.md#audit-logging)|Sim<sup>5</sup>|Sim|Sim|
-|[Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|Não|Sim|Sim<sup>6</sup>|
+|[Prevenção de perda de dados (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|Não|Sim|Sim<sup>6</sup>|
 |[Criptografia de mensagem do Office 365](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Sim<sup>12</sup>|Sim|Sim<sup>12</sup>|
 |[Proteção antispam](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (integrado)|Sim|Sim|Sim|
 |[Personalize as diretrizes contra spam](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|Sim<sup>7</sup>|Sim|Sim|

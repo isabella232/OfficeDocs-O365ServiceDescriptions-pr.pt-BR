@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523249"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700243"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
-## <a name="overview"></a>Visão Geral
+## <a name="overview"></a>Visão geral
 
 O Microsoft Project oferece os seguintes aplicativos para ajudar a atender às necessidades da sua organização para o gerenciamento de projetos e trabalho:
 
@@ -50,7 +50,18 @@ O Project online é uma solução online flexível para o gerenciamento de portf
 
 O Project online foi criado na plataforma do SharePoint e armazena dados no repositório de dados do SharePoint.
 
-O Project online está disponível por meio de duas assinaturas: Project online Professional e Project Online Premium. A funcionalidade de membros da equipe para o Project online está disponível por meio de uma assinatura do [Project online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . Os recursos listados na seção [recursos do Project online](#project-online-features) interagem apenas com os dados do repositório de dados do SharePoint Online.
+O Project online está disponível por meio de duas assinaturas: Project online Professional e Project Online Premium. Os recursos listados na seção [recursos do Project online](#project-online-features) interagem apenas com os dados do repositório de dados do SharePoint Online.
+
+A funcionalidade de membros da equipe para o Project online está disponível por meio de uma assinatura do [Project online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . O Project online Essentials é uma assinatura *complementar* de membros da equipe para clientes que tenham assinaturas do Project online Professional ou do Project Online Premium. Ele fornece aos membros da equipe uma interface da Web para executar atualizações de tarefas e de tempo para projetos gerenciados no Project online. 
+
+Os membros da equipe com o Project online Essentials podem executar as seguintes funções do Project online:
+
+- Usar uma interface baseada na Web
+- Atualizar tarefas, problemas e riscos
+- Enviar quadros de horários
+- Compartilhar documentos e colaborar com o Microsoft Teams ou usuários do Skype for Business
+
+O Project online Essentials não inclui o Project para a Web.
 
 ### <a name="project-online-desktop-client"></a>Cliente da área de trabalho do Project online
 
@@ -231,7 +242,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 |Classificação e agrupamento | Use classificação e agrupamento personalizados para obter uma visão focalizada do seu projeto, tarefas e recursos.|
 |**Personalização e integração**||
 |Campos personalizados | Adicione campos personalizados no nível do projeto, da tarefa e do recurso para rastrear os dados importantes para sua organização e seus projetos. |
-|Forms | Crie e implante formulários personalizados para capturar dados importantes do projeto. |
+|Formulários | Crie e implante formulários personalizados para capturar dados importantes do projeto. |
 |Fórmula | Calcule e Capture dados importantes usando fórmulas entre tarefas e projetos. |
 |Modelos | Criar modelos para projetos comuns, incluindo planos de projeto, equipes e atribuições. |
 |importação/exportação. mpp | Criar novos projetos a partir de arquivos. mpp existentes ou criar um arquivo. mpp de um projeto existente. |
@@ -247,7 +258,15 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 
 ### <a name="use-of-sharepoint-online"></a>Usar o SharePoint Online
 
-O Project online requer o uso do SharePoint Online, que é provisionado para você como parte do Project online. Os direitos para a funcionalidade do SharePoint Online fornecida com o Project online Professional ou Premium limitam-se a armazenar e acessar dados para oferecer suporte ao Project online.
+O Project online requer o uso do SharePoint Online, que é provisionado como parte do Project online. Os direitos para a funcionalidade do SharePoint Online fornecida com o Project online Professional ou Premium limitam-se a armazenar e acessar dados para oferecer suporte ao Project online.
+
+### <a name="project-roadmap-and-microsoft-flow"></a>Roteiro do projeto e Microsoft Flow
+
+O mapa do projeto requer o uso do Microsoft Flow, que é provisionado como parte da sua assinatura de projeto. Os direitos para a funcionalidade de fluxo da Microsoft são limitados aos recursos de fluxo da Microsoft exigidos pelo mapa do projeto. A funcionalidade de fluxo da Microsoft exigida pelo mapa de projeto aparece como o plano de **integração de dados do Project com fluxo** de serviço na seção **aplicativos** do centro de administração do Microsoft 365.
+
+### <a name="project-for-the-web-and-common-data-service"></a>Projeto para o serviço da Web e de dados comuns
+
+O Project para a Web requer o uso do serviço de dados comuns (CDS) para armazenar seus dados. Os CDS são provisionados como parte da sua assinatura de projeto. Os direitos à funcionalidade de CDS estão limitados a armazenar e acessar dados para dar suporte ao Project para a Web. A funcionalidade de CDS necessária para o Project aparece como o **serviço de dados comuns para** o plano de serviço do Project na seção **aplicativos** do centro de administração do Microsoft 365.
 
 ### <a name="data-backup-and-retention"></a>Backup e retenção de dados
 
@@ -266,7 +285,7 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 |Número. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Número. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para a tarefa | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Projeto** ||
 |Número. total de tarefas do projeto | 500 |
 |Número. duração total do projeto | 3650 dias (10 anos) |
 |Número. total de recursos para o projeto | 150 |
