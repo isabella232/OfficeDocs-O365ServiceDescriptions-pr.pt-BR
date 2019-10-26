@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: O SharePoint Online é uma coleção de ferramentas e tecnologias baseadas na Web que ajudam sua organização a armazenar, compartilhar e gerenciar informações digitais. Criado com base no Microsoft SharePoint Server 2013, este serviço hospedado é ideal para trabalhar com projetos, armazenar dados e documentos em um local central e compartilhar informações. Os recursos de Conteúdo a seguir tornam o ECM (Gerenciamento de Conteúdo Corporativo) simples para todos. Eles combinam gerenciamento de conteúdo tradicional, recursos sociais e pesquisa avançada.
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726258"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733952"
 ---
 # <a name="content"></a>Conteúdo
 
@@ -172,7 +172,7 @@ Os usuários do SharePoint têm uma Lixeira onde o conteúdo excluído é armaze
     
 As personalizações dos sites feitas por meio do SharePoint Designer são capturadas pela Lixeira. 
   
-Para saber mais, confira [Gerenciar a Lixeira de um conjunto de sites do SharePoint](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
+Para saber mais, confira [Gerenciar a Lixeira de um conjunto de sites do SharePoint](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
   
 ## <a name="search-web-parts"></a>Web Parts de pesquisa
 

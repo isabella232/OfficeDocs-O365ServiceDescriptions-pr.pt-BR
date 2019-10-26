@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Se você for um administrador, poderá encontrar instruções detalhadas para configurar os recursos do Skype for Business online em configurar o Skype for Business online.
-ms.openlocfilehash: b149dff807a32beced9bc5358435075229acda57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726077"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733792"
 ---
 # <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
 
@@ -113,11 +113,11 @@ Para ver os tópicos mais recentes da ajuda do administrador do Skype for Busine
 
 A audioconferência é qualquer conferência na qual pelo menos um participante disca para a parte de áudio usando um telefone. A capacidade de usar um telefone para acessar uma reunião é útil para pessoas que estão viajando ou que não podem participar de uma reunião usando um PC ou dispositivo móvel. Em outras situações, usar um telefone também pode ser uma opção melhor, como quando a conectividade com a Internet é limitada ou quando uma reunião é apenas de áudio.
   
-Com a audioconferência, os usuários da organização criam e hospedam reuniões com números de acesso telefônico. Os chamadores podem usar esses números para entrar em uma reunião pelo telefone. Os usuários que entrarem na reunião por telefone terão acesso apenas ao áudio, não a mensagens instantâneas, áreas de trabalho ou arquivos compartilhados. Basta configurar uma conferência discada para os usuários que pretendem agendar ou conduzir reuniões. A menos que o organizador bloqueie a reunião, todos que tiverem o número de acesso e a ID da Conferência poderão ingressar nela. Saiba mais em [Introdução à audioconferência](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) e [Números disponíveis para audioconferência](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Com a audioconferência, os usuários da organização criam e hospedam reuniões com números de acesso telefônico. Os chamadores podem usar esses números para entrar em uma reunião pelo telefone. Os usuários que entrarem na reunião por telefone terão acesso apenas ao áudio, não a mensagens instantâneas, áreas de trabalho ou arquivos compartilhados. Basta configurar uma conferência discada para os usuários que pretendem agendar ou conduzir reuniões. A menos que o organizador bloqueie a reunião, todos que tiverem o número de acesso e a ID da Conferência poderão ingressar nela. Saiba mais em [Introdução à audioconferência](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) e [Números disponíveis para audioconferência](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 Você habilita a conferência discada usando o Office 365 como o provedor de conferência discada ou usando um provedor de conferência discada de terceiros (também chamado de provedor de serviços de audioconferência ou ACP).
   
-A audioconferência não está disponível em todos os países ou regiões. Confira a lista de países ou regiões nos quais é possível adquirir a audioconferência em [Onde você pode obter a audioconferência?](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+A audioconferência não está disponível em todos os países ou regiões. Confira a lista de países ou regiões nos quais é possível adquirir a audioconferência em [Onde você pode obter a audioconferência?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans-in-office-365"></a>Planos de Chamadas no Office 365
 

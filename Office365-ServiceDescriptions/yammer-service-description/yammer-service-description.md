@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
-ms.openlocfilehash: ee9aebc28f97756a5291ab8ad5f292d8b4659d18
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726448"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733572"
 ---
 # <a name="yammer-service-description"></a>Descrição de serviços do Yammer
 
@@ -25,7 +25,7 @@ Yammer é uma rede social corporativa excelente, segura e privada. O Yammer perm
   
 Para obter uma lista de planos do Office 365 que incluem o Yammer, consulte [Famílias e planos do serviço Office 365](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
-Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 > [!TIP]
 > Você pode exportar, salvar e imprimir páginas nas Descrições de Serviço do Office 365. Saiba como [exportar várias páginas](https://go.microsoft.com/fwlink/?LinkId=403349). 
@@ -114,7 +114,7 @@ Precisa de ajuda para saber qual plano do Yammer é o melhor para as necessidade
 |[Gerenciamento de sessão](administration-and-security-features-in-yammer.md#session-management) <br/> |Não  <br/> |Sim  <br/> |
 |[Firewall lógico](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |Não  <br/> |Sim  <br/> |
 |[Política de uso](administration-and-security-features-in-yammer.md#usage-policy) <br/> |Não  <br/> |Sim  <br/> |
-|[FastTrack Center](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |Não  <br/> |Sim  <br/> |
+|[FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |Não  <br/> |Sim  <br/> |
 |[Suporte ao cliente](support-features-in-yammer.md#customer-support) <br/> |Sim  <br/> |Sim  <br/> |
 |[Suporte para administradores](support-features-in-yammer.md#administrator-support) <br/> |Não  <br/> |Sim  <br/> |
 |[Modo de conteúdo particular do administrador](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |Não  <br/> |Sim  <br/> |
