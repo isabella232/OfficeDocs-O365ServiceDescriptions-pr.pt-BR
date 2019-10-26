@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Como um parceiro autorizado Microsoft, o Microsoft Office 365 lhe oferece uma oportunidade de expandir sua base de clientes e criar relacionamentos duradouros com eles. Por uma taxa mensal ou anual paga a você, seus clientes podem usar serviços baseados em nuvem para que não precisem gerenciar backups de dados, hardware de servidor e atualizações de servidor. Os serviços disponíveis para você dependem dos tipos de serviços que você está autorizado a oferecer.
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582107"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734078"
 ---
 # <a name="partners"></a>Parceiros
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582107"
 Como um parceiro autorizado Microsoft, o Microsoft Office 365 lhe oferece uma oportunidade de expandir sua base de clientes e criar relacionamentos duradouros com eles. Por uma taxa mensal ou anual paga a você, seus clientes podem usar serviços baseados em nuvem para que não precisem gerenciar backups de dados, hardware de servidor e atualizações de servidor. Os serviços disponíveis para você dependem dos tipos de serviços que você está autorizado a oferecer.
   
 > [!NOTE]
-> Saiba mais sobre como usar recursos de parceiros em [Crie um negócio e administre a sua assinatura de parceiro do Office 365](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) e assista à apresentação sobre os recursos de parceiros. Para ter acesso aos recursos de parceiros, ingresse no Cloud Essentials assinando o [Contrato do Parceiro dos Serviços Online da Microsoft](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
+> Saiba mais sobre como usar recursos de parceiros em [Crie um negócio e administre a sua assinatura de parceiro do Office 365](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) e assista à apresentação sobre os recursos de parceiros. Para ter acesso aos recursos de parceiros, ingresse no Cloud Essentials assinando o [Contrato do Parceiro dos Serviços Online da Microsoft](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>Criar convites de avaliação e pedidos de compra
 
@@ -47,9 +47,9 @@ Mesmo que um cliente tenha autorizado um parceiro a desempenhar tarefas administ
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Conectar-se a clientes e outros parceiros no Office 365 Marketplace
 
-O Office 365 Marketplace oferece aos clientes a oportunidade de localizar serviços e conhecimento de parceiros. Para obter mais informações, confira [Como ser listado no Marketplace](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
+O Office 365 Marketplace oferece aos clientes a oportunidade de localizar serviços e conhecimento de parceiros. Para obter mais informações, confira [Como ser listado no Marketplace](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
   
-O Microsoft Partner Network tem o compromisso de atender às necessidades de nossos parceiros. Para ingressar na rede e ver como a Microsoft atende aos seus parceiros, consulte [Microsoft Partner Network](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
+O Microsoft Partner Network tem o compromisso de atender às necessidades de nossos parceiros. Para ingressar na rede e ver como a Microsoft atende aos seus parceiros, consulte [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

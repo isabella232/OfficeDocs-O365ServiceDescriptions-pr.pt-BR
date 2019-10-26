@@ -1,5 +1,5 @@
 ---
-title: Recursos de Grupo no Yammer
+title: Recursos de grupo no Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,35 +12,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Os recursos de grupo a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: a036e1ad8f491b915c78171226c3a2bbe1db4952
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f8b7d31dfee3b56f5bbf3edf3eda64f01fe7c2a6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777972"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726344"
 ---
-# <a name="group-features-in-yammer"></a>Recursos de Grupo no Yammer
+# <a name="group-features-in-yammer"></a>Recursos de grupo no Yammer
 
 Os recursos de grupo a seguir estão disponíveis no Yammer.
   
+## <a name="announcements"></a>Announcements
+
+Compartilhe um anúncio com um grupo para notificar os membros de atualizações importantes instantaneamente. Os administradores podem fixar comunicados a um grupo para fácil descoberta.
+  
 ## <a name="groups"></a>Grupos
-<a name="bkmk_Groups"> </a>
 
-De comunicações departamentais até o lançamento da sua próxima campanha ou evento da empresa, configure um Grupo em segundos para qualquer equipe, projeto ou interesse.
+De comunicações departamentais para seu próximo evento de organização ou lançamento de campanha, configure um grupo em segundos para qualquer equipe, projeto ou interesse.
   
-## <a name="related-groups"></a>Grupos Relacionados
-<a name="bkmk_RelatedGroups"> </a>
+## <a name="related-groups"></a>Grupos relacionados
 
-Você pode adicionar e priorizar grupos relacionados àqueles nos quais você já ingressou para que os colegas de trabalho possam saber sobre pessoas, conteúdo e conversas importantes.
+Adicionar e priorizar grupos relacionados àqueles que você já ingressou para que os colegas de trabalho possam descobrir pessoas, conteúdo e conversas ainda mais relevantes.
   
-## <a name="announcements"></a>Comunicados
-<a name="bkmk_Announcements"> </a>
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Compartilhe um anúncio com um grupo para notificar os membros de atualizações importantes instantaneamente. Os administradores podem fixar os Anúncios em um grupo para que eles sejam vistos facilmente.
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Yammer](yammer-service-description.md).
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
-<a name="bkmk_Announcements"> </a>
-
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de serviços do Yammer](yammer-service-description.md).
-  
-

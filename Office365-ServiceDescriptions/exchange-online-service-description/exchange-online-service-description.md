@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581937"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701355"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de Serviço do Exchange Online
 
@@ -245,7 +245,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Email secundário|Não|Não|Sim|Sim|Sim|
 |MailTips|Sim|Sim|Sim|Sim|Sim|
 |Acesso de representante|Sim|Sim|Sim\|Sim|Não|
-|Regras da Caixa de Entrada|Sim|Sim|Sim|Sim|Não|
+|Regras da Caixa de Entrada|Sim|Sim|Sim|Sim|Sim|
 |Contas conectadas|Sim|Sim|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|
 |Caixas de correio inativas|Não|Não|Não <sup>6</sup>|Sim|Não<sup>6</sup>|
 |Offline address book|Sim|Sim|Sim|Sim|Sim|

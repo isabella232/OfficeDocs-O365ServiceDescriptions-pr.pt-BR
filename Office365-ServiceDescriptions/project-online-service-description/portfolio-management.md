@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Os recursos de gerenciamento de portfólio a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 2a415584b186ed9734688447ef9fcffac8011bcb
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633738"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733872"
 ---
 # <a name="portfolio-management"></a>Gerenciamento de portfólio
 
@@ -25,11 +25,11 @@ Procurando informações sobre todos os recursos do Project Online? Confira a [D
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analisar projetos e otimizar portfólios
 
-Analise seus projetos para determinar quais deles fornecerão o melhor retorno sobre o investimento de orçamento e recursos. Esse processo é conhecido como análise de portfólio. Para mais informações, confira [Usar o gráfico de dispersão de análise de portfólio](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
+Analise seus projetos para determinar quais deles fornecerão o melhor retorno sobre o investimento de orçamento e recursos. Esse processo é conhecido como análise de portfólio. Para mais informações, confira [Usar o gráfico de dispersão de análise de portfólio](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
   
 ## <a name="create-and-edit-projects"></a>Criar e editar projetos
 
-Crie projetos de várias maneiras. Para mais informações, confira [Criar um projeto no Project Web App](http://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
+Crie projetos de várias maneiras. Para mais informações, confira [Criar um projeto no Project Web App](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
   
 ## <a name="enterprise-resource-management"></a>Gerenciamento de recursos da empresa
 

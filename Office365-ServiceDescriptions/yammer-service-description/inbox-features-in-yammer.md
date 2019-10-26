@@ -1,5 +1,5 @@
 ---
-title: Recursos da Caixa de Entrada no Yammer
+title: Recursos de caixa de entrada no Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,30 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Os recursos para caixa de entrada a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 8e259ece1629b536b3782df5b523acf5bb747eea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: b9f74486b923ca062bf47e3daceb199816726fa6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777942"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726334"
 ---
-# <a name="inbox-features-in-yammer"></a>Recursos da Caixa de Entrada no Yammer
+# <a name="inbox-features-in-yammer"></a>Recursos de caixa de entrada no Yammer
 
 Os recursos para caixa de entrada a seguir estão disponíveis no Yammer.
   
 ## <a name="inbox"></a>Caixa de Entrada
-<a name="bkmk_Inbox"> </a>
 
-A caixa de entrada agrega automaticamente as suas @menções, anúncios de grupo, conversas e mensagens privadas para que você priorizar as respostas com facilidade.
+A caixa de entrada agrega automaticamente seus @mentions, anúncios de grupo, conversas e mensagens privadas, de forma que você possa priorizar as respostas facilmente.
   
-## <a name="inbox-search"></a>Pesquisa da Caixa de Entrada
-<a name="bkmk_InboxSearch"> </a>
+## <a name="inbox-search"></a>Pesquisa de caixa de entrada
 
-Pesquise em toda a sua caixa de entrada para encontrar rapidamente as conversas, mensagens privadas e anúncios.
+Pesquisa em toda a caixa de entrada para encontrar rapidamente conversas, mensagens privadas e comunicados.
   
-## <a name="feature-availability"></a>Disponibilidade do recurso
-<a name="bkmk_InboxSearch"> </a>
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição de serviços do Yammer](yammer-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Yammer](yammer-service-description.md).
   
 

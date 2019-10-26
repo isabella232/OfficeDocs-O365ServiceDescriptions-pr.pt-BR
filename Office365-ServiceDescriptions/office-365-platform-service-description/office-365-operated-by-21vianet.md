@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701703"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734139"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -200,8 +200,8 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 <sup>6</sup> Reduzir usuários adquiridos com um desconto pode estar sujeito a uma taxa de cancelamento antecipado. Isso não é aplicável para assinaturas pagas mensalmente.<br/>
 <sup>7</sup> os planos de educação do Office 365 não dão suporte a alterações de assentos de licenças do centro de administração do Microsoft 365.<br/>
 <sup>8</sup> O Microsoft Sway não está disponível atualmente para clientes de determinadas áreas geográficas. Alguns planos herdados do Office 365, que já não são comercializados desde agosto de 2015, podem não ter acesso ao Microsoft Sway. <br/>
-<sup>9</sup> para Office 365 operado pela 21vianet, confira o contrato de nível de serviço [aqui](http://www.21vbluecloud.com/office365/O365-SLA/).<br/>
-<sup>10</sup> para o Office 365 operado pela 21vianet, confira o [contrato padrão de serviços online do o para o Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/).
+<sup>9</sup> para Office 365 operado pela 21vianet, confira o contrato de nível de serviço [aqui](https://www.21vbluecloud.com/office365/O365-SLA/).<br/>
+<sup>10</sup> para o Office 365 operado pela 21vianet, confira o [contrato padrão de serviços online do o para o Office 365](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/).
 <br/>
 <sup>11</sup> a política de conformidade da Internet da China requer que você obtenha um número de provedor de conteúdo da Internet (ICP) para um site público. Para obter mais informações, consulte o tópico correspondente ICP. <br/>
 <sup>12</sup> alguns conteúdos podem não se aplicar ao Office 365 operado pela 21vianet.<br/>

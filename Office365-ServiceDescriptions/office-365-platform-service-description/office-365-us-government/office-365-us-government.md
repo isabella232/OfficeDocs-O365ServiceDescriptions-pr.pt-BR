@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Esta seção fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365. Recomendamos que você leia esta seção suplementar junto com as descrições de serviço do Office 365.
-ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595231"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734229"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -124,15 +124,15 @@ Os clientes que escolhem o benefício de migração do [FastTrack](https://fastt
 
 Os clientes do governo dos EUA do Office 365 podem usar os serviços do Azure governamental ExpressRoute para se conectarem de forma privada a serviços do Office 365 compatíveis, em vez de se conectarem pela Internet pública.
   
-Para obter detalhes como provedores com suporte, modelos de preços e muito mais, examine as [informações do Azure ExpressRoute](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
+Para obter detalhes como provedores com suporte, modelos de preços e muito mais, examine as [informações do Azure ExpressRoute](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
   
-Para obter detalhes sobre o suporte do Office 365 para o Azure ExpressRoute, confira [Azure ExpressRoute para Office 365](http://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409).
+Para obter detalhes sobre o suporte do Office 365 para o Azure ExpressRoute, confira [Azure ExpressRoute para Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409).
   
 [Seção como usar esta descrição de serviço](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="system-requirements"></a>Requisitos do sistema
 
-Para requisitos de sistema dos planos do Office 365 US Government, confira [Requisitos de sistema do Office](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) no site de produtos do [office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409). 
+Para requisitos de sistema dos planos do Office 365 US Government, confira [Requisitos de sistema do Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) no site de produtos do [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409). 
   
 [Seção como usar esta descrição de serviço](office-365-us-government.md#how-to-use-this-service-description-section)
   

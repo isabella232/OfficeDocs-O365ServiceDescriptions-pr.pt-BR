@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação para a infraestrutura de email de uma organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar caixas de correio e itens excluídos.
-ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: aad8576e35af04eb819d9f5809f1862613298651
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581967"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734239"
 ---
 # <a name="high-availability-and-business-continuity"></a>Alta disponibilidade e continuidade de negócios
 
@@ -27,7 +27,7 @@ O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação 
 
 As caixas de correio do Exchange Online são replicadas continuamente para várias cópias de banco de dados, em data centers da Microsoft geograficamente dispersos, para fornecer recurso de restauração de dados no caso de falha da infraestrutura de mensagens local. Para falhas em grande escala, são iniciados procedimentos de gerenciamento de continuidade de serviço.
   
-Para saber mais sobre como a Microsoft protege seus dados, confira [Central de Confiabilidade do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Se você estiver usando o Office 365 operado pela 21Vianet, confira a [Central de confiabilidade da 21Vianet](http://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+Para saber mais sobre como a Microsoft protege seus dados, confira [Central de Confiabilidade do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Se você estiver usando o Office 365 operado pela 21Vianet, confira a [Central de confiabilidade da 21Vianet](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperação da caixa de correio excluída
 

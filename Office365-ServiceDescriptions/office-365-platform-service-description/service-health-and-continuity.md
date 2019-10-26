@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Os administradores do Microsoft Office 365 podem exibir o status dos serviços e descobrir quando a manutenção está agendada. As informações de integridade do serviço estão disponíveis a qualquer momento entrando no Office 365.
-ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633432"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734048"
 ---
 # <a name="service-health-and-continuity"></a>Continuidade e Integridade do Serviço
 
 Os administradores do Microsoft Office 365 podem exibir o status dos serviços e descobrir quando a manutenção está agendada. As informações de integridade do serviço estão disponíveis a qualquer momento entrando no Office 365.
   
 > [!NOTE]
-> Se você estiver usando o Office 365 operado pela 21Vianet, algumas das informações abaixo podem não se aplicar. Em vez disso, confira o [Contrato de Nível de Serviço da 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
+> Se você estiver usando o Office 365 operado pela 21Vianet, algumas das informações abaixo podem não se aplicar. Em vez disso, confira o [Contrato de Nível de Serviço da 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="view-status-of-services"></a>Exibir status dos serviços
 
@@ -75,7 +75,7 @@ Quando um incidente de serviço ocorre, a Microsoft reconhece que comunicações
 
 ### <a name="office-365-admin-app"></a>Aplicativo de Administração do Office 365
 
-O aplicativo admin para administradores de locatários do Office 365 oferece a capacidade de se conectar ao status do serviço do Office 365 da sua organização em qualquer lugar. Os administradores de locatários do Office 365 terão a capacidade de exibir as informações de integridade do serviço e as atualizações de status de manutenção de seus dispositivos móveis. Saiba mais na página [Perguntas frequentes sobre o aplicativo de administração](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+O aplicativo admin para administradores de locatários do Office 365 oferece a capacidade de se conectar ao status do serviço do Office 365 da sua organização em qualquer lugar. Os administradores de locatários do Office 365 terão a capacidade de exibir as informações de integridade do serviço e as atualizações de status de manutenção de seus dispositivos móveis. Saiba mais na página [Perguntas frequentes sobre o aplicativo de administração](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pacote de Gerenciamento do Office 365 para Microsoft System Center 2012 R2
 
@@ -115,7 +115,7 @@ Para todos os outros incidentes de serviço, o painel de integridade do serviço
 
 As ofertas do Microsoft Office 365 são disponibilizadas por sistemas altamente resilientes que ajudam a manter o desempenho máximo do serviço. As provisões de continuidade do serviço são parte do design do sistema Office 365. Essas provisões permitem que o Office 365 se recupere rapidamente de eventos inesperados, como falha de hardware ou do aplicativo, corrupção de dados ou outros incidentes que afetam os usuários. Essas soluções de continuidade de serviço aplicam-se também durante paralisações catastróficas (por exemplo, catástrofes naturais ou um incidente dentro de um data center da Microsoft que torna todo o data center inoperável).
   
-Observe que, após a recuperação de interrupções catastróficas, há um período de tempo antes de a redundância completa do data center ser restaurada para o serviço. Por exemplo, quando o Data Center 1 falha, os serviços são restaurados por recursos no Data Center 2. Entretanto, pode haver um período de tempo até que os serviços no Data Center 2 tenham suporte de continuidade de serviço, seja pelos recursos restaurados no Data Center 1 ou por novos recursos no Data Center 3. O [Contrato de Nível de Serviço](service-level-agreement.md) (SLA) do Office 365 se aplica durante esse tempo. O Office 365 operado pela 21Vianet tem um SLA diferente. Saiba mais no [site da 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
+Observe que, após a recuperação de interrupções catastróficas, há um período de tempo antes de a redundância completa do data center ser restaurada para o serviço. Por exemplo, quando o Data Center 1 falha, os serviços são restaurados por recursos no Data Center 2. Entretanto, pode haver um período de tempo até que os serviços no Data Center 2 tenham suporte de continuidade de serviço, seja pelos recursos restaurados no Data Center 1 ou por novos recursos no Data Center 3. O [Contrato de Nível de Serviço](service-level-agreement.md) (SLA) do Office 365 se aplica durante esse tempo. O Office 365 operado pela 21Vianet tem um SLA diferente. Saiba mais no [site da 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Garantir a disponibilidade de dados
 

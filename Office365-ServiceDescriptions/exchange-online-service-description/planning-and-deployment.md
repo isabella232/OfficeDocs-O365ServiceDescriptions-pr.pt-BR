@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581997"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733862"
 ---
 # <a name="planning-and-deployment"></a>Planejamento e implantação
 
@@ -38,7 +38,7 @@ Uma implantação somente em nuvem representa a modalidade em que sua organizaç
 
 Disponível para organizações locais do Microsoft Exchange 2003, Exchange 2007, Exchange 2010 e Exchange 2013, uma implantação híbrida oferece tanto uma configuração de coexistência de longo prazo, com algumas caixas de correio hospedadas no local e outras hospedadas no Exchange Online, ou um caminho de migração para hospedar todas as caixas de correio do usuário no Exchange Online. Uma implantação híbrida oferece às organizações a capacidade de levar a experiência e o controle administrativo cheio de recursos que elas possuem em suas organizações locais do Microsoft Exchange para a nuvem. Os recursos da implantação híbrida incluem transporte de email seguro, informações de disponibilidade do calendário compartilhado e acompanhamento de mensagens entre as organizações locais e do Exchange Online.
   
-Para saber mais sobre implantações híbridas, confira [Implantações híbridas do Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Se você estiver usando o Office 365 operado pela 21Vianet, confira [Configurando recursos de implantação híbrida do Exchange com o Office 365 operado pela 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
+Para saber mais sobre implantações híbridas, confira [Implantações híbridas do Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Se você estiver usando o Office 365 operado pela 21Vianet, confira [Configurando recursos de implantação híbrida do Exchange com o Office 365 operado pela 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
   
 > [!IMPORTANT]
 > As organizações locais do Exchange 2003 devem instalar no mínimo um servidor de Acesso de Cliente/Caixa de Correio do Exchange 2010, para configurar uma implantação híbrida com o Exchange Online. As organizações locais do Exchange 2007 devem instalar no mínimo um servidor de Acesso de Cliente e Caixa de Correio do Exchange 2010, ou do Exchange 2013, para configurar uma implantação híbrida com o Exchange Online. As organizações locais do Exchange 2010 e Exchange 2013 suportam, de forma nativa, as implantações híbridas com o Exchange Online. Para saber mais sobre a compatibilidade do servidor Exchange em implantações híbridas, confira [Pré-requisitos da implantação híbrida](https://go.microsoft.com/fwlink/p/?LinkId=243541)> As organizações locais do Exchange devem configurar sua organização para uma implantação híbrida. É altamente recomendável que os administradores usem o Assistente de Implantação do Exchange Server e o Assistente de Configuração Híbrida, para configurar a implantação híbrida. Saiba mais em [Assistente de Implantação do Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036)

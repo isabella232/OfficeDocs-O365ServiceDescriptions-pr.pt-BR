@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário.
-ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777472"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734028"
 ---
 # <a name="office-365-service-descriptions"></a>Descrições dos serviços do Office 365 
 
 O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário. 
   
-Os tópicos desta biblioteca fornecem descrições detalhadas dos serviços e dos recursos disponíveis com o Office 365. Para comparar recursos entre planos, confira [Comparar planos do Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou a descrição do serviço relevante na lista abaixo. 
+Os tópicos desta biblioteca fornecem descrições detalhadas dos serviços e dos recursos disponíveis com o Office 365. Para comparar recursos entre planos, confira [Comparar planos do Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou a descrição do serviço relevante na lista abaixo. 
   
 Para pesquisar os artigos de suporte e as informações, consulte [Suporte do Office](https://support.office.com/).
   
@@ -75,7 +75,7 @@ Para começar, consulte as seguintes descrições de serviço:
 - [Descrição do Serviço do Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
-> <sup>1</sup> Inclui disponibilidade de [recursos do pacote](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx), como o Microsoft Delve, o Microsoft MyAnalytics, o Microsoft Sway e o Microsoft Teams. 
+> <sup>1</sup> Inclui disponibilidade de [recursos do pacote](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), como o Microsoft Delve, o Microsoft MyAnalytics, o Microsoft Sway e o Microsoft Teams.
   
 ## <a name="disclaimer"></a>Aviso de isenção de responsabilidade
 

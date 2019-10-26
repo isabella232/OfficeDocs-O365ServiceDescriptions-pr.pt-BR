@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581917"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734219"
 ---
 # <a name="clients-and-mobile-devices"></a>Clientes e dispositivos móveis
 
@@ -47,7 +47,7 @@ O Outlook na Web vem com duas versões para clientes, ambas podem ser usadas com
 
 - **Versão light do Outlook na Web** A versão light do Outlook na Web fornece aos usuários do Exchange Online acesso à caixa de correio, usando quase nenhum navegador da web. Os usuários podem ler e enviar mensagens, organizar contatos e agendar compromissos e reuniões. O tempo limite padrão com base na atividade é de seis horas, mas pode ser [configurado por um administrador no Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Esse tempo limite depende das interações do usuário no aplicativo Web, como a seleção de um botão ou a seleção de uma mensagem. Há também um tempo limite separado controlado pela segurança, que não é configurável e não depende da atividade do usuário para ocorrer. Se um usuário estiver conectado por 8 horas, a versão light do OWA desconectará o usuário automaticamente e exigirá uma nova autenticação. 
 
-O Outlook na Web também está disponível em versões para celular. Para saber mais, confira [esta página](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
+O Outlook na Web também está disponível em versões para celular. Para saber mais, confira [esta página](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
 ## <a name="outlook-for-mac"></a>Outlook para Mac
 
@@ -59,7 +59,7 @@ O Exchange Online funciona com aplicativos do Outlook disponíveis para iOS, And
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilidade do aplicativo móvel do Outlook  <br/> |Sim  <br/> [Obter o Outlook para Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sim  <br/> [Obter o Outlook para iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Interno  <br/> |
 |Aplicativos de email internos compatíveis com o Exchange Online  <br/> |Aplicativo de email do Gmail/Samsung  <br/> |aplicativo de email iOS  <br/> |Email, calendário, contatos do Outlook  <br/> |
 |Mais informações  <br/> |[Configuração móvel do Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configuração de iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuração do Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |

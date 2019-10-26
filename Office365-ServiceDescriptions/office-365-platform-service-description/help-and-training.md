@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: O Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
-ms.openlocfilehash: 537388fdbd104591ee746cf5629b0b7e7e3355cb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 3dbeb76225c641cb57d5cbc849df2d56fcecf3cb
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595209"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734149"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ O Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
   
 ## <a name="online-help"></a>Ajuda online
 
-Os artigos e vídeos de ajuda estão disponíveis em qualquer link de ajuda embutida no serviço, incluindo o ícone de ajuda na barra de navegação superior do portal do Office 365 e do centro de administração do Microsoft 365. Você também pode pesquisar toda a ajuda Office 365 em [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Os artigos e vídeos de ajuda estão disponíveis em qualquer link de ajuda embutida no serviço, incluindo o ícone de ajuda na barra de navegação superior do portal do Office 365 e do centro de administração do Microsoft 365. Você também pode pesquisar toda a ajuda Office 365 em [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Treinamento
 
@@ -46,7 +46,7 @@ O treinamento está disponível por meio de vídeos, seminários na Web e aulas 
 ## <a name="community"></a>Comunidade
 
 > [!NOTE]
-> Os recursos da comunidade se aplicam às versões do Office 365 em todo o mundo. Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar o WeChat. Confira [Obter suporte técnico, de cobrança e de assinatura do Office 365 operado pela 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) e role até a parte inferior da página para obter um código QR. 
+> Os recursos da comunidade se aplicam às versões do Office 365 em todo o mundo. Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar o WeChat. Confira [Obter suporte técnico, de cobrança e de assinatura do Office 365 operado pela 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) e role até a parte inferior da página para obter um código QR. 
   
 A Office 365 comunidade é o único destino para obter informações de suporte de autoajuda. Tem as últimas informações para ajudar os clientes a encontrarem respostas para várias perguntas técnicas, de faturamento e serviços por meio de fóruns de suporte, wikis e blogs. Os fóruns de suporte são assistidos e moderados pelos agentes de suporte da Microsoft.
   
@@ -104,9 +104,9 @@ Além da ajuda online e da Comunidade do Office 365, o Office 365 inclui os segu
     
 - **Vídeos de suporte técnico** Inglês - apenas vídeos de solução de problemas com instrução foram desenvolvidos com base nas perguntas feitas com frequência pelos clientes. Existem mais de 35 vídeos individuais e haverá mais a cada semana. Os tópicos variam desde uma visão geral do centro de administração BlackBerry® até ativar e migrar a sincronização de diretórios. Para exibir esses vídeos, acesse o site da comunidade Office 365 e pesquise os vídeos. Os clientes são encorajados a enviarem uma solicitação de um vídeo por meio do portal da comunidade. Os clientes também podem navegar para os canais [YouTube do Office 365](https://go.microsoft.com/fwlink/?LinkId=272059) e [Showcase](https://go.microsoft.com/fwlink/?LinkId=272060). 
     
-- **Mídia social** Seguir o Office 365 no [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) e [LinkedIn](http://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) fornece um modo dos clientes e dos parceiros serem informados sobre o Office 365. Esse modo rápido e fácil de aprender o Office 365 permite que os clientes ouçam o que outras pessoas estão dizendo e são capazes de adicionar seus próprios comentários e tweets. Os profissionais de suporte da Microsoft monitoram a atividade do Facebook e do Twitter relacionada à Microsoft para ajudar com qualquer pergunta relativa ao suporte. Para encontrar os feeds mais atuais do Facebook com os tweets mais recentes, vá para a parte inferior da home page da comunidade do Office 365 para ouvir as discussões diárias entre clientes e parceiros. 
+- **Mídia social** Seguir o Office 365 no [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) e [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) fornece um modo dos clientes e dos parceiros serem informados sobre o Office 365. Esse modo rápido e fácil de aprender o Office 365 permite que os clientes ouçam o que outras pessoas estão dizendo e são capazes de adicionar seus próprios comentários e tweets. Os profissionais de suporte da Microsoft monitoram a atividade do Facebook e do Twitter relacionada à Microsoft para ajudar com qualquer pergunta relativa ao suporte. Para encontrar os feeds mais atuais do Facebook com os tweets mais recentes, vá para a parte inferior da home page da comunidade do Office 365 para ouvir as discussões diárias entre clientes e parceiros. 
     
-    Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar o WeChat. Confira [Obter suporte técnico, de cobrança e de assinatura do Office 365 operado pela 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) e role até a parte inferior da página para obter um código QR. 
+    Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar o WeChat. Confira [Obter suporte técnico, de cobrança e de assinatura do Office 365 operado pela 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) e role até a parte inferior da página para obter um código QR. 
     
 ## <a name="languages"></a>Idiomas
 
