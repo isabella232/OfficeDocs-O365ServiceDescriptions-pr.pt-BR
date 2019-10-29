@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Saiba mais sobre o espaço de armazenamento do OneDrive fornecido para cada plano de assinatura.
-ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582197"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733998"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descrição de Serviço do OneDrive for Business
 
-O OneDrive é um espaço de armazenamento online na nuvem que é fornecido aos usuários individuais licenciados em uma organização. Use-o para ajudar a proteger arquivos de trabalho e acessá-los em vários dispositivos. O OneDrive permite compartilhar arquivos, colaborar em documentos e sincronizar arquivos com seu computador. [Saiba mais sobre os recursos, funcionalidades e preços do OneDrive](https://go.microsoft.com/fwlink/?linkid=850345)  
+O OneDrive é um espaço de armazenamento online na nuvem que é fornecido aos usuários individuais licenciados em uma organização. Use-o para ajudar a proteger arquivos de trabalho e acessá-los em vários dispositivos. O OneDrive permite compartilhar arquivos, colaborar em documentos e sincronizar arquivos com seu computador. [Saiba mais sobre os recursos, funcionalidades e preços do OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).
   
 O OneDrive está incluído nos planos do Microsoft 365, Office 365 e do SharePoint Online, e também pode ser adquirido como um plano autônomo. 
     
@@ -63,7 +63,7 @@ Qualquer pessoa cujo plano inclua o OneDrive poderá usar o cliente de sincroniz
 
 **Acima de 1 TB a ilimitado**
  
-1 TB por usuário para assinaturas com até 5 usuários. Para assinaturas com 5 ou mais usuários (pode ser qualquer combinação de planos qualificados), a Microsoft fornecerá inicialmente 1 TB por usuário, o que os administradores podem aumentar para até 5 TB por usuário. (Para saber como, confira [Definir o espaço de armazenamento padrão para os usuários do OneDrive](/onedrive/set-default-storage-space).) Para solicitar armazenamento adicional, os administradores devem contatar o suporte da Microsoft.
+1 TB por usuário para assinaturas com até 5 usuários. Para assinaturas com 5 ou mais usuários (pode ser qualquer combinação de planos qualificados), a Microsoft fornecerá inicialmente 1 TB por usuário, o que os administradores podem aumentar para até 5 TB por usuário. (Para saber como, confira [Definir o espaço de armazenamento padrão para os usuários do OneDrive](/onedrive/set-default-storage-space).) Para solicitar armazenamento adicional, os administradores devem contatar o Suporte da Microsoft.
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
@@ -108,4 +108,3 @@ Para saber mais sobre os limites de arquivo e de sincronização, confira [limit
   
 Para planos que incluem armazenamento na nuvem ilimitado para usuários individuais, observe que limites podem se aplicar aos outros recursos que não sejam de armazenamento. 
   
-
