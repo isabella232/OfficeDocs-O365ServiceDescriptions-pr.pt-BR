@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700243"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765632"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -33,16 +33,13 @@ O Microsoft Project oferece os seguintes aplicativos para ajudar a atender às n
 
 Este artigo o ajudará a entender quais aplicativos são fornecidos em cada assinatura de projeto e quais recursos cada aplicativo oferece.
 
-> [!NOTE]
-> Em 29 de outubro de 2019, as assinaturas do Project online Professional e do Project Online Premium serão renomeadas para o plano de projeto 3 e o plano de projeto 5, respectivamente.
-
 ### <a name="project-for-the-web"></a>Projeto para a Web
 
 O Project para a Web é a oferta mais recente da Microsoft para o gerenciamento de projetos e trabalhos em nuvem. O Project para a Web fornece recursos de gerenciamento de trabalho simples e eficientes para atender à maioria das necessidades e funções. Os gerentes de projeto e os membros da equipe podem usar o Project para a Web para planejar e gerenciar o trabalho de qualquer tamanho.
 
 O Project para a Web é criado na plataforma de alimentação da Microsoft. A plataforma de alimentação consiste em PowerApps, Microsoft Flow, Power BI e o serviço de dados comuns (CDS). O Project para os dados da Web é armazenado em CDS. 
 
-O Project para a Web está disponível em duas assinaturas: Project online Professional e Project Online Premium. Os recursos listados no [projeto para a seção recursos da Web](#project-for-the-web-features) interagem apenas com os dados do projeto para o repositório de dados da Web.
+O Project para a Web está disponível por meio de três assinaturas: plano de projeto 1, plano de projeto 3 e plano de projeto 5. Os recursos listados no [projeto para a seção recursos da Web](#project-for-the-web-features) interagem apenas com os dados do projeto para o repositório de dados da Web.
 
 ### <a name="project-online"></a>Project Online
  
@@ -50,9 +47,9 @@ O Project online é uma solução online flexível para o gerenciamento de portf
 
 O Project online foi criado na plataforma do SharePoint e armazena dados no repositório de dados do SharePoint.
 
-O Project online está disponível por meio de duas assinaturas: Project online Professional e Project Online Premium. Os recursos listados na seção [recursos do Project online](#project-online-features) interagem apenas com os dados do repositório de dados do SharePoint Online.
+O Project online está disponível por meio de duas assinaturas: plano de projeto 3 e plano de projeto 5. Os recursos listados na seção [recursos do Project online](#project-online-features) interagem apenas com os dados do repositório de dados do SharePoint Online.
 
-A funcionalidade de membros da equipe para o Project online está disponível por meio de uma assinatura do [Project online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . O Project online Essentials é uma assinatura *complementar* de membros da equipe para clientes que tenham assinaturas do Project online Professional ou do Project Online Premium. Ele fornece aos membros da equipe uma interface da Web para executar atualizações de tarefas e de tempo para projetos gerenciados no Project online. 
+A funcionalidade de membros da equipe para o Project online está disponível por meio de uma assinatura do Project online Essentials. O Project online Essentials é uma assinatura *complementar*de membros da equipe para clientes que tenham o plano de projeto 3 ou assinaturas do Project Plan. Ele fornece aos membros da equipe uma interface da Web para executar atualizações de tarefas e de tempo para projetos gerenciados no Project online.
 
 Os membros da equipe com o Project online Essentials podem executar as seguintes funções do Project online:
 
@@ -65,7 +62,7 @@ O Project online Essentials não inclui o Project para a Web.
 
 ### <a name="project-online-desktop-client"></a>Cliente da área de trabalho do Project online
 
-Microsoft Project Online Desktop Client é um programa de gerenciamento de projetos que apresenta programação automatizada, gerenciamento de recursos do projeto e relatórios internos. O cliente da área de trabalho do Project online pode ser usado como um aplicativo autônomo ou pode se conectar ao Project online. Project Online Desktop Client é a versão de assinatura do cliente da área de trabalho do Project online e está disponível nas assinaturas do Project online Professional e do Project Online Premium.
+Microsoft Project Online Desktop Client é um programa de gerenciamento de projetos que apresenta programação automatizada, gerenciamento de recursos do projeto e relatórios internos. O cliente da área de trabalho do Project online pode ser usado como um aplicativo autônomo ou pode se conectar ao Project online. Project Online Desktop Client é a versão de assinatura do cliente da área de trabalho do Project online e está disponível no plano de projeto 3 e nas assinaturas do Project Plan 5.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Usando o Project para a Web e o Project online juntos
 
@@ -79,21 +76,21 @@ No futuro, a Microsoft se concentrará no Project para as inovações da Web. No
 
 ## <a name="microsoft-project-subscriptions"></a>Assinaturas do Microsoft Project
 
-O Microsoft Project está disponível por meio de duas assinaturas diferentes para atender melhor às necessidades da sua organização. Para comparar recursos entre assinaturas, confira [recursos de disponibilidade entre aplicativos e assinaturas](#feature-availability-across-applications-and-subscriptions).
+O Microsoft Project está disponível por meio de três assinaturas diferentes para atender às necessidades da sua organização. Essas assinaturas são o plano de projeto 1, o plano de projeto 3 e o plano de projeto 5. Para comparar recursos entre assinaturas, confira [recursos de disponibilidade entre aplicativos e assinaturas](#feature-availability-across-applications-and-subscriptions).
 
-|Produto | Project Online Professional | Project Online Premium |
-|--------|-----------------------------|------------------------|
-|Projeto para a Web |**x x** |**x x**|
-|Project Online |**x x**|**x x x**|
-|Cliente da área de trabalho do Project online |**x**|**x**|
+|Produto | Plano 1 | Plano 3 | Plano 5 |
+|--------|-----------------------------|------------------------|------------------------|
+|Projeto para a Web |**x**  | **x x** | **x x** |
+|Project Online | |**x x**| **x x x** |
+|Cliente da área de trabalho do Project online | |**x**|**x**|
 
-Na tabela acima, o número de cheques (**x**) indica o nível geral de recursos fornecidos por um plano. Por exemplo, para o Project online, o Project Online Premium fornece mais recursos e o Project online Professional.
+Na tabela acima, o número de cheques (**x**) indica o nível geral de recursos fornecidos por um plano. Por exemplo, para o Project online, o plano 5 fornece mais recursos e, em seguida, plano 3.
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>Disponibilidade de recursos entre aplicativos e assinaturas
 
 ### <a name="project-for-the-web-features"></a>Projeto para recursos da Web
 
-Os recursos listados nesta seção interagem somente com dados no projeto para o repositório de dados da Web. Todos esses recursos estão disponíveis no Project online Professional e no Project Online Premium.
+Os recursos listados nesta seção interagem somente com dados no projeto para o repositório de dados da Web. Todos esses recursos estão disponíveis em todas as assinaturas do Microsoft Project: plano de projeto 1, plano de projeto 3 e plano de projeto 5.
 
 |Recurso | Descrição |
 |--------|-------------|
@@ -110,7 +107,7 @@ Os recursos listados nesta seção interagem somente com dados no projeto para o
 |Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup>|
 |**Gerenciamento de recursos e programas**||
 |Configuração da equipe de projeto | Gerenciar uma equipe de projeto adicionando e removendo membros e definindo o calendário de trabalho.|
-|Roteiros | Crie mapas visuais e interativos entre projetos do Microsoft Project online, do Microsoft Project para os projetos Web e do Azure Boards. <sup>2</sup>|
+|Roteiros | Crie mapas visuais e interativos entre projetos do Microsoft Project online, do Microsoft Project para os projetos Web e do Azure Boards. <sup>2</sup> com o plano de projeto 1 você obtém acesso somente leitura aos mapas. Com o plano de projeto 3 ou o plano de projeto 5, você também pode criar mapas. |
 |**Relatório**<sup>3</sup>||
 |Relatórios prontos para uso | Use relatórios pré-criados para entender os dados do projeto, do programa, do portfólio e do recurso.|
 |Relatórios personalizados | Entenda os dados importantes para a sua organização criando relatórios personalizados com base em relatórios prontos para uso ou a partir do zero.|
@@ -122,7 +119,7 @@ Os recursos listados nesta seção interagem somente com dados no projeto para o
 |Aplicativos móveis | Criar aplicativos móveis personalizados com o PowerApps. <sup>4</sup> |
 |**Personalização e integração**||
 |PowerApps | Construa e consuma soluções para Web e móveis com o PowerApps. <sup>4</sup> |
-|Fluxos de trabalho | Automatizar e integrar processos de negócios com o Microsoft Flow. <sup>5</sup> |
+|Workflows | Automatizar e integrar processos de negócios com o Microsoft Flow. <sup>5</sup> |
 |Integração do Microsoft Office 365 | Colabore, gerencie documentos e muito mais usando ferramentas e aplicativos conhecidos do Office 365. <sup>1</sup> |
 |**Gerenciamento de segurança e de usuários**||
 |Grupos modernos do Office | Crie uma equipe de projeto para colaborar com o e configurar facilmente uma coleção de recursos para que os membros da equipe compartilhem.|
@@ -131,7 +128,7 @@ Os recursos listados nesta seção interagem somente com dados no projeto para o
 
 Os recursos listados nesta seção interagem apenas com os dados do repositório de dados do SharePoint Online.
 
-|Recurso | Descrição | Project Online Professional | Project Online Premium |
+|Recurso | Descrição | Plano de projeto 3 | Plano de projeto 5 |
 |--------|-------------|-----------------------------|------------------------|
 |**Gerenciamento de projetos, tarefas e tempo**||||
 |Alertas e lembretes | Fique em dia para tarefas futuras importantes e eventos de projeto com lembretes no Outlook e no Microsoft Teams. <sup>1</sup>| Sim | Sim |
@@ -155,7 +152,7 @@ Os recursos listados nesta seção interagem apenas com os dados do repositório
 |Aprovações de quadro de horários | Os membros da equipe podem enviar quadros de horários para aprovação. Os gerentes de recursos e os supervisores podem revisar, aprovar e recusar quadros de horários enviados. | Sim | Sim |
 |Configuração de período de folga | Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. | Não | Sim |
 |**Colaboração** ||||
-|Attachments | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
+|Anexos | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
 |Membros externos da equipe |Colaborar com pessoas de fora de sua organização, concedendo a elas acesso para exibir e interagir com seus projetos, tarefas e documentos. <sup>6</sup> | Sim | Sim |
 |Sites de projeto | Criar e personalizar um hub para colaboração e documentos de um projeto. | Sim | Sim |
 Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim |
@@ -183,7 +180,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 |Custom fields | Adicione campos personalizados no nível do projeto, da tarefa e do recurso para rastrear os dados importantes para sua organização e seus projetos. | Sim | Sim |
 |Fórmula | Calcule e Capture dados importantes usando fórmulas entre tarefas e projetos. | Sim | Sim |
 |PowerApps | Construa e consuma soluções para Web e celular (por meio de OData) com PowerApps. <sup>4</sup> | Sim | Sim |
-|Fluxos de trabalho | Automatize e integre processos de negócios (por meio de OData) com o Microsoft Flow. <sup>5</sup> | Sim | Sim |
+|Workflows | Automatize e integre processos de negócios (por meio de OData) com o Microsoft Flow. <sup>5</sup> | Sim | Sim |
 |Integração do Microsoft Office 365 | Colabore, gerencie documentos e muito mais usando ferramentas e aplicativos conhecidos do Office 365. <sup>1</sup> | Sim | Sim |
 |Integração do Microsoft Planner | Conectar tarefas do projeto a um plano do Planner e acompanhar o trabalho detalhado no Planner. <sup>1</sup> | Sim | Sim |
 |**Gerenciamento de segurança, usuário e serviço**||||
@@ -196,11 +193,11 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 <sup>1</sup> requer uma assinatura comercial do Office ou do Microsoft 365.</br>
 <sup>2</sup> placas Azure adquiridas separadamente.</br>
 <sup>3</sup> os relatórios do Project para a Web e o Project online estão disponíveis usando o Power bi. Visualizar, editar e criar relatórios requer uma assinatura do Power BI pro. A Microsoft fornece um conjunto predefinido de relatórios do Power BI. Os usuários podem personalizar esses relatórios ou criar relatórios adicionais usando o Power BI.</br> 
-<sup>4</sup> criar aplicativos móveis personalizados do powerapps que acessam o Project para dados da Web requer uma assinatura do PowerApps e uma assinatura do Project online Professional ou do Project Online Premium.</br>
-<sup>5</sup> a automação e a integração dos processos de negócios com o Microsoft Flow com o Project para dados da Web requer uma assinatura de fluxo da Microsoft e uma assinatura do Project online Professional ou do Project Online Premium.</br>
-<sup>6</sup> o licenciamento do Project online para usuários externos segue a mesma política que para usuários internos. Qualquer interação em um site do Project online requer uma assinatura do Project online.</br>
-<sup>7</sup> os usuários com uma assinatura do Project online Professional podem enviar solicitações de compromisso de recurso. Eles não podem revisar, cumprir ou aprovar solicitações de contrato de recurso.</br>
-<sup>8</sup> os usuários com uma assinatura do Project Online Premium podem revisar, cumprir e aprovar solicitações de contrato de recurso.</br>
+<sup>4</sup> criar aplicativos móveis personalizados do powerapps que acessam o Project para dados da Web requer uma assinatura do PowerApps e uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
+<sup>5</sup> a automação e a integração dos processos de negócios com o Microsoft Flow com o Project para dados da Web requer uma assinatura de fluxo da Microsoft e uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
+<sup>6</sup> o licenciamento do Project online para usuários externos segue a mesma política que para usuários internos. Qualquer interação em um site do Project online requer uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
+<sup>7</sup> os usuários com um plano de projeto 3 ou uma assinatura do Project Plan 5 podem enviar solicitações de compromisso de recurso. Eles não podem revisar, cumprir ou aprovar solicitações de contrato de recurso.</br>
+<sup>8</sup> usuários com uma assinatura do plano de projeto 5 podem revisar, cumprir e aprovar solicitações de contrato de recurso.</br>
 <sup>9</sup> o Active Directory requer uma assinatura separada. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Recursos do cliente de área de trabalho do Project online
@@ -252,13 +249,14 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 
 ### <a name="licensing-considerations"></a>Considerações sobre licenciamento
 
-- Qualquer interação em um site do Project online requer uma assinatura do Project online.
-- Quando sua última assinatura do Project online Professional ou do Project Online Premium expirar, seu projeto para as instâncias do Web e do Project online será excluído após 120 dias.
+- Qualquer interação em um site do Project online requer uma assinatura do plano de projeto 3 ou do Project Plan 5.
+- Quando sua última assinatura do plano de projeto 1, plano de projeto 3 ou Project Plan 5 expirar, seu projeto para as instâncias da Web será excluído após 120 dias.
+- Quando a assinatura do plano de projeto 3 ou do Project plano 5 expirar, as instâncias do Project online serão excluídas após 120 dias.
 - Para o Project para as assinaturas de avaliação da Web e do Project online, suas instâncias de avaliação serão excluídas 30 dias após o término do período de avaliação.
 
 ### <a name="use-of-sharepoint-online"></a>Usar o SharePoint Online
 
-O Project online requer o uso do SharePoint Online, que é provisionado como parte do Project online. Os direitos para a funcionalidade do SharePoint Online fornecida com o Project online Professional ou Premium limitam-se a armazenar e acessar dados para oferecer suporte ao Project online.
+O Project online requer o uso do SharePoint Online, que é provisionado como parte do Project online. Os direitos para a funcionalidade do SharePoint Online fornecido com o Project Plan 3 ou o Project Plan 5 subscriptions limitam-se a armazenar e acessar dados para oferecer suporte ao Project online.
 
 ### <a name="project-roadmap-and-microsoft-flow"></a>Roteiro do projeto e Microsoft Flow
 

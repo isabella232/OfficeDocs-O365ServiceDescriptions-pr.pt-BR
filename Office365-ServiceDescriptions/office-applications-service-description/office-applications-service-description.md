@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: O Microsoft Office 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office com os quais você já está familiarizado, como o Word, o Excel e o PowerPoint.
-ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734018"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765622"
 ---
 # <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
@@ -32,11 +32,10 @@ Os aplicativos do Office estão disponíveis nas edições de 32 e 64 bits.
 Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilidade de recursos nos planos do Office 365
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 Use a tabela a seguir para comparar a disponibilidade de recursos nos planos do Office 365 e nas edições de licença por volume do Microsoft Office 2013 e Office 2016.
   
-Diversos planos do Office 365 para empresas têm complementos que você pode comprar para a sua assinatura. Um complemento oferece funcionalidade adicional à assinatura. Saiba mais em [Comprar ou editar um complemento do Office 365 para empresas](https://support.office.com/en-us/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
+Diversos planos do Office 365 para empresas têm complementos que você pode comprar para a sua assinatura. Um complemento oferece funcionalidade adicional à assinatura. Saiba mais em [Comprar ou editar um complemento do Office 365 para empresas](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -80,7 +79,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Suporte offline a aplicativos do cliente  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/>  |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
 |Power Map para Excel  <br/> |No<sup>4</sup> <br/> |Sim  <br/>|Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Power Pivot para Excel  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
-|Power Query para Excel  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
+|Power Query para Excel  <br/> |Não<sup>15</sup>  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Power View para Excel  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Configurações de roaming  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Ativação de computador compartilhado  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
@@ -90,7 +89,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Volume activation (KMS/MAK)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|No<sup>9</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não <br> |
    
 > [!NOTE]
-><sup>+</sup>Ao instalar o Office 365 ou o Office 2019, você obterá o OneNote para Windows 10 por padrão. Para obter mais informações, consulte [perguntas frequentes sobre o OneNote no Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>+</sup>Ao instalar o Office 365 ou o Office 2019, você obterá o OneNote para Windows 10 por padrão. Para obter mais informações, consulte [perguntas frequentes sobre o OneNote no Office 2019](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
 ><sup>++</sup>Acesso do aplicativo do OneNote aos blocos de anotações no SharePoint Server, SharePoint Online, OneDrive for Business e Office 365. <br/>
 ><sup>+++</sup>O suporte a BHO é uma tecnologia de extensão para o Internet Explorer. <br/>
 ><sup>1</sup> Os recursos de armazenamento em arquivo morto e conformidade são compatíveis com esta versão do Office, mas os planos do Exchange Online e do SharePoint Online não estão incluídos e devem ser adquiridos separadamente ou usados com os equivalentes com suporte do servidor local.<br/>
@@ -107,8 +106,9 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 <sup>12</sup> o InfoPath 2013 ainda é suportado e vem na instalação do Office Professional Plus 2016, mas não há nenhuma nova versão para o Office 2016.<br/> 
 <sup>13</sup> suporte somente para recursos básicos de edição.<br/> 
 <sup>14</sup> limitado a dispositivos com telas integradas medindo 10,1 polegadas ou menos diagonalmente.<br/> 
+<sup>15</sup> a consulta de energia é um suplemento gratuito que pode ser baixado aqui: [Baixe o suplemento de consulta de energia](https://www.microsoft.com/download/details.aspx?id=39379). Uma vez habilitado, a funcionalidade de consulta de energia está disponível na guia consulta de energia na faixa de opções.
+
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Disponibilidade de aplicativos do Office no Office para Mac nos planos do Office 365
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -123,6 +123,6 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |Sim  <br/> |Sim  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Não  <br/> |Não  <br/> |
    
-> <sup>1</sup> o Office 2016 para Mac requer o Mac OS X 10,10 ou posterior. Para clientes que se conectam ao Exchange pelo Outlook para Mac, é necessário ter Conectividade com o Microsoft Exchange Server 2010 Service Pack 2 ou posterior. Para saber mais, confira [requisitos de sistema do Office](https://products.office.com/en-US/office-system-requirements).<br/> 
-<sup>2</sup> Disponível como um download separado na App Store. Para saber mais, confira o artigo [OneNote para Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
-<sup>3</sup> o Office para Mac 2011 pode ser instalado, mas não ativado. 
+> <sup>1</sup> o Office 2016 para Mac requer o Mac OS X 10,10 ou posterior. Para clientes que se conectam ao Exchange pelo Outlook para Mac, é necessário ter Conectividade com o Microsoft Exchange Server 2010 Service Pack 2 ou posterior. Para saber mais, confira [requisitos de sistema do Office](https://products.office.com/en-US/office-system-requirements).<br/>
+<sup>2</sup> Disponível como um download separado na App Store. Para saber mais, confira o artigo [OneNote para Mac](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
+<sup>3</sup> o Office para Mac 2011 pode ser instalado, mas não ativado.
