@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: O Microsoft SharePoint Online no Office 365 permite que as pessoas compartilhem e trabalhem juntas, para informar e envolver outras pessoas na empresa, para transformar os processos de negócios e para aproveitar o conhecimento coletivo. Além disso, o SharePoint fornece recursos para que as organizações protejam e gerenciem dados e criem soluções personalizadas.
-ms.openlocfilehash: ec12aa14160415cc2de93742d05e7b80bcb3fa01
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726163"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890407"
 ---
 # <a name="sharepoint-online-service-description"></a>Descrição do serviço SharePoint Online
 
@@ -254,5 +254,5 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 <sup>16</sup> os formulários do InfoPath que contêm o código do usuário (área restrita) só podem ser consumidos no cliente avançado do InfoPath. <br/>
 <sup>17</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> F1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 F1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente. <br/>
-<sup>19</sup> a chave do cliente está disponível no Office 365 Enterprise e5. A chave do cliente permite controlar as chaves de criptografia da sua organização e, em seguida, configurar o Office 365 para usá-las para criptografar seus dados em repouso nos data centers da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business que são armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. A chave do cliente ajuda você a cumprir as obrigações de conformidade, pois você controla as chaves de criptografia que o Office 365 usa para descriptografar dados. Para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
+<sup>19</sup> a chave do cliente está disponível no Office 365 Enterprise e5. A chave do cliente permite controlar as chaves de criptografia da sua organização e, em seguida, configurar o Office 365 para usá-las para criptografar seus dados em repouso nos data centers da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business que são armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. A chave do cliente ajuda você a cumprir as obrigações de conformidade, pois você controla as chaves de criptografia que o Office 365 usa para descriptografar dados. Para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>20</sup> em breve. 

@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Para atender aos requisitos exclusivos e em evolução dos governos dos Estados Unidos, estaduais, locais e do tribal, bem como os prestadores de serviço que mantêm ou processam dados em nome do governo dos EUA, a Microsoft oferece serviços da comunidade de governos dos EUA (GCC) do Office 365. Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA.
-ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: ca481bdb6deb4d686dc713418a412b2085bb3127
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595279"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890417"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
 Para atender aos requisitos exclusivos e em evolução dos governos dos Estados Unidos, estaduais, locais e do tribal, bem como os prestadores de serviço que mantêm ou processam dados em nome do governo dos EUA, a Microsoft oferece serviços da comunidade de governos dos EUA (GCC) do Office 365. Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA. 
   
-Contate sua equipe de contas ou um parceiro preferido para saber mais ou para iniciar o processo de validação. Para saber mais, vá para a página [Planos do Office 365 Government](https://products.office.com/en-us/government/compare-office-365-government-plans). 
+Contate sua equipe de contas ou um parceiro preferido para saber mais ou para iniciar o processo de validação. Para saber mais, vá para a página [Planos do Office 365 Government](https://products.office.com/government/compare-office-365-government-plans). 
   
 ## <a name="how-to-use-this-service-description-section"></a>Como usar a seção Descrição de Serviço
 
@@ -69,7 +69,6 @@ O Microsoft MyAnalytics foi projetado e é operado de acordo com a implementaç�
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Suporte ao cliente da nuvem da Comunidade do governo norte-americano (GCC) do Office 365
 
-O suporte ao cliente do Office 365 GCC é fornecido com os mesmos termos e condições oferecidos às [versões mundiais do Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-), incluindo o local físico do agente de suporte ou garantias de cidadania. O Office 365 GCC opera em conjunto com a nuvem pública do Azure, que é compatível com os [termos e condições](https://azure.microsoft.com/en-us/support/plans/) a seguir.
+O suporte ao cliente do Office 365 GCC é fornecido com os mesmos termos e condições oferecidos às [versões mundiais do Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/support), incluindo o local físico do agente de suporte ou garantias de cidadania. O Office 365 GCC opera em conjunto com a nuvem pública do Azure, que é compatível com os [termos e condições](https://azure.microsoft.com/support/plans/) a seguir.
 
 A Microsoft o lembra de não compartilhar informações controladas, confidenciais ou confidenciais com a equipe de suporte como parte do seu incidente de suporte relacionado ao Office 365 GCC, até que você confirme a autorização para exibir ou acessar esses dados. A Microsoft está comprometida em [proteger sua privacidade.](https://privacy.microsoft.com/en-US/privacystatement ) O suporte ao cliente do Office 365 GCC não está incluído no limite de capacitação de serviço e não fornece FedRAMP, SRG, ITAR, administração de dados do IRS 1075 ou CJIS e/ou garantias de conformidade.

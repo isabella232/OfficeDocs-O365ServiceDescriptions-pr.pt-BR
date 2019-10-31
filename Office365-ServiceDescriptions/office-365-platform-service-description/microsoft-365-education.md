@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: a10f8c563481b00b76fceec7499a3bf01a7006a3
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 9fa0a7676df034deb61fb30971a7d1924854ca36
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595249"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890397"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -106,7 +106,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 > <sup>8</sup> inclui o Intune. <br/>
 > <sup>9</sup> servidores e CALs estão incluídos no Exchange, SharePoint e Skype for Business. <br/>
 > <sup>10</sup> ECAL ou a Cal principal, dependendo da versão de a3 que é adquirida — com a5, os direitos de ECAL são incluídos. <br/>
-> <sup>11</sup> para obter mais informações sobre o Azure Active Directory, confira [o que é o Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
+> <sup>11</sup> para obter mais informações sobre o Azure Active Directory, confira [o que é o Active Directory?](https://docs.microsoft.com/azure/active-directory/active-directory-whatis). <br/>
 > <sup>12</sup> o Office Pro Plus é necessário para aplicar proteções e enviar emails protegidos da área de trabalho do Outlook. 
   
 
