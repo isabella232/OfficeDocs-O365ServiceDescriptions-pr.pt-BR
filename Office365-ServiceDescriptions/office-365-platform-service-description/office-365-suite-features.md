@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734109"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911704"
 ---
 # <a name="office-365-suite-features"></a>Recursos do Pacote do Office 365
 
@@ -55,7 +55,7 @@ O Microsoft PowerApps é um serviço corporativo que o ajuda a criar, integrar e
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-O Microsoft StaffHub é um aplicativo baseado em nuvem que permite aos funcionários e gerentes usar os próprios dispositivos móveis para gerenciar agendas e manter contato. Os funcionários podem usar o StaffHub para solicitar folgas, trocar de turno e se comunicar com outros funcionários. Os funcionários também podem enviar mensagens diretamente entre si ou para toda a equipe. Os gerentes podem usar o StaffHub para enviar mensagens, criar escalas e enviar novidades da equipe ou comunicados da empresa. Para saber mais sobre o StaffHub, acesso o site do Microsoft [StaffHub](https://staffhub.office.com/) e o [blog Office 365 Team](https://blogs.office.com/2017/01/12/microsoft-staffhub-is-here/).
+O Microsoft StaffHub é um aplicativo baseado em nuvem que permite aos funcionários e gerentes usar os próprios dispositivos móveis para gerenciar agendas e manter contato. Os funcionários podem usar o StaffHub para solicitar folgas, trocar de turno e se comunicar com outros funcionários. Os funcionários também podem enviar mensagens diretamente entre si ou para toda a equipe. Os gerentes podem usar o StaffHub para enviar mensagens, criar escalas e enviar novidades da equipe ou comunicados da empresa. Para saber mais sobre o StaffHub, acesso o site do Microsoft [StaffHub](https://staffhub.office.com/) e o [blog Office 365 Team](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -79,7 +79,7 @@ Os grupos no Office 365 conectam usuários com os colegas, as informações e os
   
 ## <a name="office-365-video"></a>Vídeo do Office 365
 
-O Vídeo do Office 365 é um destino seguro para toda a empresa, no qual você pode carregar, compartilhar e descobrir vídeos em seus dispositivos, com a tecnologia dos Serviços de Mídia do Microsoft Azure. O Vídeo do Office 365 pode ajudar a manter os visualizadores envolvidos e informados, comunicar ideias de forma ampla e manter as organizações sincronizadas. Para saber mais, confira [Introdução ao Vídeo do Office 365](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
+O Vídeo do Office 365 é um destino seguro para toda a empresa, no qual você pode carregar, compartilhar e descobrir vídeos em seus dispositivos, com a tecnologia dos Serviços de Mídia do Microsoft Azure. O Vídeo do Office 365 pode ajudar a manter os visualizadores envolvidos e informados, comunicar ideias de forma ampla e manter as organizações sincronizadas. Para saber mais, confira [Introdução ao Vídeo do Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Bloco de Anotações de Classe do OneNote
 

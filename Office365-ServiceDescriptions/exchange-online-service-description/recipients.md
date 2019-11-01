@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
-ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734199"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911714"
 ---
 # <a name="recipients"></a>Destinatários
 
@@ -58,7 +58,7 @@ O Exchange Online permite que os usuários criem regras de caixa de entrada que 
   
 ### <a name="clutter"></a>Email secundário
 
-O Email secundário foi desenvolvido para ajudar você a focar nas mensagens mais importantes da caixa de entrada. Ele utiliza o aprendizado de máquina para limpar a sua caixa de entrada movendo as mensagens de prioridade baixa para uma nova pasta do Email secundário. O Email secundário respeita as regras existentes do email; portanto, se você criou regras para organizar seu email, essas regras continuarão a ser aplicadas e o Email secundário não executará ações nestas mensagens. Por padrão, o Email secundário é desabilitado para a sua caixa de entrada. Para saber mais, confira [Limpar sua caixa de entrada no Office 365]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/).
+O Email secundário foi desenvolvido para ajudar você a focar nas mensagens mais importantes da caixa de entrada. Ele utiliza o aprendizado de máquina para limpar a sua caixa de entrada movendo as mensagens de prioridade baixa para uma nova pasta do Email secundário. O Email secundário respeita as regras existentes do email; portanto, se você criou regras para organizar seu email, essas regras continuarão a ser aplicadas e o Email secundário não executará ações nestas mensagens. Por padrão, o Email secundário é desabilitado para a sua caixa de entrada. Para saber mais, confira [Limpar sua caixa de entrada no Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
   
 ### <a name="connected-accounts"></a>Contas conectadas
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: O Microsoft Office 365 oferece suporte aos seguintes métodos para criar, gerenciar e autenticar usuários.
-ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
-ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
+ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890050"
+ms.locfileid: "37911784"
 ---
 # <a name="user-account-management"></a>Gerenciamento de Contas de Usuário
 
@@ -184,7 +184,7 @@ Parceiros podem ser autorizados a administrar contas em nome de clientes. O clie
   
 ## <a name="azure-active-directory-services"></a>Serviços do Azure Active Directory
 
-O Active Directory (AD) do Azure oferece recursos abrangentes de gerenciamento de identidade e acesso ao Office 365. Ele combina os serviços de diretório, gerenciamento avançado de identidades, gerenciamento de acesso a aplicativos e uma plataforma avançada baseada em padrões para os desenvolvedores. Para saber mais sobre os recursos do AD no Office 365, confira [Identidade visual da página de login e redefinição da senha de autoatendimento do usuário da nuvem](https://blogs.office.com/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Saiba mais sobre as [Edições Gratuita, Basic e Premium do Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+O Active Directory (AD) do Azure oferece recursos abrangentes de gerenciamento de identidade e acesso ao Office 365. Ele combina os serviços de diretório, gerenciamento avançado de identidades, gerenciamento de acesso a aplicativos e uma plataforma avançada baseada em padrões para os desenvolvedores. Para saber mais sobre os recursos do AD no Office 365, confira [Identidade visual da página de login e redefinição da senha de autoatendimento do usuário da nuvem](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Saiba mais sobre as [Edições Gratuita, Basic e Premium do Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

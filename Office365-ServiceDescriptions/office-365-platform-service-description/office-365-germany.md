@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
-ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734259"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911794"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
@@ -337,7 +337,7 @@ A tabela a seguir fornece links para comparações do Office para os recursos de
 
 ||||
 |:-----|:-----|:-----|
-|**Aplicativo**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
+|**Application**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
 |Word|Word para a Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para a Web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -786,7 +786,7 @@ A tabela a seguir exibe a opção independente do OneDrive for Business e os rec
 
 ## <a name="project-online-features"></a>Recursos do Project Online
 
-A tabela a seguir exibe os recursos do Project Online que estão disponíveis nos planos do Office 365 Germany. Saiba mais sobre o Project Online em [Introdução ao Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+A tabela a seguir exibe os recursos do Project Online que estão disponíveis nos planos do Office 365 Germany. Saiba mais sobre o Project Online em [Introdução ao Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|

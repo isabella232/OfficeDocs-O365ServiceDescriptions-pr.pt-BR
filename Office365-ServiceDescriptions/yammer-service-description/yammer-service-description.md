@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
-ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733572"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911824"
 ---
 # <a name="yammer-service-description"></a>Descrição de serviços do Yammer
 
@@ -49,7 +49,7 @@ O Yammer está disponível nos seguintes planos:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Política de comunicações de serviço do Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
 
-O Yammer faz parte do Office 365 e está em conformidade com a [política de gerenciamento de alterações do office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), mas não usa o lançamento direcionado para distribuir atualizações. 
+O Yammer faz parte do Office 365 e está em conformidade com a [política de gerenciamento de alterações do office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), mas não usa o lançamento direcionado para distribuir atualizações. 
   
 Todos os usuários do Yammer estão sujeitos ao teste de recurso A/B. Isso permite à Microsoft testar recursos para melhoria da estabilidade, do desempenho e da experiência em vários ambientes e dispositivos. Os usuários dentro da mesma rede podem ter experiências variadas devido ao teste. Os clientes não podem se recusar a fazer o teste A/B.
   
