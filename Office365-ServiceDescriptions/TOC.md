@@ -82,7 +82,7 @@
 ## [Descrição do serviço do Workplace Analytics](workplace-analytics-service-description.md)
 ## [Descrição do serviço do MyAnalytics](mya-service-description.md)
 ## [Descrição do Serviço Power BI](power-bi-service-description.md)
-## [Descrição do Serviço do Project Online](project-online-service-description/project-online-service-description.md)
+## [Descrição do Serviço do Microsoft Project](project-online-service-description/project-online-service-description.md)
 ### [Funcionalidade principal](project-online-service-description/core-functionality.md)
 ### [Planejamento de projetos](project-online-service-description/project-planning.md)
 ### [Gerenciamento de tarefas](project-online-service-description/task-management.md)
@@ -107,7 +107,7 @@
 ### [Recursos de Segurança e Administração no Yammer](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Recursos de Suporte no Yammer](yammer-service-description/support-features-in-yammer.md)
 ## Descrições dos Serviços do Microsoft 365
-### [Descrição dos Serviços do Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
-### [Diretrizes de Licenciamento dos Serviços no Nível do Locatário do Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+### [Descrição dos Serviços do Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md) 
+### [Diretrizes de Licenciamento dos Serviços no Nível do Locatário do Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
 ## [Descrição do Serviço do Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
 
