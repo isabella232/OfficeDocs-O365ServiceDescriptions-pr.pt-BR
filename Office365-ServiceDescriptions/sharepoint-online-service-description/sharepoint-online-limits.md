@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
-ms.openlocfilehash: 52ffb52601838a005ffaa6b05ba905590cd65e19
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5a75e3b8f51feb6b6dc7318355b09e3e3cc4909f
+ms.sourcegitcommit: fcfec093e77bafd9940d94c8c3439b2fa3e007f8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726180"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37932005"
 ---
 # <a name="sharepoint-online-limits"></a>Limites do SharePoint Online
 
@@ -27,7 +27,7 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 |**Recurso** <br/> |**Office 365 Business Essentials ou Business Premium** <br/> |**Office 365 Enterprise E1, E3 ou e5, ou SharePoint Online plano 1 ou 2** <br/> | **Office 365 Enterprise F1** <br/> |
 |Armazenamento total por organização<sup>1, 2</sup> <br/> |1 TB mais 10 GB por licença adquirida  <br/> |1 TB mais 10 GB por licença adquirida<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Máximo de armazenamento por conjunto de sites<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
-|Conjuntos de sites por organização  <br/> |1 milhão<sup>6</sup> <br/> |1 milhão<sup>6</sup> <br/> |1 milhão<br/> |
+|Conjuntos de sites por organização  <br/> |2 milhões<sup>6</sup> <br/> |2 milhões<sup>6</sup> <br/> |2 milhões<br/> |
 |Número de usuários  <br/> |Até 300  <br/> |1 a 500.000<sup>7</sup> <br/> |1 a 500.000<sup>7</sup> <br/> |
    
 <sup>1</sup> [saiba como encontrar o armazenamento total e disponível para sua organização](/sharepoint/manage-site-collection-storage-limits). Você pode adquirir uma quantidade ilimitada de armazenamento adicional do SharePoint. Consulte [Alterar o espaço de armazenamento de sua assinatura](/office365/admin/subscriptions-and-billing/add-storage-space). 
