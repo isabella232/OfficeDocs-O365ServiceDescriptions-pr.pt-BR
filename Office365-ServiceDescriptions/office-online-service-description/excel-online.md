@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
-ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
+ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
+ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637248"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38020258"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -150,7 +150,7 @@ Arraste a Alça de Preenchimento no canto inferior direito de uma célula ou de 
   
 ## <a name="find"></a>Localizar
 
-Encontre o conteúdo de células na planilha ativa. Uma caixa de diálogo fácil de usar fornece a opção de pesquisar para cima ou para baixo na seleção atual da planilha.
+Encontre o conteúdo de células na planilha ativa. Uma caixa de diálogo fácil de usar oferece a opção de pesquisa para cima ou para baixo a partir da seleção atual na planilha. **Localizar tudo** permite realçar todas as instâncias do termo de pesquisa.
   
 ## <a name="font-and-cell-formatting"></a>Formatação de fontes e de células
 
