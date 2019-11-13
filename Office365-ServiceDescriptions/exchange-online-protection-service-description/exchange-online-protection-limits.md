@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que o contrário seja especificado.
-ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581458"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289771"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites de proteção do Exchange Online
 
@@ -54,7 +54,7 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Esses
 |Limite de remetentes seguros  <br/> |1.024 entradas  <br/> |1.024 entradas  <br/> ||
 |Limite de remetentes bloqueados por política  <br/> |1.024 entradas  <br/> |1.024 entradas  <br/> ||
 |Limite da lista de IP Permitidos e de IP Bloqueados  <br/> |1273 entradas  <br/> |1273 entradas  <br/> |1273 entradas  <br/> |
-|Limite de adiamento de mensagens  <br/> |2 dias, repetida a cada 15 minutos  <br/> |2 dias, repetida a cada 15 minutos  <br/> |2 dias, repetida a cada 15 minutos  <br/> |
+|Limite de adiamento de mensagens  <br/> |1 dia, repetido a cada 15 minutos  <br/> |1 dia, repetido a cada 15 minutos  <br/> |1 dia, repetido a cada 15 minutos  <br/> |
 |Período de retenção da quarentena de spam  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |30 dias por padrão, mas pode ser reduzido  <br/> |
 |Notificações da quarentena de spam para usuário final  <br/> |3 dias por padrão, configurável de 1 a 15 dias  <br/> |3 dias por padrão, configurável de 1 a 15 dias  <br/> |3 dias por padrão, configurável de 1 a 15 dias  <br/> |
    

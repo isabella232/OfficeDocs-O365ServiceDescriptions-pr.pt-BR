@@ -1,5 +1,5 @@
 ---
-title: Licenciamento da Microsoft 365 para empresas de pequeno e médio porte
+title: Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: A Microsoft 365 Business é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. O Microsoft 365 Business é uma solução integrada que reúne a produtividade do Office 365, a segurança avançada e o gerenciamento de dispositivos.
-ms.openlocfilehash: 0c7d91293b65604183d67e24ab2490ca8032da3a
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020447"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289781"
 ---
-# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento da Microsoft 365 para empresas de pequeno e médio porte
+# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
 A Microsoft 365 Business é a melhor oferta da Microsoft para clientes de pequenas e médias empresas (SMB). O Microsoft 365 Business é uma solução integrada que reúne a **produtividade** do Office 365 com **segurança avançada** e **Gerenciamento de dispositivos**.
 
@@ -121,7 +121,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 
 ## <a name="feature-comparison-office-365-business-premium-and-microsoft-365-plans"></a>Comparação de recursos: Office 365 Business Premium e Microsoft 365 Plans
 
-|**Área de serviço**   |**Recurso** | **Office 365 Business Premium** | **Microsoft 365 Business** | **Microsoft 365 E3** | **Microsoft 365 e5** |
+|**Área de serviço**   |**Recurso** | **Office 365 Business Premium** | **Microsoft 365 Business** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licenças disponíveis** | Número máximo de usuários | 300 | 300 | Ilimitado | Ilimitado |
 |**Aplicativos do Office** | Instalar o Office em até 5 PCs/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Negócios | Negócios | Plus | Plus |
@@ -148,7 +148,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Conformidade** | Arquivamento de email ilimitado<sup>2</sup> | Não | Sim | Sim | Sim |
 |   | Descoberta eletrônica avançada, Lockbox de cliente, governança de dados avançada | Não | Não | Não | Sim |
 |**Análise** | Power BI pro, myAnalytics | Não | Não | Não | Sim |
-|**Voz** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
+|**Voice** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
 
 **Observações**
 
@@ -202,7 +202,7 @@ O Microsoft 365 Business inclui o cliente comercial do Office 365, que tem algum
 
 <sup>1</sup> permite que a organização envie por push determinadas definições de configuração (configurações de segurança, configurações de aplicativos, roaming do Active Directory e assim por diante) para o Office em máquinas que fazem logon na rede corporativa.
 
-<sup>2</sup> com o office Standard 2016 e o Office Professional Plus 2016, ele tem controle total de atualizações usando o modelo msi. Com o Office 365 ProPlus, a instalação e as atualizações são gerenciadas por meio de clique para executar.
+<sup>2</sup> com o office Standard 2016 e o Office Professional Plus 2016, ele tem controle total de atualizações usando o modelo msi. Com o Office 365 ProPlus e o **office 365 Business** , a instalação e as atualizações são gerenciadas por meio de clique para executar.
 
 <sup>3</sup> os pacotes fornecem diferentes níveis de integração com servidores de produtividade de negócios.
 
