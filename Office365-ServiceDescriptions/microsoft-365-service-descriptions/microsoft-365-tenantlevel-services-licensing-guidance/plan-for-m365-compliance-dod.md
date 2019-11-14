@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, em que o uso do Microsoft 365 governamentais – DoD é adequado para atender a esses requisitos.
-ms.openlocfilehash: 27f51c80b4d19f2ca42f0dc7f8b25c93d39dd5ca
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890460"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319479"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planejar as implantações do Microsoft 365 Compliance-DoD
 
@@ -59,15 +58,15 @@ Recomendamos que você reserve um tempo para revisar cuidadosamente suas configu
 
 **Ponto de decisão**: *decida se você modificará qualquer uma das configurações de segurança governamentais-DOD padrão da Microsoft 365, resolvendo para entender primeiro o impacto de qualquer alteração que você possa fazer.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dod"></a>Etapa 4. Entender quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – DoD
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Etapa 4. Entender quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – DoD<sup>1</sup>
 
 Para atender aos requisitos de nossos clientes de nuvem governamental, há algumas diferenças entre os planos Microsoft 365 governamentais-DoD e Enterprise. Consulte a tabela a seguir para ver quais recursos estão disponíveis.
 
 
 |         |Recurso  |Status do DoD  |
 |---------|---------|---------|
-|**Governança de proteção de informações &** | Arquivamento                                      |  Disponível             |
-|                                        |Rótulos e políticas manuais                      |  Disponível             |
+|**Governança de proteção de informações &** |Arquivamento                                       |  Disponível             |
+|                                        |Rótulos e políticas manuais<sup>2</sup>          |  Disponível             |
 |                                        |Aplicação automática de rótulos                      | Na Backlog de engenharia |
 |                                        |Rótulos baseados em tipos de dados confidenciais            | Na Backlog de engenharia |
 |                                        |Rótulos e políticas associadas com base em consultas | Na Backlog de engenharia |
@@ -80,7 +79,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                        |Prevenção de perda de dados (DLP) para arquivos e email  | Disponível              |
 |                                        |DLP para chat de equipes e conversas de canal    | Na Backlog de engenharia |
 |**Gerenciamento de risco do insider**             |Criptografia de mensagem avançada                     | Disponível              |
-|                                        |Conformidade de comunicação                        | Na Backlog de engenharia |
+|                                        |Conformidade em comunicações                        | Na Backlog de engenharia |
 |                                        |Sistema de Proteção de Dados do Cliente                                | Disponível              |
 |                                        |Chave de Cliente                                    | Disponível              |
 |                                        |Gerenciamento de acesso privilegiado                    | Na Backlog de engenharia |
@@ -106,5 +105,9 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                        |Revisar e anotar                             | Na Backlog de engenharia |
 |                                        |Ingestão de 365 não-Office                        | Na Backlog de engenharia |
 |                                        |Relatório de termos de pesquisa                              | Na Backlog de engenharia |
+
+<sup>1</sup> o status identificado está sujeito a alterações à medida que os planos e as prioridades do projeto são reavaliados.<br/>
+<sup>2</sup> o aplicativo manual de rótulos requer o [cliente de proteção de informações do Azure (AIP) versão 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
+
 
 **Ponto de decisão**: *decida se os recursos de conformidade atendem às necessidades da sua organização.*
