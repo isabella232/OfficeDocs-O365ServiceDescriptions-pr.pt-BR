@@ -1,5 +1,5 @@
 ---
-title: Plano para o Microsoft 365 Compliance-GCC
+title: Planejar a conformidade com o Microsoft 365 – GCC
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de região do governo dos EUA, ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governo-GCC é apropriado para atender a esses requisitos.
-ms.openlocfilehash: 50649287df37afe20b58f98333a10bc7885b417d
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890459"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319489"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planejar a conformidade com a Microsoft 365 – GCC
 
@@ -62,14 +61,14 @@ Recomendamos que você reserve um tempo para revisar cuidadosamente suas configu
 
 **Ponto de decisão**: *decida se você modificará qualquer uma das configurações de segurança do Microsoft 365 governo-gcc padrão, resolvendo para entender primeiro o impacto de qualquer alteração que você possa fazer.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc"></a>Etapa 4. Entenda quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – GCC
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Etapa 4. Entender quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – GCC<sup>1</sup>
 
 Para acomodar os requisitos de nossos clientes de nuvem governamental, há algumas diferenças entre os planos Microsoft 365 governamentais-GCC e Enterprise. Consulte a tabela a seguir para ver quais recursos estão disponíveis.
 
 |                                         | **Recurso**                                     | **Status de GCC**         |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Governança de proteção de informações &** | Arquivamento                                       | Disponível              |
-|                                         | Rótulos e políticas manuais                      | Disponível              |
+|                                         | Rótulos e políticas manuais<sup>2</sup>          | Disponível              |
 |                                         | Aplicação automática de rótulos                      | Na Backlog de engenharia |
 |                                         | Rótulos baseados em tipos de dados confidenciais            | Na Backlog de engenharia |
 |                                         | Rótulos e políticas associadas com base em consultas | Na Backlog de engenharia |
@@ -80,15 +79,15 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Análise de disposição                              | Na Backlog de engenharia |
 |                                         | Barreiras de informações                            | Disponível              |
 |                                         | Prevenção de perda de dados (DLP) para arquivos e email  | Disponível              |
-|                                         | DLP para chat de equipes e conversas de canal    | Disponível              |
+|                                         | DLP para chat de equipes e conversas de canal    | Na Backlog de engenharia |
 | **Gerenciamento de risco do insider**             | Criptografia de mensagem avançada                     | Disponível              |
-|                                         | Conformidade de comunicação                        | Na Backlog de engenharia |
+|                                         | Conformidade em comunicações                        | Na Backlog de engenharia |
 |                                         | Sistema de Proteção de Dados do Cliente                                | Disponível              |
 |                                         | Chave de Cliente                                    | Disponível              |
 |                                         | Gerenciamento de acesso privilegiado                    | Na Backlog de engenharia |
 | **Descobrir & responder**                  | Reserva in-loco                            | Disponível              |
 |                                         | Gerenciamento de casos                                 | Disponível              |
-|                                         | Pesquisa                                          | Disponível              |
+|                                         | Pesquisar                                          | Disponível              |
 |                                         | Exportar                                          | Disponível              |
 |                                         | Descriptografia do RMS                                  | Disponível              |
 |                                         | Exportação nativa                                   | Disponível              |
@@ -109,5 +108,9 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Revisar e anotar                             | Na Backlog de engenharia |
 |                                         | Ingestão de 365 não-Office                        | Na Backlog de engenharia |
 |                                         | Relatório de termos de pesquisa                              | Na Backlog de engenharia |
+
+<sup>1</sup> o status identificado está sujeito a alterações à medida que os planos e as prioridades do projeto são reavaliados.<br/>
+<sup>2</sup> o aplicativo manual de rótulos requer o [cliente de proteção de informações do Azure (AIP) versão 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
+
 
 **Ponto de decisão**: *decida se os recursos de conformidade atendem às necessidades da sua organização.*
