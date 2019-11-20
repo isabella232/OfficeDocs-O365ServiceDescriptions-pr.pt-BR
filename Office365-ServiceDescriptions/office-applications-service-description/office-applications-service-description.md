@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: O Microsoft Office 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office com os quais você já está familiarizado, como o Word, o Excel e o PowerPoint.
-ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
+ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911814"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748975"
 ---
 # <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
@@ -126,3 +126,88 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 > <sup>1</sup> o Office 2016 para Mac requer o Mac OS X 10,10 ou posterior. Para clientes que se conectam ao Exchange pelo Outlook para Mac, é necessário ter Conectividade com o Microsoft Exchange Server 2010 Service Pack 2 ou posterior. Para saber mais, confira [requisitos de sistema do Office](https://products.office.com/en-US/office-system-requirements).<br/>
 <sup>2</sup> Disponível como um download separado na App Store. Para saber mais, confira o artigo [OneNote para Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
 <sup>3</sup> o Office para Mac 2011 pode ser instalado, mas não ativado.
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>Disponibilidade de recursos e aplicativos do Office em planos governamentais
+
+Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais; no entanto, alguns recursos baseados na nuvem podem não estar atualmente disponíveis, conforme indicado na tabela.
+
+|||||
+|-----|-----|-----|-----|
+|**Aplicativos do Office** | **GCC** | **GCC alto** | **DOD** |
+|O **[Microsoft Excel](office-applications.md#microsoft-excel)** está totalmente disponível nas nuvens governamentais, com a exceção dos seguintes recursos não disponíveis no momento:| Sim | Sim | Sim |
+|animações inseridas 3D e modelos 3D | Não | Não | Não |
+|Tipos de dados | Não | Não | Não |
+|Preenchimento relâmpago  | Não | Não | Não |
+|Ideias (serviços de informação) | Não | Não | Não |
+|Integração aprimorada com o PowerBI (elementos visuais personalizados, criar gráficos do PBI diretamente do Excel) | Não | Não | Não |
+|Tinta digital inteligente | Não | Não | Não |
+|Grupos do Office 365 | Não | Não | Não |
+|Dados de gráficos dinâmicos conectados a tabelas dinâmicas | Não | Não | Não |
+|PowerPivot | Não | Não | Não |
+|Publicar no PowerBI | Não | Não | Não |
+|Colaboração em tempo real (presença, coautoria regular, chat em documento) | Não | Não | Não |
+|Shared with Me | Não | Não | Não |
+|Pesquisa Inteligente | Não | Não | Não |
+|Gráficos: explosão solar, mapa de quadros, cascata, histograma, mapas, linha do tempo, funil | Não | Não | Não |
+|Histórico de versão| Não | Não | Não | 
+|O **Microsoft Forms** está totalmente disponível nas nuvens governamentais, com a exceção dos seguintes recursos não disponíveis no momento: | Sim | Sim | Não |
+|Notificação por email | Não<sup>1</sup> | Não<sup>1</sup> | Não |
+|Inserir uma imagem | Não<sup>1</sup> | Não<sup>1</sup> | Não |
+|Inserir um vídeo | Não<sup>1</sup> | Não<sup>1</sup> | Não |
+|Matemática | Não<sup>1</sup> | Não<sup>1</sup> | Não |
+|Integração do Office | Não<sup>1</sup> | Não<sup>1</sup> | Não |
+|Formulários de grupo mais recentes | Não<sup>1</sup> | Não<sup>1</sup> | Não |
+|Compartilhamento externo |Sim | Não | Não |
+|O **[Microsoft OneNote](office-applications.md#microsoft-onenote)** está totalmente disponível nas nuvens governamentais, com a exceção dos seguintes recursos não disponíveis no momento:| Sim | Sim | Sim |
+|Pesquisador | Não | Não | Não |
+|Tinta digital inteligente | Não | Não | Não |
+|O **[Microsoft Outlook](office-applications.md#microsoft-outlook)** está totalmente disponível nas nuvens governamentais, com a exceção dos seguintes recursos não disponíveis no momento:| Sim | Sim | Sim |
+|Sons do Office (alguns) | Não | Não | Não |
+|DDE desabilitado por padrão  | Não | Não | Não |
+|Ditado | Não<sup>1</sup> | Não<sup>1</sup> | Não<sup>1</sup> |
+|O **[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** está totalmente disponível nas nuvens governamentais, com a exceção dos seguintes recursos não disponíveis no momento:| Sim | Sim | Sim |
+|Pesquisa Inteligente | Não | Não | Não |
+|Sons do Office (alguns) | Não | Não | Não |
+|modelos 3D e animações incorporadas 3D | Não | Não | Não |
+Gráficos: mapas | Não | Não | Não |
+|Tinta digital inteligente | Não | Não | Não |
+|Legendas ao vivo & legendas no PowerPoint | Não | Não | Não |
+|Apresentador | Não | Não | Não |
+|Shared with Me| Não | Não | Não |
+|Integração do Skype for Business com compartilhamento| Não | Não | Não |
+|Histórico de versão | Não | Não | Não |
+|Grupos do Office 365 | Não | Não | Não |
+|Colaboração em tempo real (presença, coautoria regular, chat em documento) | Não | Não | Não |
+|Ditado | Não<sup>1</sup> | Não<sup>1</sup> | Não<sup>1</sup> |
+|**O Microsoft whiteboard** em nuvens governamentais só está disponível atualmente em clientes de Hub, e não na área de trabalho. | Sim<sup>2</sup> | Sim<sup>2</sup> | Sim<sup>2</sup> |
+|Inserir notas auto-adesivas, texto e imagens |Sim<sup>2</sup> |Sim<sup>2</sup> |Sim<sup>2</sup> |
+|Tinta para forma e tinta para tabela |Sim<sup>2</sup> |Sim<sup>2</sup> |Sim<sup>2</sup> |
+|Beautification de tinta |Sim<sup>2</sup> |Sim<sup>2</sup> |Sim<sup>2</sup> |
+|Converter imagem em tinta |Sim<sup>2</sup> |Sim<sup>2</sup> |Sim<sup>2</sup> |
+|Verificador de acessibilidade |Sim<sup>2</sup> |Sim<sup>2</sup> |Sim<sup>2</sup> |
+|Modelos dinâmicos (KANBAN, SWOT, etc.) | Não | Não | Não |
+|Colaboração em tempo real | Não | Não | Não |
+|Presença em tempo real | Não | Não | Não |
+|Reações no conteúdo | Não | Não | Não |
+|Galeria de quadros de comunicações, incluindo compartilhado com você | Não | Não | Não |
+|O **[Microsoft Word](office-applications.md#microsoft-word)** está totalmente disponível nas nuvens governamentais, com a exceção dos seguintes recursos não disponíveis no momento:| Sim | Sim | Sim |
+|Pesquisa Inteligente | Não | Não | Não |
+|Pesquisador | Não | Não | Não |
+|Sons do Office | Não | Não | Não |
+|modelos 3D | Não | Não | Não |
+|animações inseridas 3D | Não | Não | Não |
+|Toque | Não | Não | Não |
+|Assistente de Currículos | Não | Não | Não |
+|Gráficos de mapa | Não | Não | Não |
+|Tinta digital inteligente | Não | Não | Não |
+|Shared with Me | Não | Não | Não |
+|Tradução | Não | Não | Não |
+|Integração do Skype for Business com compartilhamento | Não | Não | Não |
+|Histórico de versão | Não | Não | Não |
+|Grupos do Office 365 | Não | Não | Não |
+|Chat contextual com coautores: converse com coautores no documento | Não | Não | Não |
+|Ditado| Não<sup>1</sup> | Não<sup>1</sup> | Não<sup>1</sup> |
+
+> [!NOTE]
+> <sup>1</sup> disponível em dezembro de 2019. <br/>
+> <sup>2</sup> disponível no Surface Hub local (não conectado).
