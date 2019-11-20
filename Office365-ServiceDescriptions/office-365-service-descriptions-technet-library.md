@@ -1,5 +1,5 @@
 ---
-title: 'Descrições dos serviços do Office 365 '
+title: 'Descrições dos Serviços do Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário.
-ms.openlocfilehash: 0c7c14e53014af4bde6ba058b06f88e68cb97d73
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890447"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38726079"
 ---
-# <a name="office-365-service-descriptions"></a>Descrições dos serviços do Office 365 
+# <a name="office-365-service-descriptions"></a>Descrições dos Serviços do Office 365 
 
 O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário. 
   
@@ -40,7 +40,7 @@ Para começar, consulte as seguintes descrições de serviço:
     
 - [Descrição de serviços dos aplicativos do Office](office-applications-service-description/office-applications-service-description.md)
     
-- [Descrição do serviço Web do Office](office-online-service-description/office-online-service-description.md)
+- [Descrição dos Serviços do Office para Web](office-online-service-description/office-online-service-description.md)
     
 - [Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -56,6 +56,8 @@ Para começar, consulte as seguintes descrições de serviço:
     
 - [Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
+- [Descrição do serviço de email de resumo](briefing-service-description.md)
+
 - [Descrição do serviço do Workplace Analytics](workplace-analytics-service-description.md)
 
 - [Descrição do serviço do MyAnalytics](mya-service-description.md)
@@ -64,13 +66,13 @@ Para começar, consulte as seguintes descrições de serviço:
     
 - [Descrição do Serviço do Project Online](project-online-service-description/project-online-service-description.md)
     
-- [Visio para a descrição do serviço Web](visio-online-service-description/visio-online-service-description.md)
+- [Descrição dos Serviços do Visio da Web](visio-online-service-description/visio-online-service-description.md)
     
 - [Descrição do Serviço do Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Descrição dos serviços do Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Descrição dos Serviços do Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Diretrizes de Licenciamento dos Serviços no Nível do Locatário do Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Descrição do Serviço do Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     

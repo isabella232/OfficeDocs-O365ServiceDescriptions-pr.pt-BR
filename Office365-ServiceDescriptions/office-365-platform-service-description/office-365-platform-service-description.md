@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você quiser saber as diferenças entre os planos do Office 365, incluindo planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 5740dbe2eaafc464060b6c9554e9acdc734e912d
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b8bbc7068d809b023135f0f4b078b3e84bdd7d89
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734119"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724709"
 ---
 # <a name="office-365-platform-service-description"></a>Descrição de serviço da plataforma Office 365
 
@@ -97,10 +97,11 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Não<sup>2</sup> <br/> |
 |**[Recursos do Pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Nenhum<sup>20</sup>  <br/> |Nenhum<sup>20</sup>  <br/> |Não  <br/> |
+|Email de resumo da Microsoft<sup>23</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Flow  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft myAnalytics<sup>22</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Microsoft myAnalytics<sup>21</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Microsoft Planner  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Microsoft PowerApps  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -227,3 +228,4 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 <br/><sup>20</sup> disponível como um complemento gratuito. Para obter mais informações, consulte [Get Access to Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
 <br/><sup>21</sup> para obter mais informações, consulte [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>22</sup> inclui os recursos do Azure Active Directory descritos na coluna **aplicativos do Office 365** na [página de preços do Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). Você deve adicionar o Azure Active Directory Plan 1 ou o plano 2, o Enterprise Mobile Security ou o Microsoft 365 E3 ou E5 para obter os recursos premium do Azure AD.<br/>
+<sup>23</sup> o email de resumo é fornecido automaticamente para todos os usuários do Exchange Online. Para obter mais informações, consulte [Configurar o email de resumo](https://docs.microsoft.com/Briefing/be-admin).<br>

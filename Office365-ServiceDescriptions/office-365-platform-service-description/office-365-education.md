@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para o Web e Microsoft Skype for Business Online&mdash;para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e o&mdash;Microsoft Skype for Business online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
+ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890437"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724639"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para o Web e Microsoft Skype for Business Online&mdash;para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
+O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e o&mdash;Microsoft Skype for Business online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
   
 Este artigo lista os recursos para os planos de educação do Office 365 (a1, a3 e a5). Para comparar recursos entre planos comerciais e empresariais, confira [comparar planos do Office 365 para empresas](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) ou, para obter uma lista mais detalhada dos recursos, consulte a descrição de serviço relevante nas [descrições do serviço do Office 365](../office-365-service-descriptions-technet-library.md).
   
@@ -71,6 +71,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Recursos do pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Email de apresentação da Microsoft<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Flow  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -188,6 +189,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 <sup>7</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos). <br>
 <sup>8</sup> para obter informações sobre os recursos do Microsoft Stream incluídos em cada plano, consulte The [Stream Licensing Overview](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
 <sup>9</sup> para obter mais informações, consulte [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
+<sup>10</sup> o email de resumo é fornecido automaticamente para todos os usuários do Exchange Online. Para obter mais informações, consulte [Configurar o email de resumo](https://docs.microsoft.com/Briefing/be-admin).<br>
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Recursos do centro &amp; de conformidade de segurança do Office 365
 
@@ -284,7 +286,7 @@ Use a tabela a seguir para comparar a disponibilidade de recursos nos planos de 
 > [!NOTE]
 > <sup>1</sup> o AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente a fim de habilitar os recursos de IRM compatíveis. <br/> 
 <sup>2</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
-<sup>3</sup> algumas escolas estão qualificadas para educação Plus, que inclui o Office 365 ProPlus e permite que os alunos, professores e funcionários instalem a versão mais recente do Office em até cinco computadores PC ou Mac e em outros dispositivos móveis, incluindo tablets do Windows e o iPad. As escolas se qualificam para o Education Plus do Office 365 quando licenciam o Office em toda a instituição para professores e funcionários por meio do Registro para Soluções Educacionais, Soluções Educacionais de Assinatura Open Value ou um contrato escolar. Observe que o Access e o Publisher estão disponíveis apenas em PCs. O OneNote para Mac está disponível como um download separado na Mac App Store. <br/> 
+<sup>3</sup> algumas escolas estão qualificadas para educação Plus, que inclui o Office 365 ProPlus, e permite que os alunos, professores e funcionários instalem a versão mais recente do Office em até cinco computadores PC ou Mac e em outros dispositivos móveis, incluindo tablets do Windows e o iPad. As escolas se qualificam para o Education Plus do Office 365 quando licenciam o Office em toda a instituição para professores e funcionários por meio do Registro para Soluções Educacionais, Soluções Educacionais de Assinatura Open Value ou um contrato escolar. Observe que o Access e o Publisher estão disponíveis apenas em PCs. O OneNote para Mac está disponível como um download separado na Mac App Store. <br/> 
 <sup>4</sup> o Office para as versões da Web está incluído. Para obter mais informações, consulte [Office para os recursos da Web](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>Office para recursos da Web
@@ -299,7 +301,7 @@ A tabela a seguir fornece links para comparações do Office para recursos de re
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office para a Web** <br/> |**Link para a comparação detalhada de recursos** <br/> |
+|**Aplicativo** <br/> |**Office para a Web** <br/> |**Link para a comparação detalhada de recursos** <br/> |
 |Word  <br/> |Word para a Web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel para a Web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote para a Web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -507,7 +509,7 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 |Caixas de correio de recurso  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
 |Caixas de correio de site<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
 |Caixas de correio de pastas públicas  <br/> |50 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |
-|Caixas de correio de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
+|Caixas de correio de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Cada usuário recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em Visão geral de arquivamento ilimitado no Office 365. Saiba mais sobre disponibilidade em Mapa do Office 365. <br/> 
@@ -1301,7 +1303,7 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |15 dias   <br/> |15 dias   <br/> |15 dias  <br/> |
+|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |15 dias  <br/> |15 dias  <br/> |15 dias  <br/> |
 |Retenção de conteúdo de reunião: Reunião recorrente  <br/> |15 dias  <br/> |15 dias   <br/> |15 dias  <br/> |
 |Retenção de conteúdo de reunião: Reunião do tipo Reunir Agora  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |
 |Expiração de reunião: Reunião de Ocorrência Única  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |

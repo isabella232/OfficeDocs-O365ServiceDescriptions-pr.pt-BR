@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Esta seção fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365. Recomendamos que você leia esta seção suplementar junto com as descrições de serviço do Office 365.
-ms.openlocfilehash: eeee52cb0c42cc654fff2a42c1f09243c45aebcf
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: 25cd6a12a97b71166af5db0b9a982c261653d570
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37971717"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724629"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -180,6 +180,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Não<sup>1</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup>  <br/> |Não<sup>1</sup> <br/> |
 |**[Recursos do pacote do Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|Email de resumo da Microsoft  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Microsoft Flow  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Sim <br/> |Sim <br/> |Sim<br/> |Sim</sup> <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |

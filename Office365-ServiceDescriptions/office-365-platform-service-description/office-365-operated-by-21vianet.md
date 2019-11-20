@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734139"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724759"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -82,6 +82,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Tradução manual de postagens do centro de mensagens por meio da tradução automática|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Recursos do pacote do Office 365](office-365-suite-features.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
 |Microsoft Bookings|Não|Não|Sim|Não|Não|Não|Não|
+|Email de resumo da Microsoft|Não|Não|Sim|Não|Não|Não|Não|
 |Microsoft Flow|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Forms|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft MyAnalytics|Não|Não|Não|Não|Não|Não|Não|
@@ -194,7 +195,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 
 <sup>1</sup> o Office 365 e o Office 365 operado pela 21vianet não oferecem suporte a nenhum sistema operacional que não seja suportado pelo fabricante.<br/>
 <sup>2</sup> no Office 365 Enterprise F1 operado pela 21vianet, o vídeo do Office 365 está limitado somente a visualização (sem publicar ou compartilhar). <br/>
-<sup>3</sup> se você estiver usando a sincronização de diretório com um Active Directory local, você deve excluir contas ou alterar senhas usando o Active Directory local, em vez do portal do Office 365, ou usando o módulo do Azure Active Directory para Windows ™. <br/>
+<sup>3</sup> se você estiver usando a sincronização de diretório com um Active Directory local, você deve excluir contas ou alterar senhas usando o Active Directory local, em vez do portal do Office 365, ou usando o módulo do Azure Active Directory para Windows PowerShell. <br/>
 <sup>4</sup> ainda indisponível no Office 365 operado pela 21vianet, mas em breve. <br/>
 <sup>5</sup> você só pode ter um site público com o Office 365, a menos que tenha atualizado de uma versão anterior do Office 365. Nesse caso, é possível ter dois sites públicos, mas somente um deles pode ser hospedado com um nome de domínio personalizado. Para obter mais informações sobre como trabalhar com os dois sites para assinaturas comerciais, confira [trabalhar com seus dois sites públicos do Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5). Se você tiver uma assinatura diferente, saiba mais sobre sites públicos na [ajuda do site público do Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5).<br/>
 <sup>6</sup> Reduzir usuários adquiridos com um desconto pode estar sujeito a uma taxa de cancelamento antecipado. Isso não é aplicável para assinaturas pagas mensalmente.<br/>

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: A Microsoft 365 Business é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. O Microsoft 365 Business é uma solução integrada que reúne a produtividade do Office 365, a segurança avançada e o gerenciamento de dispositivos.
-ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289781"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724659"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -148,6 +148,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Conformidade** | Arquivamento de email ilimitado<sup>2</sup> | Não | Sim | Sim | Sim |
 |   | Descoberta eletrônica avançada, Lockbox de cliente, governança de dados avançada | Não | Não | Não | Sim |
 |**Análise** | Power BI pro, myAnalytics | Não | Não | Não | Sim |
+|**Assistance** | Email de resumo | Sim | Sim | Sim | Sim |
 |**Voice** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
 
 **Observações**

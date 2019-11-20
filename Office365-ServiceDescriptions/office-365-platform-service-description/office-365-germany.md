@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
-ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911794"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724689"
 ---
-# <a name="office-365-germany"></a>Office 365 Alemanha
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
 
@@ -77,6 +77,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Proteger o conteúdo usando a Proteção de Informações do Azure|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não|Não|Não<sup>2</sup>|
 |**[Recursos do Pacote do Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Bookings|Não|Não|Não|Não|Não|Não|Não|Não|
+|Email de resumo da Microsoft|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Flow|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Forms|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft MyAnalytics|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -337,7 +338,7 @@ A tabela a seguir fornece links para comparações do Office para os recursos de
 
 ||||
 |:-----|:-----|:-----|
-|**Application**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
+|**Aplicativo**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
 |Word|Word para a Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para a Web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
