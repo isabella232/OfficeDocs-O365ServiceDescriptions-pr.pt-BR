@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: A Microsoft 365 Business é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. O Microsoft 365 Business é uma solução integrada que reúne a produtividade do Office 365, a segurança avançada e o gerenciamento de dispositivos.
-ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
+ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724659"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38755469"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -148,6 +148,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Conformidade** | Arquivamento de email ilimitado<sup>2</sup> | Não | Sim | Sim | Sim |
 |   | Descoberta eletrônica avançada, Lockbox de cliente, governança de dados avançada | Não | Não | Não | Sim |
 |**Análise** | Power BI pro, myAnalytics | Não | Não | Não | Sim |
+| | Ideias do myAnalytics | Sim | Sim | Sim | Sim |
 |**Assistance** | Email de resumo | Sim | Sim | Sim | Sim |
 |**Voice** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
 
@@ -190,9 +191,9 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 | **Licenciamento**                                   | **Office 365 Business** | **Office 365 ProPlus** |
 | Modelo de licenciamento                                 | Por usuário                | Por usuário               |
 | Tipo de licença                                    | Assinatura            | Assinatura           |
-| Instalações de PC/Mac<sup>6</sup>                     | 0,5                       | 0,5                      |
-| instalações do iOS/Android smartphone<sup>6</sup>     | 0,5                       | 0,5                      |
-| Instalações do Tablet<sup>6</sup>                     | 0,5                       | 0,5                      |
+| Instalações de PC/Mac<sup>6</sup>                     | 5                        | 0,5                      |
+| instalações do iOS/Android smartphone<sup>6</sup>     | 5                        | 0,5                      |
+| Instalações do Tablet<sup>6</sup>                     | 5                        | 0,5                      |
 | Direitos comerciais do Office RT                     | Sim                     | Sim                    |
 | Office Online/aplicativos Web                          | Sim                     | Sim                    |
 | Direitos de uso comercial                           | Sim                     | Sim                    |
