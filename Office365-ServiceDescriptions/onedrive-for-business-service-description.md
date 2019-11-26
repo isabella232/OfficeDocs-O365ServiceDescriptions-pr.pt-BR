@@ -1,5 +1,5 @@
 ---
-title: Descrição de serviço do OneDrive for Business
+title: Descrição do serviço do OneDrive for Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Saiba mais sobre o espaço de armazenamento do OneDrive fornecido para cada plano de assinatura.
-ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 63ab72221fa009384baad0fd7367c676d84798b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733998"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263475"
 ---
-# <a name="onedrive-for-business-service-description"></a>Descrição de Serviço do OneDrive for Business
+# <a name="onedrive-for-business-service-description"></a>Descrição do serviço do OneDrive for Business
 
 O OneDrive é um espaço de armazenamento online na nuvem que é fornecido aos usuários individuais licenciados em uma organização. Use-o para ajudar a proteger arquivos de trabalho e acessá-los em vários dispositivos. O OneDrive permite compartilhar arquivos, colaborar em documentos e sincronizar arquivos com seu computador. [Saiba mais sobre os recursos, funcionalidades e preços do OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).
   
@@ -42,7 +42,7 @@ Qualquer pessoa cujo plano inclua o OneDrive poderá usar o cliente de sincroniz
   
 ## <a name="storage-space-per-user"></a>Espaço de armazenamento por usuário
 
-**5 GB**
+**2 GB**
 
 - Office 365 Enterprise F1
 
