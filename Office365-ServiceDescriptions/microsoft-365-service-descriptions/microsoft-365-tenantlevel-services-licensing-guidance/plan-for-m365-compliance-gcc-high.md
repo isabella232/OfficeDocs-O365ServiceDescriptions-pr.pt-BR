@@ -1,5 +1,5 @@
 ---
-title: Plano para o Microsoft 365 Compliance-GCC alto
+title: Planejar a conformidade com o Microsoft 365 – GCC High
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, em que o uso do Microsoft 365 governamental – GCC High é apropriado para atender a esses requisitos.
-ms.openlocfilehash: 72819a1a2b62df681f8b08dd3049ab6d704b256e
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319499"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262824"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plano para conformidade com o Microsoft 365 – GCC High
 
@@ -75,7 +75,12 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Barreiras de informações                            | Disponível              |
 |                                         | Prevenção de perda de dados (DLP) para arquivos e email  | Disponível              |
 |                                         | DLP para chat de equipes e conversas de canal    | Na Backlog de engenharia |
+|                                         | Correspondência exata dos dados de DLP                            | Na Backlog de engenharia |
+|                                         | Explorador de Atividade de Rótulo                         | Na Backlog de engenharia |
+|                                         | Classificadores estagiários                           | Na Backlog de engenharia |
+|                                         | Rótulo unificado e rótulos de confidencialidade         | Na Backlog de engenharia |
 | **Gerenciamento de risco do insider**             | Criptografia de mensagem avançada                     | Disponível              |
+|                                         | Gerenciamento de risco do insider                         | Na Backlog de engenharia |
 |                                         | Conformidade em comunicações                        | Na Backlog de engenharia |
 |                                         | Sistema de Proteção de Dados do Cliente                                | Disponível              |
 |                                         | Chave de Cliente                                    | Disponível              |

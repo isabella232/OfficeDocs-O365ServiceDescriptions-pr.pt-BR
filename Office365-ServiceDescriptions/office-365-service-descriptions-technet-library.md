@@ -1,5 +1,5 @@
 ---
-title: 'Descrições dos Serviços do Office 365 '
+title: 'Descrições de serviço do Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário.
-ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 45f666b7b3cf741bc101bf8dbfeef2a50dd85206
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38726079"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262032"
 ---
-# <a name="office-365-service-descriptions"></a>Descrições dos Serviços do Office 365 
+# <a name="office-365-service-descriptions"></a>Descrições de serviço do Office 365 
 
 O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário. 
   
@@ -30,51 +30,51 @@ Os tópicos desta biblioteca fornecem descrições detalhadas dos serviços e do
 Para pesquisar os artigos de suporte e as informações, consulte [Suporte do Office](https://support.office.com/).
   
 > [!NOTE]
-> Se você está procurando a planilha de comparação de Descrição do Serviço, ela foi desativada. As tabelas de disponibilidade de recursos de produtos em cada página de Descrição de Serviço foram atualizadas para ajudá-lo de forma melhor a escolher a versão do Office 365 que atende às suas necessidades. 
+> Se você estiver procurando a planilha de comparação de descrição de serviço, ela foi removida. As tabelas de disponibilidade de recursos do produto em cada página de descrição de serviço foram atualizadas para ajudá-lo a escolher a versão do Office 365 que atenda às suas necessidades. 
   
 A Microsoft oferece o benefício do FastTrack Center para o Office 365 para serviços qualificados em planos qualificados. O benefício permite que você trabalhe remotamente com especialistas da Microsoft para que o seu ambiente do Office 365 fique pronto para uso. Para saber mais, confira [benefícios do FastTrack Center do Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Para começar, consulte as seguintes descrições de serviço:
   
-- [Descrição de serviço da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Descrição do serviço da plataforma do Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup></sup>
     
-- [Descrição de serviços dos aplicativos do Office](office-applications-service-description/office-applications-service-description.md)
+- [Descrição do serviço de aplicativos do Office](office-applications-service-description/office-applications-service-description.md)
     
-- [Descrição dos Serviços do Office para Web](office-online-service-description/office-online-service-description.md)
+- [Descrição do serviço Web do Office](office-online-service-description/office-online-service-description.md)
     
-- [Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
+- [Descrição do serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
     
-- [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
+- [Descrição do serviço do Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
     
-- [Descrição do Serviço da Proteção Avançada contra Ameaças do Office 365](office-365-advanced-threat-protection-service-description.md)
+- [Descrição do serviço de proteção avançada contra ameaças do Office 365](office-365-advanced-threat-protection-service-description.md)
     
-- [Descrição do Serviço de Arquivamento do Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+- [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
-- [Descrição do Serviço do OneDrive for Business](onedrive-for-business-service-description.md)
+- [Descrição do serviço do OneDrive for Business](onedrive-for-business-service-description.md)
     
-- [Descrição do Serviço do SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Descrição do serviço do SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
     
-- [Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+- [Descrição do serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
 - [Descrição do serviço de email de resumo](briefing-service-description.md)
 
-- [Descrição do serviço do Workplace Analytics](workplace-analytics-service-description.md)
+- [Descrição do serviço do workplace Analytics](workplace-analytics-service-description.md)
 
-- [Descrição do serviço do MyAnalytics](mya-service-description.md)
+- [Descrição do serviço do myAnalytics](mya-service-description.md)
     
-- [Descrição do Serviço Power BI](power-bi-service-description.md)
+- [Descrição do serviço do Power BI](power-bi-service-description.md)
     
-- [Descrição do Serviço do Project Online](project-online-service-description/project-online-service-description.md)
+- [Descrição do serviço do Project online](project-online-service-description/project-online-service-description.md)
     
-- [Descrição dos Serviços do Visio da Web](visio-online-service-description/visio-online-service-description.md)
+- [Visio para a descrição do serviço Web](visio-online-service-description/visio-online-service-description.md)
     
-- [Descrição do Serviço do Yammer](yammer-service-description/yammer-service-description.md)
+- [Descrição do serviço do Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Descrição dos Serviços do Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Descrição do serviço de negócios 365 da Microsoft](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Diretrizes de Licenciamento dos Serviços no Nível do Locatário do Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
-- [Descrição do Serviço do Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
+- [Descrição do serviço do Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> Inclui disponibilidade de [recursos do pacote](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), como o Microsoft Delve, o Microsoft MyAnalytics, o Microsoft Sway e o Microsoft Teams.

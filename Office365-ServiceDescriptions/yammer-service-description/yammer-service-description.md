@@ -1,5 +1,5 @@
 ---
-title: Descrição de serviços do Yammer
+title: Descrição do serviço do Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
-ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911824"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263132"
 ---
-# <a name="yammer-service-description"></a>Descrição de serviços do Yammer
+# <a name="yammer-service-description"></a>Descrição do serviço do Yammer
 
 Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
   
@@ -28,7 +28,7 @@ Para obter uma lista de planos do Office 365 que incluem o Yammer, consulte [Fam
 Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 > [!TIP]
-> Você pode exportar, salvar e imprimir páginas nas Descrições de Serviço do Office 365. Saiba como [exportar várias páginas](https://go.microsoft.com/fwlink/?LinkId=403349). 
+> Você pode exportar, salvar e imprimir páginas nas descrições de serviço do Office 365. Saiba como [exportar várias páginas](https://go.microsoft.com/fwlink/?LinkId=403349). 
   
 ## <a name="system-requirements"></a>Requisitos do sistema
 
@@ -44,7 +44,7 @@ O Yammer está disponível nos seguintes planos:
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |Rede social corporativa com segurança, administração e integrações avançadas.  <br/> |
    
 > [!NOTE]
-> Os recursos e as políticas descritas no [Descrição de serviço da plataforma Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) não se aplicam ao serviço Yammer. 
+> Os recursos e as políticas descritos na [Descrição do serviço da plataforma do Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) não se aplicam ao serviço Yammer. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Política de comunicações de serviço do Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
@@ -105,7 +105,7 @@ Precisa de ajuda para saber qual plano do Yammer é o melhor para as necessidade
 |[Identidade visual de rede personalizada](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de usuários](administration-and-security-features-in-yammer.md#user-management) <br/> |Não  <br/> |Sim  <br/> |
 |[Identidade única](administration-and-security-features-in-yammer.md#single-identity) <br/> |Sim  <br/> |Sim  <br/> |
-|[Sincronização de diretórios](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |Não  <br/> |Sim  <br/> |
+|[Sincronização de diretório](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |Não  <br/> |Sim  <br/> |
 |[Exportação de dados](administration-and-security-features-in-yammer.md#data-export) <br/> |Não  <br/> |Sim  <br/> |
 |[Monitoramento de palavra-chave](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |Não  <br/> |Sim  <br/> |
 |[Análise](administration-and-security-features-in-yammer.md#analytics) <br/> |Não  <br/> |Sim  <br/> |

@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que o contrário seja especificado.
-ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 08e3295930933b9f233dcff36e2ad94972d7c2ee
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289771"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260746"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites de proteção do Exchange Online
 
 Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que o contrário seja especificado. 
   
 > [!TIP]
-> Para saber mais sobre limites no Exchange Online, consulte [Limites do Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Os limites de regras de transporte também se aplicam aos clientes do EOP autônomo. Os limites de taxas de destinatários e de taxas de mensagens para o Exchange Online não se aplicam aos clientes do EOP autônomo. 
+> Para obter mais informações sobre limites no Exchange Online, consulte [limites do Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Os limites de regras de transporte também se aplicam aos clientes do EOP autônomo. Os limites de taxas de destinatários e de taxas de mensagens para o Exchange Online não se aplicam aos clientes do EOP autônomo. 
   
 - **Limite de domínios** Você pode adicionar até 900 domínios por locatário. Os subdomínios podem ser incluídos neste limite de 900 ou, caso necessário, como parte de uma opção pega-tudo, podem corresponder a subdomínios. Para saber mais, confira [Gerenciar domínios aceitos no EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
     
@@ -42,7 +42,7 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Esses
     
 - **Notificações da quarentena de spam para usuário final** Por padrão, e se estiverem habilitadas, as notificações da quarentena de spam são enviadas a cada 3 dias. Elas podem ser configuradas para envio diário ou até de 15 em 15 dias. 
     
-- **Limites de rastreamento de mensagens e relatórios** Para saber quais são os limites de rastreamento de mensagens e relatórios, confira a seção "Disponibilidade e latência de dados de relatórios e rastreamento de mensagens" em [Relatórios e rastreamento de mensagem no Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
+- **Limites de rastreamento de mensagens e relatórios** Para relatórios e limites de rastreamento de mensagens, consulte a seção "disponibilidade e latência dos dados de relatórios e rastreamento de mensagens" em [relatórios e rastreamento de mensagens no Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
     
 ### <a name="limits-across-eop-options"></a>Limites nas opções do EOP
 

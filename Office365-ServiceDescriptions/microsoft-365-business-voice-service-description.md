@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: O Microsoft 365 Business Voice é um serviço de suplemento que permite que você use o Microsoft Teams para chamadas telefônicas. Isso combina o sistema de telefonia, o plano de chamadas domésticas, o SMS e a conferência de áudio.
-ms.openlocfilehash: a2d8c50e83a19b6c8b5602b55fa7feb10039364c
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: c6a00e2292027b1ba96ab7edd6d545ff9b736c60
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37972503"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262774"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descrição do serviço Microsoft 365 Business Voice
 

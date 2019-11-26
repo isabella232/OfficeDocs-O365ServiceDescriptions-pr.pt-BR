@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço do MyAnalytics
+title: Descrição do serviço do myAnalytics
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-midehm
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Recursos, distribuições, privacidade e pré-requisitos do myAnalytics
-ms.openlocfilehash: ceb62bdbfe71ba9a9871194d6135ad8021723a2f
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 9b5683c0b2d19b0e263d25228b190110ba489b6a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724699"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262854"
 ---
-# <a name="myanalytics-service-description"></a>Descrição do serviço do MyAnalytics
+# <a name="myanalytics-service-description"></a>Descrição do serviço do myAnalytics
 
 O myAnalytics resume o modo como você gasta o tempo no trabalho e, em seguida, sugere maneiras de trabalhar de forma mais inteligente. O myAnalytics fornece esses percepções por meio de [elementos](#elements) que podem ser acessados no Microsoft Outlook ou no navegador da Web.
 

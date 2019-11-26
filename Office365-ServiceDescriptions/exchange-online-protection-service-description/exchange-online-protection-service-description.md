@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço de proteção do Exchange Online
+title: Descrição do serviço do Exchange Online Protection
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obter informações sobre recursos e requisitos para o Exchange Online Protection. Incluído é uma lista de planos que fornecem proteção do Exchange Online, bem como uma comparação de recursos entre esses planos.
-ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700223"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260916"
 ---
-# <a name="exchange-online-protection-service-description"></a>Descrição do serviço de proteção do Exchange Online
+# <a name="exchange-online-protection-service-description"></a>Descrição do serviço do Exchange Online Protection
 
 Obter informações sobre recursos e requisitos para o Exchange Online Protection. Incluído é uma lista de planos que fornecem proteção do Exchange Online, bem como uma comparação de recursos entre esses planos.
 
@@ -29,7 +29,7 @@ A lista a seguir descreve as principais maneiras de usar o EOP para proteção d
 
 - **Em um cenário autônomo: o**EOP fornece proteção de email baseada em nuvem para seu ambiente de email local (Exchange Server ou outras soluções de email SMTP no local).
 
-- **Como parte do Microsoft Exchange Online**: por padrão, o EOP protege caixas de correio hospedadas na nuvem do Exchange Online. Para saber mais sobre a Exchange Online, consulte [Descrição de Serviço do Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
+- **Como parte do Microsoft Exchange Online**: por padrão, o EOP protege caixas de correio hospedadas na nuvem do Exchange Online. Para saber mais sobre o Exchange Online, confira a [Descrição de serviço do Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
 
 - **Em uma implantação híbrida: o**EOP pode ser configurado para proteger seu ambiente de mensagens e controlar o roteamento de email quando você tem uma combinação de caixas de correio locais e em nuvem.
 
@@ -75,7 +75,7 @@ O EOP pode ser usado com qualquer agente de transferência de email SMTP, como o
 
 ## <a name="limits"></a>Limites
 
-Para saber os limites no EOP, consulte [Limites do Exchange Online Protection](exchange-online-protection-limits.md).
+Para limites no EOP, consulte [limites do Exchange Online Protection](exchange-online-protection-limits.md).
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Disponibilidade de recursos nos planos da Proteção do Exchange Online (EOP)
 

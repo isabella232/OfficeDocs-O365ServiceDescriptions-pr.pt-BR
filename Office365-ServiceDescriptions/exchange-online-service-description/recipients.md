@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
-ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911714"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262724"
 ---
 # <a name="recipients"></a>Destinatários
 
@@ -34,7 +34,7 @@ Cada assinante do Microsoft Exchange Online recebe uma caixa de correio, e caixa
 
 A quantidade de armazenamento da caixa de correio disponível para um usuário e o tamanho da caixa de correio padrão são determinados pelo tipo de caixa e licença de assinatura do usuário. Os administradores podem reduzir o tamanho máximo da caixa de correio por usuário ou globalmente. O Exchange Online também fornece notificações quando a caixa de correio de um usuário está perto de sua capacidade ou atingiu a capacidade.
   
-Para mais informações, consulte as seções "Limites de armazenamento da caixa de correio" e "Alertas de capacidade" no tópico [Limites do Exchange Online](exchange-online-limits.md).
+Para obter mais informações, consulte as seções "limites de armazenamento de caixa de correio" e "alertas de capacidade" no tópico [limites do Exchange Online](exchange-online-limits.md).
   
 ### <a name="mailtips"></a>MailTips
 

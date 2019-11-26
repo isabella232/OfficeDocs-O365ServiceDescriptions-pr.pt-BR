@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Em todas as assinaturas do Microsoft Office 365 Enterprise, Business, Education e Government, o Suporte da Microsoft fornece suporte técnico para assinaturas, cobrança e pré-vendas em nível global. O suporte está disponível online por meio do portal do Office 365 e por telefone para assinaturas pagas e de avaliação. Para saber mais, veja Opções de suporte do Office 365.
-ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582187"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262212"
 ---
 # <a name="support"></a>Suporte
 
@@ -31,7 +31,7 @@ A equipe de suporte técnico do O365 soluciona apenas aqueles problemas que est�
   
 ## <a name="community-and-self-service-support-options"></a>Opções de suporte de autoatendimento e da comunidade
 
-O suporte de autoatendimento está disponível para todos os planos do Office 365 e inclui ferramentas e vídeos para solução de problemas, artigos e vídeos de ajuda, bem como fóruns e wikis na [comunidade do Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para saber mais sobre recursos de suporte de autoatendimento, confira a descrição do serviço de [Ajuda e treinamento](help-and-training.md).
+O suporte de autoatendimento está disponível para todos os planos do Office 365 e inclui ferramentas e vídeos para solução de problemas, artigos e vídeos de ajuda, bem como fóruns e wikis na [comunidade do Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para obter mais informações sobre recursos de suporte de autoatendimento, consulte a descrição do serviço de [ajuda e treinamento](help-and-training.md) .
   
 ## <a name="pre-sales-support"></a>Suporte para pré-vendas
 
@@ -201,4 +201,4 @@ Se você já adquiriu licenças da Microsoft em um programa de licenciamento por
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).

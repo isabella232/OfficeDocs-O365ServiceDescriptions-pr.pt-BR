@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
-ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724689"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263052"
 ---
-# <a name="office-365-germany"></a>Office 365 Germany
+# <a name="office-365-germany"></a>Office 365 Alemanha
 
 Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
 
@@ -32,7 +32,7 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Serviço**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Plataforma Office 365 <sup>1</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Office 365 plataforma <sup>1</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Exchange Online|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |SharePoint Online|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |OneDrive for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
@@ -42,7 +42,7 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 |Project Online <sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Power BI <sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Visio para a Web <sup>4</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Yammer Enterprise|N/D|N/D|N/D|N/D|N/D|N/D|N/D|N/D|
+|Yammer Enterprise|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|
 |Proteção de Informações do Azure|Não|Não|Não|Não|Não|Não|Não|Não|
 
 > [!NOTE]
@@ -75,7 +75,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |**[Recursos de Administração do Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
 |Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteger o conteúdo usando a Proteção de Informações do Azure|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não|Não|Não<sup>2</sup>|
-|**[Recursos do Pacote do Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Recursos do pacote do Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Bookings|Não|Não|Não|Não|Não|Não|Não|Não|
 |Email de resumo da Microsoft|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Flow|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -116,7 +116,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Usar um provedor diferente para email e IM|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Verificação de propriedade de domínio necessária para domínios personalizados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy|Não|Não|Não|Não|Não|Não|Não|Não|
-|**[Continuidade e Integridade do Serviço](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Continuidade e integridade do serviço](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Status de alertas individuais disponíveis no painel do centro de administração do 365 da Microsoft|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RSS feed de **Integridade do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -178,7 +178,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Criar convites para avaliação e ordens de compra para um cliente que está usando o plano especificado|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Fornecer administração delegada|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Contrato de Nível de Serviço](service-level-agreement.md)**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Direitos de Uso do Produto](product-use-rights.md)**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|**[Direitos de uso do produto](product-use-rights.md)**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 
 > [!NOTE]
 > <sup>1</sup> o Office 365 Alemanha não fornece suporte para sistemas operacionais que não sejam suportados pelo fabricante.<br/>

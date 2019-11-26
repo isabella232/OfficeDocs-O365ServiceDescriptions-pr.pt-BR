@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: Este artigo descreve os controles de administração e o suporte disponíveis para personalizar as configurações do Exchange Online e manter o ambiente do Exchange Online de uma organização em funcionamento, em execução e atualizado. Ela inclui informações sobre ferramentas de administração de autoatendimento e recursos disponíveis para as organizações; responsabilidades de administração e compromissos de desempenho da Microsoft; e atualizações de produtos e serviços.
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581977"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262604"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Instalação e administração do Exchange Online
 
@@ -74,7 +74,7 @@ O Exchange Online dá suporte às mesmas políticas do ActiveSync para dispositi
   
 ### <a name="message-tracking-for-exchange-online"></a>Acompanhamento de mensagens para o Exchange Online
 
-O acompanhamento de mensagens por meio do recurso Notificações de Entrega está descrito no seguinte tópico: [Recursos de Relatórios e Ferramentas de Solução de Problemas](reporting-features-and-troubleshooting-tools.md).
+O controle de mensagens por meio do recurso de relatórios de entrega é descrito no tópico a seguir: [recursos de relatórios e ferramentas de solução de problemas](reporting-features-and-troubleshooting-tools.md).
   
 ### <a name="usage-reporting-for-exchange-online"></a>Uso de relatórios para o Exchange Online
 
@@ -92,7 +92,7 @@ Para saber mais sobre os cmdlets do Windows PowerShell para uso com o Exchange O
   
 ### <a name="auditing-for-exchange-online"></a>Auditoria para o Exchange Online
 
-O recurso de log de auditoria está descrito no tópico a seguir: [Recursos de Relatórios e Ferramentas de Solução de Problemas](reporting-features-and-troubleshooting-tools.md).
+O recurso de log de auditoria está descrito no tópico a seguir: [recursos de relatório e ferramentas de solução de problemas](reporting-features-and-troubleshooting-tools.md).
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Atualizações de produtos e serviços para o Exchange Online
 

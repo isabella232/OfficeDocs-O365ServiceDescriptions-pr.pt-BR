@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Ao adicionar um domínio, um assistente passo a passo ajuda você a adicionar usuários e converter os endereços de email do Office 365 e outros serviços para o nome da empresa. Após concluir o assistente, seu email comercial será redirecionado para o Office 365 em vez do atual provedor de email. Para saber mais, confira Adicionar seus usuários e domínios ao Office 365. Se você usar o Office 365 operado pela 21Vianet, confira verificar seu domínio.
-ms.openlocfilehash: cc88aeb19573b089d06749df5ab6db5de4bbecfa
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: a1038e0ff6db0dc5def4fd5d50bd5798e45fde2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595212"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262784"
 ---
 # <a name="domains"></a>Domínios
 

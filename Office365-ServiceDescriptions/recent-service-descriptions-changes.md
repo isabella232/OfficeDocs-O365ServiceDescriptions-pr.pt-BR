@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: As tabelas a seguir listam alterações que foram feitas recentemente ao conteúdo de descrições de serviço.
-ms.openlocfilehash: 0a4d4e6f8b44320bc78a4309ff93c2e101b98c06
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5a8acdce7c4d3a1beeb3ea38401bf5255860904e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777522"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263365"
 ---
 # <a name="recent-service-descriptions-changes"></a>Alterações recentes nas descrições de serviços
 
@@ -181,7 +181,7 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |IRM (gerenciamento de direitos de informação) atualizado usando o Windows Server AD RMS.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Foi adicionada a linha "criar senhas de aplicativo" em "gerenciamento de conta de usuário".  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Adicionado o ponteiro para &amp; a descrição do recurso centro de conformidade de segurança. (O &amp; centro de conformidade de segurança está disponível para o Office 365 Alemanha.)  <br/> |
-|Office para a Web  <br/> |[Descrição do serviço Web do Office](office-online-service-description/office-online-service-description.md) <br/> |Adicionou o Visio.  <br/> |
+|Office para a Web  <br/> |[Descrição dos Serviços do Office para Web](office-online-service-description/office-online-service-description.md) <br/> |Adicionou o Visio.  <br/> |
 |Exchange Online  <br/> |[Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Foram alterados "marcas de retenção e políticas de retenção" para as marcas de retenção e as políticas de retenção do MRM (gerenciamento de registros de mensagens).  <br/> |
 ||[Serviços de Mensagens de Voz](exchange-online-service-description/voice-message-services.md) <br/> |Atualizado para incluir um anúncio de fim de vida útil para a Unificação de mensagens do Exchange Online por meio de SBC.  <br/> |
 | Workplace Analytics  <br/> |[Descrição do serviço do Workplace Analytics](workplace-analytics-service-description.md) <br/> |Adição da nova descrição de serviço  <br/> |

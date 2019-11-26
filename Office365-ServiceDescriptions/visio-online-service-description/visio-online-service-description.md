@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web.
-ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700233"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263224"
 ---
 # <a name="visio-for-the-web-service-description"></a>Visio para a descrição do serviço Web
 
@@ -31,7 +31,7 @@ A tabela a seguir compara os recursos de recurso da Web do Visio para os aplicat
   
 ||||
 |:-----|:-----|:-----|
-|**Recursos do aplicativo** <br/> |**Visio para a Web** <br/> |**Aplicativo da área de trabalho Visio** <br/> |
+|**Recursos do aplicativo** <br/> |**Visio da Web** <br/> |**Aplicativo da área de trabalho Visio** <br/> |
 |[Aplicar formatação avançada a texto e formas](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Organizar objetos](visio-online.md#arrange-objects) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar soluções de mashup](visio-online.md#build-mashup-solutions) <br/> |Sim  <br/> |Sim  <br/> |

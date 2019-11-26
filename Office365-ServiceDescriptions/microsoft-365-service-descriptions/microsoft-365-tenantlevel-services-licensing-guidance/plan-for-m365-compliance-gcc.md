@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de região do governo dos EUA, ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governo-GCC é apropriado para atender a esses requisitos.
-ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319489"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262814"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planejar a conformidade com a Microsoft 365 – GCC
 
@@ -69,25 +69,30 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Governança de proteção de informações &** | Arquivamento                                       | Disponível              |
 |                                         | Rótulos e políticas manuais<sup>2</sup>          | Disponível              |
-|                                         | Aplicação automática de rótulos                      | Na Backlog de engenharia |
+|                                         | Aplicação automática de rótulos                      | Disponível              |
 |                                         | Rótulos baseados em tipos de dados confidenciais            | Na Backlog de engenharia |
-|                                         | Rótulos e políticas associadas com base em consultas | Na Backlog de engenharia |
-|                                         | Plano de arquivos                                       | Na Backlog de engenharia |
+|                                         | Rótulos e políticas associadas com base em consultas | Disponível              |
+|                                         | Plano de arquivos                                       | Disponível              |
 |                                         | Políticas recomendadas                            | Na Backlog de engenharia |
 |                                         | Filtros de importação inteligente                            | Na Backlog de engenharia |
-|                                         | Retenção baseada em eventos                           | Na Backlog de engenharia |
-|                                         | Análise de disposição                              | Na Backlog de engenharia |
+|                                         | Retenção baseada em eventos                           | Disponível              |
+|                                         | Análise de disposição                              | Disponível              |
 |                                         | Barreiras de informações                            | Disponível              |
 |                                         | Prevenção de perda de dados (DLP) para arquivos e email  | Disponível              |
 |                                         | DLP para chat de equipes e conversas de canal    | Na Backlog de engenharia |
+|                                         | Correspondência exata dos dados de DLP                            | Na Backlog de engenharia |
+|                                         | Explorador de Atividade de Rótulo                         | Na Backlog de engenharia |
+|                                         | Classificadores estagiários                           | Na Backlog de engenharia |
+|                                         | Rótulo unificado e rótulos de confidencialidade         | Na Backlog de engenharia |
 | **Gerenciamento de risco do insider**             | Criptografia de mensagem avançada                     | Disponível              |
+|                                         | Gerenciamento de risco do insider                         | Na Backlog de engenharia |
 |                                         | Conformidade em comunicações                        | Na Backlog de engenharia |
 |                                         | Sistema de Proteção de Dados do Cliente                                | Disponível              |
 |                                         | Chave de Cliente                                    | Disponível              |
 |                                         | Gerenciamento de acesso privilegiado                    | Na Backlog de engenharia |
 | **Descobrir & responder**                  | Reserva in-loco                            | Disponível              |
 |                                         | Gerenciamento de casos                                 | Disponível              |
-|                                         | Pesquisar                                          | Disponível              |
+|                                         | Pesquisa                                          | Disponível              |
 |                                         | Exportar                                          | Disponível              |
 |                                         | Descriptografia do RMS                                  | Disponível              |
 |                                         | Exportação nativa                                   | Disponível              |

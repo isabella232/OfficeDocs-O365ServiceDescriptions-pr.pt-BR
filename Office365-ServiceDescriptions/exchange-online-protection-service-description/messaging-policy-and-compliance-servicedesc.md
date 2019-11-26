@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
-ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581867"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262644"
 ---
 # <a name="messaging-policy-and-compliance"></a>Conformidade e política de sistema de mensagens
 
 O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
 
-Você está procurando informações sobre todas as características EOP? Confira o [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
+Você está procurando informações sobre todas as características EOP? Consulte a [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
 
 ## <a name="mail-flow-rules"></a>Regras do fluxo de email
 
@@ -62,7 +62,7 @@ Para saber mais sobre DLP, confira [prevenção contra perda de dados no Exchang
 
 ## <a name="office-365-message-encryption"></a>Criptografia de Mensagem do Office 365
 
-A criptografia de mensagens do Office 365, parte da proteção de informações do Azure, é um serviço online que permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Os clientes locais podem acessar a criptografia de mensagens do Office 365 adquirindo a proteção de informações do Azure e usando o Exchange Online Protection para configurar o fluxo de emails através do Exchange Online. Para saber mais sobre criptografia de mensagem do Office 365 no Exchange Online, consulte [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) na Descrição de Serviço Online do Exchange.
+A criptografia de mensagens do Office 365, parte da proteção de informações do Azure, é um serviço online que permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Os clientes locais podem acessar a criptografia de mensagens do Office 365 adquirindo a proteção de informações do Azure e usando o Exchange Online Protection para configurar o fluxo de emails através do Exchange Online. Para saber mais sobre a criptografia de mensagem do Office 365 no Exchange Online, confira [criptografia de mensagem do office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) na descrição de serviço do Exchange Online.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Recursos de diretiva e conformidade de mensagens através de opções EOP
 

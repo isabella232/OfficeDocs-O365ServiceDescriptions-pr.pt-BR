@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Os recursos de planejamento de projeto a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 3db03307450ef29a6bddc055cea8df845b648f87
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631580"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263405"
 ---
 # <a name="project-planning"></a>Planejamento de projeto
 
 Os recursos de planejamento de projeto a seguir estão disponíveis no Project online.
   
-Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição de serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição do serviço do Project online](project-online-service-description.md).
   
 ## <a name="baseline-rollup"></a>Pacote cumulativo de atualizações de linha de base
 

@@ -1,5 +1,5 @@
 ---
-title: Privacidade, Segurança e Transparência
+title: Privacidade, segurança e transparência
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: A Microsoft valoriza as parcerias que temos com nossos clientes e dá muita importância para a privacidade a segurança dos dados dos clientes. Para saber mais, consulte a Central de Confiabilidade da Microsoft.
-ms.openlocfilehash: d8eecc4a5f120832c9e55fab7a3887eced071136
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8eac5028858b7da2523031de087de92370288438
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734249"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262502"
 ---
-# <a name="privacy-security-and-transparency"></a>Privacidade, Segurança e Transparência
+# <a name="privacy-security-and-transparency"></a>Privacidade, segurança e transparência
 
 > [!NOTE]
 > As informações deste artigo se aplicam às versões globais do Office 365. Se estiver usando uma instância de nuvem nacional do Office 365, como Office 365 U.S. Government, Office 365 Germany e Office 365 operado pela 21Vianet, confira [Nuvens nacionais da Microsoft](https://go.microsoft.com/fwlink/?linkid=841582). 
@@ -58,5 +58,5 @@ O Office 365 proteção avançada contra ameaças ajuda a proteger sua organiza�
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).
   

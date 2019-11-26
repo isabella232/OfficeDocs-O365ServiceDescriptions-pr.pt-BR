@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Os recursos de gerenciamento de portfólio a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733872"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263435"
 ---
 # <a name="portfolio-management"></a>Gerenciamento de portfólio
 
 Os recursos de gerenciamento de portfólio a seguir estão disponíveis no Project online.
   
-Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição de serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição do serviço do Project online](project-online-service-description.md).
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analisar projetos e otimizar portfólios
 

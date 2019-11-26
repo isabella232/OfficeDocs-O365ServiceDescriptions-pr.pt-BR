@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: O Microsoft Office 365 obedece aos padrões e regulamentos da indústria e foi projetado para ajudá-lo a atender aos requisitos normativos de sua empresa. Para mais informações, consulte ofertas de conformidade.
-ms.openlocfilehash: 8d93ff65402361b610ef6a41ed855667a0cdc8b6
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523456"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262864"
 ---
 # <a name="compliance"></a>Conformidade
 
@@ -61,7 +61,7 @@ Para ajudar as organizações a cumprirem os requisitos nacionais, regionais e e
     
 - GxP
     
-- HIPAA/ALTA TECNOLOGIA
+- HIPAA/HITECH
     
 - CCSL (IRAP)
     
@@ -101,7 +101,7 @@ Além disso, observe as seguintes perguntas para o PCI-DSS:
     
 - **Como o Office 365 pode ajudar minha organização com PCI-DSS?**
     
-  - O Office 365 fornece uma plataforma segura para os clientes se comunicarem e colaborarem. A Microsoft opera o serviço com segurança e fornece um conjunto avançado de recursos de conformidade e segurança que você pode usar para proteger seus dados ao longo do ciclo de vida. Com recursos como [prevenção de perda de dados (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), [governança avançada de dados](https://go.microsoft.com/fwlink/?linkid=863925), [proteção de informações do Azure (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), você pode ativar políticas para detectar e rotular automaticamente conteúdo confidencial quando dados, como números de cartão de crédito, Swift códigos, números de roteamento ABA, etc. estão presentes. Você pode encontrar uma lista de tipos de informações confidenciais internas [aqui](https://go.microsoft.com/fwlink/?linkid=868522)e também pode seguir as instruções [aqui](https://go.microsoft.com/fwlink/?linkid=868523) para criar seus próprios tipos de informações confidenciais. Com as políticas apropriadas aplicadas pelo cliente, as organizações podem reter automaticamente os dados por um determinado período de tempo e proteger o conteúdo, impedindo que seus usuários compartilhem dados confidenciais. Se os clientes precisam compartilhar dados confidenciais por email com qualquer pessoa dentro ou fora da organização, os clientes podem aplicar criptografia e proteção de direitos com a [criptografia de mensagem do Office 365](https://go.microsoft.com/fwlink/?linkid=858986) , de modo que somente partes autorizadas possam ler a mensagem protegida. 
+  - O Office 365 fornece uma plataforma segura para os clientes se comunicarem e colaborarem. A Microsoft opera o serviço com segurança e fornece um conjunto avançado de recursos de conformidade e segurança que você pode usar para proteger seus dados ao longo do ciclo de vida. Com recursos como [prevenção de perda de dados (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), [governança avançada de dados](https://go.microsoft.com/fwlink/?linkid=863925), [proteção de informações do Azure (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), você pode ativar políticas para detectar e rotular automaticamente conteúdo confidencial quando dados, como números de cartão de crédito, códigos Swift, números de roteamento aba, etc. estão presentes. Você pode encontrar uma lista de tipos de informações confidenciais internas [aqui](https://go.microsoft.com/fwlink/?linkid=868522)e também pode seguir as instruções [aqui](https://go.microsoft.com/fwlink/?linkid=868523) para criar seus próprios tipos de informações confidenciais. Com as políticas apropriadas aplicadas pelo cliente, as organizações podem reter automaticamente os dados por um determinado período de tempo e proteger o conteúdo, impedindo que seus usuários compartilhem dados confidenciais. Se os clientes precisam compartilhar dados confidenciais por email com qualquer pessoa dentro ou fora da organização, os clientes podem aplicar criptografia e proteção de direitos com a [criptografia de mensagem do Office 365](https://go.microsoft.com/fwlink/?linkid=858986) , de modo que somente partes autorizadas possam ler a mensagem protegida. 
     
 - **Gramm-Leach-Bliley Act (GLB)** O GLB define os requisitos de segurança e privacidade mínimos para instituições financeiras nos Estados Unidos. Softwares ou serviço não podem reivindicar que sejam "compatíveis com GLB" porque a conformidade com GLB também requer procedimentos e políticas. Duas das principais regulamentações sob GLB que afetam os serviços do Office 365 são: 
     
@@ -111,5 +111,5 @@ Além disso, observe as seguintes perguntas para o PCI-DSS:
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).
   

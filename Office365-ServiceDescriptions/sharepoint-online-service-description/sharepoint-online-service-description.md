@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço SharePoint Online
+title: Descrição do serviço do SharePoint Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: O Microsoft SharePoint Online no Office 365 permite que as pessoas compartilhem e trabalhem juntas, para informar e envolver outras pessoas na empresa, para transformar os processos de negócios e para aproveitar o conhecimento coletivo. Além disso, o SharePoint fornece recursos para que as organizações protejam e gerenciem dados e criem soluções personalizadas.
-ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890407"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263305"
 ---
-# <a name="sharepoint-online-service-description"></a>Descrição do serviço SharePoint Online
+# <a name="sharepoint-online-service-description"></a>Descrição do serviço do SharePoint Online
 
 O Microsoft SharePoint Online no Office 365 permite que as pessoas compartilhem e trabalhem juntas, para informar e envolver outras pessoas na empresa, para transformar os processos de negócios e para aproveitar o conhecimento coletivo. Além disso, o SharePoint fornece recursos para que as organizações protejam e gerenciem dados e criem soluções personalizadas. Para obter uma visão geral rápida, confira [o que é o SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
@@ -46,7 +46,7 @@ Saiba mais sobre o suporte móvel em [Usar um dispositivo móvel para trabalhar 
   
 ## <a name="subscription-options"></a>Opções de assinatura
 
-O Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Para saber mais sobre os diversos planos, inclusive opções de planos autônomos, e ver informações sobre como migrar de um plano para outro, confira [Opções de planos do Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+O Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Para obter informações sobre diferentes planos, incluindo opções de plano autônomo e informações sobre como migrar de um plano para outro, consulte [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
 Cada pessoa que acessa o SharePoint Online deve ter um plano do Office 365 associado ou o serviço autônomo do SharePoint Online Plano 1 ou do SharePoint Online Plano 2. No entanto, um plano de início não é vendido como uma oferta autônoma, somente como parte da assinatura de primeiro lugar, como o primeiro, como o SharePoint Online. Como os funcionários de primeira empresa não podem ser administradores, os locatários com os funcionários de primeiro nível exigem pelo menos um administrador corporativo para gerenciar o SharePoint. Os operadores de primeiras não verão os menus de navegação do SharePoint, portanto, os funcionários de primeiro lugar precisam navegar até sites do SharePoint diretamente por URL.
   
@@ -105,16 +105,16 @@ Use a tabela a seguir para determinar se um recurso do SharePoint está disponí
 |[Conjuntos de sites de cabeçalho de host](it-professional.md#host-header-site-collections) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |[Gerenciamento de Dispositivos Móveis para o Office 365](it-professional.md#mobile-device-management-for-office-365) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |[OAuth](it-professional.md#oauth) <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento de patches](it-professional.md#patch-management) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sim  <br/> |Sim  <br/> |
+|[Gerenciamento de patches](it-professional.md#patch-management) <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Sim  <br/> |Sim  <br/> |
 |[Modelos de cota](it-professional.md#quota-templates) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|[Suporte a banco de dados somente leitura](it-professional.md#read-only-database-support) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sim  <br/> |Sim  <br/> |
-|[Remote BLOB Storage](it-professional.md#remote-blob-storage) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento de solicitação](it-professional.md#request-management) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sim  <br/> |Sim  <br/> |
-|[Limitação de recurso](it-professional.md#resource-throttling) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sim  <br/> |Sim  <br/> |
+|[Suporte a banco de dados somente leitura](it-professional.md#read-only-database-support) <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Sim  <br/> |Sim  <br/> |
+|[Remote BLOB Storage](it-professional.md#remote-blob-storage) <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Sim  <br/> |Sim  <br/> |
+|[Gerenciamento de solicitação](it-professional.md#request-management) <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Sim  <br/> |Sim  <br/> |
+|[Limitação de recurso](it-professional.md#resource-throttling) <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Sim  <br/> |Sim  <br/> |
 |[Plataforma do aplicativo de serviço](it-professional.md#service-application-platform) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Analisador de Integridade do SharePoint](it-professional.md#sharepoint-health-analyzer) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|[Centro de administração do SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |No<sup>4</sup> <br/> |N/D  <br/> |N/D  <br/> |
-|Centro de administração central do SharePoint  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sim  <br/> |Sim  <br/> |
+|[Centro de administração do SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |No<sup>4</sup> <br/> |Não disponível  <br/> |Não disponível  <br/> |
+|Centro de administração central do SharePoint  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Não disponível  <br/> |Sim  <br/> |Sim  <br/> |
 |[Políticas de conformidade de conjunto de sites](it-professional.md#site-collection-compliance-policies) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Relatórios de uso e registro em log](it-professional.md#usage-reporting-and-logging) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Suporte do Windows PowerShell](it-professional.md#windows-powershell-support) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |

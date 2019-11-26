@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Os recursos de descoberta a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 9ed949e6a1b90145369807638f3c0b6c272ec85a
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726374"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263092"
 ---
 # <a name="discovery-features-in-yammer"></a>Recursos de descoberta no Yammer
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Os administradores do Microsoft Office 365 podem exibir relatórios que mostram como sua organização está usando os serviços do Office 365. Você pode usar esses relatórios para identificar problemas, filtrar dados e baixar dados para o Microsoft Excel. Você também pode criar seus próprios relatórios usando os serviços de relatório na Web do Office 365. Administradores do Exchange Online e do Proteção do Exchange Online (EOP) podem Usar relatórios de proteção de email no Office 365 para exibir dados sobre detecções de, malware, spam e de regra.
-ms.openlocfilehash: 05219812609c4dbaa51756ed24d1bad2e9fc4c28
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 49617d38b1f169bb33b833eebd336c2fbb511f6e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734058"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262482"
 ---
 # <a name="reports"></a>Relatórios
 
@@ -27,6 +27,6 @@ Confira mais informações em [Exibir e baixar relatórios sobre o uso do servi�
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).
   
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento.
-ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568114"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262542"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -23,9 +23,9 @@ Para atender aos requisitos exclusivos e em evolução do departamento de defesa
   
 Contate sua equipe de contas ou um parceiro preferido para saber mais ou para iniciar o processo de validação. Para obter mais informações sobre como comprar, consulte [Microsoft 365 governamentais-como comprar](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
-## <a name="how-to-use-this-service-description-section"></a>Como usar a seção Descrição de Serviço
+## <a name="how-to-use-this-service-description-section"></a>Seção como usar esta descrição de serviço
 
-A Descrição de Serviço do Office 365 US Government foi criada para servir como uma sobreposição à Descrição de Serviço geral do Office 365. Ela define as diferenças e os compromissos exclusivos em comparação com as ofertas do Office 365 Enterprise.
+A descrição do serviço do governo dos EUA do Office 365 foi projetada para servir como uma sobreposição para a descrição geral do serviço do Office 365. Ela define as diferenças e os compromissos exclusivos em comparação com as ofertas do Office 365 Enterprise.
   
 ## <a name="compliance"></a>Conformidade
 
@@ -43,7 +43,7 @@ A equipe do Office 365 não tem acesso à produção GCC alta e DoD. As equipes 
   
 |||
 |:-----|:-----|
-|**Verificações em segundo plano e tela de pessoal da Microsoft** <sup>1</sup> <br/> |**Descrição** <br/> |
+|**Verificações em segundo plano e tela de pessoal da Microsoft**<sup>1</sup> <br/> |**Descrição** <br/> |
 |Cidadania dos EUA  <br/> |Verificação de cidadania dos EUA  <br/> |
 |Verificação do histórico de empregos  <br/> |Verificação do histórico de empregos dos últimos sete anos  <br/> |
 |Verificação de nível escolar  <br/> |Verificação do grau mais elevado concluído  <br/> |
@@ -62,7 +62,7 @@ As assinaturas do Office 365 nos ambientes GCC High e DoD incluem os principais 
   
 ### <a name="exchange-online"></a>Exchange Online
 
- O suporte à unificação de **mensagens do Exchange Online para IP-PBX local** -suporte para integração de sistemas IP-PBX com a Unificação de mensagens do Exchange Online não é suportado em assinaturas gcc alta e DOD. 
+ O **suporte à unificação de mensagens do Exchange Online para IP-PBX local** -suporte para integração de sistemas IP-PBX com a Unificação de mensagens do Exchange Online não é suportado em assinaturas gcc alta e DOD. 
   
 ### <a name="sharepoint-online"></a>SharePoint Online
 

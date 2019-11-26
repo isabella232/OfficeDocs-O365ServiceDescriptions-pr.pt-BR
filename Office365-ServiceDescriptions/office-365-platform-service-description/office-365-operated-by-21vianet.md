@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724759"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263062"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -41,7 +41,7 @@ Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individua
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Serviço**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
-|Plataforma Office 365<sup>1</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Office 365 plataforma<sup>1</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Exchange Online|Sim|Não|Sim|Sim|Sim|Sim|Sim|
 |SharePoint Online|Sim|Não|Sim|Sim|Sim|Sim|Sim|
 |OneDrive for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -124,7 +124,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Hospedar vários Sites Públicos do SharePoint Online com nomes de domínio personalizados<sup>5</sup>|Não|Não|Não|Não|Não|Não|Não|
 |Verificação de propriedade de domínio necessária para domínios personalizados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy|Não|Não|Não|Não|Não|Não|Não|
-|**[Continuidade e Integridade do Serviço](service-health-and-continuity.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
+|**[Continuidade e integridade do serviço](service-health-and-continuity.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Status de alertas individuais disponíveis no painel do centro de administração do 365 da Microsoft|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RSS feed de **Integridade do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -191,7 +191,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Criar convites para avaliação e ordens de compra para um cliente que está usando o plano especificado|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Fornecer administração delegada|Não|Não|Não|Não|Não|Não|Não|
 |**[Contrato de Nível de Serviço](service-level-agreement.md)**<sup>9</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Direitos de Uso do Produto](product-use-rights.md)**<sup>10</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|**[Direitos de uso do produto](product-use-rights.md)**<sup>10</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 
 <sup>1</sup> o Office 365 e o Office 365 operado pela 21vianet não oferecem suporte a nenhum sistema operacional que não seja suportado pelo fabricante.<br/>
 <sup>2</sup> no Office 365 Enterprise F1 operado pela 21vianet, o vídeo do Office 365 está limitado somente a visualização (sem publicar ou compartilhar). <br/>
@@ -460,7 +460,7 @@ Para saber mais sobre os limites do Exchange Online, confira o seguinte:
 > - Os limites aplicados a uma organização do Microsoft Office 365 podem variar, dependendo do tempo pelo qual a organização já está registrada no serviço. Quando um limite é alterado nos datacenters da Microsoft, pode demorar algum tempo para que a alteração seja aplicada a todos os clientes existentes.
 > - Não é possível modificar a maioria desses limites, mas você e seus usuários devem conhecê-los.
 > - Esses limites se aplicam a destinatários internos e externos.
-> - Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no ExchangeOnlinePreview, consulte [Limites do Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no Exchange Online, confira [limites de proteção do Exchange Online](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Recursos da Proteção do Exchange Online
 
@@ -1136,10 +1136,10 @@ A tabela a seguir exibe os recursos do Project Online que estão disponíveis en
 |[Administração, implantação e extensibilidade](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|Não<sup>2</sup>|Sim|Sim|Não|Sim|
 |[Introdução](../project-online-service-description/core-services-functionality.md#getting-started)|Sim|Sim|Sim|Não|Sim|
 |[Gerenciamento de problemas e de riscos (para membros da equipe)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|Sim|Sim|Sim|Não|Sim|
-|[Central de Confiabilidade do Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Não|Não|Não|N/D|N/A|
+|[Central de Confiabilidade do Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Não|Não|Não|Não disponível|Não disponível|
 |[Ecossistema de Parceiros de PPM](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|Sim|Sim|Sim|Não|Sim|
-|[Confiabilidade do serviço](../project-online-service-description/core-services-functionality.md#service-reliability)|Sim|Sim|Sim|N/D|N/A|
-|[Atualizações de serviço](../project-online-service-description/core-services-functionality.md#service-updates)|Sim|Sim|Sim|N/D|N/D|
+|[Confiabilidade do serviço](../project-online-service-description/core-services-functionality.md#service-reliability)|Sim|Sim|Sim|Não disponível|Não disponível|
+|[Atualizações de serviço](../project-online-service-description/core-services-functionality.md#service-updates)|Sim|Sim|Sim|Não disponível|Não disponível|
 |[Colaboração de membros da equipe](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|Sim|Sim|Sim|Não|Sim|
 |[Gerenciamento de tempo e de tarefas (para membros da equipe)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|Sim|Sim|Sim|Não|Sim|
 |**Gerenciamento de projetos**|**Project Online Essentials para Office 365 operado pela 21Vianet**|**Project Online Professional para Office 365 operado pela 21Vianet**|**Project Online Premium para Office 365 operado pela 21Vianet**|**Project Professional 2016 para Office 365 operado pela 21Vianet**|**Project Server 2016 para Office 365 operado pela 21Vianet**|

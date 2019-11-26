@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e o&mdash;Microsoft Skype for Business online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724639"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263032"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -23,7 +23,7 @@ O Microsoft Office 365 está disponível em uma variedade de planos para atender
   
 Este artigo lista os recursos para os planos de educação do Office 365 (a1, a3 e a5). Para comparar recursos entre planos comerciais e empresariais, confira [comparar planos do Office 365 para empresas](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) ou, para obter uma lista mais detalhada dos recursos, consulte a descrição de serviço relevante nas [descrições do serviço do Office 365](../office-365-service-descriptions-technet-library.md).
   
-Para pesquisar artigos de suporte e informações, confira [ajuda e treinamento do Office](https://support.office.com/).
+Para pesquisar artigos de suporte e informações, confira [treinamento &amp; da ajuda do Office](https://support.office.com/).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilidade do serviço para cada plano
 
@@ -32,7 +32,7 @@ Cada plano de educação do Office 365 inclui vários serviços individuais, com
 |||||
 |:-----|:-----|:-----|:-----|
 |**Serviço** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 a5**<sup>3</sup> <br/> |
-|Plataforma Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Plataforma do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Exchange Online  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -472,7 +472,7 @@ Os limites no Microsoft Exchange Online podem ser classificados em uma das segui
 >  - Os limites aplicados a uma organização do Microsoft Office 365 podem variar, dependendo do tempo pelo qual a organização já está registrada no serviço. Quando um limite é alterado nos datacenters da Microsoft, pode demorar algum tempo para que a alteração seja aplicada a todos os clientes existentes. 
 >  - Não é possível modificar a maioria desses limites, mas você e seus usuários devem conhecê-los. 
 > - Esses limites se aplicam a destinatários internos e externos. 
-> - Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no ExchangeOnlinePreview, consulte [Limites do Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no Exchange Online, confira [limites de proteção do Exchange Online](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
 >  - Para obter informações sobre os limites de grupo do Office 365, consulte "como faço para gerenciar meus grupos?" no [Saiba mais sobre grupos do Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
   
 #### <a name="address-book-limits"></a>Limites de catálogo de endereços
@@ -671,7 +671,7 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
    
 #### <a name="reporting-and-message-trace-limits"></a>Limites de rastreamento de mensagens e relatórios
 
-Para saber quais são os limites de rastreamento de mensagens e relatórios, consulte a seção "Latência e disponibilidade de dados de rastreamento de mensagens e criação de relatórios" em [Geração de Relatórios e Rastreamento de Mensagens no Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
+Para relatórios e limites de rastreamento de mensagens, consulte a seção "disponibilidade e latência dos dados de relatórios e rastreamento de mensagens" em [relatórios e rastreamento de mensagens no Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
   
 #### <a name="retention-limits"></a>Limites de retenção
 
@@ -709,7 +709,7 @@ Estes limites se aplicam a grupos de distribuição no catálogo de endereços c
 |Número máximo de membros do grupo de distribuição<sup>1</sup> <br/> |100.000 membros  <br/> |100.000 membros  <br/> |100.000 membros  <br/> |
 |Limite de envio de mensagens para grupos de distribuição grandes  <br/> |5.000 ou mais membros  <br/> |5.000 ou mais membros  <br/> |5.000 ou mais membros  <br/> |
 |Tamanho máximo de mensagens para grupos de distribuição grandes  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Número máximo de proprietários do grupo de distribuição  <br/> |254  <br/> |254  <br/> |254  <br/> |
+|Número máximo de proprietários do grupo de distribuição  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Número máximo de grupos que um usuário pode criar  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -1303,7 +1303,7 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |15 dias  <br/> |15 dias  <br/> |15 dias  <br/> |
+|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |15 dias   <br/> |15 dias   <br/> |15 dias  <br/> |
 |Retenção de conteúdo de reunião: Reunião recorrente  <br/> |15 dias  <br/> |15 dias   <br/> |15 dias  <br/> |
 |Retenção de conteúdo de reunião: Reunião do tipo Reunir Agora  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |
 |Expiração de reunião: Reunião de Ocorrência Única  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |

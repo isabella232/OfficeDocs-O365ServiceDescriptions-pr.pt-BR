@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765632"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263415"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -119,7 +119,7 @@ Os recursos listados nesta seção interagem somente com dados no projeto para o
 |Aplicativos móveis | Criar aplicativos móveis personalizados com o PowerApps. <sup>4</sup> |
 |**Personalização e integração**||
 |PowerApps | Construa e consuma soluções para Web e móveis com o PowerApps. <sup>4</sup> |
-|Workflows | Automatizar e integrar processos de negócios com o Microsoft Flow. <sup>5</sup> |
+|Fluxos de trabalho | Automatizar e integrar processos de negócios com o Microsoft Flow. <sup>5</sup> |
 |Integração do Microsoft Office 365 | Colabore, gerencie documentos e muito mais usando ferramentas e aplicativos conhecidos do Office 365. <sup>1</sup> |
 |**Gerenciamento de segurança e de usuários**||
 |Grupos modernos do Office | Crie uma equipe de projeto para colaborar com o e configurar facilmente uma coleção de recursos para que os membros da equipe compartilhem.|
@@ -148,11 +148,11 @@ Os recursos listados nesta seção interagem apenas com os dados do repositório
 |Agendamento de tarefas | Use datas de início e de término, esforço, trabalho, tempos de avanço e retardo e dependências para obter um cronograma preciso de datas do projeto usando o Project Web App. | Sim | Sim |
 |Atualizações de tarefas | Capturar o tempo e o status com comentários sobre tarefas de projeto, trabalho não relacionado ao projeto e período de folga. | Sim | Sim |
 |Linhas | Rastreie e entenda visualmente datas, dependências e atribuições de projetos em um modo de exibição de linha do tempo usando o Project Web App. | Sim | Sim |
-|Quadros | Os membros da equipe podem inserir tempo e status em tarefas, trabalho não relacionado ao projeto e período de folga. | Sim | Sim |
+|Quadros de horários | Os membros da equipe podem inserir tempo e status em tarefas, trabalho não relacionado ao projeto e período de folga. | Sim | Sim |
 |Aprovações de quadro de horários | Os membros da equipe podem enviar quadros de horários para aprovação. Os gerentes de recursos e os supervisores podem revisar, aprovar e recusar quadros de horários enviados. | Sim | Sim |
 |Configuração de período de folga | Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. | Não | Sim |
 |**Colaboração** ||||
-|Anexos | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
+|Attachments | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
 |Membros externos da equipe |Colaborar com pessoas de fora de sua organização, concedendo a elas acesso para exibir e interagir com seus projetos, tarefas e documentos. <sup>6</sup> | Sim | Sim |
 |Sites de projeto | Criar e personalizar um hub para colaboração e documentos de um projeto. | Sim | Sim |
 Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim |
@@ -180,7 +180,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 |Custom fields | Adicione campos personalizados no nível do projeto, da tarefa e do recurso para rastrear os dados importantes para sua organização e seus projetos. | Sim | Sim |
 |Fórmula | Calcule e Capture dados importantes usando fórmulas entre tarefas e projetos. | Sim | Sim |
 |PowerApps | Construa e consuma soluções para Web e celular (por meio de OData) com PowerApps. <sup>4</sup> | Sim | Sim |
-|Workflows | Automatize e integre processos de negócios (por meio de OData) com o Microsoft Flow. <sup>5</sup> | Sim | Sim |
+|Fluxos de trabalho | Automatize e integre processos de negócios (por meio de OData) com o Microsoft Flow. <sup>5</sup> | Sim | Sim |
 |Integração do Microsoft Office 365 | Colabore, gerencie documentos e muito mais usando ferramentas e aplicativos conhecidos do Office 365. <sup>1</sup> | Sim | Sim |
 |Integração do Microsoft Planner | Conectar tarefas do projeto a um plano do Planner e acompanhar o trabalho detalhado no Planner. <sup>1</sup> | Sim | Sim |
 |**Gerenciamento de segurança, usuário e serviço**||||
@@ -283,7 +283,7 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 |Número. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Número. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para a tarefa | 1/1/1984 &ndash; 12/31/2149 |
-|**Projeto** ||
+|**Project** ||
 |Número. total de tarefas do projeto | 500 |
 |Número. duração total do projeto | 3650 dias (10 anos) |
 |Número. total de recursos para o projeto | 150 |

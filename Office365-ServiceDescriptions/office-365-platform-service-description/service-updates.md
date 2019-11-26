@@ -1,5 +1,5 @@
 ---
-title: Atualizações do Serviço
+title: Atualizações de serviço
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para saber mais sobre os recursos do Office 365 que acabaram de ser lançados ou estão prestes a serem lançados, confira o Microsoft 365 Roadmap.
-ms.openlocfilehash: 6c0b147a53e51303b072c89f8fab722fbadbec37
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 3ef34fc02754702e16d077da85042d3f100fe812
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734038"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262402"
 ---
-# <a name="service-updates"></a>Atualizações do Serviço
+# <a name="service-updates"></a>Atualizações de serviço
 
 > [!NOTE]
 > Este tópico não se aplica ao Office 365 operado pela 21Vianet. Para saber mais sobre as atualizações de serviço, confira [Obter suporte técnico, de cobrança e de assinatura do Office 365 operado pela 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
@@ -43,6 +43,6 @@ Observe que o Office 365 está em conformidade com a [Política de Ciclo de Vida
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte [Descrição de Serviço da Plataforma Office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).
   
 

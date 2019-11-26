@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581427"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262684"
 ---
 # <a name="voice-message-services"></a>Serviços de mensagens de voz
 
@@ -76,7 +76,7 @@ As soluções de caixa postal locais de terceiros poderão interoperar com o Exc
   
 ## <a name="skype-for-business-integration"></a>Integração do Skype for Business
 
-As organizações podem comprar o Skype for Business Online como um serviço independente ou como parte do Microsoft Office 365. O Skype for Business 2015 local também é suportado. Para saber mais sobre o Skype for Business Online, consulte [Descrição do Serviço do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+As organizações podem comprar o Skype for Business Online como um serviço independente ou como parte do Microsoft Office 365. O Skype for Business 2015 local também é suportado. Para saber mais sobre o Skype for Business Online, consulte [Descrição do serviço do Skype for Business online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

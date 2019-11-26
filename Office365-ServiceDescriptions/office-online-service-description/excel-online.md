@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020258"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261912"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -102,7 +102,7 @@ Após criar uma tabela do Excel, você só poderá querer o estilo de tabela sem
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Você pode recortar, copiar e colar texto, números, equações, formas, gráficos e imagens. Se houver dados em colunas que você precisa girar para reorganizá-los em linhas, use o recurso **transpor** no menu **colar** .
+Você pode recortar, copiar e colar texto, hiperlinks, números, fórmulas, formas, gráficos e imagens. Se houver dados em colunas que você precisa girar para reorganizá-los em linhas, use o recurso **transpor** no menu **colar** . Saiba mais sobre [copiar e colar no Excel para a Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 

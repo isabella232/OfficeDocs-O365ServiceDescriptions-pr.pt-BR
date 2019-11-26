@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento de Contas de Usuário
+title: User account management
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: O Microsoft Office 365 oferece suporte aos seguintes métodos para criar, gerenciar e autenticar usuários.
-ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 947030a8a0e04d5a5bc79cffed20cf054bb8d29e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911784"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262112"
 ---
-# <a name="user-account-management"></a>Gerenciamento de Contas de Usuário
+# <a name="user-account-management"></a>User account management
 
 O Microsoft Office 365 oferece suporte aos seguintes métodos para criar, gerenciar e autenticar usuários. 
   
 > [!NOTE]
-> Este tópico não inclui informações sobre recursos de segurança que permitem ou proíbem o acesso a recursos individuais do Office 365 (por exemplo, controle de acesso baseado em função no Microsoft Exchange Online ou configurar a segurança no Microsoft SharePoint Online). Veja detalhes sobre esses recursos em [Descrição de Serviço do Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) e [Descrição do serviço SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
+> Este tópico não inclui informações sobre recursos de segurança que permitem ou proíbem o acesso a recursos individuais do Office 365 (por exemplo, controle de acesso baseado em função no Microsoft Exchange Online ou configurar a segurança no Microsoft SharePoint Online). Para obter detalhes sobre esses recursos, consulte a [Descrição do serviço do Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) e a [Descrição do serviço do SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
 Se você precisa de informações sobre ferramentas para executar tarefas administrativas, confira [Ferramentas para gerenciar contas do Office 365](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Para saber como executar tarefas diárias de gerenciamento, confira [Tarefas comuns de gerenciamento do Office 365](https://docs.microsoft.com/office365/admin/manage/manage).
   
@@ -127,7 +127,7 @@ A maneira de excluir contas depende de se estar usando a sincronização de dire
     
 - Se você estiver usando a sincronização de diretório, você deve excluir os usuários do Active Directory local, em vez do Office 365.
     
-Quando uma conta é excluída, ela se torna inativa. Por um período de aproximadamente 30 dias após ter sido excluída, ainda é possível restaurar a conta. Para obter mais informações sobre como excluir e restaurar contas, consulte [excluir usuários no office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) e [restaurar usuários no Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) ou, se você estiver usando o Office 365 operado pela 21vianet na China, consulte [create or Edit user accounts in Office 365 operated by 21Vianet-ajuda do administrador](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Quando uma conta é excluída, ela se torna inativa. Por um período de aproximadamente 30 dias após ter sido excluída, ainda é possível restaurar a conta. Para obter mais informações sobre como excluir e restaurar contas, consulte [excluir usuários no office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) e [restaurar usuários no Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) ou, se você estiver usando o Office 365 operado pela 21vianet na China, consulte [criar ou editar contas de usuário no Office 365 operado pela 21vianet-ajuda do administrador](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="password-management"></a>Gerenciamento de senhas
 

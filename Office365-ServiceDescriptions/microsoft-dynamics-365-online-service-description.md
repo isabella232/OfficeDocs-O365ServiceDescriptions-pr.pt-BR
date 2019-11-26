@@ -1,5 +1,5 @@
 ---
-title: Descrição do Serviço do Microsoft Dynamics 365 (online)
+title: Descrição do serviço do Microsoft Dynamics 365 (online)
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partir da atualização de dezembro de 2016 do Dynamics 365 (online e local), a funcionalidade do Dynamics CRM agora está incluída como parte do Dynamics 365, um pacote de aplicativos de negócios inteligentes. O Dynamics 365 unifica os recursos de gerenciamento de relacionamento do cliente (CRM) e ERP (planejamento de recursos da empresa), fornecendo novos aplicativos para ajudar a gerenciar funções comerciais específicas.
-ms.openlocfilehash: ae234baf353258f6d2158c2636a8139133a812ee
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 35a1dbe7eef9fed64ad1738d84687a39ca45bef9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734179"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262804"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Descrição do Serviço do Microsoft Dynamics 365 (online)
+# <a name="microsoft-dynamics-365-online-service-description"></a>Descrição do serviço do Microsoft Dynamics 365 (online)
 
 A partir da atualização de dezembro de 2016 do Dynamics 365 (online e local), a funcionalidade do Dynamics CRM agora está incluída como parte do Dynamics 365, um pacote de aplicativos de negócios inteligentes. O Dynamics 365 unifica os recursos de gerenciamento de relacionamento do cliente (CRM) e ERP (planejamento de recursos da empresa), fornecendo novos aplicativos para ajudar a gerenciar funções comerciais específicas.
   

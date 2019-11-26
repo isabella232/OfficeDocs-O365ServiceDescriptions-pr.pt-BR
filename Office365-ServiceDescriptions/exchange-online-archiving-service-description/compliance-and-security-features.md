@@ -1,5 +1,5 @@
 ---
-title: Conformidade e segurança recursos de Arquivamento do Exchange Online
+title: Recursos de conformidade e segurança no arquivamento do Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581877"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260726"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Recursos de conformidade e segurança no arquivamento do Exchange Online
 
@@ -133,6 +133,6 @@ Auditoria de administrador consta do registro por padrão e auditoria de caixa d
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365 nas opções autônomas e nas soluções locais, consulte [Descrição do Serviço de Arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
   
 

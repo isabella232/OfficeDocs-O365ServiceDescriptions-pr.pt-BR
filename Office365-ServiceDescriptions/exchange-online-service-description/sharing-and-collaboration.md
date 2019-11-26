@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582007"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262714"
 ---
 # <a name="sharing-and-collaboration"></a>Compartilhamento e colaboração
 
@@ -46,7 +46,7 @@ Para saber mais sobre caixas de correio de sites, confira [Caixas de correio de 
   
 ## <a name="public-folders"></a>Pastas públicas
 
-As pastas públicas no Exchange Online foram modernizadas para aproveitar as tecnologias existentes de alta disponibilidade e armazenamento do banco de dados de caixa de correio. A hierarquia de pasta pública usa caixas de correio designadas especialmente para armazenar o conteúdo da pasta pública e a hierarquia. Isso significa que não há mais um banco de dados de pasta pública separado. A replicação de pasta pública agora usa o modelo de replicação contínua. A alta disponibilidade da hierarquia e das caixas de correio de conteúdo é fornecida por um grupo de disponibilidade de banco de dados (DAG) no data center. No Exchange Online, você está limitado a 1000 caixas de correio de pasta pública. Cada caixa de correio da pasta pública também possui um tamanho máximo de armazenamento. Para obter mais informações, consulte a seção "Limites de pasta da caixa de correio" em [Limites do Exchange Online](exchange-online-limits.md). As caixas de correio da pasta pública possuem os mesmos limites de alerta de capacidade, mensagem, destinatário do que as caixas de correio normais. Para obter mais informações, consulte [Destinatários](recipients.md). 
+As pastas públicas no Exchange Online foram modernizadas para aproveitar as tecnologias existentes de alta disponibilidade e armazenamento do banco de dados de caixa de correio. A hierarquia de pasta pública usa caixas de correio designadas especialmente para armazenar o conteúdo da pasta pública e a hierarquia. Isso significa que não há mais um banco de dados de pasta pública separado. A replicação de pasta pública agora usa o modelo de replicação contínua. A alta disponibilidade da hierarquia e das caixas de correio de conteúdo é fornecida por um grupo de disponibilidade de banco de dados (DAG) no data center. No Exchange Online, você está limitado a 1000 caixas de correio de pasta pública. Cada caixa de correio da pasta pública também possui um tamanho máximo de armazenamento. Para obter mais informações, consulte a seção "limites da pasta da caixa de correio" em [limites do Exchange Online](exchange-online-limits.md). As caixas de correio da pasta pública possuem os mesmos limites de alerta de capacidade, mensagem, destinatário do que as caixas de correio normais. Para obter mais informações, consulte [Destinatários](recipients.md). 
   
 Para saber mais sobre pastas públicas, confira [Pastas públicas](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

@@ -1,5 +1,5 @@
 ---
-title: Descrição de Serviço do Exchange Online
+title: Descrição do serviço do Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701355"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262764"
 ---
-# <a name="exchange-online-service-description"></a>Descrição de Serviço do Exchange Online
+# <a name="exchange-online-service-description"></a>Descrição do serviço do Exchange Online
 
 Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
   
@@ -40,7 +40,7 @@ As organizações que assinam o Exchange Online mantêm controle sobre os servi�
 Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans). Para comparar os planos do Office 365 Germany, confira [Planos de assinatura do Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
 > [!TIP]
-> Você pode exportar, salvar e imprimir páginas nas Descrições de Serviço do Office 365. Saiba como [exportar várias páginas](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> Você pode exportar, salvar e imprimir páginas nas descrições de serviço do Office 365. Saiba como [exportar várias páginas](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
   
 ## <a name="whats-new-in-exchange-online"></a>Novidades no Exchange Online
 
@@ -48,7 +48,7 @@ Para saber mais sobre os novos recursos do Exchange Online, confira [Novidades n
   
 ## <a name="office-365-plans-for-exchange-online"></a>Planos do Office 365 para o Exchange Online
 
-O Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Para saber mais sobre os diversos planos, inclusive opções de planos autônomos, e ver informações sobre como migrar de um plano para outro, confira [Opções de planos do Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+O Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Para obter informações sobre diferentes planos, incluindo opções de plano autônomo e informações sobre como migrar de um plano para outro, consulte [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
 Cada usuário que acessar o serviço Exchange Online deve ser atribuído a um plano de assinatura, e cada assinatura de usuário ter sua própria caixa de correio. Pastas e mensagens nessas caixas de correio residem em um computador com Exchange Server em um data center da Microsoft.
   
@@ -60,7 +60,7 @@ Para obter o requisitos de sistema para o Office 365, o serviço mensal baseado 
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limites de armazenamento e de destinatários para o Exchange Online
 
-Para obter informações sobre os limites de armazenamento e de destinatários disponíveis nos planos de assinatura do Exchange Online, consulte [Limites do Exchange Online](exchange-online-limits.md).
+Para obter informações sobre os limites de armazenamento e de destinatários disponíveis nos planos de assinatura do Exchange Online, consulte [limites do Exchange Online](exchange-online-limits.md).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilidade de recursos nos planos do Office 365
 
@@ -212,7 +212,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Permissões baseadas em função|Sim|Sim|Sim|Sim|Não|
 |Grupos de função|Sim|Sim|Sim|Sim|Não|
 |Diretivas de atribuição de função|Sim|Sim|Sim|Sim|Não|
-|**[Política e Conformidade de Mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|**[Política e conformidade de mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Arquivamento de Caixas de Correio baseadas no Exchange Online|Sim|Não|Sim|Sim|Não|
 |Arquivamento baseado em nuvem de caixas de correio no local|Sim <sup>5</sup>|Sim <sup>5</sup>|Não|Sim|Não|
 |Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|
@@ -268,7 +268,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Message trace|Não|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Relatórios de auditoria|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Relatórios de Unificação de Mensagens|Sim|Sim|Não|Sim|Não|
-|**[Compartilhamento e Colaboração](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|**[Compartilhamento e colaboração](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Compartilhamento Federado|Sim|Sim|Sim|Sim|Sim|
 |Caixas de correio local|Sim <sup>3</sup>|Sim <sup>3</sup>|Sim <sup>4</sup>|Sim <sup>4</sup>|Sim <sup>4</sup>|
 |Pastas públicas|Sim|Sim|Sim|Sim|Não|
@@ -280,11 +280,11 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |SMTP|Sim|Sim|Sim|Sim|Sim|
 |Suporte a aplicativos EWS|Sim|Sim|Sim|Sim|Não|
 |Outlook para Mac|Sim|Sim|Sim|Sim|Não|
-|**[Serviços de Mensagens de Voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|**[Serviços de mensagens de voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Caixa postal|Sim|Sim|Não|Sim|Não|
 |Interoperabilidade de caixa postal de terceiros|Sim|Sim|Sim|Sim|Sim|
 |Integração do Skype for Business|Sim|Sim|Sim|Sim|Sim|
-|**[Alta Disponibilidade e Continuidade de Negócios](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|**[Alta disponibilidade e continuidade de negócios](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Replicação de caixa de correio em data centers|Não|Não|Sim|Sim|Sim|
 |Recuperação da caixa de correio excluída|Sim|Sim|Sim|Sim|Sim|
 |Recuperação de itens excluídos|Sim|Sim|Sim|Sim|Sim|

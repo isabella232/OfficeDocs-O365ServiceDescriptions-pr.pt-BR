@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: O email de resumo ajuda os usuários a aproveitar o máximo de cada dia. Ele identifica oportunidades entre vários elementos e fornece lembretes oportunas.
-ms.openlocfilehash: 1027ffd93891139e90d369950be5e364e14b074a
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724769"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260656"
 ---
 # <a name="briefing-email-service-description"></a>Descrição do serviço de email de resumo
 
