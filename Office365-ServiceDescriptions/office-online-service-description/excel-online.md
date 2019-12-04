@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261912"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810820"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
 O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
   
 > [!NOTE]
-> Pastas de trabalho que excedem 30 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro do Microsoft SharePoint Online. Para exibir arquivos maiores, você precisa ter o aplicativo de área de trabalho Excel instalado no computador. 
+> As pastas de trabalho que excedem 50 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro do Microsoft SharePoint Online. Para exibir arquivos maiores, você precisa ter o aplicativo de área de trabalho Excel instalado no computador. 
 
 > [!NOTE]
 > Para ajudá-lo a comparar ofertas, os recursos avançados listados neste artigo incluem recursos do aplicativo de área de trabalho do Excel que só estão disponíveis no pacote do Office (como Office Professional Plus, Office Standard ou Office 365 ProPlus). Para obter uma lista de todos os recursos do Office para a Web, como o Word para a Web e o PowerPoint para a Web, consulte [recursos de disponibilidade nos planos do Office para a Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).

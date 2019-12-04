@@ -1,5 +1,5 @@
 ---
-title: Opções de plano do Office 365
+title: Opções de planos do Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,14 +16,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263042"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810810"
 ---
-# <a name="office-365-plan-options"></a>Opções de plano do Office 365
+# <a name="office-365-plan-options"></a>Opções de planos do Office 365
 
 O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
   
@@ -67,7 +67,7 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 <sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1.<br/>
 <sup>3</sup> para saber mais sobre quais recursos de proteção de informações do Azure estão incluídos nos planos do Office 365, confira [proteção de informações do Azure](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>4</sup> o Office 365 Enterprise E5 contém recursos de sistema de telefonia, conferência de áudio e plano de chamadas. Para implementar um Plano de Chamada é preciso comprar um plano adicional (seja Doméstico ou Internacional).<br/>
-<sup>5</sup> inclui armazenamento de 2 GB. Não inclui a funcionalidade de sincronização com o desktop. <br/>
+<sup>5</sup> inclui armazenamento de 2 GB. <br/>
 <sup>6</sup> inclui o plano 1 do Exchange Online. <br/>
 <sup>7</sup> inclui o plano 2 do Exchange Online. <br/>
 <sup>8</sup> inclui o Exchange Online plano 1 mais recursos complementares. <br/>

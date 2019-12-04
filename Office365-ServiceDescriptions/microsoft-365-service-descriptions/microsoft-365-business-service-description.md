@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço de negócios 365 da Microsoft
+title: Descrição do serviço Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. Esta descrição de serviço descreve as opções e os recursos do plano.
-ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262844"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810800"
 ---
-# <a name="microsoft-365-business-service-description"></a>Descrição do serviço de negócios 365 da Microsoft
+# <a name="microsoft-365-business-service-description"></a>Descrição do serviço Microsoft 365 Business
 
 O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com segurança avançada e gerenciamento de dispositivos para ajudar a proteger sua empresa contra ameaças avançadas. Esta descrição de serviço descreve as opções e os recursos do plano. Para obter mais informações sobre o Office 365, consulte as [descrições de serviço do office 365](../office-365-service-descriptions-technet-library.md).
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Disponibilidade de recursos nos planos de negócios do Office 365 Business Premium e Microsoft 365
 
-O Microsoft 365 Business essencialmente inclui todos os recursos disponíveis no Office 365 Business Premium junto com recursos de segurança adicionais do Office 365.
+O Microsoft 365 Business inclui essencialmente todos os recursos disponíveis no Office 365 Business Premium junto com recursos de segurança adicionais do Office 365.
+
+O Microsoft 365 Business inclui os seguintes recursos do Azure AD Premium P1: redefinição de senha de autoatendimento com write-back do AD, autenticação multifator do Azure (MFA) e acesso condicional. Ele não inclui todo o Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|
@@ -76,9 +78,9 @@ O Microsoft 365 Business essencialmente inclui todos os recursos disponíveis no
 |SLA 99,9%  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Advanced Threat Analytics  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de dispositivos e aplicativos](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> O Microsoft 365 Business inclui recursos completos do Intune para iOS, Android, Mac OS e outros gerenciamento de dispositivos de plataforma cruzada. <sup>9</sup> <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
-|Gerenciamento de dispositivo móvel (MDM) do Intune para PCs, Macs e dispositivos móveis<sup>5</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Gerenciamento de dispositivo móvel (MDM) do Intune para PCs, Macs e dispositivos móveis<sup>5</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Registro automático de MDM (gerenciamento de dispositivo móvel)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciamento de aplicativo móvel (MAM) do Intune para aplicativos do Office e aplicativos LOB<sup>17</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Gerenciamento de aplicativo móvel (MAM) do Intune para aplicativos do Office e aplicativos LOB<sup>9</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Gerenciamento de atualizações do Windows, defender, políticas de firewall<sup>5</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção de dados-limpeza seletiva  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Grupo de segurança (SG) direcionando para políticas  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
@@ -87,7 +89,7 @@ O Microsoft 365 Business essencialmente inclui todos os recursos disponíveis no
 |Implantando perfis de dispositivo e configuração de segurança<sup>5</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Roaming de estado corporativo para o Windows 10 com ingresso no Azure AD  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Recuperação de BitLocker de autoatendimento  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Área de trabalho virtual do Windows <br/> |Não <br/> |Sim <br/> |Sim <br/> |
+|Área de Trabalho Virtual do Windows <br/> |Não <br/> |Sim <br/> |Sim <br/> |
 
 |||
 |:-----|:-----|
