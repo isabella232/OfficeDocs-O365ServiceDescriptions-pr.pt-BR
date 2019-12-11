@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço de aplicativos do Office
+title: Descrição de serviços dos aplicativos do Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: O Microsoft Office 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office com os quais você já está familiarizado, como o Word, o Excel e o PowerPoint.
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261952"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969947"
 ---
-# <a name="office-applications-service-description"></a>Descrição do serviço de aplicativos do Office
+# <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
 O Microsoft Office 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office com os quais você já está familiarizado, como o Word, o Excel e o PowerPoint.
   
@@ -71,7 +71,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Armazenamento e conformidade do Exchange Online e do SharePoint Online  <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/>|Sim<sup>1</sup> <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Suporte à Política de Grupo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
 |Suporte à política de nuvem do Office  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não <br/> |
-|Gerenciamento de direitos de informação usando a proteção de informações do Azure  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |
+|Gerenciamento de direitos de informação usando a proteção de informações do Azure  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Não<sup>2</sup> <br/> |Sim <br/> |
 |Information Rights Management usando o Windows Server AD RMS  <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim <br/>| Sim<sup>3</sup> <br/>|Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |
 |Suporte a suplementos do Office, ActiveX e BHO  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>+++<sup> <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim <br/> |
 |Acesso de cliente do OneNote aos blocos de anotações no SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>++</sup> <br/> |Sim <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Sim <br/> |
@@ -169,7 +169,7 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais
 |Pesquisa Inteligente | Não | Não | Não |
 |Sons do Office (alguns) | Não | Não | Não |
 |modelos 3D e animações incorporadas 3D | Não | Não | Não |
-Gráficos: mapas | Não | Não | Não |
+|Gráficos: mapas | Não | Não | Não |
 |Tinta digital inteligente | Não | Não | Não |
 |Legendas ao vivo & legendas no PowerPoint | Não | Não | Não |
 |Apresentador | Não | Não | Não |
@@ -179,6 +179,7 @@ Gráficos: mapas | Não | Não | Não |
 |Grupos do Office 365 | Não | Não | Não |
 |Colaboração em tempo real (presença, coautoria regular, chat em documento) | Não | Não | Não |
 |Ditado | Não<sup>1</sup> | Não<sup>1</sup> | Não<sup>1</sup> |
+|Reutilizar slides | Não | Não | Não |
 |**O Microsoft whiteboard** em nuvens governamentais só está disponível atualmente em clientes de Hub, e não na área de trabalho. | Sim<sup>2</sup> | Sim<sup>2</sup> | Sim<sup>2</sup> |
 |Inserir notas auto-adesivas, texto e imagens |Sim<sup>2</sup> |Sim<sup>2</sup> |Sim<sup>2</sup> |
 |Tinta para forma e tinta para tabela |Sim<sup>2</sup> |Sim<sup>2</sup> |Sim<sup>2</sup> |
