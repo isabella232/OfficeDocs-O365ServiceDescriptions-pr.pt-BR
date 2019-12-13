@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para atender aos requisitos exclusivos e em evolução do departamento de defesa dos Estados Unidos, bem como dos contratados que mantêm ou processam informações não classificadas (CUI) controladas pelo DoD ou sujeitas a tráfego internacional em normas de braços (ITAR), a Microsoft oferece Ambientes GCC de alta e DoD. Disponíveis por meio de Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. As avaliações gratuitas não estão disponíveis no momento.
-ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
+ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262542"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40003956"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -98,8 +98,15 @@ Além disso, não há suporte para endereços de email não-GCC anexados a perfi
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **Conferência PSTN &amp; de chamada PSTN** devido à necessidade de usar a rede telefônica pública comutada (PSTN) para serviços orientados por telefonia, os serviços de &amp; conferência PSTN de chamada PSTN atualmente não estão disponíveis no gcc High e no DOD. 
-  
+ **Conferência PSTN &amp; de chamada PSTN** devido à necessidade de usar a rede telefônica pública comutada (PSTN) para serviços orientados por telefonia, os serviços de &amp; conferência PSTN de chamada PSTN atualmente não estão disponíveis no gcc High e no DOD.
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+
+**Sistema de telefonia e conferência de áudio (via roteamento direto)**: o sistema de telefonia e a conferência de áudio para ambientes gcc altos e DOD estão sendo entregues por meio do roteamento direto. Para obter mais informações, consulte a documentação do nível de serviço aqui:
+
+- [Sistema de telefonia via roteamento direto](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
+- [Conferência de áudio com roteamento direto para GCC alta e DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+
 ### <a name="identity"></a>Identidade
 
 A autenticação multifator usando um modelo de identidade federado permite o uso de cartões PIV e CAC.
