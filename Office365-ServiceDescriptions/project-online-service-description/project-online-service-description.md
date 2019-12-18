@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263415"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614820"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
-## <a name="overview"></a>Visão geral
+## <a name="overview"></a>Visão Geral
 
 O Microsoft Project oferece os seguintes aplicativos para ajudar a atender às necessidades da sua organização para o gerenciamento de projetos e trabalho:
 
@@ -152,7 +152,7 @@ Os recursos listados nesta seção interagem apenas com os dados do repositório
 |Aprovações de quadro de horários | Os membros da equipe podem enviar quadros de horários para aprovação. Os gerentes de recursos e os supervisores podem revisar, aprovar e recusar quadros de horários enviados. | Sim | Sim |
 |Configuração de período de folga | Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. | Não | Sim |
 |**Colaboração** ||||
-|Attachments | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
+|Anexos | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
 |Membros externos da equipe |Colaborar com pessoas de fora de sua organização, concedendo a elas acesso para exibir e interagir com seus projetos, tarefas e documentos. <sup>6</sup> | Sim | Sim |
 |Sites de projeto | Criar e personalizar um hub para colaboração e documentos de um projeto. | Sim | Sim |
 Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim |
@@ -247,6 +247,11 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 
 ## <a name="service-considerations"></a>Considerações de serviço
 
+> [!NOTE]
+> - A França e o &ndash; projeto Coréia do Sul para a Web não estão disponíveis no momento. Estamos trabalhando para entregar o Project para a Web à sua área e informará sua disponibilidade por meio dos canais de comunicação indicados abaixo.
+> - O &ndash; projeto de educação para a Web estará disponível em breve para nossos clientes educativos. Um período de tempo exato está pendente.
+> - GCC, GCC High, DoD &ndash; atualmente, o Project para Web não está disponível para GCC, gcc alta e DOD. Estamos trabalhando para distribuir o Project para a Web, mas atualmente não é possível compartilhar um período de tempo.
+
 ### <a name="licensing-considerations"></a>Considerações sobre licenciamento
 
 - Qualquer interação em um site do Project online requer uma assinatura do plano de projeto 3 ou do Project Plan 5.
@@ -283,7 +288,7 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 |Número. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Número. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para a tarefa | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Projeto** ||
 |Número. total de tarefas do projeto | 500 |
 |Número. duração total do projeto | 3650 dias (10 anos) |
 |Número. total de recursos para o projeto | 150 |
