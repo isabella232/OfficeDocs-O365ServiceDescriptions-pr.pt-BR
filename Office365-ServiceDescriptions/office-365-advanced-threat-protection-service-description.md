@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger seus organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 30b57b2bc0150be299861626aa17aa32fa5d3f6f
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
+ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969967"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "40824985"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -82,7 +82,7 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |**Recurso**|**Plano ATP 1**<br>(anteriormente ATP autônomo)|**Plano ATP 2**<br>(anteriormente inteligência de ameaças <br>autônomo| Office 365 Enterprise E5|
 |:-----|:-----|:-----|:-----|
 |*Configuração, proteção e detecção*|
-|[Anexos Seguros](#safe-attachments)|Sim|Sim|Sim|
+|[Anexos seguros](#safe-attachments)|Sim|Sim|Sim|
 |Anexos seguros no Teams|Sim|Sim|Sim|
 |[Links seguros](#safe-links)|Sim|Sim|Sim|
 |Links seguros no Teams|Não|Não|Não|
@@ -90,7 +90,7 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |[Políticas anti-phishing](#anti-phishing-policies)|Sim|Sim|Sim|
 |[Relatórios em tempo real](#real-time-reports)|Sim|Sim|Sim|
 |*Automação, investigação, correção e educação*|
-|[Rastreadores de Ameaças](#threat-trackers)|Não|Sim|Sim|
+|[Rastreadores de ameaças](#threat-trackers)|Não|Sim|Sim|
 |[Explorer](#explorer) (investigação avançada de ameaças)|Não|Sim|Sim|
 |[Resposta de incidente automatizada](#automated-incident-response)|Não|Sim|Sim|
 |[Simulador de ataque](#attack-simulator)|Não|Sim|Sim|
@@ -118,8 +118,10 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
 > [!NOTE]
 > Os usuários devem ser licenciados<sup>\*</sup>para a ATP, devem ser incluídos nas políticas de links seguros de ATP e devem estar conectados em seus dispositivos para que a proteção seja realizada.
-
-<sup>\*</sup>Para licenças ATP em toda a organização (por exemplo, ATP_ENTERPRISE_FACULTY), você não precisa atribuir licenças ATP a usuários individuais.
+>
+> <sup>\*</sup>Para licenças ATP em toda a organização (por exemplo, ATP_ENTERPRISE_FACULTY), você não precisa atribuir licenças ATP a usuários individuais.
+>
+> Para obter mais informações sobre a proteção de links seguros de ATP, confira [como os links seguros de ATP funcionam com URLs em documentos do Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP para SharePoint, OneDrive e Microsoft Teams
 
