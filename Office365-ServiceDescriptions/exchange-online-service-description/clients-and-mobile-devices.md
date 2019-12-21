@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0a94e61fb7721861df57c72bb52f71b25848ba85
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 065154bb8447bbe38f5cd8319fea4fdc6883cb70
+ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262754"
+ms.lasthandoff: 12/21/2019
+ms.locfileid: "40840240"
 ---
 # <a name="clients-and-mobile-devices"></a>Clientes e dispositivos móveis
 
@@ -30,10 +30,15 @@ O Microsoft Outlook é um programa de email que inclui suporte para calendário,
 
 - **Modo cache do Exchange** O recurso de modo cache do Exchange permite que os usuários do Outlook acessem cópias locais de suas caixas de correio do Exchange Online quando não estão conectados à Internet. O Modo em Cache do Exchange mantém uma cópia do lado do cliente da caixa de correio do Exchange dos usuários no Outlook e sincroniza essa cópia automaticamente com o servidor de email. É recomendado o uso do Outlook no Modo em Cache do Exchange, porque ele disponibiliza acesso offline e ajuda a fornecer uma experiência do usuário com capacidade de resposta, mesmo que as condições de rede entre o cliente e o servidor não sejam ideais. 
 
-Por padrão, o acesso ao Outlook é habilitado para todos os usuários. Os administradores podem desabilitar o acesso para usuários específicos ou grupos através do Windows PowerShell. É recomendado o uso da última versão do Outlook  com o último service pack instalado  para acessar o Exchange Online. 
+Por padrão, o acesso ao Outlook é habilitado para todos os usuários. Os administradores podem desabilitar o acesso para usuários específicos ou grupos através do Windows PowerShell. É recomendado o uso da última versão do Outlook — com o último service pack instalado — para acessar o Exchange Online. 
   
-Para saber mais sobre quais clientes do Outlook são compatíveis com o Exchange 2016 e o Exchange Online, confira "Clientes com suporte" em [Requisitos de sistema do Exchange 2016](https://go.microsoft.com/fwlink/?LinkID=828972).
-  
+Para obter informações sobre quais clientes do Outlook são compatíveis com o Exchange 2016 e o Exchange Online, consulte [System Requirements for Office](https://products.office.com/office-system-requirements). 
+
+O Office 365 foi projetado para funcionar com os navegadores e versões mais recentes do Office. Se você usa navegadores e versões mais antigos do Office que não estão no suporte principal:
+
+- A Microsoft não impedirá que você se conecte ao serviço, mas a qualidade da experiência do Office 365 pode diminuir com o tempo.
+- A Microsoft não fornecerá atualizações de software para resolver problemas não relacionados à segurança.
+
 > [!IMPORTANT]
 >  O Outlook não é fornecido como parte do preço de assinatura do Exchange Online. O Microsoft Office Pro Plus (que inclui o Microsoft Outlook) foi incluído em alguns dos planos do Office 365 e pode ser adquirido como uma assinatura separada. Você verá as seguintes limitações se usar o POP para se conectar a uma conta de email do Exchange Online: > nenhuma informação de calendário > nenhuma informação de disponibilidade > nenhuma lista de endereços global > sem envio de email > ao se conectar por POP, todas as mensagens serão baixadas para o cliente e não haverá sincronização entre vários computadores ou dispositivos (como entre um laptop e um telefone). 
   
@@ -59,7 +64,7 @@ O Exchange Online funciona com aplicativos do Outlook disponíveis para iOS, And
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilidade do aplicativo móvel do Outlook  <br/> |Sim  <br/> [Obter o Outlook para Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sim  <br/> [Obter o Outlook para iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Interno  <br/> |
 |Aplicativos de email internos compatíveis com o Exchange Online  <br/> |Aplicativo de email do Gmail/Samsung  <br/> |aplicativo de email iOS  <br/> |Email, calendário, contatos do Outlook  <br/> |
 |Mais informações  <br/> |[Configuração móvel do Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configuração de iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuração do Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |

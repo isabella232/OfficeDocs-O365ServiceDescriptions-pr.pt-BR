@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Esta seção fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365. Recomendamos que você leia esta seção suplementar junto com as descrições de serviço do Office 365.
-ms.openlocfilehash: 836f7aae584d4a878acaeddc068beff9a08131e8
-ms.sourcegitcommit: 08b15860a56f5c9fbf61fca54b0b2878bb9f9956
+ms.openlocfilehash: 9328f2c56fedc9531559e7d8720f97e83dd6072b
+ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40749407"
+ms.lasthandoff: 12/21/2019
+ms.locfileid: "40840250"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -260,7 +260,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**Confiança** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Advanced Data Governance  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim <br/> |Nenhum<sup>12</sup> <br/> |
-|Segurança no Aplicativo na Nuvem  <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Sim<sup>15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |
+|Cloud App Security  <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Sim<sup>15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Nenhum<sup>12, 18</sup> <br/> |Nenhum<sup>12, 18</sup> <br/> |Sim<sup>18</sup>  <br/> |Nenhum<sup>12, 18</sup> <br/> |
 |Sistema de Proteção de Dados do Cliente  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim <br/> |Nenhum<sup>12</sup> <br/> |
 |Descoberta Eletrônica Avançada do Office 365  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim  <br/> |Nenhum<sup>12</sup> <br/> |
@@ -357,7 +357,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office que estão disponí
 |Power Query para Excel  <br/> |Não  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Não  <br/> |
 |Power View para Excel  <br/> |Não  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Não  <br/> |
 |Configurações de roaming  <br/> |Não  <br/> |Sim<sup></sup> <br/> |Sim<sup></sup> <br/> |Não  <br/> |
-|Ativação de computador compartilhado  <br/> |Sim  <br/> |Sim <br/> |Sim <br/> |Sim  <br/> |
+|Ativação de computador compartilhado  <br/> |Não  <br/> |Sim <br/> |Sim <br/> |Não  <br/> |
 |Suporte a bloqueio de armazenamento de arquivo baseado em nuvem  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Atualizações de versão  <br/> |Não  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Não  <br/> |
 |Volume activation (KMS/MAK)  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
