@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 88b02766477284ff46f69a6cedb2468ff08ff1b1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 03f282d6458c763fc362d2ea680d12f4cf5e2861
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262574"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987623"
 ---
 # <a name="message-policy-and-compliance"></a>Política e conformidade de mensagens
 
@@ -43,7 +43,7 @@ Para obter mais informações, consulte:
 Apenas os dados de mensagens de um usuário podem ser armazenados em cada arquivo morto pessoal. A alocação de armazenamento depende do plano de assinatura. Para obter mais informações sobre tamanhos de caixa de correio de arquivo morto, consulte a seção "limites de armazenamento de caixa de correio" em [limites do Exchange Online](exchange-online-limits.md).
   
 > [!IMPORTANT]
-> - O uso de registro no diário, regras de transporte ou encaminhamento automático de regras para copiar mensagens para uma caixa de correio do Exchange Online com a finalidade de arquivamento não é permitido. A Microsoft reserva-se o direito de negar o arquivamento ilimitado em situações nas quais um arquivamento de caixa de correio não esteja sendo usado em um cenário pessoal. 
+> - O uso de registro no diário, regras de transporte ou regras de encaminhamento automático para copiar mensagens para uma caixa de correio do Exchange Online com a finalidade de arquivamento não é permitido. A Microsoft reserva-se o direito de negar o arquivamento ilimitado em casos em que um arquivo de caixa de correio não está sendo usado em um cenário pessoal ou em outros casos de uso inadequado.
 > - O Arquivo Morto In Loco tem requisitos de licenciamento específico para usuários do Outlook. Os usuários do Outlook 2007 devem ter a Atualização Cumulativa do Office 2007 para fevereiro de 2011 para acessarem o arquivo morto pessoal. 
 > - O Exchange Online não dá suporte ao cmdlet _New-MailboxImportRequest_ do Windows PowerShell do Exchange Server 2010 Service Pack 1 ou posterior para a importação controlada pelo administrador de arquivos. pst em um arquivo morto pessoal. Se um usuário tiver a caixa de correio principal e o arquivo morto no Exchange Online, um administrador poderá usar o PST Capture, uma ferramenta gratuita, para importar dados de arquivo .pst para o arquivo morto ou a caixa de correio principal do usuário.
 
