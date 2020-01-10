@@ -1,5 +1,5 @@
 ---
-title: Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365
+title: Diretrizes de licenciamento dos serviços no nível do locatário do Microsoft 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para os serviços de nível de locatário do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890461"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000861"
 ---
-# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Diretrizes de licenciamento de serviços em nível de locatário do Microsoft 365
+# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Diretrizes de licenciamento dos serviços no nível do locatário do Microsoft 365
 
 Para os fins deste artigo, um serviço de nível de locatário é um serviço online que&mdash;, quando adquirido para qualquer usuário no locatário (autônomo ou como parte do Office 365 ou Microsoft 365 Plans)&mdash;, é ativado em parte ou de forma completa para todos os usuários no locatário. Embora alguns usuários não licenciados possam tecnicamente acessar o serviço, uma licença é necessária para qualquer usuário que você pretende aproveitar do serviço.
 
@@ -39,7 +39,7 @@ Os analistas e profissionais de segurança do SecOps se beneficiam de ter visual
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Por padrão, os recursos do AADIP são habilitados no nível do locatário para todos os usuários dentro do locatário. Para obter informações sobre como configurar o AADIP, consulte [habilitando a proteção de identidade do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
+Por padrão, os recursos do AADIP são habilitados no nível do locatário para todos os usuários dentro do locatário. Para obter informações sobre o AADIP, consulte [o que é a proteção de identidade do Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
@@ -141,7 +141,7 @@ Os administradores podem fazer o escopo de implantações do OCAS para impor com
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos e serviços em nuvem, fornece uma análise sofisticada para identificar e combater ameaças da Cyber e permitir que eles controlem como os dados trafegam&mdash;em qualquer aplicativo na nuvem.
+O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos de nuvem e serviços, fornece uma análise sofisticada para identificar e combater as ameaças da Cyber e permite que&mdash;elas controlem como os dados são transferidos em qualquer aplicativo de nuvem.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
@@ -149,7 +149,7 @@ Usuários licenciados do MCAS, Enterprise Mobility + Security E5/a5/G5, Microsof
 
 Usuários licenciados do Azure AD P1 podem se beneficiar dos recursos de descoberta no MCAS.
 
-Para se beneficiar dos recursos de [controle de aplicativo de acesso condicional](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) no MCAS, os usuários também devem ser licenciados para o Azure Active Directory P1, que está incluído no Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/a5/G5 e segurança da Microsoft 365 E5/a5/G5.
+Para se beneficiar dos recursos de [controle de aplicativo de acesso condicional](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) no MCAS, os usuários também devem ser licenciados para o Azure Active Directory P1, que está incluído no Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E3/a3/G3, Microsoft 365 E5/a5/G5 e segurança do Microsoft 365 E5/a5/G5.
 
 Para se beneficiar do [rotulamento automático](https://docs.microsoft.com/cloud-app-security/data-protection-policies), os usuários devem ser licenciados para a proteção de informações do Azure P2, que está incluída no Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5 e conformidade com o Microsoft 365 E5/a5/G5.
 
@@ -344,7 +344,7 @@ Os administradores podem personalizar locais (cargas de trabalho), usuários inc
 
 Criptografia de Mensagens do Office 365 (OME) é um serviço integrado ao Azure Rights Management (Azure RMS) que permite o envio de emails criptografados para pessoas dentro ou fora da sua organização, independente do endereço de email de destino (Gmail, Yahoo! Email, Outlook.com, etc.).
 
-Para exibir mensagens criptografadas, os destinatários podem obter uma senha avulsa, entrar com uma conta da Microsoft ou com uma conta corporativa ou de estudante associada ao Office 365. Os destinatários também podem enviar respostas criptografadas. Eles não precisam de uma assinatura do Office 365 para exibir mensagens criptografadas ou enviar respostas criptografadas.
+Para exibir mensagens criptografadas, os destinatários podem obter uma senha avulsa, entrar com uma conta da Microsoft ou com uma conta corporativa ou de estudante associada ao Office 365. Os destinatários também podem enviar respostas criptografadas. Não é necessário ter uma assinatura do Office 365 para exibir mensagens criptografadas ou enviar respostas criptografadas.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
@@ -361,7 +361,6 @@ Os administradores criam e gerenciam as políticas de criptografia de mensagens 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
 Os administradores devem aplicar regras de fluxo de email para a criptografia de mensagens do Office 365 somente a usuários licenciados. Para obter mais informações sobre a definição de regras de fluxo de emails, consulte [definir regras de fluxo de email para criptografar mensagens de email no Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
-
 
 ## <a name="office-365-advanced-message-encryption"></a>Criptografia de Mensagem Avançada do 365 Office
 
@@ -402,3 +401,23 @@ Os administradores criam políticas de supervisão no centro de conformidade de 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
 Os administradores escolhem usuários ou grupos específicos para incluir em uma política de supervisão. Ao escolher um grupo, também é possível selecionar usuários específicos no grupo para excluir da política de supervisão. Para obter mais informações sobre políticas de supervisão, consulte [políticas de supervisão no Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
+
+## <a name="conditional-access-policies"></a>Políticas de acesso condicional
+
+O acesso condicional é a ferramenta usada pelo Azure Active Directory para trazer sinais juntos, para tomar decisões e impor políticas organizacionais. O acesso condicional está no coração do plano de controle de identidade controlada. As políticas de acesso condicional em suas mais simples são instruções if-then. Se um usuário quiser acessar um recurso, ele deverá concluir uma ação. Exemplo: um gerente de folha de pagamento deseja acessar o aplicativo de folha de pagamento e é necessário para executar a autenticação multifator para acessá-lo.
+
+### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
+
+Usuários licenciados da Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F1/E3/a3/G3 e Azure Active Directory Premium plano 1 podem se beneficiar de políticas de acesso condicional. Usuários licenciados da Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft E5 Security e Azure Active Directory Premium plano 2 podem se beneficiar da proteção de identidade (políticas de acesso condicional com base em risco).
+
+### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
+
+Os analistas de operações de segurança e os profissionais de segurança se beneficiam com a capacidade de impor políticas organizacionais aos usuários, exigindo que eles atendam a determinados critérios antes de conceder acesso ao conteúdo corporativo. Os usuários finais se beneficiam pela capacidade de acessar o trabalho em qualquer lugar e sempre que escolherem, enquanto protegem os ativos da organização.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
+
+Por padrão, os recursos de acesso condicional estão habilitados no nível do locatário para todos os usuários no locatário.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
+
+Para obter proteção de identidade e acesso condicional especificamente, um usuário deve ser incluído em um grupo ou ser adicionado a uma política de acesso condicional. A condição usuários e grupos é obrigatória em uma política de acesso condicional. Na política, você pode selecionar todos os **usuários** ou usuários e grupos específicos. Você deve selecionar apenas os usuários e grupos licenciados adequadamente. Para obter mais informações, consulte [o que são condições no acesso condicional do Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
