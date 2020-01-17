@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Esta seção fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365. Recomendamos que você leia esta seção suplementar junto com as descrições de serviço do Office 365.
-ms.openlocfilehash: d305fa31fa63d24b0f42f91f2f82085b0ea375eb
-ms.sourcegitcommit: e80ced3148cb7d281d7270f36380578a8dc21f42
+ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40884326"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216736"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -182,7 +182,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Recursos do Pacote do Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Email de resumo da Microsoft  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Microsoft Flow  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
+|Automatização de energia da Microsoft  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Sim <br/> |Sim <br/> |Sim<br/> |Sim</sup> <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft MyAnalytics  <br/> |Não <br/> |Não <br/> |Sim<sup>17</sup> <br/> |Não <br/> |

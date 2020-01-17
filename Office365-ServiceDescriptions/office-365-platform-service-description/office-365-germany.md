@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com data Residency na Alemanha e no acesso estrito aos dados e medidas de controle por meio de um modelo de confiança de dados exclusivo regido por lei alemão.
-ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a62211889e0b7830f4aa00fec16a0da207e1a654
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263052"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216650"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
@@ -75,10 +75,10 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |**[Recursos de Administração do Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
 |Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteger o conteúdo usando a Proteção de Informações do Azure|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não|Não|Não<sup>2</sup>|
-|**[Recursos do pacote do Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Recursos do Pacote do Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Bookings|Não|Não|Não|Não|Não|Não|Não|Não|
 |Email de resumo da Microsoft|Não|Não|Não|Não|Não|Não|Não|Não|
-|Microsoft Flow|Não|Não|Não|Não|Não|Não|Não|Não|
+|Automatização de energia da Microsoft|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Forms|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft MyAnalytics|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Planner|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -382,7 +382,7 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|--|Não|Não|Não|Não|Sim|Não|
-|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -409,7 +409,7 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Gerenciamento da sala de conferência|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Respostas de Ausência Temporária|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compartilhamento de calendário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Recursos de relatório e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Recursos de relatórios e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Relatórios do centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Relatórios de serviços Web|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Message trace|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|

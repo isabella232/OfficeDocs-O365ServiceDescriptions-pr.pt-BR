@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você quiser saber as diferenças entre os planos do Office 365, incluindo planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 45b35c66752842196acfcad52fea8b5470384550
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 369b753a5b96db0faefaf34e7a1c6b58739abb3e
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810790"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216610"
 ---
 # <a name="office-365-platform-service-description"></a>Descrição dos serviços da plataforma Office 365
 
@@ -98,7 +98,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |**[Recursos do Pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Nenhum<sup>20</sup>  <br/> |Nenhum<sup>20</sup>  <br/> |Não  <br/> |
 |Email de resumo da Microsoft<sup>23</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Flow  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>14</sup> <br/> |
+|Automatização de energia da Microsoft  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft myAnalytics<sup>21</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |

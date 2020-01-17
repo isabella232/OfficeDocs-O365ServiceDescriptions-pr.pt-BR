@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263122"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216726"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -39,9 +39,9 @@ O email de resumo ajuda os usuários a aproveitar o máximo de cada dia, ajudand
 
 O email de resumo é fornecido automaticamente para todos os usuários do Exchange Online. Para saber mais, confira a [visão geral de email de resumo](https://docs.microsoft.com/Briefing/be-overview).
 
-## <a name="microsoft-flow"></a>Microsoft Flow
+## <a name="microsoft-power-automate"></a>Automatização de energia da Microsoft
 
-O Microsoft Flow permite que você automatize fluxos de trabalho entre aplicativos. Você pode usar o Flow para conectar alertas de email e de mensagens instantâneas, sincronizar arquivos entre aplicativos, copiar arquivos de um serviço para outro, coletar dados de um aplicativo e armazená-los em outro e muito mais. Modelos estão disponíveis para você começar. Para saber mais sobre os recursos do Flow e como usá-las, vá para o site do Microsoft [Flow](https://flow.microsoft.com/en-us/).
+O Microsoft Power Automate permite automatizar fluxos de trabalho entre aplicativos. Você pode usar o Flow para conectar alertas de email e de mensagens instantâneas, sincronizar arquivos entre aplicativos, copiar arquivos de um serviço para outro, coletar dados de um aplicativo e armazená-los em outro e muito mais. Modelos estão disponíveis para você começar. Para saber mais sobre os recursos do Flow e como usá-las, vá para o site do Microsoft [Flow](https://flow.microsoft.com/en-us/).
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5de46f8188a936ceadc36caf1cf76c2a4eb4bab7
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263062"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216620"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -80,10 +80,10 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteger o conteúdo usando a Proteção de Informações do Azure|Não|Não|Não|Não|Não|Não|Não|
 |Tradução manual de postagens do centro de mensagens por meio da tradução automática|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Recursos do pacote do Office 365](office-365-suite-features.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
+|**[Recursos do Pacote do Office 365](office-365-suite-features.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
 |Microsoft Bookings|Não|Não|Sim|Não|Não|Não|Não|
 |Email de resumo da Microsoft|Não|Não|Sim|Não|Não|Não|Não|
-|Microsoft Flow|Não|Não|Não|Não|Não|Não|Não|
+|Automatização de energia da Microsoft|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Forms|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft MyAnalytics|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Planner|Não|Não|Não|Não|Não|Não|Não|
@@ -345,7 +345,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>4</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|--|Não|Não|Não|Não|Não|
-|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
+|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -372,7 +372,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |Gerenciamento da sala de conferência|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Respostas de Ausência Temporária|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compartilhamento de calendário|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|
-|**[Recursos de relatório e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
+|**[Recursos de relatórios e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
 |Relatórios do centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Pasta de trabalho de relatórios do Excel|Não|Sim|Não|Não|Sim|Sim|Sim|
 |Relatórios de serviços Web|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -384,7 +384,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |Pastas públicas|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Clientes e dispositivos móveis](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F1 operado pela 21Vianet**|
 |Microsoft Outlook|Sim|Sim|Sim|Sim|Sim|Sim| Não<sup>6</sup>|
-|Outlook Online|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Outlook na Web|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Exchange ActiveSync|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |POP e IMAP|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -541,7 +541,7 @@ A tabela a seguir exibe os recurso do Arquivamento do Exchange Online disponíve
 |Backup da caixa de correio|Não|Sim|
 |**[Recursos do cliente no arquivamento do Exchange Online](../exchange-online-archiving-service-description/client-features.md)**|||
 |Outlook<sup>3</sup>|Não|Sim|
-|Outlook Online|Não|Sim|
+|Outlook na Web|Não|Sim|
 |**[Recursos de conformidade e segurança no arquivamento do Exchange Online](../exchange-online-archiving-service-description/compliance-and-security-features.md)**|||
 |Políticas de Retenção|Não|Sim|
 |Bloqueio In-loco e Retenção de Litígio<sup>5</sup>|Não|Sim|

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e o&mdash;Microsoft Skype for Business online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: 7e3ad5731e5a0346314617247bc61ed3bc2dc318
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987643"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216520"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -72,7 +72,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |**[Recursos do Pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Email de apresentação da Microsoft<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Flow  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Automatização de energia da Microsoft  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft myAnalytics<sup>9</sup>  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |

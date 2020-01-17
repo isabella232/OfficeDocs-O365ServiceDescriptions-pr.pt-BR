@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 2a6413f2dff6255b10cb11cf596f05303ca358f2
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 356d8e35d4872d50a4de1baf89b11b412ead6fdd
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263022"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216530"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -92,7 +92,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |SharePoint<sup>9</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |
 |Skype for Business<sup>9</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |
 |CAL do Windows Server  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|System Center Configuration Manager  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Gerenciador de configuração do Microsoft Endpoint  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |System Center Endpoint Protection  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]

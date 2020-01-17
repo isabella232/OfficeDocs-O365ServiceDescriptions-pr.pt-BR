@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. Esta descrição de serviço descreve as opções e os recursos do plano.
-ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 3ef3e018d8768fe63239a83c9aeb20d0b4fb3098
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810800"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216630"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição do serviço Microsoft 365 Business
 
@@ -39,7 +39,7 @@ O Microsoft 365 Business inclui os seguintes recursos do Azure AD Premium P1: re
 |[Aplicativos do Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Sim  <br/> |Sim  <br/> |
 |Yammer Enterprise  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Bookings  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Flow  <br/> |Sim  <br/> |Sim  <br/> |
+|Automatização de energia da Microsoft  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Planner  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft PowerApps  <br/> |Sim  <br/> |Sim  <br/> |

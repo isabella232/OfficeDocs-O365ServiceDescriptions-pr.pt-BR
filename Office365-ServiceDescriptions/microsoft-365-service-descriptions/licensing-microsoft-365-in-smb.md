@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: A Microsoft 365 Business é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. O Microsoft 365 Business é uma solução integrada que reúne a produtividade do Office 365, a segurança avançada e o gerenciamento de dispositivos.
-ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
-ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
+ms.openlocfilehash: 70e649c0aa66390e3e84da2ff517bfef9a5dbc8f
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38755469"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216460"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -31,7 +31,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Calendário de & de email** | Outlook, Exchange Online| 50 GB | 50 GB |
 |**Hub para trabalho em equipe** | Espaço de trabalho baseado em chat, reuniões online e mais no Microsoft Teams | Sim |Sim |
 |**Armazenamento de arquivos** | OneDrive for Business  | 1 TB por usuário | 1 TB por usuário |
-|**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online, PowerApps, Microsoft Flow | Sim | Sim |
+|**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online, PowerApps, automatização de energia | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>1</sup> | Sim | Sim |
 |   | Aplicativos &ndash; de negócios MileIQ<sup>1</sup> | Sim | Sim |
 |**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
@@ -42,8 +42,8 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |   | Ativação de computador compartilhado | Não | Sim |
 |   | Windows AutoPilot, Windows pro Management | Não | Sim |
 |   | Direitos de atualização para licenças do Windows 10 pro para o Win 7/8.1 pro | Não | Sim |
-|   | Área de trabalho virtual do Windows | Não | Sim |
-|**Proteção de informações** | Prevenção de perda de dados do Office 365 | Não | Sim |
+|   | Área de Trabalho Virtual do Windows | Não | Sim |
+|**Proteção de Informações** | Prevenção de perda de dados do Office 365 | Não | Sim |
 |   | Plano de proteção de informações do Azure 1, imposição do BitLocker | Não | Sim |
 |**Conformidade** | Arquivamento de email ilimitado<sup>2</sup> | Não | Sim |
 
@@ -62,7 +62,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Calendário de & de email** | Outlook, Exchange Online | 100 GB | 50 GB |
 |**Hub para trabalho em equipe** | Espaço de trabalho baseado em chat, reuniões online e mais no Microsoft Teams | Sim | Sim |
 |**Armazenamento de arquivos** | OneDrive for Business | Ilimitado | 1 TB por usuário |
-|**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Sim | Sim |
+|**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, automatização de energia<sup>1</sup> | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>2</sup> | Sim | Sim |
 |   | Business apps &ndash; MileIQ<sup>2</sup> | Não | Sim |
 |**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
@@ -72,7 +72,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Gerenciamento de aplicativos de & de dispositivos** | Microsoft Intune, Windows AutoPilot, gerenciamento do Windows pro | Não | Sim |
 |   | Ativação de computador compartilhado | Sim | Sim |
 |   | Atualizar direitos para o Windows 10 pro para o Win 7/8.1 pro | Não | Sim |
-|   | Área de trabalho virtual do Windows | Não | Sim |
+|   | Área de Trabalho Virtual do Windows | Não | Sim |
 |**Proteção de informações** | Prevenção de perda de dados do Office 365 | Sim | Sim |
 |   | Plano de proteção de informações do Azure 1, imposição do BitLocker | Não | Sim |
 |**Direitos de CAL no local** | Pacote ECAL (Exchange, SharePoint, Skype) | Sim | Não |
@@ -95,7 +95,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Calendário de & de email** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
 |**Hub para trabalho em equipe** | Espaço de trabalho baseado em chat, reuniões online e mais no Microsoft Teams | Sim | Sim | Sim |
 |**Armazenamento de arquivos** | OneDrive for Business | 1 TB por usuário | 1 TB por usuário | Ilimitado |
-|**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Sim | Sim | Sim |
+|**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, automatização de energia<sup>1</sup> | Sim | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>2</sup> | Sim | Sim | Sim |
 |   | Business apps &ndash; MileIQ<sup>2</sup> | Sim | Sim | Não |
 |**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim | Não |
@@ -105,7 +105,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Gerenciamento de aplicativos de & de dispositivos** | Microsoft Intune, Windows AutoPilot, gerenciamento do Windows pro | Não | Sim | Não |
 |   | Ativação de computador compartilhado | Não | Sim | Sim |
 |   | Direitos de atualização para licenças do Windows 10 pro para o Win 7/8.1 pro | Não | Sim | Não |
-|   | Área de trabalho virtual do Windows | Não | Sim | Não |
+|   | Área de Trabalho Virtual do Windows | Não | Sim | Não |
 |**Proteção de informações**  | Prevenção de perda de dados do Office 365 | Não | Sim | Sim |
 |   | Plano de proteção de informações do Azure 1, imposição do BitLocker | Não | Sim | Não |
 |**Direitos de CAL no local** | Pacote ECAL (Exchange, SharePoint, Skype) | Não | Não | Sim |
@@ -144,13 +144,13 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |   | Microsoft Desktop Optimization Pack, VDA | Não | Não | Sim | Sim |
 | **Proteção de informações** | Prevenção de perda de dados do Office 365, plano de proteção de informações do Azure 1 | Não | Sim | Sim | Sim |
 |   | Plano de proteção de informações do Azure 2, Microsoft Cloud app Security, Office 365 Cloud app Security | Não | Não | Não | Sim |
-|**Direitos de CAL no local** | ECAL Suite (Exchange, SharePoint, Skype, Windows, SCCM, gerenciamento de direitos do Windows) | Não | Não | Sim | Sim |
+|**Direitos de CAL no local** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Gerenciador de configuração do Microsoft EndPoint, gerenciamento de direitos do Windows) | Não | Não | Sim | Sim |
 |**Conformidade** | Arquivamento de email ilimitado<sup>2</sup> | Não | Sim | Sim | Sim |
 |   | Descoberta eletrônica avançada, Lockbox de cliente, governança de dados avançada | Não | Não | Não | Sim |
 |**Análise** | Power BI pro, myAnalytics | Não | Não | Não | Sim |
 | | Ideias do myAnalytics | Sim | Sim | Sim | Sim |
 |**Assistance** | Email de resumo | Sim | Sim | Sim | Sim |
-|**Voice** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
+|**Voz** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
 
 **Observações**
 
