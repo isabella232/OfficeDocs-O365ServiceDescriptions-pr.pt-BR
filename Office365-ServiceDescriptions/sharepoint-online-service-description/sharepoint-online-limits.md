@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Localize os limites do SharePoint Online para os planos do Office 365 Enterprise e os planos autônomos.
-ms.openlocfilehash: c1ece223f90b14c73de6240d042d95701c443c0a
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b5ba34d3a1ebd80d7833e09e70a76b57882ae6fd
+ms.sourcegitcommit: 81ba764537d6bfb99fe6f96cdbd0c0ac1534cae1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216640"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519192"
 ---
 # <a name="sharepoint-online-limits"></a>Limites do SharePoint Online
 
@@ -66,7 +66,7 @@ Encontre os limites do SharePoint para planos do Office 365 e planos autônomos 
 
 - **Aplicativos hospedados do SharePoint** -instâncias de 20.000 por organização.
 
-- **Escopos de segurança exclusivos por lista ou biblioteca** -o limite imposto é 50.000, mas o limite geral recomendado é 5.000. Acima de 5.000, o tamanho da ACL (lista de controle de acesso) começa em questão. Embora você possa adicionar escopos até o limite imposto de 50.000, a Microsoft não é recomendável, a menos que você tenha um cenário muito específico em mente. Para listas grandes, design para ter o menor número possível de permissões exclusivas.
+- **Escopos de segurança exclusivos por lista ou biblioteca** -o limite com suporte é 50.000, mas o limite geral recomendado é 5.000. Acima de 5.000, o tamanho da ACL (lista de controle de acesso) começa em questão. Embora você possa adicionar escopos até o limite com suporte de 50.000, a Microsoft não recomenda ela, a menos que você tenha um cenário muito específico em mente. Para listas grandes, design para ter o menor número possível de permissões exclusivas.
 
 - **Users** -2 milhões por conjunto de sites.
     > [!NOTE]
