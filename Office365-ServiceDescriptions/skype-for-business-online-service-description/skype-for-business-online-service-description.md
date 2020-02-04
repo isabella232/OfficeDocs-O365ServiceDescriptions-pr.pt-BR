@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Deseja saber quais licenças você precisará comprar para obter determinados recursos do Skype for Business? Consulte a visão geral do licenciamento do Skype for Business.
-ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5563c2ef767f04340a643099a1aff8e387aa7523
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263265"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711911"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrição do serviço do Skype for Business Online
 
 > [!NOTE]
-> O Microsoft Teams agora é o cliente principal para mensagens, reuniões e chamadas no Office 365. Novos clientes do Office 365 com 500 estações ou menos serão integrados ao Microsoft Teams e não terão acesso ao Skype for Business online. Os locatários que já estiverem usando o Skype for Business online poderão continuar a usá-lo (incluindo o provisionamento de novos usuários) até que concluam a transição para o Microsoft Teams.
+> O Microsoft Teams agora é o cliente principal para mensagens, reuniões e chamadas no Office 365. A partir de 1º de outubro de 2018, novos clientes do Office 365 com 500 estações ou menos serão integrados ao Microsoft Teams e não terão acesso ao Skype for Business online. A partir de 1º de setembro de 2019, isso se aplica a todos os novos clientes. Os locatários que já usam o Skype for Business Online podem continuar fazendo isso (incluindo o provisionamento de novos usuários) até que concluam a transição para o Microsoft Teams.
 
 > [!NOTE]
 > Skype for Business online plano 2 retirada da venda em 1º de julho de 2019. Isso significa que você não poderá mais adquirir o Skype for Business online plano 2 para mensagens instantâneas, presença, reuniões e voz ponto a ponto e vídeo. Esses recursos continuarão a ser suportados em todas as ofertas do Office 365 que incluem o Teams, incluindo os pacotes do Office 365. Quando o plano expirar no final do seu termo atual, para ter acesso contínuo a esses recursos, você terá que mudar para um plano diferente. Recomendamos que você avalie o Office 365 Business Essentials, o Business Premium ou qualquer outro pacote do Office para usuários que têm o Skype for Business online plano 2 atribuído no momento. 
