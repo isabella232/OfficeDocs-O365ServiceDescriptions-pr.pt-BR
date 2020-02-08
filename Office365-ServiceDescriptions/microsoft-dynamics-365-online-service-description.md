@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partir da atualização de dezembro de 2016 do Dynamics 365 (online e local), a funcionalidade do Dynamics CRM agora está incluída como parte do Dynamics 365, um pacote de aplicativos de negócios inteligentes. O Dynamics 365 unifica os recursos de gerenciamento de relacionamento do cliente (CRM) e ERP (planejamento de recursos da empresa), fornecendo novos aplicativos para ajudar a gerenciar funções comerciais específicas.
-ms.openlocfilehash: 35a1dbe7eef9fed64ad1738d84687a39ca45bef9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: fac2e8a70cb3063c26827c4878009b4e9ad1d0f6
+ms.sourcegitcommit: cb70d69d8b563db91923be371b0307db91219030
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262804"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "41857300"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Descrição do serviço do Microsoft Dynamics 365 (online)
 
@@ -108,7 +108,7 @@ O seguinte fornece um resumo de alto nível dos direitos de uso associados a cad
   
 ## <a name="dynamics-365-service-level-agreement"></a>Contrato de nível de serviço do Dynamics 365
 
-Para obter informações sobre os termos de licenciamento, condições e informações complementares relevantes para o uso de produtos e serviços licenciados por meio dos programas de licenciamento por volume da Microsoft, consulte [Service Level Agreement for Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249).
+Para obter informações sobre os termos de licenciamento, condições e informações complementares relevantes para o uso de produtos e serviços licenciados por meio dos programas de licenciamento por volume da Microsoft, consulte [Service Level Agreement for Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Janelas de tempo de inatividade do serviço Dynamics 365
 
@@ -122,7 +122,7 @@ Janelas de tempo de inatividade para o serviço do Dynamics 365 são definidas d
 |Pacote cumulativo de atualizações  <br/> |Sem impacto/nenhum tempo de inatividade  <br/> |Centro de Mensagens  <br/> |48 horas  <br/> |
 |Atualização principal  <br/> |Agendado pelo cliente e concluído dentro da janela selecionada  <br/> |Centro de Mensagens  <br/> |90 dias  <br/> |
    
-Verifique o download do [contrato de nível de serviço do Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249) para obter as informações mais recentes sobre as janelas de tempo de inatividade do serviço. 
+Verifique o download do [contrato de nível de serviço do Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) para obter as informações mais recentes sobre as janelas de tempo de inatividade do serviço. 
   
 \***Acordo de nível operacional** = o tempo para que a equipe de operações seja entregue em um conjunto de serviços definido no contrato de nível de serviço. 
   
