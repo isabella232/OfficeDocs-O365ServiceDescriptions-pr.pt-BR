@@ -1,6 +1,4 @@
 
-  
-
 # [Descrições dos serviços do Office 365](office-365-service-descriptions-technet-library.md)
 ## [Descrição dos serviços da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Opções de planos do Office 365](office-365-platform-service-description/office-365-plan-options.md)
@@ -111,10 +109,10 @@
 ### [Descrição dos serviços do Microsoft 365 Business Voice](microsoft-365-business-voice-service-description.md)
 ### [Descrição do serviço Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-### [Licenciamento do Microsoft 365 para empresas de pequeno e médio porte](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
-### [Diretrizes de licenciamento dos serviços no nível do locatário do Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
+### [Licenciamento do Microsoft 365 para empresas de pequeno e médio porte](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+### [Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Planejar a conformidade com o Microsoft 365 – implantações do DoD](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
 #### [Planejar a conformidade com o Microsoft 365 – GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Planejar a conformidade com o Microsoft 365 – GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Descrição do serviço do Microsoft Dynamics 365 (online)](microsoft-dynamics-365-online-service-description.md)
-
+ 
