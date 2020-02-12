@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216660"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931937"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -62,7 +62,7 @@ O Project online Essentials não inclui o Project para a Web.
 
 ### <a name="project-online-desktop-client"></a>Cliente da área de trabalho do Project online
 
-Microsoft Project Online Desktop Client é um programa de gerenciamento de projetos que apresenta programação automatizada, gerenciamento de recursos do projeto e relatórios internos. O cliente da área de trabalho do Project online pode ser usado como um aplicativo autônomo ou pode se conectar ao Project online. Project Online Desktop Client é a versão de assinatura do cliente da área de trabalho do Project online e está disponível no plano de projeto 3 e nas assinaturas do Project Plan 5.
+Microsoft Project Online Desktop Client é um programa de gerenciamento de projetos que apresenta programação automatizada, gerenciamento de recursos do projeto e relatórios internos. O cliente da área de trabalho do Project online pode ser usado como um aplicativo autônomo ou pode se conectar ao Project online. Project Online Desktop Client é a versão de assinatura do cliente de área de trabalho do Project Professional e está disponível no plano de projeto 3 e nas assinaturas do Project Plan 5.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Usando o Project para a Web e o Project online juntos
 
@@ -281,7 +281,7 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 
 |Entidade/campo | Limite |
 |-------------|-------|
-|**Tarefa** ||
+|**Task** ||
 |Número. nível de hierarquia para a tarefa | 10 níveis |
 |Número. links (sucessora + predecessor) de uma tarefa | 508 |
 |Número. duração da tarefa de folha | 1250 dias |
