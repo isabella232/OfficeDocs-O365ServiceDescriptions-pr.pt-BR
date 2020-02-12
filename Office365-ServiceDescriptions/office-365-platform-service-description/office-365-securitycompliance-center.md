@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade &amp; de segurança do Office 365 foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
-ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
+ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2020
-ms.locfileid: "41773771"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931917"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -39,8 +39,8 @@ O [centro de conformidade &amp; de segurança do Office 365](https://docs.micros
 |[Prevenção de perda de dados para mensagens de chat e canal do Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/>|
 |[Rótulos de confidencialidade](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Não <br/>| Não <br/> | Não <br/>| Sim <br/>| Sim <br/>| Não <br/> |
 |[Barreiras de informações](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/>|
-|[Governança de dados](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Governança de dados avançada](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
+|[Governança de informações](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Governança avançada de informações](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[ocorrências de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[suspensões de descoberta eletrônica (incluindo bloqueios de descoberta eletrônica baseados em consulta)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -48,12 +48,13 @@ O [centro de conformidade &amp; de segurança do Office 365](https://docs.micros
 |[Descoberta eletrônica avançada](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Arquivamento](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Não  <br/> |
 |[Auditoria unificada](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Auditoria avançada](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup><br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Políticas de retenção](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Não  <br/> |Não  <br/> |Sim<sup>11</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>11<br/> |
 |[Políticas de supervisão](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 ||||||||
    
-<sup>1</sup> a governança de dados permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede.<br/>
-<sup>2</sup> a governança de dados avançada permite que você mantenha informações importantes e exclua informações não importantes classificando informações com base em uma política de retenção ou exclusão ou ambos. Ele inclui ações inteligentes/automatizadas, como a recomendação de políticas, a aplicação automática de rótulos a dados, a aplicação de rótulos com base em tipos de dados sigilosos ou consultas, revisão de disposição e uso de filtros de importação inteligentes. Ele também inclui o recurso de supervisão para a análise de comunicações de funcionários por motivos de segurança e conformidade.<br/>
+<sup>1</sup> o controle de informações permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede.<br/>
+<sup>2</sup> o controle avançado de informações permite que você mantenha informações importantes e exclua informações não importantes classificando informações com base em uma política de retenção ou exclusão ou ambos. Ele inclui ações inteligentes/automatizadas, como a recomendação de políticas, a aplicação automática de rótulos a dados, a aplicação de rótulos com base em tipos de dados sigilosos ou consultas, revisão de disposição e uso de filtros de importação inteligentes. Ele também inclui o recurso de supervisão para a análise de comunicações de funcionários por motivos de segurança e conformidade.<br/>
 limite de <sup>3</sup> a 50 GB. <br/>
 <sup>4</sup> ilimitado. <br/>
 <sup>5</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos).<br>
@@ -62,7 +63,8 @@ limite de <sup>3</sup> a 50 GB. <br/>
 <sup>8</sup> você também pode usar a [API de atividade de gerenciamento do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificada. <br/>
 <sup>9</sup> um complemento DLP está disponível que pode ser adicionado a qualquer SKU que tenha o Exchange ou o SharePoint/onedrive.<br/>
 <sup>10</sup> rótulos de confidencialidade também estão incluídos na proteção de informações do Azure P1 e P2.<br/>
-<sup>11</sup> é necessária uma licença do Exchange Online Plan 2 para colocar uma caixa de correio de usuário em espera usando uma política de retenção.
+<sup>11</sup> é necessária uma licença do Exchange Online Plan 2 para reter o conteúdo em uma caixa de correio de usuário usando uma política de retenção.<br/>
+<sup>12</sup> a auditoria avançada fornece retenção de um ano de logs de auditoria para atividades no Azure Active Directory, Exchange e SharePoint e fornece a capacidade de criar políticas de retenção de log de auditoria personalizadas para gerenciar a retenção de logs de auditoria para outros serviços do Office 365. Ele também fornece a auditoria de eventos de alto valor e o acesso de alta largura de banda à API da atividade de gerenciamento do Office 365.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilidade &amp; do centro de conformidade de segurança para planos autônomos
 
@@ -78,8 +80,8 @@ limite de <sup>3</sup> a 50 GB. <br/>
 |[Prevenção de perda de dados para o Exchange Online, o SharePoint Online e o onedrive for Business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim <sup>7<sup> <br/> |Não <br/> |Sim<sup>10</sup> <br/>|Não  <br/> |Sim  <br/> |
 |[Prevenção de perda de dados para mensagens de chat e canal do Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Barreiras de informações](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Governança de dados](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Governança de dados avançada](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Governança de informações](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |
+|[Governança de informações avançadas](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |[Pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>| Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |[ocorrências de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>10</sup> <br/> |Sim<sup>10</sup> <br/> |Não  <br/> |Não  <br/> |
 |[exportação de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não <br/> |Sim<sup>10</sup> <br/>|No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |
@@ -91,9 +93,9 @@ limite de <sup>3</sup> a 50 GB. <br/>
 |[Políticas de supervisão](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |||||||||
    
-<sup>1</sup> a governança de dados permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede. <br/>
+<sup>1</sup> o controle de informações permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede. <br/>
 <sup>2</sup> requer a compra do complemento de arquivamento do Exchange Online. <br/>
-<sup>3</sup> o controle avançado de dados permite que você mantenha informações importantes e exclua informações não importantes por meio da classificação de informações com base em uma política de retenção ou exclusão ou ambos. Ele inclui ações inteligentes/automatizadas, como a recomendação de políticas, a aplicação automática de rótulos a dados, a aplicação de rótulos com base em tipos de dados sigilosos ou consultas, revisão de disposição e uso de filtros de importação inteligentes. Ele também inclui o recurso de supervisão para a análise de comunicações de funcionários por motivos de segurança e conformidade.<br/>
+<sup>3</sup> o controle avançado de informações permite que você mantenha informações importantes e exclua informações não importantes classificando informações com base em uma política de retenção ou exclusão ou ambos. Ele inclui ações inteligentes/automatizadas, como a recomendação de políticas, a aplicação automática de rótulos a dados, a aplicação de rótulos com base em tipos de dados sigilosos ou consultas, revisão de disposição e uso de filtros de importação inteligentes. Ele também inclui o recurso de supervisão para a análise de comunicações de funcionários por motivos de segurança e conformidade.<br/>
 <sup>4</sup> as conversas do Skype são armazenadas como parte da caixa de correio. <br/>
 <sup>5</sup> a descoberta eletrônica avançada requer o Office 365 Enterprise E5 ou uma licença complementar. <br/>
 <sup>6</sup> o arquivamento do Skype está dentro da caixa de correio do usuário.<br/> 
