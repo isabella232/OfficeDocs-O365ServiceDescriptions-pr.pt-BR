@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: ac13308180797039797fb087eb2509e3945368cc
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
+ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216540"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42172253"
 ---
 ---
 
@@ -128,6 +128,7 @@ Siga estas etapas para adquirir as licenças do Microsoft 365 governamentais:
 - Dell
 - Hewlett Packard
 - Aprofunda
+- Grupo de tecnologia Minburn
 - PCM (também proprietária de Pointe Technologies)
 - SHI
 - SoftwareOne
