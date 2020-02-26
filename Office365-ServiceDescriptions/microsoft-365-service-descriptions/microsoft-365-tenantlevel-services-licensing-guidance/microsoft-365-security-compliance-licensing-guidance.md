@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para o Microsoft 365 Security & Compliance para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: ead339254c57c4bd9f682159f54f235279f7c362
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787023"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279854"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -421,3 +421,23 @@ Por padrão, os recursos de acesso condicional estão habilitados no nível do l
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
 Para obter proteção de identidade e acesso condicional especificamente, um usuário deve ser incluído em um grupo ou ser adicionado a uma política de acesso condicional. A condição usuários e grupos é obrigatória em uma política de acesso condicional. Na política, você pode selecionar todos os **usuários** ou usuários e grupos específicos. Você deve selecionar apenas os usuários e grupos licenciados adequadamente. Para obter mais informações, consulte [o que são condições no acesso condicional do Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
+
+## <a name="advanced-audit"></a>Auditoria avançada
+
+Auditoria avançada no Microsoft 365 fornece retenção de um ano de logs de auditoria para atividades de usuário e administrador e fornece a capacidade de criar políticas de retenção de log de auditoria personalizadas para gerenciar a retenção de logs de auditoria para outros serviços do Microsoft 365. Também fornece acesso a eventos cruciais para investigações e acesso de alta largura de banda à API da atividade de gerenciamento do Office 365. Para obter mais informações, consulte [Advanced Audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
+
+### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
+
+Usuários licenciados do Office 365 e5, Microsoft 365 E5 e Microsoft 365 E5 conformidade podem se beneficiar da auditoria avançada.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
+
+Um usuário se beneficia da auditoria avançada, pois os registros de auditoria relacionados à atividade do usuário nos serviços do Microsoft 365 podem ser retidos por até um ano. Além disso, eventos de auditoria de alto valor são registrados como quando os itens da caixa de correio de um usuário são acessados ou lidos. Para obter mais informações, consulte [eventos de auditoria de alto valor](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
+
+Por padrão, a auditoria avançada é habilitada no nível do locatário para todas as organizações com uma assinatura do Office 365 ou do Microsoft 365 E5 e fornece automaticamente retenção de um ano de logs de auditoria para atividades (executadas pelos usuários com a licença apropriada) em Azure Active Directory, Exchange e SharePoint. Além disso, as organizações podem usar políticas de retenção de log de auditoria para gerenciar o período de retenção de registros de auditoria gerados pela atividade em outros serviços do Microsoft 365. Para saber mais, confira [Gerenciar políticas de retenção de log de auditoria](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
+
+A retenção de um ano dos logs de auditoria e os eventos de alto valor de auditoria só se aplicam a usuários com a licença apropriada. Além disso, os administradores podem usar políticas de retenção de log de auditoria para especificar durações de retenção mais curtas para os logs de auditoria de usuários específicos.

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade &amp; de segurança do Office 365 foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931917"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279804"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ O [centro de conformidade &amp; de segurança do Office 365](https://docs.micros
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 governo dos EUA G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 governo dos EUA G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 governo dos EUA F1** <br/> |
+|**Recurso** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 governo dos EUA G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 governo dos EUA F1** <br/> |
 |[Acesso ao centro de &amp; conformidade de segurança](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |[Gerenciamento de ameaças](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtragem de mensagens e anti-malware  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -64,7 +64,7 @@ limite de <sup>3</sup> a 50 GB. <br/>
 <sup>9</sup> um complemento DLP está disponível que pode ser adicionado a qualquer SKU que tenha o Exchange ou o SharePoint/onedrive.<br/>
 <sup>10</sup> rótulos de confidencialidade também estão incluídos na proteção de informações do Azure P1 e P2.<br/>
 <sup>11</sup> é necessária uma licença do Exchange Online Plan 2 para reter o conteúdo em uma caixa de correio de usuário usando uma política de retenção.<br/>
-<sup>12</sup> a auditoria avançada fornece retenção de um ano de logs de auditoria para atividades no Azure Active Directory, Exchange e SharePoint e fornece a capacidade de criar políticas de retenção de log de auditoria personalizadas para gerenciar a retenção de logs de auditoria para outros serviços do Office 365. Ele também fornece a auditoria de eventos de alto valor e o acesso de alta largura de banda à API da atividade de gerenciamento do Office 365.
+<sup>12</sup> a auditoria avançada fornece retenção de um ano de logs de auditoria para atividades no Azure Active Directory, Exchange e SharePoint e fornece a capacidade de criar políticas de retenção de log de auditoria personalizadas para gerenciar a retenção de logs de auditoria para outros serviços do Office 365. Também fornece acesso a eventos cruciais para investigações e acesso de alta largura de banda à API da atividade de gerenciamento do Office 365.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilidade &amp; do centro de conformidade de segurança para planos autônomos
 
