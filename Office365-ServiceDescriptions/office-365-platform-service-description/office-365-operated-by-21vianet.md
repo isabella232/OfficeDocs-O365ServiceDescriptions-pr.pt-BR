@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 1456d280f07dc6997cd8c8366fd4ff5f601cb197
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279834"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374188"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -52,11 +52,12 @@ Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individua
 |Power BI|Não|Não|Não|Não|Não|Não|Não|
 |Visio para a Web<sup>3</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Yammer Enterprise|Não|Não|Não|Não|Não|Não|Não|
-|Proteção de Informações do Azure|Não|Não|Não|Não|Não|Não|Não|
+|Proteção de Informações do Azure|Não|Não|Não|Não|Não|Sim<sup>4</sup>|Não|
 
 <sup>1</sup> Inclui recursos como administração do Office 365, aplicativos do pacote do Office 365, gerenciamento de contas de usuários, domínios, integridade e continuidade do serviço, relatórios, atualizações de serviços, ajuda e treinamento, redes e assim por diante. Veja mais informações na tabela [Recursos da plataforma](office-365-operated-by-21vianet.md#platform-features).
 <br/><sup>2</sup> O Project Online não está incluído, mas você pode comprá-lo separadamente como um serviço complementar ou adicioná-lo gratuitamente ao plano do Office 365 A1.
 <br/><sup>3</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md).
+<br/><sup>4</sup> a proteção de informações do Azure (AIP) é parcialmente suportada no Office 365 operado pela 21vianet. Para obter mais informações, consulte [paridade entre a proteção de informações do Azure para Office 365 operado pela 21vianet e ofertas comerciais](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet).
 
 ## <a name="system-requirements"></a>Requisitos do sistema
 

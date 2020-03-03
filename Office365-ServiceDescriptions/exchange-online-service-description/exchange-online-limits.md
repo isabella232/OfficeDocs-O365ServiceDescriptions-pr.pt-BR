@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: a1f83239d3ac63ea8b8ef2559fe962f131c96110
-ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
+ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41000851"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374178"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -355,12 +355,12 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Limite de taxa de destinatário<sup>1</sup>|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|
-|Limite de destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|500 destinatários|
+|Limite de destinatários|500 destinatários|destinatários 1000|destinatários 1000|destinatários 1000|destinatários 1000|destinatários 1000|
 |Limite de endereço proxy do destinatário|400|400|400|400|400|400|
 |Limite de taxa de mensagens|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|
 
 > [!NOTE]
-> <sup>1</sup> depois que o limite de taxa de destinatários for atingido, as mensagens não poderão ser enviadas da caixa de correio até que o número de destinatários que foram enviados mensagens nas últimas 24 horas fique abaixo do limite. Por exemplo, um usuário envia uma mensagem de email para os destinatários 5.000 às 09:00 AM e, em seguida, envia outra mensagem para os destinatários 2.500 no 10:00 AM e, em seguida, envia outra mensagem para os destinatários de 2.500, atingindo o limite de mensagens de 11:00. O usuário não poderá enviar mensagens novamente até 09:00, no dia seguinte.
+> <sup>1</sup> depois que o limite de taxa de destinatários for atingido, as mensagens não poderão ser enviadas da caixa de correio até que o número de destinatários que foram enviados mensagens nas últimas 24 horas fique abaixo do limite. Por exemplo, um usuário envia uma mensagem de email para 5.000 destinatários às 09:00 AM e, em seguida, envia outra mensagem para 2, 1000 destinatários às 10:00 AM e, em seguida, envia outra mensagem para destinatários de 2.500 no 11:00 A.M., atingindo o limite de 10.000 mensagens. O usuário não poderá enviar mensagens novamente até 09:00, no dia seguinte.
 
 #### <a name="sending-limits-across-standalone-options"></a>Limites de envio nas opções autônomas
 
@@ -368,7 +368,7 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
 |:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Exchange Server 2013**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Limite de taxa de destinatários|Sem limites<sup>1</sup>|10.000 destinatários por dia<sup>2</sup>|10.000 destinatários por dia<sup>2</sup>|10.000 destinatários por dia<sup>2</sup>|
-|Limite de destinatários|500 destinatários<sup>1</sup>|500 destinatários|500 destinatários|500 destinatários|
+|Limite de destinatários|1000 destinatários<sup>1</sup>|destinatários 1000|destinatários 1000|destinatários 1000|
 |Limite de endereço proxy do destinatário|400|400|400|400|
 |Limite de taxa de mensagens|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|
 

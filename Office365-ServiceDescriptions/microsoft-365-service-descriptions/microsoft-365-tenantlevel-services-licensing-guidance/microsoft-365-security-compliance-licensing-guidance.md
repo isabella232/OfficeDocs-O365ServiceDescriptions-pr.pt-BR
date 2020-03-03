@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para o Microsoft 365 Security & Compliance para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279854"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374158"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -189,9 +189,9 @@ Por padrão, os recursos do ADG são habilitados no nível do locatário para to
 
 As políticas de retenção do ADG podem ser aplicadas a usuários licenciados em locais específicos (sites de equipe, sites de grupo etc.) por meio da classificação automática. Para obter instruções sobre a aplicação de políticas de retenção do ADG, consulte [aplicando uma política de retenção a uma organização inteira ou locais específicos](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).
 
-## <a name="office-365-advanced-ediscovery"></a>Descoberta Eletrônica Avançada do Office 365
+## <a name="advanced-ediscovery"></a>Descoberta Eletrônica Avançada
 
-A descoberta eletrônica avançada do Office 365 fornece soluções de investigação e descoberta eletrônica para departamentos jurídicos e de ti em corporações para identificar, coletar, preservar, reduzir e revisar o conteúdo relacionado a uma investigação ou litígio antes de exportar Sistema do Office 365.
+A descoberta eletrônica avançada fornece soluções de investigação e descoberta eletrônica para departamentos jurídicos e de ti em corporações para identificar, coletar, preservar, reduzir e revisar o conteúdo relacionado a uma investigação ou litígio antes de exportar do Office 365 System.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
@@ -440,4 +440,4 @@ Por padrão, a auditoria avançada é habilitada no nível do locatário para to
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-A retenção de um ano dos logs de auditoria e os eventos de alto valor de auditoria só se aplicam a usuários com a licença apropriada. Além disso, os administradores podem usar políticas de retenção de log de auditoria para especificar durações de retenção mais curtas para os logs de auditoria de usuários específicos.
+Retenção de um ano de logs de auditoria e a auditoria de eventos cruciais só se aplicam a usuários com a licença apropriada. Além disso, os administradores podem usar políticas de retenção de log de auditoria para especificar durações de retenção mais curtas para os logs de auditoria de usuários específicos.
