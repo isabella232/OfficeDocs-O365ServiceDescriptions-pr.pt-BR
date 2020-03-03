@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Visualize quais recursos do OneDrive estão disponíveis em quais planos.
-ms.openlocfilehash: d1a8efd1cb01ae2f7643f673b66b6c0204ddde73
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172083"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374168"
 ---
 # <a name="onedrive-service-description"></a>Descrição do serviço OneDrive
 
@@ -88,7 +88,7 @@ Sempre que precisar de armazenamento na nuvem superior aos 5 TB iniciais, os adm
   
 - Quando um usuário tiver utilizado pelo menos 90% dos 5 TB de armazenamento no OneDrive, a Microsoft aumentará o espaço de armazenamento padrão no OneDrive para até 25 TB por usuário (os administradores podem configurar limites inferiores por usuário, se quiserem). 
     
-- Para qualquer usuário que atinja pelo menos 90% da capacidade dos 25 TB do armazenamento do OneDrive, um armazenamento em nuvem adicional de 25 TB nos sites de equipe do SharePoint será fornecido a usuários individuais. Este armazenamento adicional é fornecido à organização por meio de crédito.
+- Para qualquer usuário que atinja pelo menos 90% da capacidade dos 25 TB do armazenamento do OneDrive, um armazenamento em nuvem adicional de 25 TB nos sites de equipe do SharePoint será fornecido a usuários individuais.
     
 Para visualizar o espaço de armazenamento e o uso de um usuário específico, acesse [Gerenciar armazenamento](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) no aplicativo de sincronização do OneDrive. Para ver a quantidade de armazenamento que usuários em toda a organização estão usando, acesse o [relatório de uso do OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) no Centro de Administração do Microsoft 365. 
    
