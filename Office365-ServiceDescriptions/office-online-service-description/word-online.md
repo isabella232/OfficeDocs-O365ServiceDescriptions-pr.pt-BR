@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: O Word para a Web (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da Web, onde você pode trabalhar com documentos diretamente no site em que o documento está armazenado.
 ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263485"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545734"
 ---
 # <a name="word-for-the-web"></a>Word para a Web
 

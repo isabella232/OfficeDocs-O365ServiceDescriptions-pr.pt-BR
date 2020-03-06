@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Hospedamos as caixas de correio e cuidamos do fluxo de emails da maioria das organizações que usam o Office 365. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. No entanto, algumas organizações têm a necessidade comercial de manter todas as caixas de correio no local. O proteção do Exchange Online (EOP) permite que você faça isso e fornece antivírus e processamento de email antispam na nuvem.
 ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260936"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545814"
 ---
 # <a name="mail-floweop"></a>Fluxo de mensagens [EOP]
 

@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
 ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810820"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545794"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 

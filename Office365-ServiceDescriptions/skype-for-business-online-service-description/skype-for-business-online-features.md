@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Se você for um administrador, poderá encontrar instruções detalhadas para configurar os recursos do Skype for Business online em configurar o Skype for Business online.
 ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733792"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545754"
 ---
 # <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
 

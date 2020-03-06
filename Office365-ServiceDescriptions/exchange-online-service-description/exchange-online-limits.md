@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
 ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374178"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546104"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 

@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project online.
 ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263385"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546054"
 ---
 # <a name="project-resource-management"></a>Gerenciamento de recursos do Project
 

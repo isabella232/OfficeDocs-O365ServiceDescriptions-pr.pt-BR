@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Este artigo fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365.
-ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
-ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
+ms.openlocfilehash: d94134443ffa106fa162690908825ab295d733e5
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2020
-ms.locfileid: "41233354"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545714"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -167,14 +167,14 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Recursos do Pacote do Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |Microsoft Bookings  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
 |Email de resumo da Microsoft  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Automatização de energia da Microsoft  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
+|Microsoft Power Automate  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Sim <br/> |Sim <br/> |Sim<br/> |Sim</sup> <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft MyAnalytics  <br/> |Não <br/> |Não <br/> |Sim<sup>17</sup> <br/> |Não <br/> |
 |Microsoft Planner  <br/> |Sim <br/> |Sim <br/> |Sim <br/> |Sim <br/> |
 |Microsoft PowerApps  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |Não <br/> |Não <br/> |Não <br/> |Não<br/> |
-|Microsoft Stream  <br/> |Sim<sup>9, 15</sup> <br/> |Sim<sup>9, 15</sup> <br/> |Sim<sup>9, 15</sup> <br/> |Não  <br/> |
+|Microsoft Stream  <br/> |Sim<sup>9, 15</sup> <br/> |Sim<sup>9, 15</sup> <br/> |Sim<sup>9, 15</sup> <br/> |Sim<sup>9, 15, 20</sup>  <br/> |
 |Microsoft Sway  <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |
 |Microsoft Teams  <br/> |Sim <br/> |Sim <br/> |Sim <br/> |Sim <br/> |
 |Office Delve  <br/> |Sim<sup>17</sup> <br/> |Sim<sup>17</sup> <br/> |Sim  <br/> |Sim<sup>17</sup> <br/> |
@@ -219,10 +219,10 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Principal malware para email  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Correspondências de regra para email  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Principais correspondências de regra para email  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
-|Principais correspondências de política DLP para email  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
-|Correspondências de política DLP por gravidade para email  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
-|Correspondências, substituições e falsos positivos de política DLP para email  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
-|Principais correspondências de regra DLP para email  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
+|Principais correspondências de política DLP para email  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Não <br/> |
+|Correspondências de política DLP por gravidade para email  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Não <br/> |
+|Correspondências, substituições e falsos positivos de política DLP para email  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Não <br/> |
+|Principais correspondências de regra DLP para email  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Não <br/> |
 |Sessões de mensagens instantâneas e áudio  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Compartilhamento de aplicativos, Webconferência e conferência discada  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Vídeo, compartilhamento de aplicativos e sessões de transferência de arquivos  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
@@ -246,7 +246,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**Confiança** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F1** <br/> |
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Advanced Data Governance  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim <br/> |Nenhum<sup>12</sup> <br/> |
-|Cloud App Security  <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Sim<sup>15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |
+|Segurança no Aplicativo na Nuvem  <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Sim<sup>15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Nenhum<sup>12, 18</sup> <br/> |Nenhum<sup>12, 18</sup> <br/> |Sim<sup>18</sup>  <br/> |Nenhum<sup>12, 18</sup> <br/> |
 |Sistema de Proteção de Dados do Cliente  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim <br/> |Nenhum<sup>12</sup> <br/> |
 |Descoberta Eletrônica Avançada do Office 365  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim  <br/> |Nenhum<sup>12</sup> <br/> |
@@ -285,12 +285,14 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 <br/><sup>11</sup> ainda não está disponível nas ofertas governamentais do Office 365, mas em breve. 
 <br/><sup>12</sup> não está incluído, mas pode ser adquirido como um complemento separado no gcc. 
 <br/><sup>13</sup> não têm suporte para ofertas governamentais do Office 365. 
-<br/><sup>14</sup> disponível em [https://securescore.office.com](https://securescore.office.com). Requer permissões de administrador. Saiba mais em [Apresentando a Classificação de Segurança do Office 365](https://go.microsoft.com/fwlink/?linkid=836894). 
+<br/><sup>14</sup> disponível em [https://securescore.office.com](https://securescore.office.com). Requer permissões de administrador. Saiba mais em [Apresentando a Classificação de Segurança do Office 365](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
+). 
 <br/><sup>15</sup> ainda não está disponível no ambiente DOD, mas estará chegando em breve. 
 <br/><sup>16</sup> o centro de administração não inclui a análise de uso em ambientes do DoD ou gcc.
 <br/><sup>17</sup> não tem suporte para ambientes gcc altos ou DOD.
 <br/><sup>18</sup> o anti-phishing para representação de usuário e de domínio e inteligência de falsificação ainda não estão disponíveis no gcc High e no DOD.
 <br/><sup>19</sup> ainda não está disponível no ambiente gcc, mas estará chegando em breve.
+<br/><sup>20</sup> consumo somente para o Microsoft Stream: sem publicação ou compartilhamento. 
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Disponibilidade de aplicativos do Office e valor corporativo
 
@@ -378,14 +380,14 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais
 |Pesquisa Inteligente | Não <br/> | Não <br/> | Não <br/> |
 |Gráficos: mapa solar, cascata, histograma, mapas, linha do tempo, funil | Não <br/> | Não <br/> | Não <br/> |
 |Histórico de versão | Não <br/> | Não <br/> | Não <br/> |
-|O [**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD**<sup>3</sup> <br/> |
+|O [**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD** <br/> |
 |Notificação por email | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não <br/> | 
 |Inserir uma imagem | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não <br/> |
 |Inserir um vídeo | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não <br/> |
 |Matemática | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não <br/> |
 |Integração do Office | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não <br/> |
-|Formulários de grupo mais recentes | Sim <br/> | Sim <br/> | Não <br/> |
-|Compartilhamento externo <sup>4</sup> | Sim <br/> | Não <br/> | Não <br/> |
+|Formulários de grupo mais recentes | No<sup>4</sup> <br/> | Sim <br/> | Sim <br/> |
+|Compartilhamento externo <sup>3</sup> | Sim <br/> | Não <br/> | Não <br/> |
 |Forms pro | Não | Não | Não |
 |O [**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD** <br/> |
 |Pesquisador | Não <br/> | Não <br/> | Não <br/> |
@@ -438,7 +440,7 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais
 |Chat contextual com coautores: converse com coautores no documento | Não <br/> | Não <br/> | Não <br/> |
 |Ditado | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> |
 
-> <sup>1</sup> disponibilidade em breve.<br/>
-<sup>2</sup> disponibilidade no Surface Hub local (não conectado).<br/>
-<sup>3</sup> o aplicativo não está disponível no momento na nuvem DOD.<br/>
-<sup>4</sup> o compartilhamento externo está disponível para o ambiente gcc. Saiba mais sobre como [desativar ou ativar o Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) para sua organização. O compartilhamento externo está desabilitado para ambientes GCC altos e DOD; os usuários da sua organização podem fazer o seguinte: concluir um formulário e enviar respostas, [duplicar e compartilhar um formulário como um modelo](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [coautoria ou colaborar em um formulário](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)e [acessar os resultados do formulário](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
+><sup>1</sup> disponibilidade em breve.
+<br/><sup>2</sup> disponibilidade no Surface Hub local (não conectado).
+<br/><sup>3</sup> o compartilhamento externo está disponível para o ambiente gcc. Saiba mais sobre como [desativar ou ativar o Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) para sua organização. O compartilhamento externo está desabilitado para ambientes GCC altos e DOD; os usuários da sua organização podem fazer o seguinte: concluir um formulário e enviar respostas, [duplicar e compartilhar um formulário como um modelo](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [coautoria ou colaborar em um formulário](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)e [acessar os resultados do formulário](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
+<br/><sup>4</sup> o recurso de formulários de grupo recentes está desabilitado para o ambiente gcc. No entanto, os usuários ainda podem acessar formulários de grupo selecionando um grupo específico na guia formulários de grupo.
