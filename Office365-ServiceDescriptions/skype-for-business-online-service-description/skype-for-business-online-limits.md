@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Os limites no Skype for Business online pertencem às seguintes categorias.
-ms.openlocfilehash: bbe968670e8fcaf442422c8f835363f7dc5f0c66
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263275"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609952"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites do Skype for Business Online
 
@@ -47,10 +47,10 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Limite de transferência de arquivo  <br/> |Sem limite  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Não se aplica  <br/> |
+|**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|Limite de transferência de arquivo  <br/> |Sem limite  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |Não aplicável  <br/> |
 |Limite de conversas<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
-|Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Não se aplica  <br/> |
+|Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Não aplicável  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> O cliente pode iniciar um chat com até 99 usuários, adicionando-os manualmente ou enviando uma mensagem instantânea no menu de contexto de um grupo ou de uma lista de distribuição. Para saber mais sobre o envio de mensagens instantâneas no Skype for Business Online, confira o artigo [Enviar uma mensagem instantânea no Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
@@ -85,13 +85,13 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |Limite de upload de arquivos  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |Não aplicável  <br/> |
-|Participantes em uma reunião do Skype for Business<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não se aplica  <br/> |
-|Apresentadores em uma reunião do Skype for Business  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não se aplica  <br/> |
-|Participantes da reunião do Skype for Business Web app  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não se aplica  <br/> |
-|Participantes anônimos do Skype for Business Web app  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não se aplica  <br/> |
-|Convidados que participam por telefone  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não se aplica  <br/> |
+|Participantes em uma reunião do Skype for Business<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não aplicável  <br/> |
+|Apresentadores em uma reunião do Skype for Business  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não aplicável  <br/> |
+|Participantes da reunião do Skype for Business Web app  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não aplicável  <br/> |
+|Participantes anônimos do Skype for Business Web app  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não aplicável  <br/> |
+|Convidados que participam por telefone  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Não aplicável  <br/> |
 |Indivíduos em um grupo de chamada de equipe  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |Não aplicável  <br/> |
    
 > [!NOTE]
@@ -103,12 +103,12 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 |:-----|:-----|:-----|:-----|
 |**Recurso** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business online Plano autônomo 1** <br/> |**Skype for Business online Plano autônomo 2** <br/> |
 |Limite de upload de arquivos  <br/> |500 MB  <br/> |Não aplicável  <br/> |500 MB  <br/> |
-|Participantes em uma reunião do Skype for Business  <br/> |250  <br/> |Não se aplica  <br/> |250  <br/> |
-|Apresentadores em uma reunião do Skype for Business  <br/> |250  <br/> |Não se aplica  <br/> |250  <br/> |
-|Participantes da reunião do Skype for Business Web app  <br/> |250  <br/> |Não se aplica  <br/> |250  <br/> |
-|Participantes anônimos do Skype for Business Web app  <br/> |250  <br/> |Não se aplica  <br/> |250  <br/> |
-|Convidados que participam por telefone  <br/> |250  <br/> |Não se aplica  <br/> |250  <br/> |
-|Indivíduos em um grupo de chamada de equipe  <br/> |25  <br/> |Não se aplica  <br/> |25  <br/> |
+|Participantes em uma reunião do Skype for Business  <br/> |250  <br/> |Não aplicável  <br/> |250  <br/> |
+|Apresentadores em uma reunião do Skype for Business  <br/> |250  <br/> |Não aplicável  <br/> |250  <br/> |
+|Participantes da reunião do Skype for Business Web app  <br/> |250  <br/> |Não aplicável  <br/> |250  <br/> |
+|Participantes anônimos do Skype for Business Web app  <br/> |250  <br/> |Não aplicável  <br/> |250  <br/> |
+|Convidados que participam por telefone  <br/> |250  <br/> |Não aplicável  <br/> |250  <br/> |
+|Indivíduos em um grupo de chamada de equipe  <br/> |25  <br/> |Não aplicável  <br/> |25  <br/> |
    
 ## <a name="meeting-retention-limits"></a>Limites de retenção de reunião
 

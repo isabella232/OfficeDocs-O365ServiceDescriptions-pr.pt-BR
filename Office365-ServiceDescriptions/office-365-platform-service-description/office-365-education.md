@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e o&mdash;Microsoft Skype for Business online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: aef2ede957404e73ab723766239ffbbd186e1d3c
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172233"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609962"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -36,7 +36,7 @@ Cada plano de educação do Office 365 inclui vários serviços individuais, com
 |Exchange Online  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business Online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
+|Skype for Business online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
 |Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos do Office  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Project Online  <br/> |Não<sup>1</sup> <br/> |Não<sup>1</sup> <br/> |Não<sup>1</sup> <br/> |
@@ -346,7 +346,7 @@ A tabela a seguir lista os recursos do Exchange Online que estão disponíveis n
 |Quarentena - gerenciamento de administrador  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Quarentena - auto-gerenciamento de usuário final  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Roteamento personalizado de email de saída  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Conditional mail routing  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -809,7 +809,7 @@ Os seguintes planos de qualificação oferecem armazenamento ilimitado do OneDri
     
 - Office 365 A5
     
-Você não pode alocar mais armazenamento para um usuário específico do OneDrive. No entanto, você pode diminuir a quantidade de armazenamento que um usuário vê. Se um usuário do Office 365 Enterprise F1 precisar de mais armazenamento, você precisará atualizar para o Office 365 Enterprise E1.
+Você não pode alocar mais armazenamento para um usuário específico do OneDrive. No entanto, você pode diminuir a quantidade de armazenamento que um usuário vê. Se um usuário do Office 365 Enterprise F3 precisar de mais armazenamento, você precisará atualizar para o Office 365 Enterprise E1.
   
 Para obter informações sobre tipos de arquivo que você não pode adicionar ao OneDrive for Business, consulte [tipos de arquivos que não podem ser adicionados a uma lista ou biblioteca](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3).
   

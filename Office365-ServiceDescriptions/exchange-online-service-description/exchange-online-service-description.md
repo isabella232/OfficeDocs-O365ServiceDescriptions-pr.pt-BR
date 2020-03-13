@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço do Exchange Online
+title: Descrição de serviço do Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 17abb4bf115e80435522cecc32ff41ecc8b82279
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262764"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609852"
 ---
-# <a name="exchange-online-service-description"></a>Descrição do serviço do Exchange Online
+# <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
 Você deseja uma comparação de recursos de assinaturas do Office 365 que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
   
@@ -66,18 +66,18 @@ Para obter informações sobre os limites de armazenamento e de destinatários d
 
 Se sua organização tiver atualmente assinaturas para o Office 365 Small Business, o Office 365 Small Business Premium ou o Office 365 Midsize Business, acesse seu centro de mensagens no centro de administração do Microsoft 365 ou converse com seu provedor do 365 Office para obter mais detalhes sobre como os novos planos de negócios do Office 365 impactam você. Para saber mais sobre a nova família de planos do Office 365 Business, confira [Novos planos disponíveis do Office 365 para empresas de pequeno e médio portes](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today).
   
-|**Recurso**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**Recurso**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Planejamento e implantação](planning-and-deployment.md)**|||||||||
 |Suporte para implantação híbrida|Sim|Sim|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim|Sim|Sim<sup>16</sup>|
 |Suporte para migração IMAP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte para migração de substituição|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte para migração em estágios|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Permissões](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Permissões](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Permissões baseadas em função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Grupos de função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Diretivas de atribuição de função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|**[Política e conformidade de mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Política e conformidade de mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Arquivamento de Caixas de Correio baseadas no Exchange Online| Não|Não|Sim|Sim|Sim|Sim|Sim|Não|
 |Arquivamento baseado em nuvem de caixas de correio no local|Sim <sup>1</sup>|Sim<sup>1</sup>|Não|Não|Sim|Sim|Sim|Não|
 |Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -93,7 +93,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Transport rules|Sim <sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|
 |Prevenção contra perda de dados|Sim<sup>5, 14</sup>|Sim<sup>5, 14</sup>|Não|Não|Não|Sim|Sim|Não|
 |Registro em Diário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Proteção antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Proteção antispam e antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Proteção antispam interna|Sim <sup>6</sup>|Sim <sup>6</sup>|Sim|Sim|Sim|Sim|Sim|Sim|
 |Customize anti-spam policies|Sim, mas somente via o PowerShell|Sim, mas somente via o PowerShell|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
 |Proteção Antimalware interna|Sim <sup>8</sup>|Sim <sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|
@@ -101,13 +101,13 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|Sim|Não|Não|Não|Não|Sim|Não|
-|**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Fluxo de emails](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Adicionando um parceiro a uma lista segura de entrada|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Roteamento de email híbrido|Sim|Sim|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim|Sim|Sim|
-|**[Destinatários](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Destinatários](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Alertas de capacidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Email secundário|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |MailTips|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -128,18 +128,18 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Gerenciamento da sala de conferência|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Respostas de Ausência Temporária|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compartilhamento de calendário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Recursos de relatório e ferramentas de solução de problemas](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Recursos de relatório e ferramentas de solução de problemas](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Relatórios do centro de administração do Microsoft 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Pasta de trabalho de relatórios do Excel|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Relatórios de serviços Web|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Message trace|Não|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Relatórios de auditoria|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>3</sup>|
 |Relatórios de Unificação de Mensagens|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
-|**[Compartilhamento e colaboração](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Compartilhamento e colaboração](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Compartilhamento federado (incluindo publicação de calendário)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Caixas de correio local|Sim<sup>10</sup>|Sim<sup>10</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|
 |Pastas públicas|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|**[Clientes e dispositivos móveis](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Clientes e dispositivos móveis](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Outlook para Windows <sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| Não|
 |Outlook na Web<sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Outlook para Mac<sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| Não|
@@ -149,33 +149,33 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |POP e IMAP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>12</sup>|
 |SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte a aplicativos EWS|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|**[Serviços de mensagens de voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Serviços de mensagens de voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Mensagem de voz<sup>23</sup>|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
 |Integração entre caixa postal e FAX de terceiros<sup>23</sup>|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
 |Interoperabilidade de caixa postal de terceiros<sup>23</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Integração do Skype for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Alta disponibilidade e continuidade de negócios](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Alta disponibilidade e continuidade de negócios](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Replicação de caixa de correio em data centers|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Recuperação da caixa de correio excluída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Recuperação de itens excluídos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Recuperação de item único|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não||
-|**[Interoperabilidade, conectividade e compatibilidade](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Interoperabilidade, conectividade e compatibilidade](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Presença do Skype for Business no OWA e no Outlook|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Interoperabilidade do SharePoint|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte à conectividade do EWS|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Suporte a retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Instalação e administração do Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Instalação e administração do Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Acesso ao portal do Microsoft Office 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso ao centro de administração do Microsoft 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso ao centro de administração do Exchange|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Políticas do ActiveSync para dispositivos móveis|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Relatórios de uso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**Estendendo o serviço-personalização, suplementos e recursos**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**Estendendo o serviço-personalização, suplementos e recursos**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Suplementos do Outlook e MAPI do Outlook|Sim<sup>19</sup>|Sim|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Sim<sup>19</sup>|Não|
 
 <sup>1</sup> requer uma assinatura de arquivamento do Exchange Online para cada usuário de caixa de correio local que tenha um arquivo morto baseado em nuvem. <br/>
-<sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. <br/>
+<sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura do Office 365 ProPlus, que não está incluído no Office 365 Business Essentials, no Office 365 Business Premium, no Office 365 Enterprise E1, no Office 365 Education ou no Office 365 Enterprise F3. <br/>
 <sup>3</sup> O Windows Server AD RMS é um servidor local que precisa ser adquirido e gerenciado separadamente de forma a permitir os recursos de IRM com suporte. <br/>
 <sup>4</sup> as regras de transporte são formadas por critérios flexíveis, que permitem definir condições e exceções, e ações a serem tomadas com base nos critérios. Os critérios e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto. <br/>
 <sup>5</sup> para o Exchange 2013, a DLP requer uma licença de acesso para cliente (cal) do Exchange Enterprise. Para saber mais sobre CALs e sobre licenciamento de servidor, confira o artigo [Licenciamento do Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business). <br/>
@@ -189,7 +189,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 <sup>13</sup> com suporte para clientes locais do Exchange Server 2013 que compram a proteção de informações do Azure. A criptografia de mensagem do Office 365 requer que os clientes locais circulem emails por meio do Exchange Online, usando o Exchange Online Protection para filtragem de email ou estabelecendo o fluxo de email híbrido. <br/>
 <sup>14</sup> os clientes do Exchange Server 2013 precisam baixar e instalar o SP1 para acessar a impressão digital de documentos e as dicas de política no OWA e no OWA para dispositivos. <br/>
 <sup>15</sup> a criptografia de unidade de disco BitLocker é compatível com o Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
-<sup>16</sup> Office 365 Business Essentials, Office 365 Business Premium e Office 365 Enterprise F1 não oferecem direitos de acesso para utilização com servidores locais. Para estar em conformidade, o cliente deve comprar ou ter comprado previamente as CALs apropriadas ou atualizar para um SKU Enterprise, que fornece esses direitos de acesso. <br/>
+<sup>16</sup> Office 365 Business Essentials, Office 365 Business Premium e Office 365 Enterprise F3 não oferecem direitos de acesso para uso com os servidores locais. Para estar em conformidade, o cliente deve comprar ou ter comprado previamente as CALs apropriadas ou atualizar para um SKU Enterprise, que fornece esses direitos de acesso. <br/>
 <sup>17</sup> contas conectadas têm suporte para &amp; contas POP IMAP, mas estão desabilitadas para o Outlook.com (Hotmail). <br/>
 <sup>18</sup> usar cmdlets no PowerShell do Exchange Online para personalizar as listas de endereços padrão e a lista de endereços global (GAL) padrão não é suportada. <br/>
 <sup>19</sup> algumas Web Parts e suplementos de terceiros podem não estar disponíveis. <br/>
@@ -197,7 +197,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 <sup>21</sup> a tabela indica se o cliente funciona ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos. <br/>
 <sup>22</sup> para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> o suporte da um do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCS operado pelo cliente terminará em abril de 2019. Consulte o blog [da equipe do Exchange descontinuando o suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) para obter mais informações. <br/>
-<sup>24</sup> um usuário F1 não pode adicionar representantes à sua própria caixa de correio, mas pode acessar outra caixa de correio (incluindo caixas de correio compartilhadas) e executar qualquer ação que tenha sido delegada a elas.
+<sup>24</sup> um usuário F3 não pode adicionar representantes à sua própria caixa de correio, mas eles podem acessar outra caixa de correio (incluindo caixas de correio compartilhadas) e executar qualquer ação que tenha sido delegada a elas.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilidade de recursos nos planos autônomos do Exchange Online
 
@@ -234,7 +234,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Customize antimalware policies|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|
-|**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|**[Fluxo de emails](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Não|Não|Sim|Sim|Sim|
@@ -261,7 +261,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Gerenciamento da sala de conferência|Sim|Sim|Sim|Sim|Sim|
 |Respostas de Ausência Temporária|Sim|Sim|Sim|Sim|Sim|
 |Compartilhamento de calendário|Sim|Sim|Sim|Sim|Sim <sup>18</sup>|
-|**[Recursos de relatório e ferramentas de solução de problemas](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|**[Recursos de relatórios e ferramentas de solução de problemas](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Relatórios do centro de administração do Microsoft 365|Não|Não|Sim|Sim|Sim|
 |Pasta de trabalho de relatórios do Excel|Não|Não|Sim|Sim|Sim|
 |Relatórios de serviços Web|Não|Não|Sim|Sim|Sim|
@@ -315,7 +315,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 <sup>8</sup> acessível apenas via acesso direto à interface de gerenciamento do centro de administração do Exchange (Eat). <br/>
 <sup>9</sup> não há suporte para IMAP. <br/>
 <sup>10</sup> para o Exchange 2013 ou posterior, a DLP requer uma cal (licença de acesso para cliente) do Exchange Enterprise. Para saber mais sobre CALs e sobre licenciamento de servidor, confira o artigo [Licenciamento do Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business). <br/>
-<sup>11</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não é incluída com os planos Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education ou Office 365 Enterprise F1. A criptografia de mensagem do Office 365 depende da proteção de informações do Azure. <br/>
+<sup>11</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura do Office 365 ProPlus, que não está incluído no Office 365 Business Essentials, no Office 365 Business Premium, no Office 365 Enterprise E1, no Office 365 Education ou no Office 365 Enterprise F3. A criptografia de mensagem do Office 365 depende da proteção de informações do Azure. <br/>
 <sup>12</sup> o AD RMS para Windows Server é um servidor local que deve ser adquirido e gerenciado separadamente para habilitar os recursos de IRM compatíveis. <br/>
 <sup>13</sup> com suporte para clientes que executam o Exchange Server 2013 ou posterior que compram a proteção de informações do Azure. A criptografia de mensagem do Office 365 requer que os clientes locais circulem emails por meio do Exchange Online, usando o Exchange Online Protection para filtragem de email ou estabelecendo o fluxo de email híbrido. <br/>
 <sup>14</sup> os clientes que executam o Exchange Server 2013 ou posterior precisam baixar e instalar a atualização cumulativa mais recente (cu) ou a cu imediatamente anterior, para acessar a impressão digital de documentos e dicas de política no OWA e no OWA para dispositivos. <br/>

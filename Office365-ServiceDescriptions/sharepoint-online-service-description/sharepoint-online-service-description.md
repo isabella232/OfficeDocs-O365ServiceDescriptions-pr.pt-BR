@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço do SharePoint
+title: Descrição do serviço SharePoint
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Veja quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172848"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609862"
 ---
-# <a name="sharepoint-service-description"></a>Descrição do serviço do SharePoint
+# <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
 O SharePoint no Microsoft 365 ajuda as organizações a compartilhar e gerenciar conteúdo, conhecimento e aplicativos para:
 
@@ -43,7 +43,7 @@ Para obter informações sobre os recursos mais recentes que estão sendo lança
 
 O Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Para saber mais sobre os diversos planos, inclusive opções de planos autônomos, e ver informações sobre como migrar de um plano para outro, confira [Opções de planos do Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Para acessar o SharePoint, os usuários de sua organização precisam receber uma licença que inclui o SharePoint. Um plano de início não é vendido como uma oferta autônoma, somente como parte da assinatura do primeiro. Os operadores de primeiras não verão os menus de navegação do SharePoint, portanto, os funcionários de primeiro lugar precisam navegar até sites do SharePoint diretamente por URL.
+Para acessar o SharePoint, os usuários de sua organização precisam receber uma licença que inclui o SharePoint. Um plano de início não é vendido como uma oferta autônoma, somente como parte da [assinatura do primeiro](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
 ## <a name="rights-of-guests"></a>Direitos de convidados
 
@@ -152,7 +152,7 @@ Para obter informações sobre a disponibilidade da chave do cliente, consulte [
 Salvo indicação em contrário, os seguintes recursos estão disponíveis em todos os planos que incluem o SharePoint e todos os planos autônomos do SharePoint:
 
 - [Acessibilidade](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Adicionar o Microsoft Teams a sites](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Requer uma assinatura que inclui o Office 365 e exige que o usuário seja licenciado para o Microsoft Teams.
+- [Adicionar o Microsoft Teams a sites](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Requer uma assinatura que inclua o Office 365 e exige que o usuário esteja licenciado para equipes.
 - [Segmentação por público-alvo](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [Conectar sites de equipe clássicos a novos grupos do Office 365](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Requer uma assinatura que inclua o Office 365.
 - [Criar um plano (integração com planejador)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Requer uma assinatura que inclui o Office 365 e exige que o usuário seja licenciado para o Planner.
@@ -168,7 +168,7 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Biblioteca de ativos da organização](/sharepoint/organization-assets-library)
 - [Notícias da organização](/sharepoint/organization-news-site)
 - [Aprovação de página](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Páginas](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Gerenciamento de registros
 - [Lixeira](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Aplicativo móvel do SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -185,11 +185,11 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Bloco de anotações do OneNote da equipe](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Temas (alterar a aparência)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Web parts](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Trabalhar com o conteúdo do SharePoint no Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Requer uma assinatura que inclui o Office 365 e exige que o usuário seja licenciado para o Microsoft Teams.
+- [Trabalhar com o conteúdo do SharePoint no Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Requer uma assinatura que inclua o Office 365 e exige que o usuário esteja licenciado para equipes.
 
 Para saber mais sobre a disponibilidade de aplicativos de alimentação da Microsoft e automatização de energia, consulte as [perguntas frequentes sobre os aplicativos de energia e o licenciamento automatizado de energia](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Para obter informações sobre os recursos relacionados ao compartilhamento, consulte a [Descrição do serviço do onedrive](/office365/servicedescriptions/onedrive-for-business-service-description).
+Para obter informações sobre os recursos relacionados ao compartilhamento, consulte a [Descrição do serviço do onedrive](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features).
 
 ## <a name="search-features"></a>Recursos de pesquisa
 
