@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Visualize quais recursos do OneDrive estão disponíveis em quais planos.
-ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374168"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609872"
 ---
 # <a name="onedrive-service-description"></a>Descrição do serviço OneDrive
 
@@ -40,7 +40,7 @@ Para revisar os requisitos do aplicativo de sincronização e aplicativo móvel 
 
 **2 GB**
 
-- Office 365 Enterprise F1
+- Office 365 Enterprise F3
 
 **1 TB**
 
@@ -88,7 +88,7 @@ Sempre que precisar de armazenamento na nuvem superior aos 5 TB iniciais, os adm
   
 - Quando um usuário tiver utilizado pelo menos 90% dos 5 TB de armazenamento no OneDrive, a Microsoft aumentará o espaço de armazenamento padrão no OneDrive para até 25 TB por usuário (os administradores podem configurar limites inferiores por usuário, se quiserem). 
     
-- Para qualquer usuário que atinja pelo menos 90% da capacidade dos 25 TB do armazenamento do OneDrive, um armazenamento em nuvem adicional de 25 TB nos sites de equipe do SharePoint será fornecido a usuários individuais.
+- Para qualquer usuário que atinja pelo menos 90% da capacidade dos 25 TB do armazenamento do OneDrive, um armazenamento em nuvem adicional de 25 TB nos sites de equipe do SharePoint será fornecido a usuários individuais. Entre em contato com o suporte técnico da Microsoft para obter informações e assistência.
     
 Para visualizar o espaço de armazenamento e o uso de um usuário específico, acesse [Gerenciar armazenamento](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) no aplicativo de sincronização do OneDrive. Para ver a quantidade de armazenamento que usuários em toda a organização estão usando, acesse o [relatório de uso do OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) no Centro de Administração do Microsoft 365. 
    
@@ -132,7 +132,7 @@ A menos que indicado de outra forma, os recursos a seguir estão disponíveis em
 A menos que indicado de outra forma, os recursos a seguir estão disponíveis em todos os planos quem incluem o OneDrive e todos os planos autônomos do OneDrive:
 
 - [Solicitações de acesso](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- ["Qualquer pessoa" vincula](/Office365/Enterprise/best-practices-anonymous-sharing) (que pode ser configurado para exigir a expiração) 
+- [Links "Qualquer pessoa"](/Office365/Enterprise/best-practices-anonymous-sharing) (que podem ser definidos para exigir expiração) 
 - [As mencionadas nos comentários](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Exige um plano que inclua o Office 365 para a Web ou aos aplicativos da área de trabalho do Office 365.
 - [Solicitações de arquivo](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Gerenciar o link de compartilhamento padrão ([no nível da organização](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) e [por local](/sharepoint/change-default-sharing-link))
@@ -184,5 +184,5 @@ A menos que indicado de outra forma, os recursos a seguir estão disponíveis em
 
 ## <a name="it-admin-security-and-compliance-features"></a>Recursos de administração, segurança e conformidade de TI
 
-Para saber mais sobre esses recursos, consulte a [Descrição do serviço SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features).
-  
+Para saber mais sobre esses recursos, consulte a [Descrição do serviço SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
+
