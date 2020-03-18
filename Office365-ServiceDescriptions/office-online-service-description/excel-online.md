@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
 ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545794"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687754"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -90,7 +90,7 @@ Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento
 
 ## <a name="check-spelling"></a>Verificar ortografia
 
-Para verificar a ortografia de qualquer texto na sua planilha, selecione **revisar** > **** > **ortografia**da verificação. Saiba mais sobre a [verificação ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Para verificar a ortografia de qualquer texto na sua planilha, selecione **revisar** > **Proofing** > **ortografia**da verificação. Saiba mais sobre a [verificação ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 

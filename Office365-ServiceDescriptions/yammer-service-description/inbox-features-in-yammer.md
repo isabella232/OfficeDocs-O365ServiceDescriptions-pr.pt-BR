@@ -1,5 +1,5 @@
 ---
-title: Recursos de caixa de entrada no Yammer
+title: Recursos da caixa de entrada no Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Os recursos para caixa de entrada a seguir estão disponíveis no Yammer.
 ms.openlocfilehash: 11bf4f2d8eb46e3b18b22720c584fbf7f748bc60
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263162"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687749"
 ---
-# <a name="inbox-features-in-yammer"></a>Recursos de caixa de entrada no Yammer
+# <a name="inbox-features-in-yammer"></a>Recursos da caixa de entrada no Yammer
 
 Os recursos para caixa de entrada a seguir estão disponíveis no Yammer.
   

@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Os recursos a seguir da plataforma Yammer estão disponíveis no Yammer.
 ms.openlocfilehash: bbae95e2284cac39e8e4bbfbb08faeac5c4b3fad
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263142"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687745"
 ---
 # <a name="yammer-platform-features"></a>Recursos da plataforma Yammer
 

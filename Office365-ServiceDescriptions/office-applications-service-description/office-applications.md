@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
 ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545724"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687771"
 ---
 # <a name="office-applications"></a>Aplicativos do Office
 

@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Os seguintes recursos de perfil estão disponíveis no Yammer.
 ms.openlocfilehash: 0f85007ec52bee13557f831c9f72029cc7fe93f5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263152"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687746"
 ---
 # <a name="profile-features-in-yammer"></a>Recursos de perfil no Yammer
 

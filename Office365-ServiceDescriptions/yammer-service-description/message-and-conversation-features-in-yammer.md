@@ -1,5 +1,5 @@
 ---
-title: Recursos de conversa e mensagens no Yammer
+title: Recursos de conversas e mensagens no Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Os recursos de conversa e mensagem a seguir estão disponíveis no Yammer.
 ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263082"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687747"
 ---
-# <a name="message-and-conversation-features-in-yammer"></a>Recursos de conversa e mensagens no Yammer
+# <a name="message-and-conversation-features-in-yammer"></a>Recursos de conversas e mensagens no Yammer
 
 Os recursos de conversa e mensagem a seguir estão disponíveis no Yammer.
   

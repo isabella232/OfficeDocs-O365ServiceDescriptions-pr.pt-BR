@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
 ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545834"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687751"
 ---
 # <a name="messaging-policy-and-compliance"></a>Conformidade e política de sistema de mensagens
 

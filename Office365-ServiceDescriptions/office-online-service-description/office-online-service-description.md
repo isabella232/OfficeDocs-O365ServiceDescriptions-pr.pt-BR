@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: O Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. O Office para a Web torna mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão com a Internet, de quase qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
 ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545784"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687797"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrição dos serviços do Office para Web
 
