@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para o Microsoft 365 Security & Compliance para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
+ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609912"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926334"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -168,6 +168,29 @@ Para obter informações sobre como configurar as políticas de segurança do ap
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
 Os administradores podem fazer o escopo de implantações do MCAS para usuários licenciados usando os recursos de implantação com escopo disponíveis no serviço. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
+
+
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+O Microsoft defender ATP é uma solução de segurança de ponto de extremidade que inclui gerenciamento e avaliação de vulnerabilidades baseados em riscos; recursos de redução da superfície de ataque; proteção com base no comportamento e na próxima geração da nuvem; detecção de pontos de extremidade e resposta (EDR); investigação e correção automáticas; e serviços gerenciados de busca. Confira a página [do Microsoft defender ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1) para saber mais. 
+
+
+### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
+
+Usuários licenciados do Windows 10 Enterprise e5, Windows 10 Education a5, Microsoft 365 E5 (M365 E5) que inclui o Windows 10 Enterprise e5, o Microsoft 365 E5 Security, o Microsoft 365 a5 (M365 a5) pode se beneficiar do Microsoft defender ATP.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
+
+Os analistas e profissionais de segurança do SecOps se beneficiam dos recursos de segurança do ponto de extremidade do Microsoft defender ATP para fazer proteção preventiva, detecção de pós-violação, investigação automatizada e resposta a ameaças avançadas. Os usuários finais se beneficiam com eventos mal-intencionados monitorados pelo Microsoft defender ATP.
+
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
+
+Por padrão, os recursos ATP do Microsoft defender estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre a implantação, consulte o [Guia de implantação](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
+
+Os administradores do Microsoft defender ATP podem utilizar o [controle de acesso baseado em função (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) para criar funções e grupos dentro da equipe de operações de segurança para conceder o acesso apropriado ao centro de segurança do Microsoft defender.
+
 
 ## <a name="office-365-advanced-data-governance"></a>Gestão de Dados Avançada do Office 365
 
