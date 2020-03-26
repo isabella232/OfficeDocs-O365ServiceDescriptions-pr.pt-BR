@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você quiser saber as diferenças entre os planos do Office 365, incluindo planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: fa5ebea4cd3c5bd1b26e9d51e0bd8e2f9b4ea0e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: c1e424939962ab4d106bfdc3c3e8a335810ffdb0
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609712"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954798"
 ---
 # <a name="office-365-platform-service-description"></a>Descrição dos serviços da plataforma Office 365
 
@@ -102,7 +102,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft myAnalytics<sup>21</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|Microsoft Planner  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Microsoft Planner  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft PowerApps  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Stream  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>18</sup> <br/> |

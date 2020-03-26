@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: O PowerPoint para a Web (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft Office 365 com o Office para a Web podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687772"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959319"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint para a Web
 
@@ -117,7 +117,7 @@ Não está disponível no PowerPoint para a Web. Com o PowerPoint para a Web, vo
   
 ## <a name="navigation---slide-sorter"></a>Navegação-classificação de slides
 
-Não está disponível no PowerPoint para a Web. Modo de exibição de classificação de slides, que oferece uma visão dos slides em forma de miniatura, facilitando a classificação e a organização dos slides, não está disponível no PowerPoint para a Web. Usando o aplicativo da área de trabalho do PowerPoint, você pode usar o modo de classificação de slides para organizar seus slides, adicionar seções e classificar slides em diferentes categorias.
+O modo de exibição de classificação de slides, que oferece uma visão dos slides em formato de miniatura, facilita a classificação e a organização dos slides. Você pode usar o modo de exibição de classificação de slides para organizar seus slides, adicionar seções e classificar slides em diferentes categorias.
   
 ## <a name="offline-viewing-and-authoring"></a>Criação e visualização offline
 

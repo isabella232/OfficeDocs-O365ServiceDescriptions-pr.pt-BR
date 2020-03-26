@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
-ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
+ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41839764"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959309"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -37,7 +37,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Teams  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Skype for Business online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Project Online  <br/> |Nenhum<sup>5</sup> <br/> |Nenhum<sup>5</sup> <br/> |Nenhum<sup>5</sup> <br/> |Nenhum<sup>5</sup> <br/> |Nenhum<sup>5</sup> <br/> |
+|Project  <br/> |Nenhum<sup>5</sup> <br/> |Nenhum<sup>5</sup> <br/> |Nenhum<sup>5</sup> <br/> |Nenhum<sup>5</sup> <br/> |Nenhum<sup>5</sup> <br/> |
 |Yammer acadêmico  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**Ferramentas de sala de aula** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Experiências em sala de aula no Microsoft Teams  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -85,7 +85,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |**Segurança avançada** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
-|Cloud App Security  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|Segurança no Aplicativo na Nuvem  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Proteção Avançada contra Ameaças do Microsoft Defender  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>13</sup>  <br/> |
 |**Benefícios de servidor e CAL** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Exchange<sup>9</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |
@@ -100,7 +100,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 > <sup>2</sup> inclui o plano 2 do Exchange Online. <br/>
 > <sup>3</sup> inclui o SharePoint Online plano 1 mais recursos complementares. <br/>
 > <sup>4</sup> inclui o SharePoint Online plano 2. <br/>
-> <sup>5</sup> o Project online Essentials não está incluído, mas pode ser adicionado gratuitamente ao plano de educação do Office 365. <br/>
+> <sup>5</sup> o Microsoft Project não está incluído no Office 365, mas pode ser adquirido separadamente. O Project online Essentials é gratuito. Se você for um aluno ou instituição educacional, talvez esteja qualificado para adquirir o plano de projeto 3 e o plano 5 em preços educacionais.   <br/>
 > <sup>6</sup> o Microsoft 365 Education a5 contém recursos de sistema de telefonia, conferência de áudio e plano de chamadas. Para implementar o plano de chamadas exige um plano adicional de compra (plano de chamadas domésticas ou de chamadas internacionais). <br/>
 > <sup>7</sup> para saber mais sobre quais recursos de proteção de informações do Azure estão incluídos nos planos do Office 365, confira [proteção de informações do Azure](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
 > <sup>8</sup> inclui o Intune. <br/>

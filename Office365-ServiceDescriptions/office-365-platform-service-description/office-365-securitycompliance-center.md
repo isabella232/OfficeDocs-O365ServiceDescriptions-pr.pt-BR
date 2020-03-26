@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade &amp; de segurança do Office 365 foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 00eb75df2e902131a2e5dd3c8d584d5f31db59db
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 8fbcf9354e116e3f924272d5ebe74a8a71369820
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609942"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959299"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
-O [centro de conformidade &amp; de segurança do Office 365](https://docs.microsoft.com/office365/securitycompliance/) foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+O [centro de conformidade &amp; de segurança do Office 365](https://protection.office.com/) foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 

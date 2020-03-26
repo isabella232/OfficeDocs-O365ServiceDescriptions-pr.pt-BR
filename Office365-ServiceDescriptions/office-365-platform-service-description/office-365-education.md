@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços&mdash;de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e o&mdash;Microsoft Skype for Business online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 949fe15b1bb6f0d8823aeb2156975636149e2b4e
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609962"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959289"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -36,16 +36,16 @@ Cada plano de educação do Office 365 inclui vários serviços individuais, com
 |Exchange Online  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
+|Skype for Business Online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
 |Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos do Office  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Project Online  <br/> |Não<sup>1</sup> <br/> |Não<sup>1</sup> <br/> |Não<sup>1</sup> <br/> |
+|Project  <br/> |Não<sup>1</sup> <br/> |Não<sup>1</sup> <br/> |Não<sup>1</sup> <br/> |
 |Power BI  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Yammer acadêmico  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção de informações do Azure<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> o Project online não está incluído, mas pode ser adicionado gratuitamente ao plano de educação do Office 365. <br/> 
+> <sup>1</sup> o Microsoft Project não está incluído no Office 365, mas pode ser adquirido separadamente. O Project online Essentials é gratuito. Se você for um aluno ou instituição educacional, talvez esteja qualificado para adquirir o plano de projeto 3 e o plano 5 em preços educacionais.   <br/> 
 <sup>2</sup> para saber mais sobre quais recursos de proteção de informações do Azure estão incluídos nos planos do Office 365, confira [proteção de informações do Azure](https://azure.microsoft.com/services/information-protection/).<br/> 
 <sup>3</sup> o Office 365 a5 contém recursos de sistema de telefonia, conferência de áudio e plano de chamadas. Para implementar o plano de chamadas exige um plano adicional de compra (plano de chamadas domésticas ou de chamadas internacionais). <br/> <sup>4</sup> inclui o plano 2 do Exchange Online. <br/> 
 <sup>5</sup> inclui o Exchange Online plano 1 mais recursos complementares. <br/> 
