@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260726"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093558"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Recursos de conformidade e segurança no arquivamento do Exchange Online
 
@@ -37,9 +37,6 @@ Os recursos de política de retenção oferecidos no Arquivamento do Exchange On
 ### <a name="in-place-hold-and-litigation-hold"></a>Bloqueio In-loco e Retenção de Litígio
 
 Quando existe uma expectativa razoável de litígio, as organizações são solicitadas a preservar informações armazenadas eletronicamente (ESI), incluindo emails, pertinentes ao caso. Essa expectativa pode acontecer antes que os detalhes do caso sejam conhecidos, e a preservação geralmente é total. As organizações podem preservar todos os emails relacionados a um tópico específico ou todos os emails de determinados indivíduos.
-  
-> [!NOTE]
-> O bloqueio in-loco e a retenção de litígio atualmente não se aplicam a emails enviados usando clientes POP ou IMAP ou por aplicativos personalizados que usam o protocolo SMTP. 
   
 No Exchange Online, é possível usar a Retenção local ou a Retenção de litígio para cumprir os seguintes objetivos:
   

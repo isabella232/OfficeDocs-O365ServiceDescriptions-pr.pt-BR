@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você quiser saber as diferenças entre os planos do Office 365, incluindo planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: c1e424939962ab4d106bfdc3c3e8a335810ffdb0
-ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
+ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954798"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093568"
 ---
 # <a name="office-365-platform-service-description"></a>Descrição dos serviços da plataforma Office 365
 
 O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você quiser saber as diferenças entre os planos do Office 365, incluindo planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
   
-O Microsoft Office 365 oferece o poder da produtividade da nuvem a empresas de todos os portes, ajudando a economizar tempo, dinheiro e liberar recursos valiosos. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e Microsoft Skype for Business online — para ajudar os usuários a serem produtivos de praticamente qualquer lugar pela Internet.
+O Microsoft Office 365 oferece o poder da produtividade da nuvem a empresas de todos os portes, ajudando a economizar tempo, dinheiro e liberar recursos valiosos. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços de colaboração e comunicação de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e o Microsoft Skype for Business online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
   
 Para comparar recursos entre planos, confira [comparar os planos do Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou, para obter uma lista mais detalhada dos recursos, consulte a descrição de serviço relevante nas [descrições do serviço do Office 365 ](../office-365-service-descriptions-technet-library.md).
   
@@ -96,23 +96,23 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Não<sup>2</sup> <br/> |
 |**[Recursos do Pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
-|Microsoft Bookings  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Nenhum<sup>20</sup>  <br/> |Nenhum<sup>20</sup>  <br/> |Não  <br/> |
-|Email de resumo da Microsoft<sup>23</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Power Automate  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>14</sup> <br/> |
+|Microsoft Bookings  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sem<sup>19</sup>  <br/> |Sem<sup>19</sup>  <br/> |Não  <br/> |
+|Email de recinto da Microsoft<sup>22</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Microsoft Power Automate  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>13</sup> <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft myAnalytics<sup>21</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Microsoft myAnalytics<sup>20</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Microsoft Planner  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft PowerApps  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>13</sup> <br/> |
+|Microsoft PowerApps  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>12</sup> <br/> |
 |Microsoft StaffHub  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Stream  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>18</sup> <br/> |
+|Microsoft Stream  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
-|Microsoft Teams<sup>10</sup> <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>12</sup> <br/> |
+|Microsoft Teams<sup>10</sup> <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim <br/> |
 |Office Delve  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Grupos do Office 365  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo do Office 365  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>11</sup> <br/> |
-|Bloco de Anotações de Classe  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>15</sup> <br/> |Não  <br/> |
-|Microsoft Kaizala<sup>19</sup> <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim <br/> |
+|Bloco de Anotações de Classe  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>14</sup> <br/> |Não  <br/> |
+|Microsoft Kaizala<sup>18</sup> <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim <br/> |
 |**[Gerenciamento de contas de usuário](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Identidade de nuvem, Identidade Federada ou Autenticação Multifator  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Configuração de área de trabalho do Office 365  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -125,7 +125,7 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Gerenciar grupos de segurança do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Várias funções de administrador disponíveis  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Permitir que um parceiro administre o Office 365 para você  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Serviços do Azure Active Directory<sup>22</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Serviços do Azure Active Directory<sup>21</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Domínios](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Adicionar domínios de segundo nível personalizados, como fourthcoffee.com  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Adicionar domínios de terceiro nível personalizados, como marketing.fourthcoffee.com  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -185,8 +185,8 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 |Office 365 Cloud App Security  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Sistema de Proteção de Dados do Cliente  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
-|Chave de Cliente do Office 365<sup>16</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
-|Descoberta Eletrônica Avançada do Office 365<sup>17</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
+|Chave de cliente do Office 365<sup>15</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
+|Descoberta eletrônica avançada<sup>16</sup> do Office 365 <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Classificação de Segurança<sup>7</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |**[Conformidade](compliance-servicedesc.md)** <br/> ||||||||
@@ -217,15 +217,14 @@ Diversos planos do Office 365 para empresas têm complementos que você pode com
 <br/><sup>9</sup> Experiência reduzida. Se sua organização depende do Internet Explorer 8 ou do Internet Explorer 9 para acessar aplicativos e serviços Web mais antigos, considere a possibilidade de atualizar para o Internet Explorer 11 e avaliar o Modo Empresarial deste serviço. Essa atualização ajuda a fornecer a melhor compatibilidade com versões anteriores de aplicativos Web herdados. 
 <br/><sup>10</sup> o Microsoft Teams está disponível no Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise (E1, E3, e5, F3) e os planos de educação do Office 365. 
 <br/><sup>11</sup> no Office 365 Enterprise F3, o vídeo do Office 365 está limitado somente a visualização (sem publicar ou compartilhar). 
-<br/><sup>12</sup> inoffice 365 Enterprise F3, chamadas de áudio/vídeo de um para um são suportadas. 13 No Office 365 Enterprise F1, o PowerApps está limitado a somente consumo (sem publicar ou compartilhar). 
-<br/><sup>13</sup> no Office 365 Enterprise F3, o PowerApps está limitado a somente consumo (sem publicar ou compartilhar). 
-<br/><sup>14</sup> no Office 365 Enterprise F3, o fluxo está limitado apenas ao consumo e as execuções estão limitadas a 750 por usuário por mês. 
-<br/><sup>15</sup> disponível apenas nos planos de educação do Office 365, incluindo o Office 365 E5 Education. 16 Saiba mais em Como controlar seus dados no Office 365 usando Chave de Cliente. 
-<br/><sup>16</sup> para obter mais informações, consulte [controle de dados no Office 365 usando a chave do cliente](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos).
-<br/><sup>18</sup> consumo somente para o Microsoft Stream: sem publicação ou compartilhamento.
-<br/><sup>19</sup> a partir de maio de 2019, os SKUs qualificados existentes do Office 365 e o Microsoft 365 serão preenchidos com o Kaizala pro. A partir de 1º de junho de 2019, o Kaizala pro será incluído em todos os SKUs qualificados do Office 365 e Microsoft 365.
-<br/><sup>20</sup> disponível como um complemento gratuito. Para obter mais informações, consulte [Get Access to Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
-<br/><sup>21</sup> para obter mais informações, consulte [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
-<br/><sup>22</sup> inclui os recursos do Azure Active Directory descritos na coluna **aplicativos do Office 365** na [página de preços do Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). Você deve adicionar o Azure Active Directory Plan 1 ou o plano 2, o Enterprise Mobile Security ou o Microsoft 365 E3 ou E5 para obter os recursos premium do Azure AD.<br/>
-<sup>23</sup> o email de resumo é fornecido automaticamente para todos os usuários do Exchange Online. Para obter mais informações, consulte [Configurar o email de resumo](https://docs.microsoft.com/Briefing/be-admin).<br>
+<br/><sup>12</sup> no Office 365 Enterprise F3, o PowerApps está limitado a somente consumo (sem publicar ou compartilhar). 
+<br/><sup>13</sup> no Office 365 Enterprise F3, o fluxo está limitado apenas ao consumo e as execuções estão limitadas a 750 por usuário por mês. 
+<br/><sup>14</sup> disponível somente nos planos de educação do Office 365, incluindo o Office 365 E5 Education. 16 Saiba mais em Como controlar seus dados no Office 365 usando Chave de Cliente. 
+<br/><sup>15</sup> para obter mais informações, consulte [controle dos dados no Office 365 usando a chave do cliente](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>16</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos).
+<br/><sup>17</sup> consumo somente para o Microsoft Stream: sem publicação ou compartilhamento.
+<br/><sup>18</sup> a partir de maio de 2019, os SKUs qualificados existentes do Office 365 e o Microsoft 365 serão preenchidos com o Kaizala pro. A partir de 1º de junho de 2019, o Kaizala pro será incluído em todos os SKUs qualificados do Office 365 e Microsoft 365.
+<br/><sup>19</sup> disponível como um complemento gratuito. Para obter mais informações, consulte [Get Access to Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
+<br/><sup>20</sup> para obter mais informações, consulte [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
+<br/><sup>21</sup> inclui os recursos do Azure Active Directory descritos na coluna **aplicativos do Office 365** na [página de preços do Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). Você deve adicionar o Azure Active Directory Plan 1 ou o plano 2, o Enterprise Mobile Security ou o Microsoft 365 E3 ou E5 para obter os recursos premium do Azure AD.<br/>
+<sup>22</sup> o email de resumo é fornecido automaticamente para todos os usuários do Exchange Online. Para obter mais informações, consulte [Configurar o email de resumo](https://docs.microsoft.com/Briefing/be-admin).<br>
