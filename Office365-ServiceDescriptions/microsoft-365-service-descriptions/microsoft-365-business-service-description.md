@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. Esta descrição de serviço descreve as opções e os recursos do plano.
-ms.openlocfilehash: 3ef3e018d8768fe63239a83c9aeb20d0b4fb3098
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216630"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109441"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição do serviço Microsoft 365 Business
 
@@ -39,7 +39,7 @@ O Microsoft 365 Business inclui os seguintes recursos do Azure AD Premium P1: re
 |[Aplicativos do Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Sim  <br/> |Sim  <br/> |
 |Yammer Enterprise  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Bookings  <br/> |Sim  <br/> |Sim  <br/> |
-|Automatização de energia da Microsoft  <br/> |Sim  <br/> |Sim  <br/> |
+|Microsoft Power Automate  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Planner  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft PowerApps  <br/> |Sim  <br/> |Sim  <br/> |
@@ -62,21 +62,20 @@ O Microsoft 365 Business inclui os seguintes recursos do Azure AD Premium P1: re
 |Office 365 plano avançado de proteção contra ameaças 1 <br/> |Não  <br/> |Sim<sup>7</sup> <br/> |
 |Classificação de Segurança<sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |Plano 2 de proteção avançada contra ameaças do Office 365 <br/> |Não  <br/> |Não <br/> |
-|[Gerenciamento de identidades e acesso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> O Microsoft 365 Business inclui selecionar recursos do Azure AD Premium P1 (AADP P1). Não inclui a totalidade do AADP1. <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
-|MFA (autenticação multifator do Azure)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Unidades administrativas  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Descoberta de aplicativo em nuvem  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Grupos dinâmicos  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|[Gerenciamento de identidades e acesso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> O Azure active AD Premium P1 completo é lançado em breve para os clientes de negócios do Microsoft 365. Para obter mais informações, confira [esta postagem de blog](https://aka.ms/aadp1smbblog). <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
+|MFA (autenticação multifator do Azure)  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
+|Unidades administrativas  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
+|Descoberta de aplicativo em nuvem  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
+|Grupos dinâmicos  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
 |Redefinição de senha de autoatendimento para identidades de nuvem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Redefinição de senha de autoatendimento com write-back do AD local  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Sincronização bidirecional de objetos de dispositivo entre diretórios locais e o Azure AD (write-back de dispositivo)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Acesso condicional (baseado em estado de grupo, local ou dispositivo)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Redefinição de senha de autoatendimento com write-back do AD local  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
+|Sincronização bidirecional de objetos de dispositivo entre diretórios locais e o Azure AD (write-back de dispositivo)  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
+|Acesso condicional (baseado em estado de grupo, local ou dispositivo)  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
 |Identidade visual da empresa (personalização de páginas de logon/painel de acesso)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Proxy de aplicativo  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|CAL do usuário do Microsoft Identity Manager (MIM)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Connect Health  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|Proxy de aplicativo  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
+|CAL do usuário do Microsoft Identity Manager (MIM)  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
+|Connect Health  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
 |SLA 99,9%  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Advanced Threat Analytics  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |[Gerenciamento de dispositivos e aplicativos](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> O Microsoft 365 Business inclui recursos completos do Intune para iOS, Android, Mac OS e outros gerenciamento de dispositivos de plataforma cruzada. <sup>9</sup> <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
 |Gerenciamento de dispositivo móvel (MDM) do Intune para PCs, Macs e dispositivos móveis<sup>5</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Registro automático de MDM (gerenciamento de dispositivo móvel)  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
@@ -118,4 +117,5 @@ O Microsoft 365 Business inclui os seguintes recursos do Azure AD Premium P1: re
 <sup>7</sup> a Microsoft 365 vem com o Office 365 Advanced Threat Protection plano 1. Para obter mais informações, consulte [recursos de conformidade e segurança de negócios do Microsoft 365](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
 <sup>8</sup> o Microsoft 365 Business inclui os seguintes recursos do Azure ad Premium P1: redefinição de senha de autoatendimento com write-back do AD, autenticação multifator do Azure (MFA) e acesso condicional. Ele não inclui todo o Azure AD Premium P1.</br>
 <sup>9</sup> os assinantes do Microsoft 365 Business estão licenciados para usar recursos completos do Intune para IOS, Android, MacOS e outros gerenciamento de dispositivos de plataforma cruzada. Recursos não disponíveis no centro de administração no Microsoft 365 Business, como gerenciamento de aplicativos de terceiros e configuração de perfis WiFi, certificados VPN, etc., podem ser gerenciados no console do Intune completo.</br>
-<sup>10</sup> se você tiver dispositivos licenciados para Windows 7 e 8,1 Professional, o Microsoft 365 Business fornecerá uma atualização para o Windows 10 pro. Com o Microsoft 365 Business, você não só obtém os [recursos de segurança do Microsoft defender que estão habilitados no Windows pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), você também obtém acesso a recursos premium, como proteção de rede para ameaças baseadas na Web e regras de prevenção de invasão de host para reduzir o ransomware. Ao configurar seu locatário de negócios do Microsoft 365, você seleciona proteção de aplicativos e definições de configuração de dispositivo. Essas configurações determinam as políticas aplicadas automaticamente aos dispositivos quando ingressam no Azure Active Directory.
+<sup>10</sup> se você tiver dispositivos licenciados para Windows 7 e 8,1 Professional, o Microsoft 365 Business fornecerá uma atualização para o Windows 10 pro. Com o Microsoft 365 Business, você não só obtém os [recursos de segurança do Microsoft defender que estão habilitados no Windows pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), você também obtém acesso a recursos premium, como proteção de rede para ameaças baseadas na Web e regras de prevenção de invasão de host para reduzir o ransomware. Ao configurar seu locatário de negócios do Microsoft 365, você seleciona proteção de aplicativos e definições de configuração de dispositivo. Essas configurações determinam as políticas aplicadas automaticamente aos dispositivos quando ingressam no Azure Active Directory.</br>
+<sup>11</sup> o Azure ad Premium P1 completo é lançado em breve para os clientes do Microsoft 365 Business. Para obter mais informações, confira [esta postagem de blog](https://aka.ms/aadp1smbblog).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade &amp; de segurança do Office 365 foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101120"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109431"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -75,11 +75,11 @@ limite de <sup>3</sup> a 50 GB.
 
 <sup>8</sup> você também pode usar a [API de atividade de gerenciamento do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificada.
 
-<sup>9</sup> um complemento DLP está disponível que pode ser adicionado a qualquer SKU que tenha o Exchange ou o SharePoint/onedrive.
+<sup>9</sup> requer o complemento do Office 365 Data Loss Prevention.
 
 <sup>10</sup> rótulos de confidencialidade também estão incluídos na proteção de informações do Azure P1 e P2.
 
-<sup>11</sup> é necessária uma licença do Exchange Online Plan 2 para reter o conteúdo em uma caixa de correio de usuário usando uma política de retenção.
+<sup>11</sup> é necessária uma licença de arquivamento do Exchange Online plano 2 ou do Exchange Online para reter o conteúdo em uma caixa de correio de usuário usando uma política de retenção.
 
 <sup>12</sup> a auditoria avançada fornece retenção de um ano de logs de auditoria para atividades no Azure Active Directory, Exchange e SharePoint e fornece a capacidade de criar políticas de retenção de log de auditoria personalizadas para gerenciar a retenção de logs de auditoria para outros serviços do Office 365. Também fornece acesso a eventos cruciais para investigações e acesso de alta largura de banda à API da atividade de gerenciamento do Office 365.
 
@@ -131,7 +131,7 @@ limite de <sup>3</sup> a 50 GB.
 
 <sup>8</sup> você também pode usar a [API de atividade de gerenciamento do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificada.
 
-<sup>9</sup> um complemento DLP está disponível que pode ser adicionado a qualquer SKU que tenha o Exchange ou o SharePoint/onedrive.
+<sup>9</sup> requer o complemento do Office 365 Data Loss Prevention.
 
 <sup>10</sup> limitado a arquivos armazenados no onedrive for Business.
 
