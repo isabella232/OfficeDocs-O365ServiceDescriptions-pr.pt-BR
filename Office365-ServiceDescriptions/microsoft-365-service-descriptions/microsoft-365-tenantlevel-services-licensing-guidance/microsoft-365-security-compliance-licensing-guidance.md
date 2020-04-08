@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para o Microsoft 365 Security & Compliance para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101110"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171137"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -323,7 +323,7 @@ Habilitar o PAM permite que as organizações operem com privilégios zero. Os u
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço? 
 
-Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 conformidade, proteção e governança de informações do Microsoft 365 E5/a5, Office 365 E5/a5/G5 e Office 365 conformidade avançada fornecem os direitos para um usuário se beneficiar do PAM.
+Office 365 E5/a5, Microsoft 365 E5/a5, conformidade com o Microsoft 365 E5/a5 e o gerenciamento de risco do Microsoft 365 E5/a5 Insider fornecem os direitos para um usuário se beneficiar do PAM.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -444,23 +444,23 @@ Os administradores devem aplicar regras de fluxo de email para a criptografia de
 
 ## <a name="communication-compliance"></a>Conformidade de comunicação
 
-A conformidade de comunicação no Office 365 permite que você crie políticas de supervisão para capturar comunicações de funcionários para verificação por revisores designados. Você pode definir políticas específicas que capturam emails internos e externos, Microsoft Teams ou comunicações de terceiros em sua organização. Os revisores podem, então, examinar as mensagens para garantir que estejam em conformidade com os padrões de mensagem da sua organização e as resolvem com o tipo de classificação.
+A conformidade de comunicação no Microsoft 365 ajuda a minimizar os riscos de comunicação ajudando você a detectar, capturar e realizar ações de correção para mensagens inadequadas em sua organização. Você pode definir políticas específicas que capturam emails internos e externos, Microsoft Teams ou comunicações de terceiros em sua organização. Os revisores podem tomar as ações de correção apropriadas para garantir que eles estejam em conformidade com os padrões de mensagem da sua organização.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-Os usuários se beneficiam do serviço com suas comunicações monitoradas por políticas de supervisão.
+Os especialistas de conformidade se beneficiam do serviço com a comunicação da organização monitorada por políticas de conformidade de comunicação.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
-Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 conformidade, a proteção e a governança de informações do Microsoft 365 E5/a5 e o Office 365 Advanced Compliance fornecem os direitos para o usuário se beneficiar da conformidade com a comunicação.
+Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 conformidade e Microsoft 365 E5/a5 Insider Management fornecem os direitos para um usuário se beneficiar da conformidade de comunicação.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Os administradores criam políticas de supervisão no centro de conformidade de & de segurança. Essas políticas definem quais comunicações e usuários estão sujeitos a análise na organização, definem condições personalizadas que as comunicações devem atender e especificam quem deve realizar revisões.
+Administradores e especialistas em conformidade criam políticas de conformidade de comunicação no centro de conformidade da Microsoft 365. Essas políticas definem quais comunicações e usuários estão sujeitos a análise na organização, definem condições personalizadas que as comunicações devem atender e especificam quem deve realizar revisões.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores escolhem usuários ou grupos específicos para incluir em uma política de supervisão. Ao escolher um grupo, também é possível selecionar usuários específicos no grupo para excluir da política de supervisão. Para obter mais informações sobre políticas de supervisão, consulte [políticas de supervisão no Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies).
+Os administradores escolhem usuários ou grupos específicos para incluir em uma política de conformidade de comunicação. Ao escolher um grupo, também é possível selecionar usuários específicos no grupo para excluir da política de conformidade de comunicação. Para obter mais informações sobre políticas de conformidade de comunicação, consulte [conformidade de comunicação no Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
 ## <a name="insider-risk-management"></a>Gerenciamento de risco do insider
 
