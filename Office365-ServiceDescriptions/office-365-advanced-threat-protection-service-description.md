@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger seus organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
+ms.openlocfilehash: 5a455d13dc7d5c47dec9983d8bdd0663ead71ec7
+ms.sourcegitcommit: 8ecef4a10e06ce60db4ab197ae13bf9f3b023e0c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609832"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43197957"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do serviço da Proteção Avançada contra Ameaças do Office 365
 
-A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger seus organização contra links prejudiciais em tempo real. A ATP tem recursos ricos de relatórios e de rastreamento de URL que dão aos administradores a percepção do tipo de ataques que ocorrem na sua organização.
+A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real. A ATP tem recursos ricos de relatórios e de rastreamento de URL que dão aos administradores a percepção do tipo de ataques que ocorrem na sua organização.
 
 A seguir estão as principais maneiras de usar a ATP para proteção de mensagens:
 
@@ -85,13 +85,13 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |[Anexos seguros](#safe-attachments)|Sim|Sim|Sim|
 |Anexos seguros no Teams|Sim|Sim|Sim|
 |[Links seguros](#safe-links)|Sim|Sim|Sim|
-|Links seguros no Teams|Não|Não|Não|
+|Links seguros no Teams|Sim|Sim|Sim|
 |[ATP para SharePoint, OneDrive e Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sim|Sim|Sim|
 |[Políticas anti-phishing](#anti-phishing-policies)|Sim|Sim|Sim|
 |[Relatórios em tempo real](#real-time-reports)|Sim|Sim|Sim|
 |*Automação, investigação, correção e educação*|
 |[Rastreadores de ameaças](#threat-trackers)|Não|Sim|Sim|
-|[Explorer](#explorer) (investigação avançada de ameaças)|Não|Sim|Sim|
+|Investigação de ameaças (investigação avançada de ameaças)|[Detecção em tempo real](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Resposta de incidente automatizada](#automated-incident-response)|Não|Sim|Sim|
 |[Simulador de ataque](#attack-simulator)|Não|Sim|Sim|
 
@@ -116,6 +116,8 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
 - Word, Excel, PowerPoint e Visio no Windows, bem como aplicativos do Office em dispositivos iOS e Android
 
+- Canais e chats do Microsoft Teams
+
 > [!NOTE]
 > Os usuários devem ser licenciados<sup>\*</sup>para a ATP, devem ser incluídos nas políticas de links seguros de ATP e devem estar conectados em seus dispositivos para que a proteção seja realizada.
 >
@@ -125,7 +127,7 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP para SharePoint, OneDrive e Microsoft Teams
 
-[ATP para SharePoint, onedrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) ajuda a detectar e bloquear arquivos identificados como mal-intencionados em sites de equipe e bibliotecas de documentos.
+[ATP para SharePoint, onedrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) ajuda a detectar e bloquear arquivos identificados como mal-intencionados em sites de equipe e bibliotecas de documentos. Além disso, a proteção de links seguros de ATP agora está disponível nos canais e chats do Microsoft Teams.
 
 ### <a name="anti-phishing-policies"></a>Políticas anti-phishing
 
@@ -135,15 +137,25 @@ A [ATP anti-phishing](https://docs.microsoft.com/microsoft-365/security/office-3
 
 Os recursos de monitoramento disponíveis no centro de conformidade & segurança do Office 365 incluem [relatórios e insights em tempo real](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) que permitem aos administradores de segurança e conformidade se concentrarem em problemas de alta prioridade, como ataques de segurança ou uma maior atividade suspeita. Além de destacar áreas problemáticas, relatórios inteligentes e insights incluem recomendações e links para exibir e explorar dados e também realizar ações rápidas.
 
-### <a name="threat-trackers"></a>Rastreadores de Ameaças
-
-Os [rastreadores de ameaças](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) são widgets informativos e modos de exibição que oferecem aos usuários autorizados problemas de cybersecurity que podem afetar sua organização.
-
 ### <a name="explorer"></a>Explorer
 
 Explorer (também chamado de Gerenciador de ameaças) é um relatório em tempo real que permite que os usuários autorizados identifiquem e analisem ameaças recentes. Por padrão, esse relatório mostra dados dos últimos 7 dias; no entanto, os modos de exibição podem ser modificados para mostrar dados nos últimos 30 dias.
 
+O Explorer contém modos de exibição, como malware (para email e conteúdo), envios, Phish e todos os emails.
+
 Para obter mais informações sobre o Explorer (no Office 365 Advanced Threat Protection Plan 2) e detecções em tempo real (no Office 365 Advanced Threat Protection Plan 1), consulte [Threat Explorer (and real-time detecções)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="real-time-detections"></a>Detecção em tempo real
+
+As detecções em tempo real são um relatório em tempo real que permite que os usuários autorizados identifiquem e analisem ameaças recentes. Semelhante ao Explorer, por padrão, esse relatório mostra dados dos últimos 7 dias.
+
+As detecções em tempo real contêm modos de exibição, como malware (para email e conteúdo), envios e phishing.
+
+Para obter mais informações sobre o Explorer (no Office 365 Advanced Threat Protection Plan 2) e detecções em tempo real (no Office 365 Advanced Threat Protection Plan 1), consulte [Threat Explorer (and real-time detecções)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="threat-trackers"></a>Rastreadores de Ameaças
+
+Os [rastreadores de ameaças](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) são widgets informativos e modos de exibição que oferecem aos usuários autorizados problemas de cybersecurity que podem afetar sua organização.
 
 ### <a name="automated-incident-response"></a>Resposta de incidente automatizada
 
