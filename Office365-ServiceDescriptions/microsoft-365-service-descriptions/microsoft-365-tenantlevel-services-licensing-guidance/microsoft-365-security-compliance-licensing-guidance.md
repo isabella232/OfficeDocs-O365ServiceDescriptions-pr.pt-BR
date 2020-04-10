@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para o Microsoft 365 Security & Compliance para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
-ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
+ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
+ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43171137"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215110"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -353,13 +353,13 @@ Por padrão, os emails do Exchange Online, os sites do SharePoint e as contas do
 
 Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança do Office 365, em**locais**de **prevenção** > de perda de dados.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Prevenção de perda de dados para chat de equipes e mensagens de canal
+## <a name="communication-data-loss-prevention-for-teams"></a>Prevenção de perda de dados de comunicação para o Microsoft Teams
 
-Com a prevenção de perda de dados (DLP) para mensagens de chat e de canal do Teams, as organizações podem bloquear chats e mensagens de canal que contenham informações confidenciais, como informações financeiras, informações de identificação pessoal, informações relacionadas à saúde ou outras informações confidenciais.
+Com a comunicação DLP para Teams, as organizações podem bloquear chats e mensagens de canal que contenham informações confidenciais, como informações financeiras, informações de identificação pessoal, informações relacionadas à saúde ou outras informações confidenciais.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
-Usuários licenciados do Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 conformidade e Office 365 Advanced Compliance podem se beneficiar do DLP for Teams chat e mensagens de canal.
+Usuários licenciados do Office 365 E5/a5, Microsoft 365 E5/a5, proteção e governança de informações do Microsoft 365 E5/a5 e o Office 365 Advanced Compliance podem se beneficiar do Communication DLP for Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 

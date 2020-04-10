@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business é uma solução integrada que reúne a melhor produtividade do Office 365 com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. Esta descrição de serviço descreve as opções e os recursos do plano.
-ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
+ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109441"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206618"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descrição do serviço Microsoft 365 Business
 
@@ -25,7 +25,6 @@ O Microsoft 365 Business é uma solução integrada que reúne a melhor produtiv
 
 O Microsoft 365 Business inclui essencialmente todos os recursos disponíveis no Office 365 Business Premium junto com recursos de segurança adicionais do Office 365.
 
-O Microsoft 365 Business inclui os seguintes recursos do Azure AD Premium P1: redefinição de senha de autoatendimento com write-back do AD, autenticação multifator do Azure (MFA) e acesso condicional. Ele não inclui todo o Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|
@@ -63,7 +62,7 @@ O Microsoft 365 Business inclui os seguintes recursos do Azure AD Premium P1: re
 |Classificação de Segurança<sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |
 |Plano 2 de proteção avançada contra ameaças do Office 365 <br/> |Não  <br/> |Não <br/> |
 |[Gerenciamento de identidades e acesso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> O Azure active AD Premium P1 completo é lançado em breve para os clientes de negócios do Microsoft 365. Para obter mais informações, confira [esta postagem de blog](https://aka.ms/aadp1smbblog). <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
-|MFA (autenticação multifator do Azure)  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
+|MFA (Autenticação Multifator do Azure)  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
 |Unidades administrativas  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
 |Descoberta de aplicativo em nuvem  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
 |Grupos dinâmicos  <br/> |Não  <br/> |Sim<sup>11</sup>  <br/> |Sim  <br/> |
