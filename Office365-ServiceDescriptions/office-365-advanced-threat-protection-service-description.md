@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 5a455d13dc7d5c47dec9983d8bdd0663ead71ec7
-ms.sourcegitcommit: 8ecef4a10e06ce60db4ab197ae13bf9f3b023e0c
+ms.openlocfilehash: 83067b99f816744b6c2ec0e18c72a3e322072ea8
+ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43197957"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43230801"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -94,6 +94,9 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |Investigação de ameaças (investigação avançada de ameaças)|[Detecção em tempo real](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Resposta de incidente automatizada](#automated-incident-response)|Não|Sim|Sim|
 |[Simulador de ataque](#attack-simulator)|Não|Sim|Sim|
+
+> [!TIP]
+> Deseja uma lista de diferenças baixáveis entre o Office 365 ATP Plan 1 e o plano 2? [Obter o PDF](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr/raw/live/Office365-ServiceDescriptions/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Recursos de proteção avançada contra ameaças (ATP)
 
