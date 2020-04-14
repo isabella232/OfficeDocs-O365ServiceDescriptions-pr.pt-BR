@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 83067b99f816744b6c2ec0e18c72a3e322072ea8
-ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
+ms.openlocfilehash: 5c604eac3079946c5b6fc2a02b44f4870a99a69f
+ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43230801"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43285547"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -96,7 +96,7 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |[Simulador de ataque](#attack-simulator)|Não|Sim|Sim|
 
 > [!TIP]
-> Deseja uma lista de diferenças baixáveis entre o Office 365 ATP Plan 1 e o plano 2? [Obter o PDF](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr/raw/live/Office365-ServiceDescriptions/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
+> Deseja uma lista de diferenças baixáveis entre o Office 365 ATP Plan 1 e o plano 2? [Obter o PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Recursos de proteção avançada contra ameaças (ATP)
 
@@ -144,7 +144,7 @@ Os recursos de monitoramento disponíveis no centro de conformidade & segurança
 
 Explorer (também chamado de Gerenciador de ameaças) é um relatório em tempo real que permite que os usuários autorizados identifiquem e analisem ameaças recentes. Por padrão, esse relatório mostra dados dos últimos 7 dias; no entanto, os modos de exibição podem ser modificados para mostrar dados nos últimos 30 dias.
 
-O Explorer contém modos de exibição, como malware (para email e conteúdo), envios, Phish e todos os emails.
+O Explorer contém modos de exibição, como malware (para email e conteúdo), envios, Phish e todos os emails. Para ver como o Explorer compara com as detecções em tempo real, [Baixe este PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
 
 Para obter mais informações sobre o Explorer (no Office 365 Advanced Threat Protection Plan 2) e detecções em tempo real (no Office 365 Advanced Threat Protection Plan 1), consulte [Threat Explorer (and real-time detecções)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
@@ -152,7 +152,7 @@ Para obter mais informações sobre o Explorer (no Office 365 Advanced Threat Pr
 
 As detecções em tempo real são um relatório em tempo real que permite que os usuários autorizados identifiquem e analisem ameaças recentes. Semelhante ao Explorer, por padrão, esse relatório mostra dados dos últimos 7 dias.
 
-As detecções em tempo real contêm modos de exibição, como malware (para email e conteúdo), envios e phishing.
+As detecções em tempo real contêm modos de exibição, como malware (para email e conteúdo), envios e phishing. Para ver como as detecções em tempo real são comparadas com o Explorer, [Baixe este PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
 
 Para obter mais informações sobre o Explorer (no Office 365 Advanced Threat Protection Plan 2) e detecções em tempo real (no Office 365 Advanced Threat Protection Plan 1), consulte [Threat Explorer (and real-time detecções)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
