@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609932"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581973"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -1070,41 +1070,31 @@ A tabela a seguir exibe os planos do Office 365 que incluem o serviço SharePoin
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
-## <a name="outlook-mobile-features"></a>Recursos do Outlook Mobile
+## <a name="outlook-features-for-ios-and-android"></a>Recursos do Outlook para iOS e Android
 
-As tabelas a seguir listam as plataformas e os recursos do Outlook Mobile que estão disponíveis em todos os serviços do Office 365 operados pela 21Vianet.
+O Office 365 operado pela 21Vianet suporta tanto o Outlook para iOS quanto o Outlook para Android.
 
-### <a name="mobile-platforms-supported"></a>Plataformas móveis suportadas
+Os seguintes recursos móveis não são suportados:
 
-|||
-|:-----|:-----|:-----|
-| |**Outlook para iOS (iPhone & iPad)**|**Outlook para Android**|
-|Office 365 operado pela 21Vianet|Sim|Não|
-
-### <a name="mobile-features-supported"></a>Recursos móveis suportados
-
-|||
-|:-----|:-----|:-----|
-|**Recurso**|**Outlook para iOS (iPhone & iPad)**|**Outlook para Android**|
-|OneDrive for Business|Não|NA|
-|Pesquisa de pessoas & calendário|Não|NA|
-|Pesquisa de sala de conferência & reserva|Não|NA|
-|Cartão de lugares|Não|NA|
-|"LinkedIn" & "relatórios para" dados no cartão de pessoas|Não|NA|
-|Favoritos|Não|NA|
-|Reproduzir meus emails|Não|NA|
-|Suplementos|Não|NA|
-|Grupos|Não|NA|
-|Resposta inteligente|Não|NA|
-|Feed do Office|Não|NA|
-|Tempo de saída|Não|NA|
-|CLP/MIL|Não|NA|
-|Armazenamento do Dropbox|Não|NA|
-|Armazenamento do Google Drive|Não|NA|
-|Armazenamento em caixa|Não|NA|
-|Calendário do Facebook|Não|NA|
-|Helpshift|Não|NA|
-|UserVoice|Não|NA|
+- OneDrive for Business (com suporte somente no Android)
+- Pesquisa de pessoas & calendário
+- Pesquisa de sala de conferência & reserva
+- Cartão de lugares
+- "LinkedIn" & "relatórios para" dados no cartão de pessoas
+- Favoritos
+- Reproduzir meus emails
+- Suplementos
+- Grupos
+- Resposta inteligente
+- Feed do Office
+- Tempo de saída
+- Rótulo de confidencialidade de proteção de informações da Microsoft
+- Armazenamento do Dropbox
+- Armazenamento do Google Drive
+- Armazenamento em caixa
+- Calendário do Facebook
+- Helpshift
+- UserVoice
 
 ## <a name="project-online-features"></a>Recursos do Project Online
 
@@ -1177,10 +1167,10 @@ A tabela a seguir exibe os recursos do Project Online que estão disponíveis en
 |[Administração, implantação e extensibilidade](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|Não<sup>2</sup>|Sim|Sim|Não|Sim|
 |[Introdução](../project-online-service-description/core-services-functionality.md#getting-started)|Sim|Sim|Sim|Não|Sim|
 |[Gerenciamento de problemas e de riscos (para membros da equipe)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|Sim|Sim|Sim|Não|Sim|
-|[Central de Confiabilidade do Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Não|Não|Não|Não disponível|Não disponível|
+|[Central de Confiabilidade do Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Não|Não|Não|N/D|Não disponível|
 |[Ecossistema de Parceiros de PPM](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|Sim|Sim|Sim|Não|Sim|
-|[Confiabilidade do serviço](../project-online-service-description/core-services-functionality.md#service-reliability)|Sim|Sim|Sim|Não disponível|Não disponível|
-|[Atualizações de serviço](../project-online-service-description/core-services-functionality.md#service-updates)|Sim|Sim|Sim|Não disponível|Não disponível|
+|[Confiabilidade do serviço](../project-online-service-description/core-services-functionality.md#service-reliability)|Sim|Sim|Sim|Não disponível|N/D|
+|[Atualizações de serviço](../project-online-service-description/core-services-functionality.md#service-updates)|Sim|Sim|Sim|N/D|N/D|
 |[Colaboração de membros da equipe](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|Sim|Sim|Sim|Não|Sim|
 |[Gerenciamento de tempo e de tarefas (para membros da equipe)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|Sim|Sim|Sim|Não|Sim|
 |**Gerenciamento de projetos**|**Project Online Essentials para Office 365 operado pela 21Vianet**|**Project Online Professional para Office 365 operado pela 21Vianet**|**Project Online Premium para Office 365 operado pela 21Vianet**|**Project Professional 2016 para Office 365 operado pela 21Vianet**|**Project Server 2016 para Office 365 operado pela 21Vianet**|
