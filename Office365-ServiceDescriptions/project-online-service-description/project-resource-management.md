@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project online.
-ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 9534503dfe54be12e92041a34d156d462fb91eee
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687790"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639859"
 ---
 # <a name="project-resource-management"></a>Gerenciamento de recursos do Project
 
@@ -55,6 +55,6 @@ Adicione recursos ao seu projeto, como recursos de trabalho como pessoas, recurs
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
   
 

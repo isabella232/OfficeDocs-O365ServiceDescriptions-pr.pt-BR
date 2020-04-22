@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529204"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639799"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -28,7 +28,7 @@ Para os fins deste artigo, um serviço de nível de locatário é um serviço on
 
 Para ver as opções de licenciamento dos seus usuários para se beneficiarem dos recursos de conformidade da Microsoft 365 a partir de 1º de abril de 2020, baixe a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-## <a name="azure-active-directory-identity-protection"></a>Proteção de identidade do Azure Active Directory
+## <a name="azure-active-directory-identity-protection"></a>Proteção de Identidade do Azure Active Directory
 
 O Azure Active Directory Identity Protection (AADIP) é um recurso do plano do Azure Active Directory Premium P2 que permite que você detecte possíveis vulnerabilidades que afetam as identidades da sua organização, configure as respostas automáticas para ações suspeitas detectadas que estão relacionadas às identidades da sua organização e investigue incidentes suspeitos e tome as medidas apropriadas para resolvê-los.
 
@@ -78,7 +78,7 @@ A ATP protege os usuários contra ataques sofisticados, como phishing e malwares
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço? 
 
-Office 365 proteção avançada contra ameaças, Office 365 E5/a5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 segurança, Microsoft 365 Business e Office 365 ATP Plans 1 e 2 fornecem os direitos para um usuário se beneficiar do Office 365 proteção avançada contra ameaças.
+Office 365 proteção avançada contra ameaças, Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, Microsoft 365 Business Premium e Office 365 ATP Plans 1 e 2 fornecem os direitos para o usuário se beneficiar da proteção avançada contra ameaças.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -102,7 +102,7 @@ Para comparar recursos, confira [diferenças entre o Microsoft Cloud app Securit
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-O OCAS descobre o ti de sombra, oferece proteção contra ameaças no Office 365 e pode controlar quais aplicativos têm permissão para acessar os dados do Office 365.
+O OCAS descobre o ti de sombra, oferece proteção contra ameaças no Office 365 e pode controlar quais aplicativos têm permissão para acessar dados.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
@@ -288,7 +288,7 @@ As chaves de criptografia de chave do cliente do Office 365 podem ser habilitada
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Para atribuir chaves de criptografia a dados dentro de um locatário do Office 365 e/ou do Microsoft 365 para usuários licenciados, siga as instruções de implantação das chaves de criptografia de chave do cliente.
+Para atribuir chaves de criptografia a dados dentro de uma organização do Office 365 e/ou do Microsoft 365 para usuários licenciados, siga as instruções de implantação das chaves de criptografia de chave do cliente.
 
 - Para os arquivos do SharePoint Online, do OneDrive for Business e do Teams, os arquivos em um ou mais sites podem ser criptografados usando a chave do cliente.
 
@@ -312,7 +312,7 @@ Os administradores podem ativar os controles de lockbox do cliente no centro de 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-A Microsoft fornece solicitações de aprovação de controle de acesso de lockbox de cliente para usuários na sua organização do Office 365.
+A Microsoft fornece solicitações de aprovação de controle de acesso de lockbox de cliente para usuários em sua organização.
 
 ## <a name="privileged-access-management-in-office-365"></a>O Privileged Access Management no Office 365
 
@@ -352,7 +352,7 @@ Por padrão, os emails do Exchange Online, os sites do SharePoint e as contas do
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança do Office 365, em**locais**de **prevenção** > de perda de dados.
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em**locais**de **prevenção** > de perda de dados.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevenção de perda de dados de comunicação para o Microsoft Teams
 
@@ -372,7 +372,7 @@ Por padrão, as mensagens de chat e de canal do teams são um *local habilitado 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança do Office 365, em**locais**de **prevenção** > de perda de dados.
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em**locais**de **prevenção** > de perda de dados.
 
 ## <a name="information-barriers"></a>Barreiras de informações
 
@@ -399,13 +399,13 @@ Administradores criem e gerenciem políticas de barreira de informações usando
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança do Office 365. Por exemplo, se todos os usuários estiverem licenciados para o Office 365 E3, e nenhum for licenciado para o Office 365 Advanced Compliance/e5, não precisará criar nenhuma política de barreira de informações para a organização. Para obter mais informações, consulte [barreiras de informações no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade do & de segurança. Por exemplo, se todos os usuários estiverem licenciados para o Office 365 E3, e nenhum for licenciado para o Office 365 Advanced Compliance/e5, não precisará criar nenhuma política de barreira de informações para a organização. Para obter mais informações, consulte [barreiras de informações no Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
 
 ## <a name="office-365-message-encryption"></a>Criptografia de Mensagem do Office 365
 
 Criptografia de Mensagens do Office 365 (OME) é um serviço integrado ao Azure Rights Management (Azure RMS) que permite o envio de emails criptografados para pessoas dentro ou fora da sua organização, independente do endereço de email de destino (Gmail, Yahoo! Email, Outlook.com, etc.).
 
-Para exibir mensagens criptografadas, os destinatários podem obter uma senha avulsa, entrar com uma conta da Microsoft ou com uma conta corporativa ou de estudante associada ao Office 365. Os destinatários também podem enviar respostas criptografadas. Não é necessário ter uma assinatura do Office 365 para exibir mensagens criptografadas ou enviar respostas criptografadas.
+Para exibir mensagens criptografadas, os destinatários podem obter uma senha avulsa, entrar com uma conta da Microsoft ou com uma conta corporativa ou de estudante associada ao Office 365. Os destinatários também podem enviar respostas criptografadas. Eles não precisam de uma assinatura para exibir mensagens criptografadas ou enviar respostas criptografadas.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 

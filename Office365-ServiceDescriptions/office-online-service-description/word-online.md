@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: O Word para a Web (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da Web, onde você pode trabalhar com documentos diretamente no site em que o documento está armazenado.
-ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545734"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640209"
 ---
 # <a name="word-for-the-web"></a>Word para a Web
 
@@ -47,7 +47,7 @@ Você pode inserir blocos de texto pré-formatado usando o AutoTexto da galeria 
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Procurar e começar de modelos criados por profissionais
 
-Não está disponível no Word para a Web. Recursos avançados de design, como iniciar documentos usando uma grande seleção de modelos criados por profissionais hospedada no Office.com, estão disponíveis somente no aplicativo da área de trabalho Word. Entretanto, os clientes do Office 365 podem configurar uma biblioteca de documentos para lançar um modelo personalizado quando um usuário cria um novo documento. Para saber mais, confira [Adicionar um tipo de conteúdo a uma lista ou biblioteca](https://go.microsoft.com/fwlink/p/?LinkId=391446).
+Não está disponível no Word para a Web. Recursos avançados de design, como iniciar documentos usando uma grande seleção de modelos criados por profissionais hospedada no Office.com, estão disponíveis somente no aplicativo da área de trabalho Word. No entanto, os clientes podem configurar uma biblioteca de documentos para iniciar um modelo personalizado quando um usuário cria um novo documento. Para saber mais, confira [Adicionar um tipo de conteúdo a uma lista ou biblioteca](https://go.microsoft.com/fwlink/p/?LinkId=391446).
   
 ## <a name="bullets-and-numbering"></a>Marcadores e numeração
 
@@ -297,5 +297,5 @@ O zoom está disponível no modo de Exibição. Com o Word para a Web, use as co
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, confira [Office para a descrição do serviço Web](office-online-service-description.md). 
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Office para a descrição do serviço Web](office-online-service-description.md). 
   

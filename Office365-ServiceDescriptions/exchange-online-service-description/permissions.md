@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: O Microsoft Exchange Online usa um modelo de Controle de Acesso Baseado em Função (RBAC) para permitir que os administradores da organização controlem detalhadamente o que usuários e funcionários de TI podem fazer no serviço. Por exemplo, se um responsável pela conformidade for responsável por solicitações de pesquisa de caixa de correio, o administrador poderá delegar esse recurso administrativo ao responsável por meio de RBAC. O Exchange Online usa a mesma estrutura de RBAC do Microsoft Exchange Server 2013.
-ms.openlocfilehash: 365bf87eb0b81364f3268b6e9defdb6f289ae609
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f4df8e3fdaeaf1ef18a28869465affb5e4f4e060
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262744"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639969"
 ---
-# <a name="permissions"></a>Permissions
+# <a name="permissions"></a>Permissões
 
 O Microsoft Exchange Online usa um modelo de Controle de Acesso Baseado em Função (RBAC) para permitir que os administradores da organização controlem detalhadamente o que usuários e funcionários de TI podem fazer no serviço. Por exemplo, se um responsável pela conformidade for responsável por solicitações de pesquisa de caixa de correio, o administrador poderá delegar esse recurso administrativo ao responsável por meio de RBAC. O Exchange Online usa a mesma estrutura de RBAC do Microsoft Exchange Server 2013. 
   
@@ -66,6 +66,6 @@ Confira mais informações sobre políticas de atribuição de funções em [Gru
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Os recursos para caixa de entrada a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 11bf4f2d8eb46e3b18b22720c584fbf7f748bc60
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 391792d166313f0119b9b50de9a7d89180f57084
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687749"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640039"
 ---
 # <a name="inbox-features-in-yammer"></a>Recursos da caixa de entrada no Yammer
 
@@ -33,6 +33,6 @@ Pesquisa em toda a caixa de entrada para encontrar rapidamente conversas, mensag
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Yammer](yammer-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte a [Descrição do serviço do Yammer](yammer-service-description.md).
   
 

@@ -13,30 +13,30 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: Para a maioria das organizações que usam o Office 365, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui.
-ms.openlocfilehash: 48e989c0aa0a84bea7f3f18fb80f225e5f645981
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Para a maioria das organizações, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que a Microsoft gerencia todas as caixas de correio e filtragem. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui.
+ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262584"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640319"
 ---
-# <a name="mail-flow"></a>Fluxo de mensagens
+# <a name="mail-flow"></a>Fluxo de emails
 
-Para a maioria das organizações que usam o Office 365, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui. 
+Para a maioria das organizações, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que a Microsoft gerencia todas as caixas de correio e filtragem. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui. 
   
 ## <a name="custom-routing-of-outbound-email"></a>Roteamento personalizado de email de saída
 
 O Microsoft Exchange Online pode rotear os emails que estão saindo da sua organização por meio de um servidor local ou um serviço hospedado (às vezes chamado de "host inteligente"). Isso permite que sua organização use dispositivos DLP (prevenção contra perda de dados), execute o pós-processamento personalizado de emails de saída e envie emails para parceiros de negócios por meio de redes privadas. O Exchange Online também dá suporte à Regravação de Endereço, que encaminha emails de saída por meio de um gateway local que modifica os endereços. Esse recurso permite ocultar subdomínios, fazer com que os emails de uma organização de vários domínios sejam exibidos como um único domínio ou fazer com que o email retransmitido por parceiro pareça ser enviado de dentro da sua organização. Os administradores configuram o roteamento do email personalizado dentro do EAC (Centro de Administração do Exchange).
   
-Saiba mais em [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
+Para saber mais, confira [set up Connectors to Route mail between the Microsoft e seus próprios servidores de email](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
 > [!IMPORTANT]
 > O Exchange Online entrega emails fluindo para dentro ou para fora da organização. Se o domínio do destinatário estiver hospedado no Exchange Online com registros MX do DNS apontando para a proteção do Exchange Online, o fluxo de emails do seu locatário para o destinatário não viajará pela Internet.
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Como cliente do Exchange Online, você configura um fluxo de emails seguro com um parceiro de confiança usando os conectores do Office 365. O Office 365 dá suporte à comunicação segura por meio de TLS (Transport Layer Security), e você cria um conector para impor criptografia por meio de TLS. O [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) é um protocolo criptográfico que oferece segurança para comunicações pela Internet. Usando conectores, você configura o TLS forçado tanto de entrada quanto de saída usando certificados autoassinados ou certificados validados pela AC (autoridade de certificação). Você também aplica outras restrições de segurança, como especificar nomes de domínio ou intervalos de endereços IP, dos quais a organização parceira envia emails. 
+Como cliente do Exchange Online, você pode configurar o fluxo de email seguro com um parceiro confiável usando conectores da Microsoft. A Microsoft dá suporte à comunicação segura através da Transport Layer Security (TLS) e você pode criar um conector para impor a criptografia via TLS. O [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) é um protocolo criptográfico que oferece segurança para comunicações pela Internet. Usando conectores, você configura o TLS forçado tanto de entrada quanto de saída usando certificados autoassinados ou certificados validados pela AC (autoridade de certificação). Você também aplica outras restrições de segurança, como especificar nomes de domínio ou intervalos de endereços IP, dos quais a organização parceira envia emails. 
   
 Saiba mais em [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -65,13 +65,13 @@ O [Assistente de Implantação do Microsoft Exchange Server](https://go.microsof
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>Espaço de endereço compartilhado com controle de roteamento local (MX aponta para local)
 
-Espaço de endereçamento compartilhado com controle de roteamento local (os pontos MX para local) é um cenário de roteamento de email de implantação híbrida no qual suas caixas de correio são hospedadas parcialmente no Exchange Online e no fluxo de email de entrada e saída da Internet o é roteado através da organização do Exchange local. Esse cenário é também chamado de transporte de email centralizado. Neste cenário, o Exchange Online é provisionado com o EOP e o email de entrada da Internet é roteado para o seu servidor de email local antes de ser roteado para o EOP e finalmente para caixas de correio hospedadas no Exchange Online. Além disso, o email de saída das caixas de correio do Exchange Online é encaminhado por meio da organização do Exchange local para mensagens enviadas a destinatários externos. Com essa configuração, você usa um namespace de domínio SMTP único para todas as caixas de correio na organização do Exchange local e na sua organização do Exchange Online. 
+Espaço de endereçamento compartilhado com controle de roteamento local (os pontos MX para local) é um cenário de roteamento de email de implantação híbrida no qual as suas caixas de correio são hospedadas parcialmente no Exchange Online e no local, e o fluxo de emails de entrada e saída é roteado através da organização do Exchange local. Esse cenário é também chamado de transporte de email centralizado. Neste cenário, o Exchange Online é provisionado com o EOP e o email de entrada da Internet é roteado para o seu servidor de email local antes de ser roteado para o EOP e finalmente para caixas de correio hospedadas no Exchange Online. Além disso, o email de saída das caixas de correio do Exchange Online é encaminhado por meio da organização do Exchange local para mensagens enviadas a destinatários externos. Com essa configuração, você usa um namespace de domínio SMTP único para todas as caixas de correio na organização do Exchange local e na sua organização do Exchange Online. 
   
 Para saber mais sobre as opções de transporte em uma implantação híbrida, confira [Opções de Transporte em Implantações Híbridas do Exchange](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   
 ### <a name="shared-address-space-without-on-premises-routing-control-mx-points-to-eop"></a>Espaço de endereço compartilhado sem controle de roteamento local (MX aponta para EOP)
 
-Espaço de Endereço Compartilhado sem Controle de Roteamento Local (o MX aponta para o EOP) é um cenário de roteamento de email híbrido no qual suas caixas de correio são hospedadas parcialmente na nuvem usando o Exchange Online e parcialmente o Exchange local, e seu registro MX aponta para o EOP. Esse cenário é apropriado quando você usa o serviço do Office 365 para hospedar algumas das caixas de correio da organização e deseja que EOP proteja as caixas de correio locais e na nuvem. Neste cenário, o email enviado aos destinatários na organização é inicialmente encaminhado por meio do EOP, em que a filtragem de spam e de política ocorre, antes de chegar às caixas de correio locais e na nuvem. 
+Espaço de Endereço Compartilhado sem Controle de Roteamento Local (o MX aponta para o EOP) é um cenário de roteamento de email híbrido no qual suas caixas de correio são hospedadas parcialmente na nuvem usando o Exchange Online e parcialmente o Exchange local, e seu registro MX aponta para o EOP. Este cenário é apropriado quando você usa a Microsoft para hospedar algumas das caixas de correio da sua organização e deseja que o EOP proteja as suas caixas de correio locais e em nuvem. Neste cenário, o email enviado aos destinatários na organização é inicialmente encaminhado por meio do EOP, em que a filtragem de spam e de política ocorre, antes de chegar às caixas de correio locais e na nuvem. 
   
 Para saber mais sobre as opções de transporte em uma implantação híbrida, confira [Opções de Transporte em Implantações Híbridas do Exchange](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   
@@ -96,5 +96,5 @@ Saiba mais sobre os requisitos de implantação híbrida em [Pré-requisitos da 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte a [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte a [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   

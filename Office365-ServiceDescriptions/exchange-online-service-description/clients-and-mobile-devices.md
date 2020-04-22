@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 065154bb8447bbe38f5cd8319fea4fdc6883cb70
-ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
+ms.openlocfilehash: 83c8c9081ac78c51ee02fb951f7d2c80d6d9ede9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/21/2019
-ms.locfileid: "40840240"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639709"
 ---
 # <a name="clients-and-mobile-devices"></a>Clientes e dispositivos móveis
 
@@ -34,13 +34,13 @@ Por padrão, o acesso ao Outlook é habilitado para todos os usuários. Os admin
   
 Para obter informações sobre quais clientes do Outlook são compatíveis com o Exchange 2016 e o Exchange Online, consulte [System Requirements for Office](https://products.office.com/office-system-requirements). 
 
-O Office 365 foi projetado para funcionar com os navegadores e versões mais recentes do Office. Se você usa navegadores e versões mais antigos do Office que não estão no suporte principal:
+O Microsoft 365 foi projetado para funcionar com os navegadores e versões mais recentes do Office. Se você usa navegadores e versões mais antigos do Office que não estão no suporte principal:
 
-- A Microsoft não impedirá que você se conecte ao serviço, mas a qualidade da experiência do Office 365 pode diminuir com o tempo.
+- A Microsoft não impedirá que você se conecte ao serviço, mas a qualidade da sua experiência pode diminuir ao longo do tempo.
 - A Microsoft não fornecerá atualizações de software para resolver problemas não relacionados à segurança.
 
 > [!IMPORTANT]
->  O Outlook não é fornecido como parte do preço de assinatura do Exchange Online. O Microsoft Office Pro Plus (que inclui o Microsoft Outlook) foi incluído em alguns dos planos do Office 365 e pode ser adquirido como uma assinatura separada. Você verá as seguintes limitações se usar o POP para se conectar a uma conta de email do Exchange Online: > nenhuma informação de calendário > nenhuma informação de disponibilidade > nenhuma lista de endereços global > sem envio de email > ao se conectar por POP, todas as mensagens serão baixadas para o cliente e não haverá sincronização entre vários computadores ou dispositivos (como entre um laptop e um telefone). 
+>  O Outlook não é fornecido como parte do preço de assinatura do Exchange Online. O Microsoft 365 Apps for Enterprise (que inclui o Microsoft Outlook) está incluído em alguns planos e pode ser adquirido como uma assinatura separada. Você verá as seguintes limitações se usar o POP para se conectar a uma conta de email do Exchange Online: > nenhuma informação de calendário > nenhuma informação de disponibilidade > nenhuma lista de endereços global > sem envio de email > ao se conectar por POP, todas as mensagens serão baixadas para o cliente e não haverá sincronização entre vários computadores ou dispositivos (como entre um laptop e um telefone). 
   
 ## <a name="outlook-on-the-web"></a>Outlook na Web
 
@@ -64,7 +64,7 @@ O Exchange Online funciona com aplicativos do Outlook disponíveis para iOS, And
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilidade do aplicativo móvel do Outlook  <br/> |Sim  <br/> [Obter o Outlook para Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sim  <br/> [Obter o Outlook para iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Interno  <br/> |
 |Aplicativos de email internos compatíveis com o Exchange Online  <br/> |Aplicativo de email do Gmail/Samsung  <br/> |aplicativo de email iOS  <br/> |Email, calendário, contatos do Outlook  <br/> |
 |Mais informações  <br/> |[Configuração móvel do Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configuração de iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuração do Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
@@ -73,7 +73,7 @@ Há também opções para usar o Exchange Online com dispositivos, incluindo Bla
   
 ### <a name="feature-availability"></a>Disponibilidade de recursos
 
-O Outlook oferece aos usuários a experiência de email e de calendário rápida e intuitiva que eles esperam de um aplicativo móvel moderno, enquanto é o único aplicativo a oferecer suporte aos melhores recursos do Office 365. É o único aplicativo de email projetado especificamente para oferecer suporte à experiência completa do Office 365, oferecendo aos usuários uma experiência coerente de desktop para celular. O Outlook é integrado ao Intune, mobilidade corporativa e segurança e aos controles do Exchange para manter os dados e os usuários seguros.
+O Outlook oferece aos usuários a experiência de email e calendário rápida e intuitiva que eles esperam de um aplicativo móvel moderno, enquanto é o único aplicativo a fornecer suporte para os melhores recursos. É o único aplicativo de email projetado especificamente para dar suporte à experiência completa da Microsoft, oferecendo aos usuários uma experiência coerente de desktop para celular. O Outlook é integrado ao Intune, mobilidade corporativa e segurança e aos controles do Exchange para manter os dados e os usuários seguros.
   
 Com o Outlook, os usuários podem:
   
@@ -151,9 +151,9 @@ O Protocolo SMTP é usado para enviar emails de saída para os clientes que se c
 > [!IMPORTANT]
 > Os endereços IP para servidores de origem autorizados são necessários para autorizar a retransmissão SMTP. A criptografia e autenticação do protocolo TLS são necessárias ao usar o SMTP para enviar emails. 
   
-## <a name="blackberry-devices"></a>Dispositivos BlackBerry®
+## <a name="blackberryreg-devices"></a>Dispositivos&reg; BlackBerry
 
-O email do Office 365 está disponível nos dispositivos BlackBerry® por meio do Exchange ActiveSync. Para saber quais são as suas opções, consulte estes tópicos:
+O email está disponível em&reg; dispositivos BlackBerry por meio do Exchange ActiveSync. Para saber quais são as suas opções, consulte estes tópicos:
   
 - [Configurar o email em um dispositivo BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)
 
@@ -166,5 +166,5 @@ Para mais informações, consulte [BlackBerry](../office-365-platform-service-de
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   

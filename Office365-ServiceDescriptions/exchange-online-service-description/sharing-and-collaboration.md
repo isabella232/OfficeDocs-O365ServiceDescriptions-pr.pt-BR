@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262714"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638889"
 ---
 # <a name="sharing-and-collaboration"></a>Compartilhamento e colaboração
 
@@ -25,11 +25,11 @@ ms.locfileid: "39262714"
 A Federação se refere à infraestrutura de confiança subjacente que oferece suporte ao compartilhamento federado, um método para os usuários do Microsoft Exchange Online compartilharem dados de calendário de disponibilidade e informações de contato com destinatários em outras organizações federadas externas ou com usuários com acesso à Internet. Isso inclui as organizações que são também hospedadas pelo Exchange Online ou pelas organizações externas do Microsoft Exchange Server 2010 ou Exchange Server 2013. Usando relações de organização e políticas de compartilhamento, os administradores do Exchange Online podem permitir que os usuários enviem convites de compartilhamento de calendário do Microsoft Outlook na Web ou do Microsoft Outlook 2010 ou posterior.
   
 > [!IMPORTANT]
->  As organizações do External Exchange 2010 e do Exchange 2013 devem configurar uma confiança de federação com o Microsoft Federation Gateway como parte da configuração do compartilhamento federado. As organizações do Exchange Online não precisam configurar uma confiança de federação - a confiança de federação com o Microsoft Federation Gateway é criada automaticamente quando o locatário do Office 365 é criado. 
+>  As organizações do External Exchange 2010 e do Exchange 2013 devem configurar uma confiança de federação com o Microsoft Federation Gateway como parte da configuração do compartilhamento federado. As organizações do Exchange Online não precisam configurar uma confiança de Federação — a confiança de Federação com o Microsoft Federation Gateway é criada automaticamente quando a organização 365 da Microsoft é criada. 
 >
 >  As organizações do Exchange Online devem configurar um relacionamento de organização ou uma política de compartilhamento para permitir o compartilhamento federado. 
 >
->  O compartilhamento de listas de acesso global (GALs) ou a transferência de caixas de correio do usuário entre as organizações do Exchange Online em diferentes locatários do Office 365 não é suportado no compartilhamento federado. 
+>  O compartilhamento de listas de acesso global (GALs) ou a transferência de caixas de correio do usuário entre as organizações do Exchange Online em diferentes planos da Microsoft não são suportados no compartilhamento federado. 
   
 Para saber mais sobre o compartilhamento federado, confira [Compartilhando no Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -40,7 +40,7 @@ Emails e documentos são tradicionalmente mantidos em dois repositórios de dado
 A caixa de correio de site é um conceito novo no Exchange 2013 que tenta resolver esse problema. As caixas de correio de site melhoram a colaboração e a produtividade do usuário usando a mesma interface de cliente para permitir acesso aos documentos do Microsoft SharePoint 2013 e ao email do Exchange. Uma caixa de correio de site é composta funcionalmente pela associação ao site do SharePoint 2013 (proprietários e membros), armazenamento compartilhado através de uma caixa de correio do Exchange 2013 para emails e um site do SharePoint 2013 para documentos e uma interface de gerenciamento que lida com as necessidades de provisionamento e ciclo de vida.
   
 > [!IMPORTANT]
-> Seu plano de Office 365 deve incluir o SharePoint. As caixas de correio de site requerem que os usuários tenham licenças de SharePoint e Exchange. 
+> O plano deve incluir o SharePoint. As caixas de correio de site requerem que os usuários tenham licenças de SharePoint e Exchange. 
   
 Para saber mais sobre caixas de correio de sites, confira [Caixas de correio de sites](https://go.microsoft.com/fwlink/p/?LinkId=271789).
   
@@ -60,6 +60,6 @@ O Arquivo-Morto no Local pode ser usado para arquivar e-mails para um único usu
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

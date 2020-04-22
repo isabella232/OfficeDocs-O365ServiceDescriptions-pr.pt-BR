@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Este artigo fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365.
-ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
-ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
+ms.openlocfilehash: 1040e396b63341879ee0293b4fb0ec53d296af67
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954808"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638789"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -79,11 +79,11 @@ Os serviços do Office 365 US Government são fornecidos por datacenters fisicam
 > [!NOTE]
 > Normalmente, o Skype for Business não armazena conteúdo de clientes, mas se ocorrer algum armazenamento, ele será feito em datacenters nos EUA. 
   
-Se os seus usuários estiverem localizados dentro dos EUA ao usar o Office para a Web (anteriormente conhecido como Office Web Apps) ou se você adotar o uso dos serviços de Federação do Active Directory (AD FS) 2,0 e configurar políticas para ajudar a garantir que os usuários se conectem aos serviços por meio de um único logon, qualquer conteúdo do cliente que esteja temporariamente armazenado no Office para a Web estará localizado nos Estados Unidos.
+Se os seus usuários estiverem localizados dentro dos Estados Unidos ao usar o Office para a Web (anteriormente conhecido como Office Web Apps) ou se você adotar o uso dos serviços de Federação do Active Directory (AD FS) 2,0 e configurar políticas para ajudar a garantir que os usuários se conectem aos serviços por meio de logon único, todo o conteúdo do cliente que estiver temporariamente armazenado no Office para a Web estará localizado
   
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 US Governmente serviços de terceiros
 
-O Office 365 fornece a capacidade de integrar aplicativos de terceiros nos sites do SharePoint Online, no Skype for Business, nos aplicativos do Office incluídos no Office 365 (como o Word, Excel, PowerPoint e Outlook) e no Outlook Web App. Além disso, o Office 365 suporta a integração com provedores de serviços de terceiros. Estes aplicativos e serviços de terceiros podem envolver o armazenamento, a transmissão e o processamento dos dados de cliente da sua organização em sistemas de terceiros que estão localizados fora da infraestrutura do Office 365 e, portanto, não são cobertos pelos compromissos de conformidade e proteção de dados do Office 365. Recomendamos que você analise as instruções de privacidade e conformidade fornecidas por terceiros quando estiver avaliando o uso apropriado destes serviços para sua organização.
+O Office 365 oferece a capacidade de integrar aplicativos de terceiros em sites do SharePoint Online, Skype for Business, aplicativos do Office incluídos em aplicativos da Microsoft 365 para empresas (como Word, Excel, PowerPoint e Outlook) e Outlook Web App. Além disso, o Office 365 suporta a integração com provedores de serviços de terceiros. Estes aplicativos e serviços de terceiros podem envolver o armazenamento, a transmissão e o processamento dos dados de cliente da sua organização em sistemas de terceiros que estão localizados fora da infraestrutura do Office 365 e, portanto, não são cobertos pelos compromissos de conformidade e proteção de dados do Office 365. Recomendamos que você analise as instruções de privacidade e conformidade fornecidas por terceiros quando estiver avaliando o uso apropriado destes serviços para sua organização.
   
 ## <a name="restricted-data-access-by-administrators"></a>Acesso restrito aos dados pelos administradores
 
@@ -134,7 +134,7 @@ Para requisitos de sistema dos planos do Office 365 US Government, confira [Requ
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Para obter informações sobre o &amp; centro de conformidade de segurança e links para informações adicionais e disponibilidade, consulte o [centro de conformidade de &amp; segurança do Office 365](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
+Para obter informações sobre o &amp; centro de conformidade de segurança e links para informações adicionais e disponibilidade, consulte [ &amp; Security Compliance Center](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilidade do serviço para cada plano
 
@@ -144,7 +144,7 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 |:-----|:-----|:-----|:-----|:-----|
 |**Serviços do Office 365** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
 |Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Office 365 ProPlus  <br/> |Não <br/> |Sim <br/> |Sim <br/> |Não  <br/> |
+|Aplicativos da Microsoft 365 para empresas  <br/> |Não <br/> |Sim <br/> |Sim <br/> |Não  <br/> |
 |Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção do Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -156,7 +156,7 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 |Visio para a Web  <br/> |Não<sup>6</sup> <br/> |Não<sup>6</sup> <br/> |Não<sup>6</sup> <br/> |Não<sup>6</sup> <br/> |
 |Yammer Enterprise  <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |
    
-> <sup>1</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus, G3 e G5 incluem o aplicativo completo do Skype, que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user.
+> <sup>1</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. Os aplicativos do Microsoft 365 para Enterprise, G3 e G5 incluem o aplicativo completo do Skype, que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup> não está incluído, mas pode ser adquirido como um complemento separado. O Project online inclui o cliente da área de trabalho do Project online como parte da assinatura.
 <br/> <sup>3</sup> ainda não está disponível nos planos gcc High ou DOD, mas estará chegando em breve. 
 <br/><sup>4</sup> o Yammer Enterprise não é um componente do governo dos EUA do Office 365, mas pode ser adquirido sem custo como uma oferta autônoma para cada usuário licenciado para o Office 365 em GCC. Atualmente, essa oferta é limitada a clientes que compram o Office 365 GCC sob acordos corporativos e contratos de assinatura corporativa. O Yammer não está disponível no GCC High ou no DoD.
@@ -193,7 +193,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Gerenciamento de contas de usuário](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
 |Identidade de nuvem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Identidade federada (logon único)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Multi-factor Authentication  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Autenticação multifator  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Autenticação do fator de telefone  <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim  <br/> |Sim<sup>9</sup> <br/> |
 |Configuração de área de trabalho do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Gerenciar usuários com o Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -241,7 +241,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Relatórios de proteção de email para download  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Navegador usado  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |Sistema operacional usado  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
-|Criar seus próprios relatórios usando serviços da Web de relatório do Office 365  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
+|Criar seus próprios relatórios usando os serviços Web de relatório do Microsoft 365  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
 |**[Atualizações de serviço](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
 |Atualizações regulares fornecidas a todos os clientes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Notificações enviadas para o Centro de Mensagens quando uma ação é necessária  <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |Sim<sup>15</sup> <br/> |
@@ -257,10 +257,10 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**Confiança** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Advanced Data Governance  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim <br/> |Nenhum<sup>12</sup> <br/> |
-|Segurança no Aplicativo na Nuvem  <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Sim<sup>15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |
+|Cloud App Security  <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |Sim<sup>15, 19</sup> <br/> |Nenhum<sup>12, 15, 19</sup> <br/> |
 |Proteção Avançada contra Ameaças  <br/> |Nenhum<sup>12, 18</sup> <br/> |Nenhum<sup>12, 18</sup> <br/> |Sim<sup>18</sup>  <br/> |Nenhum<sup>12, 18</sup> <br/> |
-|Sistema de proteção de dados do cliente  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim <br/> |Nenhum<sup>12</sup> <br/> |
-|Descoberta Eletrônica Avançada do Office 365  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim  <br/> |Nenhum<sup>12</sup> <br/> |
+|Sistema de Proteção de Dados do cliente  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim <br/> |Nenhum<sup>12</sup> <br/> |
+|Descoberta Eletrônica Avançada  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim  <br/> |Nenhum<sup>12</sup> <br/> |
 |Pontuação segura<sup>14</sup> <br/> |Sim<sup>9, 15</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9, 15</sup> <br/> |Sim<sup>9, 15</sup> <br/> |
 |Criptografia de mensagem do Office  <br/> |Não  <br/> |Sim <br/> |Sim <br/> |Não  <br/> |
 |Inteligência contra Ameaças  <br/> |Nenhum<sup>12</sup> <br/> |Nenhum<sup>12</sup> <br/> |Sim <br/> |Nenhum<sup>12</sup> <br/> |
@@ -283,7 +283,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Contrato de Nível de Serviço](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |**[Direitos de uso do produto](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
    
-> <sup>1</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura do Office 365 ProPlus, que não está incluído no Office 365 governo G1 ou no Office 365 governo F3. > 
+> <sup>1</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura para o Microsoft 365 aplicativos para empresas, que não está incluído no Office 365 governo G1 ou no Office 365 governo F3. > 
 <br/><sup>2</sup> os clientes do BBCs e do BIS existentes podem continuar a usar o serviço. No momento, não aceitamos novos clientes. 
 <br/><sup>3</sup> se estiver usando a sincronização de diretório, você deve excluir as contas ou alterar as senhas usando o Active Directory, em vez do portal do Office 365, ou usando o módulo do Azure Active Directory para Windows PowerShell. 
 <br/><sup>4</sup> se estiver usando a sincronização de senha, os usuários devem alterar suas senhas no Active Directory local. 
@@ -361,9 +361,9 @@ A tabela a seguir mostra os recursos do aplicativo do Office que estão disponí
 |Atualizações de versão  <br/> |Não  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Não  <br/> |
 |Volume activation (KMS/MAK)  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
    
-> <sup>1</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura do Office 365 ProPlus, que não está incluído no Office 365 governo G1 ou no Office 365 governo F3. 
+> <sup>1</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura para o Microsoft 365 aplicativos para empresas, que não está incluído no Office 365 governo G1 ou no Office 365 governo F3. 
 <br/><sup>2</sup> o AD RMS para Windows Server é um servidor local que deve ser adquirido e gerenciado separadamente para habilitar os recursos de IRM compatíveis. 
-<br/><sup>3</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
+<br/><sup>3</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Microsoft 365 aplicativos para empresas e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup> ainda não está disponível nos ambientes gcc High ou DOD, mas estará chegando em breve.
 <br/><sup>5</sup> consulte [usando o Outlook para IOS e o Android na nuvem da Comunidade governamental](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) para obter mais detalhes.
 <br/><sup>6</sup> ainda indisponível no ambiente do Office 365 DOD, mas disponível em breve.

@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes podem exibir e editar levemente arquivos do Office usando o Office para a Web.
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687754"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639879"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
-O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
+O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes podem exibir e editar levemente arquivos do Office usando o Office para a Web.
   
 > [!NOTE]
 > As pastas de trabalho que excedem 50 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro do Microsoft SharePoint Online. Para exibir arquivos maiores, você precisa ter o aplicativo de área de trabalho Excel instalado no computador. 
 
 > [!NOTE]
-> Para ajudá-lo a comparar ofertas, os recursos avançados listados neste artigo incluem recursos do aplicativo de área de trabalho do Excel que só estão disponíveis no pacote do Office (como Office Professional Plus, Office Standard ou Office 365 ProPlus). Para obter uma lista de todos os recursos do Office para a Web, como o Word para a Web e o PowerPoint para a Web, consulte [recursos de disponibilidade nos planos do Office para a Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+> Para ajudá-lo a comparar ofertas, os recursos avançados listados neste artigo incluem os recursos do aplicativo da área de trabalho do Excel que estão disponíveis apenas no pacote do Office (como o Office Professional Plus, Office Standard ou Microsoft 365 aplicativos para empresas). Para obter uma lista de todos os recursos do Office para a Web, como o Word para a Web e o PowerPoint para a Web, consulte [recursos de disponibilidade nos planos do Office para a Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
 
 Para ver qual tipo de arquivo tem suporte no Excel para a Web, confira [tipos de arquivo com suporte para o Office para a Web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Para saber mais sobre as diferenças entre o Excel para a Web e o aplicativo da área de trabalho do Excel, confira [diferenças entre usar uma pasta de trabalho no navegador e no Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
@@ -244,7 +244,7 @@ O Excel para a Web permite que você exiba tabelas e gráficos do Power pivot, m
 
 Você pode exibir e interagir com as folhas do Power View em uma pasta de trabalho, mas não é possível criar o Power View usando o Excel para a Web. A criação do Power View só estará disponível com o aplicativo da área de trabalho. O Power View permite que você crie, compartilhe e explore dados em exibições interativas e prontas para apresentação. Exiba as informações em mapas, tabelas e gráficos interativos vinculados uns aos outros em uma mesma planilha. Saiba mais sobre o [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
-## <a name="print"></a>Print
+## <a name="print"></a>Imprimir
 
 Use o comando Imprimir no Excel para a Web para enviar a planilha inteira ou a seleção atual para a impressora. Saiba mais sobre [como imprimir no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
@@ -342,4 +342,4 @@ Não está disponível no Excel para a Web. Você pode visualizar os resultados 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, confira [Office para a descrição do serviço Web](office-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Office para a descrição do serviço Web](office-online-service-description.md).

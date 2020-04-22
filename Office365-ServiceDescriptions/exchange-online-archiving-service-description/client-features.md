@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: O arquivamento do Microsoft Exchange Online permite que os usuários se conectem às caixas de correio de arquivo morto de vários dispositivos e plataformas. Toda a conectividade de rede para o arquivamento do usuário ocorre pela Internet, e as conexões de rede virtual privada (VPN) não são obrigatórias. As organizações podem publicar um servidor de Acesso para Cliente para permitir que os usuários acessem sua caixa de correio primária usando o Outlook em Qualquer Lugar, sem requerer uma conexão VPN. Se o acesso VPN for requerido para acessar a caixa de correio primária do usuário localizada em um servidor local, esse requisito não mudará.
-ms.openlocfilehash: db67bc6282d0267cce24ed1538aede81349e354d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260706"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639719"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Recursos do cliente no arquivamento do Exchange Online
 
@@ -38,7 +38,7 @@ O Outlook 2010 e posterior e o Outlook na Web fornecem aos usuários todos os re
 O Outlook 2007 oferece suporte básico ao arquivamento, mas nem todos os recursos de arquivamento e conformidade estão disponíveis no Outlook 2007. Por exemplo, com o Outlook 2007, os usuários não podem aplicar políticas de retenção ou de arquivamento aos itens em suas caixas de correio. Eles devem usar as políticas provisionadas pelo administrador. Os usuários do Outlook 2007 devem ter a Atualização Cumulativa do Office 2007 de fevereiro de 2011 para acessarem o arquivamento.
   
 > [!NOTE]
-> O Outlook não é fornecido com o Arquivamento do Exchange Online. O Microsoft Office 365 ProPlus (que inclui o Microsoft Outlook) foi incluído em alguns dos planos do Office 365 e pode ser adquirido como uma assinatura separada. Para obter mais informações, consulte [Opções de plano do Office 365](../office-365-platform-service-description/office-365-plan-options.md). Para obter mais informações sobre o Office 365 ProPlus, consulte a [Descrição do serviço aplicativos do Office](../office-applications-service-description/office-applications-service-description.md). 
+> O Outlook não é fornecido com o Arquivamento do Exchange Online. O Microsoft 365 Apps for Enterprise (que inclui o Microsoft Outlook) está incluído em alguns planos e pode ser adquirido como uma assinatura separada. Para obter mais informações, consulte [Microsoft 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md). Para obter mais informações sobre os aplicativos do Microsoft 365 para empresas, consulte a [Descrição do serviço aplicativos do Office](../office-applications-service-description/office-applications-service-description.md). 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clientes suportados pelo Arquivamento do Exchange Online
 
@@ -68,4 +68,4 @@ Os usuários podem acessar o arquivo usando a entrada no Outlook na Web local (u
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).

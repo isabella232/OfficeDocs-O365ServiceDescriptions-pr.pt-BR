@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: cc3abf1d5b2efa529a40851b1b8e536dcc3bc944
-ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
+ms.openlocfilehash: 327a33935e78288ec9c74174d5876a90805fcede
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43285527"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639999"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
 Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
 
 > [!NOTE]
-> Se você precisar de ajuda com uma tarefa, ou se estiver solucionando um problema, talvez considere estes artigos úteis:  <br/> *  [Email](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (para obter ajuda sobre como criar e enviar emails)  <br/> *  [Email no Office 365 para empresas-ajuda para administradores](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [Corrigir problemas do Outlook e do Office 365 com o assistente de recuperação e suporte da Microsoft para o Office 365](https://diagnostics.office.com/) <br/>  *  [Notificações de falha na entrega de email no Office 365](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Ajuda do Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)
+> Se você precisar de ajuda com uma tarefa, ou se estiver solucionando um problema, talvez considere estes artigos úteis:  <br/> *  [Email](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (para obter ajuda sobre como criar e enviar emails)  <br/> *  [Email no Microsoft 365 para empresas-ajuda para administradores](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [Corrigir problemas do Outlook e do Microsoft 365 com o assistente de recuperação e suporte da Microsoft](https://diagnostics.office.com/) <br/>  *  [Notificações de falha na entrega de email](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Ajuda do Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)
 
 Os limites no Microsoft Exchange Online podem ser classificados em uma das seguintes categorias:
 
@@ -55,7 +55,7 @@ Os limites no Microsoft Exchange Online podem ser classificados em uma das segui
 - [Limites do Exchange ActiveSync](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> *  Os limites aplicados a uma organização do Microsoft Office 365 podem variar, dependendo do tempo pelo qual a organização já está registrada no serviço. <br/> * Quando um limite é alterado nos data centers da Microsoft, pode levar algum tempo para aplicar a alteração a todos os clientes existentes. <br/> * Não é possível modificar a maioria desses limites, mas você e seus usuários devem estar cientes deles. <br/> * Esses limites se aplicam a destinatários internos e externos. <br/> * Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no Exchange Online, confira [limites de proteção do Exchange Online](../exchange-online-protection-service-description/exchange-online-protection-limits.md). <br/> * Para obter informações sobre os limites de grupo do Office 365, consulte "como faço para gerenciar meus grupos?" no [Saiba mais sobre grupos do Office 365](https://go.microsoft.com/fwlink/?linkid=846714).
+> *  Os limites aplicados a uma organização do Microsoft 365 podem diferir, dependendo de quanto tempo a organização tenha sido registrada no serviço. <br/> * Quando um limite é alterado nos data centers da Microsoft, pode levar algum tempo para aplicar a alteração a todos os clientes existentes. <br/> * Não é possível modificar a maioria desses limites, mas você e seus usuários devem estar cientes deles. <br/> * Esses limites se aplicam a destinatários internos e externos. <br/> * Por padrão, o proteção do Exchange Online (EOP) protege caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no Exchange Online, confira [limites de proteção do Exchange Online](../exchange-online-protection-service-description/exchange-online-protection-limits.md). <br/> * Para obter informações sobre os limites de grupo do Office 365, consulte "como faço para gerenciar meus grupos?" [saiba mais sobre os grupos do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=846714).
 
 ## <a name="address-book-limits"></a>Limites de catálogo de endereços
 
@@ -70,11 +70,11 @@ Os limites no Microsoft Exchange Online podem ser classificados em uma das segui
 
 - **Listas de endereços globais**: o número máximo de listas de endereços globais (GAL) que são criadas em uma organização do Exchange Online ou do exchange server 2013.
 
-### <a name="address-book-limits-across-office-365-options"></a>Opções de limites de catálogos de endereços no Office 365
+### <a name="address-book-limits"></a>Limites de catálogo de endereços
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite de lista de endereços|1000|1000|1000|1000|1000|1000|
 |Limite do catálogo de endereços offline (OAB)|250|250|250|250|250|250|
 |Limite das políticas de catálogo de endereços (ABP)|250|250|250|250|250|250|
@@ -97,11 +97,11 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 > [!NOTE]
 > O uso de registro no diário, regras de transporte ou regras de encaminhamento automático para copiar mensagens para uma caixa de correio do Exchange Online com a finalidade de arquivamento não é permitido. A caixa de correio de arquivo morto de um usuário destina-se somente a esse usuário. A Microsoft reserva-se o direito de negar o arquivamento ilimitado em casos em que a caixa de correio de arquivo morto de um usuário é usada para armazenar dados de arquivo para outros usuários ou em outros casos de uso inadequado.
 
-### <a name="storage-limits-across-office-365-options"></a>Limites de armazenamento em opções do Office 365
+### <a name="storage-limits"></a>Limites de armazenamento
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Caixas de correio de usuário|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |Caixas de correio<sup>de arquivo morto 7, 8</sup>|50 GB|50 GB|50 GB|Ilimitado<sup>1</sup>|Unlimited<sup>1</sup>|Não disponível<sup>4</sup>|
 |Caixas de correio compartilhadas<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2,9</sup>|50 GB<sup>2,9</sup>|50 GB<sup>2</sup>|
@@ -126,7 +126,7 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 |Caixas de correio de grupo|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> Este é o tamanho da caixa de correio padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização. Não há um limite máximo de armazenamento para caixas de correio locais. <br/> <sup>2</sup> Cada usuário recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Confira os detalhes sobre a disponibilidade do arquivamento de expansão automática em [Mapa do Office 365](https://go.microsoft.com/fwlink/?LinkId=509914). <br/> <sup>3</sup> para acessar uma caixa de correio compartilhada, um usuário deve ter uma licença do Exchange Online, mas a caixa de correio compartilhada não requer uma licença separada. Sem uma licença, as caixas de correio compartilhadas são limitadas a 50 GB. Para aumentar o limite de tamanho para 100 GB, a caixa de correio compartilhada deve receber uma licença do Exchange Online Plan 2 ou uma licença do plano 1 do Exchange Online com uma licença complementar de arquivamento do Exchange Online. Isso também permitirá que você habilite o arquivamento de expansão automática para uma quantidade ilimitada de capacidade de armazenamento de arquivo morto. Da mesma forma, se você quiser colocar uma caixa de correio compartilhada em retenção de litígio, a caixa de correio compartilhada deverá ter uma licença do Exchange Online Plan 2 ou uma licença do Exchange Online Plan 1 com uma licença complementar de arquivamento do Exchange Online. Se você deseja aplicar recursos avançados, como a proteção avançada contra ameaças do Office 365, descoberta eletrônica avançada ou políticas de retenção automática, a caixa de correio compartilhada deve ser licenciada para esses recursos. <br/> <sup>4</sup> Caixas de correio de recursos não necessitam de uma licença. No entanto, sem uma licença, as caixas de correio de recursos são limitadas a 50 GB. Para aumentar o tamanho da caixa de correio, é preciso atribuir uma licença do Exchange Online plano 2. Isso aumentará à caixa de correio para 100 GB. <br/> <sup>5</sup> caixas de correio de arquivo morto não são incluídas no Quiosque do Exchange Online. No entanto, podem ser comprados como um suplemento por meio do arquivamento do Exchange Online. Para obter mais informações, consulte a [Descrição do serviço de arquivamento do Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>6</sup> Este é o tamanho de caixa de correio padrão para organizações do Microsoft Exchange Server 2013. Os administradores podem alterar esse valor para sua organização. No Exchange Server 2013, você está limitado a cem caixas de correio de pasta pública, e o tamanho máximo total de todas as caixas de correio de pasta pública é de 50 TB. <br/> <sup>7</sup> No Exchange Online, você está limitado a 1.000 caixas de correio de pasta pública, e o tamanho total máximo de todas as caixas de correio de pasta pública é de 50 TB.  <br/> <sup>8</sup> As caixa de correio de arquivo morto pode ser usada apneas para arquivar emails para um único usuário ou entidade na qual uma licença foi aplicada. É proibido o uso de caixas de correio de arquivo morto como meio de armazenamento de emails de vários usuários ou entidades. Por exemplo, os administradores de TI não podem criar caixas de correio compartilhadas e fazer com que os usuários copiem (com o campo Cc ou Cco ou com uma regra de transporte) uma caixa de correio compartilhada explicitamente para o arquivamento. <br/> <sup>9</sup> Se você criou uma política de retenção no Exchange Online, as mensagens serão automaticamente transferidas para a caixa de correio de arquivo morto de um usuário somente se a caixa de correio primária do usuário for maior que 10 MB. A política de retenção não será executada automaticamente para caixas de correio menores do que 10 MB. <br/> <sup>10</sup> as caixas de correio compartilhadas e de recursos não exigem uma licença. No entanto, sem uma licença, essas caixas de correio estão limitadas a 50 GB. Para aumentar o tamanho da caixa de correio, é importante atribuir uma licença do Exchange Online plano 2. Isso aumentará à caixa de correio para 100 GB. <br/> <sup>11</sup> por padrão, as caixas de correio compartilhadas têm uma conta de usuário ativa associada com uma senha gerada pelo sistema (desconhecido). Para bloquear a entrada da conta de caixa de correio compartilhada associada, consulte [bloquear o logon para a conta de caixa de correio compartilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
+> <sup>1</sup> Este é o tamanho da caixa de correio padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização. Não há um limite máximo de armazenamento para caixas de correio locais. <br/> <sup>2</sup> Cada usuário recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Consulte o [mapa do Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obter detalhes sobre a disponibilidade do arquivamento de expansão automática. <br/> <sup>3</sup> para acessar uma caixa de correio compartilhada, um usuário deve ter uma licença do Exchange Online, mas a caixa de correio compartilhada não requer uma licença separada. Sem uma licença, as caixas de correio compartilhadas são limitadas a 50 GB. Para aumentar o limite de tamanho para 100 GB, a caixa de correio compartilhada deve receber uma licença do Exchange Online Plan 2 ou uma licença do plano 1 do Exchange Online com uma licença complementar de arquivamento do Exchange Online. Isso também permitirá que você habilite o arquivamento de expansão automática para uma quantidade ilimitada de capacidade de armazenamento de arquivo morto. Da mesma forma, se você quiser colocar uma caixa de correio compartilhada em retenção de litígio, a caixa de correio compartilhada deverá ter uma licença do Exchange Online Plan 2 ou uma licença do Exchange Online Plan 1 com uma licença complementar de arquivamento do Exchange Online. Se você deseja aplicar recursos avançados, como a proteção avançada contra ameaças do Office 365, descoberta eletrônica avançada ou políticas de retenção automática, a caixa de correio compartilhada deve ser licenciada para esses recursos. <br/> <sup>4</sup> Caixas de correio de recursos não necessitam de uma licença. No entanto, sem uma licença, as caixas de correio de recursos são limitadas a 50 GB. Para aumentar o tamanho da caixa de correio, é preciso atribuir uma licença do Exchange Online plano 2. Isso aumentará à caixa de correio para 100 GB. <br/> <sup>5</sup> caixas de correio de arquivo morto não são incluídas no Quiosque do Exchange Online. No entanto, podem ser comprados como um suplemento por meio do arquivamento do Exchange Online. Para obter mais informações, consulte a [Descrição do serviço de arquivamento do Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>6</sup> Este é o tamanho de caixa de correio padrão para organizações do Microsoft Exchange Server 2013. Os administradores podem alterar esse valor para sua organização. No Exchange Server 2013, você está limitado a cem caixas de correio de pasta pública, e o tamanho máximo total de todas as caixas de correio de pasta pública é de 50 TB. <br/> <sup>7</sup> No Exchange Online, você está limitado a 1.000 caixas de correio de pasta pública, e o tamanho total máximo de todas as caixas de correio de pasta pública é de 50 TB.  <br/> <sup>8</sup> As caixa de correio de arquivo morto pode ser usada apneas para arquivar emails para um único usuário ou entidade na qual uma licença foi aplicada. É proibido o uso de caixas de correio de arquivo morto como meio de armazenamento de emails de vários usuários ou entidades. Por exemplo, os administradores de TI não podem criar caixas de correio compartilhadas e fazer com que os usuários copiem (com o campo Cc ou Cco ou com uma regra de transporte) uma caixa de correio compartilhada explicitamente para o arquivamento. <br/> <sup>9</sup> Se você criou uma política de retenção no Exchange Online, as mensagens serão automaticamente transferidas para a caixa de correio de arquivo morto de um usuário somente se a caixa de correio primária do usuário for maior que 10 MB. A política de retenção não será executada automaticamente para caixas de correio menores do que 10 MB. <br/> <sup>10</sup> as caixas de correio compartilhadas e de recursos não exigem uma licença. No entanto, sem uma licença, essas caixas de correio estão limitadas a 50 GB. Para aumentar o tamanho da caixa de correio, é importante atribuir uma licença do Exchange Online plano 2. Isso aumentará à caixa de correio para 100 GB. <br/> <sup>11</sup> por padrão, as caixas de correio compartilhadas têm uma conta de usuário ativa associada com uma senha gerada pelo sistema (desconhecido). Para bloquear a entrada da conta de caixa de correio compartilhada associada, consulte [bloquear o logon para a conta de caixa de correio compartilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
 
 ## <a name="capacity-alerts"></a>Alertas de capacidade
 
@@ -138,11 +138,11 @@ O Exchange Online oferece três tipos de notificações quando uma caixa de corr
 
 - **Proibir envio/recebimento**: o Exchange Online rejeita todos os emails de entrada quando o limite de tamanho da caixa de correio é alcançado e envia uma notificação de falha na entrega para o remetente. O remetente tem a opção de tentar reenviar o email mais tarde. Para receber mensagens novamente, o usuário deve excluir emails até que a caixa de correio fique abaixo do limite de tamanho.
 
-### <a name="capacity-alerts-across-office-365-options"></a>Alertas de capacidade em opções do Office 365
+### <a name="capacity-alerts"></a>Alertas de capacidade
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Aviso|49 GB|49 GB|49 GB|98 GB|98 GB|1,96 GB|
 |Proibir Envio|49.5 GB|49.5 GB|49,5 GB|99 GB|99 GB|1,98 GB|
 |Proibir Envio/Recebimento|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
@@ -185,11 +185,11 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 
 - **Aviso para o número de subpastas por pasta pública**: especifica o número de subpastas que podem ser criadas em uma pasta pública antes de o Exchange Online enviar uma mensagem de aviso ao proprietário da pasta. Se não existir nenhum proprietário, as mensagens de aviso serão enviadas para usuários com permissões de Proprietário. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
 
-### <a name="mailbox-folder-limits-across-office-365-options"></a>Limites da pasta da caixa de correio nas opções do Office 365
+### <a name="mailbox-folder-limits"></a>Limites da pasta da caixa de correio
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Número máximo de mensagens por pasta de caixa de correio|1 milhão|1 milhão|1 milhão|1 milhão|1 milhão|1 milhão|
 |Aviso para o número de mensagens por pasta da caixa de correio|900.000|900.000|900.000|900.000|900.000|900.000|
 |Número máximo de mensagens por pasta na pasta de Itens Recuperáveis|3 milhões|3 milhões|3 milhões|3 milhões|3 milhões|3 milhões|
@@ -207,7 +207,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 |Aviso para o número de subpastas por pasta pública|9000|9000|9000|9000|9000|Não disponível|
 
 > [!NOTE]
-> <sup>1</sup> Esta é a cota de armazenamento da pasta Itens Recuperáveis, não a cota da caixa de correio de arquivo morto inteira. A cota de armazenamento da caixa de correio de arquivo morto é ilimitada para usuários com uma licença do Exchange Online Plano 2 ou para usuários que têm uma licença do Exchange Online Plano 1 e de Arquivamento do Exchange Online. Confira informações sobre aumentar a cota da pasta itens recuperáveis, confira [aumente a cota da pasta itens recuperáveis para caixas de correio em espera](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> A cota de armazenamento inicial da pasta Itens Recuperáveis em uma caixa de correio de arquivo morto é de 100 GB. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade da pasta de Itens Recuperáveis. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Confira os detalhes sobre a disponibilidade do arquivamento de expansão automática no [Mapa do Office 365](https://go.microsoft.com/fwlink/?LinkId=509914).
+> <sup>1</sup> Esta é a cota de armazenamento da pasta Itens Recuperáveis, não a cota da caixa de correio de arquivo morto inteira. A cota de armazenamento da caixa de correio de arquivo morto é ilimitada para usuários com uma licença do Exchange Online Plano 2 ou para usuários que têm uma licença do Exchange Online Plano 1 e de Arquivamento do Exchange Online. Confira informações sobre aumentar a cota da pasta itens recuperáveis, confira [aumente a cota da pasta itens recuperáveis para caixas de correio em espera](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> A cota de armazenamento inicial da pasta Itens Recuperáveis em uma caixa de correio de arquivo morto é de 100 GB. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade da pasta de Itens Recuperáveis. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Consulte o [mapa do Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obter detalhes sobre a disponibilidade do arquivamento de expansão automática.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Limites da pasta da caixa de correio nos planos autônomos
 
@@ -231,13 +231,13 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 |Aviso para o número de subpastas por pasta pública|N/D|900|900|Não disponível|
 
 > [!NOTE]
-> <sup>1</sup> A Microsoft recomenda até 1.000.000 mensagens por pasta da caixa de correio. > <br/> <sup>2</sup> Esta é a cota de armazenamento da pasta Itens Recuperáveis, não a cota da caixa de correio de arquivo morto inteira.  A cota de armazenamento da caixa de correio de arquivo morto é ilimitada para usuários com uma licença do Exchange Online Plano 2 ou para usuários que têm uma licença do Exchange Online Plano 1 e de Arquivamento do Exchange Online. Confira informações sobre aumentar a cota da pasta itens recuperáveis, confira [aumente a cota da pasta itens recuperáveis para caixas de correio em espera](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>3</sup> A cota de armazenamento inicial da pasta Itens Recuperáveis em uma caixa de correio de arquivo morto é de 100 GB. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade da pasta de Itens Recuperáveis. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Confira os detalhes sobre a disponibilidade do arquivamento de expansão automática no [Mapa do Office 365](https://go.microsoft.com/fwlink/?LinkId=509914).
+> <sup>1</sup> A Microsoft recomenda até 1.000.000 mensagens por pasta da caixa de correio. > <br/> <sup>2</sup> Esta é a cota de armazenamento da pasta Itens Recuperáveis, não a cota da caixa de correio de arquivo morto inteira.  A cota de armazenamento da caixa de correio de arquivo morto é ilimitada para usuários com uma licença do Exchange Online Plano 2 ou para usuários que têm uma licença do Exchange Online Plano 1 e de Arquivamento do Exchange Online. Confira informações sobre aumentar a cota da pasta itens recuperáveis, confira [aumente a cota da pasta itens recuperáveis para caixas de correio em espera](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>3</sup> A cota de armazenamento inicial da pasta Itens Recuperáveis em uma caixa de correio de arquivo morto é de 100 GB. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade da pasta de Itens Recuperáveis. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Consulte o [mapa do Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obter detalhes sobre a disponibilidade do arquivamento de expansão automática.
 
 ## <a name="message-limits"></a>Limites de mensagem
 
 Os limites a seguir são aplicados a todas as mensagens de email.
 
-- **Limite de tamanho de mensagem**: limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, consulte [O Office 365 agora dá suporte a mensagens de email maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Limite de tamanho de mensagem**: limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, veja a [Microsoft oferece suporte a mensagens de email maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
     > [!NOTE]
     > Alguns clientes de email podem ter limites de tamanho de mensagem menores ou podem limitar o tamanho de um anexo de arquivo individual para um valor menor do que o limite de tamanho de mensagem do Exchange Online.
@@ -257,17 +257,17 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 
 - **Limite de profundidade de mensagem incorporada**: o número máximo de mensagens de email encaminhada permitidas em uma mensagem de email.
 
-### <a name="message-limits-across-office-365-options"></a>Limites de mensagem em opções do Office 365
+### <a name="message-limits"></a>Limites de mensagem
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite de tamanho de mensagem - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite de tamanho de mensagem - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
 |Limite de tamanho de mensagem - Outlook para Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite de tamanho de mensagem - migração|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |Limite de tamanho de mensagem-Outlook para iOS e Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>5</sup>|150 MB|150 MB |150 MB |150 MB |150 MB |150 MB|
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>5</sup>|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Limite de anexos de arquivo|250 anexos|250 anexos|250 anexos|250 anexos|250 anexos|250 anexos|
@@ -279,8 +279,8 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|
 
 > [!NOTE]
-> <sup>1</sup> o tamanho da mensagem máxima padrão para caixas de correio do Office 365 é de 25 MB. Os administradores do Office 365 podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para saber mais sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, confira [Office 365 agora dá suporte a emails maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). 
-<br/> <sup>2</sup> Você pode enviar e receber mensagens de até 150 MB entre usuários do Office 365 (onde a mensagem nunca deixa os datacenters do Office 365). As mensagens roteadas fora dos datacenters do Office 365 estão sujeitas a um aumento de 33% para codificação de translação, nesse caso o tamanho máximo da mensagem é de 112 MB. <br/> 
+> <sup>1</sup> o tamanho máximo de mensagem padrão para caixas de correio da Microsoft é de 25 MB. Os administradores da Microsoft podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para obter mais informações sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, consulte a [Microsoft suporta mensagens de email maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). 
+<br/> <sup>2</sup> você pode enviar e receber até 150 MB de mensagens entre usuários (onde a mensagem nunca deixa os datacenters da Microsoft). As mensagens roteadas fora dos datacenters da Microsoft estão sujeitas a uma maior codificação de conversão de 33%, caso em que o tamanho máximo da mensagem seja de 112 MB. <br/> 
 <sup>3</sup> contas do OWA para a possibilidade de que sua mensagem esteja sujeita ao aumento da codificação 33% e restringe o tamanho da mensagem que você pode enviar para 25% menor do que a configuração configurada. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. 
 <br/> <sup>4</sup> O tamanho das mensagens a serem movidas para o Exchange Online será calculado pelo Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. Esse limite se aplica a migrações baseadas em movimentação usando qualquer serviço de replicação de caixa de correio do Exchange. Outros métodos de migração (substituição, estágios, IMAP, PST) e outras ferramentas de terceiros são limitados pelo limite de tamanho de mensagem geral. <br/> 
 <sup>5</sup> para obter informações sobre o ome com novos recursos, confira [configurar os novos recursos de criptografia de mensagens do Office 365 criados na parte superior da proteção de informações do Azure](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e). <br/> 
@@ -298,7 +298,7 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de tamanho de mensagem - migração|Não aplicável|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
 |Limite de tamanho de mensagem-Outlook para iOS e Android |25 MB |33 MB |33 MB |33 MB |
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>6</sup>|150 MB|150 MB |150 MB |150 MB|
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>6</sup>|25 MB|25 MB |25 MB |25 MB|
 |Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Limite de anexos de arquivo|1024 attachments<sup>4</sup>|250 anexos|250 anexos|250 anexos|
 |Limite de tamanho de anexo de arquivo - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB|
@@ -309,7 +309,7 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|
 
 > [!NOTE]
-> <sup>1</sup> Os administradores do Office 365 podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para saber mais sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, confira [Office 365 agora dá suporte a emails maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Você pode enviar e receber mensagens de até 150 MB entre usuários do Office 365 (onde a mensagem nunca deixa os datacenters do Office 365). As mensagens roteadas fora dos datacenters do Office 365 estão sujeitas a um aumento de 33% para codificação de translação, nesse caso o tamanho máximo da mensagem é de 112 MB. <br/> 
+> <sup>1</sup> os administradores da Microsoft podem especificar um limite personalizado entre 1 mb e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para obter mais informações sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, consulte a [Microsoft suporta mensagens de email maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> você pode enviar e receber até 150 MB de mensagens entre usuários (onde a mensagem nunca deixa os datacenters da Microsoft). As mensagens roteadas fora dos datacenters da Microsoft estão sujeitas a uma maior codificação de conversão de 33%, caso em que o tamanho máximo da mensagem seja de 112 MB. <br/> 
 <sup>3</sup> contas do OWA para a possibilidade de que sua mensagem esteja sujeita ao aumento da codificação 33% e restringe o tamanho da mensagem que você pode enviar para 25% menor do que a configuração configurada. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. <br/> 
 <sup>4</sup> este é o limite padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização. <br/> 
 <sup>5</sup> o tamanho das mensagens a serem movidas para o Exchange Online são calculados pelo Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. <br/> 
@@ -325,7 +325,7 @@ Os limites de recebimento se aplicam ao número de mensagens que um usuário, gr
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium Office**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Office 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Mensagens recebidas|3,600 mensagens por hora|3,600 mensagens por hora|3,600 mensagens por hora|3,600 mensagens por hora|3.600 mensagens por hora|3.600 mensagens por hora|
 
 ### <a name="sending-limits"></a>Limites de envio
@@ -349,11 +349,11 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
 
 - **Limite de taxa de mensagens**: limites de taxa de mensagens determinam quantas mensagens um usuário pode enviar de sua conta do Exchange Online dentro de um período de tempo especificado. Esse limite ajuda a evitar o consumo de recursos do sistema por um único remetente. Se um usuário envia mensagens a uma taxa que excede o limite por meio de envio de cliente SMTP, as mensagens são rejeitadas e o cliente precisa repetir.
 
-#### <a name="sending-limits-across-office-365-options"></a>Limites de envio nas opções do Office 365
+#### <a name="sending-limits"></a>Limites de envio
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite de taxa de destinatário<sup>1</sup>|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|10.000 destinatários por dia|
 |Limite de destinatário<sup>2</sup>|Destinatários de até 1000 personalizáveis|Destinatários de até 1000 personalizáveis|Destinatários de até 1000 personalizáveis|Destinatários de até 1000 personalizáveis|Destinatários de até 1000 personalizáveis|Destinatários de até 1000 personalizáveis|
 |Limite de endereço proxy do destinatário|400|400|400|400|400|400|
@@ -391,17 +391,17 @@ Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa 
 
 - **Período de retenção da pasta de lixo eletrônico**: o número máximo de dias que os itens podem permanecer na pasta lixo eletrônico antes de serem removidos automaticamente.
 
-### <a name="retention-limits-across-office-365-options"></a>Limites de retenção em opções do Office 365
+### <a name="retention-limits"></a>Limites de retenção
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Período de retenção na pasta Itens Excluídos|Sem limites<sup>1</sup>|Sem limites<sup>1</sup>|Sem limites<sup>1</sup>|Sem limites<sup>1</sup>|Sem limites<sup>1</sup>|Sem limites<sup>1</sup>|
 |Período de retenção para itens removidos da pasta Itens Excluídos|14 dias<sup>1</sup>|14 dias<sup>1</sup>|14 dias<sup>1</sup>|14 dias<sup>1</sup>|14 dias<sup>1</sup>|14 dias<sup>1</sup>|
 |Período de retenção na pasta Lixo Eletrônico|30 dias|30 dias|30 dias|30 dias|30 dias|30 dias|
 
 > [!NOTE]
-> <sup>1</sup> Esse é o valor padrão para organizações do Office 365. Os administradores podem alterar esse valor para um máximo de 30 dias para caixas de correio em sua organização.
+> <sup>1</sup> este é o valor padrão para as organizações 365 da Microsoft. Os administradores podem alterar esse valor para um máximo de 30 dias para caixas de correio em sua organização.
 
 ### <a name="retention-limits-across-standalone-options"></a>Limites de retenção em opções autônomas
 
@@ -425,11 +425,11 @@ Estes limites se aplicam a grupos de distribuição no catálogo de endereços c
 
 - **Tamanho máximo de mensagem para grupos de distribuição grandes**: se uma mensagem for enviada para 5.000 ou mais destinatários, o tamanho da mensagem não poderá exceder esse limite. Se o tamanho da mensagem exceder o limite, a mensagem não será entregue, e o remetente receberá uma NDR (notificação de falha na entrega).
 
-### <a name="distribution-group-limits-across-office-365-options"></a>Limites de grupos de distribuição em opções do Office 365
+### <a name="distribution-group-limits"></a>Limites de grupos de distribuição
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Número máximo de membros do grupo de distribuição<sup>1</sup>|100.000 membros|100.000 membros|100.000 membros|100.000 membros|100.000 membros|100.000 membros|
 |Limite de envio de mensagens para grupos de distribuição grandes|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|
 |Tamanho máximo das mensagens de grupos de distribuição com membros de 5.000 para 99.999|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
@@ -475,11 +475,11 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, regras 
 
 - **Número de vezes em que uma mensagem é redirecionada por regras de transporte** O número de vezes que uma mensagem será redirecionada com base nas regras de transporte. Por exemplo, o Exchange Organization Tailspin Toys tem uma regra de transporte para redirecionar todas as mensagens que foram enviadas ao usuário a para o usuário B que está localizado na organização do Exchange contoso. Dentro da organização do Exchange contoso há uma regra de transporte em vigor para redirecionar todas as mensagens que foram enviadas ao usuário B para o usuário C, que está localizado na organização do Exchange A. Datum Corporation. Nesse caso, a mensagem é descartada e uma notificação de falha na entrega (NDR) com código de status e a mensagem de rejeição *550 transporte de 5.7.128. Regras. RejectMessage A contagem de loop de regras de transporte foi excedida e a mensagem rejeitada* é enviada para o usuário a. Utilizamos o cabeçalho X-MS-Exchange-Transport-Rules-loop para determinar o número de vezes que uma mensagem foi redirecionada por regras de transporte. Esse cabeçalho permanece também entre os limites organizacionais do Exchange.
 
-### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Limites de regras de diário, transporte e caixa de entrada nas opções do Office 365
+### <a name="journal-transport-and-inbox-rule-limits"></a>Limites de regras de diário, transporte e caixa de entrada
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Número máximo de regras de diário|300 regras|300 regras|300 regras|300 regras|300 regras|300 regras|
 |Número máximo de regras de transporte|300 regras|300 regras|300 regras|300 regras|300 regras|300 regras|
 |Tamanho máximo de uma regra de transporte individual|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
@@ -518,11 +518,11 @@ Estes limites controlam as configurações de moderação que são usadas para a
 
 Durante os períodos de pesado intenso, alguns remetentes podem não receber mensagens de notificação para mensagens moderadas que expiraram. No entanto, essas notificações ainda são detectáveis com o uso de relatórios de entrega.
 
-### <a name="moderation-limits-across-office-365-options"></a>Limites de moderação em opções do Office 365
+### <a name="moderation-limits"></a>Limites de moderação
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Tamanho máximo da caixa de correio de arbitragem|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |Número máximo de moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|
 |Expiração para mensagens aguardando moderação|2 dias|2 dias|2 dias|2 dias|2 dias|2 dias|
@@ -549,11 +549,11 @@ Os seguintes limites se aplicam ao Microsoft Exchange ActiveSync, um protocolo d
 
 - **Limite de exclusão de dispositivo do Exchange ActiveSync**: o número máximo de dispositivos do Exchange ActiveSync que um administrador do Exchange pode excluir em um único mês.
 
-### <a name="exchange-activesync-limits-across-office-365-options"></a>Limites do Exchange ActiveSync nas opções do Office 365
+### <a name="exchange-activesync-limits"></a>Limites do Exchange ActiveSync
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Limite do dispositivo do Exchange ActiveSync|100|100|100|100|100|100|
 |Limite de exclusão do dispositivo do Exchange ActiveSync|508|508|508|508|508|508|
 

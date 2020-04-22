@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Os recursos de conversa e mensagem a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687747"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640029"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Recursos de conversas e mensagens no Yammer
 
@@ -57,5 +57,5 @@ Compartilhe conversas no feed de outro grupo ou através de uma mensagem privada
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Yammer](yammer-service-description.md).
+Para exibir planos de disponibilidade de recursos, opções autônomas e soluções locais, consulte [Descrição do serviço do Yammer](yammer-service-description.md).
   

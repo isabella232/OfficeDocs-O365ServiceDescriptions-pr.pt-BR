@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529214"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640139"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -33,9 +33,9 @@ A seguir estão as principais maneiras de usar a ATP para proteção de mensagen
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilidade de proteção avançada contra ameaças (ATP) do Office 365
 
-A ATP está incluída no Office 365 Enterprise e5, no Office 365 Education e no Microsoft 365 Business.
+A ATP está incluída no Office 365 Enterprise e5, no Office 365 Education e no Microsoft 365 Business Premium.
 
-Você pode adicionar a ATP aos seguintes planos de assinatura do Exchange e do Office 365:
+Você pode adicionar a ATP aos seguintes planos de assinatura do Exchange e do Microsoft 365:
 
 - Exchange Online Plano 1
 
@@ -45,9 +45,9 @@ Você pode adicionar a ATP aos seguintes planos de assinatura do Exchange e do O
 
 - Proteção do Exchange Online
 
-- Office 365 Business Essentials
+- Microsoft 365 Business Basic
 
-- Office 365 Business Premium
+- Microsoft 365 Business Standard
 
 - Office 365 Enterprise E1
 
@@ -61,7 +61,7 @@ Você pode adicionar a ATP aos seguintes planos de assinatura do Exchange e do O
 
 Para comprar a proteção avançada contra ameaças do Office 365, confira [office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Para comparar recursos entre planos, confira [Compare Office 365 for Business Plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) e [Descubra a solução Microsoft 365 Enterprise que é adequada para você](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Para comparar recursos entre planos, confira [Compare microsoft 365 Apps for Business Plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) e [Descubra a solução Microsoft 365 Enterprise que é adequada para você](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>O que há de novo no Office 365 proteção avançada contra ameaças (ATP)
 
@@ -113,7 +113,7 @@ O recurso [links seguros de ATP](https://docs.microsoft.com/microsoft-365/securi
 
 Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
-- Office 365 ProPlus no Windows ou Mac
+- Microsoft 365 aplicativos para empresas no Windows ou Mac
 
 - Office para a Web (Word para a Web, Excel para a Web, PowerPoint para a Web e OneNote para a Web)
 
@@ -138,7 +138,7 @@ A [ATP anti-phishing](https://docs.microsoft.com/microsoft-365/security/office-3
 
 ### <a name="real-time-reports"></a>Relatórios em tempo real
 
-Os recursos de monitoramento disponíveis no centro de conformidade & segurança do Office 365 incluem [relatórios e insights em tempo real](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) que permitem aos administradores de segurança e conformidade se concentrarem em problemas de alta prioridade, como ataques de segurança ou uma maior atividade suspeita. Além de destacar áreas problemáticas, relatórios inteligentes e insights incluem recomendações e links para exibir e explorar dados e também realizar ações rápidas.
+Os recursos de monitoramento disponíveis no centro de conformidade e segurança & incluem [relatórios em tempo real e insights](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) que permitem que seus administradores de segurança e conformidade se concentrem em problemas de alta prioridade, como ataques de segurança ou uma maior atividade suspeita. Além de destacar áreas problemáticas, relatórios inteligentes e insights incluem recomendações e links para exibir e explorar dados e também realizar ações rápidas.
 
 ### <a name="explorer"></a>Explorer
 

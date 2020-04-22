@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
-ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: c65745f22b303acb5740e0ff014aa8f9a5b2c7b7
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262724"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639979"
 ---
 # <a name="recipients"></a>Destinatários
 
@@ -25,10 +25,10 @@ Este tópico descreve os recursos relacionados ao destinatário que fazem parte 
   
 ## <a name="email"></a>Email
 
-Cada assinante do Microsoft Exchange Online recebe uma caixa de correio, e caixas de correio especiais estão disponíveis para o agendamento dos recursos de facilidades (como salas de conferência) e para o acesso multiusuário aos endereços de email compartilhados. Limites máximos de armazenamento se aplicam à maioria das caixas de correio, e os administradores podem controlar os tamanhos permitidos da caixa de correio. Notificações e restrições automáticas podem alertar os usuários quando suas caixas de correio atingirem sua capacidade ou estarem próximos de atingir. O Exchange Online também tem vários tipos de limitações de mensagenstamanho da mensagem, velocidade da mensagem e limites da lista de destinatários. Os detalhes de todos esses recursos e limites são fornecidos abaixo.
+Cada assinante do Microsoft Exchange Online recebe uma caixa de correio, e caixas de correio especiais estão disponíveis para o agendamento dos recursos de facilidades (como salas de conferência) e para o acesso multiusuário aos endereços de email compartilhados. Limites máximos de armazenamento se aplicam à maioria das caixas de correio, e os administradores podem controlar os tamanhos permitidos da caixa de correio. Notificações e restrições automáticas podem alertar os usuários quando suas caixas de correio atingirem sua capacidade ou estarem próximos de atingir. O Exchange Online também tem vários tipos de limitações de mensagens—tamanho da mensagem, velocidade da mensagem e limites da lista de destinatários. Os detalhes de todos esses recursos e limites são fornecidos abaixo.
   
 > [!NOTE]
-> Não há mais suporte para Endereços catch-all no Exchange Online. Devido à filtragem de destinatários no local para proteção contra mensagens de spam em potencial, endereços de email que não existam no seu locatário do Office 365 serão rejeitados. 
+> Não há mais suporte para Endereços catch-all no Exchange Online. Devido à filtragem de destinatários no local para proteção contra possíveis mensagens de spam, os endereços de email que não existem na sua organização serão rejeitados. 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>Tipos de caixa de correio, limites de armazenamento e alertas de capacidade
 
@@ -153,7 +153,7 @@ As mensagens de ausência temporária são respostas automáticas para as mensag
 
 Os usuários podem compartilhar seu calendário pessoal de duas maneiras:
   
-- **Compartilhamento de agendas federado** Federação se refere à infraestrutura confiável subjacente que suporta o compartilhamento federado, um método fácil para os usuários do Exchange compartilharem dados da agenda de disponibilidade e informações de contato com destinatários de outras organizações federadas externas. Isto inclui organizações do Exchange Online ou organizações que executam o Exchange Server 2010 ou o Exchange Server 2013 local. Os administradores do Exchange Online não precisam configurar uma relação de confiança com o Microsoft Federation Gateway, porque essa relação de confiança é pré-configurada para todos os clientes do Exchange Online, quando o serviço do locatário do Office 365 é criado. Uma política de compartilhamento padrão permite que os usuários enviem convites de compartilhamento de calendário do Outlook na Web ou do Outlook 2010. Os administradores usam o Windows PowerShell remoto para desabilitar essa política ou para configurar o nível de disponibilidade dos dados de calendário que os usuários podem compartilhar. Os administradores também podem criar um relacionamento de organização para organização com outra organização federada, que permite que o nível desejado de informações de disponibilidade para cada usuário seja visível na organização, sem que os usuários individuais tenham que fazer um convite compartilhado. Dentro do escopo das Políticas de Compartilhamento definidas pelo administrador e/ou dos relacionamentos de organização para organização, os usuários podem limitar individualmente ainda mais o detalhe de seu compartilhamento. 
+- **Compartilhamento de agendas federado** Federação se refere à infraestrutura confiável subjacente que suporta o compartilhamento federado, um método fácil para os usuários do Exchange compartilharem dados da agenda de disponibilidade e informações de contato com destinatários de outras organizações federadas externas. Isto inclui organizações do Exchange Online ou organizações que executam o Exchange Server 2010 ou o Exchange Server 2013 local. Os administradores do Exchange Online não precisam configurar uma relação de confiança com o Microsoft Federation Gateway porque essa confiança é pré-configurada para todos os clientes do Exchange Online quando o serviço Microsoft é criado. Uma política de compartilhamento padrão permite que os usuários enviem convites de compartilhamento de calendário do Outlook na Web ou do Outlook 2010. Os administradores usam o Windows PowerShell remoto para desabilitar essa política ou para configurar o nível de disponibilidade dos dados de calendário que os usuários podem compartilhar. Os administradores também podem criar um relacionamento de organização para organização com outra organização federada, que permite que o nível desejado de informações de disponibilidade para cada usuário seja visível na organização, sem que os usuários individuais tenham que fazer um convite compartilhado. Dentro do escopo das Políticas de Compartilhamento definidas pelo administrador e/ou dos relacionamentos de organização para organização, os usuários podem limitar individualmente ainda mais o detalhe de seu compartilhamento. 
     
 - **Compartilhamento de agendas da Internet** O Exchange Online permite que os usuários publiquem suas agendas usando o formato iCal para o acesso anônimo por qualquer um dentro ou fora da organização. Os destinatários podem estar usando o Exchange, outra plataforma ou simplesmente um navegador da web. Os usuários do Exchange Online também podem se inscrever em calendários que outras pessoas publicaram em locais da Internet por meio do iCal. Esse compartilhamento de calendário pessoal é diferente do compartilhamento de calendário federado, que é configurado por um administrador e fornece compartilhamento de disponibilidade de organização para organização. Nenhum usuário pode publicar dados de calendário no formato iCal até que o administrador tenha definido e aplicado uma política de compartilhamento que o permita. Os administradores podem desabilitar a publicação e as assinaturas iCal para os usuários de uma organização, usando o Windows PowerShell remoto.
     
@@ -169,5 +169,5 @@ O Exchange Online suporta o recurso do Localizador de Salas do Outlook 2010, que
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Veja quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609862"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639834"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -31,7 +31,7 @@ O SharePoint no Microsoft 365 ajuda as organizações a compartilhar e gerenciar
 
 Para obter uma visão geral rápida, confira [o que é o SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Para ver quais planos do Office 365 incluem o SharePoint, [Compare o office 365 para planos de negócios](https://products.office.com/business/compare-more-office-365-for-business-plans). Para obter os requisitos do sistema do Office 365, consulte [System Requirements for Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
+Para ver quais planos incluem o SharePoint, [Compare o Microsoft 365 for Business Plans](https://products.office.com/business/compare-more-office-365-for-business-plans). Para obter os requisitos de sistema do Microsoft 365, consulte [System Requirements for Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
 
 Para saber mais sobre as diferenças dos recursos do SharePoint para clientes de nuvem do governo dos EUA, confira [SharePoint para ambientes do governo dos EUA](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
@@ -41,7 +41,7 @@ Para obter informações sobre os recursos mais recentes que estão sendo lança
   
 ## <a name="subscription-options"></a>Opções de assinatura
 
-O Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Para saber mais sobre os diversos planos, inclusive opções de planos autônomos, e ver informações sobre como migrar de um plano para outro, confira [Opções de planos do Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Para obter informações sobre diferentes planos, incluindo opções de plano autônomo e informações sobre como migrar de um plano para outro, consulte [Microsoft 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
 Para acessar o SharePoint, os usuários de sua organização precisam receber uma licença que inclui o SharePoint. Um plano de início não é vendido como uma oferta autônoma, somente como parte da [assinatura do primeiro](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
@@ -99,7 +99,7 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Migração: Gerenciador de migração](/sharepointmigration/mm-get-started)
 - [Migração: ferramenta de avaliação de migração do SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [Migração: mover.Io](https://mover.io/). Disponível atualmente somente para clientes na América do Norte.
-- [Multigeográfico (residência de dados)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Com um complemento que exige um mínimo de 500 licenças do Office 365. Entre em contato com seu representante da Microsoft para obter detalhes.
+- [Multigeográfico (residência de dados)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Com um complemento que exige um mínimo de 500 licenças da Microsoft. Entre em contato com seu representante da Microsoft para obter detalhes.
 - [Provisionamento de site de programação](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Substituição de site raiz](/sharepoint/modern-root-site)
 - [Restaurar sites excluídos](/sharepoint/restore-deleted-site-collection)
@@ -124,7 +124,7 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Criptografia em trânsito e em repouso](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [Saída da sessão ociosa](/sharepoint/sign-out-inactive-users)
 - [Políticas de gerenciamento de informações](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [Gerenciamento de direitos de informação (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Requer a proteção de informações do Azure independente ou como parte de um pacote. Alguns recursos de proteção de informações do Azure exigem uma assinatura do Office 365 ProPlus.
+- [Gerenciamento de direitos de informação (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Requer a proteção de informações do Azure independente ou como parte de um pacote. Alguns recursos de proteção de informações do Azure exigem uma assinatura para o Microsoft 365 aplicativos para empresas.
 - [Restauração de uma biblioteca de documentos para um ponto anterior no tempo](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Verificação de vírus](/office365/securitycompliance/virus-detection-in-spo)
 

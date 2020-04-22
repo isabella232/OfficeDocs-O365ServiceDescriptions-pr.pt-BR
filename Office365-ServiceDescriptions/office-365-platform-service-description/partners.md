@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Como um parceiro autorizado Microsoft, o Microsoft Office 365 lhe oferece uma oportunidade de expandir sua base de clientes e criar relacionamentos duradouros com eles. Por uma taxa mensal ou anual paga a você, seus clientes podem usar serviços baseados em nuvem para que não precisem gerenciar backups de dados, hardware de servidor e atualizações de servidor. Os serviços disponíveis para você dependem dos tipos de serviços que você está autorizado a oferecer.
-ms.openlocfilehash: 807494ef23a089008ee3f9ff9b9e5191511afd99
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 58d0b09222457ecb7f5c1fb31ad511608c66fadc
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262512"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638749"
 ---
 # <a name="partners"></a>Parceiros
 
@@ -41,7 +41,7 @@ A administração delegada permite a um parceiro ter acesso administrativo total
   
 Para que você possa começar a administrar a conta de um cliente, o cliente deverá autorizá-lo como um administrador delegado. Para obter aprovação do cliente, envie a ele uma oferta de administração delegada, que você pode incluir com um convite de avaliação ou uma oferta de compra. O cliente autoriza um parceiro de Administração Delegada respondendo ao email de convite do parceiro.
   
-Cada cliente do Office 365 tem direito a um parceiro de administração delegada. Esse parceiro pode ser também um Parceiro de Registro (POR), mas não é obrigatório ser. As funções de POR e parceiros de administração delegada são separadas, e o cliente as designa separadamente. Isso permite que um cliente escolha um parceiro para aconselhamento de compra e outro parceiro para implementação ou serviços gerenciados. Ele também permite que os parceiros optem por criar negócios com uma especialidade em uma dessas funções ou em ambas.
+Cada cliente tem direito a ter um parceiro de administração delegada. Esse parceiro pode ser também um Parceiro de Registro (POR), mas não é obrigatório ser. As funções de POR e parceiros de administração delegada são separadas, e o cliente as designa separadamente. Isso permite que um cliente escolha um parceiro para aconselhamento de compra e outro parceiro para implementação ou serviços gerenciados. Ele também permite que os parceiros optem por criar negócios com uma especialidade em uma dessas funções ou em ambas.
   
 Mesmo que um cliente tenha autorizado um parceiro a desempenhar tarefas administrativas em seu nome, o cliente poderá ainda entrar em contato com o suporte da Microsoft diretamente e enviar as solicitações de serviço.
   

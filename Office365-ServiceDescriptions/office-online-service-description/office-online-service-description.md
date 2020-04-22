@@ -11,29 +11,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: O Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. O Office para a Web torna mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão com a Internet, de quase qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: O Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. O Office para a Web torna mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão com a Internet, de quase qualquer dispositivo. Os clientes do Microsoft 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
+ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687797"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640129"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrição dos serviços do Office para Web
 
-O Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. O Office para a Web torna mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão com a Internet, de quase qualquer dispositivo. Os clientes do Microsoft Office 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar. 
+O Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. O Office para a Web torna mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão com a Internet, de quase qualquer dispositivo. Os clientes do Microsoft 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar. 
   
-Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Para comparar recursos entre planos, confira [Compare Microsoft 365 for Business Plans](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidade de recursos nos planos do Office para Web
 
 Precisa de ajuda para descobrir qual solução Office é a melhor para a sua organização? As tabelas a seguir comparam o Office para recursos de recursos da Web para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as tabelas para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras só precisam exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web. 
   
 > [!NOTE]
->  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. <br/>  O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. <br/>  Os clientes locais do Microsoft Office Online Server recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Office 365 ProPlus License). 
+>  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. <br/>  Microsoft 365 aplicativos para empresas é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. <br/>  Os clientes locais do Microsoft Office Online Server recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Microsoft 365 Apps for Enterprise License). 
   
 > [!NOTE]
-> Quando você abre um documento do Office, como um anexo de email do Outlook ou de uma biblioteca de documentos do SharePoint, o documento será iniciado no Office para a Web e será somente leitura. Para editar um documento no Office para a Web (modo de edição), você precisa de uma licença do pacote do Office 365, como o Office 365 Enterprise E1. Para editar um documento no aplicativo da área de trabalho, você precisa de uma licença do pacote da área de trabalho do Office, como uma assinatura do Office 365 ProPlus ou de uma versão instalada do Office Professional Plus 2010. 
+> Quando você abre um documento do Office, como um anexo de email do Outlook ou de uma biblioteca de documentos do SharePoint, o documento será iniciado no Office para a Web e será somente leitura. Para editar um documento no Office para a Web (modo de edição), você precisa de uma licença do pacote, como o Office 365 Enterprise E1. Para editar um documento no aplicativo de área de trabalho, você precisa de uma licença do pacote de área de trabalho do Office, como uma assinatura do Microsoft 365 para o Enterprise ou uma versão instalada do Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 

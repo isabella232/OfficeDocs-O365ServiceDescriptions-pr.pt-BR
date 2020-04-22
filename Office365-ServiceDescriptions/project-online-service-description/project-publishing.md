@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Os recursos de interoperabilidade do SharePoint e do Skype for Business a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: c0d1f8d471a9841306a0d35edfd546179185c23b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687799"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638910"
 ---
 # <a name="project-publishing"></a>Publicação de projetos
 
@@ -51,6 +51,6 @@ Após parear seu projeto inicialmente com uma lista de tarefas do SharePoint, vo
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
   
 

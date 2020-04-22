@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Os recursos de grupo a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: d362905170141d3bd838b342971816168821106e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 873698fbe21f1be210fb89271bce0365ea4e69a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263173"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640049"
 ---
 # <a name="group-features-in-yammer"></a>Recursos de grupo no Yammer
 
 Os recursos de grupo a seguir estão disponíveis no Yammer.
   
-## <a name="announcements"></a>Comunicados
+## <a name="announcements"></a>Announcements
 
 Compartilhe um anúncio com um grupo para notificar os membros de atualizações importantes instantaneamente. Os administradores podem fixar comunicados a um grupo para fácil descoberta.
   
@@ -37,5 +37,5 @@ Adicionar e priorizar grupos relacionados àqueles que você já ingressou para 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Yammer](yammer-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte a [Descrição do serviço do Yammer](yammer-service-description.md).
   

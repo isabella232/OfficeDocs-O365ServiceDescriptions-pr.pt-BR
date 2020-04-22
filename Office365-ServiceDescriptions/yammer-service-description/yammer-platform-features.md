@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Os recursos a seguir da plataforma Yammer estão disponíveis no Yammer.
-ms.openlocfilehash: bbae95e2284cac39e8e4bbfbb08faeac5c4b3fad
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 25d579b08716b91dce1a3973c72f4d9b28432c53
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687745"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638669"
 ---
 # <a name="yammer-platform-features"></a>Recursos da plataforma Yammer
 
@@ -45,6 +45,6 @@ Adicione o botão de logon a seus aplicativos de negócios para que os usuários
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Yammer](yammer-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte a [Descrição do serviço do Yammer](yammer-service-description.md).
   
 

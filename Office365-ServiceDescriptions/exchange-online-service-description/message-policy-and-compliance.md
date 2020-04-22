@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 03f282d6458c763fc362d2ea680d12f4cf5e2861
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 4d81cef3f2b3edefe21e40b0cde6a6edcc0fc1af
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687773"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638912"
 ---
 # <a name="message-policy-and-compliance"></a>Política e conformidade de mensagens
 
@@ -73,11 +73,11 @@ Confira mais informações em [Marcas e políticas de retenção](https://docs.m
   
 ## <a name="encryption-of-data-at-rest"></a>Criptografia de dados em repouso
 
-A criptografia de dados do cliente do Office 365 em repouso é fornecida por várias tecnologias do lado do serviço, incluindo BitLocker, DKM, criptografia do serviço de armazenamento do Azure e criptografia de serviço no Exchange Online, Skype for Business, OneDrive for Business e SharePoint Modo. A criptografia de serviço do Office 365 inclui uma opção para usar chaves de criptografia gerenciadas pelo cliente armazenadas no Azure Key Vault. Essa opção de chave gerenciada pelo cliente, chamada de [chave do cliente do Office 365](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697), está disponível para o Exchange Online, o SharePoint Online e o onedrive for Business. 
+A criptografia de dados do cliente em repouso é fornecida por várias tecnologias do lado do serviço, incluindo BitLocker, DKM, criptografia do serviço de armazenamento do Azure e criptografia de serviço no Exchange Online, Skype for Business, OneDrive for Business e SharePoint Online. A criptografia de serviço do Office 365 inclui uma opção para usar chaves de criptografia gerenciadas pelo cliente armazenadas no Azure Key Vault. Essa opção de chave gerenciada pelo cliente, chamada de [chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697), está disponível para o Exchange Online, o SharePoint Online e o onedrive for Business. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Os servidores do Office 365 usam o BitLocker para criptografar as unidades de disco que contêm os dados do cliente em repouso no nível do volume. A criptografia BitLocker é um recurso de proteção de dados interno do Windows. O BitLocker é uma das tecnologias usadas para proteger contra ameaças caso haja interrupções em outros processos ou controles (por exemplo, controle de acesso ou reciclagem de hardware) que podem levar a alguém obtendo acesso físico a discos que contêm dados do cliente. Nesse caso, o BitLocker elimina a possibilidade de roubo de dados ou exposição por causa de computadores e discos perdidos, roubados ou indevidamente descomissionados. 
+Os servidores da Microsoft usam o BitLocker para criptografar as unidades de disco que contêm os dados do cliente em repouso no nível do volume. A criptografia BitLocker é um recurso de proteção de dados interno do Windows. O BitLocker é uma das tecnologias usadas para proteger contra ameaças caso haja interrupções em outros processos ou controles (por exemplo, controle de acesso ou reciclagem de hardware) que podem levar a alguém obtendo acesso físico a discos que contêm dados do cliente. Nesse caso, o BitLocker elimina a possibilidade de roubo de dados ou exposição por causa de computadores e discos perdidos, roubados ou indevidamente descomissionados. 
   
 ### <a name="distributed-key-manager"></a>Distributed Key Manager
 
@@ -85,13 +85,13 @@ Além do BitLocker, usamos uma tecnologia chamada DKM (Distributed Key Manager).
   
 ## <a name="customer-key"></a>Chave de Cliente
 
-Com a chave do cliente, você controla as chaves de criptografia da sua organização e, em seguida, configura o Office 365 para usá-las para criptografar seus dados em repouso nos data centers da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business que são armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. Para obter mais informações, consulte [controle de dados no Office 365 usando chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) e [criptografia de serviço com a chave do cliente para o Office 365 perguntas frequentes](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
+Com a chave do cliente, você controla as chaves de criptografia da organização e as configura para criptografar seus dados em repouso nos datacenters da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business que são armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. Para obter mais informações, consulte [controle dos dados no usando a chave do cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) e [a criptografia de serviço com as principais perguntas frequentes do cliente](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
   
 ## <a name="office-365-message-encryption"></a>Criptografia de Mensagem do Office 365
 
 A criptografia de mensagem do Office 365 permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Anunciamos novos recursos na criptografia de mensagens do Office que aproveitam os recursos de proteção na criptografia de informações do Azure. Esses novos recursos forneciam experiências aprimoradas do usuário final que facilitam o compartilhamento e a colaboração em mensagens protegidas com qualquer pessoa dentro ou fora da organização. Os novos recursos de criptografia de mensagens do Office possuem alguns requisitos de configuração. Confira configurar os novos recursos de criptografia de mensagem do Office 365 criados sobre a proteção de informações do Azure. Os clientes da criptografia de mensagens herdadas do Office 365 não obtêm os novos recursos sem seguir a orientação de configuração fornecida acima. Leia as [perguntas frequentes](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) para obter mais detalhes sobre o que está incluído nos novos recursos do vs. legacy Office 365 Message Encryption. 
 
-A criptografia de mensagem avançada do Office 365 fornece proteção adicional, permitindo a expiração e revogação de mensagens.  Você também pode criar vários modelos para emails criptografados provenientes da sua organização.  A criptografia de mensagem avançada está incluída no Microsoft 365 e5, Office 365 e5, Microsoft 365 E5 (precificação de pessoas sem fins lucrativos), Office 365 Enterprise E5 (precificação de pessoal sem fins lucrativos) ou Office 365 Education. Se sua organização tiver uma assinatura do Office 365 que não inclua a criptografia de mensagem avançada do Office 365, você poderá adquirir a conformidade do Microsoft 365 E5 ou a SKU de conformidade avançada do Office 365 como um complemento.
+A criptografia de mensagem avançada do Office 365 fornece proteção adicional, permitindo a expiração e revogação de mensagens.  Você também pode criar vários modelos para emails criptografados provenientes da sua organização.  A criptografia de mensagem avançada está incluída no Microsoft 365 e5, Office 365 e5, Microsoft 365 E5 (precificação de pessoas sem fins lucrativos), Office 365 Enterprise E5 (precificação de pessoal sem fins lucrativos) ou Office 365 Education. Se sua organização tem uma assinatura que não inclui a criptografia de mensagem avançada do Office 365, você pode comprar o Microsoft 365 E5 conformidade ou a SKU de conformidade avançada do Office 365 como um complemento.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extensions)
 
@@ -219,6 +219,6 @@ Confira mais informações sobre o registro no diário em [Registro no diário](
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

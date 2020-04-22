@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Use o OneNote para a Web (anteriormente chamado OneNote Web App) para fazer anotações online em um bloco de anotações do OneNote que você pode adicionar de qualquer lugar e compartilhar facilmente com outras pessoas. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Use o OneNote para a Web (anteriormente chamado OneNote Web App) para fazer anotações online em um bloco de anotações do OneNote que você pode adicionar de qualquer lugar e compartilhar facilmente com outras pessoas. Todos os clientes podem exibir e editar levemente arquivos do Office usando o Office para a Web.
+ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545764"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640219"
 ---
 # <a name="onenote-for-the-web"></a>OneNote para a Web
 
-Use o OneNote para a Web (anteriormente chamado OneNote Web App) para fazer anotações online em um bloco de anotações do OneNote que você pode adicionar de qualquer lugar e compartilhar facilmente com outras pessoas. Todos os clientes do Office 365 podem exibir e editar levemente arquivos do Office usando o Office para a Web. 
+Use o OneNote para a Web (anteriormente chamado OneNote Web App) para fazer anotações online em um bloco de anotações do OneNote que você pode adicionar de qualquer lugar e compartilhar facilmente com outras pessoas. Todos os clientes podem exibir e editar levemente arquivos do Office usando o Office para a Web. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 
@@ -122,7 +122,7 @@ Com o OneNote para a Web, você pode alterar o alinhamento do parágrafo, aument
 
 Com o OneNote para a Web, você pode inserir uma imagem de um arquivo ou de imagens do Bing. Você também pode redimensionar imagens e adicionar um texto alternativo. Para recursos de imagens mais avançados, como recortes da tela, imagens digitalizadas ou imagens online, você precisará usar o aplicativo da área de trabalho OneNote. Saiba mais sobre as [diferenças de uso de um bloco de anotações no navegador e no aplicativo da área de trabalho OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="print"></a>Print
+## <a name="print"></a>Imprimir
 
 Você pode imprimir anotações no OneNote para a Web.
   
@@ -176,6 +176,6 @@ Com o OneNote para a Web, você pode exibir e restaurar versões de página ante
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, confira [Office para a descrição do serviço Web](office-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Office para a descrição do serviço Web](office-online-service-description.md).
   
 

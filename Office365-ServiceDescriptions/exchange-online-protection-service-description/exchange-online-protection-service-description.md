@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obter informações sobre recursos e requisitos para o Exchange Online Protection. Incluído é uma lista de planos que fornecem proteção do Exchange Online, bem como uma comparação de recursos entre esses planos.
-ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260916"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640169"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrição do serviço do Exchange Online Protection
 
@@ -33,7 +33,7 @@ A lista a seguir descreve as principais maneiras de usar o EOP para proteção d
 
 - **Em uma implantação híbrida: o**EOP pode ser configurado para proteger seu ambiente de mensagens e controlar o roteamento de email quando você tem uma combinação de caixas de correio locais e em nuvem.
 
-Para comparar os recursos entre os planos, confira [Comparar planos do Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Para comparar recursos entre planos, confira [Compare Microsoft 365 for Business Plans](https://products.office.com/business/compare-more-office-365-for-business-plans).
 
 Para comprar o Proteção do Exchange Online, confira [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -42,7 +42,7 @@ Para comprar o Proteção do Exchange Online, confira [Exchange Online Protectio
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Novidades no Exchange Online Protection (EOP)
 
-O [Roteiro do Office 365 para empresas](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) é um bom recurso para descobrir informações sobre os novos recursos que estão por vir.
+O [mapa do Microsoft 365 for Business](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) é um bom recurso para encontrar informações sobre os novos recursos do futuro.
 
 ## <a name="exchange-online-protection-eop-plans"></a>Planos do Exchange Online Protection (EOP)
 
@@ -101,7 +101,7 @@ Cada recurso é listado abaixo. Para obter informações mais detalhadas sobre o
 |[Quarentena](anti-spam-and-anti-malware-protection-eop.md#quarantine): autogerenciamento de usuário final|Sim|Sim|Sim|
 |[Suplemento de mensagem de relatório para o Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Sim|Sim|Sim|
 |[Relatórios de lixo eletrônico no Outlook na Web](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Sim|Sim|Sim|
-|[Direcionar os emails entre seus próprios servidores de email e o Office 365](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Sim|Sim|Sim|
+|[Rotear email entre a Microsoft e seus próprios servidores de email](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sim|Sim|Sim|
 |[Mensagens seguras com um parceiro confiável](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sim|Sim|Sim|
 |[Lista segura de endereço IP de um parceiro](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sim|Sim|Sim|
 |[Roteamento de email condicional](mail-flow-eop.md#conditional-mail-routing)|Sim|Sim|Sim|

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
-ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687771"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639669"
 ---
 # <a name="office-applications"></a>Aplicativos do Office
 
 O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
   
-Para os requisitos de sistema do Office 365, o serviço mensal baseado em assinatura disponível para organizações de negócios, educacionais e governamentais, confira [requisitos de sistema do Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
+Para os requisitos do sistema, o serviço mensal baseado em assinatura disponível para organizações de negócios, educacionais e governamentais, consulte [requisitos de sistema do Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -69,15 +69,15 @@ Alguns aplicativos do Office, como Excel e Word, têm blocos fixados na tela ini
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-O Office Mobile para iPad e iPhone inclui seus aplicativos favoritos do Office, como o Word para iPad/iPhone, Excel para iPad/iPhone e PowerPoint para iPad/iPhone. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis do Office 365, você pode criar e editar documentos no seu iPad ou iPhone. Para obter mais informações, consulte [configurar aplicativos do Office e email em dispositivos IOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
+O Office Mobile para iPad e iPhone inclui seus aplicativos favoritos do Office, como o Word para iPad/iPhone, Excel para iPad/iPhone e PowerPoint para iPad/iPhone. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis, você pode criar e editar documentos no seu iPad ou iPhone. Para obter mais informações, consulte [configurar aplicativos do Office e email em dispositivos IOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-O Office Mobile para Android inclui seus aplicativos favoritos do Office, como o Word para Android, o Excel para Android e o PowerPoint para Android. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis do Office 365, você pode criar e editar documentos no seus dispositivos Android. Para obter mais informações, consulte [configurar aplicativos do Office e email no Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
+O Office Mobile para Android inclui seus aplicativos favoritos do Office, como o Word para Android, o Excel para Android e o PowerPoint para Android. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis, você pode criar e editar documentos em seus dispositivos Android. Para obter mais informações, consulte [configurar aplicativos do Office e email no Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-O Office Mobile para Windows Phone inclui seus aplicativos favoritos do Office, como o Word para Windows Phone, o Excel para Windows Phone e o PowerPoint para Windows Phone. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis do Office 365, você pode criar e editar documentos no seu Windows Phone. Para obter mais informações, consulte [configurar aplicativos do Office e email no Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
+O Office Mobile para Windows Phone inclui seus aplicativos favoritos do Office, como o Word para Windows Phone, o Excel para Windows Phone e o PowerPoint para Windows Phone. Os aplicativos estão disponíveis para download gratuito e, com os planos aplicáveis, você pode criar e editar documentos no seu Windows Phone. Para obter mais informações, consulte [configurar aplicativos do Office e email no Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-for-windows-10-mobile"></a>Office para Windows 10 Mobile
 
@@ -85,5 +85,5 @@ Os aplicativos móveis do Office para Windows 10 são otimizados para toque e te
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de aplicativos do Office](office-applications-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de aplicativos do Office](office-applications-service-description.md).
   

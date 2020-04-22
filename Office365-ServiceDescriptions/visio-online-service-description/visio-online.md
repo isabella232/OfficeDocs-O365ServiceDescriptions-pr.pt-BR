@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: O Visio para a Web estende sua experiência do Microsoft Visio ao navegador, onde você pode criar e editar diagramas salvos na nuvem. Os clientes do Microsoft Office 365 podem exibir, imprimir e compartilhar diagramas e inserir comentários em qualquer lugar.
-ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: O Visio para a Web estende sua experiência do Microsoft Visio ao navegador, onde você pode criar e editar diagramas salvos na nuvem. Os clientes do Microsoft 365 podem exibir, imprimir e compartilhar diagramas e inserir comentários em qualquer lugar.
+ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687753"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640089"
 ---
 # <a name="visio-for-the-web"></a>Visio para a Web
 
-O Visio para a Web estende sua experiência do Microsoft Visio ao navegador, onde você pode criar e editar diagramas salvos na nuvem. Os clientes do Microsoft Office 365 podem exibir, imprimir e compartilhar diagramas e inserir comentários em qualquer lugar. Se você tiver uma assinatura do Visio, poderá usar recursos adicionais, como os descritos nas seções a seguir.
+O Visio para a Web estende sua experiência do Microsoft Visio ao navegador, onde você pode criar e editar diagramas salvos na nuvem. Os clientes do Microsoft 365 podem exibir, imprimir e compartilhar diagramas e inserir comentários em qualquer lugar. Se você tiver uma assinatura do Visio, poderá usar recursos adicionais, como os descritos nas seções a seguir.
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>Aplicar formatação avançada a texto e formas
 

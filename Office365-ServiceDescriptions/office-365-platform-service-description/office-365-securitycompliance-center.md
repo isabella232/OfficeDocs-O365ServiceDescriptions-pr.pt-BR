@@ -1,5 +1,5 @@
 ---
-title: Centro de Conformidade e Segurança do Office 365
+title: Centro de Conformidade e Segurança
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: O centro de conformidade &amp; de segurança do Office 365 foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+description: O centro &amp; de conformidade de segurança foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
+ms.openlocfilehash: a63a6b925ca65438a8a760e502e0cc777f354387
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109431"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639679"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
+# <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-O [centro de conformidade &amp; de segurança do Office 365](https://protection.office.com/) foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+O [Centro &amp; de conformidade de segurança](https://protection.office.com/) foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
@@ -30,7 +30,7 @@ Para ver as opções de licenciamento dos seus usuários para obter os benefíci
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Recurso**  |**Office 365 Business Essentials**  |**Office 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 governo dos EUA G1**  |**Office 365 Enterprise E3**, **Office 365 governo dos EUA G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 governo dos EUA F3**|
+|**Recurso**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Office 365 Enterprise E1**, **Office 365 governo dos EUA G1**  |**Office 365 Enterprise E3**, **Office 365 governo dos EUA G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 governo dos EUA F3**|
 |[Acesso ao centro de &amp; conformidade de segurança](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Não   |Não   |Não|Não   |Sim   |Não   |
 |[Gerenciamento de ameaças](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtragem de mensagens e anti-malware |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
@@ -56,7 +56,7 @@ Para ver as opções de licenciamento dos seus usuários para obter os benefíci
 |[Criptografia de Mensagens do Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Criptografia de Mensagem Avançada do 365 Office](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Gerenciamento de acesso privilegiado](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Chave de cliente do Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Não   |Não   |Não   |Não   |Sim   |Não   |
+|[Chave de Cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Não   |Não   |Não   |Não   |Sim   |Não   |
 ||||||||
 
 <sup>1</sup> o controle de informações permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede.
@@ -108,7 +108,7 @@ limite de <sup>3</sup> a 50 GB.
 |[Descoberta eletrônica avançada](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Não   |Não   |Não   |Não   |Não   |Não   |Não   |Não   |Não   |
 |[Arquivamento](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |Não   |Sim   |Não   |Sim   |Sim   |Sim<sup>10</sup> |Sim<sup>10</sup>  |Não   |Não   |
 |[Auditoria unificada](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|Sim|Sim|Sim|Sim|Sim|Sim<sup>10</sup>|Sim<sup>10</sup>|Não|Não|
-|Auditoria avançada|Não|Não|Não|Não|Não|Não|Não|Não|Não|
+|Auditoria Avançada|Não|Não|Não|Não|Não|Não|Não|Não|Não|
 |[Conformidade de comunicação (políticas de supervisão)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Não   |Não   |Não   |Não   |Não   |Não   |Não   |Não   |Não   |
 |[Criptografia de Mensagens do Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Não   |Não   |Não   |Não   |Sim   |Não   |Não|Não|Não|
 |[Criptografia de Mensagem Avançada do 365 Office](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Não   |Não   |Não   |Não   |Sim   |Não   |Não|Não|Não|

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: As seções a seguir descrevem os recursos de arquivamento do arquivamento do Microsoft Exchange Online.
-ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: cc4b6cb6f0aa817f3b0369f2bf3517fd480a11e8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987573"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639829"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Recursos de arquivamento no arquivamento do Exchange Online
 
@@ -68,7 +68,7 @@ Se um usuário tiver removido manualmente um item da pasta Itens recuperáveis, 
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperação da caixa de correio excluída
 
-Quando os administradores excluem os usuários do Exchange Server local, os arquivamentos dos usuários também serão excluídos. Se as caixas de correio de arquivamento excluídas precisarem ser recuperadas, a equipe de suporte do Office 365 poderá fazer essa recuperação. Um arquivamento recuperado conterá todos os e-mails armazenados no momento em que foi excluído.
+Quando os administradores excluem os usuários do Exchange Server local, os arquivamentos dos usuários também serão excluídos. Se as caixas de correio de arquivo morto excluídas precisarem ser recuperadas, a equipe de suporte da Microsoft poderá realizar essa recuperação. Um arquivamento recuperado conterá todos os e-mails armazenados no momento em que foi excluído.
   
 > [!IMPORTANT]
 > Os administradores têm 30 dias a partir do momento em que a caixa de correio de um usuário é apagada para solicitar uma recuperação da caixa de correio de arquivamento. Após 30 dias, a caixa de correio de arquivamento não poderá ser recuperada. 
@@ -79,5 +79,5 @@ As caixas de correio de arquivamento no Arquivamento do Exchange Online são rep
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
   

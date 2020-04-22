@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 30d1c68976bf450a87ace792af0b219b0fce21d4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262734"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639959"
 ---
 # <a name="planning-and-deployment"></a>Planejamento e implantação
 
@@ -86,7 +86,7 @@ O Exchange Online oferece uma ferramenta com base na web para migrar dados dos a
     
 4. Após a conclusão da migração inicial, quaisquer mudanças serão sincronizadas com a nuvem a cada 24 horas, até que o administrador pare ou exclua o lote de migração.
     
-Para alternar usuários para suas caixas de correio da nuvem, os administradores configuram seu registro MX para apontar para o Office 365 e reconfigurar os perfis dos usuários no Outlook. Quando os usuários alternam para suas caixas de correio da nuvem, suas pastas offline locais (arquivos .ost) serão sincronizadas novamente, resultando no download do email migrado para a estação de trabalho do cliente. Os usuários podem responder às mensagens antigas em suas caixas de correio após a migração.
+Para mudar os usuários para suas caixas de correio de nuvem, os administradores configuram seu registro MX para apontar para a Microsoft e reconfigurar os perfis dos usuários no Outlook. Quando os usuários alternam para suas caixas de correio da nuvem, suas pastas offline locais (arquivos .ost) serão sincronizadas novamente, resultando no download do email migrado para a estação de trabalho do cliente. Os usuários podem responder às mensagens antigas em suas caixas de correio após a migração.
   
 Para saber mais sobre uma migração de substituição do Exchange migration, consulte [O que você precisa saber sobre uma migração de substituição de email para o Office 365](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da).
   
@@ -136,6 +136,6 @@ A Microsoft oferece diversas ferramentas para ajudar na migração de um ambient
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

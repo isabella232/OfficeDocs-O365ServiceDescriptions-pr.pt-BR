@@ -11,23 +11,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
-description: O Microsoft Office 365 oferece suporte aos recursos de rede a seguir.
-ms.openlocfilehash: f2343872faac2b1b289c37b8dc91240fa030482d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: A Microsoft oferece suporte aos recursos de rede a seguir.
+ms.openlocfilehash: 62a474c9fe0161f7b4d876d8ca462e6bfe5e962d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262894"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639759"
 ---
-# <a name="networking"></a>Sistema de rede
+# <a name="networking"></a>Rede
 
-O Microsoft Office 365 oferece suporte aos recursos de rede a seguir.
+A Microsoft oferece suporte aos recursos de rede a seguir.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Portas, protocolos e endereços IP
 
-O Office 365 usa endereços IPv4 e IPv6. O uso de endereçamento IPv6 é opcional e não é obrigatório para estabelecer conexão com o Office 365. Nem todos os recursos do Office 365 estão plenamente habilitados para uso com IPv6. Para saber mais sobre suporte a IPv6 no Office 365, confira [Suporte a IPv6 nos serviços do Office 365](https://docs.microsoft.com/office365/enterprise/ipv6-support).
+A Microsoft usa endereços IPv4 e IPv6. O uso de endereçamento IPv6 é opcional e não é obrigatório para estabelecer conexão com o Office 365. Nem todos os recursos do Microsoft 365 estão totalmente habilitados usando IPv6. Para obter mais informações sobre o suporte a IPv6, confira [suporte a IPv6 nos serviços Microsoft](https://docs.microsoft.com/office365/enterprise/ipv6-support).
   
-O Office 365 mantém uma lista de endereços IP permitidos na Ajuda do Office 365. Para saber mais, confira [URLs e intervalos de endereços IP do Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges). No caso do Office 365 operado pela 21Vianet, confira [URLs e endereços IP para o Office 365 operado pela 21Vianet](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints). Em relação ao Office 365 Germany, confira [Pontos de extremidade do Office 365 Germany](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
+A Microsoft mantém uma lista de endereços IP permitidos na ajuda da Microsoft. Para obter mais informações, consulte [URLs e intervalos de endereços IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges). No caso do Office 365 operado pela 21Vianet, confira [URLs e endereços IP para o Office 365 operado pela 21Vianet](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints). Em relação ao Office 365 Germany, confira [Pontos de extremidade do Office 365 Germany](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
 > [!IMPORTANT]
 > Nós recomendamos enfaticamente que você habilite o roteamento para os nomes de domínio raiz listados acima (como \*.Outlook.com, \*.MicrosoftOnline.com e \*.SharePoint.com) em vez de fazer o roteamento para sub-redes de endereços IP específicos. A dependência de sub-redes de endereço IP apresenta o risco de falhas para seus usuários à medida que as alterações são feitas. 
@@ -36,9 +36,9 @@ O Office 365 mantém uma lista de endereços IP permitidos na Ajuda do Office 36
 
 Para saber mais sobre os requisitos de largura de banda, confira o artigo [Planejamento de rede e ajuste de desempenho do Office 365](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance).
   
-## <a name="connecting-to-office-365"></a>Conectando-se ao Office 365
+## <a name="connecting-to-microsoft"></a>Conexão com a Microsoft
 
-Todas as conexões com o Office 365 são feitas por meio da Internet pública ou por uma conexão expressa do Azure e privada, e são protegidas por SSL, conforme apropriado. O Azure ExpressRoute permite a conexão direta com a rede global da Microsoft, ignorando a Internet. Um parceiro de rede da Microsoft fornece a conectividade com a rede global da Microsoft.
+Todas as conexões com a Microsoft são realizadas pela Internet pública ou por uma conexão expressa do Azure para o Azure e são protegidas por SSL, conforme apropriado. O Azure ExpressRoute permite a conexão direta com a rede global da Microsoft, ignorando a Internet. Um parceiro de rede da Microsoft fornece a conectividade com a rede global da Microsoft.
   
 Para saber mais sobre o Azure ExpressRoute, confira [Azure ExpressRoute para Office 365.](https://aka.ms/expressrouteoffice365)
   
@@ -48,9 +48,9 @@ A Microsoft não fornece suporte para dispositivos de aceleração de WAN e cach
   
 ## <a name="the-global-microsoft-network"></a>A rede global de Microsoft
 
-A infraestrutura de rede do Office 365 é composta por um grande portfólio global de datacenters, servidores, redes de distribuição de conteúdo, nós de computação de borda e redes de fibra óptica para oferecer uma distribuição global de serviços. Instrumentação e monitoramento de serviços sofisticados se integram aos níveis mais profundos com cada componente, oferecendo visibilidade no datacenter, backbone de rede, trocas de internet e muito mais para ajudar a localizar, diagnosticar e gerenciar a causa das interrupções que surgirem. A rede é construída para manter a capacidade suficiente, mesmo para interrupções de rede em larga escala, sem degradação de desempenho. Para obter mais informações, consulte [Microsoft Global Network](https://docs.microsoft.com/azure/networking/microsoft-global-network). 
+A infraestrutura de rede da Microsoft é composta por um amplo portfólio global de data centers, servidores, redes de distribuição de conteúdo, nós de computação de borda e redes de fibra ótica para fornecer distribuição global de serviços. Instrumentação e monitoramento de serviços sofisticados se integram aos níveis mais profundos com cada componente, oferecendo visibilidade no datacenter, backbone de rede, trocas de internet e muito mais para ajudar a localizar, diagnosticar e gerenciar a causa das interrupções que surgirem. A rede é construída para manter a capacidade suficiente, mesmo para interrupções de rede em larga escala, sem degradação de desempenho. Para obter mais informações, consulte [Microsoft Global Network](https://docs.microsoft.com/azure/networking/microsoft-global-network). 
   
-Para manter a confidencialidade e a integridade dos dados do cliente, a Microsoft mantém as redes de serviços ao consumidor separadas das redes do Office 365. Várias técnicas são usadas para controlar fluxos de informações, incluindo, mas não limitadas a:
+Para manter a confidencialidade e integridade dos dados do cliente, a Microsoft mantém as redes de serviços de consumidor separadas das redes Microsoft. Várias técnicas são usadas para controlar fluxos de informações, incluindo, mas não limitadas a:
   
 - Separação física. Os segmentos de rede são fisicamente separados por roteadores que são configurados para evitar padrões de comunicação específicos.
     
@@ -64,6 +64,6 @@ Para saber mais, visite a [Central de Confiabilidade do Office 365](https://www.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, consulte [Descrição do serviço da plataforma do Office 365](office-365-platform-service-description.md).
   
 

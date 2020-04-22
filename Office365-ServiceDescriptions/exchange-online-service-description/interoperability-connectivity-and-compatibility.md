@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262654"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639989"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidade, conectividade e compatibilidade
 
@@ -36,7 +36,7 @@ Para saber mais sobre como configurar o Skype for Business Server 2015 com o Exc
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Para os clientes que implantaram o Microsoft SharePoint Server ou o SharePoint Online, como parte de um plano de assinatura do Office 365, o SharePoint pode conectar-se ao Exchange Online para serviços integrados.
+Para clientes que implantaram o Microsoft SharePoint Server ou o SharePoint Online como parte de um plano de assinatura, o SharePoint pode se conectar ao Exchange Online para serviços integrados.
   
 Para saber mais sobre conectar o SharePoint ao Exchange Online, confira [Utilizar o SharePoint Online em um domínio personalizado junto com outros serviços](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -58,6 +58,6 @@ O Exchange Online pode ser usado como um serviço de entrega SMTP, para retransm
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

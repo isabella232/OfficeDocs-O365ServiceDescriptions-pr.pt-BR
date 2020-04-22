@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Os recursos de planejamento de projeto a seguir estão disponíveis no Project online.
-ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546024"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640199"
 ---
 # <a name="project-planning"></a>Planejamento de projeto
 
@@ -63,5 +63,5 @@ Use um modo de exibição que mostre as pessoas e as suas atribuições.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
   

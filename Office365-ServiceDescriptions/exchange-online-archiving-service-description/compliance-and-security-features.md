@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093558"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638689"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Recursos de conformidade e segurança no arquivamento do Exchange Online
 
@@ -24,7 +24,7 @@ ms.locfileid: "43093558"
 
 As seções a seguir descrevem os recursos de conformidade do Microsoft Arquivamento do Exchange Online.
   
-### <a name="retention-policies"></a>Diretivas de retenção
+### <a name="retention-policies"></a>Políticas de retenção
 
 O Arquivamento do Exchange Online oferece políticas de retenção para ajudar as organizações a reduzir as obrigações associadas ao email e a outros meios de comunicação. Com essas políticas, os administradores podem aplicar configurações de retenção a pastas específicas nas caixas de entrada dos usuários. Os administradores também podem fornecer aos usuários um menu de políticas de retenção e permitir que eles apliquem as políticas a itens específicos, conversas ou pastas usando o Outlook 2010 ou posterior ou o Outlook na Web. No Arquivamento do Exchange Online, os administradores gerenciam políticas de retenção da infraestrutura no local.
   
@@ -88,7 +88,7 @@ As seções a seguir descrevem os recursos de segurança da Microsoft Arquivamen
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>Criptografia entre servidores no local e o Arquivamento do Exchange Online
 
-TLS é usado para criptografar a conexão entre servidores de email para ajudar a evitar a falsificação e fornecer confidencialidade para mensagens em trânsito. TLS é usado também para proteger o tráfego de servidor de correio electrónico no local para Office 365 centros de dados para Arquivamento do Exchange Online.
+TLS é usado para criptografar a conexão entre servidores de email para ajudar a evitar a falsificação e fornecer confidencialidade para mensagens em trânsito. O TLS também é usado para proteger o tráfego do servidor de emails no local para o arquivamento do Exchange Online.
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>Criptografia entre clientes e o Arquivamento do Exchange Online
 
@@ -130,6 +130,6 @@ Auditoria de administrador consta do registro por padrão e auditoria de caixa d
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de arquivamento do Exchange Online](exchange-online-archiving-service-description.md).
   
 

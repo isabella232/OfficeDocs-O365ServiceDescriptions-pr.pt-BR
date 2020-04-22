@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Saiba mais sobre os limites do SharePoint para o Office 365 e planos autônomos.
-ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Saiba mais sobre os limites do SharePoint para o Microsoft 365 e planos autônomos.
+ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609972"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638911"
 ---
 # <a name="sharepoint-limits"></a>Limites do SharePoint
 
@@ -24,7 +24,7 @@ Saiba mais sobre os limites de serviço no SharePoint para o Microsoft 365.
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Office 365 Business Essentials ou Business Premium** <br/> |**Office 365 Enterprise E1, E3 ou e5, ou SharePoint plano 1 ou 2** <br/> | **Office 365 Enterprise F3** <br/> |
+|**Recurso** <br/> |**Microsoft 365 Business Basic ou Business Premium** <br/> |**Office 365 Enterprise E1, E3 ou e5, ou SharePoint plano 1 ou 2** <br/> | **Office 365 Enterprise F3** <br/> |
 |Armazenamento total por organização<sup>1, 2, 6</sup> <br/> |1 TB mais 10 GB por licença adquirida  <br/> |1 TB mais 10 GB por licença adquirida<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Armazenamento máximo por site (conjunto de sites)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Sites (conjuntos de sites) por organização  <br/> |2 milhões<sup>6</sup> <br/> |2 milhões<sup>6</sup> <br/> |2 milhões<br/> |
@@ -32,7 +32,7 @@ Saiba mais sobre os limites de serviço no SharePoint para o Microsoft 365.
    
 <sup>1</sup> [saiba como encontrar o armazenamento total e disponível para sua organização](/sharepoint/manage-site-collection-storage-limits). Você pode adquirir uma quantidade ilimitada de armazenamento adicional do SharePoint. Consulte [Alterar o espaço de armazenamento de sua assinatura](/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> Recomendamos monitorar a Lixeira e esvaziá-la regularmente. O espaço de armazenamento que ele usa faz parte do limite total de armazenamento da organização. 
-<br/> <sup>3</sup> se você tiver uma assinatura do Office 365 e um complemento de armazenamento de arquivos extra do Office 365, os valores de armazenamento serão adicionados. 
+<br/> <sup>3</sup> se você tiver uma assinatura do Microsoft 365 e um complemento de armazenamento de arquivos extra do Office 365, os valores de armazenamento serão adicionados. 
 <br/> <sup>4</sup> este é o *limite* de armazenamento para um único site (anteriormente chamado de "conjunto de sites"), não a quantidade de armazenamento *fornecida* para cada site. Este limite se aplica a todos os tipos de sites, incluindo sites de equipe conectados ao grupo do Office 365 e o OneDrive. Os administradores do SharePoint podem [definir manualmente os limites de armazenamento menores](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
 <br/> <sup>5</sup> os funcionários de primeiro lugar não podem administrar sites do SharePoint. 
 <br/> <sup>6</sup> não incluindo o onedrive criado para cada usuário licenciado. 
@@ -105,6 +105,6 @@ Um usuário pode pertencer a 5.000 grupos e cada grupo pode ter até 5.000 usuá
 > [!NOTE]
 > Não há limite para o número de convidados que você pode convidar para sites do SharePoint. Para obter mais informações sobre o compartilhamento externo, consulte [visão geral do compartilhamento externo](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Também consulte
+## <a name="see-also"></a>Confira também
 
 [Limites de pesquisa para o SharePoint](/sharepoint/search-limits)

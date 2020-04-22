@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Os recursos de gerenciamento de tarefas a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546094"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640269"
 ---
 # <a name="task-management"></a>Gerenciamento de tarefas
 
@@ -67,5 +67,5 @@ Use o modo Agendar Manualmente para agendar suas tarefas manualmente. Confira [C
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
   

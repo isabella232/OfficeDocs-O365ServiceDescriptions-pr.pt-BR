@@ -1,5 +1,5 @@
 ---
-title: Recursos de relatório e ferramentas de solução de problemas
+title: Recursos de relatórios e ferramentas de solução de problemas
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: O Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração do Exchange (Eat).
-ms.openlocfilehash: d7560a95d127731bc8354c8be73aa016ee0aecfd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: b0545d1e0b18714fa138fa085542be90711e8da2
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262704"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639949"
 ---
-# <a name="reporting-features-and-troubleshooting-tools"></a>Recursos de relatório e ferramentas de solução de problemas
+# <a name="reporting-features-and-troubleshooting-tools"></a>Recursos de relatórios e ferramentas de solução de problemas
 
 O Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração do Exchange (Eat).
   
@@ -31,9 +31,9 @@ Os clientes do Exchange Online podem acessar relatórios no centro de administra
 
 Há relatórios na página relatórios no centro de administração do Microsoft 365 que fornecem informações resumidas sobre caixas de correio e grupos. Por exemplo, um relatório lista o número de grupos criados e excluídos por dia, semana, mês ou ano. Há também relatórios resumidos de caixas de correio novas e excluídas e caixas de correio ativas e inativas. 
   
-Além disso, a página de relatórios no centro de administração do Microsoft 365 contém relatórios de dados de mensagens, que fornecem informações sobre o tráfego de mensagens, detecções de spam e malware e mensagens afetadas pelas regras de transporte do Exchange ou pela DLP (prevenção contra perda de dados) Diretrizes. Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do Exchange Online. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
+Além disso, a página de relatórios no centro de administração do Microsoft 365 contém relatórios de dados de mensagens, que fornecem informações sobre o tráfego de mensagens, detecções de spam e malware e mensagens afetadas pelas regras de transporte do Exchange ou políticas de DLP (prevenção contra perda de dados). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do Exchange Online. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
   
-Para saber mais sobre quais relatórios estão disponíveis com cada assinatura do Office 365, confira [Relatórios](../office-365-platform-service-description/reports.md). Para obter informações mais detalhadas sobre a página de relatórios no centro de administração do Microsoft 365, consulte [Exibir e baixar relatórios sobre o uso do serviço no office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) e [usar relatórios de proteção de email no Office 365 para exibir dados sobre detecções de malware, spam e de regra](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Para obter mais informações sobre quais relatórios estão disponíveis em cada assinatura, consulte [reports](../office-365-platform-service-description/reports.md). Para obter informações mais detalhadas sobre a página de relatórios no centro de administração do Microsoft 365, consulte [Exibir e baixar relatórios sobre o uso do serviço no Office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) e [usar relatórios de proteção de email para exibir dados sobre detecções de malware, spam e de regra](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Relatórios usando a pasta de trabalho de relatório do Excel
 
@@ -72,6 +72,6 @@ Você pode usar esses relatórios para monitorar e solucionar problemas de UM (U
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
   
 

@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: O PowerPoint para a Web (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft Office 365 com o Office para a Web podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+description: O PowerPoint para a Web (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft 365 com o Office para a Web podem exibir, criar e editar arquivos em qualquer lugar.
+ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959319"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640279"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint para a Web
 
-O PowerPoint para a Web (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft Office 365 com o Office para a Web podem exibir, criar e editar arquivos em qualquer lugar.
+O PowerPoint para a Web (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft 365 com o Office para a Web podem exibir, criar e editar arquivos em qualquer lugar.
   
 O editor do PowerPoint é um componente front-end da Web que cria uma superfície de edição baseada em navegador, que permite que os usuários trabalhem em documentos sem perder a fidelidade.
   
 Se você selecionar o botão **abrir no PowerPoint** na barra de ferramentas do PowerPoint para a Web, a apresentação será aberta no aplicativo da área de trabalho do PowerPoint (se o Microsoft PowerPoint 2010 ou posterior estiver instalado no computador).
   
-Saiba como [baixar e instalar o Office usando o office 365 for Business em um computador](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
+Saiba como [baixar e instalar o Office usando o Microsoft 365 for Business em um computador](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
   
 ## <a name="alignment-bullets-numbers"></a>Alinhamento, marcadores, numeração
 
@@ -211,4 +211,4 @@ Edite sua apresentação de forma que se pareça com a forma impressa ou exibida
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, confira [Office para a descrição do serviço Web](office-online-service-description.md). 
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Office para a descrição do serviço Web](office-online-service-description.md). 

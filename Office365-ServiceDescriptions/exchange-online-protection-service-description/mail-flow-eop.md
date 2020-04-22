@@ -11,27 +11,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Hospedamos as caixas de correio e cuidamos do fluxo de emails da maioria das organizações que usam o Office 365. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. No entanto, algumas organizações têm a necessidade comercial de manter todas as caixas de correio no local. O proteção do Exchange Online (EOP) permite que você faça isso e fornece antivírus e processamento de email antispam na nuvem.
-ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Hospedamos as caixas de correio e cuidamos do fluxo de emails da maioria das organizações que usam o Office 365. É a configuração mais simples e significa que a Microsoft gerencia todas as caixas de correio e filtragem. No entanto, algumas organizações têm a necessidade comercial de manter todas as caixas de correio no local. O proteção do Exchange Online (EOP) permite que você faça isso e fornece antivírus e processamento de email antispam na nuvem.
+ms.openlocfilehash: d85ae7b22be1405679ceac8d853b345d251166b6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687768"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638909"
 ---
 # <a name="mail-floweop"></a>Fluxo de mensagens [EOP]
 
-Hospedamos as caixas de correio e cuidamos do fluxo de emails da maioria das organizações que usam o Office 365. É a configuração mais simples e significa que o Office 365 gerencia todas as caixas de correio e filtros. No entanto, algumas organizações têm a necessidade comercial de manter todas as caixas de correio no local. O proteção do Exchange Online (EOP) permite que você faça isso e fornece antivírus e processamento de email antispam na nuvem. Para mais informações e adquirir a EOP, acesse [Proteção do Exchange Online](https://products.office.com/exchange/exchange-email-security-spam-protection).
+Para a maioria das organizações que usam a Microsoft, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que a Microsoft gerencia todas as caixas de correio e filtragem. No entanto, algumas organizações têm a necessidade comercial de manter todas as caixas de correio no local. O proteção do Exchange Online (EOP) permite que você faça isso e fornece antivírus e processamento de email antispam na nuvem. Para mais informações e adquirir a EOP, acesse [Proteção do Exchange Online](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
 Procurando informações sobre o gerenciamento de domínio ou o Bloqueio de Borda Baseado em Diretório (DBEB)? Confira [Gerenciamento de destinatários, domínios e da empresa](recipient-domain-and-company-management.md). Para saber mais sobre todos os recursos do EOP, consulte a [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
   
-## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Direcionar os emails entre seus próprios servidores de email e o Office 365
+## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Rotear email entre a Microsoft e seus próprios servidores de email
 
-Você pode configurar um conector para permitir o fluxo de emails entre o Office 365 (incluindo o Exchange Online ou a EOP) e um servidor de emails baseado em SMTP, como o Exchange. Confira mais detalhes sobre isso em [Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? e [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
+Você pode configurar um conector para habilitar o fluxo de mensagens entre a Microsoft (incluindo o Exchange Online ou o EOP) e um servidor de email baseado em SMTP, como o Exchange. Confira mais detalhes sobre isso em [Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? E [Configure os conectores para rotear emails entre a Microsoft e seus próprios servidores de email](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Mensagens seguras com um parceiro confiável
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Como cliente da EOP, você configura um fluxo de emails seguro com um parceiro de confiança usando os conectores do Office 365. O Office 365 dá suporte à comunicação segura por meio de TLS (Transport Layer Security), e você cria um conector para impor criptografia por meio de TLS. O [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) é um protocolo criptográfico que oferece segurança para comunicações pela Internet. Usando conectores, você configura o TLS forçado tanto de entrada quanto de saída usando certificados autoassinados ou certificados validados pela AC (autoridade de certificação). Você também aplica outras restrições de segurança, como especificar nomes de domínio ou intervalos de endereços IP, dos quais a organização parceira envia emails. 
+Como um cliente do EOP, você pode configurar o fluxo de email seguro com um parceiro confiável usando conectores da Microsoft. A Microsoft dá suporte à comunicação segura através da Transport Layer Security (TLS) e você pode criar um conector para impor a criptografia via TLS. O [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) é um protocolo criptográfico que oferece segurança para comunicações pela Internet. Usando conectores, você configura o TLS forçado tanto de entrada quanto de saída usando certificados autoassinados ou certificados validados pela AC (autoridade de certificação). Você também aplica outras restrições de segurança, como especificar nomes de domínio ou intervalos de endereços IP, dos quais a organização parceira envia emails. 
   
 Saiba mais em [Configurar conectores para fluxo de email seguro com uma organização parceira](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)
   
@@ -53,4 +53,4 @@ O [Assistente de Implantação do Microsoft Exchange Server](https://go.microsof
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online Protection](exchange-online-protection-service-description.md).
