@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Saiba mais sobre os compromissos exclusivos e as diferenças dos ambientes do Office 365 GCC High e DoD em comparação com o ambiente comercial do Office 365.
-ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639049"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914777"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -31,7 +31,7 @@ A descrição do serviço do governo dos EUA do Office 365 foi projetada para se
 
 O GCC elevado e o DoD atendem aos requisitos de conformidade para as seguintes certificações e capacitações: 
   
-- O Programa de Gerenciamento de Autorização e Risco Federal em uma linha de base Moderada (FedRAMP Moderada), incluindo os controles de segurança e aprimoramentos de controle conforme descrito na Publicação Especial 800-53 do Instituto Nacional de Padrões e Tecnologia (NIST).
+- O programa de gerenciamento de riscos e autorização federal em FedRAMP High, incluindo esses controles de segurança e aprimoramentos de controle, conforme descrito na publicação especial da National Institute of Standards and Technology (NIST) 800-53.
     
 - Os controles de segurança e os aprimoramentos de controle para o departamento de defesa da nuvem da computação em nuvem dos Estados Unidos (SRG) para obter informações sobre o nível 5 (L5) de impacto.
     
