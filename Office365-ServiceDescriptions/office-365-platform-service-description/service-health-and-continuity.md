@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Os administradores da Microsoft podem exibir o status dos serviços e descobrir quando a manutenção é agendada. As informações de integridade do serviço estão disponíveis a qualquer momento ao entrar.
-ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
-ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
+ms.openlocfilehash: eb2368030148423301d21d7644561028b1fbcec2
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796712"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001947"
 ---
 # <a name="service-health-and-continuity"></a>Continuidade e integridade do serviço
 
@@ -86,19 +86,17 @@ O aplicativo de administração para administradores de organização fornece a 
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pacote de Gerenciamento do Office 365 para Microsoft System Center 2012 R2
 
-O Microsoft System Center é uma plataforma de gerenciamento integrada que ajuda a gerenciar o data center, os dispositivos clientes e os ambientes híbridos de TI na nuvem. Os administradores da Microsoft que usam o System Center agora têm a opção de importar o pacote de gerenciamento do Office 365, que permite exibir todas as comunicações de serviço no Operations Manager do System Center. O uso dessa ferramenta fornece acesso ao status dos seus serviços assinados, aos incidentes de serviço ativos e resolvidos e às comunicações do seu Centro de Mensagens. Saiba mais na postagem do blog [Novas ferramentas de administração do Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/). 
+O Microsoft System Center é uma plataforma de gerenciamento integrada que ajuda a gerenciar o data center, os dispositivos clientes e os ambientes híbridos de TI na nuvem. Os administradores da Microsoft que usam o System Center agora têm a opção de importar o pacote de gerenciamento do Office 365, que permite exibir todas as comunicações de serviço no Operations Manager do System Center. O uso dessa ferramenta fornece acesso ao status dos seus serviços assinados, aos incidentes de serviço ativos e resolvidos e às comunicações do seu Centro de Mensagens. Para obter mais informações, obtenha o [pacote de gerenciamento do Microsoft System Center para o Office 365](https://www.microsoft.com/download/details.aspx?id=43708) no centro de download da Microsoft. 
   
 ### <a name="office-365-service-communications-api"></a>API de Comunicações de Serviço do Office 365
 
-A API de comunicações do serviço do Office 365 permite que você acesse as comunicações do serviço da maneira desejada. Com essa nova ferramenta de administração, agora você pode criar ou conectar suas ferramentas às comunicações de serviço, simplificando o modo como você monitora o seu ambiente. A API de comunicações de serviço permite monitorar o seguinte no seu ambiente:
+A API de comunicações do serviço do Office 365 permite que você acesse as comunicações do serviço da maneira desejada. Com esta API, você tem a capacidade de criar ou conectar suas ferramentas às comunicações de serviço, simplificando o modo como você monitora o seu ambiente. A API de comunicações de serviço permite monitorar o seguinte no seu ambiente:
   
 - Integridade do serviço em tempo real
     
 - Comunicações do Centro de Mensagens
     
-- Notificações de manutenção planejada
-    
-Para obter mais informações, visite a nova postagem do blog de [ferramentas de administração](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) . 
+Para obter mais informações, consulte a [referência da API de comunicações do serviço do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference). 
   
 ## <a name="post-incident-reviews"></a>Análise de Pós-incidente
 

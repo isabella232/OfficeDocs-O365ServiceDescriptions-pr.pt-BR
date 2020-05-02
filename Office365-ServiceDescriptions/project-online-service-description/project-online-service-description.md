@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638729"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002328"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
-## <a name="overview"></a>Visão geral
+## <a name="overview"></a>Visão Geral
 
 O Microsoft Project oferece os seguintes aplicativos para ajudar a atender às necessidades da sua organização para o gerenciamento de projetos e trabalho:
 
@@ -115,11 +115,11 @@ Os recursos listados nesta seção interagem somente com dados no projeto para o
 |**Praticidade**||
 |Coautoria | Trabalhe em conjunto com participantes e membros da equipe para compilar, editar e atualizar simultaneamente listas de tarefas, cronogramas do projeto e muito mais.|
 |Indicadores gráficos | Compreenda o status da tarefa, as atribuições e muito mais com indicadores gráficos. |
-|**Movimentação**||
+|**Mobilidade**||
 |Aplicativos móveis | Criar aplicativos móveis personalizados com o PowerApps. <sup>4</sup> |
 |**Personalização e integração**||
 |PowerApps | Construa e consuma soluções para Web e móveis com o PowerApps. <sup>4</sup> |
-|Workflows | Automatize e integre processos de negócios com automatização de energia. <sup>5</sup> |
+|Fluxos de trabalho | Automatize e integre processos de negócios com automatização de energia. <sup>5</sup> |
 |Integração da Microsoft | Colaborar, gerenciar documentos e mais usando aplicativos e ferramentas da Microsoft conhecidos. <sup>1</sup> |
 |**Gerenciamento de segurança e de usuários**||
 |Grupos modernos do Office | Crie uma equipe de projeto para colaborar com o e configurar facilmente uma coleção de recursos para que os membros da equipe compartilhem.|
@@ -152,7 +152,7 @@ Os recursos listados nesta seção interagem apenas com os dados do repositório
 |Aprovações de quadro de horários | Os membros da equipe podem enviar quadros de horários para aprovação. Os gerentes de recursos e os supervisores podem revisar, aprovar e recusar quadros de horários enviados. | Sim | Sim |
 |Configuração de período de folga | Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. | Não | Sim |
 |**Colaboração** ||||
-|Anexos | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
+|Attachments | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
 |Membros externos da equipe |Colaborar com pessoas de fora de sua organização, concedendo a elas acesso para exibir e interagir com seus projetos, tarefas e documentos. <sup>6</sup> | Sim | Sim |
 |Sites de projeto | Criar e personalizar um hub para colaboração e documentos de um projeto. | Sim | Sim |
 Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim |
@@ -180,7 +180,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 |Custom fields | Adicione campos personalizados no nível do projeto, da tarefa e do recurso para rastrear os dados importantes para sua organização e seus projetos. | Sim | Sim |
 |Fórmula | Calcule e Capture dados importantes usando fórmulas entre tarefas e projetos. | Sim | Sim |
 |PowerApps | Construa e consuma soluções para Web e celular (por meio de OData) com PowerApps. <sup>4</sup> | Sim | Sim |
-|Workflows | Automatize e integre processos de negócios (por meio de OData) com automatização de energia. <sup>5</sup> | Sim | Sim |
+|Fluxos de trabalho | Automatize e integre processos de negócios (por meio de OData) com automatização de energia. <sup>5</sup> | Sim | Sim |
 |Integração com o Microsoft 365 | Colaborar, gerenciar documentos e mais usando aplicativos e ferramentas da Microsoft conhecidos. <sup>1</sup> | Sim | Sim |
 |Integração do Microsoft Planner | Conectar tarefas do projeto a um plano do Planner e acompanhar o trabalho detalhado no Planner. <sup>1</sup> | Sim | Sim |
 |**Gerenciamento de segurança, usuário e serviço**||||
@@ -193,7 +193,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 <sup>1</sup> requer uma assinatura comercial do Office ou do Microsoft 365.</br>
 <sup>2</sup> placas Azure adquiridas separadamente.</br>
 <sup>3</sup> os relatórios do Project para a Web e o Project online estão disponíveis usando o Power bi. Visualizar, editar e criar relatórios requer uma assinatura do Power BI pro. A Microsoft fornece um conjunto predefinido de relatórios do Power BI. Os usuários podem personalizar esses relatórios ou criar relatórios adicionais usando o Power BI.</br> 
-<sup>4</sup> criar aplicativos móveis personalizados do powerapps que acessam o Project para dados da Web requer uma assinatura do PowerApps e uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
+<sup>4</sup> criar e usar aplicativos móveis personalizados do powerapps que acessam o Project para dados da Web requer uma assinatura do PowerApps e uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
 <sup>5</sup> a automação e integração dos processos de negócios com a automatização de energia com o Project para os dados da Web requer uma assinatura automatizada de energia e uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
 <sup>6</sup> o licenciamento do Project online para usuários externos segue a mesma política que para usuários internos. Qualquer interação em um site do Project online requer uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
 <sup>7</sup> os usuários com um plano de projeto 3 ou uma assinatura do Project Plan 5 podem enviar solicitações de compromisso de recurso. Eles não podem revisar, cumprir ou aprovar solicitações de contrato de recurso.</br>
@@ -281,14 +281,14 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 
 |Entidade/campo | Limite |
 |-------------|-------|
-|**Task** ||
+|**Tarefa** ||
 |Máx. nível de hierarquia para a tarefa | 10 níveis |
 |Máx. links (sucessora + predecessor) de uma tarefa | 508 |
 |Máx. duração da tarefa de folha | 1250 dias |
 |Máx. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Máx. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para a tarefa | 1/1/1984 &ndash; 12/31/2149 |
-|**Projeto** ||
+|**Project** ||
 |Máx. total de tarefas do projeto | 500 |
 |Máx. duração total do projeto | 3650 dias (10 anos) |
 |Máx. total de recursos para o projeto | 150 |

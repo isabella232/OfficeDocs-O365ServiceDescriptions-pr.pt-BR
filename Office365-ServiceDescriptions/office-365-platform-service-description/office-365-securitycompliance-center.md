@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro &amp; de conformidade de segurança foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 02c87e8fdaea848a7743b6ee010c3f2634cfe1c8
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813384"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001987"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -32,7 +32,7 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 governo dos EUA G1**  |**Office 365 Enterprise E3**, **Office 365 governo dos EUA G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 governo dos EUA F3**|
 |[Acesso ao centro de &amp; conformidade de segurança](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
-|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Não   |Não   |Não|Não   |Sim   |Não   |
+|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Não   |Não   |Não|Não   |Não   |Sim   |
 |[Gerenciamento de ameaças](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtragem de mensagens e anti-malware |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
 |[Gerenciamento avançado de ameaças](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), como o explorador de ameaças para campanhas de phishing<sup>6</sup>  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Sistema de Proteção de Dados do Cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |

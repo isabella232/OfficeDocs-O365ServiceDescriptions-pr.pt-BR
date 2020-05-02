@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639929"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001997"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -69,7 +69,7 @@ O Microsoft StaffHub é um aplicativo baseado em nuvem que permite aos funcioná
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
-O Microsoft Stream é um serviço de vídeo corporativo que as pessoas em sua organização podem usar para carregar, exibir e compartilhar vídeos com segurança. Você pode compartilhar gravações de aulas, reuniões, apresentações, sessões de treinamento ou outros vídeos que auxiliam a colaboração da sua equipe. O Microsoft Stream também facilita o compartilhamento de comentários em um vídeo e códigos de tempo de marca em comentários e descrições para fazer referência a pontos específicos de um vídeo.
+O Microsoft Stream é um serviço de vídeo corporativo que as pessoas em sua organização podem usar para carregar, exibir e compartilhar vídeos com segurança. Você pode compartilhar gravações de aulas, reuniões, apresentações, sessões de treinamento ou outros vídeos que auxiliam na colaboração da equipe. O Microsoft Stream também facilita o compartilhamento de comentários em um vídeo e códigos de tempo de marca em comentários e descrições para fazer referência a pontos específicos de um vídeo.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
@@ -83,9 +83,9 @@ O Microsoft Teams é um espaço de trabalho com foco em bate-papos no Office 365
 
 O Office Delve permite que os usuários pesquisem e descubram conteúdo no Office 365 com base em ideias personalizadas. O Delve é a primeira experiência a usar a tecnologia Office Graph. Saiba mais sobre o Office Delve em [O que é o Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
   
-## <a name="office-365-groups"></a>Grupos do Office 365
+## <a name="microsoft-365-groups"></a>Grupos do Microsoft 365
 
-Os grupos no Office 365 conectam usuários com os colegas, as informações e os aplicativos necessários para fazer mais em equipe. Eles são abertos por padrão para melhorar a capacidade de descoberta e compartilhamento, mas os usuários também podem criar grupos privados para conteúdo confidencial. Para saber mais sobre grupos, confira [Grupos no Office 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Para obter informações sobre limites de grupos, confira "Como faço para gerenciar meus grupos?" em [Saiba mais sobre grupos do Office 365](https://go.microsoft.com/fwlink/?linkid=846714).
+Os grupos no Microsoft 365 conectam usuários com os colegas, as informações e os aplicativos necessários para fazer mais em conjunto. Eles são abertos por padrão para melhorar a capacidade de descoberta e compartilhamento, mas os usuários também podem criar grupos privados para conteúdo confidencial. Para saber mais sobre grupos, confira [grupos no Microsoft 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Para obter informações sobre os limites de grupo, consulte "como faço para gerenciar meus grupos" em [Learn about Microsoft 365 groups](https://go.microsoft.com/fwlink/?linkid=846714).
   
 ## <a name="office-365-video"></a>Vídeo do Office 365
 

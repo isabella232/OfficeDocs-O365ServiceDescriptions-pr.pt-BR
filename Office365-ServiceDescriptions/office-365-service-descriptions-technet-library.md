@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: O Microsoft Office 365 é um serviço baseado em nuvem projetado para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário.
-ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638717"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002061"
 ---
 # <a name="office-365-service-descriptions"></a>Descrições dos serviços do Office 365 
 
@@ -36,7 +36,7 @@ A Microsoft oferece o benefício do FastTrack Center para o Office 365 para serv
   
 Para começar, consulte as seguintes descrições de serviço:
   
-- [Descrição do serviço da plataforma do Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 e Office 365 descrição do serviço de plataforma](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Descrição de serviços dos aplicativos do Office](office-applications-service-description/office-applications-service-description.md)
 
@@ -70,7 +70,7 @@ Para começar, consulte as seguintes descrições de serviço:
 
 - [Descrição do serviço do Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Descrição do serviço do Microsoft 365 Business Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Descrição do serviço Microsoft 365 Business Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 - [Diretrizes de licenciamento de conformidade & segurança da Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 

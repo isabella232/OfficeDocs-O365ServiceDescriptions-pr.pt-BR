@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Em todas as assinaturas do Microsoft Office 365 Enterprise, Business, Education e Government, o Suporte da Microsoft fornece suporte técnico para assinaturas, cobrança e pré-vendas em nível global. O suporte está disponível online por meio do centro de administração do Microsoft365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte Opções de suporte da Microsoft.
-ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639899"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002318"
 ---
 # <a name="support"></a>Suporte
 
@@ -27,11 +27,11 @@ Em todas as assinaturas do Microsoft Office 365 Enterprise, Business, Education 
   
 Administradores autorizados podem usar o centro de administração do Microsoft 365 para enviar solicitações de serviço online, acessar números de telefone de suporte e exibir todas as solicitações de serviço abertas e fechadas recentemente. As solicitações de serviço enviadas no centro de Administração podem ser reabertas por até 14 dias após o encerramento da solicitação. Para obter instruções, consulte [entrar em contato com o suporte da Microsoft 365 para empresas](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
-A equipe de suporte técnico do O365 soluciona apenas aqueles problemas que estão relacionados ao Office 365. Os problemas que são originados nas redes do cliente ficam fora dos limites de suporte e, nesses casos, os clientes devem trabalhar com sua equipe de rede ou a equipe de contato com a [rede da Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) para obter assistência.
+A equipe de suporte técnico do Microsoft 365 soluciona apenas os problemas relacionados ao Microsoft 365 e ao Office 365. Os problemas que são originados nas redes do cliente ficam fora dos limites de suporte e, nesses casos, os clientes devem trabalhar com sua equipe de rede ou a equipe de contato com a [rede da Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) para obter assistência.
   
 ## <a name="community-and-self-service-support-options"></a>Opções de suporte de autoatendimento e da comunidade
 
-O suporte de autoatendimento está disponível para todos os planos e inclui ferramentas e vídeos de solução de problemas, artigos e vídeos de ajuda, além de fóruns e wikis na [comunidade do Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para obter mais informações sobre recursos de suporte de autoatendimento, consulte a descrição do serviço de [ajuda e treinamento](help-and-training.md) .
+O suporte de autoatendimento está disponível para todos os planos e inclui ferramentas e vídeos de solução de problemas, artigos e vídeos de ajuda, além de fóruns e wikis na [comunidade do Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para obter mais informações sobre recursos de suporte de autoatendimento, consulte a descrição do serviço de [ajuda e treinamento](help-and-training.md) .
   
 ## <a name="pre-sales-support"></a>Suporte para pré-vendas
 
@@ -201,4 +201,4 @@ Se você já adquiriu licenças da Microsoft em um programa de licenciamento por
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, consulte [Descrição do serviço da plataforma do Office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, consulte [Microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).
