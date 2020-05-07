@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Veja quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639834"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044783"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -82,7 +82,7 @@ Para obter uma visão geral das opções de personalização, consulte [Personal
 
 Para saber mais sobre a disponibilidade de aplicativos de alimentação da Microsoft e automatização de energia, consulte as [perguntas frequentes sobre os aplicativos de energia e o licenciamento automatizado de energia](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Para saber mais sobre a disponibilidade do Microsoft Graph, confira a [Descrição do serviço da plataforma do Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Para saber mais sobre a disponibilidade do Microsoft Graph, confira [microsoft 365 and Office 365 Platform Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans).
 
 ## <a name="it-admin-features"></a>Recursos de administração de ti
 
@@ -138,7 +138,7 @@ O SharePoint integra-se com os recursos avançados de segurança e conformidade 
 - [Barreiras de informações](/microsoft-365/compliance/information-barriers)
 - [Proteção avançada contra ameaças do Office 365 (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Rótulos e políticas de retenção](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [Rótulos de confidencialidade](/microsoft-365/compliance/sensitivity-labels)
+- [Rótulos de confidencialidade ](/microsoft-365/compliance/sensitivity-labels)
 - [Auditoria unificada](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (auditoria de usuário e atividade de administração do SharePoint)
 
 Para obter informações sobre a [proteção de informações do Azure](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection), consulte os [requisitos para a proteção de informações do Azure](/azure/information-protection/requirements)
@@ -203,6 +203,6 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Centro de pesquisa (pesquisa clássica)](/sharepoint/manage-search-center)
 - [Esquema de pesquisa (pesquisa clássica e moderna)](/sharepoint/manage-search-schema)
 
-Para obter informações sobre o Delve, consulte a [Descrição do serviço da plataforma do Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
+Para obter informações sobre o Delve, consulte [Microsoft 365 and Office 365 Platform Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
 
 

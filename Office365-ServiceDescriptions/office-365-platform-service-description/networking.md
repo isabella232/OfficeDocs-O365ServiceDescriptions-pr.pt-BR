@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: A Microsoft oferece suporte aos recursos de rede a seguir.
-ms.openlocfilehash: 62a474c9fe0161f7b4d876d8ca462e6bfe5e962d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2f0daecb96564043a6bd734f158fad272dc1812b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639759"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045003"
 ---
 # <a name="networking"></a>Rede
 
@@ -64,6 +64,6 @@ Para saber mais, visite a [Central de Confiabilidade do Office 365](https://www.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, consulte [Descrição do serviço da plataforma do Office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, consulte [Microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: f90bbfa85d0b3c800725a2e51c5da1ea73415434
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640249"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044983"
 ---
 # <a name="office-365-plan-options"></a>Opções de planos do Office 365
 
@@ -115,7 +115,7 @@ Os serviços online a seguir estão disponíveis individualmente, como planos au
 |SharePoint Online  <br/> |[SharePoint Online (Plano 1)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online (Plano 2)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive for Business  <br/> |[Plano 1 do OneDrive for Business](https://onedrive.live.com/about/business/) <br/> [Plano 2 do OneDrive for Business](https://onedrive.live.com/about/business/) <br/> |
 |Skype for Business online  <br/> |[Skype for Business Online (Plano 1)](https://products.office.com/microsoft-teams/group-chat-software) <br/> [Skype for Business Online (Plano 2)](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Aplicativos do Office  <br/> |[Aplicativos da Microsoft 365 para empresas](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 aplicativos para empresas](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Aplicativos do Office  <br/> |[Aplicativos do Microsoft 365 para empresas](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 aplicativos para empresas](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |Gerenciamento de portfólio do Project  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer](https://products.office.com/yammer/) <br/> |
 |Informações organizacionais  <br/> |[Workplace Analytics](https://products.office.com/business/workplace-analytics) <br/> |
@@ -126,4 +126,4 @@ Os serviços online a seguir estão disponíveis individualmente, como planos au
    
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Microsoft 365 e do Office 365, consulte [Descrição do serviço da plataforma microsoft 365 e office 365](office-365-platform-service-description.md).

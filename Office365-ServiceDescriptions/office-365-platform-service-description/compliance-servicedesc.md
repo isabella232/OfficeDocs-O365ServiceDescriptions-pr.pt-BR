@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: O Microsoft Office 365 obedece aos padrões e regulamentos da indústria e foi projetado para ajudá-lo a atender aos requisitos normativos de sua empresa. Para mais informações, consulte ofertas de conformidade.
-ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a88255e948deab39e10116463130e2e8087abec5
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262864"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044773"
 ---
 # <a name="compliance"></a>Conformidade
 
@@ -33,7 +33,7 @@ O Microsoft Office 365 obedece aos padrões e regulamentos da indústria e foi p
   
 ## <a name="industry-certifications"></a>Certificações do setor
 
-Para ajudar as organizações a cumprirem os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados de pessoas, o Office 365 é compatível com ou pode ajudar sua organização a cumprir o conjunto mais abrangente de governos ou requisitos de terceiros, certificações e atestados de qualquer provedor de serviços de nuvem:
+Para ajudar as organizações a cumprirem os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados de pessoas, o Office 365 obedece ou pode ajudar sua organização a cumprir o conjunto mais abrangente de requisitos governamentais ou de terceiros, certificações e atestado de qualquer provedor de serviços de nuvem:
   
 - PDPA da Argentina
     
@@ -45,7 +45,7 @@ Para ajudar as organizações a cumprirem os requisitos nacionais, regionais e e
     
 - ENISA IAF
     
-- Cláusulas do modelo da UE
+- Cláusulas do Modelo da UE
     
 - FDA 21 CFR parte 11
     
@@ -111,5 +111,5 @@ Além disso, observe as seguintes perguntas para o PCI-DSS:
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço de plataforma do Microsoft 365 e do office 365](office-365-platform-service-description.md).
   

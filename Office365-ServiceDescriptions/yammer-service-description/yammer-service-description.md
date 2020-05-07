@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
-ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640179"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044813"
 ---
 # <a name="yammer-service-description"></a>Descrição do serviço do Yammer
 
@@ -44,7 +44,7 @@ O Yammer está disponível nos seguintes planos:
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |Rede social corporativa com segurança, administração e integrações avançadas.  <br/> |
    
 > [!NOTE]
-> Os recursos e as políticas descritos na [Descrição do serviço da plataforma do Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) não se aplicam ao serviço Yammer. 
+> Os recursos e as políticas descritos na [Descrição do serviço da plataforma do Microsoft 365 e do Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) não se aplicam ao serviço do Yammer. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Política de comunicações de serviço do Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>

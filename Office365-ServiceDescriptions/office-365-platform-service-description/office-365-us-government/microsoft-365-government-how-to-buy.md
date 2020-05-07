@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172253"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045043"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 governamentais-como comprar
 
-Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou ambientes específicos do governo da Microsoft 365 para clientes do setor público dos EUA. Esta seção fornece uma visão geral dos ambientes e mais informações sobre como comprar o. É recomendável que você leia esta seção suplementar junto com as [descrições de serviço do Office 365 ](../../office-365-service-descriptions-technet-library.md).
+Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou ambientes específicos do governo da Microsoft 365 para clientes do setor público dos EUA. Esta seção fornece uma visão geral dos ambientes e mais informações sobre como comprar o. É recomendável que você leia esta seção suplementar junto com as [descrições de serviço do Microsoft 365 e do Office 365](../../office-365-service-descriptions-technet-library.md).
   
 ## <a name="whats-microsoft-365-government"></a>O que é o Microsoft 365 governamental?
 
-O Microsoft 365 governamental é um conjunto de recursos de software de nuvem de produtividade, segurança e mobilidade especificamente adaptados para agências governamentais dos EUA e contratados patrocinados para reter informações controladas e não classificadas. Fornecido por meio de ambientes exclusivos que atendam aos requisitos de conformidade mais rigorosos, o governo da Microsoft 365 é uma oferta de nuvem para clientes do governo dos EUA que correspondem com o máximo de recursos do Microsoft Commercial Cloud ofertas da empresa. 
+O Microsoft 365 governamental é um conjunto de recursos de software de nuvem de produtividade, segurança e mobilidade especificamente adaptados para agências governamentais dos EUA e contratados patrocinados para reter informações controladas e não classificadas. Fornecido por meio de ambientes exclusivos que atendam aos requisitos de conformidade mais rigorosos, o governo da Microsoft 365 é uma oferta de nuvem para clientes do governo dos EUA que correspondem com o máximo possível dos recursos e capacidades das ofertas do Microsoft Commercial Cloud Enterprise. 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Qual é o valor do governo Microsoft 365?
 
-O Microsoft 365 governamental ajuda os líderes e os funcionários do governo dos EUA a serem produtivos virtualmente em qualquer lugar, a qualquer momento, permitindo a produtividade móvel e colaboração segura com a conformidade ao ajudar as agências a gerenciar com eficácia os dados atende. A tabela a seguir fornece exemplos para as principais funções do governo.
+O Microsoft 365 governamental ajuda os líderes e os funcionários do governo dos EUA a serem produtivos virtualmente em qualquer lugar, a qualquer momento, permitindo a produtividade móvel e a colaboração segura com a conformidade ao ajudar as agências a gerenciarem com eficácia os requisitos A tabela a seguir fornece exemplos para as principais funções do governo.
 
  
 ||||||
@@ -69,7 +69,7 @@ Um cliente governamental qualificado é definido por uma das seguintes opções:
 - Uma agência federal, definida como um Bureau, escritório, agência, departamento ou outra entidade do governo dos EUA
 - Uma entidade State/local, definida como uma das seguintes opções:
     1. Qualquer agência de um governo estadual ou municipal nos EUA
-    2. Qualquer Condado americano, Borough, Comunidade, cidade, município, município, Township, distrito de finalidade especial ou outro tipo semelhante de instrumentação governamental estabelecida pelas leis do estado do cliente e localizado dentro da jurisdição state's do cliente e limites geográficos
+    2. Qualquer Condado dos EUA, Borough, Comunidade, cidade, município, município, Township, distrito de finalidade especial ou outro tipo semelhante de instrumentação governamental estabelecida pelas leis do estado do cliente e localizado dentro da jurisdição do state's do cliente e limites geográficos
     3. O distrito de Columbia, a comunidade de Porto Rico, Guam, Samoa Americana, as Ilhas Virgens dos Estados Unidos e Marianas do Norte
 - Uma entidade tribal, definida como uma entidade tribal reconhecida de forma Federal, qualificada para fundos e serviços do departamento de interiores dos EUA, em virtude de seu status como uma Tribe indiana ou, no Alasca, um vila nativo ou um Alasca regional da empresa nativo
 

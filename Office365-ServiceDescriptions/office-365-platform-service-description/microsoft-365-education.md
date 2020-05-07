@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: bd4204538838b448c1cdb33dfa2903af113b098d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7f4d24a32afa116632358ec6560414f7e2d74289
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639779"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045053"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. 
   
-O Microsoft 365 fornece um sistema completo, incluindo o Office 365, o Windows 10 e o Enterprise Mobility e segurança. A tabela a seguir lista os recursos do Office 365 para educação a1, a3 e a5 junto com os 365 correspondentes da Microsoft para os recursos a3 e a5. Para comparar recursos entre planos comerciais e empresariais, consulte [Compare Microsoft 365 for Business Plans](https://go.microsoft.com/fwlink/?linkid=799177)ou, para obter uma lista mais detalhada de recursos, consulte a descrição de serviço relevante no [Microsoft 365 Service](../office-365-service-descriptions-technet-library.md)Descriptions. Para pesquisar artigos de suporte e informações, confira [treinamento &amp; da ajuda do Office](https://support.office.com/).
+O Microsoft 365 fornece um sistema completo, incluindo o Office 365, o Windows 10 e o Enterprise Mobility e segurança. A tabela a seguir lista os recursos do Office 365 para educação a1, a3 e a5 junto com os 365 correspondentes da Microsoft para os recursos a3 e a5. Para comparar recursos entre planos comerciais e empresariais, confira [comparar planos do Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177)ou, para obter uma lista mais detalhada dos recursos, consulte a descrição de serviço relevante em [descrições de serviço do Microsoft 365 e do Office 365](../office-365-service-descriptions-technet-library.md). Para pesquisar artigos de suporte e informações, confira [treinamento &amp; da ajuda do Office](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Serviços e recursos
 
@@ -31,7 +31,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |**Serviços** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Plataforma do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Aplicativos da Microsoft 365 para empresas  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Microsoft 365 Apps para empresas  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Exchange Online  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Sim<sup>3</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -86,7 +86,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Cloud App Security  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Proteção Avançada contra Ameaças do Microsoft Defender  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>13</sup>  <br/> |
+|Proteção avançada contra ameaças do Microsoft Defender  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>13</sup>  <br/> |
 |**Benefícios de servidor e CAL** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Exchange<sup>9</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |
 |SharePoint<sup>9</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>10</sup> <br/> |Sim  <br/> |

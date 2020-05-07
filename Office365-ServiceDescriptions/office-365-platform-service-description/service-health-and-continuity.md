@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Os administradores da Microsoft podem exibir o status dos serviços e descobrir quando a manutenção é agendada. As informações de integridade do serviço estão disponíveis a qualquer momento ao entrar.
-ms.openlocfilehash: eb2368030148423301d21d7644561028b1fbcec2
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 7f4f83acdc2a6016f2bd54c98ccf05b2ccb144af
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001947"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044953"
 ---
 # <a name="service-health-and-continuity"></a>Continuidade e integridade do serviço
 
@@ -158,5 +158,5 @@ Saiba mais no tópico [Suporte](support.md).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, confira a [Descrição do serviço da plataforma do Office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos, consulte [Microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).
   

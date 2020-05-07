@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Como um parceiro autorizado Microsoft, o Microsoft Office 365 lhe oferece uma oportunidade de expandir sua base de clientes e criar relacionamentos duradouros com eles. Por uma taxa mensal ou anual paga a você, seus clientes podem usar serviços baseados em nuvem para que não precisem gerenciar backups de dados, hardware de servidor e atualizações de servidor. Os serviços disponíveis para você dependem dos tipos de serviços que você está autorizado a oferecer.
-ms.openlocfilehash: 58d0b09222457ecb7f5c1fb31ad511608c66fadc
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: d9c907fc214e992d7ab30ed5a77452c2c0b5053e
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638749"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044963"
 ---
 # <a name="partners"></a>Parceiros
 
@@ -53,5 +53,5 @@ O Microsoft Partner Network tem o compromisso de atender às necessidades de nos
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, confira [Descrição do serviço da plataforma do office 365](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos nos planos do Microsoft 365 e do Office 365, consulte [Descrição do serviço da plataforma microsoft 365 e office 365](office-365-platform-service-description.md).
   
