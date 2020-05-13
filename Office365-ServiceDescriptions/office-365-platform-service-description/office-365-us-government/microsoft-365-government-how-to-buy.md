@@ -8,15 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: b8adbcee90fbdbd014656f8f0e497821d37adfc2
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045043"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213713"
 ---
----
-
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 governamentais-como comprar
 
 Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou ambientes específicos do governo da Microsoft 365 para clientes do setor público dos EUA. Esta seção fornece uma visão geral dos ambientes e mais informações sobre como comprar o. É recomendável que você leia esta seção suplementar junto com as [descrições de serviço do Microsoft 365 e do Office 365](../../office-365-service-descriptions-technet-library.md).

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem do governo dos EUA e a nuvem comercial, conforme listado na descrição do serviço do Exchange Online.
-ms.openlocfilehash: f104f072a74707f46528d9b111d8af46103a919e
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813394"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213693"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para ambientes do governo dos EUA
 
@@ -22,7 +22,7 @@ Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem d
 
 Para obter mais informações sobre a nuvem governamental, incluindo qualificação e aquisição, consulte [Microsoft 365 governamentais-como comprar](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Para comparar os planos do governo do Office 365, confira [office 365 governamental Plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
-Para saber mais sobre pontos de extremidade necessários ao gerenciar a conectividade de rede, confira os pontos de extremidade do [Office 365 governo dos EUA](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou do [Office 365 governo dos EUA](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Para saber mais sobre pontos de extremidade necessários ao gerenciar a conectividade de rede, confira os pontos de extremidade do [office 365 governo dos EUA](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   ou do [Office 365 governo dos EUA](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 Além de aproveitar os recursos e as funcionalidades do Office 365, as organizações se beneficiam dos seguintes recursos exclusivos dos ambientes de nuvem do governo dos EUA:
 
@@ -65,7 +65,7 @@ A tabela a seguir descreve se os recursos especificados do Exchange Online estã
 |Bloqueio In-loco e Retenção de Litígio|Sim|Sim|Sim|Requer o plano de serviço G3 ou G5.|
 |Descoberta Eletrônica In-loco|Sim|Sim|Sim||
 |Regras do fluxo de email|Sim|Sim|Sim||
-|Prevenção contra perda de dados|Não|Sim|Sim|Requer o plano de serviço G3 ou G5.|
+|Prevenção contra perda de dados|Sim|Sim|Sim|Requer o plano de serviço G3 ou G5.|
 |Registro em Diário|Sim|Sim|Sim||
 |**[Proteção antispam e antimalware](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC alto**|**DoD**|**Principais considerações**|
 |Proteção antispam interna|Sim|Sim|Sim||
@@ -75,7 +75,7 @@ A tabela a seguir descreve se os recursos especificados do Exchange Online estã
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim||
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim||
 |Proteção Avançada contra Ameaças|Sim|Sim|Sim|Requer o plano de serviço do G5 (ou compra de complemento).<br><br>O anti-phishing para representação de usuário e domínio e inteligência de falsificação ainda não estão disponíveis no GCC High e no DoD.|
-|**[Fluxo de mensagens](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC alto**|**DoD**|**Principais considerações**|
+|**[Fluxo de emails](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC alto**|**DoD**|**Principais considerações**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim||
 |Secure messaging with a trusted partner|Sim|Sim|Sim||
 |Conditional mail routing|Sim|Sim|Sim||
@@ -154,9 +154,9 @@ Os ambientes GCC High e DoD são ambientes restritos que exigem aprovação e co
 
 Devido a essas restrições, os recursos que dependem dessa conectividade de saída dos ambientes GCC High/DoD geralmente não são suportados, incluindo: 
 
-- Contas&mdash;conectadas os usuários não podem adicionar/sincronizar contas (Google, POP/IMAP e assim por diante). 
+- Contas conectadas &mdash; os usuários não podem adicionar/sincronizar contas (Google, POP/IMAP e assim por diante). 
 
-- Suporte para provedores&mdash;de armazenamento de arquivos de terceiros somente a conta do onedrive for Business do usuário *dentro de gcc alta/DOD* pode ser acessada de dentro dos vários clientes do Outlook para fins de anexar/compartilhar arquivos. As contas de armazenamento de terceiros (Dropbox, Box, Google Drive) não podem ser adicionadas. 
+- Suporte para provedores de armazenamento de arquivos de terceiros &mdash; somente a conta do onedrive for Business do usuário *dentro de gcc alta/DOD*   pode ser acessada de dentro dos vários clientes do Outlook para fins de anexar/compartilhar arquivos. As contas de armazenamento de terceiros (Dropbox, Box, Google Drive) não podem ser adicionadas. 
 
 - Conectividade com redes sociais, como Facebook ou LinkedIn. 
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: O Microsoft 365 Business Voice é um serviço de suplemento que permite que você use o Microsoft Teams para chamadas telefônicas. Isso combina o sistema de telefonia, o plano de chamadas domésticas, o SMS e a conferência de áudio.
-ms.openlocfilehash: f1a5c61d1517e8c08f8972567d6f5054b0dd1cfe
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640149"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213963"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descrição dos serviços do Microsoft 365 Business Voice
 
@@ -32,7 +32,7 @@ O Microsoft 365 Business Voice está disponível com as seguintes assinaturas de
 - [Microsoft 365 Business Premium](microsoft-365-business-service-description.md)
 - [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
+- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
 - [Microsoft 365 a1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 - [Microsoft 365 a3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 
@@ -63,4 +63,4 @@ O Microsoft 365 Business Voice está disponível com as seguintes assinaturas de
 | Plano de Chamadas Internacionais\*                           | Sim                              | Não                                                    |
 | Conferência por Áudio                                     | Sim                              | Sim                                                   |
  
-\*Discagem gratuita e o plano de chamadas internacionais estão disponíveis em custo adicional usando [créditos de comunicação](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Para saber mais, veja [discagem gratuita](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) e taxas de [chamadas internacionais](https://products.office.com/microsoft-teams/online-meeting-solutions#Rates).
+\*Discagem gratuita e o plano de chamadas internacionais estão disponíveis em custo adicional usando [créditos de comunicação](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Para saber mais, veja [discagem gratuita](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) e taxas de [chamadas internacionais](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).

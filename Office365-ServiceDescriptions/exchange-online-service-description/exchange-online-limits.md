@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
-ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
+ms.openlocfilehash: 8dec4101dae6af37e4001481d6651fac959b60c6
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790452"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213863"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -390,6 +390,9 @@ Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa 
 - **Período de retenção para itens removidos da pasta itens excluídos**: o número máximo de dias que os itens removidos da pasta itens excluídos são mantidos antes de serem excluídos permanentemente.
 
 - **Período de retenção da pasta de lixo eletrônico**: o número máximo de dias que os itens podem permanecer na pasta lixo eletrônico antes de serem removidos automaticamente.
+
+> [!NOTE]
+> Uma caixa de correio de usuário com exclusão reversível &mdash; uma caixa de correio excluída usando o centro de administração do Microsoft 365 ou o cmdlet Remove-Mailbox no Exchange Online PowerShell e que ainda esteja na lixeira do Azure Active Directory &mdash; é recuperável dentro de 30 dias.
 
 ### <a name="retention-limits"></a>Limites de retenção
 

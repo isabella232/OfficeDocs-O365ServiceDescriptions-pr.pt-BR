@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: O Microsoft 365 Business Premium é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. O Microsoft 365 Business Premium é uma solução integrada que reúne a produtividade da Microsoft 365, segurança avançada e gerenciamento de dispositivos.
-ms.openlocfilehash: b608aaa2f0ba113c504b72bec38ce0ba07a93031
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640299"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213953"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -33,8 +33,8 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Armazenamento de arquivos** | OneDrive for Business  | 1 TB por usuário | 1 TB por usuário |
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online, PowerApps, automatização de energia | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>1</sup> | Sim | Sim |
-|   | Aplicativos &ndash; de negócios MileIQ<sup>1</sup> | Sim | Sim |
-|**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
+|   | Aplicativos de negócios &ndash; MileIQ<sup>1</sup> | Sim | Sim |
+|**Proteção contra ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
 |   | Imposição do Windows Exploit Guard | Não | Sim  |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendimento para contas híbridas do Active Directory | Não | Sim |
 |   | Autenticação multifator do Azure, políticas de acesso condicional | Não | Sim |
@@ -65,7 +65,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, automatização de energia<sup>1</sup> | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>2</sup> | Sim | Sim |
 |   | Business apps &ndash; MileIQ<sup>2</sup> | Não | Sim |
-|**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
+|**Proteção contra ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
 |   | Imposição do Windows Exploit Guard | Não | Sim |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendimento para contas híbridas do Active Directory | Não | Sim |
 |   | Autenticação multifator do Azure, políticas de acesso condicional | Não  | Sim |
@@ -98,7 +98,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, automatização de energia<sup>1</sup> | Sim | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>2</sup> | Sim | Sim | Sim |
 |   | Business apps &ndash; MileIQ<sup>2</sup> | Sim | Sim | Não |
-|**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim | Não |
+|**Proteção contra ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim | Não |
 |   | Imposição do Windows Exploit Guard | Não | Sim | Não |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendimento para contas híbridas do Active Directory | Não | Sim | Não |
 |   | Autenticação multifator do Azure, políticas de acesso condicional | Não | Sim | Não |
@@ -121,7 +121,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Comparação de recursos: Microsoft 365 Business Standard e Microsoft 365 para planos de negócios
 
-|**Área de serviço**   |**Recurso** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 e5** |
+|**Área de serviço**   |**Recurso** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licenças disponíveis** | Número máximo de usuários | 300 | 300 | Ilimitado | Ilimitado |
 |**Aplicativos do Office** | Instalar o Office em até 5 PCs/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Negócio | Negócio | Plus | Plus |
@@ -131,8 +131,8 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Social, vídeo, sites** | Yammer, SharePoint Online, Planner | Sim | Sim | Sim | Sim |
 |   | Stream | | Sim | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>1</sup> | Sim | Sim | Sim | Sim |
-|   | Aplicativos &ndash; de negócios MileIQ<sup>1</sup> | Sim | Sim | Não | Não |
-|**Proteção contra Ameaças** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, proteção de dados corporativos | Não | Não | Sim | Sim |
+|   | Aplicativos de negócios &ndash; MileIQ<sup>1</sup> | Sim | Sim | Não | Não |
+|**Proteção contra ameaças** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, proteção de dados corporativos | Não | Não | Sim | Sim |
 |   | Proteção Avançada contra Ameaças do Office 365 | Não | Sim | Não | Sim |
 |   | Proteção Avançada Contra Ameaças do Windows Defender | Não | Não | Não | Sim |
 |   | Inteligência contra Ameaças do Office 365 | Não | Não  | Não | Sim |
@@ -160,17 +160,17 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 
 ## <a name="office-client-commercial-plans"></a>Planos comerciais de cliente do Office
 
-| **Aplicativos** | **Microsoft 365 aplicativos para empresas** | **Aplicativos da Microsoft 365 para empresas** |
+| **Aplicativos** | **Aplicativos do Microsoft 365 para empresas** | **Aplicativos do Microsoft 365 para empresas** |
 |------------------|-------------------------|------------------------|
 | Word             | Sim                     | Sim                    |
 | Excel            | Sim                     | Sim                    |
 | PowerPoint       | Sim                     | Sim                    |
 | OneNote          | Sim                     | Sim                    |
 | Outlook          | Sim                     | Sim                    |
-| Editor        | Sim                     | Sim                    |
+| Publisher        | Sim                     | Sim                    |
 | Access           | Sim                     | Sim                    |
 | Microsoft Teams  | Sim                     | Sim                    |
-| **Valor Premium**                             | **Microsoft 365 aplicativos para empresas** | **Aplicativos da Microsoft 365 para empresas** |
+| **Valor Premium**                             | **Aplicativos do Microsoft 365 para empresas** | **Aplicativos do Microsoft 365 para empresas** |
 | Ativação de volume                             | Não                      | Não                     |
 | Política de grupo<sup>1</sup>                      | Não                      | Sim                    |
 | Ativação de computador compartilhado                    | Sim<sup>7</sup>        | Sim                    |
@@ -183,12 +183,12 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 | Business intelligence                         | Não                      | Sim<sup>5</sup>        |
 | Criar IRM<sup>3</sup>                        | Sim<sup>7</sup>        | Sim                    |
 | Prevenção de perda de dados<sup>3</sup>              | Sim<sup>7</sup>        | Sim<sup>5</sup>        |
-| **Valor da nuvem**                  | **Microsoft 365 aplicativos para empresas** | **Aplicativos da Microsoft 365 para empresas** |
+| **Valor da nuvem**                  | **Aplicativos do Microsoft 365 para empresas** | **Aplicativos do Microsoft 365 para empresas** |
 | Grupos                           | Sim                     | Sim                    |
 | Ferramenta de Implantação do Office           | Sim                     | Sim                    |
 | Configurações de & de documentos móveis     | Sim                     | Sim                    |
 | 1 TB OneDrive for Business       | Sim                     | Sim                    |
-| **Licenciamento**                                   | **Microsoft 365 aplicativos para empresas** | **Aplicativos da Microsoft 365 para empresas** |
+| **Licenciamento**                                   | **Aplicativos do Microsoft 365 para empresas** | **Aplicativos do Microsoft 365 para empresas** |
 | Modelo de licenciamento                                 | Por usuário                | Por usuário               |
 | Tipo de licença                                    | Assinatura            | Assinatura           |
 | Instalações de PC/Mac<sup>6</sup>                     | 5                        | 0,5                      |
@@ -204,11 +204,11 @@ O Microsoft 365 Business Premium inclui o Microsoft 365 aplicativos para cliente
 
 <sup>1</sup> permite que a organização envie por push determinadas definições de configuração (configurações de segurança, configurações de aplicativos, roaming do Active Directory e assim por diante) para o Office em máquinas que fazem logon na rede corporativa.
 
-<sup>2</sup> com o office Standard 2016 e o Office Professional Plus 2016, ele tem controle total de atualizações usando o modelo msi. Com o Microsoft 365 aplicativos para Enterprise e **o microsoft 365 aplicativos para negócios, a** instalação e as atualizações são gerenciados por meio de clique para executar.
+<sup>2</sup> com o office Standard 2016 e o Office Professional Plus 2016, ele tem controle total de atualizações usando o modelo msi. Com o Microsoft 365 aplicativos para Enterprise e o Microsoft 365 aplicativos para negócios, a instalação e as atualizações são gerenciados por meio de clique para executar.
 
 <sup>3</sup> os pacotes fornecem diferentes níveis de integração com servidores de produtividade de negócios.
 
-<sup>4</sup> arquive emails&mdash;do Outlook nenhum arquivo.&mdash;PST necessário e defina as políticas de retenção que arquivar ou excluir automaticamente o email. Os administradores de ti podem gerenciar centralmente o arquivo morto in-loco.
+<sup>4</sup> arquive emails do Outlook &mdash; nenhum arquivo. pst necessário &mdash; e defina as políticas de retenção que arquivar ou excluir automaticamente o email. Os administradores de ti podem gerenciar centralmente o arquivo morto in-loco.
 
 <sup>5</sup> requer serviço (s) online adicional (is).
 

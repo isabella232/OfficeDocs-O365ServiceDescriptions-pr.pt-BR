@@ -12,16 +12,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090134"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214013"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
-Para os fins deste artigo, um serviço de nível de locatário é um serviço online que&mdash;, quando adquirido para qualquer usuário no locatário (autônomo ou como parte do Office 365 ou Microsoft 365 Plans)&mdash;, é ativado em parte ou de forma completa para todos os usuários no locatário. Embora alguns usuários não licenciados possam tecnicamente acessar o serviço, uma licença é necessária para qualquer usuário que você pretende aproveitar do serviço.
+Para os fins deste artigo, um serviço de nível de locatário é um serviço online que, &mdash; quando adquirido para qualquer usuário no locatário (autônomo ou como parte do Office 365 ou Microsoft 365 Plans), &mdash; é ativado em parte ou de forma completa para todos os usuários no locatário. Embora alguns usuários não licenciados possam tecnicamente acessar o serviço, uma licença é necessária para qualquer usuário que você pretende aproveitar do serviço.
 
 > [!NOTE]
 > Alguns serviços de locatário atualmente não são capazes de limitar benefícios a usuários específicos. Devem ser tomadas esforços para limitar os benefícios do serviço aos usuários licenciados. Isso ajudará a evitar a interrupção de serviço em potencial para sua organização quando os recursos de direcionamento estiverem disponíveis.
@@ -96,7 +96,7 @@ Para escopo ATP, siga as políticas de implantação de links seguros e de anexo
 
 O Office 365 Cloud app Security (OCAS) é um subconjunto do Microsoft Cloud app Security, com recursos limitados ao Office 365 e sem segurança adicional para aplicativos de nuvem de terceiros e serviços IaaS.
 
-O OCAS fornece visibilidade de organizações a seus aplicativos e serviços em nuvem de produtividade, fornece uma análise sofisticada para identificar e combater ameaças de Cyber e&mdash;permite que eles controlem como os dados são transferidos no Office 365.
+O OCAS fornece visibilidade de organizações a seus aplicativos e serviços em nuvem de produtividade, fornece uma análise sofisticada para identificar e combater ameaças de Cyber e permite que eles controlem como os dados são transferidos &mdash; no Office 365.
 
 Para comparar recursos, confira [diferenças entre o Microsoft Cloud app Security e o Office 365 Cloud app Security](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365).
 
@@ -121,7 +121,7 @@ Os administradores podem fazer o escopo de implantações do OCAS para impor com
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos de nuvem e serviços, fornece uma análise sofisticada para identificar e combater as ameaças da Cyber e permite que&mdash;elas controlem como os dados são transferidos em qualquer aplicativo de nuvem.
+O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos de nuvem e serviços, fornece uma análise sofisticada para identificar e combater as ameaças da Cyber e permite que elas controlem como os dados são transferidos &mdash; em qualquer aplicativo de nuvem.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
@@ -352,7 +352,7 @@ Por padrão, os emails do Exchange Online, os sites do SharePoint e as contas do
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em**locais**de **prevenção** > de perda de dados.
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevenção de perda de dados de comunicação para o Microsoft Teams
 
@@ -372,7 +372,7 @@ Por padrão, as mensagens de chat e de canal do teams são um *local habilitado 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em**locais**de **prevenção** > de perda de dados.
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations**.
 
 ## <a name="information-barriers"></a>Barreiras de informações
 
@@ -417,7 +417,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 e o plano de proteção de informações d
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Os administradores criam e gerenciam as políticas de criptografia de mensagens do Office 365 no centro de administração do Exchange em > **regras**de **fluxo de emails**. Por padrão, essas regras se aplicam a todos os usuários no locatário. Para obter mais informações sobre como configurar os novos recursos de criptografia de mensagens do Office 365, consulte [configurar novos recursos de criptografia de mensagens do office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Os administradores criam e gerenciam as políticas de criptografia de mensagens do Office 365 no centro de administração do Exchange em regras de **fluxo de emails**  >  **Rules**. Por padrão, essas regras se aplicam a todos os usuários no locatário. Para obter mais informações sobre como configurar os novos recursos de criptografia de mensagens do Office 365, consulte [configurar novos recursos de criptografia de mensagens do office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
@@ -514,7 +514,7 @@ Os usuários licenciados do Office 365 e5, o Microsoft 365 e5, o Microsoft 365 E
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-Um usuário se beneficia da auditoria avançada, pois os registros de auditoria relacionados à atividade do usuário nos serviços do Microsoft 365 podem ser retidos por até um ano. Além disso, eventos de auditoria de alto valor são registrados como quando os itens da caixa de correio de um usuário são acessados ou lidos. Para obter mais informações, consulte [eventos de auditoria de alto valor](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+Um usuário se beneficia da auditoria avançada, pois os registros de auditoria relacionados à atividade do usuário nos serviços do Microsoft 365 podem ser retidos por até um ano. Além disso, eventos de auditoria de alto valor são registrados como quando os itens da caixa de correio de um usuário são acessados ou lidos. Para obter mais informações, consulte [Advanced Audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 

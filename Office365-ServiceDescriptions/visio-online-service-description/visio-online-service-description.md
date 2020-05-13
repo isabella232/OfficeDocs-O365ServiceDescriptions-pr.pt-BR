@@ -1,5 +1,5 @@
 ---
-title: Visio para a descrição do serviço Web
+title: Descrição dos serviços do Visio da Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web.
-ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263224"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213644"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio para a descrição do serviço Web
+# <a name="visio-for-the-web-service-description"></a>Descrição dos serviços do Visio da Web
 
 Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web. Comece com um diagrama básico para expressar ideias comuns, como ilustrar um plano, criar uma proposta ou descrever uma sequência de etapas em um processo. É simples e fácil criar diagramas de primeira classe com tipos de diagramas comumente usados e conjuntos de formas ricas. O Visio para os usuários da Web pode exibir e colaborar compartilhando diagramas e inserindo comentários em arquivos carregados no SharePoint Online ou no OneDrive for Business online.
   
-Para obter mais informações e começar, consulte [Visio for the Web](https://products.office.com/en-US/visio/visio-online).
+Para obter mais informações e começar, confira [Visio Plan 1](https://products.office.com/en-US/visio/visio-online).
   
-Para obter ajuda ao usar o Visio para a Web, consulte [centro de ajuda do Visio](https://support.office.com/visio).
+Para obter ajuda ao usar o Visio para a Web, consulte [ajuda do Visio & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilidade e comparação de recursos
 
