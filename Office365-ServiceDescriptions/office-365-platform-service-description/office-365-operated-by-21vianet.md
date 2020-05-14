@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
-ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
+ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43800617"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226250"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -63,7 +63,7 @@ Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individua
 
 Confira os requisitos de sistema do Office 365 em [Requisitos de sistema do Office](https://products.office.com/office-system-requirements/#Office365forBEG) no site de produtos do [office.com](https://www.office.com).
 
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidade &amp; do centro de conformidade de segurança no Office 365 operado pela 21vianet
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>&amp;Disponibilidade do centro de conformidade de segurança no Office 365 operado pela 21vianet
 
 The Office 365 Security &amp; Compliance Center is not available in any plans for Office 365 operated by 21Vianet.
 
@@ -96,7 +96,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Office Delve|Não|Não|Não|Não|Não|Não|Não|
 |Grupos do Office 365|Sim|Não|Sim|Sim|Sim|Sim|Sim|
 |Vídeo do Office 365|Não|Não|Não|Sim|Sim|Sim|Sim<sup>2</sup>|
-|Bloco de Anotações de Classe|Não|Não|Não|Sim<sup>15<sup>|Não|Não|Não|
+|Bloco de Anotações de Classe|Não|Não|Não|Sim <sup> 15<sup>|Não|Não|Não|
 |**[Conta de usuário mManagement](user-account-management.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Identidade de nuvem, identidade federada ou autenticação multifator<sup>14</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Configuração de área de trabalho do Office 365|Não|Não|Não|Não|Não|Não|Não|
@@ -301,7 +301,7 @@ A tabela a seguir fornece links para comparações do Office para recursos de re
 
 ||||
 |:-----|:-----|:-----|
-|**Aplicativo**|**Office para Web operado pela 21Vianet**|**Link para a comparação detalhada de recursos**|
+|**Application**|**Office para Web operado pela 21Vianet**|**Link para a comparação detalhada de recursos**|
 |Word|Word para Web operado pela 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para Web operado pela 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para Web operado pela 21Vianet|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -348,7 +348,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>4</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|--|Não|Não|Não|Não|Não|
-|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
+|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -491,8 +491,8 @@ A tabela a seguir exibe os recursos da Proteção do Exchange Online (EOP) que e
 |[Personalize as diretrizes contra malware](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Sim|Sim|
 |[Quarentena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): gerenciamento do administrador|Sim|Sim|
 |[Quarentena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): autogerenciamento de usuário final|Sim|Sim|
-|[Suplemento de mensagem de relatório para o Outlook](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Sim|Sim|
-|[Relatórios de lixo eletrônico no Outlook na Web](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Nenhum<sup>7</sup>|Nenhum<sup>7</sup>|
+|[Suplemento de mensagem de relatório para o Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Sim|Sim|
+|[Relatórios de lixo eletrônico no Outlook na Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Nenhum<sup>7</sup>|Nenhum<sup>7</sup>|
 |[Rotear email entre a Microsoft e seus próprios servidores de email](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sim|Sim|
 |[Mensagens seguras com um parceiro confiável](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sim|Sim|
 |[Lista segura de endereço IP de um parceiro](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sim|Sim|
@@ -652,7 +652,7 @@ A versão do Office 365 operado pela 21Vianet do Office 365 é específica da Ch
 |Suporte aos padrões de acessibilidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte a vídeo/aprimoramentos da biblioteca de ativos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Auditoria|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|&amp; Relatórios de auditoria (por exemplo, edições de Doc, edições de políticas, exclusões)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Relatórios de auditoria &amp; (por exemplo, edições de Doc, edições de políticas, exclusões)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Content Organizer|Sim|Não|Sim|Sim|Sim|Sim|Sim|
 |Design Manager|Sim|Não|Sim|Sim|Sim|Sim|Sim|
 |Conjuntos de documentos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -692,7 +692,7 @@ A versão do Office 365 operado pela 21Vianet do Office 365 é específica da Ch
 |Catálogo|Não|Não|Não|Não|Não|Sim|Não|
 |Página categoria e página de item de catálogo|Não|Não|Não|Não|Não|Sim|Não|
 |Web Parts de pesquisa|Não|Não|Não|Não|Não|Sim|Não|
-|Publicação entre sites|Não|Não|Não|Não|Não|Sim|Não|
+|Piblicação intersite|Não|Não|Não|Não|Não|Sim|Não|
 |WCM: ferramentas de designer|Sim|Não|Sim|Sim|Sim|Sim|Sim|
 |Navegação facetada|Não|Não|Não|Não|Não|Nenhum<sup>7</sup>|Não|
 |Renderizações de imagem|Sim|Não|Sim|Sim|Não|Não|Não|
@@ -789,7 +789,7 @@ A versão do Office 365 operado pela 21Vianet do Office 365 é específica da Ch
 |Comunidade|Não|Não|Não|Não|Não|Não|Não|
 |Feed da empresa|Não|Não|Não|Não|Não|Não|Não|
 |Conversas de documento com o Yammer|Não|Não|Não|Não|Não|Não|Não|
-|Acompanhar|Não|Não|Não|Não|Não|Não|Não|
+|Follow|Não|Não|Não|Não|Não|Não|Não|
 |Microblog|Não|Não|Não|Não|Não|Não|Não|
 |News feed|Sim|Não|Sim|Sim|Sim|Sim|Não|
 |Compartilhamento com um clique|Não|Não|Não|Não|Não|Não|Não|

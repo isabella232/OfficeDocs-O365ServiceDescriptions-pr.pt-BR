@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639879"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226220"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -90,7 +90,7 @@ Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento
 
 ## <a name="check-spelling"></a>Verificar ortografia
 
-Para verificar a ortografia de qualquer texto na sua planilha, selecione **revisar** > **Proofing** > **ortografia**da verificação. Saiba mais sobre a [verificação ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Para verificar a ortografia de qualquer texto na sua planilha, selecione **revisar**  >  **Proofing**  >  **ortografia**da verificação. Saiba mais sobre a [verificação ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -102,7 +102,7 @@ Após criar uma tabela do Excel, você só poderá querer o estilo de tabela sem
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Você pode recortar, copiar e colar texto, hiperlinks, números, fórmulas, formas, gráficos e imagens. Se houver dados em colunas que você precisa girar para reorganizá-los em linhas, use o recurso **transpor** no menu **colar** . Saiba mais sobre [copiar e colar no Excel para a Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
+Você pode recortar, copiar e colar texto, hiperlinks, números, fórmulas, formas, gráficos e imagens. Se houver dados em colunas que você precisa girar para reorganizar nas linhas, use o recurso de **transpor** no menu **colar** . Saiba mais sobre [copiar e colar no Excel para a Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline). Usando o Edge ou o Chrome como navegador, você pode copiar hiperlinks de outros aplicativos e colá-los no Excel para a Web. Os hiperlinks colados funcionarão normalmente.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -110,7 +110,7 @@ Você pode usar o Excel para a Web para exibir conexões de dados, mas não pode
   
 ## <a name="create-tables"></a>Criar tabelas
 
-Crie uma tabela para organizar e analisar dados relacionados. Com tabelas, é mais fácil classificar, filtrar e formatar seus dados. 
+Crie uma tabela para organizar e analisar dados relacionados. Com tabelas, é mais fácil classificar, filtrar e formatar seus dados. Adicionar um polonês com [Opções de formatação de tabela](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370), incluindo uma galeria de estilos.
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>Criação de exibições de análises avançadas (Power View, Power Pivot, Slicers)
 
@@ -162,7 +162,7 @@ Consulte as fórmulas responsáveis pelos resultados de uma célula na barra de 
   
 ## <a name="formula-tools-advanced"></a>Ferramentas de fórmula, avançadas
 
-O aplicativo de área de trabalho Microsoft Excel dá suporte às ferramentas de fórmula mais avançadas, como estilo de referência 3D e fórmulas de matriz. O Excel para a Web só oferece suporte às fórmulas mais básicas do Excel. Saiba mais sobre [fórmulas](https://go.microsoft.com/fwlink/p/?LinkId=271665).
+O aplicativo de área de trabalho do Microsoft Excel fornece as ferramentas de fórmula mais avançadas, como estilo de referência 3D. O Excel para a Web oferece suporte a um número crescente de fórmulas avançadas do Excel, como [fórmulas de matriz dinâmicas](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Saiba mais sobre [fórmulas](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -174,7 +174,7 @@ Tudo o que você pode ver na pasta de trabalho no navegador, em modo de exibiç�
   
 ## <a name="functions"></a>Funções
 
-Você pode usar a maioria das funções de planilha mais de 400 do Excel em fórmulas no Excel para a Web.
+Você pode usar a maioria das funções de planilha do Excel com mais de 400 em fórmulas do Excel para a Web, incluindo funções usadas em [fórmulas de matriz dinâmica](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531), como a [função de filtro](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759).
   
 ## <a name="goto"></a>GoTo
 
@@ -207,6 +207,10 @@ Adicione alguns interesses visuais inserindo imagens na planilha. Saiba mais sob
 ## <a name="insert-shapes"></a>Inserir formas
 
 Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas à sua planilha do Excel para a Web. Saiba mais sobre como [adicionar formas](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+
+## <a name="keyboard-shortcuts"></a>Atalhos do teclado
+
+Você pode controlar os atalhos de teclado para que funcionem da mesma forma nas versões da área de trabalho e da Web do Excel alterando a configuração dos atalhos de teclado &mdash; que você pode até mesmo substituir atalhos do navegador. Basta selecionar **Help**  >  **atalhos de teclado**da ajuda. "
   
 ## <a name="merge-cells"></a>Merge cells
 
@@ -283,6 +287,10 @@ Não está disponível no Excel para a Web. Se o aplicativo de área de trabalho
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
 Quer ter sua própria cópia da pasta de trabalho? Use o comando Salvar como na guia Arquivo, ou clique com o botão direito do mouse no nome da pasta de trabalho em sua pasta e use o comando Baixar para enviar uma cópia para seu computador.
+
+## <a name="sensitivity-labels"></a>Rótulos de confidencialidade
+
+Mantenha o controle de acesso e confidencialidade de seus documentos aplicando manualmente um rótulo ou usando os rótulos recomendados automaticamente da Microsoft.
   
 ## <a name="share"></a>Compartilhar
 
@@ -291,14 +299,18 @@ Processo de um clique que envia um link para que outros vejam ou editem o docume
 ## <a name="sheet-protection"></a>Proteção da planilha
 
 Ao compartilhar um arquivo do Excel com outros usuários, você pode proteger a planilha para ajudar a impedir que ela seja alterada. Também é possível escolher as ações que você permite que as pessoas que usam sua planilha realizem.
-  
-## <a name="slicer-viewing"></a>Exibição de segmentação de dados
 
-Exiba segmentações de dados em sua planilha e filtre seus dados selecionando os botões de segmentação de dados. Você não pode criar ou editar segmentações de, no Excel, para a Web.
+## <a name="sheet-views"></a>Modos de exibição de planilha
+
+Os [modos de exibição de planilha](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6) permitem que você crie modos de exibição personalizados de uma planilha do Excel sem ser interrompido por outras pessoas. Por exemplo, você pode configurar um filtro para exibir apenas os registros que são importantes para você, sem ser afetado por outras pessoas que estão classificando e filtrando no documento. Você pode até mesmo configurar vários modos de exibição de planilha na mesma planilha.
+  
+## <a name="slicers"></a>Segmentações de dados
+
+Exiba segmentações de dados em sua planilha e filtre seus dados selecionando os botões de segmentação de dados. Você não pode criar ou editar segmentação de Slices no Excel para a Web, mas pode excluir as segmentações de já existentes.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar dados (de cima para baixo ou da esquerda para a direita, vários níveis) e analisar os detalhes das tabelas dinâmicas. Saiba mais sobre [classificação e filtragem de dados](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
+No Excel para a Web, você pode exibir e reordenar todas as planilhas, classificar e filtrar dados (de cima para baixo ou da esquerda para a direita, vários níveis) e analisar os detalhes das tabelas dinâmicas. Classificar dados formatados condicionalmente que usam conjuntos de ícones ou escalas de cores usando seus ícones ou valores de cor. Saiba mais sobre [classificação e filtragem de dados](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Auditoria e conformidade de planilhas
 
@@ -339,6 +351,10 @@ Exiba gráficos 3D em sua planilha. Você não pode criar ou editar gráficos 3D
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
 Não está disponível no Excel para a Web. Você pode visualizar os resultados da análise "e se" no Excel para a Web, conforme o esperado. Para usar ferramentas de análise como Atingir Meta, Tabelas de Dados, Solver e Séries, você vai precisar do aplicativo de área de trabalho Excel. Saiba mais sobre as [diferenças de uso de uma pasta de trabalho no navegador e no aplicativo de área de trabalho Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
+
+## <a name="workbook-statistics"></a>Estatísticas de pasta de trabalho
+
+O recurso de estatísticas de pasta de trabalho conta e identifica elementos de uma pasta de trabalho, ajudando você a descobrir todo o seu conteúdo. Você o encontrará na guia **revisão** .
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

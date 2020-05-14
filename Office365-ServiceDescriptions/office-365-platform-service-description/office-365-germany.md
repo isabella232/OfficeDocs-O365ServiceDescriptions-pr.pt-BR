@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com residências de dados na Alemanha e medidas de controle e acesso de dados estritos por meio de um modelo de confiança de dados exclusivo regido em lei alemão.
-ms.openlocfilehash: cdac821da552186f6ac2c82740b0acd0c7819311
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639809"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226260"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
@@ -55,9 +55,9 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 
 Confira os requisitos de sistema do Office 365 em [Requisitos de sistema do Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) no site de produtos do [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409).
 
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Disponibilidade &amp; do centro de conformidade de segurança no Office 365 Alemanha
+## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>&amp;Disponibilidade do centro de conformidade de segurança no Office 365 Alemanha
 
-O centro &amp; de conformidade de segurança está disponível para o Office 365 Alemanha. Para obter mais informações e uma lista de recursos, consulte o [Centro &amp; de conformidade de segurança do Office 365](office-365-securitycompliance-center.md).
+O centro de conformidade de segurança &amp; está disponível para o Office 365 Alemanha. Para obter mais informações e uma lista de recursos, consulte o [ &amp; centro de conformidade de segurança do Office 365](office-365-securitycompliance-center.md).
 
 ### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Quais certificados de conformidade são fornecidos para o Office 365 Alemanha?
 
@@ -338,7 +338,7 @@ A tabela a seguir fornece links para comparações do Office para os recursos de
 
 ||||
 |:-----|:-----|:-----|
-|**Aplicativo**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
+|**Application**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
 |Word|Word para a Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para a Web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -495,7 +495,7 @@ A tabela a seguir exibe os recursos da EOP (Proteção do Exchange Online) que e
 |[Quarentena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): autogerenciamento de usuário final|Sim|Sim|Sim|
 |[Governança de dados avançada](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|Não|Sim|Sim|
 |[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|Não|Sim|Sim|
-|[Relatórios de lixo eletrônico no Outlook na Web](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Sim<sup>8</sup>|Não<sup>8</sup>|Não<sup>8</sup>|
+|[Relatórios de lixo eletrônico no Outlook na Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sim<sup>8</sup>|Não<sup>8</sup>|Não<sup>8</sup>|
 |[Rotear email entre a Microsoft e seus próprios servidores de email](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sim|Sim|Sim|
 |[Mensagens seguras com um parceiro confiável](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sim|Sim|Sim|
 |[Lista segura de endereço IP de um parceiro](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sim|Sim|Sim|
@@ -633,7 +633,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Suporte aos padrões de acessibilidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte a vídeo/aprimoramentos da biblioteca de ativos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Auditoria|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|&amp; Relatórios de auditoria (por exemplo, edições de documentos, edições de políticas, exclusões|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Relatórios de auditoria &amp; (por exemplo, edições de documentos, edições de políticas, exclusões|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Content Organizer|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Design Manager|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conjuntos de documentos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -673,7 +673,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Catálogo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Página categoria e página de item de catálogo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Web Parts de pesquisa|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|Publicação entre sites|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|Piblicação intersite|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |WCM: ferramentas de designer|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Navegação facetada|Não|Não|Não|Não|Não|Sim<sup>7</sup>|Sim<sup>7</sup>|Não|
 |Renderizações de imagem|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -770,7 +770,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Comunidade|Sim<sup>14</sup>|Não|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Não|
 |Feed da empresa|Sim|Não|Sim|Sim|Sim|Sim|Sim|Não|
 |Conversas de documento com o Yammer|Não|Não|Não|Não|Não|Não|Não|Não|
-|Acompanhar|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Follow|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Microblog|Sim|Não|Sim|Sim|Sim|Sim|Sim|Não|
 |News feed|Sim|Não|Sim|Sim|Sim|Sim|Sim|Não|
 |Compartilhamento com um clique|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
