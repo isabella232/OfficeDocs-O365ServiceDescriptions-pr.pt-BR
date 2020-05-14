@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando você adiciona um domínio, um assistente passo a passo ajuda você a adicionar usuários e converter seus endereços de email e outros serviços para o nome da sua empresa. Quando você concluir o assistente, seu email comercial começará a ser enviado para a Microsoft em vez de ir para seu provedor de email atual. Para saber mais, confira adicionar seus usuários e domínios à Microsoft. Se você usa o Office 365 operado pela 21Vianet, confira Verificar seu domínio.
-ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638859"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044823"
 ---
 # <a name="domains"></a>Domínios
 
@@ -57,6 +57,6 @@ Você pode piloto de alguns endereços de email para um domínio na Microsoft e 
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos no Microsoft 365 para planos de negócios, opções autônomas e soluções locais, consulte [Descrição do serviço da plataforma 365 do Office](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos no Microsoft 365 para planos de negócios, opções autônomas e soluções locais, confira [microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 
