@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213783"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267340"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -119,7 +119,7 @@ Se sua organização tiver atualmente assinaturas para o Office 365 Small Busine
 |Políticas do catálogo de endereços|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Catálogo de endereços hierárquico|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Listas de endereços e lista de endereços global|Sim|Sim|Sim|Sim|Sim<sup>18</sup>|Sim<sup>18</sup>|Sim<sup>18</sup>|Sim<sup>18</sup>|
-|Grupos do Office 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Grupos do Microsoft 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Grupos de Distribuição|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Contatos externos (global)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Cartão de contato universal|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|

@@ -9,24 +9,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: O centro &amp; de conformidade de segurança foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: O centro de conformidade de segurança &amp; foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
+ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001987"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267320"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-O [Centro &amp; de conformidade de segurança](https://protection.office.com/) foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+O [ &amp; centro de conformidade de segurança](https://protection.office.com/) foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
 Para ver as opções de licenciamento dos seus usuários para se beneficiarem dos recursos de conformidade da Microsoft 365 a partir de 1º de abril de 2020, baixe a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilidade &amp; do centro de conformidade de segurança para planos corporativos e empresariais
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;Disponibilidade do centro de conformidade de segurança para planos corporativos e empresariais
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -38,7 +38,7 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 |[Sistema de Proteção de Dados do Cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Gerenciamento de dispositivo móvel](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
 |[Prevenção de perda de dados para o Exchange Online, o SharePoint Online e o onedrive for Business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Não   |Não   |Não   |Não   |Sim   |Sim   |Não   |
-|[Prevenção de perda de dados de comunicação para o Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Não   |Não   |Não   |Não   |Sim   |Não  |
+|[Prevenção de perda de dados de comunicação para o Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Não   |Não   |Não   |Não   |Não   |Sim  |
 |[Rótulos de sensibilidade manuais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Não | Não  |Não   | Sim | Sim | Sim | Não  |
 |Rótulos de confidencialidade automático| Não | Não  |Não  | Não | Não | Sim<sup>13</sup> | Não  |
 |[Barreiras de informações](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não  |
@@ -53,8 +53,8 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 |[Auditoria básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sim   |Sim   |Sim|Sim   |Sim   |Sim   |Sim   |
 |[Auditoria avançada](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Conformidade de comunicação (políticas de supervisão)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Criptografia de Mensagens do Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Criptografia de Mensagem Avançada do 365 Office](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
+|[Criptografia de mensagem do Office 365 (OME) básica](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Não   |Não   |Não   |Não   |Sim  |Sim   |Não   |
+|[Criptografia de Mensagem Avançada do 365 Office](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Não   |Não   |Não   |Não   |Não |Sim   |Não   |
 |[Gerenciamento de acesso privilegiado](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Chave de Cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |||||||||
@@ -85,7 +85,7 @@ limite de <sup>3</sup> a 50 GB.
 
 <sup>13</sup> não inclui rotulamento com base no Machine Learning (classificadores treinado).
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilidade &amp; do centro de conformidade de segurança para planos autônomos
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilidade do centro de conformidade de segurança para planos autônomos
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -137,10 +137,10 @@ limite de <sup>3</sup> a 50 GB.
 
 <sup>11</sup> é necessária uma licença de arquivamento do Exchange Online plano 2 ou do Exchange Online para colocar uma caixa de correio de usuário em espera usando uma política de retenção.
   
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidade &amp; do centro de conformidade de segurança no Office 365 operado pela 21vianet
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>&amp;Disponibilidade do centro de conformidade de segurança no Office 365 operado pela 21vianet
 
 O centro de conformidade & segurança não está disponível em nenhum plano para o Office 365 operado pela 21Vianet.
   
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Disponibilidade &amp; do centro de conformidade de segurança no Office 365 Alemanha
+## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>&amp;Disponibilidade do centro de conformidade de segurança no Office 365 Alemanha
 
 O centro de conformidade do & de segurança está disponível para o Office 365 Alemanha. Para obter informações sobre o Office 365 Alemanha, consulte [office 365 Alemanha](office-365-germany.md).
