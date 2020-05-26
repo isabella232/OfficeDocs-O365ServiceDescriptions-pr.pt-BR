@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Saiba mais sobre os limites do SharePoint para o Microsoft 365 e planos autônomos.
-ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638911"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356879"
 ---
 # <a name="sharepoint-limits"></a>Limites do SharePoint
 
@@ -85,6 +85,10 @@ Um usuário pode pertencer a 5.000 grupos e cada grupo pode ter até 5.000 usuá
 ### <a name="managed-metadata"></a>Metadados gerenciados
 
 200.000 termos no repositório de termos, 1.000 conjuntos de termos globais, grupos 1.000.
+
+### <a name="overall-site-metadata"></a>Metadados gerais do site
+
+1000 GB por site (metadados raramente atingem esse tamanho).
 
 ### <a name="subsites"></a>Subsites 
 

@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: O Microsoft Teams fornece mensagens instantâneas, colaboração de arquivos e dados, chamadas de áudio e vídeo, reuniões online avançadas, experiências móveis e recursos de Webconferência abrangentes.
-ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213643"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356889"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
@@ -60,7 +60,7 @@ Esta tabela lista a disponibilidade de recursos do Microsoft Teams em planos de 
 |Voz  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Audioconferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos, bots, & conectores  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>4</sup>  <br/> |Sim<sup>4</sup>  <br/> |Sim<sup>4</sup>  <br/> |Sim  <br/> |
-|Eventos ao vivo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Nenhum<sup>5</sup>  <br/> |Nenhum<sup>5</sup>  <br/> |Sim  <br/> |
+|Eventos ao vivo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Nenhum<sup>5</sup>  <br/> |Nenhum<sup>5</sup>  <br/> |Sim  <br/> |
 
 <sup>1</sup> o Microsoft Teams em GCC-alto e DOD dão suporte a 2500 Membros em uma equipe individual.<br/>
 <sup>2</sup> o Microsoft Planner não está disponível no momento para o acesso em canais privados.<br/>
