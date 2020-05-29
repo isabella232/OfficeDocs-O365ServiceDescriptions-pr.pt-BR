@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
+ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267330"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44408921"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -30,7 +30,7 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 
 ## <a name="azure-active-directory-identity-protection"></a>Proteção de Identidade do Azure Active Directory
 
-O Azure Active Directory Identity Protection (AADIP) é um recurso do plano do Azure Active Directory Premium P2 que permite que você detecte possíveis vulnerabilidades que afetam as identidades da sua organização, configure as respostas automáticas para ações suspeitas detectadas que estão relacionadas às identidades da sua organização e investigue incidentes suspeitos e tome as medidas apropriadas para resolvê-los.
+A proteção de identidade do Active Directory do Azure é um recurso do plano do Azure Active Directory Premium P2 que permite que você detecte possíveis vulnerabilidades que afetam as identidades da sua organização, configure as respostas automáticas para as ações suspeitas detectadas que estão relacionadas às identidades da sua organização e investigue incidentes suspeitos e tome as medidas apropriadas para resolvê-los.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
@@ -42,11 +42,11 @@ Enterprise Mobility + Security E5/a5, Microsoft 365 E5/a5, a segurança da Micro
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Por padrão, os recursos do AADIP são habilitados no nível do locatário para todos os usuários dentro do locatário. Para obter informações sobre o AADIP, consulte [o que é a proteção de identidade do Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+Por padrão, os recursos de proteção de identidade do Azure AD estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre a proteção de identidade do Azure AD, consulte [o que é a proteção de identidade do Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem definir o escopo do AADIP atribuindo políticas de risco que definem o nível de redefinições de senha e permitindo o acesso somente a usuários licenciados. Para obter instruções sobre como fazer o escopo de implantações do AADIP, consulte [Configurar a política de risco de entrada](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
+Os administradores podem definir o escopo da proteção de identidade do Azure AD atribuindo políticas de risco que definem o nível de redefinições de senha e permitindo o acesso somente a usuários licenciados. Para obter instruções sobre como fazer o escopo de implantações de proteção de identidade do Azure AD, consulte [Configurar a política de risco de entrada](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
 ## <a name="azure-advanced-threat-protection"></a>Proteção Avançada contra Ameaças do Azure
 
