@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com residências de dados na Alemanha e medidas de controle e acesso de dados estritos por meio de um modelo de confiança de dados exclusivo regido em lei alemão.
-ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226260"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429116"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
@@ -42,7 +42,7 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 |Project Online <sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Power BI <sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Visio para a Web <sup>4</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Yammer Enterprise|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|
+|Yammer Enterprise|N/D|N/D|N/D|N/D|N/D|N/D|N/D|N/D|
 |Proteção de Informações do Azure|Não|Não|Não|Não|Não|Não|Não|Não|
 
 > [!NOTE]
@@ -162,7 +162,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Sistema de Proteção de Dados do Cliente|Não|Não|Não|Não|Não|Não|Sim|Não|
 |Descoberta Eletrônica Avançada|Não|Não|Não|Não|Não|Não|Não|Não|
 |Classificação de Segurança|Não|Não|Não|Não|Não|Não|Não|Não|
-|**[Conformidade](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[Conformidade](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**<sup>9</sup>|||||||||
 |Avaliações SAS 70 / SSAE16|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Certificado ISO 27001|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Cláusulas do modelo da UE|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -338,7 +338,7 @@ A tabela a seguir fornece links para comparações do Office para os recursos de
 
 ||||
 |:-----|:-----|:-----|
-|**Application**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
+|**Aplicativo**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
 |Word|Word para a Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para a Web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -382,7 +382,7 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|--|Não|Não|Não|Não|Sim|Não|
-|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|

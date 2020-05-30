@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226250"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429106"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -176,7 +176,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Descoberta Eletrônica Avançada|Não|Não|Não|Não|Não|Não|Não|
 |Classificação de Segurança<sup>4</sup>|Não|Não|Não|Não|Não|Não|Não|
 |Inteligência contra Ameaças|Não|Não|Não|Não|Não|Não|Não|
-|**[Conformidade](compliance-servicedesc.md)**||||||||
+|**[Conformidade](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |Avaliações SAS 70 / SSAE16|Não|Não|Não|Não|Não|Não|Não|
 |Certificado ISO 27001|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Cláusulas do modelo da UE|Não|Não|Não|Não|Não|Não|Não|
@@ -301,7 +301,7 @@ A tabela a seguir fornece links para comparações do Office para recursos de re
 
 ||||
 |:-----|:-----|:-----|
-|**Application**|**Office para Web operado pela 21Vianet**|**Link para a comparação detalhada de recursos**|
+|**Aplicativo**|**Office para Web operado pela 21Vianet**|**Link para a comparação detalhada de recursos**|
 |Word|Word para Web operado pela 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para Web operado pela 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para Web operado pela 21Vianet|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -348,7 +348,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>4</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|--|Não|Não|Não|Não|Não|
-|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
+|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -1166,10 +1166,10 @@ A tabela a seguir exibe os recursos do Project Online que estão disponíveis en
 |[Administração, implantação e extensibilidade](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|Não<sup>2</sup>|Sim|Sim|Não|Sim|
 |[Introdução](../project-online-service-description/core-services-functionality.md#getting-started)|Sim|Sim|Sim|Não|Sim|
 |[Gerenciamento de problemas e de riscos (para membros da equipe)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|Sim|Sim|Sim|Não|Sim|
-|[Central de Confiabilidade do Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Não|Não|Não|Não disponível|Não disponível|
+|[Central de Confiabilidade do Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Não|Não|Não|N/D|N/D|
 |[Ecossistema de Parceiros de PPM](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|Sim|Sim|Sim|Não|Sim|
-|[Confiabilidade do serviço](../project-online-service-description/core-services-functionality.md#service-reliability)|Sim|Sim|Sim|Não disponível|Não disponível|
-|[Atualizações de serviço](../project-online-service-description/core-services-functionality.md#service-updates)|Sim|Sim|Sim|Não disponível|Não disponível|
+|[Confiabilidade do serviço](../project-online-service-description/core-services-functionality.md#service-reliability)|Sim|Sim|Sim|N/D|N/D|
+|[Atualizações de serviço](../project-online-service-description/core-services-functionality.md#service-updates)|Sim|Sim|Sim|N/D|N/D|
 |[Colaboração de membros da equipe](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|Sim|Sim|Sim|Não|Sim|
 |[Gerenciamento de tempo e de tarefas (para membros da equipe)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|Sim|Sim|Sim|Não|Sim|
 |**Gerenciamento de projetos**|**Project Online Essentials para Office 365 operado pela 21Vianet**|**Project Online Professional para Office 365 operado pela 21Vianet**|**Project Online Premium para Office 365 operado pela 21Vianet**|**Project Professional 2016 para Office 365 operado pela 21Vianet**|**Project Server 2016 para Office 365 operado pela 21Vianet**|
