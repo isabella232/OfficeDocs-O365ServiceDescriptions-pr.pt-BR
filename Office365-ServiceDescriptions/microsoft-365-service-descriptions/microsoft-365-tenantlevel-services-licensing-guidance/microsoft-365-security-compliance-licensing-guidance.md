@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
-ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
+ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
+ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44412690"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44524174"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -180,6 +180,11 @@ Os usuários se beneficiam com a capacidade de aplicar manualmente os rótulos d
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
 Microsoft 365 E5/a5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/e5, Office 365 E5/a5/E3/a3/F3, o plano do AIP 1 e o plano do AIP 2 fornecem os direitos para o usuário se beneficiar do rótulo de confidencialidade manual.
+
+O Microsoft 365 E5/a5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/e5, o plano do AIP 1 e o plano 2 do AIP fornecem os direitos para o usuário se beneficiar da aplicação e visualização dos rótulos de confidencialidade no Power BI e para proteger os dados quando exportados do Power BI para o Excel 
+
+> [!NOTE]
+> O Power BI está incluído no Microsoft 365 E5/a5/G5; em todos os outros planos, o Power BI deve ser licenciado separadamente.
 
 Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 conformidade, proteção e governança de informações da Microsoft 365, Office 365 e5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 e AIP Plan 2 fornecem os direitos para um usuário se beneficiar do rótulo de confidencialidade automática.
 
