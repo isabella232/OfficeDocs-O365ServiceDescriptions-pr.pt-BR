@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft 365 e o Office 365 estão disponíveis em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos, incluindo os planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429066"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679568"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrição dos serviços das plataformas Microsoft 365 e Office 365
 
@@ -43,9 +43,9 @@ O Office 365 está disponível em uma variedade de planos para atender melhor à
   
 Para saber mais sobre licenciamento por volume, confira [termos e documentação de licenciamento](https://go.microsoft.com/fwlink/?linkid=848696).
   
-## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 e Office 365 planos e preços sem fins lucrativos
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Microsoft 365 e Office 365 planos e preços de não fins lucrativos
 
-Para organizações que se qualificam para os planos sem fins lucrativos da Microsoft 365 ou do Office 365, esses planos incluem exatamente os mesmos recursos que os planos comerciais correspondentes (por exemplo, o Office 365 nonlucro E5 inclui os mesmos recursos que o Office 365 E5). A única diferença entre os planos equivalentes é o preço que você paga. Para obter mais informações sobre os planos de não fins lucrativos do Microsoft 365 e do Office 365, confira comparar ofertas sem fins lucrativos do [microsoft 365 e office 365](https://go.microsoft.com/fwlink/?LinkID=627221)e [soluções de produtividade para não fins lucrativos](https://go.microsoft.com/fwlink/?LinkID=786641).
+Para organizações que se qualificam para o Microsoft 365 e o Office 365 planejam para não fins lucrativos, esses planos incluem exatamente os mesmos recursos que os planos de negócios correspondentes (por exemplo, o Office 365 E5 para não fins lucrativos inclui os mesmos recursos que o Office 365 E5). A única diferença entre os planos equivalentes é o preço que você paga. Para obter mais informações sobre os planos do Microsoft 365 e do Office 365 para não fins lucrativos, consulte [comparar o microsoft 365 e o office 365 oferece para não fins lucrativos](https://go.microsoft.com/fwlink/?LinkID=627221)e [soluções de produtividade para não fins lucrativos](https://go.microsoft.com/fwlink/?LinkID=786641).
   
 ## <a name="system-requirements"></a>Requisitos do sistema
 
@@ -83,7 +83,7 @@ Para informações específicas sobre preços e recursos nos planos de vários t
     
 - Governo dos EUA: [Planos do Office 365 Government nos EUA](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- Sem fins lucrativos: [Compare o Microsoft 365 e o Office 365 ofertas sem fins lucrativos](https://go.microsoft.com/fwlink/?LinkID=733237)
+- Sem fins lucrativos: [comparar o Microsoft 365 e o Office 365 oferece para não fins lucrativos](https://go.microsoft.com/fwlink/?LinkID=733237)
 
 - Office 365 Germany: [Planos do Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     

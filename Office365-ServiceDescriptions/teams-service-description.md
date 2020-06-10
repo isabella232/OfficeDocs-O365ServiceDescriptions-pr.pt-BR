@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: O Microsoft Teams fornece mensagens instantâneas, colaboração de arquivos e dados, chamadas de áudio e vídeo, reuniões online avançadas, experiências móveis e recursos de Webconferência abrangentes.
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356889"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679578"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
 O Microsoft Teams é o Hub para trabalho em equipe no Microsoft 365. O serviço Teams permite mensagens instantâneas, chamadas de áudio e vídeo, reuniões online avançadas, experiências móveis e recursos de Webconferência abrangentes. Além disso, o Microsoft Teams oferece colaboração de dados e recursos e recursos de extensibilidade e integra-se com o Microsoft 365 e outros aplicativos de parceiros e da Microsoft.
 
-O Skype for Business online será desativado no dia 31 de julho de 2021, que foi [lançado](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) em 30 de julho de 2019. O Microsoft Teams é um serviço totalmente novo, desenvolvido para a nuvem desde o início, aproveitando o Azure e outras inovações de serviço da Microsoft. O Microsoft Teams é desenvolvido em grupos do Office 365, Microsoft Graph e com a mesma segurança de nível empresarial, conformidade e capacidade de gerenciamento como o restante do Office 365. O Microsoft Teams aproveita as identidades armazenadas no Azure Active Directory (Azure AD). Esses serviços são fornecidos pelos data centers da Microsoft e são acessíveis aos usuários em uma ampla variedade de dispositivos de dentro de uma rede corporativa ou pela Internet. Para obter mais informações, consulte os [pôsteres de arquitetura de ti e soluções de telefonia do Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
+O Skype for Business online será desativado no dia 31 de julho de 2021, que foi [lançado](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) em 30 de julho de 2019. O Microsoft Teams é um serviço totalmente novo, desenvolvido para a nuvem desde o início, aproveitando o Azure e outras inovações de serviço da Microsoft. O Microsoft Teams é desenvolvido em grupos da Microsoft 365, Microsoft Graph e com a mesma segurança de nível empresarial, conformidade e capacidade de gerenciamento como o restante do Office 365. O Microsoft Teams aproveita as identidades armazenadas no Azure Active Directory (Azure AD). Esses serviços são fornecidos pelos data centers da Microsoft e são acessíveis aos usuários em uma ampla variedade de dispositivos de dentro de uma rede corporativa ou pela Internet. Para obter mais informações, consulte os [pôsteres de arquitetura de ti e soluções de telefonia do Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
 
 A Microsoft continua comprometida com a segurança de seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [central de confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e o centro de acessibilidade do [Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
