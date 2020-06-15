@@ -1,5 +1,5 @@
 ---
-title: Centro de Conformidade e Segurança
+title: Centro de conformidade e segurança
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade de segurança &amp; foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267320"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711111"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -59,7 +59,7 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 |[Chave de Cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |||||||||
 
-<sup>1</sup> o controle de informações permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede.
+<sup>1</sup> o controle de informações permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede. Esses recursos estão disponíveis em E3 e e5, com apenas disponibilidade limitada no E1. Para obter uma lista completa dos recursos disponíveis no E1, E3 e e5, consulte a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> o controle avançado de informações permite que você mantenha informações importantes e exclua informações não importantes classificando informações com base em uma política de retenção ou exclusão ou ambos. Ele inclui ações inteligentes/automatizadas, como a recomendação de políticas, a aplicação automática de rótulos a dados, a aplicação de rótulos com base em tipos de dados sigilosos ou consultas, revisão de disposição e uso de filtros de importação inteligentes. Ele também inclui o recurso de supervisão para a análise de comunicações de funcionários por motivos de segurança e conformidade.
 
@@ -115,7 +115,7 @@ limite de <sup>3</sup> a 50 GB.
 |[Gerenciamento de acesso privilegiado](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Não   |Não   |Não   |Não   |Sim   |Não   |Não|Não|Não|
 |||||||||
 
-<sup>1</sup> o controle de informações permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede.
+<sup>1</sup> o controle de informações permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede. Esses recursos estão disponíveis em E3 e e5, com apenas disponibilidade limitada no E1. Para obter uma lista completa dos recursos disponíveis no E1, E3 e e5, consulte a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> requer a compra do complemento de arquivamento do Exchange Online.
 
