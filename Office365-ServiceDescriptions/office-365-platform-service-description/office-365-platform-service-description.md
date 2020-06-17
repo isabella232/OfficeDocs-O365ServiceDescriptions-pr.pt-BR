@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft 365 e o Office 365 estão disponíveis em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos, incluindo os planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 47c1c475204f891c69f327bd8008931685df898b
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679568"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768127"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrição dos serviços das plataformas Microsoft 365 e Office 365
 
@@ -103,7 +103,8 @@ Vários dos planos do Microsoft 365 para empresas têm complementos que você po
 |API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft myAnalytics<sup>20</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Microsoft Planner  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft PowerApps  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>12</sup> <br/> |
+|Microsoft PowerApps  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>12</sup> <br/> | 
+|Microsoft Project para a Web <sup>23</sup> <br/> |Sim <br/> |Não <br/>|Sim <br/> |Sim <br/> |Sim <br/> |Sim <br/> | Sim <br/> |
 |Microsoft StaffHub  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Stream  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
@@ -226,3 +227,4 @@ Vários dos planos do Microsoft 365 para empresas têm complementos que você po
 <br/><sup>20</sup> para obter mais informações, consulte [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>21</sup> inclui os recursos do Azure Active Directory descritos na coluna **aplicativos do Office 365** na página de [preços do Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Você deve adicionar o Azure Active Directory Plan 1 ou o plano 2, o Enterprise Mobile Security ou o Microsoft 365 E3 ou E5 para obter os recursos premium do Azure AD.<br/>
 <sup>22</sup> o email de resumo é fornecido automaticamente para todos os usuários do Exchange Online. Para obter mais informações, consulte [Configure briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>
+<sup>23</sup> para obter detalhes do recurso, consulte a [Descrição do serviço do Microsoft Project](../project-online-service-description/project-online-service-description.md). Os usuários recebem acesso de direitos limitados ao Project para a Web. Esses direitos são restritos para uso apenas com o projeto do aplicativo Web e apenas para locatários que têm uma licença do plano de projeto 1, plano de projeto 3 ou Project Plan 5. Esses direitos não concedem acesso a aplicativos de plataforma de energia ou outros conjuntos de dados, o cliente de desktop do Project online ou o Project online.
