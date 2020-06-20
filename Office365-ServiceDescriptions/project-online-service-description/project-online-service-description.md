@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213873"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820609"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -92,37 +92,37 @@ Na tabela acima, o número de cheques (**x**) indica o nível geral de recursos 
 
 Os recursos listados nesta seção interagem somente com dados no projeto para o repositório de dados da Web. Todos esses recursos estão disponíveis em todas as assinaturas do Microsoft Project: plano de projeto 1, plano de projeto 3 e plano de projeto 5.
 
-|Recurso | Descrição |
-|--------|-------------|
-|**Gerenciamento de projetos, tarefas e tempo**||
-|Exibição de quadro | Acompanhe as tarefas do projeto visualmente para melhorar o fluxo de trabalho e o monitoramento de status usando as placas de tarefas personalizadas e prontas.|
-|Dependências | Definir e controlar visualmente as dependências entre tarefas.|
-|Exibição de grade | Planejar e gerenciar projetos usando uma exibição de grade hierárquica de tarefas.|
-|Marcos | Estabelecer e acompanhar Marcos de tarefas e projetos importantes.|
-|Página inicial do projeto | Obtenha uma visão dos projetos que você trabalhou recentemente, bem como projetos importantes que você precisa monitorar de perto.|
-|Agendamento de tarefas | Use datas de início e término da tarefa, esforço, trabalho e dependências para obter uma agenda precisa das datas do projeto.|
-|Exibição de linha do tempo (gráfico de Gantt) | Rastreie e entenda visualmente datas, dependências e atribuições de projetos em um modo de exibição de linha do tempo hierárquico.|
-|Tarefas de resumo | Planejar, gerenciar e acompanhar produtos e fases usando tarefas de resumo.|
-|**Colaboração**||
-|Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup>|
-|**Gerenciamento de recursos e programas**||
-|Configuração da equipe de projeto | Gerenciar uma equipe de projeto adicionando e removendo membros e definindo o calendário de trabalho.|
-|Roteiros | Crie mapas visuais e interativos entre projetos do Microsoft Project online, do Microsoft Project para os projetos Web e do Azure Boards. <sup>2</sup> com o plano de projeto 1 você obtém acesso somente leitura aos mapas. Com o plano de projeto 3 ou o plano de projeto 5, você também pode criar mapas. |
-|**Relatório**<sup>3</sup>||
-|Relatórios prontos para uso | Use relatórios pré-criados para entender os dados do projeto, do programa, do portfólio e do recurso.|
-|Relatórios personalizados | Entenda os dados importantes para a sua organização criando relatórios personalizados com base em relatórios prontos para uso ou a partir do zero.|
-|Painéis e portais | Criar painéis e portais personalizados para ajudar a atender às necessidades específicas da organização.|
-|**Praticidade**||
-|Coautoria | Trabalhe em conjunto com participantes e membros da equipe para compilar, editar e atualizar simultaneamente listas de tarefas, cronogramas do projeto e muito mais.|
-|Indicadores gráficos | Compreenda o status da tarefa, as atribuições e muito mais com indicadores gráficos. |
-|**Mobilidade**||
-|Aplicativos móveis | Criar aplicativos móveis personalizados com o PowerApps. <sup>4</sup> |
-|**Personalização e integração**||
-|PowerApps | Construa e consuma soluções para Web e móveis com o PowerApps. <sup>4</sup> |
-|Fluxos de trabalho | Automatize e integre processos de negócios com automatização de energia. <sup>5</sup> |
-|Integração da Microsoft | Colaborar, gerenciar documentos e mais usando aplicativos e ferramentas da Microsoft conhecidos. <sup>1</sup> |
-|**Gerenciamento de segurança e de usuários**||
-|Grupos modernos do Office | Crie uma equipe de projeto para colaborar com o e configurar facilmente uma coleção de recursos para que os membros da equipe compartilhem.|
+|Recurso | Descrição | Licenças do Office 365 | Plano 1 | Plano 3 | Plano 5|
+|--------|-----------------------------|--------------|------------|------------|------------|
+|**Gerenciamento de projetos, tarefas e tempo**||||||
+|Exibição de quadro | Acompanhe as tarefas do projeto visualmente para melhorar o fluxo de trabalho e monitoramento de status usando quadros de tarefas personalizados e prontos para uso.| Somente exibição | Sim | Sim| Sim|
+|Dependências | Definir e controlar visualmente as dependências entre tarefas.| Somente exibição | Sim | Sim| Sim|
+|Exibição de grade | Planejar e gerenciar projetos usando uma exibição de grade hierárquica de tarefas. | Somente exibição | Sim | Sim | Sim |
+|Marcos | Estabelecer e acompanhar Marcos de tarefas e projetos importantes.|Somente exibição | Sim | Sim | Sim |
+|Página inicial do projeto | Controlar e gerenciar os resultados usando datas de início e término e agendamento automatizado.| Sim | Sim | Sim | Sim |
+|Agendamento de tarefas | Obtenha uma visão dos projetos que você trabalhou recentemente, bem como projetos importantes que você precisa monitorar de perto.| Somente exibição | Sim | Sim | Sim |
+|Exibição de linha do tempo (gráfico de Gantt) | Rastreie e entenda visualmente datas, dependências e atribuições de projetos em um modo de exibição de linha do tempo hierárquico.|Somente exibição | Sim | Sim | Sim |
+|Tarefas de resumo | Planejar, gerenciar e acompanhar produtos e fases usando tarefas de resumo.| Somente exibição | Sim | Sim | Sim |
+|**Colaboração** ||||||
+|Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim | Sim | Sim |
+|**Gerenciamento de recursos e programas** ||||||
+|Configuração da equipe de projeto | Gerenciar uma equipe de projeto adicionando e removendo membros e definindo o calendário de trabalho. | Não | Sim | Sim | Sim |
+|Roteiros | Crie mapas visuais e interativos entre projetos do Microsoft Project online, do Microsoft Project para os projetos Web e do Azure Boards. <sup>2</sup>   Com o plano de projeto 1, você obtém acesso somente leitura aos mapas. Com o plano de projeto 3 ou o plano de projeto 5, você também pode criar mapas. | Somente exibição | Somente exibição | Sim | Sim |
+|**Relatório**<sup>3</sup> ||||||
+|Relatórios prontos para uso | Use relatórios pré-criados para entender os dados do projeto, do programa, do portfólio e do recurso. | Não | Sim | Sim | Sim |
+|Relatórios personalizados | Entenda os dados importantes para a sua organização criando relatórios personalizados com base em relatórios prontos para uso ou a partir do zero. | Não | Sim | Sim | Sim |
+|Painéis e portais | Criar painéis e portais personalizados para ajudar a atender às necessidades específicas da organização.| Não | Sim | Sim | Sim |
+|**Praticidade** ||||||
+|Coautoria | Trabalhe em conjunto com participantes e membros da equipe para compilar, editar e atualizar simultaneamente listas de tarefas, cronogramas do projeto e muito mais.| Somente exibição | Sim | Sim | Sim |
+|Indicadores gráficos | Compreenda o status da tarefa, as atribuições e muito mais com indicadores gráficos.| Somente exibição | Sim | Sim | Sim |
+|**Mobilidade** ||||||
+|Aplicativos móveis | Criar aplicativos móveis personalizados com o PowerApps. <sup>4</sup> |Não | Não | Sim | Sim |
+|**Personalização e integração**||||||
+|PowerApps | Construa e consuma soluções para Web e móveis com o PowerApps. <sup>4</sup> | Não | Não | Sim | Sim |
+|Fluxos de trabalho | Automatize e integre processos de negócios com automatização de energia. <sup>5</sup> | Não | Não | Sim | Sim |
+|Integração da Microsoft | Colaborar, gerenciar documentos e muito mais usando ferramentas e aplicativos conhecidos da Microsoft. <sup>1</sup> | Sim | Sim | Sim | Sim |
+|**Gerenciamento de segurança e de usuários**||||||
+|Grupos modernos do Office | Crie uma equipe de projeto para colaborar com o e configurar facilmente uma coleção de recursos para que os membros da equipe compartilhem. | Sim | Sim | Sim | Sim |
 
 ### <a name="project-online-features"></a>Recursos do Project Online
 
@@ -141,7 +141,7 @@ Os recursos listados nesta seção interagem apenas com os dados do repositório
 |Exibição de grade | Planejar e gerenciar projetos usando uma exibição de grade hierárquica de tarefas usando o Project Web App.| Sim | Sim |
 |Gerenciamento de problemas e riscos | Identificar e acompanhar problemas e riscos no nível do projeto e da tarefa.| Sim | Sim |
 |Projetos principais | Agrupar projetos relacionados menores em um único projeto mestre usando o Project Web App. | Sim | Sim |
-|Notificações | Fique na parte superior das atribuições de tarefas, status e eventos importantes do projeto com as notificações do Outlook e do Microsoft Teams. <sup>1</sup> | Sim | Sim |
+|Notifications | Fique na parte superior das atribuições de tarefas, status e eventos importantes do projeto com as notificações do Outlook e do Microsoft Teams. <sup>1</sup> | Sim | Sim |
 |Página inicial do projeto | Obtenha uma visão dos projetos que você trabalhou recentemente, bem como projetos importantes que você precisa monitorar de perto.| Sim | Sim |
 |Controle de versão do projeto | Comparar versões diferentes de um projeto com um relatório que mostra o que foi alterado entre as versões. | Sim | Sim |
 |Tarefas de resumo | Planejar, gerenciar e acompanhar produtos e fases usando tarefas de resumo no Project Web App. | Sim | Sim |
@@ -181,7 +181,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 |Fórmula | Calcule e Capture dados importantes usando fórmulas entre tarefas e projetos. | Sim | Sim |
 |PowerApps | Construa e consuma soluções para Web e celular (por meio de OData) com PowerApps. <sup>4</sup> | Sim | Sim |
 |Fluxos de trabalho | Automatize e integre processos de negócios (por meio de OData) com automatização de energia. <sup>5</sup> | Sim | Sim |
-|Integração com o Microsoft 365 | Colaborar, gerenciar documentos e mais usando aplicativos e ferramentas da Microsoft conhecidos. <sup>1</sup> | Sim | Sim |
+|Integração com Microsoft 365 | Colaborar, gerenciar documentos e mais usando aplicativos e ferramentas da Microsoft conhecidos. <sup>1</sup> | Sim | Sim |
 |Integração do Microsoft Planner | Conectar tarefas do projeto a um plano do Planner e acompanhar o trabalho detalhado no Planner. <sup>1</sup> | Sim | Sim |
 |**Gerenciamento de segurança, usuário e serviço**||||
 |Integração do Active Directory | Criar equipes a partir de qualquer membro do Active Directory da sua organização. <sup>9</sup> | Sim | Sim |
@@ -192,7 +192,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 
 <sup>1</sup> requer uma assinatura comercial do Office ou do Microsoft 365.</br>
 <sup>2</sup> placas Azure adquiridas separadamente.</br>
-<sup>3</sup> os relatórios do Project para a Web e o Project online estão disponíveis usando o Power bi. Visualizar, editar e criar relatórios requer uma assinatura do Power BI pro. A Microsoft fornece um conjunto predefinido de relatórios do Power BI. Os usuários podem personalizar esses relatórios ou criar relatórios adicionais usando o Power BI.</br> 
+<sup>3</sup> os relatórios do Project para a Web e o Project online estão disponíveis usando o Power bi. A exibição, edição e criação de relatórios requer uma assinatura do Power BI. A Microsoft fornece um conjunto predefinido de relatórios do Power BI. Os usuários podem personalizar esses relatórios ou criar relatórios adicionais usando o Power BI.</br> 
 <sup>4</sup> criar e usar aplicativos móveis personalizados do powerapps que acessam o Project para dados da Web requer uma assinatura do PowerApps e uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
 <sup>5</sup> a automação e integração dos processos de negócios com a automatização de energia com o Project para os dados da Web requer uma assinatura automatizada de energia e uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
 <sup>6</sup> o licenciamento do Project online para usuários externos segue a mesma política que para usuários internos. Qualquer interação em um site do Project online requer uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
@@ -279,7 +279,7 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 
 |Entidade/campo | Limite |
 |-------------|-------|
-|**Task** ||
+|**Tarefa** ||
 |Máx. nível de hierarquia para a tarefa | 10 níveis |
 |Máx. links (sucessora + predecessor) de uma tarefa | 508 |
 |Máx. duração da tarefa de folha | 1250 dias |

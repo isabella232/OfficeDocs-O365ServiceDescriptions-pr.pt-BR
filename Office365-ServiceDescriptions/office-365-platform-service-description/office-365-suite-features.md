@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e comunicar com segurança entre vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226190"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820599"
 ---
 # <a name="microsoft-365-suite-features"></a>Recursos do Microsoft 365 Suite
 
@@ -57,11 +57,15 @@ O myAnalytics oferece informações sobre dois dos principais fatores em sua pro
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-O Microsoft Planner é uma ferramenta que oferece aos usuários uma maneira visual de organizar o trabalho em equipe. As equipes podem criar novos planos, organizar e atribuir tarefas, compartilhar arquivos, bater papo sobre o conteúdo no qual estão trabalhando, definir datas de conclusão e status de atualização. O Microsoft Planner oferece também a capacidade de associar documentos a tarefas específicas, editá-los em conjunto e realizar conversas sobre as tarefas. Para saber mais, confira [Apresentando o Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). O Planner ainda não está disponível no [Office 365 Germany](office-365-germany.md).
+Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
 O Microsoft PowerApps é um serviço corporativo que o ajuda a criar, integrar e compartilhar rapidamente os aplicativos que funcionam em qualquer dispositivo. O PowerApps permite que você use conexões internas ou as compiladas por sua empresa para conectar seu aplicativo à nuvem e aos serviços locais, incluindo Microsoft 365 e Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bancos de dados Oracle e muito mais. Para compartilhar facilmente o PowerApps com colegas de trabalho, basta digitar um endereço de email. Para saber mais, vá para o site do Microsoft [PowerApps](https://powerapps.microsoft.com/).
+
+## <a name="microsoft-project-for-the-web"></a>Microsoft Project para a Web
+
+O Project para a Web é a oferta mais recente da Microsoft para gerenciamento de projetos e trabalhos em nuvem. O Project para a Web fornece recursos de gerenciamento de trabalho simples e eficientes para atender à maioria das necessidades e funções. Os gerentes de projeto e os membros da equipe podem usar o Project para a Web para planejar e gerenciar o trabalho de qualquer tamanho. Para saber mais, vá para o [site do Microsoft Project](https://aka.ms/MicrosoftProject).
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -89,7 +93,7 @@ Os grupos no Microsoft 365 conectam usuários com os colegas, as informações e
   
 ## <a name="office-365-video"></a>Vídeo do Office 365
 
-O Vídeo do Office 365 é um destino seguro para toda a empresa, no qual você pode carregar, compartilhar e descobrir vídeos em seus dispositivos, com a tecnologia dos Serviços de Mídia do Microsoft Azure. O Vídeo do Office 365 pode ajudar a manter os visualizadores envolvidos e informados, comunicar ideias de forma ampla e manter as organizações sincronizadas. Para saber mais, confira [Introdução ao Vídeo do Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Bloco de Anotações de Classe do OneNote
 
