@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711131"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845005"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -119,7 +119,7 @@ Para obter informações sobre como configurar o serviço, consulte [configuraç
 
 Os administradores podem fazer o escopo de implantações do OCAS para impor como determinados aplicativos são acessados e limitar os grupos de usuários monitorados pelo Office 365 Cloud app Security. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Segurança no aplicativo na nuvem da Microsoft
 
 O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos de nuvem e serviços, fornece uma análise sofisticada para identificar e combater as ameaças da Cyber e permite que elas controlem como os dados são transferidos &mdash; em qualquer aplicativo de nuvem.
 
@@ -210,6 +210,8 @@ Os usuários se beneficiam com a possibilidade de classificar dados para fins de
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
+O Office 365 E5/a5/E3/a3/E1/a1 fornece recursos básicos de controle de informações para aplicar rótulos de retenção de não registros manualmente, importar arquivos PST e arquivar emails.
+
 O Microsoft 365 E5/a5/E3/a3, o Office 365 E5/a5/E3 fornece os direitos para um usuário se beneficiar de uma única política de retenção em toda a organização ou de todo o local e/ou uma etiqueta de retenção manual.
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, proteção e governança de informações do Microsoft 365 o Office 365 E5/a5 e o Office 365 Advanced Compliance fornecem os direitos para que um usuário se beneficie de aplicar automaticamente rótulos de retenção ou políticas, iniciando o período de retenção de um rótulo de retenção com base em um evento personalizado, disparando uma revisão de disposição manual no final do período de retenção do rótulo, importando dados de terceiros por meio de conectores de dados nativos
@@ -218,7 +220,7 @@ Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, proteção e governança 
 
 Para obter direitos específicos por licença, consulte a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-Não inclui direitos para retenção automática com base no aprendizado da máquina (classificadores estagiários).
+A conformidade avançada do Office 365 não inclui direitos para retenção automática com base no aprendizado da máquina (classificadores de treinamento).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -406,7 +408,7 @@ Os administradores podem personalizar locais (cargas de trabalho), usuários inc
 
 ## <a name="office-365-message-encryption"></a>Criptografia de Mensagem do Office 365
 
-Criptografia de Mensagens do Office 365 (OME) é um serviço integrado ao Azure Rights Management (Azure RMS) que permite o envio de emails criptografados para pessoas dentro ou fora da sua organização, independente do endereço de email de destino (Gmail, Yahoo! Email, Outlook.com, etc.).
+Office 365 Message Encryption (OME) is a service built on Azure Rights Management (Azure RMS) that lets you send encrypted email to people inside or outside your organization, regardless of the destination email address (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
 Para exibir mensagens criptografadas, os destinatários podem obter uma senha avulsa, entrar com uma conta da Microsoft ou com uma conta corporativa ou de estudante associada ao Office 365. Os destinatários também podem enviar respostas criptografadas. Eles não precisam de uma assinatura para exibir mensagens criptografadas ou enviar respostas criptografadas.
 
