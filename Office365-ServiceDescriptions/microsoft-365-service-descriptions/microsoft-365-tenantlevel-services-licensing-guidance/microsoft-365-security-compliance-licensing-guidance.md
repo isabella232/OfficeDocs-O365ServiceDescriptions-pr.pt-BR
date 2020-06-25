@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845005"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873620"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -210,17 +210,21 @@ Os usuários se beneficiam com a possibilidade de classificar dados para fins de
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
-O Office 365 E5/a5/E3/a3/E1/a1 fornece recursos básicos de controle de informações para aplicar rótulos de retenção de não registros manualmente, importar arquivos PST e arquivar emails.
+Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 e planos autônomos do Exchange fornecem os direitos para o usuário se beneficiar da aplicação manual de rótulos de retenção sem registro aos dados da caixa de correio.
 
-O Microsoft 365 E5/a5/E3/a3, o Office 365 E5/a5/E3 fornece os direitos para um usuário se beneficiar de uma única política de retenção em toda a organização ou de todo o local e/ou uma etiqueta de retenção manual.
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 e planos do SharePoint autônomos fornecem os direitos para que o usuário se beneficie de aplicar manualmente os rótulos de retenção de não-registro aos arquivos no SharePoint ou no OneDrive. 
 
-Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, proteção e governança de informações do Microsoft 365 o Office 365 E5/a5 e o Office 365 Advanced Compliance fornecem os direitos para que um usuário se beneficie de aplicar automaticamente rótulos de retenção ou políticas, iniciando o período de retenção de um rótulo de retenção com base em um evento personalizado, disparando uma revisão de disposição manual no final do período de retenção do rótulo, importando dados de terceiros por meio de conectores de dados nativos
+O Microsoft 365 E5/a5/E3/a3, o Office 365 E5/a5/E3/a3, o Exchange Plan 2 e o arquivamento do Exchange Online fornecem os direitos para que um usuário se beneficie de uma única política básica de retenção de toda a organização ou de todo o local e/ou para aplicar manualmente uma etiqueta de retenção de não-registro aos dados de caixa de correio.
+
+O Microsoft 365 E5/a5/E3/a3, o Office 365 E5/a5/E3/a3 e o SharePoint Plan 2 fornecem os direitos para o usuário se beneficiar de uma política de retenção básica do SharePoint ou do OneDrive e/ou para aplicar manualmente um rótulo de retenção de não registro a arquivos no SharePoint ou no OneDrive.
+
+O Microsoft 365 E5/a5/E3/a3 e o Office 365 E5/a5/E3 fornecem os direitos para um usuário se beneficiar de uma política de retenção do teams.
+
+Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, Microsoft 365 Information Protection e governança, Office 365 E5/a5 e Office 365 Advanced Compliance fornecem os direitos para o usuário se beneficiar de aplicar automaticamente rótulos de retenção ou políticas, aplicando rótulos ou políticas de retenção padrão, iniciando o período de retenção de um rótulo de retenção com base em um evento personalizado, acionando uma revisão de disposição manual no final do período de retenção do rótulo, importando dados de terceiros por meio de conectores de dados nativos, declarando um registro de arquivo a, descobrindo conteúdo rotulado e monitorar a atividade de rotulação.
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, proteção e governança de informações da Microsoft 365 fornecem os direitos para que um usuário se beneficie de aplicar automaticamente os rótulos de retenção com base em classificadores estagiários.
 
 Para obter direitos específicos por licença, consulte a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-A conformidade avançada do Office 365 não inclui direitos para retenção automática com base no aprendizado da máquina (classificadores de treinamento).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -390,9 +394,7 @@ Os usuários se beneficiam dos recursos avançados de conformidade das barreiras
 | Cenário | Quem requer uma licença? |
 |:-------|:------|
 | Dois grupos (grupo 1 e grupo 2) não podem se comunicar uns com os outros (ou seja, os usuários do grupo 1 estão restritos à comunicação com usuários do grupo 2 e os usuários do grupo 2 estão restritos à comunicação com usuários do grupo 1. | Usuários no grupo 1 e no grupo 2 |
-| Os usuários no grupo 1 estão restritos à comunicação com o restante da empresa. | Usuários somente no grupo 1 |
-| O restante da empresa está restrito à comunicação com o grupo 1. | Todos os usuários, exceto aqueles no grupo 1 |
-| Os usuários do grupo 1 estão restritos à comunicação com usuários do grupo 2, mas os usuários do grupo 2 podem se comunicar com usuários do grupo 1. | Usuários somente no grupo 1 ||
+| Os usuários no grupo 1 estão restritos à comunicação com o restante da empresa. | Usuários somente no grupo 1 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
