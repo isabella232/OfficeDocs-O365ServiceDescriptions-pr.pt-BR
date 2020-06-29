@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873620"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909444"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -129,7 +129,7 @@ O MCAS descobre e avalia o sombreamento, oferece proteção contra ameaças em a
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
-MCAS, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security e a proteção e governança de informações do Microsoft 365 fornecem os direitos para um usuário se beneficiar do MCAS.
+MCAS, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, Microsoft 365 E5/a5/G5 conformidade e proteção e governança de informações da Microsoft 365 fornecem os direitos para o usuário se beneficiar do MCAS.
 
 O Azure AD P1 fornece os direitos para um usuário se beneficiar dos recursos de descoberta no MCAS.
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 e planos autônomos do Ex
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 e planos do SharePoint autônomos fornecem os direitos para que o usuário se beneficie de aplicar manualmente os rótulos de retenção de não-registro aos arquivos no SharePoint ou no OneDrive. 
 
-O Microsoft 365 E5/a5/E3/a3, o Office 365 E5/a5/E3/a3, o Exchange Plan 2 e o arquivamento do Exchange Online fornecem os direitos para que um usuário se beneficie de uma única política básica de retenção de toda a organização ou de todo o local e/ou para aplicar manualmente uma etiqueta de retenção de não-registro aos dados de caixa de correio.
+O Microsoft 365 E5/a5/E3/a3/Business Premium, o Office 365 E5/a5/E3, o Exchange Plan 2 e o arquivamento do Exchange Online fornecem os direitos para que um usuário se beneficie de uma política de retenção básica em toda a organização ou de todo o local e/ou para aplicar manualmente um rótulo de retenção de não-registro aos dados de caixa de correio.
 
 O Microsoft 365 E5/a5/E3/a3, o Office 365 E5/a5/E3/a3 e o SharePoint Plan 2 fornecem os direitos para o usuário se beneficiar de uma política de retenção básica do SharePoint ou do OneDrive e/ou para aplicar manualmente um rótulo de retenção de não registro a arquivos no SharePoint ou no OneDrive.
 

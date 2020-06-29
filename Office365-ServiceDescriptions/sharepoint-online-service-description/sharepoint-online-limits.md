@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Saiba mais sobre os limites do SharePoint para o Microsoft 365 e planos autônomos.
-ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873611"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909434"
 ---
 # <a name="sharepoint-limits"></a>Limites do SharePoint
 
@@ -49,7 +49,9 @@ Uma lista pode ter até 30 milhões itens e uma biblioteca pode ter até 30 milh
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Permissões exclusivas para itens em uma lista ou biblioteca
 
-O limite com suporte é 50.000, mas o limite geral recomendado é 5.000. Fazer alterações em mais de 5.000 itens com permissões exclusivas por vez leva mais tempo. Para listas grandes, design para ter o menor número possível de permissões exclusivas.
+O limite com suporte é de 50.000 itens com permissão exclusiva, mas o limite geral recomendado é 5.000. Fazer alterações em mais de 5.000 itens com permissões exclusivas por vez leva mais tempo. Para listas grandes, design para ter o menor número possível de permissões exclusivas.
+
+Outro limite é de 5.000 atribuições de função por item com permissão exclusiva. 
 
 ### <a name="file-size-and-file-path-length"></a>Tamanho do arquivo e comprimento do caminho do arquivo
 
