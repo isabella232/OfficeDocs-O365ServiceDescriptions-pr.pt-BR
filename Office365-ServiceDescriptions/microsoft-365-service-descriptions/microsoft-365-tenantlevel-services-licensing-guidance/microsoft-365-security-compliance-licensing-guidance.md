@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909444"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988865"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -497,7 +497,7 @@ O acesso condicional é a ferramenta usada pelo Azure Active Directory para traz
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
-Usuários licenciados da Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3 e Azure Active Directory Premium plano 1 podem se beneficiar de políticas de acesso condicional. Usuários licenciados da Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5, Microsoft E5 Security e Azure Active Directory Premium plano 2 podem se beneficiar da proteção de identidade (políticas de acesso condicional com base em risco).
+Usuários licenciados da Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3/Business Premium e Azure Active Directory Premium plano 1 podem se beneficiar de políticas de acesso condicional. Usuários licenciados da Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5, Microsoft E5 Security e Azure Active Directory Premium plano 2 podem se beneficiar da proteção de identidade (políticas de acesso condicional com base em risco).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 

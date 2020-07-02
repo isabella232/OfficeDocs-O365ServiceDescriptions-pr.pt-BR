@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: O Microsoft 365 Business Premium é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. O Microsoft 365 Business Premium é uma solução integrada que reúne a produtividade da Microsoft 365, segurança avançada e gerenciamento de dispositivos.
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213953"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988855"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -34,7 +34,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online, PowerApps, automatização de energia | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>1</sup> | Sim | Sim |
 |   | Aplicativos de negócios &ndash; MileIQ<sup>1</sup> | Sim | Sim |
-|**Proteção contra ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
+|**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
 |   | Imposição do Windows Exploit Guard | Não | Sim  |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendimento para contas híbridas do Active Directory | Não | Sim |
 |   | Autenticação multifator do Azure, políticas de acesso condicional | Não | Sim |
@@ -65,7 +65,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, automatização de energia<sup>1</sup> | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>2</sup> | Sim | Sim |
 |   | Business apps &ndash; MileIQ<sup>2</sup> | Não | Sim |
-|**Proteção contra ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
+|**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim |
 |   | Imposição do Windows Exploit Guard | Não | Sim |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendimento para contas híbridas do Active Directory | Não | Sim |
 |   | Autenticação multifator do Azure, políticas de acesso condicional | Não  | Sim |
@@ -98,7 +98,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, automatização de energia<sup>1</sup> | Sim | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>2</sup> | Sim | Sim | Sim |
 |   | Business apps &ndash; MileIQ<sup>2</sup> | Sim | Sim | Não |
-|**Proteção contra ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim | Não |
+|**Proteção contra Ameaças** | Proteção Avançada contra Ameaças do Office 365 | Não | Sim | Não |
 |   | Imposição do Windows Exploit Guard | Não | Sim | Não |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendimento para contas híbridas do Active Directory | Não | Sim | Não |
 |   | Autenticação multifator do Azure, políticas de acesso condicional | Não | Sim | Não |
@@ -132,12 +132,12 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |   | Stream | | Sim | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>1</sup> | Sim | Sim | Sim | Sim |
 |   | Aplicativos de negócios &ndash; MileIQ<sup>1</sup> | Sim | Sim | Não | Não |
-|**Proteção contra ameaças** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, proteção de dados corporativos | Não | Não | Sim | Sim |
+|**Proteção contra Ameaças** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, proteção de dados corporativos | Não | Não | Sim | Sim |
 |   | Proteção Avançada contra Ameaças do Office 365 | Não | Sim | Não | Sim |
 |   | Proteção Avançada Contra Ameaças do Windows Defender | Não | Não | Não | Sim |
 |   | Inteligência contra Ameaças do Office 365 | Não | Não  | Não | Sim |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendimento para contas híbridas do Azure Active Directory, Azure MFA, acesso condicional   | Não | Sim | Sim | Sim |
-|   | Azure AD: descoberta de aplicativo de nuvem, integridade do Azure AD Connect, SSO para mais de 10 aplicativos | Não | Não | Sim | Sim |
+|   | Azure AD: descoberta de aplicativo de nuvem, integridade do Azure AD Connect, SSO para mais de 10 aplicativos | Sim | Sim | Sim | Sim |
 |   | Plano 2 do Azure Active Directory | Não | Não | Não | Sim |
 |**Gerenciamento de aplicativos de & de dispositivos** | Microsoft Intune, piloto automático do Windows | Não | Sim | Sim | Sim |
 |   | Ativação de computador compartilhado, área de trabalho virtual do Windows | Não | Sim | Sim | Sim |
@@ -160,7 +160,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 
 ## <a name="office-client-commercial-plans"></a>Planos comerciais de cliente do Office
 
-| **Aplicativos** | **Aplicativos do Microsoft 365 para empresas** | **Aplicativos do Microsoft 365 para empresas** |
+| **Aplicativos** | **Aplicativos do Microsoft 365 para empresas** | **Microsoft 365 Apps para empresas** |
 |------------------|-------------------------|------------------------|
 | Word             | Sim                     | Sim                    |
 | Excel            | Sim                     | Sim                    |
@@ -170,7 +170,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 | Publisher        | Sim                     | Sim                    |
 | Access           | Sim                     | Sim                    |
 | Microsoft Teams  | Sim                     | Sim                    |
-| **Valor Premium**                             | **Aplicativos do Microsoft 365 para empresas** | **Aplicativos do Microsoft 365 para empresas** |
+| **Valor Premium**                             | **Aplicativos do Microsoft 365 para empresas** | **Microsoft 365 Apps para empresas** |
 | Ativação de volume                             | Não                      | Não                     |
 | Política de grupo<sup>1</sup>                      | Não                      | Sim                    |
 | Ativação de computador compartilhado                    | Sim<sup>7</sup>        | Sim                    |
@@ -183,12 +183,12 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 | Business intelligence                         | Não                      | Sim<sup>5</sup>        |
 | Criar IRM<sup>3</sup>                        | Sim<sup>7</sup>        | Sim                    |
 | Prevenção de perda de dados<sup>3</sup>              | Sim<sup>7</sup>        | Sim<sup>5</sup>        |
-| **Valor da nuvem**                  | **Aplicativos do Microsoft 365 para empresas** | **Aplicativos do Microsoft 365 para empresas** |
+| **Valor da nuvem**                  | **Aplicativos do Microsoft 365 para empresas** | **Microsoft 365 Apps para empresas** |
 | Grupos                           | Sim                     | Sim                    |
 | Ferramenta de Implantação do Office           | Sim                     | Sim                    |
 | Configurações de & de documentos móveis     | Sim                     | Sim                    |
 | 1 TB OneDrive for Business       | Sim                     | Sim                    |
-| **Licenciamento**                                   | **Aplicativos do Microsoft 365 para empresas** | **Aplicativos do Microsoft 365 para empresas** |
+| **Licenciamento**                                   | **Aplicativos do Microsoft 365 para empresas** | **Microsoft 365 Apps para empresas** |
 | Modelo de licenciamento                                 | Por usuário                | Por usuário               |
 | Tipo de licença                                    | Assinatura            | Assinatura           |
 | Instalações de PC/Mac<sup>6</sup>                     | 5                        | 0,5                      |
