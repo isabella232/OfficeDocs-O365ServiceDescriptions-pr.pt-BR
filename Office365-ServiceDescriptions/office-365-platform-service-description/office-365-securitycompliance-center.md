@@ -1,5 +1,5 @@
 ---
-title: Centro de conformidade e segurança
+title: Centro de Conformidade e Segurança
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,12 +10,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade de segurança &amp; foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711111"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043033"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -50,6 +49,7 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 |[exportação de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Não   |Não   |Não   |Não   |Sim   |Sim   |Não   |
 |[Descoberta eletrônica avançada](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Arquivamento](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |Sim<sup>3</sup>  |Sim<sup>3</sup>  |Sim<sup>3</sup>   |Sim<sup>3</sup>  |Sim<sup>4</sup>  |Sim<sup>4</sup>  |Não   |
+|[Políticas de alerta](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |Sim   |Sim   |Sim|Sim   |Sim   |Sim   |Sim   |
 |[Auditoria básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sim   |Sim   |Sim|Sim   |Sim   |Sim   |Sim   |
 |[Auditoria avançada](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Conformidade de comunicação (políticas de supervisão)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
