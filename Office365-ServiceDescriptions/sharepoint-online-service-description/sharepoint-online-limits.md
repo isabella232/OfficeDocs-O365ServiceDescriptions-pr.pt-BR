@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Saiba mais sobre os limites do SharePoint para o Microsoft 365 e planos autônomos.
-ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
+ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909434"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45082253"
 ---
 # <a name="sharepoint-limits"></a>Limites do SharePoint
 
@@ -59,7 +59,11 @@ Outro limite é de 5.000 atribuições de função por item com permissão exclu
 
 ### <a name="moving-and-copying-across-sites"></a>Movendo e copiando entre sites
 
-100 GB por operação. O navegador da Web deve permanecer aberto.
+A cópia/movimentação de vários arquivos em uma única operação tem três requisitos: 
+
+- Até 100 GB de tamanho total de arquivo 
+- No máximo 30.000 arquivos
+- Cada arquivo deve ter menos de 2 GB
 
 ### <a name="sync"></a>Sincronizar
 
