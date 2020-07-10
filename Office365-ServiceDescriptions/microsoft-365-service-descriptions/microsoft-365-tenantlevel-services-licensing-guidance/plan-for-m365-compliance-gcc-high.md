@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, em que o uso do Microsoft 365 governamental – GCC High é apropriado para atender a esses requisitos.
-ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Esta orientação é para profissionais de ti que estão gerando implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos às normas e aos requisitos governamentais, em que o uso do Microsoft 365 governamental – GCC High é adequado para atender a esses requisitos.
+ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262824"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089632"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plano para conformidade com o Microsoft 365 – GCC High
 
-Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, em que o uso do Microsoft 365 governamental – GCC High é apropriado para atender a esses requisitos.
+Esta orientação é para profissionais de ti que estão gerando implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos às normas e aos requisitos governamentais, em que o uso do Microsoft 365 governamental – GCC High é adequado para atender a esses requisitos.
 
 > [!NOTE]
 >Se sua organização já atendeu aos requisitos de qualificação do governo Microsoft 365 – GCC altos e foram aplicados e foram aceitos no programa, você pode ignorar as etapas 1 e 2 e ir diretamente para a etapa 3.
@@ -37,7 +37,7 @@ Você pode encontrar mais informações sobre a oferta do Microsoft 365 governam
 A [Descrição do serviço governo dos EUA do Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descreve os benefícios da plataforma, que são centralizados em atender aos requisitos de conformidade nos Estados Unidos.
 
 > [!TIP]
-> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n**. Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
+> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização**   e **atender às necessidades da minha organização y/n**. Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
 
 **Pontos de decisão**:<br/>
 - *Decida se o Microsoft 365 governamentais – GCC-alto é apropriado para sua organização.*
@@ -79,16 +79,16 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Explorador de Atividade de Rótulo                         | Na Backlog de engenharia |
 |                                         | Classificadores estagiários                           | Na Backlog de engenharia |
 |                                         | Rótulo unificado e rótulos de confidencialidade         | Na Backlog de engenharia |
-| **Gerenciamento de risco do insider**             | Criptografia de mensagem avançada                     | Disponível              |
-|                                         | Gerenciamento de risco do insider                         | Na Backlog de engenharia |
+| **Gerenciamento de risco interno**             | Criptografia de mensagem avançada                     | Disponível              |
+|                                         | Gerenciamento de riscos internos                         | Na Backlog de engenharia |
 |                                         | Conformidade em comunicações                        | Na Backlog de engenharia |
-|                                         | Sistema de Proteção de Dados do Cliente                                | Disponível              |
+|                                         | Sistema de Proteção de Dados do cliente                                | Disponível              |
 |                                         | Chave de Cliente                                    | Disponível              |
 |                                         | Gerenciamento de acesso privilegiado                    | Na Backlog de engenharia |
 | **Descobrir & responder**                  | Reserva in-loco                            | Disponível              |
 |                                         | Gerenciamento de casos                                 | Disponível              |
-|                                         | Pesquisa                                          | Disponível              |
-|                                         | Exportar                                          | Disponível              |
+|                                         | Search                                          | Disponível              |
+|                                         | Exportação                                          | Disponível              |
 |                                         | Descriptografia do RMS                                  | Disponível              |
 |                                         | Exportação nativa                                   | Disponível              |
 |                                         | Processamento avançado                             | Disponível              |
@@ -107,6 +107,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Revisar e anotar                             | Na Backlog de engenharia |
 |                                         | Ingestão de 365 não-Office                        | Na Backlog de engenharia |
 |                                         | Relatório de termos de pesquisa                              | Na Backlog de engenharia |
+| **Gerenciamento de Conformidade**               | Pontuação de Conformidade                                | Na Backlog de engenharia |
 
 <sup>1</sup> o status identificado está sujeito a alterações à medida que os planos e as prioridades do projeto são reavaliados.<br/>
 <sup>2</sup> o aplicativo manual de rótulos requer o [cliente de proteção de informações do Azure (AIP) versão 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history). 

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988865"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089652"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -119,7 +119,7 @@ Para obter informações sobre como configurar o serviço, consulte [configuraç
 
 Os administradores podem fazer o escopo de implantações do OCAS para impor como determinados aplicativos são acessados e limitar os grupos de usuários monitorados pelo Office 365 Cloud app Security. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Segurança no aplicativo na nuvem da Microsoft
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos de nuvem e serviços, fornece uma análise sofisticada para identificar e combater as ameaças da Cyber e permite que elas controlem como os dados são transferidos &mdash; em qualquer aplicativo de nuvem.
 
@@ -393,8 +393,7 @@ Os usuários se beneficiam dos recursos avançados de conformidade das barreiras
 
 | Cenário | Quem requer uma licença? |
 |:-------|:------|
-| Dois grupos (grupo 1 e grupo 2) não podem se comunicar uns com os outros (ou seja, os usuários do grupo 1 estão restritos à comunicação com usuários do grupo 2 e os usuários do grupo 2 estão restritos à comunicação com usuários do grupo 1. | Usuários no grupo 1 e no grupo 2 |
-| Os usuários no grupo 1 estão restritos à comunicação com o restante da empresa. | Usuários somente no grupo 1 ||
+| Dois grupos (grupo 1 e grupo 2) não podem se comunicar uns com os outros (ou seja, os usuários do grupo 1 estão restritos à comunicação com usuários do grupo 2 e os usuários do grupo 2 estão restritos à comunicação com usuários do grupo 1. | Usuários no grupo 1 e no grupo 2 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
