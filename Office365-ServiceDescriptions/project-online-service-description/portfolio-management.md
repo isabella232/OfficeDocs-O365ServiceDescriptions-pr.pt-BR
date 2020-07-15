@@ -1,8 +1,7 @@
 ---
 title: Gerenciamento de portfólio
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Os recursos de gerenciamento de portfólio a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546064"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131225"
 ---
 # <a name="portfolio-management"></a>Gerenciamento de portfólio
 
@@ -37,19 +36,19 @@ Os recursos são pessoas, materiais ou custos necessários para realizar seu pro
   
 ## <a name="financial-management"></a>Gerenciamento financeiro
 
-Adote processos de gerenciamento financeiro para melhorar as estimativas de custos e benefícios. Acompanhe o desempenho de custos com eficiência para verificar se cada projeto foi implementado dentro do orçamento e se o portfólio alcançou os resultados esperados. Para saber mais, veja [Guia de soluções de gerenciamento de portfólio do Project (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Participar do fluxo de trabalho
 
-Os fluxos de trabalho oferecem uma maneira estruturada para o avanço pelas fases do projeto. Um fluxo de trabalho inclui as definições das etapas do ciclo de vida por meio das quais o projeto progride, como criação de proposta e aprovação inicial. O fluxo de trabalho define as informações necessárias ou bloqueadas em cada etapa.
+Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
   
 ## <a name="portfolio-analytics-and-selection"></a>Seleção e análise de portfólios
 
-Identifique, selecione e entregue com eficiência os portfólios de projeto que se alinham melhor à estratégia de negócios de sua organização e maximizam o retorno do investimento (ROI). Para saber mais, veja [Guia de soluções de gerenciamento de portfólio do Project (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Gerenciamento de programas
 
-No gerenciamento de programa, cada projeto tem seu próprio conjunto de metas que, quando combinadas entre si, proporcionam os benefícios previstos do programa geral. Para saber mais, confira [Guia de Soluções de Gerenciamento de Portfólio de Projetos (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>Roteiro
 

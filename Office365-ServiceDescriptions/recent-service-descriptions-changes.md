@@ -1,8 +1,7 @@
 ---
 title: Alterações recentes nas descrições de serviços
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: As tabelas a seguir listam alterações que foram feitas recentemente ao conteúdo de descrições de serviço.
-ms.openlocfilehash: fbc0d162eb2b0236b3fed3cfb1e938aadddb4084
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8a8463698ee378d375243baacdd87c7e77bc2983
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640119"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131075"
 ---
 # <a name="recent-service-descriptions-changes"></a>Alterações recentes nas descrições de serviços
 
@@ -50,8 +49,8 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
 |Plataforma do Office 365  <br/> |[Descrição de serviço da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Foram adicionadas informações de várias geografias à descrição do serviço de plataforma.  <br/> |
 ||[Descrição dos serviços da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Adicionou o Microsoft 365 Business.  <br/> |
-||[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |A entrada de limite de arquivamento alterada para "Sim" para o Microsoft 365 Business Basic e o Microsoft 365 Business Standard.  <br/> |
-||[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"Gerenciamento avançado de segurança" alterado para "Office 365 Cloud app Security".  <br/> |
+||[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |A entrada de limite de arquivamento alterada para "Sim" para o Microsoft 365 Business Basic e o Microsoft 365 Business Standard.  <br/> |
+||[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"Gerenciamento avançado de segurança" alterado para "Office 365 Cloud app Security".  <br/> |
 |Office para a Web  <br/> |[Excel para a Web](office-online-service-description/excel-online.md) <br/> |Alterou a primeira observação no tópico para "as pastas de trabalho que excedem 30 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro do Microsoft SharePoint Online." Anteriormente, a anotação diziava 10 MB.  <br/> |
 |OneDrive for Business  <br/> |[Descrição de serviço do OneDrive for Business](onedrive-for-business-service-description.md) <br/> |Atualização principal da descrição de serviço do OneDrive for Business.  <br/> |
    
@@ -76,7 +75,7 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
 |Plataforma do Office 365  <br/> |[Descrição de serviço da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Atualizou a disponibilidade do StaffHub para o Microsoft 365 Business Standard.  <br/> |
 ||[Descrição dos serviços da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Certificações atualizadas da indústria de página de [conformidade [objectdesc]](office-365-platform-service-description/compliance-servicedesc.md) .  <br/> |
-||[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Atualizadas as políticas de retenção manual para o Office 365 Enterprise 1 Plan.  <br/> |
+||[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Atualizadas as políticas de retenção manual para o Office 365 Enterprise 1 Plan.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Várias atualizações e reestruturação.  <br/> |
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correção de caixa postal e integração de caixa postal.  <br/> |
 |Exchange Online  <br/> |[Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Esclarecimento da disponibilidade de grupos para planos do Exchange Online.  <br/> |
@@ -108,7 +107,7 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 |:-----|:-----|:-----|
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
 |Plataforma do Office 365  <br/> |[Descrição de serviço da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Esclarecido que os usuários do Office 365 Enterprise F1 Microsoft Stream podem exibir vídeos, mas não podem publicá-los ou compartilhá-los.  <br/> |
-||[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Foi adicionada a análise de descarte à governança avançada de dados.  <br/> |
+||[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Foi adicionada a análise de descarte à governança avançada de dados.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Esclarecida a disponibilidade do Yammer e do Office 365 Pro Plus.  <br/> |
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Foi adicionada a disponibilidade de prevenção de perda de dados.  <br/> |
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correção da disponibilidade do IRM via AD RMS.  <br/> |
@@ -125,7 +124,7 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 ||||
 |:-----|:-----|:-----|
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
-|Plataforma do Office 365  <br/> |[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adicionou detalhes avançados de governança.  <br/> |
+|Plataforma do Office 365  <br/> |[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adicionou detalhes avançados de governança.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Foram adicionadas migrações de dados realizadas pela tabela FastTrack.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Foi adicionada uma nota de que o compartilhamento federado requer o uso de espaço de endereço de disponibilidade para dar suporte ao compartilhamento com outros locatários.  <br/> |
 |Exchange Online  <br/> |[Limites do Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Foram adicionados limites à versão legada do Office 365 Message Encryption (OME) e ao Office 365 Message Encryption (OME) com novos recursos.  <br/> |
@@ -155,8 +154,8 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
 |Plataforma do Office 365  <br/> |[Descrição de serviço da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Nota esclarecida sobre a disponibilidade do Microsoft Azure Information Protection (AIP).  <br/> |
 ||[Opções de planos do Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |Nota esclarecida sobre a disponibilidade do Microsoft Azure Information Protection (AIP).  <br/> |
-||[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Foi adicionada a tabela de comparação de recursos para planos autônomos.  <br/> |
-||[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adicionou detalhes do recurso de proteção avançada contra ameaças.  <br/> |
+||[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Foi adicionada a tabela de comparação de recursos para planos autônomos.  <br/> |
+||[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adicionou detalhes do recurso de proteção avançada contra ameaças.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Nota esclarecida sobre a disponibilidade do Microsoft Azure Information Protection (AIP).  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Nota esclarecida sobre a disponibilidade do Microsoft Azure Information Protection (AIP).  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Adicionou pesquisa de log de auditoria, governança de dados avançada e recursos e disponibilidade do Office 365 Threat Intelligence.  <br/> |
@@ -174,13 +173,13 @@ As tabelas a seguir listam alterações que foram feitas recentemente ao conteú
 |Plataforma do Office 365  <br/> |[Descrição de serviço da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Foi adicionada a disponibilidade de formulários da Microsoft.  <br/> |
 ||[Descrição dos serviços da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Adicionada uma nota de rodapé sobre a disponibilidade avançada da descoberta eletrônica.  <br/> |
 ||[Opções de planos do Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |Foram adicionadas as opções de plano do Exchange Online e do Skype for Business incluídas em cada SKU para planejar a página opções.  <br/> |
-||[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adição do seguinte à nota de rodapé no. 1: "as políticas de retenção aplicadas às caixas de correio exigem E3 ou e5."  <br/> |
-||[Centro &amp; de conformidade de segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adicionada uma nota de rodapé sobre a disponibilidade avançada da descoberta eletrônica.  <br/> |
+||[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adição do seguinte à nota de rodapé no. 1: "as políticas de retenção aplicadas às caixas de correio exigem E3 ou e5."  <br/> |
+||[Centro de conformidade de segurança &amp;](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adicionada uma nota de rodapé sobre a disponibilidade avançada da descoberta eletrônica.  <br/> |
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Foi adicionada a descrição dos Microsoft Forms.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Foram adicionadas informações sobre o Office 365 US governo dos EUA.  <br/> |
 ||[Office 365 operado pela 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |IRM (gerenciamento de direitos de informação) atualizado usando o Windows Server AD RMS.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Foi adicionada a linha "criar senhas de aplicativo" em "gerenciamento de conta de usuário".  <br/> |
-||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Adicionado o ponteiro para &amp; a descrição do recurso centro de conformidade de segurança. (O &amp; centro de conformidade de segurança está disponível para o Office 365 Alemanha.)  <br/> |
+||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Adicionado o ponteiro para a &amp; Descrição do recurso centro de conformidade de segurança. (Segurança &amp; O centro de conformidade está disponível para o Office 365 Alemanha.  <br/> |
 |Office para a Web  <br/> |[Descrição dos Serviços do Office para Web](office-online-service-description/office-online-service-description.md) <br/> |Adicionou o Visio.  <br/> |
 |Exchange Online  <br/> |[Descrição de Serviço do Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Foram alterados "marcas de retenção e políticas de retenção" para as marcas de retenção e as políticas de retenção do MRM (gerenciamento de registros de mensagens).  <br/> |
 ||[Serviços de Mensagens de Voz](exchange-online-service-description/voice-message-services.md) <br/> |Atualizado para incluir um anúncio de fim de vida útil para a Unificação de mensagens do Exchange Online por meio de SBC.  <br/> |

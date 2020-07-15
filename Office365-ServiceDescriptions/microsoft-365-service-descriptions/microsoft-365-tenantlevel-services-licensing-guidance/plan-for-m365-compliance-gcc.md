@@ -1,24 +1,23 @@
 ---
 title: Planejar a conformidade com o Microsoft 365 – GCC
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de região do governo dos EUA, ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governo-GCC é apropriado para atender a esses requisitos.
-ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de governos da região, ou outras entidades que lidam com os dados sujeitos a normas e requisitos governamentais, onde o uso do Microsoft 365 governamental-GCC é adequado para atender a esses requisitos.
+ms.openlocfilehash: 650a4131e7d028222d46d48a1d7304363acd6167
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262814"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132455"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planejar a conformidade com a Microsoft 365 – GCC
 
-Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de região do governo dos EUA, ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governo-GCC é apropriado para atender a esses requisitos.
+Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de governos da região, ou outras entidades que lidam com os dados sujeitos a normas e requisitos governamentais, onde o uso do Microsoft 365 governamental-GCC é adequado para atender a esses requisitos.
 
 > [!NOTE]
 > Se sua organização já atendeu aos requisitos de qualificação do governo Microsoft 365 e foram aplicados e foram aceitos no programa, você pode ignorar as etapas 1 e 2 e ir diretamente para a etapa 3.
@@ -42,7 +41,7 @@ Você pode encontrar mais informações sobre a oferta Microsoft 365 governament
 A [Descrição do serviço governo dos EUA do Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descreve os benefícios da plataforma, que são centralizados em atender aos requisitos de conformidade nos Estados Unidos.
 
 > [!TIP]
-> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n**. Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
+> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização**   e **atender às necessidades da minha organização y/n**. Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
 
 > [!NOTE]
 > O Microsoft 365 governamental-GCC só está disponível nos Estados Unidos. Clientes governamentais não americanos podem escolher entre vários [planos governamentais do Office 365](https://products.office.com/government/compare-office-365-government-plans).
@@ -84,16 +83,16 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Explorador de Atividade de Rótulo                         | Na Backlog de engenharia |
 |                                         | Classificadores estagiários                           | Na Backlog de engenharia |
 |                                         | Rótulo unificado e rótulos de confidencialidade         | Na Backlog de engenharia |
-| **Gerenciamento de risco do insider**             | Criptografia de mensagem avançada                     | Disponível              |
-|                                         | Gerenciamento de risco do insider                         | Na Backlog de engenharia |
+| **Gerenciamento de risco interno**             | Criptografia de mensagem avançada                     | Disponível              |
+|                                         | Gerenciamento de riscos internos                         | Na Backlog de engenharia |
 |                                         | Conformidade em comunicações                        | Na Backlog de engenharia |
-|                                         | Sistema de Proteção de Dados do Cliente                                | Disponível              |
+|                                         | Sistema de Proteção de Dados do cliente                                | Disponível              |
 |                                         | Chave de Cliente                                    | Disponível              |
 |                                         | Gerenciamento de acesso privilegiado                    | Na Backlog de engenharia |
 | **Descobrir & responder**                  | Reserva in-loco                            | Disponível              |
 |                                         | Gerenciamento de casos                                 | Disponível              |
-|                                         | Pesquisa                                          | Disponível              |
-|                                         | Exportar                                          | Disponível              |
+|                                         | Search                                          | Disponível              |
+|                                         | Exportação                                          | Disponível              |
 |                                         | Descriptografia do RMS                                  | Disponível              |
 |                                         | Exportação nativa                                   | Disponível              |
 |                                         | Auditoria                                        | Disponível              |

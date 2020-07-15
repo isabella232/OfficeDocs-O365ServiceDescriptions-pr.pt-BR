@@ -1,8 +1,7 @@
 ---
 title: Excel para a Web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226220"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131415"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -39,7 +38,7 @@ Adicione uma cor de preenchimento de plano de fundo às guias da planilha na par
 
 ## <a name="add-hyperlinks"></a>Adicionar hiperlinks
 
-Inclua um link para páginas da Web ou abra arquivos na Web adicionando um hiperlink a uma célula. Você pode digitar o endereço da Web diretamente na célula ou usar o comando Inserir hiperlink.
+Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>Tipos de dados avançados: ações e Geografia
 
@@ -47,7 +46,7 @@ Você pode obter dados geográficos e de ações no Excel. É tão fácil quanto
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-O controle da Linha de Tempo permite filtrar dados modelados. Trata-se de uma maneira visual de exibir e alterar um intervalo contínuo de datas e filtrar objetos com base em conteúdo dinâmico, como Tabelas Dinâmicas e Gráficos Dinâmicos.  
+The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
   
 ## <a name="alignment"></a>Alinhamento
 
@@ -71,11 +70,11 @@ O Excel para a Web pode concluir o que você está digitando em uma célula e, s
   
 ## <a name="autosum"></a>AutoSum
 
-Para calcular o total de uma coluna ou linha de números, selecione as células que deseja somar e clique duas vezes em Soma automática. O resultado é exibido na próxima célula em branco.
+Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
   
 ## <a name="calculations"></a>Cálculos
 
-Use o Excel para realizar uma série de cálculos automáticos, manuais e iterativos. O Excel usa funções para realizar esses cálculos. Confira mais informações em [Funções do Excel por categoria](https://go.microsoft.com/fwlink/?linkid=847459).
+You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>Referências de célula em fórmulas
 
@@ -138,7 +137,7 @@ Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra p
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Inserir pasta de trabalho em uma página da Web ou de blog (OneDrive)
 
-Se você armazenar uma pasta de trabalho do OneDrive.com, será possível inseri-la diretamente em um blog ou em um site. Seus leitores podem classificar, filtrar e calcular dados no local, e quando você atualiza a pasta de trabalho no OneDrive, eles veem as mudanças na próxima vez em que atualizam a página. Saiba mais sobre a [inserção de uma pasta de trabalho do Excel em seu blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
+If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>Referências externas (links)
 
@@ -194,7 +193,7 @@ Ideias no Excel ajuda você a compreender seus dados por meio de resumos visuais
   
 ## <a name="insert-charts"></a>Insert charts
 
-Crie um gráfico para representar visualmente os seus dados. Escolha dentre diversos tipos de gráficos, como gráficos de coluna, linha, pizza ou barra. Saiba mais sobre os [tipos de gráficos disponíveis](https://go.microsoft.com/fwlink/p/?LinkId=273899).
+Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -222,7 +221,7 @@ Não é possível criar intervalos nomeados no Excel para a Web, mas você pode 
 
 ## <a name="number-formatting"></a>Formatação de números
 
-Altere o formato dos números. Escolha um formato como Moeda ou Data Abreviada em uma lista de formatos, mude as casas decimais ou insira um separador de milhar.
+Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
   
 ## <a name="office-add-ins"></a>Suplementos do Office
 
@@ -254,7 +253,7 @@ Use o comando Imprimir no Excel para a Web para enviar a planilha inteira ou a s
   
 ## <a name="real-time-co-authoring"></a>Coautoria em tempo real
 
-Duas ou mais pessoas podem trabalhar na mesma planilha ao mesmo tempo, abrindo-a no navegador da Web em vez de no aplicativo de área de trabalho Excel. A presença em tempo real o ajuda a ver onde seus coautores estão trabalhando no documento para que você não crie conflitos ao editar, e você pode ver as alterações enquanto estão sendo feitas. Para saber mais sobre a coautoria em tempo real, confira [Colaborar em pastas de trabalho do Excel simultaneamente com a coautoria](https://go.microsoft.com/fwlink/?linkid=850793).
+Two or more people can work in the same spreadsheet at the same time by opening it in their web browser instead of in the Excel desktop app. Real-time presence helps you see where your co-authors are working in the document so that you don't create conflicts as you edit, and you can see changes as they're being made. For more information about real-time co-authoring, see [Collaborate on Excel workbooks at the same time with co-authoring](https://go.microsoft.com/fwlink/?linkid=850793).
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Criação e edição de gráficos recomendados com controles de formatação
 
@@ -286,7 +285,7 @@ Não está disponível no Excel para a Web. Se o aplicativo de área de trabalho
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-Quer ter sua própria cópia da pasta de trabalho? Use o comando Salvar como na guia Arquivo, ou clique com o botão direito do mouse no nome da pasta de trabalho em sua pasta e use o comando Baixar para enviar uma cópia para seu computador.
+Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
 
 ## <a name="sensitivity-labels"></a>Rótulos de confidencialidade
 

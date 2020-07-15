@@ -1,20 +1,19 @@
 ---
 title: Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: O Microsoft 365 Business Premium é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. O Microsoft 365 Business Premium é uma solução integrada que reúne a produtividade da Microsoft 365, segurança avançada e gerenciamento de dispositivos.
-ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988855"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132535"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -121,7 +120,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Comparação de recursos: Microsoft 365 Business Standard e Microsoft 365 para planos de negócios
 
-|**Área de serviço**   |**Recurso** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**Área de serviço**   |**Recurso** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 e5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licenças disponíveis** | Número máximo de usuários | 300 | 300 | Ilimitado | Ilimitado |
 |**Aplicativos do Office** | Instalar o Office em até 5 PCs/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Negócio | Negócio | Plus | Plus |
@@ -129,12 +128,12 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Hub para trabalho em equipe** | Espaço de trabalho baseado em chat, reuniões online e mais no Microsoft Teams | Sim | Sim | Sim | Sim |
 |**Armazenamento de arquivos** | OneDrive for Business | 1 TB por usuário | 1 TB por usuário | ilimitado | ilimitado |
 |**Social, vídeo, sites** | Yammer, SharePoint Online, Planner | Sim | Sim | Sim | Sim |
-|   | Stream | | Sim | Sim | Sim |
+|   | Fluxo | | Sim | Sim | Sim |
 |**Aplicativos de negócios** | Agendando &ndash; reservas de aplicativos<sup>1</sup> | Sim | Sim | Sim | Sim |
 |   | Aplicativos de negócios &ndash; MileIQ<sup>1</sup> | Sim | Sim | Não | Não |
 |**Proteção contra Ameaças** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, proteção de dados corporativos | Não | Não | Sim | Sim |
 |   | Proteção Avançada contra Ameaças do Office 365 | Não | Sim | Não | Sim |
-|   | Proteção Avançada Contra Ameaças do Windows Defender | Não | Não | Não | Sim |
+|   | Proteção avançada contra ameaças do Windows Defender | Não | Não | Não | Sim |
 |   | Inteligência contra Ameaças do Office 365 | Não | Não  | Não | Sim |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendimento para contas híbridas do Azure Active Directory, Azure MFA, acesso condicional   | Não | Sim | Sim | Sim |
 |   | Azure AD: descoberta de aplicativo de nuvem, integridade do Azure AD Connect, SSO para mais de 10 aplicativos | Sim | Sim | Sim | Sim |
@@ -150,7 +149,7 @@ Este artigo compara as opções de licenciamento para SMBs, com uma ênfase espe
 |**Análise** | Power BI pro, myAnalytics | Não | Não | Não | Sim |
 | | Ideias do myAnalytics | Sim | Sim | Sim | Sim |
 |**Assistance** | Email de resumo | Sim | Sim | Sim | Sim |
-|**Voz** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
+|**Voice** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
 
 **Observações**
 

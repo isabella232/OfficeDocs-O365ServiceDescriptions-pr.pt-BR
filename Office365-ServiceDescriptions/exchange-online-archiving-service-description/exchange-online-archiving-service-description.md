@@ -1,8 +1,7 @@
 ---
 title: Descrição do serviço de arquivamento do Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: O arquivamento do Microsoft Exchange Online é uma solução de arquivamento de classe empresarial baseada em nuvem da Microsoft 365 para organizações que implantou o Microsoft Exchange Server 2019, o Microsoft Exchange Server 2016, o Microsoft Exchange Server 2013, o Microsoft Exchange Server 2010 (SP2 e posterior) ou inscrever-se em determinados planos do Exchange Online ou Microsoft 365. O Arquivamento do Exchange Online auxilia essas organizações com o seus competitivos arquivamento, conformidade, regulamentação, e eDiscovery ao mesmo tempo em que simplifica a infraestrutura no local e, desse modo, reduz custos e facilita os encargos de TI.
-ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213723"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131515"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrição do serviço de arquivamento do Exchange Online
 
@@ -51,7 +50,7 @@ Arquivamento do Exchange Online está disponível pelos planos a seguir.
   
 Procurando informações sobre todos os planos do Microsoft 365? O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Para obter informações sobre diferentes planos, incluindo opções de plano autônomo e informações sobre como migrar de um plano para outro, consulte [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>Requisitos
 
 Para usar o arquivamento do Exchange Online para o Exchange Server, as caixas de correio do usuário devem residir no Exchange Server 2019, no Exchange Server 2016, no Exchange Server 2013 ou no Exchange Server 2010 (SP2 ou posterior).
   
@@ -61,7 +60,7 @@ Os administradores podem usar uma abordagem de logon único para autenticação 
   
 ### <a name="user-subscriptions"></a>Inscrições de usuário
 
-Cada usuário que acessa o serviço do Arquivamento do Exchange Online deve ter uma assinatura do Arquivamento do Exchange Online. Cada assinatura de arquivo de email pode ser usada somente para armazenamento de um usuário de mensagens de dados.
+Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
   
 ## <a name="unlimited-archive-storage-quota"></a>Cota de armazenamento de arquivo morto ilimitada
 

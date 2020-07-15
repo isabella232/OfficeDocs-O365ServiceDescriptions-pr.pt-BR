@@ -1,8 +1,7 @@
 ---
 title: Principais recursos de serviços
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Os seguintes recursos de funcionalidade de serviços principais estão disponíveis no Project online.
-ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638959"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131235"
 ---
 # <a name="core-services-functionality"></a>Principais recursos de serviços
 
@@ -25,11 +24,11 @@ Procurando informações sobre todos os recursos do Project Online? Confira a [D
   
 ## <a name="active-directory-integration"></a>Integração do Active Directory
 
-O Active Directory fornece um local central para que os administradores gerenciem permissões e credenciais do usuário. A integração do Active Directory com o Project significa que os usuários e grupos no Active Directory são sincronizados no Project Online ou no Project Server 2013. Veja [Gerenciar sincronização do grupo de segurança com o Active Directory no Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
+Active Directory provides a central location for administrators to manage user credentials and permissions. Active Directory integration with Project means that users and groups in Active Directory are synchronized in Project Online or Project Server 2013. See [Manage security group synchronization with Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
   
 ## <a name="administration-deployment-and-extensibility"></a>Administração, implantação e extensibilidade
 
-O Project Online e o Project Server 2013 fornecem recursos aos administradores para planejar, instalar e configurar, manter e estender o Project. Veja [Novidades para profissionais de TI no Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
+Project Online and Project Server 2013 provide features for administrators to plan, install and configure, maintain and extend Project. See [What's new for IT pros in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
 ## <a name="getting-started"></a>Introdução
 
@@ -37,7 +36,7 @@ O conteúdo de introdução está disponível para o Project online. Confira [In
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Gerenciamento de problemas e de riscos (para membros da equipe)
 
-O Project Online e o Project Server 2013 incluem recursos para prevenir, identificar e atenuar potenciais riscos e problemas relacionados a projetos ou negócios. Para saber mais, veja [Gerenciando problemas, riscos e documentos no Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="office-365-trust-center"></a>Central de Confiabilidade do Office 365
 
@@ -45,7 +44,7 @@ Seus dados são seus. Nós os protegemos e também protegemos a sua privacidade.
   
 ## <a name="ppm-partner-ecosystem"></a>Ecossistema de Parceiros de PPM
 
-As soluções de PPM da Microsoft têm o suporte de centenas de Parceiros da Microsoft que possuem competência em PPM, foram aprovados em exames relevantes e têm experiência em inúmeras implantações em mais de 80 países e regiões em todo o mundo. Quando você quiser ajuda na avaliação, previsão, implantação ou treinamento e você estiver pronto para participar de organizações de serviços profissionais, [fale com um parceiro de PPM em sua região](https://go.microsoft.com/fwlink/p/?LinkId=272646).
+Microsoft PPM solutions are backed by hundreds of Microsoft partners who have earned their PPM competency, and undergone relevant exams and numerous deployments in over 80 countries and regions worldwide. When you want help with assessment, envisioning, deployment, or training, and you're ready to engage with professional services organizations, [contact a PPM partner in your region](https://go.microsoft.com/fwlink/p/?LinkId=272646).
   
 ## <a name="service-reliability"></a>Confiabilidade do serviço
 
@@ -61,5 +60,5 @@ A colaboração em equipe auxilia e impulsiona o sucesso e a eficácia geral do 
   
 ## <a name="time-and-task-management-for-team-members"></a>Gerenciamento de tempo e de tarefas (para membros da equipe)
 
-Use uma abordagem centralizada e comum para relatório de tempo e gerenciamento de tarefas. Capture o tempo de trabalho e o tempo sem trabalho para folha de pagamento, geração de fatura e outras finalidades comerciais. Comunique com eficiência o status de projetos ou trabalho diário e as solicitações ad hoc para medir os picos de utilização e os vales ou o progresso de tarefas. Isso ajuda você a antecipar o efeito sobre o esforço, o custo e o prazo planejados. Para saber mais sobre, veja [Controlar o tempo e o progresso das tarefas](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
   

@@ -1,8 +1,7 @@
 ---
 title: Recursos de segurança e administração no Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Os recursos de segurança e administração a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c4f7bc321de1abff3a260cd30922d305548cfc97
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640079"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132095"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Recursos de segurança e administração no Yammer
 
@@ -27,11 +26,11 @@ Para obter explicações e procedimentos detalhados, consulte [ajuda do administ
 
 ## <a name="admin-private-content-mode"></a>Modo de conteúdo particular do administrador
 
-Um administrador verificado de uma rede do Yammer pode exibir mensagens particulares e grupos em toda a rede. Os administradores verificados podem ver o conteúdo particular somente ao conceder temporariamente a si próprios acesso a conteúdo particular para investigar problemas. Para saber mais, confira [Monitorar conteúdo particular no Yammer (administradores verificados)](https://go.microsoft.com/fwlink/?LinkId=627479).
+A verified admin of a Yammer network can view private messages and groups throughout the network.  Verified admins can see private content only when temporarily granting themselves access to private content to investigate issues.  For more information, see [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479).
 
 ## <a name="analytics"></a>Análise
 
-Obtenha informações da análise da rede para saber como os funcionários estão usando o Yammer. De métricas de uso até estatísticas do membro, identifique maneiras de impulsionar o crescimento e aumentar o valor da sua rede.
+Gain insights from network analytics to find out how employees are using Yammer. From usage metrics to member statistics, identify ways to drive growth and increase the value of your network.
 
 ## <a name="custom-network-branding"></a>Identidade visual de rede personalizada
 
@@ -74,7 +73,7 @@ Veja os dispositivos nos quais os usuários estão registrados e finalize a sess
 
 ## <a name="single-identity"></a>Identidade única
 
-Quando você escolhe o Yammer como a experiência social padrão para sua organização, os funcionários são mapeados para suas contas existentes do Yammer. Isto significa que não será necessário entrar novamente quando estiverem navegando para o Yammer no Office 365. Quando os funcionários acessam o Yammer&mdash;, seja do Office 365, por meio de um aplicativo móvel&mdash;do Yammer ou procurando Yammer.com, eles são automaticamente conectados com base nas credenciais da organização existentes.
+Quando você escolhe o Yammer como a experiência social padrão para sua organização, os funcionários são mapeados para suas contas existentes do Yammer. Isto significa que não será necessário entrar novamente quando estiverem navegando para o Yammer no Office 365. Quando os funcionários acessam &mdash; o Yammer, seja do Office 365, por meio de um aplicativo móvel do Yammer ou procurando Yammer.com, &mdash; eles são automaticamente conectados com base nas credenciais da organização existentes.
 
 ## <a name="usage-policy"></a>Política de uso
 

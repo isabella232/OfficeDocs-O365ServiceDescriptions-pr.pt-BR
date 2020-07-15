@@ -1,8 +1,7 @@
 ---
 title: Descrição do serviço do Microsoft Project
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820609"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131155"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -239,7 +238,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 |Classificação e agrupamento | Use classificação e agrupamento personalizados para obter uma visão focalizada do seu projeto, tarefas e recursos.|
 |**Personalização e integração**||
 |Campos personalizados | Adicione campos personalizados no nível do projeto, da tarefa e do recurso para rastrear os dados importantes para sua organização e seus projetos. |
-|Forms | Crie e implante formulários personalizados para capturar dados importantes do projeto. |
+|Formulários | Crie e implante formulários personalizados para capturar dados importantes do projeto. |
 |Fórmula | Calcule e Capture dados importantes usando fórmulas entre tarefas e projetos. |
 |Modelos | Criar modelos para projetos comuns, incluindo planos de projeto, equipes e atribuições. |
 |importação/exportação. mpp | Criar novos projetos a partir de arquivos. mpp existentes ou criar um arquivo. mpp de um projeto existente. |
@@ -286,7 +285,7 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 |Máx. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Máx. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para a tarefa | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Projeto** ||
 |Máx. total de tarefas do projeto | 500 |
 |Máx. duração total do projeto | 3650 dias (10 anos) |
 |Máx. total de recursos para o projeto | 150 |

@@ -1,8 +1,7 @@
 ---
 title: Clientes e dispositivos móveis
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 83c8c9081ac78c51ee02fb951f7d2c80d6d9ede9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a09609e81d9d179dcd156db886913d3124b2e16f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639709"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132965"
 ---
 # <a name="clients-and-mobile-devices"></a>Clientes e dispositivos móveis
 
@@ -26,11 +25,11 @@ O Microsoft Outlook é um programa de email que inclui suporte para calendário,
   
 - **MAPI sobre http** O MAPI (Messaging Application Program interface) sobre HTTP permite que os usuários do Outlook se conectem às caixas de correio do Exchange Online pela Internet de fora do firewall da sua organização. MAPI sobre HTTP, a substituição de longo prazo do Outlook em qualquer lugar. Este método de conectividade oferece maior resiliência de conexão, entrada mais segura, extensibilidade, além de aprimoramentos para ti e suporte. Para saber mais, veja [RPC sobre http atinge o fim do suporte no Office 365](https://go.microsoft.com/fwlink/?linkid=863890) e [MAPI sobre http](https://go.microsoft.com/fwlink/?linkid=393041).
 
-- **Descoberta Automática** O recurso do serviço da Descoberta Automática configura automaticamente o Outlook para trabalhar com o Exchange Online. Os usuários do Outlook podem receber suas configurações de perfil necessárias diretamente do Exchange Online na primeira vez em que eles entrarem com seu endereço de email e senha. Essas configurações atualizam automaticamente o cliente Outlook com as informações necessárias, para a criação e manutenção do perfil do usuário. É necessário um certificado SSL para usar o serviço de Descoberta Automática. Esse certificado SSL é limitado a um domínio primário de SSL único. 
+- **Autodiscover** The Autodiscover service feature automatically configures Outlook to work with Exchange Online. Outlook users can receive their required profile settings directly from Exchange Online the first time they sign in with their email address and password. These settings automatically update the Outlook client with the information necessary to create and maintain the user's profile. An SSL certificate is required to use the Autodiscover service. This SSL certificate is limited to a single primary SSL domain. 
 
 - **Modo cache do Exchange** O recurso de modo cache do Exchange permite que os usuários do Outlook acessem cópias locais de suas caixas de correio do Exchange Online quando não estão conectados à Internet. O Modo em Cache do Exchange mantém uma cópia do lado do cliente da caixa de correio do Exchange dos usuários no Outlook e sincroniza essa cópia automaticamente com o servidor de email. É recomendado o uso do Outlook no Modo em Cache do Exchange, porque ele disponibiliza acesso offline e ajuda a fornecer uma experiência do usuário com capacidade de resposta, mesmo que as condições de rede entre o cliente e o servidor não sejam ideais. 
 
-Por padrão, o acesso ao Outlook é habilitado para todos os usuários. Os administradores podem desabilitar o acesso para usuários específicos ou grupos através do Windows PowerShell. É recomendado o uso da última versão do Outlook — com o último service pack instalado — para acessar o Exchange Online. 
+By default, Outlook access is enabled for all users. Administrators can disable access for specific users or groups through Windows PowerShell. We recommend using the latest version of Outlook—with the latest service pack installed—to access Exchange Online. 
   
 Para obter informações sobre quais clientes do Outlook são compatíveis com o Exchange 2016 e o Exchange Online, consulte [System Requirements for Office](https://products.office.com/office-system-requirements). 
 
@@ -64,7 +63,7 @@ O Exchange Online funciona com aplicativos do Outlook disponíveis para iOS, And
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilidade do aplicativo móvel do Outlook  <br/> |Sim  <br/> [Obter o Outlook para Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sim  <br/> [Obter o Outlook para iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Interno  <br/> |
 |Aplicativos de email internos compatíveis com o Exchange Online  <br/> |Aplicativo de email do Gmail/Samsung  <br/> |aplicativo de email iOS  <br/> |Email, calendário, contatos do Outlook  <br/> |
 |Mais informações  <br/> |[Configuração móvel do Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[configuração de iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuração do Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
@@ -136,24 +135,24 @@ Para saber mais sobre os aplicativos que foram desenvolvidos usando os Serviços
   
 ## <a name="pop-and-imap"></a>POP e IMAP
 
-O Exchange Online suporta o acesso à caixa de correio tanto pelo protocolo POP3, como pelo protocolo IMAP4. O acesso POP e IMAP requer criptografia usando SSL. POP é habilitado por padrão para todos os usuários. Os usuários podem visualizar as configurações de conexão POP e IMAP no Outlook na Web. Os administradores podem desabilitar o acesso POP e IMAP baseado no usuário.
+Exchange Online supports mailbox access through both POP3 and IMAP4 protocols. POP and IMAP access requires encryption using SSL. POP is enabled by default for all users. Users can view their POP and IMAP connection settings in Outlook on the web. Administrators can disable POP and IMAP access on a per-user basis.
   
 Para saber mais sobre conectividade de POP3 e de IMAP4, confira [POP3 e IMAP4](https://go.microsoft.com/fwlink/p/?LinkId=272070).
   
 ## <a name="smtp"></a>SMTP
 
-O Protocolo SMTP é usado para enviar emails de saída para os clientes que se conectam ao Exchange Online por IMAP ou POP. É o protocolo primário para o roteamento e a entrega através do Exchange Server. O Exchange Online suporta dois tipos de serviços de retransmissão SMTP para os aplicativos de clientes internos autorizados que exigem envio de email SMTP:
+Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients that connect to Exchange Online through IMAP or POP. It is the primary protocol for routing and delivery through Exchange Server. Exchange Online supports two types of SMTP relay services for authorized internal customer applications that require SMTP mail submission:
   
 - O Envio de mensagem SMTP para usuários dentro do ambiente gerenciado.
 
 - Retransmissão de mensagem SMTP autenticada para endereços fora do ambiente gerenciado.
 
 > [!IMPORTANT]
-> Os endereços IP para servidores de origem autorizados são necessários para autorizar a retransmissão SMTP. A criptografia e autenticação do protocolo TLS são necessárias ao usar o SMTP para enviar emails. 
+> IP addresses for authorized source servers are required to allow SMTP relay. Transport Layer Security (TLS) encryption and authentication is required when using SMTP to send email. 
   
-## <a name="blackberryreg-devices"></a>Dispositivos&reg; BlackBerry
+## <a name="blackberryreg-devices"></a>&reg;Dispositivos BlackBerry
 
-O email está disponível em&reg; dispositivos BlackBerry por meio do Exchange ActiveSync. Para saber quais são as suas opções, consulte estes tópicos:
+O email está disponível em &reg; dispositivos BlackBerry por meio do Exchange ActiveSync. Para saber quais são as suas opções, consulte estes tópicos:
   
 - [Configurar o email em um dispositivo BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)
 
@@ -162,7 +161,7 @@ O email está disponível em&reg; dispositivos BlackBerry por meio do Exchange A
 Para mais informações, consulte [BlackBerry](../office-365-platform-service-description/blackberry.md).
   
 > [!NOTE]
-> Se você estiver usando o Office 365 operado pela 21Vianet na China, o BlackBerry Business Cloud Services não estará disponível, mas será possível usar os dispositivos com o Exchange ActiveSync ou uma oferta da RIM (Research in Motion, a solução de email sem fio da BlackBerry) para executar o BES (Blackberry Enterprise Server). 
+> If you are using Office 365 operated by 21Vianet in China, BlackBerry Business Cloud Services is not available. However, you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES). 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

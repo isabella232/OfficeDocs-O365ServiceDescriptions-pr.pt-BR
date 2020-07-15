@@ -1,8 +1,7 @@
 ---
 title: Descrição do serviço do Microsoft Dynamics 365 (online)
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partir da atualização de dezembro de 2016 do Dynamics 365 (online e local), a funcionalidade do Dynamics CRM agora está incluída como parte do Dynamics 365, um pacote de aplicativos de negócios inteligentes. O Dynamics 365 unifica os recursos de gerenciamento de relacionamento do cliente (CRM) e ERP (planejamento de recursos da empresa), fornecendo novos aplicativos para ajudar a gerenciar funções comerciais específicas.
-ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b1852f586ba6d4eb0ec8ac6c269caee922d17802
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213913"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132445"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Descrição do serviço do Microsoft Dynamics 365 (online)
 
@@ -84,7 +83,7 @@ O seguinte fornece um resumo de alto nível dos direitos de uso associados a cad
 |**Somente portal: envio de caso de autoatendimento e inícios de chat como suporte (não o agente)** <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |
 |**Somente portal, somente não funcionários: atualizar ordens de trabalho, criar e atualizar oportunidades** <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |<sup>3</sup> <br/> |<sup>3</sup>`  <br/> |
 |**Relatórios, painéis e gráficos de usuários** <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |
-|**Configurar relatórios do sistema, gráficos do sistema, painéis do sistema** <br/> |Nenhum  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Completo  <br/> |
+|**Configurar relatórios do sistema, gráficos do sistema, painéis do sistema** <br/> |Nenhuma  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Completo  <br/> |
 |**Clientes potenciais, oportunidades, metas, contratos, cotações, pedidos, faturas, concorrentes** <br/> |Somente leitura  <br/> |Completo  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Completo  <br/> |
 |**Campanhas de vendas, campanhas rápidas, listas de marketing, listas de preços, listas de produtos** <br/> |Somente leitura  <br/> |Completo  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Completo  <br/> |
 |**Central de Serviços Unificada** <br/> |Somente leitura  <br/> |Completo  <br/> |Completo  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Completo  <br/> |
@@ -92,8 +91,8 @@ O seguinte fornece um resumo de alto nível dos direitos de uso associados a cad
 |**Pedidos de trabalho, agendar e despachar com o painel de programação, contratos de serviço, faturas de serviço de campo e ordens de compra, ativos do cliente, inventário, reparos e Devoluções** <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Completo  <br/> |Somente leitura  <br/> |Completo  <br/> |
 |**Projeto, despesas de projeto e estimativas, modo de exibição de disponibilidade de recursos e gerenciamento de agendamento, listas de preços/contratos/faturas, aprovar transações de projeto, Microsoft Project Online Premium** <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Somente leitura  <br/> |Completo  <br/> |Completo  <br/> |
 |**PowerApps** <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Completo  <br/> |
-|**Microsoft social Engagement, voz do cliente, Mobile offline, gamification Player e admin** <br/> |Nenhum  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |
-|**Criar fluxos de trabalho, importação de dados em massa e personalizações entre entidades incluídas no aplicativo** <br/> |Nenhum  <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Completo  <br/> |
+|**Microsoft social Engagement, voz do cliente, Mobile offline, gamification Player e admin** <br/> |Nenhuma  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |Completo  <br/> |
+|**Criar fluxos de trabalho, importação de dados em massa e personalizações entre entidades incluídas no aplicativo** <br/> |Nenhuma  <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Somente leitura<sup>4</sup> <br/> |Completo  <br/> |
    
  **Completo** = direitos de acesso completo 
   
@@ -116,7 +115,7 @@ Janelas de tempo de inatividade para o serviço do Dynamics 365 são definidas d
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Category** <br/> |**Impacto/tempo de inatividade** <br/> |**Notificação** <br/> |**Contrato de nível operacional\*** <br/> |
+|**Categoria** <br/> |**Impacto/tempo de inatividade** <br/> |**Notificação** <br/> |**Contrato de nível operacional\*** <br/> |
 |Semanalmente  <br/> |Sem impacto/nenhum tempo de inatividade  <br/> |Centro de Mensagens  <br/> |48 horas  <br/> |
 |Mensal  <br/> |Sem impacto/nenhum tempo de inatividade  <br/> |Centro de Mensagens  <br/> |48 horas  <br/> |
 |Pacote cumulativo de atualizações  <br/> |Sem impacto/nenhum tempo de inatividade  <br/> |Centro de Mensagens  <br/> |48 horas  <br/> |

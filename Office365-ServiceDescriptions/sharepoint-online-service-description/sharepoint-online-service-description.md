@@ -1,8 +1,7 @@
 ---
 title: Descrição do serviço SharePoint
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Veja quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214033"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131025"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -53,7 +52,7 @@ Se você comprar um plano e criar um site que usa recursos da empresa, os convid
 
 O OneDrive no Microsoft 365 é o armazenamento online para usuários individuais em uma organização. Aqui, as pessoas podem armazenar, sincronizar e compartilhar seus arquivos de trabalho entre vários dispositivos com facilidade e segurança. O OneDrive está incluído no SharePoint e também pode ser adquirido como um plano autônomo. Para saber quanto armazenamento do OneDrive acompanha cada plano, consulte a [Descrição do serviço do onedrive](../onedrive-for-business-service-description.md).
 
-## <a name="apps"></a>Aplicativos
+## <a name="apps"></a>Apps
 
 Para sincronizar os arquivos do SharePoint em um computador, os usuários podem usar o [aplicativo de sincronização do onedrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) para Windows ou Mac. Para obter informações sobre a disponibilidade de recursos no aplicativo de sincronização, consulte a [Descrição do serviço do onedrive](/office365/servicedescriptions/onedrive-for-business-service-description). 
 
@@ -136,9 +135,9 @@ O SharePoint integra-se com os recursos avançados de segurança e conformidade 
 - [Data loss prevention (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [descoberta eletrônica](/microsoft-365/compliance/ediscovery-cases) (pesquisa de conteúdo, retenção, exportação)
 - [Barreiras de informações](/microsoft-365/compliance/information-barriers)
-- [Proteção avançada contra ameaças do Office 365 (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Proteção Avançada contra Ameaças do Office 365 (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Rótulos e políticas de retenção](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [Rótulos de confidencialidade ](/microsoft-365/compliance/sensitivity-labels)
+- [Rótulos de confidencialidade](/microsoft-365/compliance/sensitivity-labels)
 - [Auditoria unificada](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (auditoria de usuário e atividade de administração do SharePoint)
 
 Para obter informações sobre a [proteção de informações do Azure](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection), consulte os [requisitos para a proteção de informações do Azure](/azure/information-protection/requirements)

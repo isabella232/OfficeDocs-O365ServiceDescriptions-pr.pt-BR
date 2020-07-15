@@ -1,8 +1,7 @@
 ---
 title: Suporte
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Em todas as assinaturas do Microsoft Office 365 Enterprise, Business, Education e Government, o Suporte da Microsoft fornece suporte técnico para assinaturas, cobrança e pré-vendas em nível global. O suporte está disponível online por meio do centro de administração do Microsoft365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte Opções de suporte da Microsoft.
-ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: efc4153cd928152ff614134f879533277220d331
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002318"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131485"
 ---
 # <a name="support"></a>Suporte
 
@@ -71,13 +70,13 @@ Suporte técnico para assinaturas do Microsoft 365 fornece assistência com inst
   
 ### <a name="technical-support-case-handling"></a>Tratamento de caso de suporte técnico
 
-Quando um caso é aberto, a Microsoft atribui um nível de severidade a ele de acordo com a avaliação do tipo do problema e do impacto para o cliente. A tabela abaixo traz exemplos de tipos de problemas e níveis de severidade.
+Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
   
 |**Nível de severidade**|**Descrição de suporte e operações**|**Exemplos**|
 |:-----|:-----|:-----|
-|Severidade A (Crítica)  <br/> |Um ou mais serviços não estão acessíveis ou não podem ser usados. A produção, as operações ou as datas limite para implantação são gravemente afetadas, ou há um grave impacto sobre a produção ou a lucratividade. Vários usuários ou serviços são afetados.  <br/> | Problemas generalizados para envio e recebimento de email.  <br/>  Site do SharePoint fora do ar.  <br/>  Nenhum usuário pode enviar mensagens instantâneas, agendar ou ingressar em Reuniões do Skype for Business, ou fazer chamadas do Skype for Business.  <br/> |
-|Severidade B (Alta)  <br/> |O serviço pode ser usado, mas com limitações. A situação tem impacto comercial moderado e é possível lidar com ela durante o horário comercial. Um único usuário, cliente ou serviço é parcialmente afetado.  <br/> | Botão Enviar no Outlook está confuso.  <br/>  Não é possível configurar no EAC (Centro de Administração do Exchange), mas é possível no PowerShell.  <br/> |
-|Severidade C (Não Crítica)  <br/> |A situação tem impacto comercial mínimo. O problema é importante, mas não tem impacto expressivo na produtividade e no serviço atual do cliente. Um único usuário experimenta interrupção parcial, mas existe uma solução alternativa aceitável.  <br/> | Como definir uma senha de usuário que nunca expira.  <br/>  O usuário não pode excluir as informações de contato no Exchange Online.  <br/> |
+|Severidade A (Crítica)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Problemas generalizados para envio e recebimento de email.  <br/>  Site do SharePoint fora do ar.  <br/>  Nenhum usuário pode enviar mensagens instantâneas, agendar ou ingressar em Reuniões do Skype for Business, ou fazer chamadas do Skype for Business.  <br/> |
+|Severidade B (Alta)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Botão Enviar no Outlook está confuso.  <br/>  Não é possível configurar no EAC (Centro de Administração do Exchange), mas é possível no PowerShell.  <br/> |
+|Severidade C (Não Crítica)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | Como definir uma senha de usuário que nunca expira.  <br/>  O usuário não pode excluir as informações de contato no Exchange Online.  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>Tempos de resposta inicial do suporte técnico
 
@@ -106,7 +105,7 @@ Dependendo do local e do idioma, os engenheiros de suporte estão disponíveis d
   
 ## <a name="shared-support-responsibilities"></a>Responsabilidades compartilhadas de suporte
 
-A Microsoft sabe que contar com suporte técnico de profissionais qualificados em tempo hábil é um aspecto importante dos serviços em nuvem. Igualmente importante é a função crítica que o departamento de TI do cliente exerce no suporte a seus usuários.
+Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
   
 ### <a name="administrator-role-and-responsibilities"></a>Função e responsabilidades do administrador
 
@@ -132,7 +131,7 @@ O administrador é:
 
 - Usar recursos de suporte de autoatendimento da Microsoft para resolver problemas de suporte.
 
-O administrador deve prestar assistência inicial para os usuários do cliente. Porém, caso não consiga resolver os problemas com a ajuda dos recursos de suporte de autoatendimento, o administrador deve entrar em contato com o [Suporte técnico](support.md#technical-support).
+The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
   
 ### <a name="microsoft-support-role"></a>Função do suporte da Microsoft
 
@@ -178,7 +177,7 @@ Há vários tipos de serviços de suporte adicionais disponíveis:
 
 ### <a name="partners"></a>Parceiros
 
-Você pode escolher um parceiro da Microsoft e delegar funções administrativas, inclusive a criação de tíquetes de solicitação de serviços. Para saber mais, veja a descrição do serviço de [Parceiros](partners.md) e confira o artigo [Adicionar, alterar ou excluir um parceiro consultor de assinaturas](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
   
 ### <a name="developers"></a>Desenvolvedores
 

@@ -1,8 +1,7 @@
 ---
 title: Recursos de suporte no Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,25 +11,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Os recursos de suporte a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687748"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131995"
 ---
 # <a name="support-features-in-yammer"></a>Recursos de suporte no Yammer
 
 Os recursos de suporte a seguir estão disponíveis no Yammer.
   
 > [!IMPORTANT]
-> O Yammer não oferece suporte à recuperação de conteúdo&mdash;excluído, como redes externas, usuários, mensagens, grupos e arquivos&mdash;, incluindo conteúdo excluído acidentalmente por administradores de rede.
+> O Yammer não oferece suporte à recuperação de conteúdo excluído, como &mdash; redes externas, usuários, mensagens, grupos e arquivos, &mdash; incluindo conteúdo excluído acidentalmente por administradores de rede.
 >
 > A Microsoft não oferece relatórios ad-hoc ou personalizados além dos recursos de análise disponíveis no Yammer. Ocasionalmente, a Microsoft pode fornecer um relatório personalizado no curso de uma solicitação de suporte, mas, na maioria das vezes, eles não podem acomodar solicitações diretas para os dados.
 
 ## <a name="administrator-support"></a>Administrator support
 
-Os administradores do Yammer Enterprise são responsáveis pela manutenção da conta e estão autorizados a se comunicar diretamente com a equipe de Suporte da Microsoft. Se você for um administrador do Yammer Enterprise procurando suporte, consulte [Suporte da Microsoft](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>Suporte ao cliente
 
@@ -42,7 +41,7 @@ O serviço Microsoft FastTrack pode ajudar sua organização a migrar para a nuv
 
 ## <a name="support-features-across-yammer-plans"></a>Recursos de suporte nos planos do Yammer
 
-Precisa de ajuda para saber qual o melhor plano do Yammer para as necessidades da sua organização? Use a tabela a seguir para ver quais recursos de suporte estão disponíveis em cada plano.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
   
 |**Recurso**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -52,7 +51,7 @@ Precisa de ajuda para saber qual o melhor plano do Yammer para as necessidades d
  
 ## <a name="technical-support-case-handling"></a>Tratamento de caso de suporte técnico
 
-Exemplos 
+Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
   
 |**Nível de Severidade**|**Descrição**|**Exemplos**|
 |:-----|:-----|:-----|

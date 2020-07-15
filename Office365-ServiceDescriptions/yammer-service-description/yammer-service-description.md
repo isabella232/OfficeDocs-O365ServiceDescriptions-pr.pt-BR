@@ -1,8 +1,7 @@
 ---
 title: Descrição do serviço do Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
-ms.openlocfilehash: 02a39b94179a175a72e53c6a1d9e3ccacfca3ea3
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 163bb207292515ff93e5145e70741cea560acf15
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213673"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132895"
 ---
 # <a name="yammer-service-description"></a>Descrição do serviço do Yammer
 
@@ -48,9 +47,9 @@ O Yammer está disponível nos seguintes planos:
 
 O Yammer obedece à [política de gerenciamento de mudanças da Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), mas não usa o lançamento direcionado para distribuir atualizações. 
   
-Todos os usuários do Yammer estão sujeitos ao teste de recurso A/B. Isso permite à Microsoft testar recursos para melhoria da estabilidade, do desempenho e da experiência em vários ambientes e dispositivos. Os usuários dentro da mesma rede podem ter experiências variadas devido ao teste. Os clientes não podem se recusar a fazer o teste A/B.
+All Yammer users are subject to A/B feature testing. This allows Microsoft to test features for stability, performance and experience improvement across many environments and devices. Users within the same network may have varying experiences due to testing. It is not possible for customers to opt out of A/B testing.
   
-Quaisquer alterações (testes A/B, novos recursos, depreciações, limites de conformidade, mudanças de fluxo de trabalho) que exijam medidas do cliente ou que se espera tenham um impacto significativo sobre os clientes serão comunicados com antecedência. Identificamos um cenário em que o Yammer faz uma alteração que afeta um subconjunto limitado de usuários. Um exemplo disso pode ser a alteração ou a remoção de um recurso, como o Yammer Chrome Extension, que tem baixo engajamento, mas que um pequeno número de usuários habilitou. Nesses casos, acreditamos que a comunicação direta a esses usuários, além dos canais de comunicação normais para administradores verificados conforme listado na política acima, fornecerá uma boa experiência de usuário para o subconjunto de usuários afetados por uma alteração. Para as alterações categorizadas como "Alterações que exigem ação (plano de alteração)" ou "Alterações que exigem conscientização (mantenha-se informado)" que afetam apenas um conjunto de destino de usuários, talvez notifiquemos diretamente aos usuários. A tabela a seguir foi atualizada para refletir essa alteração. 
+Any changes (A/B tests, new features, deprecations, compliance boundaries, workflow changes) that require customer action or are expected to have a significant impact on customers will be communicated in advance. We've identified a scenario where Yammer makes a change that impacts a limited subset of users. An example of this might be changing or removing a capability, such as the Yammer Chrome Extension, that has low engagement but which a small number of users have enabled. In these cases, we believe direct communication to these users in addition to the usual communication channels to Verified Admins as listed in the above policy will deliver a good user experience for the subset of users impacted by a change. For changes categorized as either "Changes Requiring Action (Plan for Change)" or "Changes Requiring Awareness (Stay Informed)" that only affect a targeted set of users, we may directly notify those users. The following table has been updated to reflect this change. 
   
 Os canais usados para as comunicações podem variar de cordo com o impacto:
   

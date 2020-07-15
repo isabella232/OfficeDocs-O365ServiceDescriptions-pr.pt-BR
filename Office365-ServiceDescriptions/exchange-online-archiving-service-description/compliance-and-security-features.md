@@ -1,8 +1,7 @@
 ---
 title: Recursos de conformidade e segurança no arquivamento do Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638689"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132735"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Recursos de conformidade e segurança no arquivamento do Exchange Online
 
@@ -28,15 +27,15 @@ As seções a seguir descrevem os recursos de conformidade do Microsoft Arquivam
 
 O Arquivamento do Exchange Online oferece políticas de retenção para ajudar as organizações a reduzir as obrigações associadas ao email e a outros meios de comunicação. Com essas políticas, os administradores podem aplicar configurações de retenção a pastas específicas nas caixas de entrada dos usuários. Os administradores também podem fornecer aos usuários um menu de políticas de retenção e permitir que eles apliquem as políticas a itens específicos, conversas ou pastas usando o Outlook 2010 ou posterior ou o Outlook na Web. No Arquivamento do Exchange Online, os administradores gerenciam políticas de retenção da infraestrutura no local.
   
-O Arquivamento do Exchange Online oferece dois tipos de condições: arquivar e excluir. Ambos os tipos podem ser combinados no mesmo item ou pasta. Por exemplo, um usuário pode marcar um email para ser movido automaticamente para o arquivo morto pessoal em um número específico de dias e excluído após outro intervalo de dias.
+Exchange Online Archiving offers two types of policies: archive and delete. Both types can be applied to the same item or folder. For example, a user can tag an email message so that it is automatically moved to the personal archive in a specified number of days and deleted after another span of days.
   
 Com o Outlook 2010 e posterior e o Outlook na Web, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais e também podem exibir as políticas de retenção aplicadas e datas de exclusão esperadas nas mensagens. Os usuários de outros clientes de email podem ter emails excluídos ou arquivados com base nas políticas de retenção do lado do servidor provisionadas pelo administrador, mas não têm o mesmo nível de visibilidade e controle.
   
-Os recursos de política de retenção oferecidos no Arquivamento do Exchange Online são iguais aos oferecidos no Exchange Server 2010 Service Pack 2 (SP2) e posterior. Os administradores podem gerenciar políticas de retenção de local Exchange Server 2010 e em ambientes posteriores. As pastas gerenciadas, uma abordagem mais antiga do gerenciamento de registros de mensagem que foi introduzida no Exchange 2007, não estão disponíveis no Exchange Online. Confira mais informações em [Marcas de retenção e políticas de retenção](https://go.microsoft.com/fwlink/p/?LinkID=314153).
+The retention policy capabilities offered in Exchange Online Archiving are the same as those offered in Exchange Server 2010 Service Pack 2 (SP2) and later. Administrators can manage retention policies from on-premises Exchange Server 2010 and later environments. Managed Folders, an older approach to messaging records management that was introduced in Exchange 2007, are not available in and not compatible with Exchange Online Archiving. For more details, see [Retention Tags and Retention Policies](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>Bloqueio In-loco e Retenção de Litígio
 
-Quando existe uma expectativa razoável de litígio, as organizações são solicitadas a preservar informações armazenadas eletronicamente (ESI), incluindo emails, pertinentes ao caso. Essa expectativa pode acontecer antes que os detalhes do caso sejam conhecidos, e a preservação geralmente é total. As organizações podem preservar todos os emails relacionados a um tópico específico ou todos os emails de determinados indivíduos.
+When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
   
 No Exchange Online, é possível usar a Retenção local ou a Retenção de litígio para cumprir os seguintes objetivos:
   
@@ -68,19 +67,19 @@ Confira mais informações em [Bloqueio In-loco e Retenção Local](https://go.m
   
 ### <a name="in-place-ediscovery"></a>Descoberta Eletrônica In-loco
 
-Arquivamento do Exchange Online eDiscovery suporta no local para pesquisar o conteúdo de caixas de correio em uma organização. Usando o centro de administração do Exchange ou remota do Windows PowerShell de um local Exchange 2013 servidor, os administradores ou gerentes de descoberta autorizados podem pesquisar uma variedade de itens de caixa de correio - incluindo as mensagens de e-mail, anexos, compromissos do calendário, tarefas e contatos. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Confira mais detalhes em [Descoberta Eletrônica In-loco](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+Exchange Online Archiving supports In-Place eDiscovery for searching the contents of mailboxes in an organization. Using the Exchange admin center or remote Windows PowerShell from an on-premises Exchange 2013 server, administrators or authorized Discovery managers can search a variety of mailbox items - including email messages, attachments, calendar appointments, tasks, and contacts. In-Place eDiscovery can search simultaneously across primary mailboxes and archives. Rich filtering capabilities include sender, receiver, message types, sent date, received date, carbon copy, and blind carbon copy, along with Keyword Query Language (KQL) syntax. For more details, see [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
-O centro de administração do Exchange e o Windows PowerShell remoto podem ser usados para pesquisar até 5.000 caixas de correio ao mesmo tempo em uma Descoberta Eletrônica In-loco. Veja mais detalhes sobre como usar o Windows PowerShell remoto para executar pesquisas de Descoberta Eletrônica In-loco em [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
-  
-> [!NOTE]
-> No Windows PowerShell remoto, o cmdlet  `Search-Mailbox` pode ser usado para pesquisar mais de 5.000 caixas de correio. Veja mais detalhes sobre a pesquisa de um grande número de caixas de correio usando remoto do Windows PowerShell em [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
-  
-Os resultados das pesquisas de Descoberta Eletrônica In-loco podem ser visualizados na interface baseada na Web, exportados para um arquivo PST ou copiados para um tipo especial de caixa de correio, a caixa de correio de Descoberta. Os administradores ou diretores de conformidade podem se conectar à caixa de correio de descoberta para examinar mensagens. Veja mais detalhes em [criar uma pesquisa de eDiscovery In-loco](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+The Exchange admin center and remote Windows PowerShell can be used to search up to 5,000 mailboxes at a time in an In-Place eDiscovery search. For details about using remote Windows PowerShell to run In-Place eDiscovery searches, see [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
 > [!NOTE]
-> Quando a cópia de resultados de pesquisa para uma pesquisa de Descoberta Eletrônica no local realizadas em local e caixas de correio baseada em nuvem ou arquivos, você deve selecionar uma caixa de correio de descoberta no local. As mensagens de caixa de correio principal do local e o arquivamento baseado em nuvem são copiadas para a caixa de correio de descoberta no local. 
+> In remote Windows PowerShell, the  `Search-Mailbox` cmdlet can be used to search more than 5,000 mailboxes. For details about searching large numbers of mailboxes using remote Windows PowerShell, see [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
   
-Os administradores também podem procurar e excluir mensagens de email inadequado enviadas para várias caixas de correio através de suas organizações. Por exemplo, se informações confidenciais sobre salário tiverem sido enviadas acidentalmente a todos os funcionários por email, um administrador poderá excluir o email das caixas de correio dos usuários. Esse tipo de pesquisa não está disponível no Centro de administração do Exchange. Deve ser executada usando o PowerShell remoto. Veja mais detalhes sobre como excluir mensagens de caixas de correio dos usuários em [Pesquisar e excluir mensagens](https://go.microsoft.com/fwlink/p/?LinkId=314173).
+Results of an In-Place eDiscovery search can be previewed in the Exchange admin center, exported to a .pst file, or copied to a special type of mailbox, called a discovery mailbox. Administrators or compliance officers can connect to the discovery mailbox to review messages. For details, see [Create an In-Place eDiscovery Search](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+  
+> [!NOTE]
+> When copying search results for an In-Place eDiscovery search performed across on-premises and cloud-based mailboxes or archives, you must select an on-premises discovery mailbox. Messages from the on-premises primary mailbox and the cloud-based archive are copied to the on-premises discovery mailbox. 
+  
+Administrators can also search for and delete inappropriate email messages sent to multiple mailboxes across their organizations. For example, if confidential salary information was accidentally sent to all employees, an administrator can delete the email from the users' mailboxes. This type of search is not available in the Exchange admin center. It must be performed using Remote PowerShell. For details on how to delete messages from users' mailboxes, see [Search and Delete Messages](https://go.microsoft.com/fwlink/p/?LinkId=314173).
   
 ## <a name="security-features-in-exchange-online-archiving"></a>Recursos de segurança no Arquivamento do Exchange Online
 
@@ -100,13 +99,13 @@ Conexões de cliente a Arquivamento do Exchange Online use os seguintes métodos
     
 ### <a name="encryption-smime-and-pgp"></a>Criptografia: S/MIME e PGP
 
-Arquivamento do Exchange Online irá armazenar mensagens de Secure/Multipurpose Internet Mail Extensions (S/MIME). Entretanto, Arquivamento do Exchange Online não hospeda S/MIME funções ou hospedar as chaves públicas, nem fornecer repositório chave, gerenciamento de chave ou serviços de diretório chave porque todos estes serviços anexar para a infra-estrutura do Exchange no local.
+Exchange Online Archiving will store Secure/Multipurpose Internet Mail Extensions (S/MIME) messages. However, Exchange Online Archiving does not host S/MIME functions or host the public keys, nor does it provide key repository, key management, or key directory services because all of these services attach to the on-premises Exchange infrastructure.
   
 Semelhantemente, Arquivamento do Exchange Online armazena mensagens que são criptografadas usando soluções de terceiros do lado do cliente como o PGP.
   
 ### <a name="information-rights-management"></a>Gerenciamento de Direitos de Informação
 
-O Arquivamento do Exchange Online não oferece serviços hospedados de IRM (Gerenciamento de Direitos de Informação), mas os administradores podem usar o AD RMS (Active Directory Rights Management Services) local com o Exchange Online. Se um servidor AD RMS for implantado, o Outlook poderá se comunicar diretamente com o servidor, permitindo que os usuários redijam e leiam mensagens protegidas pelo AD RMS. Se estiver configurada a interoperabilidade entre o servidor do AD RMS e o ambiente do Exchange no local, os usuários será capazes de compor e ler mensagens protegidas por IRM.
+Exchange Online Archiving does not provide hosted Information Rights Management (IRM) services, but administrators can use on-premises Active Directory Rights Management Services (AD RMS). If an AD RMS server is deployed, Outlook can communicate directly with that server, enabling users to compose and read IRM-protected messages. If interoperability between the AD RMS server and the on-premises Exchange environment is configured, users will be able to compose and read IRM-protected messages.
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>Suporte para IRM no Outlook na Web
 
@@ -124,9 +123,9 @@ Arquivamento do Exchange Online fornece dois tipos de recursos de auditoria inte
     
 - **Log de auditoria de caixa de correio** Auditoria de caixa de correio log permite que os clientes controlar o acesso a caixas de correio por usuários que não seja o proprietário de caixa de correio. 
     
-Vários relatórios de auditoria pré-definidos estão disponíveis no Painel de Controle do Exchange, incluindo Mudanças na Função do Administrador, Retenção de Litígio e Acesso de Caixa de Correio por Não Proprietário. Os administradores podem filtrar os relatórios por data e função e podem exportar todos os eventos de auditoria para caixas de correio especificadas no formato XML para retenção a longo prazo ou relatório personalizado.
+Several predefined audit reports are available in the Exchange admin center, including Administrator Role Changes, Litigation Hold, and Non-Owner Mailbox Access. Administrators can filter reports by date and role, and they can export all audit events for specified mailboxes in XML format for long-term retention or custom reporting.
   
-Auditoria de administrador consta do registro por padrão e auditoria de caixa de correio Registro em log está desativado por padrão. Os administradores podem usar o PowerShell remoto do Windows para habilitar o log para algumas ou todas as caixas de correio em sua organização de auditoria de caixa de correio. Confira mais informações em [Relatórios de auditoria](https://go.microsoft.com/fwlink/p/?LinkId=314175).
+Administrator audit logging is on by default, and mailbox audit logging is off by default. Administrators can use remote Windows PowerShell to enable mailbox audit logging for some or all mailboxes in their organization. For more information, see [Auditing Reports](https://go.microsoft.com/fwlink/p/?LinkId=314175).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

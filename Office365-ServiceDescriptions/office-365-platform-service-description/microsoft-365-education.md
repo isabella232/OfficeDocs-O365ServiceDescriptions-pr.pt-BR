@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Education
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 7f4d24a32afa116632358ec6560414f7e2d74289
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 63d34a19286ba5fa4719a890df89b732e9f84aeb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045053"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132405"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. 
   
-O Microsoft 365 fornece um sistema completo, incluindo o Office 365, o Windows 10 e o Enterprise Mobility e segurança. A tabela a seguir lista os recursos do Office 365 para educação a1, a3 e a5 junto com os 365 correspondentes da Microsoft para os recursos a3 e a5. Para comparar recursos entre planos comerciais e empresariais, confira [comparar planos do Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177)ou, para obter uma lista mais detalhada dos recursos, consulte a descrição de serviço relevante em [descrições de serviço do Microsoft 365 e do Office 365](../office-365-service-descriptions-technet-library.md). Para pesquisar artigos de suporte e informações, confira [treinamento &amp; da ajuda do Office](https://support.office.com/).
+O Microsoft 365 fornece um sistema completo, incluindo o Office 365, o Windows 10 e o Enterprise Mobility e segurança. A tabela a seguir lista os recursos do Office 365 para educação a1, a3 e a5 junto com os 365 correspondentes da Microsoft para os recursos a3 e a5. Para comparar recursos entre planos comerciais e empresariais, confira [comparar planos do Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177)ou, para obter uma lista mais detalhada dos recursos, consulte a descrição de serviço relevante em [descrições de serviço do Microsoft 365 e do Office 365](../office-365-service-descriptions-technet-library.md). Para pesquisar artigos de suporte e informações, confira [ &amp; treinamento da ajuda do Office](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Serviços e recursos
 

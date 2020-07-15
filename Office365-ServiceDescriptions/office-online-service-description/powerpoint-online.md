@@ -1,8 +1,7 @@
 ---
 title: PowerPoint para a Web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: O PowerPoint para a Web (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft 365 com o Office para a Web podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640279"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131315"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint para a Web
 
@@ -89,7 +88,7 @@ O PowerPoint para a Web permite aplicar negrito, itálico, sublinhado, fonte, ta
   
 ## <a name="full-fidelity-reading-view"></a>Modo de exibição de leitura de fidelidade total
 
-Exibir apresentações como foram destinadas a serem&mdash;vistas mostrando animações, transições e áudio/vídeo.
+Exibir apresentações como foram destinadas a serem vistas &mdash; mostrando animações, transições e áudio/vídeo.
   
 ## <a name="full-ink-support"></a>Suporte completo à tinta
 
@@ -125,7 +124,7 @@ O PowerPoint para a Web é iniciado em um navegador da Web e depende de uma cone
   
 ## <a name="picture-cropping"></a>Recorte de imagem
 
-Melhore o enquadramento do assunto em uma imagem com a ferramenta de corte. Basta clicar em uma das alças de corte na borda da imagem e arrastá-la até obter a imagem desejada.
+Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
   
 ## <a name="pictures"></a>Imagens
 
@@ -173,7 +172,7 @@ Não é possível inserir o Word arte e gráficos no PowerPoint para a Web, mas 
   
 ## <a name="share"></a>Compartilhar
 
-Se a sua apresentação for salva em uma biblioteca de documentos do SharePoint, ela estará online, e você poderá compartilhá-la enviando um link, em vez de um anexo de email. As pessoas com as permissões adequadas podem ver a apresentação em seus navegadores da Web ou em seus dispositivos móveis. Saiba mais sobre como [compartilhar uma apresentação](https://go.microsoft.com/fwlink/?LinkId=272776).
+If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>Apresentação de slides
 

@@ -1,8 +1,7 @@
 ---
 title: Alta disponibilidade e continuidade de negócios
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação para a infraestrutura de email de uma organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar caixas de correio e itens excluídos.
-ms.openlocfilehash: 6a0da1d74c74e1e301ab728e81ca884fc9edffc6
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 395977f77d4293d18c5cf53e02d43566ca9f7313
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639789"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131965"
 ---
 # <a name="high-availability-and-business-continuity"></a>Alta disponibilidade e continuidade de negócios
 
@@ -25,9 +24,9 @@ O Microsoft Exchange Online oferece amplo suporte de retenção e recuperação 
   
 ## <a name="mailbox-replication-at-data-centers"></a>Replicação de caixa de correio em data centers
 
-As caixas de correio do Exchange Online são replicadas continuamente para várias cópias de banco de dados, em data centers da Microsoft geograficamente dispersos, para fornecer recurso de restauração de dados no caso de falha da infraestrutura de mensagens local. Para falhas em grande escala, são iniciados procedimentos de gerenciamento de continuidade de serviço.
+Exchange Online mailboxes are continuously replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a local messaging infrastructure failure. For large-scale failures, service continuity management procedures are initiated.
   
-Para saber mais sobre como a Microsoft protege seus dados, confira [Central de Confiabilidade do Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Se você estiver usando o Office 365 operado pela 21Vianet, confira a [Central de confiabilidade da 21Vianet](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+For more information about how Microsoft protects your data, see [Office 365 Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=299135). If you are using Office 365 operated by 21Vianet, see the [21Vianet Trust Center](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperação da caixa de correio excluída
 
@@ -39,9 +38,9 @@ O Exchange Online permite que os usuários restaurem itens que foram excluídos 
   
 Após um item ser removido da pasta Itens Excluídos, ele permanece na pasta Itens Recuperáveis por mais 14 dias antes de ser removido permanentemente, mas os administradores podem aumentar esse tempo até um máximo de 30 dias usando o Windows PowerShell remoto. Os usuários podem recuperar o item durante esse período de tempo usando o recurso recuperar itens excluídos no Outlook na Web ou no Outlook. Saiba como [alterar o período de retenção de item excluído](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
-Se um usuário remover manualmente um item da pasta Itens Recuperáveis, um administrador poderá recuperar o item dentro do mesmo período de 14 dias usando o recurso de Recuperação de Item Único e o Windows PowerShell remoto. Por padrão, a Recuperação de Item Único será desabilitada quando a caixa de correio for criada. Para saber mais, confira [Habilitar ou desabilitar a recuperação de item único para uma caixa de correio](https://go.microsoft.com/fwlink/p/?LinkID=286941).
+If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same time period by using the Single Item Recovery feature with remote Windows PowerShell. By default, Single Item Recovery is enabled when a mailbox is created. To learn more, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
-Para preservar mensagens por mais de 30 dias na pasta de Itens Recuperáveis, as organizações podem implementar a preservação de email de longo prazo ou Bloqueios In-loco baseados em tempo. Saiba mais sobre como [colocar uma caixa de correio em Bloqueio In-loco](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+To preserve messages for longer than 30 days in the Recoverable Items folder, organizations can implement longer-term email preservation or time-based In-Place Holds. Learn more about [placing a mailbox on In-Place Hold](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

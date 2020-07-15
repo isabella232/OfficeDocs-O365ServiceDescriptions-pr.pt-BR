@@ -1,8 +1,7 @@
 ---
 title: Recursos de descoberta no Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Os recursos de descoberta a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 44f959480415dc1d4eba7b3159fb46e38d153da0
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 5271b6b5b41acd4287f1b341f13c969e26abac8e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640069"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132075"
 ---
 # <a name="discovery-features-in-yammer"></a>Recursos de descoberta no Yammer
 

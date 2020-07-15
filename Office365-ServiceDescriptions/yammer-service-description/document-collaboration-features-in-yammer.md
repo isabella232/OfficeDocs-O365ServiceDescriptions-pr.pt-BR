@@ -1,8 +1,7 @@
 ---
 title: Recursos de colaboração de documentos no Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Os seguintes recursos de colaboração de documento estão disponíveis no Yammer.
-ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687750"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132085"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Recursos de colaboração de documentos no Yammer
 
@@ -25,7 +24,7 @@ Os seguintes recursos de colaboração de documento estão disponíveis no Yamme
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Recursos de colaboração de documento nos planos do Yammer
 
-Precisa de ajuda para descobrir qual melhor plano do Yammer é adequado para as necessidades de sua organização? Use a tabela a seguir para saber quais os recursos de colaboração de documento estão disponíveis em cada plano.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
   
 |**Recurso**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

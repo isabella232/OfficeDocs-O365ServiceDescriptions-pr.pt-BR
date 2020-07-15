@@ -1,8 +1,7 @@
 ---
 title: Office 365 Germany
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,24 +9,24 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com residências de dados na Alemanha e medidas de controle e acesso de dados estritos por meio de um modelo de confiança de dados exclusivo regido em lei alemão.
-ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: 3e2cb2a1f9eeebd6a3fb106f8cac9a32a4cfb5e9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429116"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132385"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
 Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com residências de dados na Alemanha e medidas de controle e acesso de dados estritos por meio de um modelo de confiança de dados exclusivo regido em lei alemão.
 
-O objeto de confiança de dados, T-Systems International, uma empresa alemã independente e subsidiária da Deutsche Telekom, controla o acesso lógico e físico aos dados dos clientes. Os dados dos clientes não podem ser acessados sem a aprovação ou a supervisão do objeto de confiança de dados, que é regido pelas leis alemãs.
+The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
 
 Com base nessa evolução nas necessidades dos clientes, nossa estratégia de nuvem para a Alemanha se concentrará na entrega das novas regiões de nuvem na Alemanha que são consistentes com nossa oferta global de nuvem. Com esse foco, não vamos mais aceitar novos clientes ou implantar novos serviços da Alemanha atualmente disponível do Microsoft Cloud. Os clientes existentes podem continuar a usar os serviços de nuvem atuais disponíveis atualmente, que serão mantidos com as atualizações de segurança necessárias. [Saiba mais sobre o Office 365 Alemanha](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ## <a name="service-availability-for-each-plan"></a>Disponibilidade do serviço para cada plano
 
-Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exchange Online e o SharePoint Online. A tabela a seguir mostra os serviços disponíveis em cada plano do Office 365.
+Each Office 365 Germany plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -42,7 +41,7 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 |Project Online <sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Power BI <sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Visio para a Web <sup>4</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Yammer Enterprise|N/D|N/D|N/D|N/D|N/D|N/D|N/D|N/D|
+|Yammer Enterprise|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|
 |Proteção de Informações do Azure|Não|Não|Não|Não|Não|Não|Não|Não|
 
 > [!NOTE]
@@ -338,7 +337,7 @@ A tabela a seguir fornece links para comparações do Office para os recursos de
 
 ||||
 |:-----|:-----|:-----|
-|**Aplicativo**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
+|**Application**|**Office para a Web**|**Link para a comparação detalhada de recursos**|
 |Word|Word para a Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para a Web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -382,7 +381,7 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|--|Não|Não|Não|Não|Sim|Não|
-|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -539,7 +538,7 @@ A tabela a seguir exibe os recursos da Proteção Avançada contra Ameaças do E
 
 ## <a name="project-online-features"></a>Recursos do Project Online
 
-A tabela a seguir exibe os recursos do Project Online que estão disponíveis nos planos do Office 365 Germany. Saiba mais sobre o Project Online em [Introdução ao Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+The following table lists the Project Online features that are available across Office 365 Germany plans. To learn more aboutProject Online, see [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -550,7 +549,7 @@ A tabela a seguir exibe os recursos do Project Online que estão disponíveis no
 
 ## <a name="sharepoint-online-features"></a>Recursos do SharePoint Online
 
-Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todos os planos dão suporte a todos os recursos do SharePoint. A tabela a seguir exibe os recursos do que estão disponíveis nos planos do Office 365 Germany.
+All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table lists features that are available across Office 365 Germany plans.
 
 ****
 
@@ -724,7 +723,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Query throttling|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Visualização ao focalizar|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Ranking models|Sim<sup>5</sup>|Não|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|
-|Refinadores|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Refiners|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RESTful Query API/Query OM|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Result sources|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Search connector framework|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -850,7 +849,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 |Office Communications Server 2007 R2 e Lync Server 2010 (IM, Presença, Áudio, Vídeo, Conferência)|Sim|Não|Sim|Sim|Sim|Sim|Não|
 |XMPP (usado pelo Google Talk, por exemplo) e federação Sametime|Não|Não|Não|Não|Não|Não|Não|
 |Federação do Skype|Não<sup>6</sup>|Não|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não|
-|AOL e federação do Yahoo!|Não|Não|Não|Não|Não|Não|Não|
+|AOL and Yahoo! federation|Não|Não|Não|Não|Não|Não|Não|
 |**[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Ad hoc e agendar conferência de áudio|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Agendamento de conferência de vídeo e ad hoc|Sim|Sim|Sim|Sim|Sim|Sim|Não|

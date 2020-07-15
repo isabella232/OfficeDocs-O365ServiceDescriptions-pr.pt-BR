@@ -1,7 +1,7 @@
 ---
-title: Descrição do serviço do myAnalytics
-ms.author: sharik
-author: skjerland
+title: Descrição do serviço do MyAnalytics
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Recursos, distribuições, privacidade e pré-requisitos do myAnalytics
-ms.openlocfilehash: 9b5683c0b2d19b0e263d25228b190110ba489b6a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f9f6a329aadb874be1e7b1e13cb0446daec8a4ee
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262854"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132425"
 ---
-# <a name="myanalytics-service-description"></a>Descrição do serviço do myAnalytics
+# <a name="myanalytics-service-description"></a>Descrição do serviço do MyAnalytics
 
 O myAnalytics resume o modo como você gasta o tempo no trabalho e, em seguida, sugere maneiras de trabalhar de forma mais inteligente. O myAnalytics fornece esses percepções por meio de [elementos](#elements) que podem ser acessados no Microsoft Outlook ou no navegador da Web.
 
@@ -37,13 +37,13 @@ O myAnalytics consiste nos seguintes elementos:
 
 Ao cumprir as diretrizes a seguir, o myAnalytics protege a privacidade dos funcionários e oferece suporte à conformidade com as normas locais:
 
-* O myAnalytics não foi projetado para habilitar a avaliação de funcionários, o controle, a tomada de decisões automatizada, a criação de perfil ou o monitoramento.
+* O MyAnalytics não foi projetado para permitir a avaliação, rastreamento, tomada de decisão automatizada, criação de perfil ou monitoramento dos funcionários.
 * O myAnalytics não dá aos funcionários acesso a novas informações de identificação pessoal em outros colegas.
-* Os dados do myAnalytics são processados e armazenados na caixa de correio do Exchange Online do funcionário.
-* O myAnalytics oferece suporte a conformidade geral de RGPD (regulamentação de proteção de dados).
-* O myAnalytics pode ser configurado para que as pessoas possam optar propositadamente.
+* Os dados do MyAnalytics são processados e armazenados na caixa de correio do Exchange Online do funcionário.
+* O MyAnalytics oferece suporte à conformidade com o RGPD (Regulamento Geral sobre a Proteção de Dados).
+* O MyAnalytics pode ser configurado para que os indivíduos precisem optar por aceitá-lo intencionalmente.
 * MyAnalytics e Delve são aplicativos separados sem interdependências.
-* O myAnalytics lembra às pessoas que seus dados são privados e seguros.
+* O MyAnalytics lembra as pessoas que seus dados são privados e seguros.
 
 Para obter mais informações, consulte [Guia de privacidade do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).
 

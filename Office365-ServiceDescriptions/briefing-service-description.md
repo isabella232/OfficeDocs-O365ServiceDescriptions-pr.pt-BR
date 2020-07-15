@@ -1,7 +1,7 @@
 ---
-title: Descrição do serviço de email de resumo
-ms.author: sharik
-author: skjerland
+title: Descrição do serviço de resumo de email
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: O email de resumo ajuda os usuários a aproveitar o máximo de cada dia. Ele identifica oportunidades entre vários elementos e fornece lembretes oportunas.
-ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 16ce371bbe38a65cf1b302ef6cbdabdc45f28984
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260656"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132005"
 ---
-# <a name="briefing-email-service-description"></a>Descrição do serviço de email de resumo
+# <a name="briefing-email-service-description"></a>Descrição do serviço de resumo de email
 
 O email de resumo ajuda os usuários a manter o controle de seus calendários e ser intencionais sobre o dia. Nas duas primeiras horas do seu dia de trabalho (conforme configurado no Outlook), elas receberão um email sobre itens relevantes para se preparar melhor para o dia seguinte, incluindo:
 

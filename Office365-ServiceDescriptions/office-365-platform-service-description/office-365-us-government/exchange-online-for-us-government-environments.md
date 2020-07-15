@@ -1,20 +1,19 @@
 ---
 title: Exchange Online para ambientes do governo dos EUA
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem do governo dos EUA e a nuvem comercial, conforme listado na descrição do serviço do Exchange Online.
-ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213693"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131925"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para ambientes do governo dos EUA
 
@@ -117,7 +116,7 @@ A tabela a seguir descreve se os recursos especificados do Exchange Online estã
 |Outlook para Mac|Sim|Sim|Sim|Para atender aos requisitos de conformidade do GCC High e DoD, você deve estar executando pelo menos a versão 1803 do Office 365 ProPlus. O Office 365 ProPlus não está incluído em G1 ou F3.|
 |Outlook para iOS e Android|Sim|Sim|Sim||
 |Exchange ActiveSync|Sim|Sim|Sim||
-|Gerenciamento de Dispositivos Móveis para o Office 365|Sim|Sim|Sim||
+|Mobilidade básica e segurança para o Microsoft 365|Sim|Sim|Sim||
 |POP e IMAP|Sim|Sim|Sim||
 |SMTP|Sim|Sim|Sim||
 |Suporte a aplicativos EWS|Sim|Sim|Sim||

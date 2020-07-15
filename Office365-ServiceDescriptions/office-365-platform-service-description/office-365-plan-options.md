@@ -1,8 +1,7 @@
 ---
 title: Opções de planos do Office 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -16,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213903"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132125"
 ---
 # <a name="office-365-plan-options"></a>Opções de planos do Office 365
 
@@ -42,7 +41,7 @@ A tabela a seguir lista os diferentes planos e famílias de serviços disponíve
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Disponibilidade do serviço em cada plano do Office 365
 
-Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange Online e o SharePoint Online. A tabela a seguir mostra os serviços disponíveis em cada plano do Office 365.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
   
 > [!IMPORTANT]
 >  Embora um serviço possa estar disponível em vários planos do Office 365, os recursos disponíveis em cada plano poderão ser diferentes. Para ver os detalhes dos recursos que estão disponíveis para cada plano, consulte a descrição de serviço individual ou entre em contato com seu Revendedor ou Representante de vendas da Microsoft para obter mais informações. <br/>  Diversos planos do Office 365 para empresas têm complementos que você pode comprar para a sua assinatura. Um complemento oferece funcionalidade adicional à assinatura. Saiba mais em [Comprar ou editar um complemento do Office 365 para empresas](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
@@ -115,7 +114,7 @@ Os serviços online a seguir estão disponíveis individualmente, como planos au
 |SharePoint Online  <br/> |[SharePoint Online (Plano 1)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online (Plano 2)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive for Business  <br/> |[Plano 1 do OneDrive for Business](https://onedrive.live.com/about/business/) <br/> [Plano 2 do OneDrive for Business](https://onedrive.live.com/about/business/) <br/> |
 |Skype for Business online  <br/> |[Skype for Business Online (Plano 1)](https://products.office.com/microsoft-teams/group-chat-software) <br/> [Skype for Business Online (Plano 2)](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Aplicativos do Office  <br/> |[Aplicativos do Microsoft 365 para empresas](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Aplicativos do Microsoft 365 para empresas](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Aplicativos do Office  <br/> |[Microsoft 365 Apps para empresas](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Aplicativos do Microsoft 365 para empresas](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |Gerenciamento de portfólio do Project  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer](https://products.office.com/yammer/) <br/> |
 |Informações organizacionais  <br/> |[Workplace Analytics](https://products.office.com/business/workplace-analytics) <br/> |

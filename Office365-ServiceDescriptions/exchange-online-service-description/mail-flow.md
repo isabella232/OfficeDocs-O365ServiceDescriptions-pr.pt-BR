@@ -1,8 +1,7 @@
 ---
 title: Fluxo de mensagens
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Para a maioria das organizações, hospedamos suas caixas de correio e cuidamos do fluxo de emails. É a configuração mais simples e significa que a Microsoft gerencia todas as caixas de correio e filtragem. Entretanto, algumas organizações precisam de configurações de fluxo de emails mais complexas para garantir que eles atendam às necessidades regulamentares ou de negócios específicas. Saiba mais sobre essas opções aqui.
-ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1ada5a3199e6ae65c6aaa99873f13a4025366a8d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640319"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132715"
 ---
 # <a name="mail-flow"></a>Fluxo de emails
 
@@ -45,19 +44,19 @@ Saiba mais em [Set up connectors for secure mail flow with a partner organizatio
   
 ## <a name="conditional-mail-routing"></a>Roteamento de email condicional
 
-É possível enviar mala direta para sites específicos usando conectores e regras de transporte. Com o roteamento baseado em critérios, você escolhe um conector com base em condições específicas.
+You can direct mail to specific sites by using connectors and transport rules. With criteria-based routing, you can choose a connector based on specific conditions.
   
 Saiba mais em [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Lista segura de emails de entrada
 
-É possível adicionar o endereço IP de um parceiro confiável a uma lista segura para garantir que as mensagens enviadas pelos parceiros não fiquem sujeitas ao filtro antispam. Para isso, você usa a lista Permitir IP do filtro de conexão.
+You can add a trusted partner's IP address to a safe list to ensure that messages the partner sends to you are not subject to anti-spam filtering. To do this, you can use the connection filter's IP Allow list.
   
 Saiba mais em [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Roteamento de email híbrido
 
-Uma implantação híbrida oferece às organizações a capacidade de levar a experiência e o controle administrativo cheio de recursos que elas possuem em suas organizações locais do Microsoft Exchange para a nuvem. O transporte híbrido faz com que as mensagens que trafegam entre destinatários das organizações sejam autenticadas, criptografadas e transferidas usando TLS (Transport Layer Security) e apareçam como "internas" para componentes do Exchange, como regras de transporte, registro no diário e diretivas antispam. Configure o transporte híbrido usando o Assistente de Configuração Híbrida no Exchange Server.
+A hybrid deployment gives organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. With hybrid transport, messages sent between recipients in either organization are authenticated, encrypted, and transferred using Transport Layer Security (TLS), and appear as "internal" to Exchange components such as transport rules, journaling, and anti-spam policies. You configure hybrid transport by using the Hybrid Configuration Wizard in Exchange Server.
   
 Para saber mais sobre o roteamento de emails em uma implantação híbrida, confira [Roteamento de Transporte em Implantações Híbridas do Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271757).
   
@@ -77,13 +76,13 @@ Para saber mais sobre as opções de transporte em uma implantação híbrida, c
   
 ### <a name="troubleshooting-a-deployment-with-the-hybrid-configuration-wizard"></a>Solucionando problemas de uma implantação com o Assistente de Configuração Híbrida
 
-Usar o Assistente de Configuração Híbrida para configurar uma implantação híbrida no Microsoft Exchange Server reduz bastante o potencial de que a implantação híbrida enfrente problemas. Entretanto, existem algumas áreas típicas fora do escopo do Assistente de Configuração Híbrida que, se configuradas incorretamente, podem representar problemas em uma implantação híbrida. Entre elas estão a configuração correta do servidor de Acesso para Cliente e a instalação e a configuração adequadas do certificado.
+Using the Hybrid Configuration Wizard to configure a hybrid deployment in Microsoft Exchange Server greatly minimizes the potential that the hybrid deployment will experience problems. However, there are some typical areas outside the scope of the Hybrid Configuration Wizard that, if misconfigured, may present problems in a hybrid deployment. These include proper Client Access server configuration and proper certificate installation and configuration.
   
 Saiba mais sobre a solução de problemas de uma implantação com o Assistente de Configuração Híbrida em [Solucionar problemas de implantação híbrida](https://go.microsoft.com/fwlink/p/?LinkId=271040).
   
 ### <a name="managing-a-hybrid-configuration"></a>Gerenciando uma configuração híbrida
 
-Você pode modificar uma configuração híbrida existente alterando as configurações no Assistente de Configuração Híbrida. Os cenários incluem desabilitação de transporte centralizado ou desabilitação de transporte de email seguro.
+You can modify an existing hybrid configuration by changing settings in the Hybrid Configuration Wizard. Scenarios include disabling centralized transport or disabling secure mail transport.
   
 Saiba mais sobre o gerenciamento de uma configuração de implantação híbrida em [Gerenciar uma Implantação Híbrida](https://go.microsoft.com/fwlink/p/?LinkId=271044).
   

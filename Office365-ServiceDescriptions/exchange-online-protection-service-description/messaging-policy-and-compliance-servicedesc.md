@@ -1,8 +1,7 @@
 ---
 title: Conformidade e política de sistema de mensagens
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640159"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132785"
 ---
 # <a name="messaging-policy-and-compliance"></a>Conformidade e política de sistema de mensagens
 
@@ -56,7 +55,7 @@ Você pode configurar as políticas de DLP no EAC, que permitem:
 - Revise os dados de incidentes em relatórios de DLP ou adicione seus próprios relatórios específicos usando uma ação de geração de relatórios de incidentes.
 
 > [!NOTE]
-> As políticas de DLP são aplicadas apenas ao email que entra ou sai da organização. Os emails intraorganizacionais (internos) não têm políticas de DLP aplicadas, a menos que você execute o Exchange Server 2013 com DLP local. Isso também se aplica às dicas de política de DLP, que informam aos usuários sobre possíveis violações de política antes que dados confidenciais sejam enviados por engano a destinatários não autorizados.
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 Para saber mais sobre DLP, confira [prevenção contra perda de dados no Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 
@@ -66,7 +65,7 @@ A criptografia de mensagens do Office 365, parte da proteção de informações 
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Recursos de diretiva e conformidade de mensagens através de opções EOP
 
-|**Recurso**|**EOP autônomo**|**Recursos do EOP <br/> no Exchange Online**|**Exchange Enterprise <br/> Cal com serviços**|
+|**Recurso**|**EOP autônomo**|**Recursos do EOP no <br/> Exchange Online**|**Exchange Enterprise <br/> Cal com serviços**|
 |:-----|:-----|:-----|:-----|
 |Regras do fluxo de email|Sim<sup>1</sup>|Sim<sup>1</sup>|Sim<sup>1, 3</sup>|
 |Registro em log de auditoria|Sim<sup>2</sup>|Sim|Sim|

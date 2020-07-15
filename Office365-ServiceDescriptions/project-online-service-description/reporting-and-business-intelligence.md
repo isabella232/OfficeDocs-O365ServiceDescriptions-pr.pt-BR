@@ -1,8 +1,7 @@
 ---
 title: Inteligência de negócios e de relatórios
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: Os seguintes recursos de relatórios e Business Intelligence estão disponíveis no Project online.
-ms.openlocfilehash: dc3c5939bbdfc08cafc6bf6b7d4bb65d90e675c7
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 04f8faf3c92698617ade586b47095f720472d6b3
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687766"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131615"
 ---
 # <a name="reporting-and-business-intelligence"></a>Inteligência de negócios e de relatórios
 
@@ -23,7 +22,7 @@ Os seguintes recursos de relatórios e Business Intelligence estão disponíveis
   
 ## <a name="odata-feeds"></a>Feeds OData
 
-Os feeds OData permitem que as consultas do REST e uma série de bibliotecas de cliente do OData façam consultas de dados de relatórios de uma instância do Project Web App. Por exemplo, você pode usar diretamente uma consulta do REST em um navegador da Web ou usar o JavaScript para criar aplicativos da Web e aplicativos de cliente para dispositivos móveis, tablets, PCs e Macs. Para saber mais, confira [Referência de serviço de OData do Project 2013](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Painéis prontos de portfólios
 
@@ -31,5 +30,5 @@ Os sofisticados relatórios prontos foram desenvolvidos para serem imediatamente
   
 ## <a name="project-desktop-reporting"></a>Relatórios da área de trabalho do Project
 
-Os relatórios da área de trabalho do Project permitem que você crie e personalize relatórios gráficos impressionantes dos dados de projeto que desejar, sem depender de outro software. Para mais informações, confira [Criar um relatório de projeto](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
   

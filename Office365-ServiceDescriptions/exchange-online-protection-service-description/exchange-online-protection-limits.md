@@ -1,8 +1,7 @@
 ---
-title: Limites de proteção do Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+title: Limites do Exchange Online Protection
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,27 +11,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que o contrário seja especificado.
-ms.openlocfilehash: 08e3295930933b9f233dcff36e2ad94972d7c2ee
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260746"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132995"
 ---
-# <a name="exchange-online-protection-limits"></a>Limites de proteção do Exchange Online
+# <a name="exchange-online-protection-limits"></a>Limites do Exchange Online Protection
 
 Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que o contrário seja especificado. 
   
 > [!TIP]
 > Para obter mais informações sobre limites no Exchange Online, consulte [limites do Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Os limites de regras de transporte também se aplicam aos clientes do EOP autônomo. Os limites de taxas de destinatários e de taxas de mensagens para o Exchange Online não se aplicam aos clientes do EOP autônomo. 
   
-- **Limite de domínios** Você pode adicionar até 900 domínios por locatário. Os subdomínios podem ser incluídos neste limite de 900 ou, caso necessário, como parte de uma opção pega-tudo, podem corresponder a subdomínios. Para saber mais, confira [Gerenciar domínios aceitos no EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+- **Domain limit** You can add up to 900 domains per tenant. Subdomains can be included in this 900 limit, or if necessary, as part of a catch-all option, match subdomains. For more information, see [Manage Accepted Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
     
 - **Limite de tamanho de mensagens** O tamanho máximo das mensagens para clientes do EOP autônomo, incluindo anexos, é de 150 MB. 
     
-- **Número de mensagens de saída enviadas** O limite para o número de mensagens de saída enviadas pelo EOP é grande o bastante para garantir que as comunicações normais por email não sejam tratadas como spam. Se quiser enviar mensagens de email comerciais em massa em vez de enviar mensagens de saída pelo EOP, recomendamos usar um provedor de serviço de email (ESP) de terceiros ou enviar as mensagens pelos servidores de email locais. 
+- **Number of outbound messages sent** The limit for the number of outbound messages sent through EOP is high enough to ensure that normal email communication is not treated as spam. If you want to send commercial bulk email messages, rather than sending outbound messages through EOP, we recommend that you either use a third-party email service provider (ESP) or send them through your on-premises email servers. 
     
-- **Limite de destinatários** Contanto que o host de envio possa dividir a mensagem em "blocos" de menos de 500 destinatários, não há um limite explícito definido. No entanto, cada "bloco" será efetivamente tratado como uma nova mensagem. Muitas mensagens em um curto período, mensagens de um host com uma má reputação ou mensagens com conteúdo questionável poderiam ser reduzidas ou bloqueadas. 
+- **Recipient limit** As long as the sending host can split the message into "chunks" of fewer than 500 recipients, no explicit limit is defined. However, each "chunk" is effectively treated as a new message. Too many messages in a short period, messages from a host with a poor reputation, or messages with questionable content could be throttled or blocked. 
     
 - **Limite da lista de IP Permitidos e de IP Bloqueados** Ao configurar uma lista de IP Permitidos e de IP Bloqueados no filtro de conexão, você pode especificar um número máximo de 1273 entradas, em que uma entrada é também um endereço IP único ou um intervalo CIDR de endereços IP de /24 a /32. 
     
@@ -40,7 +39,7 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Esses
     
 - **Período de retenção de quarentena de spam** Por padrão, as mensagens de spam enviadas para a quarentena são mantidas por 30 dias. Os administradores podem reduzir este valor usando as diretivas de filtro de conteúdo. 
     
-- **Notificações da quarentena de spam para usuário final** Por padrão, e se estiverem habilitadas, as notificações da quarentena de spam são enviadas a cada 3 dias. Elas podem ser configuradas para envio diário ou até de 15 em 15 dias. 
+- **End-user spam quarantine notifications** By default, if enabled, end-user spam quarantine notifications are sent every 3 days. They can be configured to be sent every 1 to 15 days. 
     
 - **Limites de rastreamento de mensagens e relatórios** Para relatórios e limites de rastreamento de mensagens, consulte a seção "disponibilidade e latência dos dados de relatórios e rastreamento de mensagens" em [relatórios e rastreamento de mensagens no Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
     
