@@ -1,8 +1,7 @@
 ---
 title: Descrição do serviço OneDrive
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Visualize quais recursos do OneDrive estão disponíveis em quais planos.
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213923"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131285"
 ---
 # <a name="onedrive-service-description"></a>Descrição do serviço OneDrive
 
@@ -50,8 +49,8 @@ Para revisar os requisitos do aplicativo de sincronização e aplicativo móvel 
 - Microsoft 365 Apps para empresas
 - Office 365 Enterprise E1
 - Office 365 Government G1
-- Office 365 Business Essentials para instituições sem fins lucrativos
-- Office 365 Business Premium para instituições sem fins lucrativos
+- Microsoft 365 Business Basic para instituições sem fins lucrativos
+- Microsoft 365 Business Standard para instituições sem fins lucrativos
 - Office 365 E1 para instituições sem fins lucrativos
 - OneDrive for Business Plano 1
 - SharePoint Online Plano 1
@@ -68,7 +67,7 @@ Para revisar os requisitos do aplicativo de sincronização e aplicativo móvel 
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 E3 para instituições sem fins lucrativos
+- Office 365 E3 para entidades sem fins lucrativos
 - Office 365 E5 para entidades sem fins lucrativos
 - OneDrive for Business Plano 2
 - SharePoint Online Plano 2
