@@ -28,11 +28,11 @@ A Microsoft não opera o serviço em si. A 21Vianet opera, fornece e gerencia a 
 > [!NOTE]
 > Esses serviços estão sujeitos à legislação chinesa.
 
-Due to the unique nature of the China services—operated by a partner from datacenters inside China—there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. See the service description footnotes for differences. For a higher-level overview of differences, see [Learn about Office 365 operated by 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china).
+Devido à natureza exclusiva dos serviços na China, operados por um parceiro de datacenters dentro da China, existem alguns recursos que ainda não foram habilitados. Os clientes verão os serviços se aproximarem da paridade de recursos completos ao longo do tempo. Veja as diferenças nas notas de rodapé de descrição do serviço. Para uma visão geral mais detalhada das diferenças, confira [Saiba mais sobre o Office 365 operado pela 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china).
 
 ## <a name="service-availability-within-each-plan"></a>Disponibilidade de serviço em cada plano
 
-Each Office 365 plan operated by 21Vianet includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individuais, como o Exchange Online e o SharePoint Online. A tabela a seguir mostra os serviços disponíveis em cada plano do Office 365.
 
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
@@ -528,7 +528,7 @@ Arquivamento do Exchange Online está disponível pelos planos a seguir.
 
 |**Plano**|**Descrição**|
 |:-----|:-----|
-|**Arquivamento do Exchange Online para Exchange Server para Office 365 operado pela 21Vianet**|Arquivamento baseado em nuvem para usuários com caixas de correio primárias em Exchange Server 2013 ou Exchange 2010 (SP2 ou posterior).  <br/> If you want to add a cloud-based archive to a primary mailbox that's located on an on-premises Exchange server, you need to configure a hybrid deployment. For more information about hybrid deployments see [Exchange Server Hybrid Deployments](https://docs.microsoft.com/exchange/exchange-hybrid).|
+|**Arquivamento do Exchange Online para Exchange Server para Office 365 operado pela 21Vianet**|Arquivamento baseado em nuvem para usuários com caixas de correio primárias em Exchange Server 2013 ou Exchange 2010 (SP2 ou posterior).  <br/> Se quiser adicionar um arquivo baseado na nuvem a uma caixa de correio principal localizada em um servidor do Exchange no local, você precisa configurar uma implantação híbrida. Para saber mais sobre implantações híbridas, confira [Implantações híbridas do Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
 |**Arquivamento do Exchange Online para Exchange Online para Office 365 operado pela 21Vianet**| Os planos a seguir já incluem o arquivamento e não necessitam do Arquivamento do Exchange Online como um complemento:  <br/>  Office 365 A1 operado pela 21Vianet  <br/>  Office 365 Enterprise E3 operado pela 21Vianet  <br/>  Plano 2 do Exchange Online para Office 365 operado pela 21Vianet  <br/>  Confira mais detalhes sobre as funcionalidades de arquivamento das caixas de correio do Exchange Online em [Caixas de correio de arquivo morto no Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|
 
 A tabela a seguir exibe os recurso do Arquivamento do Exchange Online disponíveis no Office 365 operado pela 21Vianet.
@@ -565,7 +565,7 @@ A tabela a seguir exibe os recurso do Arquivamento do Exchange Online disponíve
 
 ## <a name="sharepoint-online-features"></a>Recursos do SharePoint Online
 
-All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
+Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todos os planos oferecem suporte a todos os recursos do SharePoint. A tabela a seguir mostra se um recurso está disponível em um plano.
 
 > [!NOTE]
 A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
@@ -866,7 +866,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 |Office Communications Server 2007 R2 e Lync Server 2010 (IM, Presença, Áudio, Vídeo, Conferência)|Sim|Não|Sim|Sim|Sim|Sim|Não|
 |XMPP (usado pelo Google Talk, por exemplo) e federação Sametime|Não|Não|Não|Não|Não|Não|Não|
 | Federação do Skype|Não|Não|Não|Não|Não|Não|Não|
-|AOL and Yahoo! federation|Não|Não|Não|Não|Não|Não|Não|
+|AOL e federação do Yahoo!|Não|Não|Não|Não|Não|Não|Não|
 |**[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Ad hoc e agendar conferência de áudio|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Agendamento de conferência de vídeo e ad hoc|Sim|Sim|Sim|Sim|Sim|Sim|Não|
@@ -969,11 +969,11 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 
 ### <a name="skype-for-business-online-features-across-office-365-standalone-plans"></a>Recursos do Skype for Business online nos planos autônomos do Office 365
 
-The following table lists Office 365 plans that include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
+A tabela a seguir exibe os planos do Office 365 que incluem o serviço SharePoint Online, mas nem todos os planos oferecem suporte a todos os recursos do SharePoint. A tabela a seguir mostra se um recurso está disponível em um plano.
 
 > [!NOTE]
 > - A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
-> - Skype for Business Online Standalone Plan 2 licensed users will get the Skype for Business Basic client, not the full Skype for Business client. If you want users to have the Skype for Business client, you will need to upgrade them to a license that includes it, such as an Enterprise-based license. To deploy the Skype for Business client to your users, see [Deploy the Skype for Business client in Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
+> - Usuários licenciados do Plano Autônomo 2 do Skype for Business online receberão o cliente básico do Skype for Business, não o cliente completo do Skype for Business. Se quiser que os usuários tenham o cliente do Skype for Business, será necessário atualizá-los para uma licença que o inclua, como uma licença do Enterprise. Para implantar o cliente do Skype for Business para seus usuários, confira [Implantar o cliente do Skype for Business no Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
 
 ||||
 |:-----|:-----|:-----|
@@ -1010,7 +1010,7 @@ The following table lists Office 365 plans that include the SharePoint Online se
 |Office Communications Server 2007 R2 e Lync Server 2010 (IM, Presença, Áudio, Vídeo, Conferência)|Sim|Sim|
 |XMPP (usado pelo Google Talk, por exemplo) e federação Sametime|Não|Não|
 | Federação do Skype|Não|Não|
-|AOL and Yahoo! federation|Não|Não|
+|AOL e federação do Yahoo!|Não|Não|
 |**[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Skype for Business online Autônomo Plano 1 para Office 365 operado pela 21Vianet**|**Skype for Business online Autônomo Plano 2 para Office 365 operado pela 21Vianet**|
 |Ad hoc e agendar conferência de áudio|Não|Sim|
 |Agendamento de conferência de vídeo e ad hoc|Não|Sim|

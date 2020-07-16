@@ -24,7 +24,7 @@ Os seguintes recursos de colaboração de documento estão disponíveis no Yamme
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Recursos de colaboração de documento nos planos do Yammer
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
+Precisa de ajuda para descobrir qual melhor plano do Yammer é adequado para as necessidades de sua organização? Use a tabela a seguir para saber quais os recursos de colaboração de documento estão disponíveis em cada plano.
   
 |**Recurso**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

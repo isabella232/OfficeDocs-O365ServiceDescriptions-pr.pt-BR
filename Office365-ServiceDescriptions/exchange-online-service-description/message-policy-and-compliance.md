@@ -21,13 +21,13 @@ ms.locfileid: "45132695"
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Arquivamento de Caixas de Correio baseadas no Exchange Online
 
-Exchange Online mailboxes reside in the cloud, and archiving them requires unique hosting environments. In some cases, Exchange Online can also be used to archive on-premises mailboxes in the cloud. The options for archiving with Exchange Online are described in this section.
+As caixas de correio do Exchange Online residem na nuvem, e o arquivamento delas requer ambientes de hospedagem exclusivos. Em alguns casos, o Exchange Online pode ser usado também para arquivar caixas de correio locais na nuvem. As opções de arquivamento com o Exchange Online são descritas nesta seção.
   
 O Exchange Online oferece recursos de arquivamento interno para caixas de correio baseadas em nuvem, incluindo um Arquivo Morto In-loco que oferece aos usuários um local conveniente para armazenar mensagens de email antigas. Um arquivo morto in-loco é um tipo especial de caixa de correio que aparece junto com as pastas de caixa de correio principais de um usuário no Outlook e no Outlook na Web. Os usuários podem acessar e pesquisar o arquivo morto da mesma forma que acessam e pesquisam suas caixas de correio principais. A funcionalidade disponível depende do cliente em uso:
   
 - **Outlook 2016, outlook 2013, outlook 2010 e Outlook na Web** Os usuários têm acesso a todos os recursos do arquivamento, bem como os recursos de conformidade relacionados, como controle sobre políticas de retenção e arquivamento. 
     
-- **Outlook 2007** Users have basic support for the In-Place Archive, but not all archiving and compliance features are available. For example, users cannot apply retention or archive policies to mailbox items and must rely on administrator-provisioned policies instead. 
+- **Outlook 2007** Os usuários têm suporte básico para o Arquivo Morto In Loco, mas nem todos os recursos de arquivamento e de conformidade estão disponíveis. Por exemplo, os usuários não podem aplicar políticas de retenção ou de arquivamento a itens de caixa de correio e devem se basear em políticas provisionadas pelo administrador. 
     
 Os administradores usam o Centro de administração do Exchange ou o Windows PowerShell remoto para habilitar o recurso de arquivo morto pessoal para usuários específicos.
   
@@ -43,12 +43,12 @@ Apenas os dados de mensagens de um usuário podem ser armazenados em cada arquiv
   
 > [!IMPORTANT]
 > - O uso de registro no diário, regras de transporte ou regras de encaminhamento automático para copiar mensagens para uma caixa de correio do Exchange Online com a finalidade de arquivamento não é permitido. A Microsoft reserva-se o direito de negar o arquivamento ilimitado em casos em que um arquivo de caixa de correio não está sendo usado em um cenário pessoal ou em outros casos de uso inadequado.
-> - In-Place Archive has specific licensing requirements for Outlook users. Outlook 2007 users must have the Office 2007 Cumulative Update for February 2011 to access the personal archive. 
+> - O Arquivo Morto In Loco tem requisitos de licenciamento específico para usuários do Outlook. Os usuários do Outlook 2007 devem ter a Atualização Cumulativa do Office 2007 para fevereiro de 2011 para acessarem o arquivo morto pessoal. 
 > - O Exchange Online não dá suporte ao cmdlet _New-MailboxImportRequest_ do Windows PowerShell do Exchange Server 2010 Service Pack 1 ou posterior para a importação controlada pelo administrador de arquivos. pst em um arquivo morto pessoal. Se um usuário tiver a caixa de correio principal e o arquivo morto no Exchange Online, um administrador poderá usar o PST Capture, uma ferramenta gratuita, para importar dados de arquivo .pst para o arquivo morto ou a caixa de correio principal do usuário.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Arquivamento baseado em nuvem de caixas de correio no local
 
-Using Exchange Online for cloud-based archiving of on-premises Exchange Server 2010 or later mailboxes is possible with Microsoft Exchange Online Archiving, a hosted archiving solution from Microsoft. This requires that the on-premises organization be in Hybrid mode or be set up for Exchange Online Archiving.
+Usar o Exchange Online para arquivamento baseado em nuvem de caixas de correio do Exchange Server 2010 ou posteriores no local é possível com o Arquivamento do Microsoft Exchange Online, uma solução de arquivamento hospedada da Microsoft. Isso requer que a organização no local esteja no modo Híbrido ou seja configurada para o Arquivamento do Exchange Online.
   
 > [!IMPORTANT]
 > Os usuários com uma caixa de correio no local em um servidor de Caixa de Correio do Exchange 2010 que possuem uma política de Pasta Gerenciada aplicada não podem ter um Arquivo Morto In-loco no local ou baseado em nuvem habilitado. 
@@ -59,11 +59,11 @@ O Exchange Online oferece políticas de retenção para ajudar as organizações
   
 No Exchange Online, os administradores gerenciam as políticas de retenção usando o Centro de administração do Exchange (EAC) ou o Windows PowerShell remoto.
   
-Exchange Online offers two types of policies: archive policies and delete policies. Both types can be combined on the same item or folder. For example, a user can tag an email message to be automatically moved to the In-Place Archive in a specified number of days and deleted after another span of days.
+O Exchange Online oferece dois tipos de políticas: políticas de arquivo morto e políticas de exclusão. Ambos os tipos podem ser combinados no mesmo item ou pasta. Por exemplo, o usuário pode marcar uma mensagem de email para ser movida automaticamente para o Arquivo Morto In-loco em um número especificado de dias e excluída após outro intervalo de dias.
   
 Com o Outlook 2010 ou posterior e o Outlook na Web, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais. Eles podem também exibir as políticas de retenção aplicadas e as datas de exclusão esperadas em mensagens. Os usuários de outros clientes de email podem apenas ter mensagens de email excluídas ou arquivadas com base nas políticas de retenção do lado de servidor definidas pelo administrador.
   
-The retention policy capabilities offered in Exchange Online are the same as those offered in Exchange Server 2010 Service Pack 2 RU4. Administrators can use remote Windows PowerShell to migrate retention policies from on-premises Exchange Server 2010 or later environments to Exchange Online.
+Os recursos de política de retenção oferecidos no Exchange Online são iguais aos oferecidos no Exchange Server 2010 Service Pack 2 RU4. Os administradores podem usar o Windows PowerShell remoto para migrar políticas de retenção de ambientes do Exchange Server 2010 ou posterior locais para o Exchange Online.
   
 > [!IMPORTANT]
 > Pastas Gerenciadas, uma abordagem mais antiga ao gerenciamento de registros de mensagens introduzida no Exchange Server 2007, não estão disponíveis no Exchange Online. 
@@ -94,13 +94,13 @@ A criptografia de mensagem avançada do Office 365 fornece proteção adicional,
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extensions)
 
-S/MIME allows you to help protect sensitive information by sending signed and encrypted email within your organization. Administrators can use remote Windows PowerShell to set up S/MIME after establishing and issuing PKI certificates to users. These certificates must be synchronized from an on-premises Active Directory Certificate Service.
+O S/MIME permite a proteção de informações confidenciais através do envio de emails assinados e criptografados dentro de sua empresa. Os administradores podem usar o PowerShell remoto do Windows para configurar o S/MIME após estabelecer e emitir certificados PKI para os usuários. Esses certificados devem ser sincronizados a partir do Serviço de Certificados do Active Directory local.
   
 O S/MIME é compatível com o Microsoft Edge e o Internet Explorer 11. Atualmente, o Firefox, o Opera ou o Chrome não oferecem suporte ao S/MIME. Confira mais informações em [S/MIME para assinatura e criptografia de mensagens](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Bloqueio In-loco e Retenção de Litígio
 
-When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
+Quando existe uma expectativa razoável de litígio, as organizações são solicitadas a preservar informações armazenadas eletronicamente (ESI), incluindo emails, pertinentes ao caso. Essa expectativa pode acontecer antes que os detalhes do caso sejam conhecidos, e a preservação geralmente é total. As organizações podem preservar todos os emails relacionados a um tópico específico ou todos os emails de determinados indivíduos.
   
 No Exchange Online, é possível usar a Retenção local ou a Retenção de litígio para cumprir os seguintes objetivos:
   
@@ -131,13 +131,13 @@ Confira mais informações em [Bloqueio In-loco e Retenção Local](https://docs
 
 O Exchange Online permite que os clientes pesquisem o conteúdo de caixas de correio em uma organização usando uma interface baseada na Web. Os administradores e oficiais de segurança e conformidade autorizados a realizar pesquisa de Descoberta Eletrônica In-loco (por atribuição) podem pesquisar mensagens de email, anexos, compromissos de calendário, tarefas, contatos e outros itens. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Os resultados da pesquisa também incluirão itens da pasta Itens Excluídos se eles corresponderem à consulta da pesquisa.
   
-Results of In-Place eDiscovery searches can be previewed in the web-based interface, exported to a PST file or copied to a special type of mailbox called a Discovery mailbox. A Discovery mailbox has a 50 GB quota for storing search results. Administrators can also connect Outlook to the Discovery mailbox to access search results, and export the search results to a .pst file.
+Os resultados das pesquisas de Descoberta Eletrônica In-loco podem ser visualizados na interface baseada na Web, exportados para um arquivo PST ou copiados para um tipo especial de caixa de correio, a caixa de correio de Descoberta. Uma caixa de correio de Descoberta tem uma cota de 50 GB para armazenar os resultados da pesquisa. Os administradores também podem conectar o Outlook à caixa de correio de Descoberta para acessar resultados de pesquisa e exportar os resultados para um arquivo .pst.
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform multi-mailbox searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox.
+Os administradores usam o Centro de administração do Exchange ou o Windows PowerShell remoto para realizar pesquisas em várias caixas de correio. O Centro de administração do Exchange pode fornecer uma visualização somente leitura dos resultados da pesquisa, permitindo que os administradores verifiquem rapidamente uma pesquisa e a executem novamente, se necessário, com parâmetros diferentes. Após a otimização da pesquisa, o administrador pode copiar os resultados para a caixa de correio de Descoberta.
   
-By default, one Discovery mailbox is created for each organization, but administrators can create additional Discovery mailboxes using remote Windows PowerShell. Discovery mailboxes cannot be used for any purpose other than storing In-Place eDiscovery search results.
+Por padrão, uma caixa de correio de Descoberta é criada para cada organização, mas os administradores podem criar caixas de correio de Descoberta adicionais usando o Windows PowerShell remoto. As caixas de correio de descoberta não podem ser usadas para outra finalidade que não seja o armazenamento de resultados da pesquisa de Descoberta Eletrônica In-loco.
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform In-Place eDiscovery searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox or export search results to a PST file.
+Os administradores usam o Centro de administração do Exchange ou o Windows PowerShell remoto para realizar pesquisas de Descoberta Eletrônica In-loco. O Centro de administração do Exchange pode fornecer uma visualização somente leitura dos resultados da pesquisa, permitindo que os administradores verifiquem rapidamente uma pesquisa e a executem novamente, se necessário, com parâmetros diferentes. Depois de otimizada a pesquisa, o administrador poderá copiar os resultados para a caixa de correio de Descoberta ou exportar os resultados da pesquisa para um arquivo PST.
   
 Os administradores podem usar o Centro de administração do Exchange ou o Windows PowerShell remoto para pesquisar até 10.000 caixas de correio por vez em uma pesquisa da Descoberta Eletrônica In-Loco. 
   
@@ -155,7 +155,7 @@ Para obter mais informações, consulte [Descoberta Eletrônica In-loco](https:/
 
 Você pode usar regras de fluxo de emails para procurar condições específicas em mensagens que passam pela sua organização e as agem. As regras de fluxo de emails permitem que você aplique políticas de mensagens a mensagens de email, mensagens seguras, proteger sistemas de mensagens e evitar vazamento de informações.
   
-Many organizations today are required by law, regulatory requirements, or company policies to apply messaging policies that limit the interaction between recipients and senders, both inside and outside the organization. In addition to limiting interactions among individuals, departmental groups inside the organization, and entities outside the organization, some organizations are also subject to the following messaging policy requirements:
+Atualmente, várias organizações são obrigadas por lei, requisitos reguladores ou diretivas da empresa a aplicar diretivas de mensagens que limitam a interação entre destinatários e remetentes, dentro e fora da organização. Além de limitar as interações entre os indivíduos, grupos de departamentos dentro da organização e entidades fora da organização, algumas organizações estão sujeitas também aos seguintes requisitos de diretivas de mensagens:
   
 - Evitar que conteúdo inadequado entre ou saia da organização
     
@@ -188,7 +188,7 @@ Você pode configurar políticas de DLP na interface de gerenciamento do Centro 
     
 - Detectar informações confidenciais em anexos de mensagens, texto do corpo ou linhas de assunto e ajustar o nível de confiança em que o Exchange Online atua.
     
-- Detect sensitive form data by using Document Fingerprinting. Document Fingerprinting helps you easily create custom sensitive information types based on text-based forms that you can use to define transport rules and DLP policies.
+- Detecte dados confidenciais por meio de impressão digital do documento. A impressão digital de documentos ajuda você a criar facilmente tipos de informações confidenciais personalizadas com base em formulários baseados em texto que você pode usar para definir as regras de transporte e políticas de DLP.
     
 - Adicionar dicas de política, que podem ajudar a reduzir a perda de dados, exibindo um aviso para o Outlook 2016, Outlook 2013, Outlook na Web e OWA para dispositivos usuários e também podem melhorar a eficácia de suas políticas, permitindo relatórios falsos positivos. 
     
@@ -198,9 +198,9 @@ Confira mais informações sobre DLP em [Prevenção contra perda de dados](http
   
 ## <a name="journaling"></a>Registro no diário
 
-You can configure Exchange Online to journal copies of emails to any external mailbox that can receive messages via SMTP. Journaling can help your organization respond to legal, regulatory, and organizational compliance requirements by recording inbound and outbound email communications. When planning for messaging retention and compliance, it's important to understand journaling and how it fits in with your organization's compliance policies.
+Você pode configurar o Exchange Online para registrar em diário cópias de email em qualquer caixa de correio existente que possa receber mensagens via SMTP. O registro em diário pode ajudar a organização a atender requisitos legais, regulatórios e organizacionais de conformidade, registrando a comunicação por emails de entrada e de saída. Durante o planejamento para retenção e conformidade de mensagens, é importante compreender o registro no diário e como ele se adapta às políticas de conformidade da organização.
   
-You can manage journal rules by using the Exchange admin center or remote Windows PowerShell. You can configure journaling on a per-user and per-distribution list basis, and choose to journal only internal messages, only external messages, or both. Journaled messages include not only the original message but also information about the sender, recipients, copies, and blind copies.
+Você pode gerenciar regras de diário usando o Centro de administração do Exchange ou o Windows PowerShell remoto. Você pode configurar o registro no diário por usuário e por lista de distribuição e optar por registrar em diário somente mensagens internas, somente externas ou ambas. As mensagens registradas em diário incluem não só a mensagem original, mas também informações sobre o remetente, destinatários, cópias e cópias ocultas.
   
 Para garantir uma solução de registro no diário bem-sucedida e confiável, é necessário concluir as seguintes tarefas:
   

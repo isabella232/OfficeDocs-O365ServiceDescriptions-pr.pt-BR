@@ -21,9 +21,9 @@ ms.locfileid: "45131665"
 # <a name="privacy-security-and-transparency"></a>Privacidade, segurança e transparência
 
 > [!NOTE]
-> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
+> As informações deste artigo se aplicam às versões globais do Office 365. Se estiver usando uma instância de nuvem nacional do Office 365, como Office 365 U.S. Government, Office 365 Germany e Office 365 operado pela 21Vianet, confira [Nuvens nacionais da Microsoft](https://go.microsoft.com/fwlink/?linkid=841582). 
   
-Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+A Microsoft valoriza as parcerias que temos com nossos clientes e dá muita importância para a privacidade a segurança dos dados dos clientes. Para saber mais, consulte a [Central de Confiabilidade da Microsoft](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>Privacidade
 
@@ -49,7 +49,7 @@ A Descoberta Eletrônica, ou eDiscovery, é o processo de identificar e fornecer
 
 Como administrador da Microsoft, você pode usar o Lockbox do cliente para controlar como um engenheiro de suporte da Microsoft acessa seus dados durante uma sessão de ajuda. Em casos em que o engenheiro requer acesso aos dados para solucionar e corrigir um problema, o Sistema de Proteção de Dados do Cliente permite que você aprove ou rejeite a solicitação de acesso. Se você aprová-la, o engenheiro poderá acessar os dados. Cada solicitação possui um tempo de expiração e depois que o problema for resolvido, a solicitação será fechada e o acesso revogado.
   
-Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+O Sistema de Proteção de Dados do Cliente está incluído no plano do Office 365 Enterprise 5 ou você pode adquirir uma assinatura separada com qualquer outro plano do Office 365 Enterprise. Para saber mais, consulte [Solicitações do Sistema de Proteção de Dados do Cliente do Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
 ## <a name="advanced-threat-protection"></a>Proteção Avançada contra Ameaças
 
