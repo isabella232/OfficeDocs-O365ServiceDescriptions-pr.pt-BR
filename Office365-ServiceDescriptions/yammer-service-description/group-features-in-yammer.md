@@ -18,23 +18,23 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 07/14/2020
 ms.locfileid: "45132065"
 ---
-# <a name="group-features-in-yammer"></a><span data-ttu-id="a727b-103">Recursos de grupo no Yammer</span><span class="sxs-lookup"><span data-stu-id="a727b-103">Group features in Yammer</span></span>
+# <a name="group-features-in-yammer"></a><span data-ttu-id="1efd2-103">Recursos de grupo no Yammer</span><span class="sxs-lookup"><span data-stu-id="1efd2-103">Group features in Yammer</span></span>
 
-<span data-ttu-id="a727b-104">Os recursos de grupo a seguir estão disponíveis no Yammer.</span><span class="sxs-lookup"><span data-stu-id="a727b-104">The following group features are available in Yammer.</span></span>
+<span data-ttu-id="1efd2-104">Os recursos de grupo a seguir estão disponíveis no Yammer.</span><span class="sxs-lookup"><span data-stu-id="1efd2-104">The following group features are available in Yammer.</span></span>
   
-## <a name="announcements"></a><span data-ttu-id="a727b-105">Announcements</span><span class="sxs-lookup"><span data-stu-id="a727b-105">Announcements</span></span>
+## <a name="announcements"></a><span data-ttu-id="1efd2-105">Announcements</span><span class="sxs-lookup"><span data-stu-id="1efd2-105">Announcements</span></span>
 
-<span data-ttu-id="a727b-106">Compartilhe um anúncio com um grupo para notificar os membros de atualizações importantes instantaneamente.</span><span class="sxs-lookup"><span data-stu-id="a727b-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="a727b-107">Os administradores podem fixar comunicados a um grupo para fácil descoberta.</span><span class="sxs-lookup"><span data-stu-id="a727b-107">Administrators can pin announcements to a group for easy discovery.</span></span>
+<span data-ttu-id="1efd2-106">Compartilhe um anúncio com um grupo para notificar os membros de atualizações importantes instantaneamente.</span><span class="sxs-lookup"><span data-stu-id="1efd2-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="1efd2-107">Os administradores podem fixar comunicados a um grupo para fácil descoberta.</span><span class="sxs-lookup"><span data-stu-id="1efd2-107">Administrators can pin announcements to a group for easy discovery.</span></span>
   
-## <a name="groups"></a><span data-ttu-id="a727b-108">Grupos</span><span class="sxs-lookup"><span data-stu-id="a727b-108">Groups</span></span>
+## <a name="groups"></a><span data-ttu-id="1efd2-108">Grupos</span><span class="sxs-lookup"><span data-stu-id="1efd2-108">Groups</span></span>
 
-<span data-ttu-id="a727b-109">De comunicações departamentais para seu próximo evento de organização ou lançamento de campanha, configure um grupo em segundos para qualquer equipe, projeto ou interesse.</span><span class="sxs-lookup"><span data-stu-id="a727b-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
+<span data-ttu-id="1efd2-109">De comunicações departamentais para seu próximo evento de organização ou lançamento de campanha, configure um grupo em segundos para qualquer equipe, projeto ou interesse.</span><span class="sxs-lookup"><span data-stu-id="1efd2-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
   
-## <a name="related-groups"></a><span data-ttu-id="a727b-110">Grupos relacionados</span><span class="sxs-lookup"><span data-stu-id="a727b-110">Related groups</span></span>
+## <a name="related-groups"></a><span data-ttu-id="1efd2-110">Grupos relacionados</span><span class="sxs-lookup"><span data-stu-id="1efd2-110">Related groups</span></span>
 
-<span data-ttu-id="a727b-111">Adicionar e priorizar grupos relacionados àqueles que você já ingressou para que os colegas de trabalho possam descobrir pessoas, conteúdo e conversas ainda mais relevantes.</span><span class="sxs-lookup"><span data-stu-id="a727b-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
+<span data-ttu-id="1efd2-111">Adicionar e priorizar grupos relacionados àqueles que você já ingressou para que os colegas de trabalho possam descobrir pessoas, conteúdo e conversas ainda mais relevantes.</span><span class="sxs-lookup"><span data-stu-id="1efd2-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="a727b-112">Disponibilidade de recursos</span><span class="sxs-lookup"><span data-stu-id="a727b-112">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="1efd2-112">Disponibilidade de recursos</span><span class="sxs-lookup"><span data-stu-id="1efd2-112">Feature availability</span></span>
 
-<span data-ttu-id="a727b-113">Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte a [Descrição do serviço do Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="a727b-113">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="1efd2-113">Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte a [Descrição do serviço do Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="1efd2-113">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   
