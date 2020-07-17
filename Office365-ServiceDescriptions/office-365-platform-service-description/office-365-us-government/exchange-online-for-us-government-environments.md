@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem do governo dos EUA e a nuvem comercial, conforme listado na descrição do serviço do Exchange Online.
-ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5081dbdb563a9047fbf6759fc7413584408d56b4
+ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131925"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154409"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para ambientes do governo dos EUA
 
@@ -74,7 +74,7 @@ A tabela a seguir descreve se os recursos especificados do Exchange Online estã
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim||
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim||
 |Proteção Avançada contra Ameaças|Sim|Sim|Sim|Requer o plano de serviço do G5 (ou compra de complemento).<br><br>O anti-phishing para representação de usuário e domínio e inteligência de falsificação ainda não estão disponíveis no GCC High e no DoD.|
-|**[Fluxo de emails](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC alto**|**DoD**|**Principais considerações**|
+|**[Fluxo de mensagens](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC alto**|**DoD**|**Principais considerações**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim||
 |Secure messaging with a trusted partner|Sim|Sim|Sim||
 |Conditional mail routing|Sim|Sim|Sim||
@@ -116,7 +116,7 @@ A tabela a seguir descreve se os recursos especificados do Exchange Online estã
 |Outlook para Mac|Sim|Sim|Sim|Para atender aos requisitos de conformidade do GCC High e DoD, você deve estar executando pelo menos a versão 1803 do Office 365 ProPlus. O Office 365 ProPlus não está incluído em G1 ou F3.|
 |Outlook para iOS e Android|Sim|Sim|Sim||
 |Exchange ActiveSync|Sim|Sim|Sim||
-|Mobilidade básica e segurança para o Microsoft 365|Sim|Sim|Sim||
+|Mobilidade básica e segurança para o Microsoft 365|Sim|Não|Não||
 |POP e IMAP|Sim|Sim|Sim||
 |SMTP|Sim|Sim|Sim||
 |Suporte a aplicativos EWS|Sim|Sim|Sim||
