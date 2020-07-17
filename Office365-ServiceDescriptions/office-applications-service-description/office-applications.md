@@ -10,7 +10,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
-description: Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+description: O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
 ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
 ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
@@ -20,7 +20,7 @@ ms.locfileid: "45131425"
 ---
 # <a name="office-applications"></a>Aplicativos do Office
 
-Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
   
 Para os requisitos do sistema, o serviço mensal baseado em assinatura disponível para organizações de negócios, educacionais e governamentais, consulte [requisitos de sistema do Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
@@ -58,7 +58,7 @@ O Skype for Business é um cliente de mensagens instantâneas e aplicativo de co
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath é um programa que permite projetar, distribuir, preencher e enviar formulários eletrônicos. Você pode optar por adicionar o InfoPath Form Web Part a um site do SharePoint Online. Saiba mais sobre [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 Para saber como o PowerApps, o sucessor do InfoPath, pode melhorar a produtividade comercial no SharePoint sem escrever código, confira [Personalizar o SharePoint com o PowerApps](https://powerapps.microsoft.com/infopath/).
   

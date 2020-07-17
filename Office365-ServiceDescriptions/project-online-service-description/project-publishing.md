@@ -26,7 +26,7 @@ Procurando informações sobre todos os recursos do Project Online? Confira a [D
   
 ## <a name="create-a-project-site"></a>Criar um site de projeto
 
-If you are using Project Web App, you can share a project with others by creating a new project site in SharePoint or by synching with an existing site. The site shares your project's tasks as a SharePoint task list. Learn more about [syncing with SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
+Se você estiver usando o Project Web App, poderá compartilhar um projeto com outras pessoas criando um novo site de projeto no SharePoint ou sincronizando com um site existente. O site compartilha tarefas do seu projeto como uma lista de tarefas do SharePoint. Saiba mais sobre [Sincronizar com o SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
   
 ## <a name="master-projects-on-sharepoint"></a>Projetos mestres no SharePoint
 
@@ -46,7 +46,7 @@ Salvar um projeto em uma biblioteca de documentos do SharePoint para compartilha
   
 ## <a name="task-list-sync-to-sharepoint"></a>Sincronização da lista de tarefas com o SharePoint
 
-After the first time you pair your project with a SharePoint task list, you can continue to synchronize with the task list as you update your project. Predecessor relationships between tasks, milestones, and field mapping (including notes) are maintained during synchronization. Your team members don't have to have Project Professional 2013 installed to access their tasks. Learn more about [syncing with a SharePoint tasks list](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+Após parear seu projeto inicialmente com uma lista de tarefas do SharePoint, você poderá continuar sincronizando com a lista de tarefas conforme atualiza seu projeto. Os relacionamentos anteriores entre tarefas, marcos e mapeamento de campo (incluindo notas) são mantidos durante a sincronização. Os membros da sua equipe não precisam ter o Project Professional 2013 instalado para acessar suas tarefas. Saiba mais sobre [Sincronizar com uma lista de tarefas do SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

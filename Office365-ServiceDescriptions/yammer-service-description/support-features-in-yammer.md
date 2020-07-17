@@ -29,7 +29,7 @@ Os recursos de suporte a seguir estão disponíveis no Yammer.
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Os administradores do Yammer Enterprise são responsáveis pela manutenção da conta e estão autorizados a se comunicar diretamente com a equipe de Suporte da Microsoft. Se você for um administrador do Yammer Enterprise procurando suporte, consulte [Suporte da Microsoft](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>Suporte ao cliente
 
@@ -41,7 +41,7 @@ O serviço Microsoft FastTrack pode ajudar sua organização a migrar para a nuv
 
 ## <a name="support-features-across-yammer-plans"></a>Recursos de suporte nos planos do Yammer
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
+Precisa de ajuda para saber qual o melhor plano do Yammer para as necessidades da sua organização? Use a tabela a seguir para ver quais recursos de suporte estão disponíveis em cada plano.
   
 |**Recurso**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -51,7 +51,7 @@ Need help figuring out which Yammer plan best fits your organization's needs? Us
  
 ## <a name="technical-support-case-handling"></a>Tratamento de caso de suporte técnico
 
-Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
+Exemplos 
   
 |**Nível de Severidade**|**Descrição**|**Exemplos**|
 |:-----|:-----|:-----|

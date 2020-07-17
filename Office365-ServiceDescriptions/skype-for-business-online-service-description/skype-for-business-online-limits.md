@@ -38,7 +38,7 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 ## <a name="peer-to-peer-limits"></a>Limites ponto a ponto
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **Limite de transferência de arquivo** O tamanho máximo de um arquivo que pode ser transferido em uma conversa de IM do Skype for Business online. Para saber quais tipos de arquivos não podem ser transferidos, confira o artigo da Suporte da Microsoft sobre [como enviar e receber arquivos ou anexos no Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **Limite de conversas abertas com guias** O número máximo de guias de conversas que um usuário do Skype for Business pode ter abertas de uma só vez. 
     
@@ -52,7 +52,7 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 |Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Não aplicável  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> A client can start a chat with up to 99 users by either manually adding them or sending an instant message from the context menu of a group or distribution list. For more information about instant messaging in Skype for Business Online, see [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> O cliente pode iniciar um chat com até 99 usuários, adicionando-os manualmente ou enviando uma mensagem instantânea no menu de contexto de um grupo ou de uma lista de distribuição. Para saber mais sobre o envio de mensagens instantâneas no Skype for Business Online, confira o artigo [Enviar uma mensagem instantânea no Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Limites ponto a ponto nas opções autônomas
 
@@ -64,7 +64,7 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 |Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> A client can start a chat with up to 99 users by either manually adding them or sending an instant message from the context menu of a group or distribution list. For more information about instant messaging in Skype for Business Online, see [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> O cliente pode iniciar um chat com até 99 usuários, adicionando-os manualmente ou enviando uma mensagem instantânea no menu de contexto de um grupo ou de uma lista de distribuição. Para saber mais sobre o envio de mensagens instantâneas no Skype for Business Online, confira o artigo [Enviar uma mensagem instantânea no Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Limites de reuniões
 
@@ -94,7 +94,7 @@ Os limites no Skype for Business online caem nas seguintes categorias:
 |Indivíduos em um grupo de chamada de equipe  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |Não aplicável  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
+> <sup>1</sup> Se o número de participantes em uma reunião do Skype for Business ultrapassar 75 participantes, a lista de participantes (apresentadores e participantes) na lista de participação da reunião será truncada para que um participante individual possa ver somente os apresentadores e o próprio nome. A lista de participantes completa permanece visível para os apresentadores da reunião. Além disso, erros de Mensagens Instantâneas e de Exibição de Galeria ficam ocultos para os participantes. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>Limites de reuniões nas opções autônomas
 

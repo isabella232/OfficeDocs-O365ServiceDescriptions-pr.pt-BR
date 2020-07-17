@@ -22,7 +22,7 @@ ms.locfileid: "45132835"
 
 Obter informações sobre recursos e requisitos para o Exchange Online Protection. Incluído é uma lista de planos que fornecem proteção do Exchange Online, bem como uma comparação de recursos entre esses planos.
 
-Microsoft Exchange Online Protection (EOP) is a cloud-based email filtering service that helps protect your organization against spam and malware, and includes features to safeguard your organization from messaging-policy violations. EOP can simplify the management of your messaging environment and alleviate many of the burdens that come with maintaining on-premises hardware and software.
+O Microsoft Proteção do Exchange Online (EOP) é um serviço de filtragem de e-mails baseado na nuvem que ajuda a proteger sua organização contra spam e malware, e inclui recursos para defender sua organização das violações da política de mensagens. O EOP pode simplificar o gerenciamento de seu ambiente de mensagem e reduzir muitos dos problemas que surgem na manutenção do hardware e do software locais.
 
 A lista a seguir descreve as principais maneiras de usar o EOP para proteção de mensagens:
 
@@ -66,7 +66,7 @@ Para obter mais informações sobre o licenciamento do Exchange Enterprise CAL c
 Se você tiver licenças do Exchange Enterprise CAL com serviços e quiser provisionar o EOP, siga as instruções em [Configure Your EOP Service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). As etapas de configuração são as mesmas para a configuração do EOP autônomo.
 
 > [!NOTE]
-> New features for Exchange Enterprise CAL with Services are deployed at the same time as Exchange Online, not EOP standalone. Be advised that the deployment schedules for EOP standalone and Exchange Online/Exchange Enterprise CAL with Services may be slightly different.
+> Novos recursos do Exchange Enterprise CAL com Serviços são implantados ao mesmo tempo que o Exchange Online, não que o EOP autônomo. Esteja ciente de que os cronogramas de implantação para o EOP autônomo e o Exchange Online/Exchange Enterprise CAL com Serviços podem ser ligeiramente diferentes.
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Requisitos para o Exchange Online Protection (EOP)
 
@@ -78,7 +78,7 @@ Para limites no EOP, consulte [limites do Exchange Online Protection](exchange-o
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Disponibilidade de recursos nos planos da Proteção do Exchange Online (EOP)
 
-Each feature is listed below. For more detailed information about EOP features, click the links in the table. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+Cada recurso é listado abaixo. Para obter informações mais detalhadas sobre os recursos EOP, clique nos links na tabela. Quando o Exchange Online é mencionado, normalmente se refere à família de serviços do Office 365 Enterprise.
 
 |||||
 |:-----|:-----|:-----|:-----|

@@ -34,9 +34,9 @@ Para saber mais sobre o compartilhamento federado, confira [Compartilhando no Ex
   
 ## <a name="site-mailboxes"></a>Caixas de correio locais
 
-Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
+Emails e documentos são tradicionalmente mantidos em dois repositórios de dados exclusivos e separados. A maioria das equipes colabora usando emails e documentos. O desafio é que os emails e os documentos são acessados usando-se clientes diferentes. Isso geralmente resulta em uma redução da produtividade do usuário e em uma experiência degradada para ele.
   
-The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
+A caixa de correio de site é um conceito novo no Exchange 2013 que tenta resolver esse problema. As caixas de correio de site melhoram a colaboração e a produtividade do usuário usando a mesma interface de cliente para permitir acesso aos documentos do Microsoft SharePoint 2013 e ao email do Exchange. Uma caixa de correio de site é composta funcionalmente pela associação ao site do SharePoint 2013 (proprietários e membros), armazenamento compartilhado através de uma caixa de correio do Exchange 2013 para emails e um site do SharePoint 2013 para documentos e uma interface de gerenciamento que lida com as necessidades de provisionamento e ciclo de vida.
   
 > [!IMPORTANT]
 > O plano deve incluir o SharePoint. As caixas de correio de site requerem que os usuários tenham licenças de SharePoint e Exchange. 

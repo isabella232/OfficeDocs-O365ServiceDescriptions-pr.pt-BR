@@ -28,7 +28,7 @@ Entre na organização para encontrar os especialistas necessários. Como a expe
 
 ## <a name="leaderboards"></a>Classificações
 
-Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
+Identifique os colegas de trabalho influentes em sua rede. As classificações exibem pessoas com mais mensagens, mensagens respondidas e mensagens afins.
 
 ## <a name="member-directory"></a>Diretório de membros
 

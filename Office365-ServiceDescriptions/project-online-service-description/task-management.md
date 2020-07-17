@@ -26,7 +26,7 @@ Procurando informações sobre todos os recursos do Project Online? Confira a [D
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+Quando você desativa uma tarefa, ela permanece no plano de projeto, mas não afeta: a disponibilidade de recursos, o cronograma do projeto ou o modo como outras tarefas são agendadas. Saiba mais sobre [Desativar uma tarefa](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>Preenchimento automático
 
@@ -42,7 +42,7 @@ As tarefas do Project podem agora usar datas do calendário até 2149.
   
 ## <a name="cross-project-critical-path"></a>Caminho crítico entre projetos
 
-A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
+Um caminho crítico é uma série de tarefas que devem ser concluídas a tempo para que um projeto termine dentro do cronograma. Você pode criar, editar e excluir uma relação de dependência com uma tarefa em outro projeto. 
   
 ## <a name="task-inspector"></a>Inspetor de tarefas
 
@@ -50,7 +50,7 @@ Exiba os fatores que afetam o cronograma de uma tarefa, como uma data de início
   
 ## <a name="task-path-analysis"></a>Análise do caminho da tarefa
 
-See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+Veja como uma tarefa se conecta a outras tarefas realçando seu caminho de tarefa em todo o projeto. Saiba mais sobre [Realçar como as tarefas são vinculadas a outras tarefas](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>Tarefas de resumo hierárquicas
 

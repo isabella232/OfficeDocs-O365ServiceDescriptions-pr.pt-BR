@@ -30,11 +30,11 @@ Gerencie os custos no seu projeto.
   
 ## <a name="manage-nonworking-time"></a>Gerenciar tempo ocioso
 
-Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. Saiba mais sobre [Adicionar feriados e dias de férias ao seu projeto](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Resource leveling
 
-When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+Quando as pessoas em seu projeto estão trabalhando em muitas tarefas ao mesmo tempo, você pode ajustar suas atribuições automaticamente. Isso é conhecido como nivelamento de recursos. Confira [Atribuições de recursos de nível](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
 ## <a name="resource-sheet-and-usage-views"></a>Exibições de uso e folha de recursos
 
@@ -50,7 +50,7 @@ Adicionar recursos ao projeto de uma equipe, como recursos materiais como comput
   
 ## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
 
-Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
+Adicione recursos ao seu projeto, como recursos de trabalho como pessoas, recursos genéricos como carpinteiros, e recursos de materiais como computadores e cimento. Confira [Inserir custos de equipamentos e outros recursos de custo](https://go.microsoft.com/fwlink/?LinkId=402922).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

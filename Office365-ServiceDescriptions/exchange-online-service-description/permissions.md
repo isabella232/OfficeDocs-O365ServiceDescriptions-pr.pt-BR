@@ -10,7 +10,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
-description: Microsoft Exchange Online uses a Role Based Access Control (RBAC) model to allow organization administrators to finely control what users and IT employees can do in the service. For example, if a compliance officer is responsible for mailbox search requests, the administrator can delegate this administrative feature to the officer through RBAC. Exchange Online uses the same RBAC framework as Microsoft Exchange Server 2013.
+description: O Microsoft Exchange Online usa um modelo de Controle de Acesso Baseado em Função (RBAC) para permitir que os administradores da organização controlem detalhadamente o que usuários e funcionários de TI podem fazer no serviço. Por exemplo, se um responsável pela conformidade for responsável por solicitações de pesquisa de caixa de correio, o administrador poderá delegar esse recurso administrativo ao responsável por meio de RBAC. O Exchange Online usa a mesma estrutura de RBAC do Microsoft Exchange Server 2013.
 ms.openlocfilehash: 0593c98857a7ce0c487c628018097395d7a5fe50
 ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
@@ -20,15 +20,15 @@ ms.locfileid: "45132685"
 ---
 # <a name="permissions"></a>Permissões
 
-Microsoft Exchange Online uses a Role Based Access Control (RBAC) model to allow organization administrators to finely control what users and IT employees can do in the service. For example, if a compliance officer is responsible for mailbox search requests, the administrator can delegate this administrative feature to the officer through RBAC. Exchange Online uses the same RBAC framework as Microsoft Exchange Server 2013. 
+O Microsoft Exchange Online usa um modelo de Controle de Acesso Baseado em Função (RBAC) para permitir que os administradores da organização controlem detalhadamente o que usuários e funcionários de TI podem fazer no serviço. Por exemplo, se um responsável pela conformidade for responsável por solicitações de pesquisa de caixa de correio, o administrador poderá delegar esse recurso administrativo ao responsável por meio de RBAC. O Exchange Online usa a mesma estrutura de RBAC do Microsoft Exchange Server 2013. 
   
-At its highest level, RBAC is made up of management roles, management role groups, and management role assignment policies. The following sections provide more information about each RBAC component.
+Em seu nível mais alto, o RBAC é composto por funções de gerenciamento, grupos de funções de gerenciamento e políticas de atribuição de função de gerenciamento. As seções a seguir fornecem mais informações sobre cada componente do RBAC.
   
 Confira mais informações sobre o modelo de permissões do RBAC usado no Exchange Online em [Permissões](https://go.microsoft.com/fwlink/p/?LinkId=271935).
   
 ## <a name="role-based-permissions"></a>Permissões baseadas em função
 
-In Exchange Online, the permissions that you grant to administrators and users are based on management roles. A role defines the set of tasks that an administrator or user can perform. For example, a management role called  `Mail Recipients` defines the tasks that someone can perform on a set of mailboxes, contacts, and distribution groups. When a role is assigned to an administrator or user, that person is granted the permissions provided by the role. 
+No Exchange Online, as permissões concedidas a administradores e usuários são baseadas em funções de gerenciamento. Uma função define o conjunto de tarefas que um administrador ou usuário pode realizar. Por exemplo, uma função de gerenciamento chamada  `Mail Recipients` define as tarefas que alguém pode realizar em um conjunto de caixas de correio, contatos e grupos de distribuição. Quando uma função é atribuída a um administrador ou usuário, essa pessoa recebe as permissões fornecidas pela função. 
   
 Existem dois tipos de funções, funções administrativas e de usuário final:
   
@@ -36,9 +36,9 @@ Existem dois tipos de funções, funções administrativas e de usuário final:
     
 - **Funções de usuário final** Essas funções, atribuídas por meio de diretivas de atribuição de função, permitem que os usuários gerenciem aspectos de suas próprias caixas de correio e grupos de distribuição de sua propriedade. As funções de usuário final começam com o prefixo  `My`.
     
-Roles give administrators and users permissions to perform tasks by making cmdlets available to those who are assigned the roles. Because the Exchange admin center (EAC) and Exchange Management Shell use cmdlets to manage Exchange Online, granting access to a cmdlet gives the administrator or user permission to perform the task in each of the Exchange Online management interfaces.
+As funções atribuem permissões aos administradores e usuários para executar tarefas por meio da disponibilização de cmdlets. Como o EAC (centro de administração do Exchange) e o Shell de Gerenciamento do Exchange usam cmdlets para gerenciar o Exchange Online, conceder acesso a um cmdlet fornece ao administrador ou usuário a permissão para executar a tarefa em cada uma das interfaces de gerenciamento do Exchange Online.
   
-The role-based permissions for Microsoft Online Services overlap with those of Exchange Online RBAC in two ways. First, users who are Global Administrators or Service Administrators in Microsoft Online are automatically assigned to the Organization Management role group in Exchange Online. Second, users who are Help Desk Administrators in Microsoft Online are automatically assigned to the Help Desk role group in Exchange Online. Otherwise, the two security models are managed separately.
+As permissões baseadas em função do Microsoft Online Services sobrepõem as do RBAC do Exchange Online de duas formas. Primeiro, os usuários que são Administradores Globais ou Administradores de Serviço no Microsoft Online são automaticamente atribuídos ao grupo de função de Gerenciamento da Organização no Exchange Online. Segundo, os usuários que são Administradores do Suporte Técnico no Microsoft Online são automaticamente atribuídos ao grupo de função de Suporte Técnico no Exchange Online. Caso contrário, os dois modelos de segurança são gerenciados separadamente.
   
 > [!IMPORTANT]
 > Algumas funções disponíveis na versão local do Microsoft Exchange Server 2013 podem não estar disponíveis no Exchange Online. 
@@ -56,7 +56,7 @@ Confira mais informações sobre grupos de funções em [Grupos de funções e p
   
 ## <a name="role-assignment-policies"></a>Diretivas de atribuição de função
 
-Management role assignment policies associate end-user management roles to users. Role assignment policies consist of roles that control what users can do with their mailboxes or distribution groups. These roles don't allow management of features that aren't directly associated with the user. When you create a role assignment policy, you define everything a user can do with his or her mailbox. For example, a role assignment policy might allow a user to set the display name, set up voice mail, and configure Inbox rules. Another role assignment policy might allow a user to change the address, use text messaging, and set up distribution groups. Every user with an Exchange Online mailbox, including administrators, is given a role assignment policy by default. You can decide which role assignment policy should be assigned by default, choose what the default role assignment policy should include, override the default for certain mailboxes, or not assign any role assignment policies by default.
+Diretivas de atribuição de função de gerenciamento associam funções de gerenciamento de usuários finais a usuários. As políticas de atribuição de função consistem de funções que controlam o que os usuários podem fazer com suas caixas de correio ou grupos de distribuição. Estas funções não permitem o gerenciamento de recursos que não estejam associados diretamente ao usuário. Quando uma diretiva de atribuição de função é criada, tudo que o usuário pode fazer com sua caixa de correio é definido. Por exemplo, uma política de atribuição de função pode permitir que um usuário estabeleça o nome de exibição, defina a caixa postal e configure regras da Caixa de Entrada. Outra diretiva de atribuição de função poderia permitir que um usuário modificasse o endereço, usasse a transmissão de mensagens de texto e definisse grupos de distribuição. A cada usuário com uma caixa de correio do Exchange Online, incluindo administradores, é dada uma política de atribuição de função por padrão. É possível decidir qual política de atribuição de função deve ser atribuída por padrão, escolher o que a política de atribuição de função padrão deve incluir, substituir o padrão por certas caixas de correio ou não atribuir políticas de atribuição de função por padrão.
   
 > [!IMPORTANT]
 > Algumas atribuições de funções disponíveis na versão local do Microsoft Exchange Server 2013 podem não estar disponíveis no Exchange Online. 

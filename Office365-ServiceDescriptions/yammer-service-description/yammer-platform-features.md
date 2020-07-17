@@ -24,7 +24,7 @@ Os recursos a seguir da plataforma Yammer estão disponíveis no Yammer.
  
 ## <a name="activity-stream-api"></a>API do fluxo de atividade
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+Faça a integração dos aplicativos empresariais corporativos adicionando dados ao gráfico social. Estimule a descoberta de atividades que estejam ocorrendo em todos os seus aplicativos empresariais existentes.
   
 ## <a name="browser-extension"></a>Extensão do navegador
 

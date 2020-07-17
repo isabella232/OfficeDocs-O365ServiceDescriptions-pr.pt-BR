@@ -32,7 +32,7 @@ Você está procurando uma comparação de recursos de assinaturas que incluem o
 [Notificações de falha na entrega de email no Exchange Online](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Ajuda do Exchange Online](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
+Microsoft Exchange Online é uma solução de mensagens hospedada que fornece o recursos do Microsoft Exchange Server como um serviço baseado em nuvem. Isso permite que os usuários acessem o e-mail, o calendário, os contatos e as tarefas a partir de computadores, da Web e de dispositivos móveis. Ele se integra totalmente ao Active Directory, permitindo que os administradores usem políticas de grupo, bem como outras ferramentas administrativas, para gerenciar os recursos do Exchange Online em seu ambiente.
   
 As organizações que assinam o Exchange Online mantêm controle sobre os serviços de mensagens que oferecem aos usuários, mas elas não têm a carga operacional de software de servidor local. Com os planos hospedados do Exchange Online descritos neste documento, o email é hospedado em servidores que dão suporte a vários clientes simultaneamente. Esses servidores são hospedados em data centers da Microsoft e podem ser acessados por usuários em uma ampla variedade de dispositivos de dentro de uma rede corporativa ou pela Internet.
   
@@ -49,9 +49,9 @@ Para obter informações sobre os novos recursos do centro de administração do
 
 O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Para obter informações sobre diferentes planos, incluindo opções de plano autônomo e informações sobre como migrar de um plano para outro, consulte [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
-Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
+Cada usuário que acessar o serviço Exchange Online deve ser atribuído a um plano de assinatura, e cada assinatura de usuário ter sua própria caixa de correio. Pastas e mensagens nessas caixas de correio residem em um computador com Exchange Server em um data center da Microsoft.
   
-User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
+As assinaturas do usuário não são exigidas para salas de conferência e caixas de correio compartilhadas. Esses tipos de caixa de correio especial não têm credenciais de logon. Em vez disso, os usuários licenciados com as permissões apropriadas gerenciam e acessam essas caixas por meio de delegação.
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisitos do sistema do Exchange Online
 

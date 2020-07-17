@@ -60,7 +60,7 @@ Os administradores podem usar uma abordagem de logon único para autenticação 
   
 ### <a name="user-subscriptions"></a>Inscrições de usuário
 
-Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
+Cada usuário que acessa o serviço do Arquivamento do Exchange Online deve ter uma assinatura do Arquivamento do Exchange Online. Cada assinatura de arquivo de email pode ser usada somente para armazenamento de um usuário de mensagens de dados.
   
 ## <a name="unlimited-archive-storage-quota"></a>Cota de armazenamento de arquivo morto ilimitada
 

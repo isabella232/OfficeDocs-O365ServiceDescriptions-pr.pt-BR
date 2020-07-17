@@ -51,23 +51,23 @@ As ferramentas de recursos de relatório e de solução de problemas a seguir es
 O recurso de rastreamento de mensagens permite que você, como administrador, siga as mensagens de email à medida que elas passam pelo serviço do Exchange Online. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Isso permite responder com eficiências às perguntas dos usuários e solucionar problemas de fluxo de emails e diminui a necessidade de entrar em contato com o suporte técnico para solicitar assistência.
   
 > [!IMPORTANT]
-> For troubleshooting general issues and trends, use the reporting tools to obtain such data. For single point specifics where details are needed about a message, use the message trace tool. 
+> Para solucionar problemas e tendências gerais, use as ferramentas de relatório para obter esses dados. Para pontos específicos únicos em que são necessários detalhes sobre uma mensagem, use a ferramenta de rastreamento de mensagem. 
   
 Para saber mais sobre o recurso de rastreamento de mensagens, confira [Rastrear uma Mensagem de Email](https://go.microsoft.com/fwlink/p/?LinkId=271777).
   
 ### <a name="auditing-reports"></a>Relatórios de auditoria
 
-You can use audit logging to troubleshoot configuration issues by tracking specific changes made by administrators and to help you meet regulatory, compliance, and litigation requirements. Exchange Online provides two types of audit logging:
+Você pode usar o log de auditoria para solucionar problemas de configuração controlando alterações específicas feitas pelos administradores e para ajudar você a atender aos requisitos normativos, de conformidade e de litígio. O Exchange Online fornece dois tipos de log de auditoria:
   
-- Administrator audit logging records any action performed by an administrator. This can help you troubleshoot configuration issues or identify the cause of security-related or compliance-related problems. 
+- Log de auditoria do administrador registra qualquer ação executada por um administrador. Isso pode ajudá-lo a solucionar problemas de configuração ou identificar a causa de problemas relacionados a segurança ou conformidade. 
     
-- Mailbox audit logging records whenever a mailbox is accessed by someone other than the person who owns the mailbox. This can help you determine who has accessed a mailbox and what they've done. 
+- O log de auditoria de caixas de correio grava sempre que uma caixa de correio é acessada por alguém que não seja o proprietário da caixa de correio. Isso pode ajudá-lo a determinar quem acessou a caixa de correio e o que a pessoa fez. 
     
 Para saber mais sobre o log de auditoria, confira [Relatórios de Auditoria](https://go.microsoft.com/fwlink/p/?LinkId=271779).
   
 ### <a name="unified-messaging-reports"></a>Relatórios de Unificação de Mensagens
 
-You can use these reports to monitor and troubleshoot Unified Messaging (UM) in your Exchange Online organization. For more information, see [Run Reports for Voice Mail Calls](https://go.microsoft.com/fwlink/p/?LinkId=287042).
+Você pode usar esses relatórios para monitorar e solucionar problemas de UM (Unificação de Mensagens) em sua organização do Exchange Online. Para saber mais, confira [Executar Relatórios para Chamadas de Caixa Postal](https://go.microsoft.com/fwlink/p/?LinkId=287042).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

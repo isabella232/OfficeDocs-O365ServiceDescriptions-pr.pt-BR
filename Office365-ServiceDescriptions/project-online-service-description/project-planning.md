@@ -30,11 +30,11 @@ Os dados de base podem ser acumulados ou resumidos em uma linha de resumo. Saiba
   
 ## <a name="budget-planning"></a>Budget planning
 
-Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+O planejamento orçamentário permite que você compare o andamento atual com uma linha de base definida no começo de um projeto. Saiba mais sobre [Análise de valor agregado](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>Comparar versões de projeto
 
-Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
+Compare duas versões de um projeto. Um relatório é criado mostrando o que mudou, como a adição de novas tarefas.
   
 ## <a name="deadlines"></a>Prazos
 

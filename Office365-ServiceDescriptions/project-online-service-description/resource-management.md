@@ -22,15 +22,15 @@ Os seguintes recursos de gerenciamento de recursos estão disponíveis no Projec
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>Aprovar/rejeitar/modificar solicitações de contrato de recursos de entrada
 
-You can accept, reject, or modify incoming resource requests based on the overall resource view. For details, see [Accept or reject an engagement request](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).
+Você pode aceitar, rejeitar ou modificar solicitações de recursos de entrada com base no modo de exibição de recurso geral. Para mais detalhes, confira [Aceitar ou rejeitar uma solicitação de envolvimento](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).
   
 ## <a name="manage-resource-pool"></a>Gerenciar o pool de recursos
 
-Manage an enterprise resource pool - both by individual and in bulk. For more information, see [Add a resource to Project web app](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) and [Add or update enterprise resources using an external data file](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).
+Gerencie um pool de recursos da empresa, por pessoa e em massa. Para saber mais, confira [Adicionar um recurso ao Project Web App](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) e [Adicionar ou atualizar recursos da empresa usando um arquivo de dados externo](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).
   
 ## <a name="plan-resource-capacity"></a>Planejar a capacidade dos recursos
 
-When you need to know if resources are overbooked, you can use the Capacity Planning view in the Resource Center to compare how many hours a resource is able to put in versus how many hours they're needed on projects. For details, see [Evaluate resource capacity](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).
+Quando você precisar saber se os recursos estão sobrecarregados, é possível usar o modo de exibição de Planejamento da Capacidade na Central de Recursos para comparar quantas horas podem ser alocadas para um recurso e por quantas horas eles são necessários em projetos. Para mais detalhes, confira [Avaliar a capacidade do recurso](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).
   
 ## <a name="request-resource-agreements"></a>Solicitar contratos de recursos
 

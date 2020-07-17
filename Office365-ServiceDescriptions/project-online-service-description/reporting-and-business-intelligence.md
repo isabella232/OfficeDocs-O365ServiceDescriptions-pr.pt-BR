@@ -22,7 +22,7 @@ Os seguintes recursos de relatórios e Business Intelligence estão disponíveis
   
 ## <a name="odata-feeds"></a>Feeds OData
 
-OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+Os feeds OData permitem que as consultas do REST e uma série de bibliotecas de cliente do OData façam consultas de dados de relatórios de uma instância do Project Web App. Por exemplo, você pode usar diretamente uma consulta do REST em um navegador da Web ou usar o JavaScript para criar aplicativos da Web e aplicativos de cliente para dispositivos móveis, tablets, PCs e Macs. Para saber mais, confira [Referência de serviço de OData do Project 2013](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Painéis prontos de portfólios
 
@@ -30,5 +30,5 @@ Os sofisticados relatórios prontos foram desenvolvidos para serem imediatamente
   
 ## <a name="project-desktop-reporting"></a>Relatórios da área de trabalho do Project
 
-Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+Os relatórios da área de trabalho do Project permitem que você crie e personalize relatórios gráficos impressionantes dos dados de projeto que desejar, sem depender de outro software. Para mais informações, confira [Criar um relatório de projeto](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
   

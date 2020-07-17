@@ -34,7 +34,7 @@ O Centro de administração do Exchange (EAC) é um console de gerenciamento uni
   
 ## <a name="remote-windows-powershell-access"></a>Acesso Remoto do Windows PowerShell
 
- Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
+ Os administradores podem usar o Remote Windows PowerShell para executar tarefas de gerenciamento de linha de comando. Para saber mais sobre como usar o Windows PowerShell, incluindo informações sobre como criar uma sessão remota do Shell e documentação sobre cada cmdlet, confira [Exchange PowerShell Online](https://go.microsoft.com/fwlink/p/?LinkId=282266).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
