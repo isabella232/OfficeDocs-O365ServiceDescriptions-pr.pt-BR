@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137557"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201545"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -341,6 +341,26 @@ Por padrão, os recursos do PAM são habilitados no nível do locatário para to
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
 Os clientes podem gerenciar o PAM por usuário por meio de grupos de aprovadores e políticas de acesso, que podem ser aplicados a usuários licenciados. Para obter mais informações, consulte [Gerenciamento de acesso privilegiado no Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751).
+
+## <a name="double-key-encryption-for-microsoft-365"></a>Criptografia de chave dupla para o Microsoft 365 
+
+A chave dupla de criptografia para o Microsoft 365 permite proteger seus dados altamente confidenciais para atender a requisitos especializados e manter o controle total da sua chave de criptografia. A criptografia de chave dupla usa duas chaves para proteger seus dados, com uma chave no seu controle e a segunda chave armazenada com segurança no Microsoft Azure. Para exibir os dados, você deve ter acesso às duas chaves. Como a Microsoft pode acessar apenas uma chave, sua chave e seus dados não estão disponíveis para a Microsoft, garantindo que você tenha controle total sobre a privacidade e a segurança de seus dados.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
+
+Os usuários se beneficiam da criptografia de duas chaves por ser capaz de migrar seus dados criptografados para a nuvem e impedir o acesso de terceiros, desde que a chave permaneça no controle dos usuários. Os usuários finais podem proteger e consumir conteúdo criptografado de chave dupla semelhante a qualquer outro conteúdo protegido por rótulo de confidencialidade.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
+
+Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, Microsoft 365 Information Protection and Governance, Office 365 E5/a5 e Office 365 Advanced Compliance fornecem os direitos para um usuário se beneficiar da criptografia de chave dupla.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
+
+A criptografia de chave dupla oferece suporte à versão de área de trabalho do Microsoft Office para Windows.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
+
+Para atribuir chaves de criptografia a dados dentro de uma organização do Office 365 e/ou do Microsoft 365 para usuários licenciados, siga as instruções de implantação de criptografia de chave dupla.
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Prevenção de perda de dados do Office 365 para o Exchange Online, o SharePoint Online e o OneDrive for Business
 

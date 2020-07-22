@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 5586505bc7d4269fefa2d8c96d626ffc872afeea
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132985"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201565"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -103,7 +103,7 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 |**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Caixas de correio de usuário|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |Caixas de correio<sup>de arquivo morto 7, 8</sup>|50 GB|50 GB|50 GB|Ilimitado<sup>1</sup>|Unlimited<sup>1</sup>|Não disponível<sup>4</sup>|
-|Caixas de correio compartilhadas<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2,9</sup>|50 GB<sup>2,9</sup>|50 GB<sup>2</sup>|
+|Caixas de correio compartilhadas<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50 GB<sup>2</sup>|
 |Caixas de correio de recurso|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3</sup>|
 |Caixas de correio de site<sup>5</sup>|50 GB|50 GB|50 GB|50 GB|50 GB|Não disponível|
 |Caixas de correio de pastas públicas|50 GB<sup>6</sup>|50 GB<sup>6</sup>|50 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|Não disponível|
