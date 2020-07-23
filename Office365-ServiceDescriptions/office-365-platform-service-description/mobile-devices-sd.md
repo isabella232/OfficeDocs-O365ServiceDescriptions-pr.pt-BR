@@ -1,5 +1,5 @@
 ---
-title: Dispositivos móveis [SD]
+title: Descrição do serviço de dispositivos móveis
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Muitos telefones celulares, tablets e outros dispositivos móveis podem ser usados com o Microsoft Office 365.
-ms.openlocfilehash: 04b1a125788d92e3eaea53f7e0ddd7005b3d2885
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 3abf786b322c8b8d9986823eed8ed8ce8d84ae37
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132375"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229627"
 ---
 # <a name="mobile-devices-sd"></a>Dispositivos móveis [SD]
 
@@ -26,7 +26,7 @@ Muitos telefones celulares, tablets e outros dispositivos móveis podem ser usad
     
 - Para obter informações sobre como usar o email em dispositivos móveis, consulte a descrição do serviço de [dispositivos móveis e dos clientes](../exchange-online-service-description/clients-and-mobile-devices.md) . 
     
-- Confira informações sobre o Gerenciamento de Dispositivo Móvel do Office 365 em [Visão geral do Gerenciamento de Dispositivo Móvel (MDM) do Office 365](https://go.microsoft.com/fwlink/?linkid=808602).
+- Para obter informações sobre mobilidade básica e segurança para o Microsoft 365, consulte [visão geral da mobilidade básica e segurança do microsoft 365](https://go.microsoft.com/fwlink/?linkid=808602).
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Saiba mais sobre os limites do SharePoint para o Microsoft 365 e planos autônomos.
-ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154359"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229637"
 ---
 # <a name="sharepoint-limits"></a>Limites do SharePoint
 
@@ -24,7 +24,7 @@ Saiba mais sobre os limites de serviço no SharePoint para o Microsoft 365.
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Microsoft 365 Business Basic ou Business Premium** <br/> |**Microsoft 365 E3 ou e5, Office 365 Enterprise E1, E3 ou E5 ou SharePoint plano 1 ou 2** <br/> | **Microsoft 365 F1 ou F3, Office 365 Enterprise F3** <br/> |
+|**Recurso** <br/> |**Microsoft 365 Business Basic, Business Standard ou Business Premium** <br/> |**Microsoft 365 E3 ou e5, Office 365 Enterprise E1, E3 ou E5 ou SharePoint plano 1 ou 2** <br/> | **Microsoft 365 F1 ou F3, Office 365 Enterprise F3** <br/> |
 |Armazenamento total por organização<sup>1, 2, 6</sup> <br/> |1 TB mais 10 GB por licença adquirida<sup>3</sup>  <br/> |1 TB mais 10 GB por licença adquirida<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Armazenamento máximo por site (conjunto de sites)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Sites (conjuntos de sites) por organização  <br/> |2 milhões<sup>6</sup> <br/> |2 milhões<sup>6</sup> <br/> |2 milhões<br/> |
@@ -83,7 +83,7 @@ A cópia/movimentação de vários arquivos em uma única operação tem três r
 
 ### <a name="sharepoint-groups"></a>Grupos do SharePoint
 
-Um usuário pode pertencer a 5.000 grupos e cada grupo pode ter até 5.000 usuários. Você pode ter até 10.000 grupos por site (conjunto de sites).
+Um usuário pode pertencer a 5.000 grupos por site (conjunto de sites) e cada grupo pode ter até 5.000 usuários. Você pode ter até 10.000 grupos por site (conjunto de sites).
 
 > [!NOTE]
 > Para limites de grupos do Azure AD, confira [limites e restrições do serviço do Azure ad](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) , pois esses limites podem afetar o gerenciamento de associação de sites de grupos públicos e privados. 
