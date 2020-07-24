@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governamental – DoD é adequado para atender a esses requisitos.
-ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5518a0332d598a25a434c817ce04eefc6069b62d
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132485"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388077"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planejar a conformidade com o Microsoft 365 – implantações do DoD
 
@@ -73,7 +73,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                        |Políticas recomendadas                            | Na Backlog de engenharia |
 |                                        |Filtros de importação inteligente                            | Na Backlog de engenharia |  
 |                                        |Retenção baseada em eventos                           | Na Backlog de engenharia |
-|                                        |Análise de disposição                              | Na Backlog de engenharia |
+|                                        |Revisão de disposição                              | Na Backlog de engenharia |
 |                                        |Barreiras de informações                            | Disponível              |
 |                                        |Prevenção de perda de dados (DLP) para arquivos e email  | Disponível              |
 |                                        |DLP para chat de equipes e conversas de canal    | Na Backlog de engenharia |
@@ -87,28 +87,28 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                        |Sistema de Proteção de Dados do cliente                                | Disponível              |
 |                                        |Chave de Cliente                                    | Disponível              |
 |                                        |Gerenciamento de acesso privilegiado                    | Na Backlog de engenharia |
-|**Descobrir & responder**                  |Reserva in-loco                            | Disponível              |
-|                                        |Gerenciamento de casos                                 | Disponível              |
-|                                        |Search                                          | Disponível              |
-|                                        |Exportação                                          | Disponível              |
-|                                        |Descriptografia do RMS                                  | Disponível              |
-|                                        |Exportação nativa                                   | Disponível              |
-|                                        |Processamento avançado                             | Na Backlog de engenharia |
-|                                        |Threading de emails                                 | Na Backlog de engenharia |
-|                                        |Identificação próxima duplicada                   | Na Backlog de engenharia |
-|                                        |Temas                                          | Na Backlog de engenharia |
-|                                        |Codificação preditiva                               | Na Backlog de engenharia |
-|                                        |Exportação processada com o arquivo de carregamento                 | Na Backlog de engenharia |
-|                                        |Marcação                                         | Na Backlog de engenharia |
-|                                        |Visualizadores                                         | Na Backlog de engenharia |
-|                                        |Redaçãos                                      | Na Backlog de engenharia |
-|                                        |Filtragem                                       | Na Backlog de engenharia |
-|                                        |Mapeamento de carga de trabalho                   | Na Backlog de engenharia |
-|                                        |Comunicações de responsáveis                        | Na Backlog de engenharia |
-|                                        |Revisar conjuntos                                     | Na Backlog de engenharia |
-|                                        |Revisar e anotar                             | Na Backlog de engenharia |
-|                                        |Ingestão de 365 não-Office                        | Na Backlog de engenharia |
-|                                        |Relatório de termos de pesquisa                              | Na Backlog de engenharia |
+|**Descobrir & responder**                  |Descoberta eletrônica principal: preservação no local                            | Disponível              |
+|                                        |Descoberta eletrônica principal: gerenciamento de casos                                 | Disponível              |
+|                                        |Descoberta eletrônica principal: pesquisa                                          | Disponível              |
+|                                        |Descoberta eletrônica principal: exportar                                          | Disponível              |
+|                                        |Descoberta eletrônica principal: descriptografia do RMS                                  | Disponível              |
+|                                        |Descoberta eletrônica principal: exportação nativa                                   | Disponível              |
+|                                        |Descoberta eletrônica avançada: processamento avançado                             | Disponível |
+|                                        |Descoberta eletrônica avançada: encadeamento de email                                 | Disponível |
+|                                        |Descoberta eletrônica avançada: identificação próxima duplicada                   | Disponível |
+|                                        |Descoberta eletrônica avançada: temas                                          | Disponível |
+|                                        |Descoberta eletrônica avançada: codificação de previsão                               | Disponível |
+|                                        |Descoberta eletrônica avançada: exportação processada com o arquivo de carregamento                 | Disponível |
+|                                        |Descoberta eletrônica avançada: marcação                                         | Disponível |
+|                                        |Descoberta eletrônica avançada: visualizadores                                         | Disponível |
+|                                        |Descoberta eletrônica avançada: redaçãos                                      | Disponível |
+|                                        |Descoberta eletrônica avançada: filtragem                                       | Disponível |
+|                                        |Descoberta eletrônica avançada: mapeamento de carga de trabalho                   | Disponível |
+|                                        |Descoberta eletrônica avançada: comunicações de responsáveis                        | Disponível |
+|                                        |Descoberta eletrônica avançada: conjuntos de revisão                                     | Disponível |
+|                                        |Descoberta eletrônica avançada: revisar e anotar                             | Disponível |
+|                                        |Descoberta eletrônica avançada: inclusão de não-Office 365                        | Na Backlog de engenharia |
+|                                        |Descoberta eletrônica avançada: relatório de termos de pesquisa                              | Disponível |
 
 <sup>1</sup> o status identificado está sujeito a alterações à medida que os planos e as prioridades do projeto são reavaliados.<br/>
 <sup>2</sup> o aplicativo manual de rótulos requer o [cliente de proteção de informações do Azure (AIP) versão 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
