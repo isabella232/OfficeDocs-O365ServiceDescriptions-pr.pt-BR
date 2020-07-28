@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade de segurança &amp; foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 4ab535757c0d192c4d790a7aeacfba9e73d4157f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131785"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501700"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -36,7 +36,7 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 |[Gerenciamento avançado de ameaças](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), como o explorador de ameaças para campanhas de phishing<sup>6</sup>  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Sistema de Proteção de Dados do Cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Gerenciamento de dispositivo móvel](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
-|[Prevenção de perda de dados para o Exchange Online, o SharePoint Online e o onedrive for Business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Não   |Não   |Não   |Não   |Sim   |Sim   |Não   |
+|[Prevenção de perda de dados para o Exchange Online, o SharePoint Online e o onedrive for Business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Não   |Sim  |Sim   |Não   |Sim   |Sim   |Não   |
 |[Prevenção de perda de dados de comunicação para o Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Não   |Não   |Não   |Não   |Não   |Sim  |
 |[Rótulos de sensibilidade manuais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Não | Não  |Não   | Sim | Sim | Sim | Não  |
 |Rótulos de confidencialidade automático| Não | Não  |Não  | Não | Não | Sim<sup>13</sup> | Não  |
