@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: O Microsoft Teams fornece mensagens instantâneas, colaboração de arquivos e dados, chamadas de áudio e vídeo, reuniões online avançadas, experiências móveis e recursos de Webconferência abrangentes.
-ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
-ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
+ms.openlocfilehash: 8a22154cf97031518fac99a5b7052c00e0bdb214
+ms.sourcegitcommit: 31ef23008777fe063df8c9abca75292f6991b8a2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45388087"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46513887"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
@@ -56,7 +56,7 @@ Esta tabela lista a disponibilidade de recursos do Microsoft Teams em planos de 
 |Chat  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Teams  <br/> |Sim <br/> |Sim <br/> |Sim <br/> |Sim<sup>1</sup>  <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
 |Canais-padrão  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Canais-privado  <br/> |Sim  <br/> |Sim<sup>2</sup>  <br/> |Não  <br/> |Não  <br/> |Não <br/> |Sim  <br/> |
+|Canais-privado  <br/> |Sim  <br/> |Sim<sup>2</sup>  <br/> |Não  <br/> |Sim  <br/> |Não <br/> |Sim  <br/> |
 |Reuniões  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Área de trabalho de áudio/vídeo do PowerPoint para compartilhamento de tela <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Voz  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
