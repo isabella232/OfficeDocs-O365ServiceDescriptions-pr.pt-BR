@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando você adiciona um domínio, um assistente passo a passo ajuda você a adicionar usuários e converter seus endereços de email e outros serviços para o nome da sua empresa. Quando você concluir o assistente, seu email comercial começará a ser enviado para a Microsoft em vez de ir para seu provedor de email atual. Para saber mais, confira adicionar seus usuários e domínios à Microsoft. Se você usa o Office 365 operado pela 21Vianet, confira Verificar seu domínio.
-ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132388"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531214"
 ---
 # <a name="domains"></a>Domínios
 
@@ -26,7 +26,7 @@ Quando você adiciona um domínio, um assistente passo a passo ajuda você a adi
   
 ## <a name="custom-domains"></a>Domínios personalizados
 
-Você pode adicionar até 900 domínios à sua assinatura. Entretanto, não é possível adicionar um domínio ao Office 365 que já está usando em outro serviço de nuvem da Microsoft. Isso significa que você não pode adicionar o mesmo domínio a várias assinaturas. Para saber mais, confira [perguntas frequentes sobre domínios](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Você pode adicionar até 900 domínios à sua assinatura (incluindo subdomínios). Não é possível adicionar um domínio ao Microsoft 365 que você já esteja usando em outro serviço do Microsoft Cloud. Isso significa que você não pode adicionar o mesmo domínio a várias assinaturas. Para saber mais, confira [perguntas frequentes sobre domínios](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Domínios de segundo e terceiro nível
 
@@ -48,7 +48,7 @@ Para obter mais informações, consulte [como a Microsoft gerencia registros DNS
   
 ## <a name="sharing-a-domain"></a>Compartilhamento de um domínio
 
-Você pode piloto de alguns endereços de email para um domínio na Microsoft e alguns no seu provedor de emails anterior. Isso é recomendado apenas para uso durante um piloto, pois requer etapas de configuração adicionais e tem algumas limitações para os serviços da Microsoft. Para saber mais, confira:
+Você pode piloto de alguns endereços de email para um domínio na Microsoft e alguns no seu provedor de emails anterior. Isso é recomendado apenas para uso durante um piloto, pois requer etapas de configuração adicionais e tem algumas limitações para os serviços da Microsoft. Para mais informações, confira:
   
 - [Piloto da Microsoft 365 para uma pequena empresa](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
