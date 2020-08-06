@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cde2f691a010b12c42e774db7987a32efed50e1a
+ms.sourcegitcommit: fe1417a3228a5015e65a252f559e8c357d647d46
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131535"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "46573969"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -64,6 +64,8 @@ Para obter informações sobre os limites de armazenamento e de destinatários d
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
 Se sua organização tiver atualmente assinaturas para o Office 365 Small Business, o Office 365 Small Business Premium ou o Office 365 Midsize Business, visite seu centro de mensagens no centro de administração do Microsoft 365 ou converse com seu provedor para obter mais detalhes sobre como o plano do novo Microsoft 365 aplicativos impacta você. Para saber mais sobre a nova família de planos de aplicativos do Microsoft 365, confira [novos planos para pequenas e médias empresas](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today).
+
+Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [Descrição do serviço do microsoft 365 Business Premium](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md).<br/><br/>
   
 |**Recurso**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
