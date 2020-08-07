@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
+ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501710"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580824"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -102,10 +102,10 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Caixas de correio de usuário|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
-|Caixas de correio<sup>de arquivo morto 7, 8</sup>|50 GB|50 GB|50 GB|Ilimitado<sup>1</sup>|Unlimited<sup>1</sup>|Não disponível<sup>4</sup>|
+|Caixas de correio<sup>de arquivo morto 7, 8</sup>|50 GB|50 GB|50 GB|Ilimitado<sup>1</sup>|Unlimited<sup>1</sup>|Não disponível<sup>4</sup>|
 |Caixas de correio compartilhadas<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50 GB<sup>2</sup>|
 |Caixas de correio de recurso|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3</sup>|
-|Caixas de correio de site<sup>5</sup>|50 GB|50 GB|50 GB|50 GB|50 GB|Não disponível|
+|Caixas de correio de site<sup>5</sup>|50 GB|50 GB|50 GB|50 GB|50 GB|Não disponível|
 |Caixas de correio de pastas públicas|50 GB<sup>6</sup>|50 GB<sup>6</sup>|50 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|Não disponível|
 |Caixas de correio de grupo|50 GB|50 GB|50 GB|50 GB|50 GB|50 GB|
 
@@ -118,7 +118,7 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 |:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Exchange Server 2013**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Caixas de correio de usuário|2 GB<sup>1</sup>|50 GB|100 GB|2 GB|
-|Caixas de correio de arquivo morto<sup>8, 9</sup>|100 GB<sup>1</sup>|50 GB|Ilimitado<sup>2</sup>|Indisponível<sup>5</sup>|
+|Caixas de correio de arquivo morto<sup>8, 9</sup>|100 GB<sup>1</sup>|50 GB|Ilimitado<sup>2</sup>|Indisponível<sup>5</sup>|
 |Caixas de correio compartilhadas<sup>11</sup>|2 GB<sup>1</sup>|50 GB<sup>3</sup>|50 GB<sup>3,10</sup>|50 GB<sup>3</sup>|
 |Caixas de correio de recurso|2 GB<sup>1</sup>|50 GB<sup>4</sup>|50 GB<sup>4,10</sup>|50 GB<sup>4</sup>|
 |Caixas de correio de pastas públicas|2 GB<sup>6</sup>|50 GB<sup>7</sup>|100 GB<sup>7</sup>|Não disponível|
@@ -221,8 +221,8 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 |Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (não em espera)|30 GB|30 GB|30 GB|30 GB|
 |Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (em espera)|100 GB<sup>2</sup>|100 GB<sup>2</sup>|Unlimited<sup>3</sup>|Unlimited<sup>3</sup>|
 |Aviso para o número de mensagens por pasta na pasta de Itens Recuperáveis|Sem limite|2,75 milhões|2,75 milhões|2,75 milhões|
-|Número máximo de subpastas por pasta de caixa de correio|Sem limite|1000|1000|1000|
-|Aviso para o número de subpastas por pasta de caixa de correio|Sem limite|900|900|900|
+|Número máximo de subpastas por pasta de caixa de correio|Sem limites|1000|1000|1000|
+|Aviso para o número de subpastas por pasta de caixa de correio|Sem limites|900|900|900|
 |Profundidade máxima de hierarquia de pasta|Sem limites|300|300|300|
 |Aviso para a profundidade de hierarquia de pasta|Sem limites|250|250|250|
 |Número máximo de pastas públicas|1.000.000|100.000|100.000|Não disponível|
@@ -261,20 +261,20 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Limite de tamanho de mensagem - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
+|Limite de tamanho de mensagem - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite de tamanho de mensagem - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
-|Limite de tamanho de mensagem - Outlook para Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
+|Limite de tamanho de mensagem - Outlook para Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite de tamanho de mensagem - migração|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |Limite de tamanho de mensagem-Outlook para iOS e Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>5</sup>|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
-|Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
+|Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Limite de anexos de arquivo|250 anexos|250 anexos|250 anexos|250 anexos|250 anexos|250 anexos|
-|Limite de tamanho de anexo de arquivo - Outlook|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|Limite de tamanho de anexo de arquivo - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |Limite de tamanho de anexo de arquivo - OWA |112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|
-|Limite de tamanho de anexo de arquivo - Outlook para Mac|150 MB|150 MB |150 MB |150 MB |150 MB |150 MB|
+|Limite de tamanho de anexo de arquivo - Outlook para Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |Limite de tamanho de anexo de arquivo-Outlook para iOS e Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
-|Limite de mensagem com várias partes|250 partes|250 partes|250 partes|250 partes|250 partes|250 partes|
+|Limite de mensagem com várias partes|250 partes|250 partes|250 partes|250 partes|250 partes|250 partes|
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|
 
 > [!NOTE]
@@ -293,18 +293,18 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |**Recurso**|**Exchange Server 2013**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Limite de tamanho de mensagem - Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
 |Limite de tamanho de mensagem - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
-|Limite de tamanho de mensagem - Outlook para Mac|10 MB<sup>4</sup>|150 MB |150 MB||
+|Limite de tamanho de mensagem - Outlook para Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |Limite de tamanho de mensagem - migração|Não aplicável|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
 |Limite de tamanho de mensagem-Outlook para iOS e Android |25 MB |33 MB |33 MB |33 MB |
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>6</sup>|150 MB|150 MB |150 MB |150 MB|
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>6</sup>|25 MB|25 MB |25 MB |25 MB|
-|Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>6</sup>|150 MB|150 MB|150 MB|150 MB|
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
+|Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Limite de anexos de arquivo|1024 attachments<sup>4</sup>|250 anexos|250 anexos|250 anexos|
-|Limite de tamanho de anexo de arquivo - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB|
+|Limite de tamanho de anexo de arquivo - Outlook|35 MB<sup>4</sup>|150 MB|150 MB|150 MB|
 |Limite de tamanho de anexo de arquivo - OWA|35 MB<sup>4</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|
 |Limite de tamanho de anexo de arquivo - Outlook para Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
 |Limite de tamanho de anexo de arquivo-Outlook para iOS e Android|25 MB |33 MB|33 MB|33 MB|
-|Limite de mensagem com várias partes|250 partes|250 partes|250 partes|250 partes|
+|Limite de mensagem com várias partes|250 partes|250 partes|250 partes|250 partes|
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|
 
 > [!NOTE]
@@ -432,7 +432,7 @@ Estes limites se aplicam a grupos de distribuição no catálogo de endereços c
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Número máximo de membros do grupo de distribuição<sup>1</sup>|100.000 membros|100.000 membros|100.000 membros|100.000 membros|100.000 membros|100.000 membros|
+|Número máximo de membros do grupo de distribuição<sup>1</sup>|100.000 membros|100.000 membros|100.000 membros|100.000 membros|100.000 membros|100.000 membros|
 |Limite de envio de mensagens para grupos de distribuição grandes|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|
 |Tamanho máximo das mensagens de grupos de distribuição com membros de 5.000 para 99.999|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Tamanho máximo das mensagens de grupos de distribuição com 100.000 membros|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
@@ -447,7 +447,7 @@ Estes limites se aplicam a grupos de distribuição no catálogo de endereços c
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Recurso**|**Exchange Server 2013**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
-|Número máximo de membros do grupo de distribuição|100.000 membros<sup>1</sup>|100.000 membros|100.000 membros|100.000 membros|
+|Número máximo de membros do grupo de distribuição|100.000 membros<sup>1</sup>|100.000 membros|100.000 membros|100.000 membros|
 |Limite de envio de mensagens para grupos de distribuição grandes|5.000 ou mais membros<sup>1</sup>|5.000 ou mais membros|5.000 ou mais membros|5.000 ou mais membros|
 |Número máximo de proprietários do grupo de distribuição|10 |10 |10 |10 |
 |Número máximo de grupos que um usuário pode criar|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
@@ -487,15 +487,15 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, regras 
 |Tamanho máximo de uma regra de transporte individual|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |Limites de verificação de conteúdos de anexos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
-|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|
-|Limite de encaminhamento|10 destinatários|10 destinatários|10 destinatários|10 destinatários|10 destinatários|10 destinatários|
+|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|100 destinatários|
+|Limite de encaminhamento|10 destinatários|10 destinatários|10 destinatários|10 destinatários|10 destinatários|10 destinatários|
 |Número de vezes que uma mensagem é redirecionada|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
 |Número de vezes em que uma mensagem é redirecionada por regras de transporte|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
 |Número de vezes que uma mensagem é redirecionada|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|1 redirecionamento|
 |Regra de caixa de entrada|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|
 
 > [!NOTE]
-> <sup>1</sup> se uma caixa de correio foi migrada para o Exchange Online, o limite da regra de caixa de entrada pode ser definido como o valor menor do que o valor padrão de EXO. Se esse for o caso, o valor pode ser aumentado seguindo este procedimento. 
+> <sup>1</sup> se uma caixa de correio foi migrada para o Exchange Online, o limite da regra de caixa de entrada pode ser definido como o valor menor do que o valor padrão de EXO. Se esse for o caso, o valor da regra de caixa de entrada pode ser aumentado. Para obter instruções, consulte [Modificar o espaço usado por regras de caixa de entrada no Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/increase-the-space-used-by-inbox-rules). 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limites de regras de diário, transporte e caixa de entrada em opções autônomas
 
@@ -506,10 +506,10 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, regras 
 |Número máximo de regras de transporte|Sem limite|300 regras|300 regras|300 regras|
 |Tamanho máximo de uma regra de transporte individual|40 KB|8 KB|8 KB|8 KB|
 |Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte|Sem limite|20 KB|20 KB|20 KB|
-|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|Sem limites|100 destinatários|100 destinatários|100 destinatários|
-|Limite de encaminhamento|Sem limite|10 destinatários|10 destinatários|10 destinatários|
-|Número de vezes que uma mensagem é redirecionada|3 redirecionamentos|1 redirecionamento|1 redirecionamento|1 redirecionamento|
-|Número de vezes em que uma mensagem é redirecionada por regras de transporte|Sem limite|1 redirecionamento|1 redirecionamento|1 redirecionamento|
+|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte|Sem limite|100 destinatários|100 destinatários|100 destinatários|
+|Limite de encaminhamento|Sem limite|10 destinatários|10 destinatários|10 destinatários|
+|Número de vezes que uma mensagem é redirecionada|3 redirecionamentos|1 redirecionamento|1 redirecionamento|1 redirecionamento|
+|Número de vezes em que uma mensagem é redirecionada por regras de transporte|Sem limite|1 redirecionamento|1 redirecionamento|1 redirecionamento|
 
 ## <a name="moderation-limits"></a>Limites de moderação
 
