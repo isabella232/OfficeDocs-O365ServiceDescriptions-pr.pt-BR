@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: O Word para a Web (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da Web, onde você pode trabalhar com documentos diretamente no site em que o documento está armazenado.
-ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131295"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616907"
 ---
 # <a name="word-for-the-web"></a>Word para a Web
 
@@ -127,10 +127,6 @@ Com o Word para a Web, você pode criar facilmente links para indicadores dentro
 ## <a name="index"></a>Índice
 
 Um índice lista os termos e os tópicos que são discutidos em um documento, juntamente com as páginas em que eles aparecem. Para criar um índice, marque as entradas de índice, fornecendo o nome da entrada principal e a referência cruzada no documento e, depois, construa o índice.
-  
-## <a name="ink-editor"></a>Editor por Tinta
-
-O Editor por Tinta permite que você edite e formate documentos usando gestos naturais, como circular para selecionar o texto e cruzar para excluir o texto.
   
 ## <a name="insert-online-pictures"></a>Inserir imagens online
 
@@ -297,4 +293,8 @@ O zoom está disponível no modo de Exibição. Com o Word para a Web, use as co
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
 Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Office para a descrição do serviço Web](office-online-service-description.md). 
+
+## <a name="operating-parameter-limitations-and-specifications"></a>Especificações e limitações de parâmetro operacional
+
+Para obter informações sobre os limites de parâmetros operacionais, consulte [Operations Parameter limitações and Specifications in Word](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation).
   
