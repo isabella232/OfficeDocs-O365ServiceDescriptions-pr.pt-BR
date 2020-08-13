@@ -1,5 +1,5 @@
 ---
-title: Limites do SharePoint
+title: Limites do Microsoft Office SharePoint Online
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Saiba mais sobre os limites do SharePoint para o Microsoft 365 e planos autônomos.
-ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
-ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
+ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560076"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649591"
 ---
-# <a name="sharepoint-limits"></a>Limites do SharePoint
+# <a name="sharepoint-limits"></a>Limites do Microsoft Office SharePoint Online
 
 Saiba mais sobre os limites de serviço no SharePoint para o Microsoft 365.
   
@@ -67,7 +67,7 @@ A cópia/movimentação de vários arquivos em uma única operação tem três r
 
 ### <a name="sync"></a>Sincronizar
 
-**Novo aplicativo de sincronização do onedrive** – para obter o desempenho ideal, recomendamos armazenar no máximo 300.000 arquivos em todas as bibliotecas de documentos sincronizadas, mesmo que você esteja usando arquivos por demanda ou escolhendo apenas algumas pastas dentro das bibliotecas para sincronizar.
+**Novo aplicativo de sincronização do onedrive** – para obter o desempenho ideal, recomendamos armazenar no máximo 300.000 arquivos por usuário em todas as bibliotecas de documentos sincronizadas, mesmo que você esteja usando arquivos sob demanda ou escolhendo apenas algumas pastas dentro das bibliotecas para sincronizar.
 
 **Aplicativo de sincronização anterior do onedrive for Business (Groove.exe)** -você pode sincronizar até 20.000 itens de total em todas as bibliotecas sincronizadas. Isso inclui as bibliotecas do OneDrive, as bibliotecas do site de equipe ou ambas. Separadamente do limite geral de sincronização, há limites para o número de itens que podem ser sincronizados para cada tipo de biblioteca:
 
