@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201545"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798377"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -320,7 +320,7 @@ Os administradores podem ativar os controles de lockbox do cliente no centro de 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-A Microsoft fornece solicitações de aprovação de controle de acesso de lockbox de cliente para usuários em sua organização.
+O serviço de lockbox do cliente não pode ser limitado atualmente a usuários específicos. Você deve licenciar todos os usuários que pretende beneficiar.
 
 ## <a name="privileged-access-management-in-office-365"></a>O Privileged Access Management no Office 365
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
-ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
+ms.openlocfilehash: 9c8554f8f995e00058fb5c3bafe915d328ba9c53
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580824"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798387"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -197,7 +197,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 |Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (não em espera)|30 GB|30 GB|30 GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 GB|
 |Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (em espera)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Aviso para o número de mensagens por pasta na pasta de Itens Recuperáveis|2,75 milhões|2,75 milhões|2,75 milhões|2,75 milhões|2,75 milhões|2,75 milhões|
-|Número máximo de subpastas por pasta de caixa de correio|10.000|10.000|10.000|10.000|10.000|10.000|
+|Número máximo de subpastas por pasta de caixa de correio|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|
 |Aviso para o número de subpastas por pasta de caixa de correio|9000|9000|9000|9000|9000|9000|
 |Profundidade máxima de hierarquia de pasta|300|300|300|300|300|300|
 |Aviso para a profundidade de hierarquia de pasta|250|250|250|250|250|250|
@@ -207,6 +207,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 
 > [!NOTE]
 > <sup>1</sup> Esta é a cota de armazenamento da pasta Itens Recuperáveis, não a cota da caixa de correio de arquivo morto inteira. A cota de armazenamento da caixa de correio de arquivo morto é ilimitada para usuários com uma licença do Exchange Online Plano 2 ou para usuários que têm uma licença do Exchange Online Plano 1 e de Arquivamento do Exchange Online. Confira informações sobre aumentar a cota da pasta itens recuperáveis, confira [aumente a cota da pasta itens recuperáveis para caixas de correio em espera](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> A cota de armazenamento inicial da pasta Itens Recuperáveis em uma caixa de correio de arquivo morto é de 100 GB. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade da pasta de Itens Recuperáveis. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Consulte o [mapa do Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obter detalhes sobre a disponibilidade do arquivamento de expansão automática.
+> <sup>2</sup> este é um limite de repositório; é uma das restrições de forma de caixa de correio. Só pode haver pastas filhas diretas 10.000 para qualquer pai especificado. Isso se aplica independentemente da migração ou de outros clientes que criam pastas.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Limites da pasta da caixa de correio nos planos autônomos
 
