@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: O arquivamento do Microsoft Exchange Online permite que os usuários se conectem às caixas de correio de arquivo morto de vários dispositivos e plataformas. Toda a conectividade de rede para o arquivamento do usuário ocorre pela Internet, e as conexões de rede virtual privada (VPN) não são obrigatórias. As organizações podem publicar um servidor de Acesso para Cliente para permitir que os usuários acessem sua caixa de correio primária usando o Outlook em Qualquer Lugar, sem requerer uma conexão VPN. Se o acesso VPN for requerido para acessar a caixa de correio primária do usuário localizada em um servidor local, esse requisito não mudará.
-ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
+ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132055"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "47255898"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Recursos do cliente no arquivamento do Exchange Online
 
@@ -45,12 +45,13 @@ A tabela a seguir lista os clientes suportados pelo Arquivamento do Exchange Onl
   
 |**Cliente**|**Suporte EOA**|
 |:-----|:-----|
-|Outlook 2010 e posterior  <br/> |Oferece suporte para os recursos mais recentes no Arquivamento do Exchange Online.<sup>1</sup> <br/> |
-|Outlook 2007  <br/> |Suportado para usar com o Arquivamento do Exchange Online.<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |Incompatível  <br/> |
-|Outlook para Mac 2011  <br/> |Incompatível  <br/> |
+|Outlook 2013 e posterior  <br/> |Oferece suporte para os recursos mais recentes no Arquivamento do Exchange Online.<sup>1</sup> <br/> |
+|Outlook 2010  <br/> |Oferece suporte aos recursos mais recentes no arquivamento do Exchange Online até Oct. 13, 2020|
+|Outlook 2007  <br/> |Sem suporte |
+|Outlook 2003  <br/> |Sem suporte  <br/> |
+|Outlook para Mac 2011  <br/> |Sem suporte  <br/> |
 |Outlook para Mac  <br/> |Com suporte para uso com o arquivamento do Exchange Online. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008 Web Services Edition  <br/> |Incompatível  <br/> |
+|Microsoft Office Entourage 2008 Web Services Edition  <br/> |Sem suporte  <br/> |
 |IMAP e POP  <br/> |Sem suporte  <br/> |
 |Exchange ActiveSync (dispositivos móveis)  <br/> |Sem suporte  <br/> |
    
