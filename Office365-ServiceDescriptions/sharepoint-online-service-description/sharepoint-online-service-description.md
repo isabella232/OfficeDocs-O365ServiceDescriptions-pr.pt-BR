@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Veja quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131025"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300505"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -34,7 +34,7 @@ Para ver quais planos incluem o SharePoint, [poderosas ferramentas para dar supo
 
 Para saber mais sobre as diferenças dos recursos do SharePoint para clientes de nuvem do governo dos EUA, confira [SharePoint para ambientes do governo dos EUA](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
-## <a name="whats-new"></a>Novidades
+## <a name="whats-new"></a>O que há de novo
 
 Para obter informações sobre os recursos mais recentes que estão sendo lançados, consulte [What ' s New in SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -52,7 +52,7 @@ Se você comprar um plano e criar um site que usa recursos da empresa, os convid
 
 O OneDrive no Microsoft 365 é o armazenamento online para usuários individuais em uma organização. Aqui, as pessoas podem armazenar, sincronizar e compartilhar seus arquivos de trabalho entre vários dispositivos com facilidade e segurança. O OneDrive está incluído no SharePoint e também pode ser adquirido como um plano autônomo. Para saber quanto armazenamento do OneDrive acompanha cada plano, consulte a [Descrição do serviço do onedrive](../onedrive-for-business-service-description.md).
 
-## <a name="apps"></a>Apps
+## <a name="apps"></a>Aplicativos
 
 Para sincronizar os arquivos do SharePoint em um computador, os usuários podem usar o [aplicativo de sincronização do onedrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) para Windows ou Mac. Para obter informações sobre a disponibilidade de recursos no aplicativo de sincronização, consulte a [Descrição do serviço do onedrive](/office365/servicedescriptions/onedrive-for-business-service-description). 
 
@@ -97,13 +97,13 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Migração: ferramenta de migração do SharePoint](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Migração: Gerenciador de migração](/sharepointmigration/mm-get-started)
 - [Migração: ferramenta de avaliação de migração do SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-- [Migração: mover.Io](https://mover.io/). Disponível atualmente somente para clientes na América do Norte.
+- [Migração: mover.Io](https://mover.io/). Agora disponível em todo o mundo.
 - [Multigeográfico (residência de dados)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Com um complemento que exige um mínimo de 500 licenças da Microsoft. Entre em contato com seu representante da Microsoft para obter detalhes.
 - [Provisionamento de site de programação](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Substituição de site raiz](/sharepoint/modern-root-site)
 - [Restaurar sites excluídos](/sharepoint/restore-deleted-site-collection)
 - [Centro de administração do SharePoint](/sharepoint/get-started-new-admin-center). As organizações com profissionais de primeira linha precisam de pelo menos um usuário corporativo para acessar o centro de administração.
-- [Verificador de modernização do SharePoint](/sharepoint/dev/transform/modernize-scanner)
+- [Scanner de modernização do SharePoint](/sharepoint/dev/transform/modernize-scanner)
 - [Shell de gerenciamento do SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). As organizações com profissionais de primeira linha precisam de pelo menos um usuário corporativo para acessar o centro de administração.
 - [Governança de site](/sharepoint/governance-overview) 
 - [Repositório de termos-metadados gerenciados](/sharepoint/managed-metadata)
@@ -137,7 +137,7 @@ O SharePoint integra-se com os recursos avançados de segurança e conformidade 
 - [Barreiras de informações](/microsoft-365/compliance/information-barriers)
 - [Proteção Avançada contra Ameaças do Office 365 (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Rótulos e políticas de retenção](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [Rótulos de confidencialidade](/microsoft-365/compliance/sensitivity-labels)
+- [Rótulos de confidencialidade ](/microsoft-365/compliance/sensitivity-labels)
 - [Auditoria unificada](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (auditoria de usuário e atividade de administração do SharePoint)
 
 Para obter informações sobre a [proteção de informações do Azure](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection), consulte os [requisitos para a proteção de informações do Azure](/azure/information-protection/requirements)
@@ -167,7 +167,7 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Biblioteca de ativos da organização](/sharepoint/organization-assets-library)
 - [Notícias da organização](/sharepoint/organization-news-site)
 - [Aprovação de página](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Páginas](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Gerenciamento de registros
 - [Lixeira](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Aplicativo móvel do SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade de segurança &amp; foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501700"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300525"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -41,7 +41,7 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 |[Rótulos de sensibilidade manuais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Não | Não  |Não   | Sim | Sim | Sim | Não  |
 |Rótulos de confidencialidade automático| Não | Não  |Não  | Não | Não | Sim<sup>13</sup> | Não  |
 |[Barreiras de informações](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não  |
-|[Governança de informações](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
+|[Governança de informações](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Sim<sup>11</sup>   |Sim<sup>11</sup>   |Sim<sup>11</sup>   |Sim   |Sim   |Sim   |Sim<sup>11</sup>   |
 |[Governança avançada de informações](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 |[Pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
 |[ocorrências de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |

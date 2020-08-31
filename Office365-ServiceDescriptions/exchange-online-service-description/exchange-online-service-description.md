@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: cde2f691a010b12c42e774db7987a32efed50e1a
-ms.sourcegitcommit: fe1417a3228a5015e65a252f559e8c357d647d46
+ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46573969"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300515"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -79,7 +79,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 |Grupos de função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Diretivas de atribuição de função|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Política e conformidade de mensagens](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Arquivamento de Caixas de Correio baseadas no Exchange Online| Não|Não|Sim|Sim|Sim|Sim|Sim|Não|
+|Arquivamento de Caixas de Correio baseadas no Exchange Online| Não|Não|Sim|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Não|
 |Arquivamento baseado em nuvem de caixas de correio no local|Sim <sup>1</sup>|Sim<sup>1</sup>|Não|Não|Sim|Sim|Sim|Não|
 |Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Políticas de retenção, rótulos e marcas manuais |Não|Não|Não|Não|Sim|Sim|Sim|Sim|
@@ -183,7 +183,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 <sup>6</sup> o exchange server 2013 tem a maioria dos mesmos recursos antispam internos que o exchange Server 2010. Para obter informações sobre os benefícios da filtragem de spam hospedado do Exchange nas ofertas locais, consulte [benefícios de recursos antispam no Exchange Online Protection no Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
 <sup>7</sup> acessível apenas via acesso direto à interface de gerenciamento do centro de administração do Exchange (Eat). <br/>
 <sup>8</sup> o Exchange Server 2013 usa apenas o mecanismo antimalware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. <br/>
-<sup>9</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa.  <br/>
+<sup>9</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso inativo de caixa de correio ou arquivo morto.<br/>
 <sup>10</sup> o SharePoint deve ser implantado na organização local do Exchange. <br/>
 <sup>11</sup> o SharePoint Online deve ser incluído no plano de assinatura. <br/>
 <sup>12</sup> há suporte para pop, mas não para IMAP. <br/>
