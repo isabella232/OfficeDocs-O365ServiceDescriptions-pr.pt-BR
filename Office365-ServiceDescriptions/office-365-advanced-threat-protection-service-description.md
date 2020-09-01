@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
+ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132358"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318938"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -32,7 +32,7 @@ Veja a seguir as principais maneiras de usar a ATP para proteção de mensagens:
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilidade de proteção avançada contra ameaças (ATP) do Office 365
 
-A ATP está incluída no Office 365 Enterprise e5, no Office 365 Education e no Microsoft 365 Business Premium.
+O plano 2 do Office 365 ATP está incluído no Office 365 e5, no Office 365 a5 e no Microsoft 365 e5. O Plano 1 do Office 365 ATP está incluído no Microsoft 365 Business Premium.
 
 Você pode adicionar a ATP aos seguintes planos de assinatura do Exchange e do Microsoft 365:
 
@@ -78,12 +78,13 @@ A ATP pode ser usada com qualquer agente de transferência de email SMTP, como o
 
 Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado, ele normalmente refere-se à família de serviços do Office 365 Enterprise.
 
-|**Recurso**|**Plano ATP 1**<br>(anteriormente ATP autônomo)|**Plano ATP 2**<br>(anteriormente inteligência de ameaças <br>autônomo| Office 365 Enterprise E5|
+|**Recurso**|**Plano ATP 1**<br>(anteriormente ATP autônomo)|**Plano ATP 2**<br>(anteriormente inteligência de ameaças <br>autônomo| Segurança da Microsoft 365 E5/e5|
 |:-----|:-----|:-----|:-----|
 |*Configuração, proteção e detecção*|
 |[Anexos Seguros](#safe-attachments)|Sim|Sim|Sim|
 |Anexos seguros no Teams|Sim|Sim|Sim|
 |[Links Seguros](#safe-links)|Sim|Sim|Sim|
+|[Documentos seguros](#safe-documents)|Não|Não|Sim|
 |Links seguros no Teams|Sim|Sim|Sim|
 |[ATP para SharePoint, OneDrive e Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sim|Sim|Sim|
 |[Políticas anti-phishing](#anti-phishing-policies)|Sim|Sim|Sim|
@@ -92,7 +93,7 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |[Controladores de Ameaças](#threat-trackers)|Não|Sim|Sim|
 |Investigação de ameaças (investigação avançada de ameaças)|[Detecções em tempo real](#real-time-detections)|[Explorador](#explorer)|[Explorador](#explorer)|
 |[Resposta de incidente automatizada](#automated-incident-response)|Não|Sim|Sim|
-|[Simulador de ataque](#attack-simulator)|Não|Sim|Sim|
+|[Simulador de Ataque](#attack-simulator)|Não|Sim|Sim|
 
 > [!TIP]
 > Deseja uma lista de diferenças baixáveis entre o Office 365 ATP Plan 1 e o plano 2? [Obter o PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf). 
@@ -123,13 +124,32 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 > [!NOTE]
 > Os usuários devem ser licenciados para a ATP <sup>\*</sup> , devem ser incluídos nas políticas de links seguros de ATP e devem estar conectados em seus dispositivos para que a proteção seja realizada.
 >
-> <sup>\*</sup>Para licenças ATP em toda a organização (por exemplo, ATP_ENTERPRISE_FACULTY), você não precisa atribuir licenças ATP a usuários individuais.
+> <sup>\*</sup> Para licenças ATP em toda a organização (por exemplo, ATP_ENTERPRISE_FACULTY), você não precisa atribuir licenças ATP a usuários individuais.
 >
 > Para obter mais informações sobre a proteção de links seguros de ATP, confira [como os links seguros de ATP funcionam com URLs em documentos do Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
 
+### <a name="safe-documents"></a>Documentos seguros
+
+O recurso [documentos seguros de ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) usa a [proteção avançada contra ameaças do Microsoft defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para verificar documentos e arquivos abertos no [modo de exibição protegido](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
+
+O que você precisa saber antes de começar?
+
+- Agora, os documentos seguros estão disponíveis para usuários com o Office versão 2004 (12730. x) ou mais. Esse recurso está desativado por padrão e deverá ser habilitado pelo administrador de segurança.
+
+- Este recurso está disponível apenas para usuários com a licença de segurança do Microsoft 365 E5 ou do Microsoft 365 E5 (não incluída nos planos ATP do Office 365).
+
+- Word, Excel, PowerPoint e Visio no Windows, bem como aplicativos do Office em dispositivos iOS e Android
+
+- Canais e chats do Microsoft Teams
+
+> [!NOTE]
+> Os usuários devem ser licenciados para a Microsoft 365 E5 ou para a segurança do Microsoft 365 E5 <sup>\*</sup> , devem ser incluídos nas políticas de documentos seguros de ATP e devem estar conectados em seus dispositivos para que a proteção seja estabelecida.
+>
+> Para obter mais informações sobre a proteção de documentos seguros de ATP, consulte [documentos seguros no Microsoft 365 E5](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs).
+
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP para SharePoint, OneDrive e Microsoft Teams
 
-[ATP para SharePoint, onedrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) ajuda a detectar e bloquear arquivos identificados como mal-intencionados em sites de equipe e bibliotecas de documentos. Além disso, a proteção de links seguros de ATP agora está disponível nos canais e chats do Microsoft Teams.
+[ATP para SharePoint, onedrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  ajuda a detectar e bloquear arquivos identificados como mal-intencionados em sites de equipe e bibliotecas de documentos. Além disso, a proteção de links seguros de ATP agora está disponível nos canais e chats do Microsoft Teams.
 
 ### <a name="anti-phishing-policies"></a>Políticas anti-phishing
 
@@ -163,6 +183,6 @@ Os [rastreadores de ameaças](https://docs.microsoft.com/microsoft-365/security/
 
 Recursos de [resposta de incidente automatizado](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) (Air) disponíveis no Office 365 ATP Plan 2 permite que você execute processos de investigação automatizados em resposta a ameaças bem conhecidas que existem hoje. Por meio de determinadas tarefas de investigação, a equipe de operações de segurança pode operar de forma mais eficiente e eficaz. As ações de correção, como excluir mensagens de email mal-intencionadas, são tomadas após a aprovação da equipe de operações de segurança. Para saber mais, veja [como o Air funciona no Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office).
 
-### <a name="attack-simulator"></a>Simulador de ataque
+### <a name="attack-simulator"></a>Simulador de Ataque
 
 O [simulador de ataques](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) permite que os usuários autorizados executem cenários de ataque realísticos em sua organização. Vários tipos diferentes de ataques estão disponíveis, incluindo o nome de exibição de um ataque de spear-phishing, um ataque de irrigação de senha e um ataque de senha de força bruta.

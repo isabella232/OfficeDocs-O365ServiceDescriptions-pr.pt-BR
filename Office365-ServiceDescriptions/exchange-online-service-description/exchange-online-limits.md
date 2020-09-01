@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 9c8554f8f995e00058fb5c3bafe915d328ba9c53
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: ac20cda83afbc261035ebd2307660a6e62c872ce
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798387"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315362"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -466,7 +466,7 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, regras 
 
 - **Tamanho máximo de uma regra de transporte individual** O número máximo de caracteres que podem ser usados em uma única regra de transporte. Os caracteres são usados nas condições, exceções e ações.
 
-- **Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte** O número total de caracteres usados por todas as expressões regulares em todas as condições de regras de transporte e exceções na organização. Você pode ter algumas regras que usam expressões regulares longas e complexas ou pode ter muitas regras que usam expressões regulares simples.
+- **Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte** O número total de caracteres usados incluindo todas as expressões regulares em todas as condições e exceções da regra de transporte na organização. Você pode ter algumas regras que usam expressões regulares longas e complexas ou pode ter muitas regras que usam expressões regulares simples.
 
 - **Limites de verificação para conteúdo de anexos** As condições de regra de transporte permitem que você examine o conteúdo de anexos de mensagens, mas apenas o primeiro 1 MB do texto extraído de um anexo é inspecionado. Esse limite de 1 MB refere-se ao texto extraído do anexo, não o tamanho do arquivo do anexo. Por exemplo, um arquivo de 2 MB pode conter menos de 1 MB de texto, para que todo ele seja inspecionado.
 

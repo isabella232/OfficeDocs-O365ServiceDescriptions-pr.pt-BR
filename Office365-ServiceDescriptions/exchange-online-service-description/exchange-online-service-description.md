@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300515"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315372"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -144,7 +144,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 |Outlook para Windows <sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| Não|
 |Outlook na Web<sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Outlook para Mac<sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| Não|
-|Outlook para iOS e Android<sup>21</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Outlook para iOS e Android<sup>21</sup>|Sim<sup>25</sup>|Sim<sup>25</sup>|Sim|Sim|Sim|Sim|Sim|Sim|
 |Exchange ActiveSync|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Mobilidade básica e segurança para o Microsoft 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |POP e IMAP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>12</sup>|
@@ -199,6 +199,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 <sup>22</sup> para obter mais informações, consulte [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> o suporte da um do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCS operado pelo cliente terminará em abril de 2019. Consulte o blog [da equipe do Exchange descontinuando o suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) para obter mais informações. <br/>
 <sup>24</sup> um usuário F3 não pode adicionar representantes à sua própria caixa de correio, mas eles podem acessar outra caixa de correio (incluindo caixas de correio compartilhadas) e executar qualquer ação que tenha sido delegada a elas.
+<sup>25</sup> uma assinatura para o Microsoft 365 aplicativos para empresas também é necessária para o exchange server 2013 e o exchange server 2016.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilidade de recursos nos planos autônomos do Exchange Online
 
