@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315372"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337857"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -102,7 +102,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|Sim|Não|Não|Não|Não|Sim|Não|
-|**[Fluxo de emails](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -198,9 +198,9 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 <sup>21</sup> a tabela indica se o cliente funciona ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos. <br/>
 <sup>22</sup> para obter mais informações, consulte [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> o suporte da um do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas do SBCS operado pelo cliente terminará em abril de 2019. Consulte o blog [da equipe do Exchange descontinuando o suporte para controladores de borda de sessão na Unificação de mensagens do Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) para obter mais informações. <br/>
-<sup>24</sup> um usuário F3 não pode adicionar representantes à sua própria caixa de correio, mas eles podem acessar outra caixa de correio (incluindo caixas de correio compartilhadas) e executar qualquer ação que tenha sido delegada a elas.
+<sup>24</sup> um usuário F3 não pode adicionar representantes à sua própria caixa de correio, mas eles podem acessar outra caixa de correio (incluindo caixas de correio compartilhadas) e executar qualquer ação que tenha sido delegada a elas.<br/>
 <sup>25</sup> uma assinatura para o Microsoft 365 aplicativos para empresas também é necessária para o exchange server 2013 e o exchange server 2016.
-  
+
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilidade de recursos nos planos autônomos do Exchange Online
 
 |**Recurso**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
@@ -236,7 +236,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 |Customize antimalware policies|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|
-|**[Fluxo de emails](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
+|**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Não|Não|Sim|Sim|Sim|
@@ -282,6 +282,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 |SMTP|Sim|Sim|Sim|Sim|Sim|
 |Suporte a aplicativos EWS|Sim|Sim|Sim|Sim|Não|
 |Outlook para Mac|Sim|Sim|Sim|Sim|Não|
+|Outlook para iOS e Android<sup>21</sup>|Sim<sup>25</sup>|Sim<sup>25</sup>|Sim|Sim|Sim|
 |**[Serviços de mensagens de voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (Plano 1)**|**Exchange Online (Plano 2)**|**Quiosque do Exchange Online**|
 |Caixa postal|Sim|Sim|Não|Sim|Não|
 |Interoperabilidade de caixa postal de terceiros|Sim|Sim|Sim|Sim|Sim|
@@ -330,4 +331,5 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 <sup>21</sup> algumas Web Parts e suplementos de terceiros podem não estar disponíveis. <br/>
 <sup>22</sup> para descoberta eletrônica, você precisa de uma consulta separada para o local vs. Cloud. <br/>
 <sup>23</sup> o quiosque do Exchange Online não oferece direitos de acesso para utilização com os servidores locais. Para estar em conformidade, o cliente deve comprar ou ter comprado previamente as CALs apropriadas ou atualizar para um SKU Enterprise, que fornece esses direitos de acesso. <br/>
-<sup>24</sup> os grupos da Microsoft 365 estão disponíveis com funcionalidade reduzida.
+<sup>24</sup> os grupos da Microsoft 365 estão disponíveis com funcionalidade reduzida.<br/>
+<sup>25</sup> uma assinatura para o Microsoft 365 aplicativos para empresas também é necessária para o exchange server 2013 e o exchange server 2016.
