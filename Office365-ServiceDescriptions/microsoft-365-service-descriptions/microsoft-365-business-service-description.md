@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business Premium é uma solução integrada que reúne a melhor produtividade do setor com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. Esta descrição de serviço descreve as opções e os recursos do plano.
-ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
-ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
+ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
+ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45388107"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "47947825"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrição do serviço Microsoft 365 Business Premium
 
@@ -32,7 +32,7 @@ O Microsoft 365 Business Premium inclui essencialmente todos os recursos dispon�
 |SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Teams <br/> |Sim <br/> |Sim <br/> |
-|Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |
+|Office na Web  <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicativos do Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Sim  <br/> |Sim  <br/> |
 |Yammer Enterprise  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft Bookings  <br/> |Sim  <br/> |Sim  <br/> |
@@ -89,7 +89,7 @@ O Microsoft 365 Business Premium inclui essencialmente todos os recursos dispon�
 
 |||
 |:-----|:-----|
-|**Gerenciamento do Windows 10 pro** <br/>Se você tiver dispositivos licenciados para o Windows 7 e o 8,1 Professional, a Microsoft 365 Business Premium fornecerá uma atualização para o Windows 10 pro. <sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
+|**Gerenciamento do Windows 10 pro** <br/>Se você tiver dispositivos licenciados para Windows 7 e 8,1 Professional, o Microsoft 365 Business Premium fornecerá uma atualização para o Windows 10 pro.<sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Implantação simplificada com o Windows AutoPilot  <br/> |Sim  <br/> |
 |Ativação de assinatura  <br/> |Sim  <br/> |
 |Controle organizacional da tela do dispositivo em ociosidade  <br/> |Sim  <br/> |
@@ -113,4 +113,4 @@ O Microsoft 365 Business Premium inclui essencialmente todos os recursos dispon�
 <sup>6</sup> este plano vem com o Microsoft Stream Plan 2, que inclui o portal de vídeo, a pesquisa de fala e a transcrição de texto, a pesquisa profunda e a detecção de face.<br/>
 <sup>7</sup> a Microsoft 365 vem com o Office 365 Advanced Threat Protection plano 1. Para obter mais informações, consulte [recursos de conformidade e segurança do Microsoft 365 Business Premium](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
 <sup>8</sup> os assinantes do Microsoft 365 Business Premium estão licenciados para usar recursos completos do Intune para IOS, Android, MacOS e outros gerenciamento de dispositivos de plataforma cruzada. Recursos não disponíveis no centro de administração no Microsoft 365 Business Premium, como gerenciamento de aplicativos de terceiros e configuração de perfis WiFi, certificados VPN, etc., podem ser gerenciados no console do Intune completo.</br>
-<sup>9</sup> se você tiver dispositivos licenciados para Windows 7 e 8,1 Professional, o Microsoft 365 Business Premium fornecerá uma atualização para o Windows 10 pro. Com o Microsoft 365 Business premium você não só obtém os [recursos de segurança do Microsoft defender que estão habilitados no Windows pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), você também obtém acesso a recursos premium, como proteção de rede para ameaças baseadas na Web e regras de prevenção de invasão de host para reduzir o ransomware. Ao configurar sua conta do Microsoft 365 Business Premium, você seleciona proteção de aplicativos e definições de configuração de dispositivo. Essas configurações determinam as políticas aplicadas automaticamente aos dispositivos quando ingressam no Azure Active Directory.</br>
+<sup>9</sup> se você tiver dispositivos licenciados para Windows 7 e 8,1 Professional, o Microsoft 365 Business Premium fornecerá uma atualização para o Windows 10 pro. No entanto, essa licença não cobre o Windows 7,1 ou 8 Home Edition com o Windows 10 pro. Com o Microsoft 365 Business premium você não só obtém os [recursos de segurança do Microsoft defender que estão habilitados no Windows pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), você também obtém acesso a recursos premium, como proteção de rede para ameaças baseadas na Web e regras de prevenção de invasão de host para reduzir o ransomware. Ao configurar sua conta do Microsoft 365 Business Premium, você seleciona proteção de aplicativos e definições de configuração de dispositivo. Essas configurações determinam as políticas aplicadas automaticamente aos dispositivos quando ingressam no Azure Active Directory.</br>
