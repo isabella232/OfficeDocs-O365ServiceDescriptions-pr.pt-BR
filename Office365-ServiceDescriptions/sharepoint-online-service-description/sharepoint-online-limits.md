@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Saiba mais sobre os limites do SharePoint para o Microsoft 365 e planos autônomos.
-ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
-ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
+ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
+ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46649591"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "47962090"
 ---
 # <a name="sharepoint-limits"></a>Limites do Microsoft Office SharePoint Online
 
@@ -49,7 +49,7 @@ Uma lista pode ter até 30 milhões itens e uma biblioteca pode ter até 30 milh
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Permissões exclusivas para itens em uma lista ou biblioteca
 
-O limite com suporte é de 50.000 itens com permissão exclusiva, mas o limite geral recomendado é 5.000. Fazer alterações em mais de 5.000 itens com permissões exclusivas por vez leva mais tempo. Para listas grandes, design para ter o menor número possível de permissões exclusivas.
+O limite permitido é de 50.000 itens com permissão exclusiva, mas o limite geral recomendado é 5.000. Fazer alterações em mais de 5.000 itens com permissões exclusivas por vez leva mais tempo. Para listas grandes, design para ter o menor número possível de permissões exclusivas.
 
 Outro limite é de 5.000 atribuições de função por item com permissão exclusiva. 
 

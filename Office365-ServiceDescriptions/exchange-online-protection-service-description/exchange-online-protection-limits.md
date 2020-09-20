@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Os seguintes limites existem atualmente para o Exchange Online Protection. Esses limites não são configuráveis, a menos que o contrário seja especificado.
-ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132995"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134048"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites do Exchange Online Protection
 
@@ -26,6 +26,8 @@ Os seguintes limites existem atualmente para o Exchange Online Protection. Esses
 > Para obter mais informações sobre limites no Exchange Online, consulte [limites do Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Os limites de regras de transporte também se aplicam aos clientes do EOP autônomo. Os limites de taxas de destinatários e de taxas de mensagens para o Exchange Online não se aplicam aos clientes do EOP autônomo. 
   
 - **Limite de domínios** Você pode adicionar até 900 domínios por locatário. Os subdomínios podem ser incluídos neste limite de 900 ou, caso necessário, como parte de uma opção pega-tudo, podem corresponder a subdomínios. Para saber mais, confira [Gerenciar domínios aceitos no EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+
+- **Limite de domínio remoto** Você pode adicionar até 200 domínios remotos por locatário.
     
 - **Limite de tamanho de mensagens** O tamanho máximo das mensagens para clientes do EOP autônomo, incluindo anexos, é de 150 MB. 
     

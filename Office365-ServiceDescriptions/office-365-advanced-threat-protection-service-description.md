@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: A proteção avançada contra ameaças do Microsoft Office 365 (ATP) é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malware e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
-ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
+ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318938"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134038"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descrição do serviço da Proteção Avançada contra Ameaças do Office 365
 
@@ -115,9 +115,9 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
 - Microsoft 365 aplicativos para empresas no Windows ou Mac
 
-- Office para a Web (Word para a Web, Excel para a Web, PowerPoint para a Web e OneNote para a Web)
+- Office na Web (Word para a Web, Excel para a Web, PowerPoint para a Web e OneNote para a Web)
 
-- Word, Excel, PowerPoint e Visio no Windows, bem como aplicativos do Office em dispositivos iOS e Android
+- Word, Excel e PowerPoint no Windows
 
 - Canais e chats do Microsoft Teams
 
@@ -138,7 +138,7 @@ O que você precisa saber antes de começar?
 
 - Este recurso está disponível apenas para usuários com a licença de segurança do Microsoft 365 E5 ou do Microsoft 365 E5 (não incluída nos planos ATP do Office 365).
 
-- Word, Excel, PowerPoint e Visio no Windows, bem como aplicativos do Office em dispositivos iOS e Android
+- Word, Excel, PowerPoint e Visio no Windows, bem como os aplicativos do Office em dispositivos iOS e Android
 
 - Canais e chats do Microsoft Teams
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft 365 e o Office 365 estão disponíveis em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos, incluindo os planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 20982db7e0b858d6220e79871e9a2933957dfa7f
-ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
+ms.openlocfilehash: 4cd10893dd4e04970cd16bdbee829fdc0448cdae
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47337847"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48133998"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrição dos serviços das plataformas Microsoft 365 e Office 365
 
@@ -108,7 +108,7 @@ Vários dos planos do Microsoft 365 para empresas têm complementos que você po
 |Microsoft Stream  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim <br/> |
-|Office Delve  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
+|Microsoft Delve  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Grupos do Microsoft 365  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Vídeo do Office 365  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>11</sup> <br/> |
 |Bloco de Anotações de Classe  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>13</sup> <br/> |Não  <br/> |
@@ -225,4 +225,4 @@ Vários dos planos do Microsoft 365 para empresas têm complementos que você po
 <br/><sup>18</sup> para obter mais informações, confira [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>19</sup> inclui os recursos do Azure Active Directory descritos na coluna **aplicativos do Office 365** na página de [preços do Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Você deve adicionar o Azure Active Directory Plan 1 ou o plano 2, o Enterprise Mobile Security ou o Microsoft 365 E3 ou E5 para obter os recursos premium do Azure AD.<br/>
 <sup>20</sup> o email de resumo é fornecido automaticamente para todos os usuários do Exchange Online. Para obter mais informações, consulte [Configure briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>21</sup> para obter detalhes do recurso, consulte a [Descrição do serviço do Microsoft Project](../project-online-service-description/project-online-service-description.md). Os usuários recebem acesso de direitos limitados ao Project para a Web. Esses direitos são restritos para uso apenas com o projeto do aplicativo Web e apenas para locatários que têm uma licença do plano de projeto 1, plano de projeto 3 ou Project Plan 5. Esses direitos não concedem acesso a aplicativos de plataforma de energia ou outros conjuntos de dados, o cliente de desktop do Project online ou o Project online.
+<sup>21</sup> os usuários recebem acesso somente para exibição ao Project para a Web. Esses direitos são restritos para uso apenas com o projeto do aplicativo Web e apenas para locatários que têm uma licença do plano de projeto 1, plano de projeto 3 ou Project Plan 5. Esses direitos não concedem acesso a aplicativos de plataforma de energia ou outros conjuntos de dados, o cliente de desktop do Project online ou o Project online. Para obter detalhes do recurso, consulte a [Descrição do serviço do Microsoft Project](../project-online-service-description/project-online-service-description.md).

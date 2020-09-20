@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Microsoft 365 e do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: eee5117fd3279d9989796c9513e105e6003e8495
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+ms.openlocfilehash: ab28bb301e105118ce058102f6cdda42d645f367
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255888"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134008"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -30,8 +30,8 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Serviços** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Plataforma do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft 365 Apps para Grandes Empresas  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Office na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Microsoft 365 Apps para empresas  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Exchange Online  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Sim<sup>3</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -80,10 +80,10 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |Office 365 Cloud App Security  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Intune para educação<sup>8</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Advanced Threat Analytics  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Windows Defender Antivírus  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
+|Antivírus Microsoft defender  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção de dispositivo  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
 |**Segurança avançada** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education a5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
+|Proteção Avançada contra Ameaças do Office 365  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |
 |Cloud App Security  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Proteção avançada contra ameaças do Microsoft Defender  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>13</sup>  <br/> |
