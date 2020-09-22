@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: O Microsoft Teams fornece mensagens instantâneas, colaboração de arquivos e dados, chamadas de áudio e vídeo, reuniões online avançadas, experiências móveis e recursos de Webconferência abrangentes.
-ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
-ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
+ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
+ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46531204"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48175178"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
@@ -22,11 +22,10 @@ O Skype for Business online será desativado no dia 31 de julho de 2021, que foi
 
 A Microsoft continua comprometida com a segurança de seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [central de confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e o centro de acessibilidade do [Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Para sua referência, incluímos esta tabela mestra das assinaturas que permitem aos usuários do Microsoft Teams. Para obter informações detalhadas do plano, confira [encontrar o Microsoft Teams certo para sua empresa](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Para saber mais sobre o Office 365 em planos governamentais, confira [planejamentos governamentais do office 365](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). O Office 365 G1 a G5 inclui acesso a recursos do teams.
+Para sua referência, incluímos esta tabela mestra das assinaturas que permitem aos usuários do Microsoft Teams. Para obter informações detalhadas do plano, confira [encontrar o Microsoft Teams certo para sua empresa](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Para saber mais sobre o Office 365 em planos governamentais, confira [planejamentos governamentais do office 365](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). O Office 365 G1 a G5 inclui acesso a recursos do teams.<br><br>
 
-|||||||||
+| Planos para pequenas empresas | Planos empresariais | Planos de educação | Planos de desenvolvedor |
 |:-----|:-----|:-----|:-----|
-|**Planos para pequenas empresas** <br/> |**Planos empresariais** <br/> |**Planos de educação** <br/> |**Planos de desenvolvedor** <br/> |
 |Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Desenvolvedor do Office 365 <br/> |
 |Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
 |Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
@@ -48,11 +47,10 @@ O Microsoft Teams não está disponível como um serviço autônomo.
 
 ## <a name="feature-category-reference"></a>Referência de categoria de recurso 
 
-Esta tabela lista a disponibilidade de recursos do Microsoft Teams em planos de licenciamento ou instâncias de nuvem. Determinadas limitações se aplicam. Confira as notas de rodapé para obter mais informações. Esta tabela pode ser alterada sem aviso prévio. Consulte Microsoft 365 Message Center Notifications for Core Service Change Messaging e a [documentação de referência de termos de licenciamento da Microsoft](https://www.microsoft.com/licensing/product-licensing/products).
+Esta tabela lista a disponibilidade de recursos do Microsoft Teams em planos de licenciamento ou instâncias de nuvem. Determinadas limitações se aplicam. Confira as notas de rodapé para obter mais informações. Esta tabela pode ser alterada sem aviso prévio. Consulte Microsoft 365 Message Center Notifications for Core Service Change Messaging e a [documentação de referência de termos de licenciamento da Microsoft](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
-|||||||
+| Recurso | Pequena empresa | Planos empresariais | CCG | GCC-alto | DOD | Educação |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**Pequena empresa** <br/> |**Planos empresariais** <br/> |**GCC** <br/> |**GCC-alto** <br/> |**DOD** <br/> |**Educação** <br/> |
 |Chat  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Teams  <br/> |Sim <br/> |Sim <br/> |Sim <br/> |Sim<sup>1</sup>  <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
 |Canais-padrão  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -64,10 +62,10 @@ Esta tabela lista a disponibilidade de recursos do Microsoft Teams em planos de 
 |Aplicativos, bots, & conectores  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>3</sup>  <br/> |Sim<sup>3</sup>  <br/> |Sim<sup>3</sup>  <br/> |Sim  <br/> |
 |Eventos ao vivo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |No<sup>4</sup>  <br/> |No<sup>4</sup>  <br/> |Sim  <br/> |
 
-<sup>1</sup> o Microsoft Teams em GCC-alto e DOD dão suporte a 2500 Membros em uma equipe individual.<br/>
-<sup>2</sup> o Microsoft Planner não está disponível no momento para o acesso em canais privados.<br/>
-<sup>3</sup> o Microsoft OneNote não está disponível em nuvens DOD. Os aplicativos e a publicação de aplicativos não estão disponíveis nessas nuvens no momento.<br/>
-<sup>4</sup> eventos ao vivo não estão disponíveis em GCC-High ou DOD no momento.<br/>
+> <sup>1</sup>  o Microsoft Teams em GCC-alto e DOD dão suporte a 2500 Membros em uma equipe individual.<br/>
+> <sup>2</sup> o Microsoft Planner não está disponível no momento para o acesso em canais privados.<br/>
+> <sup>3</sup> o Microsoft OneNote não está disponível em nuvens DOD. Os aplicativos e a publicação de aplicativos não estão disponíveis nessas nuvens no momento.<br/>
+> <sup>4</sup> eventos ao vivo não estão disponíveis em GCC-High ou DOD no momento.<br/>
 
 ## <a name="next-steps"></a>Próximas etapas
 

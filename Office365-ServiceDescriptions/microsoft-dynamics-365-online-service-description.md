@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: O Dynamics 365 unifica os recursos de gerenciamento de relacionamento do cliente (CRM) e ERP (planejamento de recursos da empresa) por meio de um pacote de aplicativos para ajudar a gerenciar funções comerciais e fornecer ótimos resultados.
-ms.openlocfilehash: 032d2a1d11390b1c6a3b6f8c439ad6ac956ec1e4
-ms.sourcegitcommit: 4b17f7f6c04dee202bb8b391badb6fdcba5b8dde
+ms.openlocfilehash: 8197a043ab4040f57eea858dad64d9afafe38b29
+ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46505769"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48175168"
 ---
 # <a name="microsoft-dynamics-365-service-description"></a>Descrição do serviço do Microsoft Dynamics 365
 
@@ -26,7 +26,7 @@ Para saber mais sobre os aplicativos do Dynamics 365, confira [Microsoft dynamic
   
 ## <a name="dynamics-365-plans"></a>Planos do Dynamics 365
 
-O Dynamics 365 tem vários planos disponíveis especificamente para atender aos padrões de uso e às necessidades de grandes e pequenas organizações. Os aplicativos do Dynamics 365 também estão disponíveis individualmente.
+O Dynamics 365 tem vários planos disponíveis que foram projetados para atender padrões de uso e as necessidades de organizações de pequeno e grande porte. Os aplicativos do Dynamics 365 também estão disponíveis individualmente.
 
 Para saber mais sobre planos e preços do Dynamics 365, [Dynamics 365 Pricing](https://dynamics.microsoft.com/pricing) Confira guia de [licenciamento do Dynamics 365 e Dynamics 365 (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544).
   
@@ -36,17 +36,16 @@ Para obter informações sobre os termos de licenciamento, condições e informa
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Janelas de tempo de inatividade do serviço Dynamics 365
 
-Janelas de tempo de inatividade para o serviço do Dynamics 365 são definidas da seguinte maneira:
+Janelas de tempo de inatividade para o serviço do Dynamics 365 são definidas da seguinte maneira:<br><br>
   
-|||||
+| Categoria | Impacto/tempo de inatividade | Notificação | Contrato de nível operacional <sup>1</sup>|
 |:-----|:-----|:-----|:-----|
-|**Categoria** <br/> |**Impacto/tempo de inatividade** <br/> |**Notificação** <br/> |**Contrato de nível operacional**<sup>1</sup> <br/> |
 |Semanalmente  <br/> |Sem impacto/nenhum tempo de inatividade  <br/> |Centro de Mensagens  <br/> |48 horas  <br/> |
 |Mensal  <br/> |Sem impacto/nenhum tempo de inatividade  <br/> |Centro de Mensagens  <br/> |48 horas  <br/> |
 |Pacote cumulativo de atualizações  <br/> |Sem impacto/nenhum tempo de inatividade  <br/> |Centro de Mensagens  <br/> |48 horas  <br/> |
 |Atualização principal  <br/> |Agendado pelo cliente e concluído dentro da janela selecionada  <br/> |Centro de Mensagens  <br/> |90 dias  <br/> |
 
-<sup>1</sup> o tempo permitido para a equipe de operações entregar em um conjunto de serviços definido no contrato de nível de serviço. <br/>
+> <sup>1</sup> o tempo permitido para a equipe de operações entregar em um conjunto de serviços definido no contrato de nível de serviço. <br/>
 
 Verifique o [contrato de nível de serviço do Microsoft Online Services (Word doc)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=17583) para obter informações sobre janelas de tempo de inatividade do serviço. Para obter as informações mais recentes, consulte [termos e documentação de licenciamento](https://go.microsoft.com/fwlink/?linkid=272026). 
   
