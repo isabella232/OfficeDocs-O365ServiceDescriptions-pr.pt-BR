@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: O arquivamento do Microsoft Exchange Online é uma solução de arquivamento de classe empresarial baseada em nuvem da Microsoft 365 para organizações que implantou o Microsoft Exchange Server 2019, o Microsoft Exchange Server 2016, o Microsoft Exchange Server 2013, o Microsoft Exchange Server 2010 (SP2 e posterior) ou inscrever-se em determinados planos do Exchange Online ou Microsoft 365. O Arquivamento do Exchange Online auxilia essas organizações com o seus competitivos arquivamento, conformidade, regulamentação, e eDiscovery ao mesmo tempo em que simplifica a infraestrutura no local e, desse modo, reduz custos e facilita os encargos de TI.
-ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131515"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214300"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrição do serviço de arquivamento do Exchange Online
 
@@ -35,9 +35,9 @@ Para comparar recursos entre planos, consulte [poderosas ferramentas para dar su
   
 ## <a name="exchange-online-archiving-plans"></a>Planos de Arquivamento do Exchange Online
 
-Arquivamento do Exchange Online está disponível pelos planos a seguir.
+Arquivamento do Exchange Online está disponível pelos planos a seguir.<br><br>
   
-|**Plano**|**Descrição**|
+| Planejar | Descrição |
 |:-----|:-----|
 |**Arquivamento do Exchange Online para Exchange Server** <br/> |Arquivo morto baseado em nuvem para usuários com caixas de correio primárias no Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 ou Exchange 2010 (SP2 ou posterior).  <br/> Se quiser adicionar um arquivo baseado na nuvem a uma caixa de correio principal localizada em um servidor do Exchange no local, você precisa configurar uma implantação híbrida. Para obter mais informações sobre implantações híbridas, confira [implantações híbridas do Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Arquivamento do Exchange Online para Exchange Server (via Enterprise CAL Suite)** <br/> |Arquivo morto baseado em nuvem para usuários com caixas de correio primárias no Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 ou Exchange 2010 (SP2 ou posterior). Para obter detalhes, consulte [licenças de acesso para cliente e licenças de gerenciamento](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
@@ -50,7 +50,7 @@ Arquivamento do Exchange Online está disponível pelos planos a seguir.
   
 Procurando informações sobre todos os planos do Microsoft 365? O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Para obter informações sobre diferentes planos, incluindo opções de plano autônomo e informações sobre como migrar de um plano para outro, consulte [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Requisitos
+## <a name="requirements"></a>Requirements
 
 Para usar o arquivamento do Exchange Online para o Exchange Server, as caixas de correio do usuário devem residir no Exchange Server 2019, no Exchange Server 2016, no Exchange Server 2013 ou no Exchange Server 2010 (SP2 ou posterior).
   
@@ -75,9 +75,8 @@ Cada usuário que acessa o serviço do Arquivamento do Exchange Online deve ter 
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Disponibilidade de recursos nos planos do Arquivamento do Exchange Online
 
-||||
+| Recurso | Arquivamento do Exchange Online para Exchange Server<sup>1</sup> | Arquivamento do Exchange Online para Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
-|**Recurso** <br/> |**Arquivamento do Exchange Online para Exchange Server<sup>1</sup>**          <br/> |**Arquivamento do Exchange Online para Exchange Online<sup>2</sup>** <br/> |
 |**[Recursos de arquivamento no arquivamento do Exchange Online](archive-features.md)** <br/> |||
 |Caixa de correio de arquivamento  <br/> |Sim  <br/> |Sim  <br/> |
 |Mover mensagens usando a política de arquivamento  <br/> |Sim  <br/> |Sim  <br/> |
