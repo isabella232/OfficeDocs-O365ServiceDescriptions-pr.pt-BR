@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obter informações sobre recursos e requisitos para o Exchange Online Protection. Incluído é uma lista de planos que fornecem proteção do Exchange Online, bem como uma comparação de recursos entre esses planos.
-ms.openlocfilehash: 74a2d3a1af3e369e51e1f9b3b4e1cf5cc981c0d8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d518468f738671980c1d314533b976209d7de124
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132835"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245716"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrição do serviço do Exchange Online Protection
 
@@ -45,9 +45,9 @@ O [Microsoft 365 Roadmap](https://office.microsoft.com/products/office-365-roadm
 
 ## <a name="exchange-online-protection-eop-plans"></a>Planos do Exchange Online Protection (EOP)
 
-O EOP está disponível nos seguintes planos de assinatura:
+O EOP está disponível nos seguintes planos de assinatura:<br><br>
 
-|**Plano**|**Descrição**|
+| Plano | Descrição |
 |:-----|:-----|
 |[EOP autônomo](https://products.office.com/exchange/exchange-email-security-spam-protection)|Um serviço separado baseado em nuvem que protege sua organização de email local.|
 |[Recursos do EOP no Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|A proteção interna para suas caixas de correio hospedadas na nuvem do Exchange Online.|
@@ -78,11 +78,10 @@ Para limites no EOP, consulte [limites do Exchange Online Protection](exchange-o
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Disponibilidade de recursos nos planos da Proteção do Exchange Online (EOP)
 
-Cada recurso é listado abaixo. Para obter informações mais detalhadas sobre os recursos EOP, clique nos links na tabela. Quando o Exchange Online é mencionado, normalmente se refere à família de serviços do Office 365 Enterprise.
+Cada recurso é listado abaixo. Para obter informações mais detalhadas sobre os recursos EOP, clique nos links na tabela. Quando o Exchange Online é mencionado, normalmente se refere à família de serviços do Office 365 Enterprise.<br><br>
 
-|||||
+| Recurso | EOP autônomo | Recursos do EOP no Exchange Online | Exchange Enterprise CAL com Serviços|
 |:-----|:-----|:-----|:-----|
-|**Recurso**|**EOP autônomo**|**Recursos do EOP no <br/> Exchange Online**|**Exchange Enterprise <br/> Cal com serviços**|
 |[Destinatários de email](recipient-domain-and-company-management.md#mail-recipients)|Sim<sup>1</sup>|Sim<sup>1</sup>|Sim|
 |[Permissões do grupo de funções de administrador](recipient-domain-and-company-management.md#admin-role-group-permissions)|Sim<sup>2</sup>|Sim|Sim|
 |[Gerenciamento de domínio](recipient-domain-and-company-management.md#domain-management)|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|

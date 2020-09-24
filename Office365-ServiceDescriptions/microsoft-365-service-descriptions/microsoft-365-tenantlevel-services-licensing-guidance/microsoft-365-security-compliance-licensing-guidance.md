@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214380"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245726"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -168,11 +168,11 @@ Os clientes com o Office 365 E1/a1/E3/a3 e as licenças do Microsoft 365 E3/a3 p
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-O Gerenciador de conformidade é provisionado por padrão para o seu locatário. Os administradores definem as permissões de usuário e atribuem funções para que usuários não-administradores em sua organização possam começar a usar o Gerenciador de conformidade. Para obter mais informações, consulte a [documentação](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles).
+O Gerenciador de conformidade é provisionado por padrão para o seu locatário. Os administradores definem as permissões de usuário e atribuem funções para que usuários não-administradores em sua organização possam começar a usar o Gerenciador de conformidade. Para obter mais informações, consulte [introdução ao Gerenciador de conformidade: definir permissões de usuário e atribuir funções](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-O acesso ao Gerenciador de conformidade é controlado pela definição de permissões de usuário e atribuição de funções. Para obter mais informações, consulte a [documentação](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+O acesso ao Gerenciador de conformidade é controlado pela definição de permissões de usuário e atribuição de funções. Para obter mais informações, consulte [introdução ao Gerenciador de conformidade: definir permissões de usuário e atribuir funções](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
@@ -489,11 +489,11 @@ As barreiras de informação são políticas que um administrador pode configura
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-Os usuários se beneficiam dos recursos avançados de conformidade das barreiras de informação quando estão restritos à comunicação com outras pessoas. Por exemplo:
+Os usuários se beneficiam dos recursos avançados de conformidade das barreiras de informação quando estão restritos à comunicação com outras pessoas. Por exemplo:<br><br>
 
 | Cenário | Quem requer uma licença? |
-|:-------|:------|
-| Dois grupos (grupo 1 e grupo 2) não podem se comunicar uns com os outros (ou seja, os usuários do grupo 1 estão restritos à comunicação com usuários do grupo 2 e os usuários do grupo 2 estão restritos à comunicação com usuários do grupo 1. | Usuários no grupo 1 e no grupo 2 ||
+|:------|:------|:------|
+| Dois grupos (grupo &nbsp; 1 e grupo &nbsp; 2) não podem se comunicar uns com os outros (ou seja, &nbsp; os usuários do grupo 1 estão restritos à comunicação com usuários do grupo &nbsp; 2 e &nbsp; os usuários do grupo 2 estão restritos à comunicação com usuários do grupo &nbsp; 1. | Usuários no grupo &nbsp; 1 e no grupo &nbsp; 2 |
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
