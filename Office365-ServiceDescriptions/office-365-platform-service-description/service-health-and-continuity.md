@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Os administradores da Microsoft podem exibir o status dos serviços e descobrir quando a manutenção é agendada. As informações de integridade do serviço estão disponíveis a qualquer momento ao entrar.
-ms.openlocfilehash: dfa4e462d794a0f0a225f0c4e18695d9e4d2fe67
-ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
+ms.openlocfilehash: 158bf6f436a7353f5c6a5fa847b244d73801cda2
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46649601"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261603"
 ---
 # <a name="service-health-and-continuity"></a>Continuidade e integridade do serviço
 
@@ -25,7 +25,7 @@ Os administradores da Microsoft podem exibir o status dos serviços e descobrir 
 > [!NOTE]
 > Se você estiver usando o Office 365 operado pela 21Vianet, algumas das informações abaixo podem não se aplicar. Em vez disso, confira o [Contrato de Nível de Serviço da 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
-## <a name="view-status-of-services"></a>Exibir status dos serviços
+## <a name="view-status-of-services"></a>Exibir status de serviços
 
 A seção integridade do serviço mostra o status atual do serviço e detalhes sobre interrupções de serviço e interrupções. As informações de manutenção planejadas estão disponíveis no centro de mensagens. Saiba mais em [Exibir o status dos seus serviços](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
@@ -43,45 +43,45 @@ Há dois tipos de notificações sobre os horários em que os serviços podem n�
 
 Mover para um serviço de nuvem não deve significar perder a capacidade de saber o que está acontecendo. Com o Office 365, ele não. Nosso objetivo é transparentes em nossas operações para que você possa monitorar o estado do seu serviço, controlar problemas e ter uma visão histórica da disponibilidade. As tabelas a seguir mostram dados de tempo de atividade em todo o mundo.
 
-<br/>
+**2020**
 
-|**2020** <br/> ||||
+| T1 | Lançamento | T3 | Trimestre |
 |:-----|:-----|:-----|:-----|
-| **T1** <br/> | **Lançamento** <br/> |**T3** <br/> |**Trimestre** <br/> |
 | 99,98% <br/> | 99,99%<br/> | <br/> |<br/> |
 
-<br/>
+<br>
 
-|**2019** <br/> ||||
+**2019**
+
+| T1 | Lançamento | T3 | Trimestre |
 |:-----|:-----|:-----|:-----|
-| **T1** <br/> | **Lançamento** <br/> |**T3** <br/> |**Trimestre** <br/> |
 | 99,97% <br/> | 99,97% <br/> | 99,98% <br/> | 99,98% <br/> |
 
-<br/>
+<br>
 
-|**2018** <br/>||||
+**2018**
+
+| T1 | Lançamento | T3 | Trimestre |
 |:-----|:-----|:-----|:-----|
-| **T1** <br/> | **Lançamento** <br/> |**T3** <br/> |**Trimestre** <br/> |
 | 99,99% <br/> | 99,98% <br/> | 99,97% <br/> | 99,98% <br/> |
 
-<br/>
+<br>
 
-|**2017** <br/> ||||
+**2017**
+
+| T1 | Lançamento | T3 | Trimestre |
 |:-----|:-----|:-----|:-----|
-| **T1** <br/> | **Lançamento** <br/> |**T3** <br/> |**Trimestre** <br/> |
 | 99,99% <br/> | 99,97% <br/> | 99,98% <br/> | 99,99% <br/> |
-
-<br/>
 
 ## <a name="notification-policy"></a>Diretiva de notificação
 
 Quando um incidente de serviço ocorre, a Microsoft reconhece que comunicações oportunas, direcionadas e precisas são essenciais para os clientes. A Microsoft notifica os administradores atualizando o painel de integridade de serviço específico do locatário (SDH) no centro de administração do Microsoft 365. As atualizações de incidentes de serviço são fornecidas em uma cadência por hora ou, se uma cadência diferente for necessária, ela será definida no lançamento de comunicação do SDH. 
   
-## <a name="service-health-communication-channels"></a>Canais de Comunicação do Serviço de Integridade
+## <a name="service-health-communication-channels"></a>Canais de comunicação da integridade do serviço
 
 ### <a name="admin-app"></a>Aplicativo de administração
 
-O aplicativo de administração para administradores de organização fornece a capacidade de se conectar ao status do serviço Microsoft da sua organização em qualquer lugar. Os administradores da Microsoft terão a capacidade de exibir as informações de integridade do serviço e as atualizações de status de manutenção de seus dispositivos móveis. Para saber mais, visite as [Perguntas frequentes do aplicativo de administração](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+O aplicativo de administração para administradores de organização fornece a capacidade de se conectar ao status do serviço Microsoft da sua organização em qualquer lugar. Os administradores da Microsoft terão a capacidade de exibir as informações de integridade do serviço e as atualizações de status de manutenção de seus dispositivos móveis. Para saber mais, visite as [Perguntas frequentes do aplicativo de administração](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pacote de Gerenciamento do Office 365 para Microsoft System Center 2012 R2
 
@@ -89,7 +89,7 @@ O Microsoft System Center é uma plataforma de gerenciamento integrada que ajuda
   
 ### <a name="office-365-service-communications-api"></a>API de Comunicações de Serviço do Office 365
 
-A API de comunicações do serviço do Office 365 permite que você acesse as comunicações do serviço da maneira desejada. Com esta API, você tem a capacidade de criar ou conectar suas ferramentas às comunicações de serviço, simplificando o modo como você monitora o seu ambiente. A API de comunicações de serviço permite monitorar o seguinte no seu ambiente:
+A API de comunicações do serviço do Office 365 permite que você acesse as comunicações do serviço da maneira desejada. Com esta API, você tem a capacidade de criar ou conectar suas ferramentas às comunicações de serviço, simplificando o modo como você monitora o seu ambiente. A API do serviço de comunicações permite que você monitore os seguintes itens no seu ambiente:
   
 - Integridade do serviço em tempo real
     
@@ -101,7 +101,7 @@ Para obter mais informações, consulte a [referência da API de comunicações 
 
 O compromisso da Microsoft com a melhoria contínua envolve a análise de impacto ao cliente de incidentes de serviço não planejados para minimizar a recorrência futura. 
   
-Incidentes de serviço não planejados são definidos como interrupções de serviço de vários locatários que afetam o uso do serviço conforme definido por nossos SLAs de serviço e foram declarados como tal no painel de integridade do serviço.
+Incidentes de serviço não planejados são definidos como interrupções de serviço de vários locatários que afetam o uso do serviço conforme definido por nossos contratos de nível de serviço (SLAs) e foram declarados como tal no painel de integridade do serviço.
   
  Para incidentes de serviço não planejados de impacto do cliente nos quais houve impacto abrangente e notável em um grande número de organizações, uma revisão preliminar do post-incidente (PIR) será fornecida por meio do painel de integridade do serviço dentro de 48 horas de resolução de incidentes, seguida por uma PIR final dentro de cinco dias úteis. O relatório detalhado do PIR inclui: 
   
@@ -115,11 +115,11 @@ Incidentes de serviço não planejados são definidos como interrupções de ser
     
 Para todos os outros incidentes de serviço, o painel de integridade do serviço fornecerá um resumo de feriados de incidentes, incluindo um resumo final do evento, a causa raiz preliminar, as horas de início e de término e detalhando as próximas etapas. Para essa categoria de incidente de serviço, uma PIR não é gerada. 
   
-## <a name="service-continuity"></a>Continuidade do Serviço
+## <a name="service-continuity"></a>Continuidade de serviço
 
 As ofertas da Microsoft são fornecidas por sistemas altamente resilientes que ajudam a manter o desempenho do serviço de pico. As disposições de continuidade de serviço fazem parte do design de sistema. Essas disposições permitem que a Microsoft se recupere rapidamente de eventos inesperados, como falha de hardware ou de aplicativo, corrupção de dados ou outros incidentes que afetam os usuários. Essas soluções de continuidade de serviço aplicam-se também durante paralisações catastróficas (por exemplo, catástrofes naturais ou um incidente dentro de um data center da Microsoft que torna todo o data center inoperável).
   
-Observe que, após a recuperação de interrupções catastróficas, há um período de tempo antes de a redundância completa do data center ser restaurada para o serviço. Por exemplo, quando o Data Center 1 falha, os serviços são restaurados por recursos no Data Center 2. Entretanto, pode haver um período de tempo até que os serviços no Data Center 2 tenham suporte de continuidade de serviço, seja pelos recursos restaurados no Data Center 1 ou por novos recursos no Data Center 3. O [contrato de nível de serviço](service-level-agreement.md) (SLA) da Microsoft se aplica durante esse tempo. O Office 365 operado pela 21Vianet tem um SLA diferente. Saiba mais no [site da 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
+Observe que, após a recuperação de interrupções catastróficas, há um período de tempo antes de a redundância completa do data center ser restaurada para o serviço. Por exemplo, quando o Data Center 1 falha, os serviços são restaurados por recursos no Data Center 2. Entretanto, pode haver um período de tempo até que os serviços no Data Center 2 tenham suporte de continuidade de serviço, seja pelos recursos restaurados no Data Center 1 ou por novos recursos no Data Center 3. O [contrato de nível de serviço](service-level-agreement.md) (SLA) da Microsoft se aplica durante esse tempo. O Office 365 operado pela 21Vianet tem um SLA diferente. Para obter mais informações, consulte o [site da 21vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Garantir a disponibilidade de dados
 
@@ -127,9 +127,9 @@ A Microsoft garante que os dados do cliente estarão disponíveis sempre que for
   
 - **Armazenamento de dados e redundância:** os dados dos clientes são armazenados em um ambiente redundante com recursos de proteção de dados robustos para permitir disponibilidade, continuidade dos negócios e recuperação rápida. Vários níveis de redundância de dados são implementados, variando desde discos redundantes para proteger contra falhas de disco local, a uma replicação de dados contínua, completa e até um data center geograficamente diversificado. 
     
-- **Monitoramento de dados:** Os serviços da Microsoft mantêm altos níveis de desempenho: 
+- **Monitoramento de dados:** Os serviços da Microsoft mantêm altos níveis de desempenho por meio do monitoramento: 
     
-  - **Bancos de dados de monitoramento:**
+  - Bancos de dados
     
   - Processos bloqueados
     
@@ -147,13 +147,13 @@ As equipes de desenvolvimento e operações da Microsoft são complementadas por
   
 A organização de suporte intimamente se alinha com as operações e desenvolvimento de produtos, oferece tempos de resolução rápidos e um canal para ouvir a opinião dos clientes. O feedback dos clientes fornece dados para os processos de planejamento, desenvolvimento e operação.
   
-- **Acompanhamento de problemas online:** os clientes precisam saber que seus problemas serão abordados e precisam ter a possibilidade de acompanhar a resolução em tempo hábil. O Microsoft 365 PAdmin Center ortal fornece uma única interface baseada na Web para suporte. Os clientes podem usar o portal para adicionar e monitorar as solicitações de serviço e receber feedback de equipes de suporte da Microsoft. 
+- **Acompanhamento de problemas online:** os clientes precisam saber que seus problemas serão abordados e precisam ter a possibilidade de acompanhar a resolução em tempo hábil. O centro de administração do Microsoft 365 oferece uma única interface baseada na Web para suporte. Os clientes podem usar o portal para adicionar e monitorar as solicitações de serviço e receber feedback de equipes de suporte da Microsoft. 
     
 - **Auto-ajuda, apoiada pelo suporte da equipe contínua:** A Microsoft oferece uma ampla variedade de recursos de autoajuda e ferramentas que podem ajudar os clientes a resolver problemas relacionados a serviços, sem exigir o suporte da Microsoft. 
     
 Antes de os clientes necessitarem enviar solicitações de serviço, eles podem acessar os artigos da base de conhecimento e de Perguntas frequentes que fornecem ajuda imediata para os problemas mais comuns. Esses recursos são continuamente atualizados com as últimas informações, o que ajuda a evitar atrasos, fornecendo soluções para problemas conhecidos. No entanto, quando surge um problema que precisa da ajuda de um suporte profissional, os membros da equipe estão disponíveis para assistência imediata, por telefone e através do portal de administração, 24 horas por dia, 7 dias por semana.
   
-Saiba mais no tópico [Suporte](support.md). 
+Para obter mais informações sobre suporte, consulte o artigo de [suporte](support.md) . 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

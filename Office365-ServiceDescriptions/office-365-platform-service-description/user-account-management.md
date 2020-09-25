@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: A Microsoft oferece suporte aos seguintes métodos para criar, gerenciar e autenticar usuários.
-ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131655"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261543"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -29,9 +29,9 @@ A Microsoft oferece suporte aos seguintes métodos para criar, gerenciar e auten
   
 Se você precisar de informações sobre as ferramentas que podem ajudá-lo a realizar tarefas administrativas, confira [ferramentas para gerenciar contas da Microsoft](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Para saber como executar tarefas de gerenciamento do dia-a-dia, consulte [tarefas comuns de gerenciamento](https://docs.microsoft.com/office365/admin/manage/manage).
   
-## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Precisa de ajuda para entrar, instalar/desinstalar ou cancelar sua assinatura?
+## <a name="need-help-with-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Precisa de ajuda para entrar, instalar ou desinstalar ou cancelar sua assinatura?
 
-Obter ajuda para [entrar na](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [instalação ou desinstalação do Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [cancelando o Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Obter ajuda com: [entrando na](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [instalação ou desinstalação do Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [cancelando o Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 Para outros problemas, visite o [centro de suporte da Microsoft](https://support.microsoft.com/contactus/). Para suporte para o Office 365 operado pela 21Vianet na China, fale com a [Equipe de suporte técnico da 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Em relação ao Office 365 Germany, fale com a [Equipe de suporte do Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
   
@@ -39,9 +39,9 @@ Para outros problemas, visite o [centro de suporte da Microsoft](https://support
 
 A Microsoft tem dois sistemas que podem ser usados para identidades de usuário:
   
-- **Conta corporativa ou de estudante (identidade de nuvem)** Os usuários recebem credenciais de nuvem do Azure Active Directory, separados de outras credenciais corporativas ou de área de trabalho, para entrar nos serviços de nuvem da Microsoft. Esta é a identidade padrão que recomendamos para minimizar a complexidade da implantação. As senhas de contas corporativas ou de estudante usam a política de senha de Azure Active Directory [](https://docs.microsoft.com/previous-versions/azure/jj943764(v=azure.100)).
+- **Conta corporativa ou de estudante (identidade de nuvem)** -os usuários recebem credenciais de nuvem do Azure Active Directory — separadas de outras credenciais corporativas ou de área de trabalho, para entrar em serviços em nuvem da Microsoft. Esta é a identidade padrão que recomendamos para minimizar a complexidade da implantação. As senhas de contas corporativas ou de estudante usam a política de senha de Azure Active Directory [](https://docs.microsoft.com/previous-versions/azure/jj943764(v=azure.100)).
     
-- **Conta federada (identidade federada)** Para todas as assinaturas em organizações com o Active Directory local que usam o logon único (SSO), os usuários podem entrar nos serviços da Microsoft usando suas credenciais do Active Directory. O Active Directory corporativo armazena e controla a política de senha. Para saber mais sobre o SSO, confira [Mapa do logon único](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100)).
+- **Conta federada (identidade federada)** – para todas as assinaturas em organizações com o Active Directory local que usam o logon único (SSO), os usuários podem entrar nos serviços da Microsoft usando suas credenciais do Active Directory. O Active Directory corporativo armazena e controla a política de senha. Para saber mais sobre o SSO, confira [Mapa do logon único](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100)).
     
 O tipo de identidade afeta a experiência do usuário e as opções de gerenciamento de conta de usuário, bem como hardware e requisitos de software e outras considerações de implantação.
   
@@ -49,27 +49,25 @@ O tipo de identidade afeta a experiência do usuário e as opções de gerenciam
 
 Quando você cria um novo usuário, o nome de entrada e o endereço de email do usuário são atribuídos ao domínio padrão, conforme definido no centro de administração do Microsoft 365. Para saber mais, confira [adicionar seus usuários e domínio](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
-Por padrão, a assinatura usa o \< _company name_\> domínio **. onmicrosoft.com** criado com a conta. \* Você pode adicionar um ou mais domínios personalizados à Microsoft em vez de manter o domínio onmicrosoft.com e pode atribuir usuários para entrar com qualquer um dos domínios validados. O domínio atribuído de cada usuário é o endereço de email que será exibido nas mensagens de email enviadas e recebidas. 
+Por padrão, a assinatura usa o domínio *nome da empresa*<> **. onmicrosoft.com** criado com a conta. Se você estiver usando o Office 365 operado pela 21vianet na China, o domínio padrão será <*CompanyName* > **. onmsChina.cn**. Se você estiver usando o Office 365 Alemanha, o domínio padrão será <*CompanyName* > **. onmicrosoft.de**. Você pode adicionar um ou mais domínios personalizados à Microsoft em vez de manter o domínio **onmicrosoft.com** e pode atribuir usuários para entrar com qualquer um dos domínios validados. O domínio atribuído de cada usuário é o endereço de email que será exibido nas mensagens de email enviadas e recebidas. 
   
 Você pode hospedar até 900 domínios de Internet registrados, cada um representado por um namespace diferente. 
   
-Para organizações usando o logon único, todos os usuários em um domínio devem usar o mesmo sistema de identidade: identidade de nuvem ou identidade federada. Por exemplo, você poderia ter um grupo de usuários que precisa apenas de uma identidade de nuvem porque eles não acessam sistemas locais e outro grupo de usuários que usam o Microsoft e os sistemas locais. Você adicionaria dois domínios ao Office 365, como contractors.contoso.com e staff.contoso.com, e só configurou o SSO para um deles. Um domínio inteiro pode ser convertido da identidade da nuvem para a identidade federada ou da identidade federada para a identidade na nuvem.
+Para organizações usando o logon único, todos os usuários em um domínio devem usar o mesmo sistema de identidade: identidade de nuvem ou identidade federada. Por exemplo, você poderia ter um grupo de usuários que precisa apenas de uma identidade de nuvem porque eles não acessam sistemas locais e outro grupo de usuários que usam o Microsoft e os sistemas locais. Você adicionaria dois domínios ao Office 365, como **Contractors.contoso.com** e **staff.contoso.com**, e só configurou o SSO para um deles. Um domínio inteiro pode ser convertido da identidade da nuvem para a identidade federada ou da identidade federada para a identidade na nuvem.
   
 Para obter mais informações sobre domínios no Office 365, consulte a descrição de serviço de [Domínios](domains.md). 
-  
-\*Se você estiver usando o Office 365 operado pela 21Vianet na China, o domínio padrão é \<companyname\> **. onmsChina.cn**. Se você estiver usando o Office 365 Alemanha, o domínio padrão é \<companyname\> **. onmicrosoft.de**
   
 ## <a name="authentication"></a>Autenticação
 
 Com exceção de sites da Internet para acesso anônimo criado com o SharePoint Online, os usuários devem ser autenticados ao acessar os serviços da Microsoft. 
   
-- **Autenticação moderna** A autenticação moderna traz o logon baseado na Biblioteca de Autenticação do Active Directory (ADAL) para aplicativos clientes no Office entre plataformas. Isso permite os recursos de logon, como a Autenticação de Vários Fatores (MFA), provedores de identidade de terceiros baseada em SAML com aplicativos clientes do Office e cartão inteligente e autenticação baseada em certificado. Ele também elimina a necessidade do Microsoft Outlook de usar o protocolo de autenticação básica. Para obter mais informações, incluindo a disponibilidade da autenticação moderna em aplicativos do Office, consulte [How modernos Authentication Works for office 2013 and office 2016 Client apps](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
+- **Autenticação moderna** – a autenticação moderna traz o logon baseado na biblioteca de autenticação da Microsoft para aplicativos clientes do Office entre plataformas. Isso permite os recursos de logon, como a Autenticação de Vários Fatores (MFA), provedores de identidade de terceiros baseada em SAML com aplicativos clientes do Office e cartão inteligente e autenticação baseada em certificado. Ele também elimina a necessidade do Microsoft Outlook de usar o protocolo de autenticação básica. Para obter mais informações, incluindo a disponibilidade da autenticação moderna em aplicativos do Office, consulte [How modernos Authentication Works for office 2013 and office 2016 Client apps](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
     
     A autenticação moderna é ativada por padrão para o Exchange Online. Para saber como ativar ou desativar o, confira [habilitar a autenticação moderna no Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
     
-- **Autenticação da identidade de nuvem** Os usuários com identidades de nuvem são autenticados pelo tradicional método de desafio/resposta. O navegador da Web é redirecionado para o serviço de entrada da Microsoft, onde você digita o nome de usuário e a senha da sua conta corporativa ou de estudante. O serviço de entrada autentica as credenciais e gera um token de serviço, que o navegador da Web envia para o serviço solicitado e o conecta. 
+- **Autenticação de identidade em nuvem** -os usuários com identidades de nuvem são autenticados usando desafio/resposta tradicional. O navegador da Web é redirecionado para o serviço de entrada da Microsoft, onde você digita o nome de usuário e a senha da sua conta corporativa ou de estudante. O serviço de entrada autentica as credenciais e gera um token de serviço, que o navegador da Web envia para o serviço solicitado e o conecta. 
     
-- **Autenticação de identidade federada** Usuários com identidades federadas são autenticados usando o Serviços de Federação do Active Directory (AD FS) 2.0 ou outros Serviço de Token de Segurança. O navegador da Web é redirecionado para o serviço de entrada da Microsoft, onde você digita sua ID corporativa na forma de um nome de usuário principal (UPN; por exemplo, isabel@contoso.com). O serviço de entrada determina que você é parte de um domínio federado e oferece redirecioná-lo para o servidor de Federação no local para autenticação. Se você estiver conectado à área de trabalho (ingresso no domínio), você é autenticado (usando Kerberos ou NTLMv2) e o serviço de token de segurança local gera um token de logon, que o navegador da Web envia para o serviço de entrada da Microsoft. Usando o token de logon, o serviço de entrada gera um token de serviço que o navegador da web envia para o serviço solicitado e o conecta. Para uma lista de Serviços de Token de Segurança disponíveis, confira [Mapa de logon único](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100)).
+- **Autenticação de identidade federada** -os usuários com identidades federadas são autenticados usando os serviços de Federação do Active Directory (AD FS) 2,0 ou outros serviços de token de segurança. O navegador da Web é redirecionado para o serviço de entrada da Microsoft, onde você digita sua ID corporativa na forma de um nome de usuário principal (UPN), por exemplo: *Isabel@contoso.com*. O serviço de entrada determina que você é parte de um domínio federado e oferece redirecioná-lo para o servidor de Federação no local para autenticação. Se você estiver conectado à área de trabalho (ingresso no domínio), você é autenticado (usando Kerberos ou NTLMv2) e o serviço de token de segurança local gera um token de logon, que o navegador da Web envia para o serviço de entrada da Microsoft. Usando o token de logon, o serviço de entrada gera um token de serviço que o navegador da web envia para o serviço solicitado e o conecta. Para uma lista de Serviços de Token de Segurança disponíveis, confira [Mapa de logon único](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100)).
     
 A Microsoft usa a autenticação baseada em formulários, e o tráfego de autenticação na rede é sempre criptografado com TLS/SSL usando a porta 443. O tráfego de autenticação usa uma porcentagem insignificante de largura de banda para os serviços da Microsoft. 
   
@@ -81,21 +79,21 @@ Com a autenticação multifator, os usuários precisam confirmar uma chamada tel
 
 Para clientes avançados como os aplicativos da área de trabalho do Microsoft Office, a autenticação pode ser feita de duas maneiras:
   
-- **Assistente de conexão do Microsoft Online Services** O assistente de conexão, que é instalado pela instalação da área de trabalho, contém um serviço de cliente que obtém um token de serviço do serviço de entrada e o retorna ao cliente avançado. 
+- **Assistente de conexão do Microsoft Online Services** -o assistente de conexão, que é instalado pela instalação da área de trabalho, contém um serviço de cliente que obtém um token de serviço do serviço de entrada e o retorna ao cliente avançado. 
     
   - Se você tiver uma identidade de nuvem, você receberá uma solicitação de credenciais, que o serviço de cliente envia para o serviço de entrada para autenticação (usando o WS-Trust).
     
   - Se você tiver uma identidade federada, o serviço de cliente primeiro contata o servidor AD FS 2,0 para autenticar as credenciais (usando Kerberos ou NTLMv2) e obter um token de logon que é enviado para o serviço de entrada (usando WS-Federation e WS-Trust).
     
-- **Autenticação básica/por proxy via SSL** O cliente do Outlook passa as credenciais de autenticação básica pelo SSL para o Exchange Online. Os proxies do Exchange Online a solicitação de autenticação para a plataforma de identidade e, em seguida, para o servidor de Federação do Active Directory local (para SSO). 
+- **Autenticação básica/de proxy sobre SSL** – o cliente do Outlook passa credenciais de autenticação básica sobre SSL para o Exchange Online. Os proxies do Exchange Online a solicitação de autenticação para a plataforma de identidade e, em seguida, para o servidor de Federação do Active Directory local (para SSO). 
     
 Para garantir a descoberta e autenticação adequadas dos serviços Microsoft, os administradores devem aplicar um conjunto de componentes e atualizações a cada estação de trabalho que usa clientes avançados (como o Microsoft Office 2010) e se conecta ao Office 365. A instalação do desktop é uma ferramenta automatizada para configurar estações de trabalho com as atualizações necessárias. Para obter mais informações, consulte [usar meus aplicativos da área de trabalho do Office atual](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US).
   
 ### <a name="sign-in-experience"></a>Experiência de entrada
 
-A experiência de entrada é alterada dependendo do tipo de identidade em uso:
+A experiência de entrada é alterada dependendo do tipo de identidade em uso:<br><br>
   
-||**Identidade de nuvem**|**Identidade federada**|
+| Serviço | Identidade de nuvem | Identidade federada |
 |:-----|:-----|:-----|
 |Outlook 2016  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
 |Outlook 2013  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
@@ -114,11 +112,11 @@ A experiência de entrada é alterada dependendo do tipo de identidade em uso:
 <sup>3</sup> todos os aplicativos exigem que você insira ou selecione o nome de usuário para entrar. A senha não será solicitada se o computador estiver associado ao domínio. Se você selecionar **manter-me conectado** , não será solicitado novamente até que você saia. <br/> 
 <sup>4</sup> se você selecionar **manter conectado** , não será solicitado novamente até que você saia. 
   
-## <a name="creating-user-accounts"></a>Criando contas de usuário
+## <a name="create-user-accounts"></a>Create user accounts
 
 Há várias maneiras de adicionar usuários. Para saber mais, confira [Adicionar usuários individualmente ou em massa ajuda de administrador](https://docs.microsoft.com/office365/admin/add-users/add-users) e [Adicionar, remover e gerenciar usuários no Microsoft 365 Administration Center Preview](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Criar ou editar contas de usuário no Office 365 operado pela 21Vianet - Ajuda do administrador](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
-## <a name="deleting-accounts"></a>Excluindo contas
+## <a name="delete-user-accounts"></a>Excluir contas de usuário
 
 A maneira de excluir contas depende de se estar usando a sincronização de diretório: 
   
@@ -132,7 +130,7 @@ Quando uma conta é excluída, ela se torna inativa. Por um período de aproxima
 
 As políticas e procedimentos para gerenciamento de senhas dependem do sistema de identidade.
   
- **Gerenciamento de senhas de identidade na nuvem:**
+### <a name="cloud-identity-password-management"></a>Gerenciamento de senhas de identidade em nuvem
   
 Ao utilizar as identidades de nuvem, as senhas são geradas automaticamente quando a conta é criada.
   
@@ -144,17 +142,17 @@ Ao utilizar as identidades de nuvem, as senhas são geradas automaticamente quan
     
 Existem várias ferramentas para redefinir senhas de usuários com identidades da nuvem:
   
-- O **administrador redefine a senha** Se os usuários perderem ou esquecerem suas senhas, os administradores poderão redefinir as senhas dos usuários no centro de administração ou usando o Windows PowerShell. Os usuários poderão alterar suas senhas apenas se souberem suas senhas antigas. 
+- O **administrador redefine a senha** -se os usuários perderem ou esquecerem suas senhas, os administradores poderão redefinir as senhas dos usuários no centro de administração ou usando o Windows PowerShell. Os usuários poderão alterar suas senhas apenas se souberem suas senhas antigas. 
     
     Para planos corporativos, se os administradores perderem ou esquecerem suas senhas, um administrador diferente com a função de administrador global poderá redefinir as senhas dos administradores no centro de administração do Microsoft 365 ou usando o Windows PowerShell. Para saber mais, confira [Redefinir senhas para administradores](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Se você estiver trabalhando no Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- O **usuário altera as senhas com o Outlook na Web** A página Opções do Outlook na Web inclui um hiperlink alterar senha, que redireciona os usuários para a página **alterar senha** . O usuário deve saber sua senha anterior. Para saber mais, confira [Alterar senha](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- O **usuário altera as senhas com o Outlook na Web** -a página Opções do Outlook na Web inclui um hiperlink alterar senha, que redireciona os usuários para a página **alterar senha** . O usuário deve saber sua senha anterior. Para saber mais, confira [Alterar senha](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **Direitos de senha redefinição baseados em função** Para planos corporativos, usuários autorizados, como a equipe de assistência técnica, podem receber o direito de usuário **Redefinir senha** e o direito de alterar senhas usando funções predefinidas ou personalizadas sem se tornar administradores de serviços completos. Por padrão, em planos Corporativos, os administradores com a função Administrador Global, Administrador de Senha ou Administrador de Gerenciamento de Usuário podem alterar senhas. Para saber mais, veja [Atribuindo funções de administrador](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+- **Direitos de redefinição de senha baseados em função** para planos corporativos, usuários autorizados como equipe de helpdesk podem receber o direito de usuário **Redefinir senha** e o direito de alterar senhas usando funções predefinidas ou personalizadas sem se tornar administradores de serviços completos. Por padrão, em planos corporativos, os administradores com a função administrador global, administrador de senha ou administrador de gerenciamento de usuário podem alterar senhas. Para saber mais, veja [Atribuindo funções de administrador](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
     
-- **Redefinir senhas usando o Windows PowerShell** Os administradores de serviços podem usar o Windows PowerShell para redefinir senhas. 
+- **Redefinir senhas usando o Windows PowerShell** -os administradores de serviço podem usar o Windows PowerShell para redefinir senhas. 
     
- **Gerenciamento de senhas de identidade federada:**
+### <a name="federated-identity-password-management"></a>Gerenciamento de senhas de identidade federada
   
 Ao usar identidades federadas, as senhas são gerenciadas no Active Directory. O serviço de token de segurança local negocia a autenticação com o Federation Gateway sem passar as senhas locais do Active Directory dos usuários pela Internet para o Office 365. As políticas de senha locais são usadas ou, para clientes web, identificação de dois fatores. O Outlook na Web não inclui um hiperlink alterar senha. Os usuários podem alterar suas senhas usando ferramentas padrão, no local ou através das opções de logon de seu PC desktop.
   
@@ -172,7 +170,7 @@ Os grupos de segurança são usados no SharePoint Online para controlar o acesso
   
 ## <a name="administrator-roles"></a>Funções de administrador
 
-O Office 365 Enterprise segue um modelo RBAC (controle de acesso baseado em função): as permissões e capacidades são definidas pelas funções de gerenciamento. A pessoa que assina o Office 365 para sua organização se torna automaticamente um administrador global ou administrador de nível superior. Existem cinco funções de administrador: administrador global, administrador de cobrança, administrador de senhas, administrador de serviço e administrador de gerenciamento de usuário. Para saber mais sobre funções de administrador no Office 365 Enterprise, incluindo como elas se aplicam à administração do Exchange Online, do SharePoint Online e do Skype for Business online, confira [Atribuindo funções de administrador](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Atribuir funções de administrador no Office 365 para empresas](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+O Office 365 para Enterprise segue um modelo de controle de acesso baseado em função (RBAC): as permissões e os recursos são definidos pelas funções de gerenciamento. A pessoa que assina o Office 365 para sua organização se torna automaticamente um administrador global ou administrador de nível superior. Existem cinco funções de administrador: administrador global, administrador de cobrança, administrador de senhas, administrador de serviço e administrador de gerenciamento de usuário. Para obter mais informações sobre as funções de administrador no Office 365 for Enterprise, incluindo como elas se aplicam ao Exchange Online, SharePoint Online e ao Skype for Business online Administration, consulte [atribuir funções de administrador](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Atribuir funções de administrador no Office 365 para empresas](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Suporte para parceiros e administração delegada
 

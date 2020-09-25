@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Saiba mais sobre os compromissos exclusivos e as diferenças dos ambientes do Office 365 GCC High e DoD em comparação com o ambiente comercial do Office 365.
-ms.openlocfilehash: 44d66557f426ab236460affd61fbf1970c7f25e6
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 549399c1cbd669413b6ea40023a4ab43a5181403
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214330"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261513"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High e DoD
 
@@ -22,9 +22,9 @@ Para atender aos requisitos exclusivos e em evolução do departamento de defesa
   
 Entre em contato com sua equipe de conta ou parceiro preferido para saber mais ou iniciar o processo de validação. Para obter mais informações sobre como comprar, consulte [Microsoft 365 governamentais-como comprar](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
-## <a name="how-to-use-this-service-description-section"></a>Seção como usar esta descrição de serviço
+## <a name="how-to-use-this-service-description"></a>Como usar a descrição deste serviço
 
-A descrição do serviço do governo dos EUA do Office 365 foi projetada para servir como uma sobreposição para a descrição geral do serviço do Office 365. Ela define as diferenças e os compromissos exclusivos em comparação com as ofertas do Office 365 Enterprise.
+A descrição do serviço do governo dos EUA do Office 365 foi projetada para servir como uma sobreposição para a descrição geral do serviço do Office 365. Ele define os compromissos e as diferenças exclusivos em comparação com as ofertas do Office 365 para empresas.
   
 ## <a name="compliance"></a>Conformidade
 
@@ -38,11 +38,10 @@ Os assinantes do departamento de defesa com o Office 365 receberão serviços fo
   
 ## <a name="background-screening"></a>Triagem de plano de fundo
 
-A equipe do Office 365 não tem acesso à produção GCC alta e DoD. Qualquer equipe que solicite a elevação temporária de permissões que concederia acesso ao conteúdo do cliente deve primeiro passar as seguintes verificações em segundo plano.
+A equipe do Office 365 não tem acesso à produção GCC alta e DoD. Qualquer equipe que solicite a elevação temporária de permissões que concederia acesso ao conteúdo do cliente deve primeiro passar as seguintes verificações em segundo plano.<br><br>
   
-|||
+| Verificações em segundo plano e tela de pessoal da Microsoft<sup>1</sup> | Descrição |
 |:-----|:-----|
-|**Verificações em segundo plano e tela de pessoal da Microsoft**<sup>1</sup> <br/> |**Descrição** <br/> |
 |Cidadania dos EUA  <br/> |Verificação de cidadania dos EUA  <br/> |
 |Verificação do histórico de empregos  <br/> |Verificação do histórico de empregos dos últimos sete anos  <br/> |
 |Verificação de nível escolar  <br/> |Verificação do grau mais elevado concluído  <br/> |
@@ -78,7 +77,7 @@ Os usuários têm várias opções para compartilhar arquivos e pastas no ShareP
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 
-**Sistema de telefonia e conferência de áudio (via roteamento direto)**: o sistema de telefonia e a conferência de áudio para ambientes gcc altos e DOD estão sendo entregues por meio do roteamento direto. Para obter mais informações, consulte a documentação do nível de serviço aqui:
+**Sistema de telefonia e conferência de áudio (via roteamento direto)** – o sistema de telefonia e a conferência de áudio para ambientes gcc altos e DOD estão sendo entregues por meio do roteamento direto. Para obter mais informações, consulte a documentação do nível de serviço aqui:
 
 - [Sistema de telefonia via roteamento direto](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
 - [Conferências de Áudio com Roteamento Direto para GCC Alto e DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
@@ -89,7 +88,7 @@ A autenticação multifator usando um modelo de identidade federado permite o us
   
 ### <a name="yammer"></a>Yammer
 
-O Yammer Enterprise não está disponível nos ambientes GCC High e DoD.
+O Yammer para empresas não está disponível nos ambientes GCC High e DoD.
   
 ## <a name="customer-support"></a>Suporte ao cliente
 
