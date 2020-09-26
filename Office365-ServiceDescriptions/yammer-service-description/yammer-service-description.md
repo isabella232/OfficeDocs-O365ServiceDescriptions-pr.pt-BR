@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
-ms.openlocfilehash: 163bb207292515ff93e5145e70741cea560acf15
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Veja quais recursos estão disponíveis nos diferentes planos do Yammer.
+ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132895"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276749"
 ---
 # <a name="yammer-service-description"></a>Descrição do serviço do Yammer
 
@@ -32,9 +32,9 @@ Para obter os requisitos de sistema do Office 365, o serviço mensal baseado em 
   
 ## <a name="yammer-plans"></a>Planos do Yammer
 
-O Yammer está disponível nos seguintes planos:
+O Yammer está disponível nos seguintes planos:<br><br>
   
-|**Plano**|**Descrição**|
+| Plano | Descrição |
 |:-----|:-----|
 |[Yammer](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Rede social corporativa - a qualquer hora, em qualquer lugar.  <br/> |
 |[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Rede social corporativa com segurança, administração e integrações avançadas.  <br/> |
@@ -45,15 +45,15 @@ O Yammer está disponível nos seguintes planos:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Política de comunicações de serviço do Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
 
-O Yammer obedece à [política de gerenciamento de mudanças da Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), mas não usa o lançamento direcionado para distribuir atualizações. 
+O Yammer obedece à [política de gerenciamento de mudanças da Microsoft 365](https://aka.ms/ManageChange), mas não usa o lançamento direcionado para distribuir atualizações. 
   
 Todos os usuários do Yammer estão sujeitos ao teste de recurso A/B. Isso permite à Microsoft testar recursos para melhoria da estabilidade, do desempenho e da experiência em vários ambientes e dispositivos. Os usuários dentro da mesma rede podem ter experiências variadas devido ao teste. Os clientes não podem se recusar a fazer o teste A/B.
   
 Quaisquer alterações (testes A/B, novos recursos, depreciações, limites de conformidade, mudanças de fluxo de trabalho) que exijam medidas do cliente ou que se espera tenham um impacto significativo sobre os clientes serão comunicados com antecedência. Identificamos um cenário em que o Yammer faz uma alteração que afeta um subconjunto limitado de usuários. Um exemplo disso pode ser a alteração ou a remoção de um recurso, como o Yammer Chrome Extension, que tem baixo engajamento, mas que um pequeno número de usuários habilitou. Nesses casos, acreditamos que a comunicação direta a esses usuários, além dos canais de comunicação normais para administradores verificados conforme listado na política acima, fornecerá uma boa experiência de usuário para o subconjunto de usuários afetados por uma alteração. Para as alterações categorizadas como "Alterações que exigem ação (plano de alteração)" ou "Alterações que exigem conscientização (mantenha-se informado)" que afetam apenas um conjunto de destino de usuários, talvez notifiquemos diretamente aos usuários. A tabela a seguir foi atualizada para refletir essa alteração. 
   
-Os canais usados para as comunicações podem variar de cordo com o impacto:
+Os canais usados para as comunicações podem variar de cordo com o impacto:<br><br>
   
-|||
+| Tipo de alteração | Canal de comunicação |
 |:-----|:-----|
 |**Alterações que exigem ação (plano de alteração)** <br/>Administrador necessário para fazer alterações para manter o serviço em execução, as atualizações que podem ter impacto na conformidade da sua organização  <br/> |– Emails do centro de mensagens do Office 365 diretos para administradores verificados pelo Yammer <br/>-Mapa 365 da Microsoft<br/>– Atualizações de serviço do Yammer<br/>-Grupo externo<br/>Com as alterações que afetam um conjunto direcionado de usuários, talvez também notifiquemos diretamente esses usuários. |
 |**Alterações que exigem conscientização (Mantenha-se informado)**<br/>Alterações que não exigem ação de administrador, alterações de Design Visual  <br/> |-Centro de mensagens do Office 365<br/>-Mapa 365 da Microsoft<br/>– Atualizações de serviço do Yammer<br/>-Grupo externo<br/>Com as alterações que afetam um conjunto direcionado de usuários, talvez também notifiquemos diretamente esses usuários. |
@@ -61,9 +61,9 @@ Os canais usados para as comunicações podem variar de cordo com o impacto:
    
 ## <a name="feature-availability-across-yammer-plans"></a>Disponibilidade de recurso nos planos do Yammer
 
-Precisa de ajuda para saber qual plano do Yammer é o melhor para as necessidades da sua organização? Use a tabela a seguir para ver quais recursos estão disponíveis em cada plano. Selecione um nome de recurso para ler um breve resumo de como esse recurso funciona no Yammer.
+Precisa de ajuda para saber qual plano do Yammer é o melhor para as necessidades da sua organização? Use a tabela a seguir para ver quais recursos estão disponíveis em cada plano. Selecione um nome de recurso para ler um breve resumo de como esse recurso funciona no Yammer.<br><br>
   
-|**Recurso**|**Yammer Basic**|**Yammer Enterprise**|
+| Recurso | Yammer Basic | Yammer Enterprise |
 |:-----|:-----|:-----|
 |[Grupos](group-features-in-yammer.md#groups) <br/> | Sim  <br/> |Sim  <br/> |
 |[Grupos relacionados](group-features-in-yammer.md#related-groups) <br/> |Sim  <br/> |Sim  <br/> |

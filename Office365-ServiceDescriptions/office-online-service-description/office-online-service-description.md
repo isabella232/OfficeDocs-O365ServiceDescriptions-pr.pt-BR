@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: O Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint em seu navegador da Web. O Office para a Web torna mais fácil trabalhar e compartilhar arquivos do Office de qualquer lugar com uma conexão com a Internet, de quase qualquer dispositivo. Os clientes do Microsoft 365 com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616917"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276781"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrição dos serviços do Office para Web
 
@@ -26,7 +26,7 @@ Para comparar recursos entre planos, consulte [poderosas ferramentas para dar su
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidade de recursos nos planos do Office para Web
 
-Precisa de ajuda para descobrir qual solução Office é a melhor para a sua organização? As tabelas a seguir comparam o Office para recursos de recursos da Web para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as tabelas para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras só precisam exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web. 
+Precisa de ajuda para descobrir qual solução do Office é mais adequada à sua organização? As tabelas a seguir comparam o Office para recursos de recursos da Web para aplicativos de área de trabalho do Microsoft Office ricos em recursos. Use as tabelas para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras só precisam exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web. 
   
 > [!NOTE]
 >  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de recursos do Microsoft Office. <br/>  Microsoft 365 aplicativos para empresas é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. <br/>  Os clientes locais do Microsoft Office Online Server recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Microsoft 365 Apps for Enterprise License). 
@@ -36,9 +36,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
   
 ### <a name="word"></a>Word
 
-||||
+| Recursos do aplicativo | Word para a Web | Aplicativo da área de trabalho Word |
 |:-----|:-----|:-----|
-|**Recursos do aplicativo** <br/> |**Word para a Web** <br/> |**Aplicativo da área de trabalho Word** <br/> |
 |[Guias de alinhamento e layout dinâmico](word-online.md#alignment-guides-and-live-layout) <br/> |Não  <br/> |Sim  <br/> |
 |[Aplicar estilos](word-online.md#apply-styles) <br/> |Sim  <br/> |Sim  <br/> |
 |[Gravação automática](word-online.md#autosave) <br/> |Sim  <br/> |Sim  <br/> |
@@ -112,9 +111,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
   
 ### <a name="excel"></a>Excel
 
-||||
+| Recursos do aplicativo | Excel para a Web | Aplicativo da área de trabalho do Excel |
 |:-----|:-----|:-----|
-|**Recursos do aplicativo** <br/> |**Excel para a Web** <br/> |**Aplicativo da área de trabalho do Excel** <br/> |
 |[Verificador de acessibilidade](excel-online.md#add-hyperlinks) <br/> |Sim  <br/> |Sim  <br/> |
 |[Adicionar cor de plano de fundo a guias de planilha](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Sim  <br/> |Sim  <br/> |
 |[Adicionar hiperlinks](excel-online.md#add-hyperlinks) <br/> |Sim  <br/> |Sim  <br/> |
@@ -197,9 +195,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| Recursos do aplicativo | OneNote para a Web | Aplicativo da área de trabalho OneNote |
 |:-----|:-----|:-----|
-|**Recursos do aplicativo** <br/> |**OneNote para a Web** <br/> |**Aplicativo da área de trabalho OneNote** <br/> |
 |[Colaboração avançada: Novo conteúdo aparece como não lido, presença](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |Não  <br/> |Sim  <br/> |
 |[Aplicar marcas](onenote-online.md#apply-tags) <br/> |Sim  <br/> |Sim  <br/> |
 |[Marcadores e numeração](onenote-online.md#bullets-and-numbering) <br/> |Sim  <br/> |Sim  <br/> |
@@ -219,7 +216,7 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
 |[Escrita à tinta: tinta em texto e matemática, canetas personalizáveis, ferramentas de desenho](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |Não  <br/> |Sim  <br/> |
 |[Visualização de tinta](onenote-online.md#ink-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 |[Navegação](onenote-online.md#navigation) <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento de blocos de anotações: preenchimento de página entre seções/blocos de anotações, reorganização de seção, criar/excluir grupos de seção](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |
+|[Gerenciamento de bloco de anotações: o arquivamento de página entre seções/blocos de anotações, reordenação de seção, criar/excluir grupos de seção](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |
 |[Suplementos do Office](onenote-online.md#office-add-ins) <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |
 |[Integração com o Outlook (tarefas)](onenote-online.md#outlook-integration-tasks) <br/> |Não  <br/> |Sim  <br/> |
 |[Formatação de parágrafo](onenote-online.md#paragraph-formatting) <br/> |Sim  <br/> |Sim  <br/> |
@@ -246,9 +243,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| Recursos do aplicativo | PowerPoint para a Web | Aplicativo da área de trabalho PowerPoint |
 |:-----|:-----|:-----|
-|**Recursos do aplicativo** <br/> |**PowerPoint para a Web** <br/> |**Aplicativo da área de trabalho PowerPoint** <br/> |
 |[Alinhamento, marcadores, numeração](powerpoint-online.md#alignment-bullets-numbers) <br/> |Sim  <br/> |Sim  <br/> |
 |[Aplicar animações e transições básicas](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Sim<sup>1</sup> <br/> |Sim  <br/> |
 |[Aplicar formatação avançada a texto, formas e imagens](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Não  <br/> |Sim  <br/> |
@@ -302,9 +298,8 @@ Precisa de ajuda para descobrir qual solução Office é a melhor para a sua org
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Tipos de arquivo com suporte para o Office para a Web
 
-||||
+| Documentos do Word criados no Word 2.0 ou posterior | Modo de Exibição | Modo de Edição |
 |:-----|:-----|:-----|
-|**Documentos do Word criados no Word 2.0 ou posterior** <br/> |**Modo de Exibição** <br/> |**Modo de Edição** <br/> |
 |Open XML (.docx)  <br/> |Sim  <br/> |Sim  <br/> |
 |Binário (.doc)  <br/> |Sim  <br/> |Convertido para .docx  <br/> |
 |Macro (.docm)  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |

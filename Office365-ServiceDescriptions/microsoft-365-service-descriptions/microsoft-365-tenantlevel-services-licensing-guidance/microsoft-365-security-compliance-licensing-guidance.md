@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245726"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284983"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -148,7 +148,7 @@ Para obter informações sobre como configurar as políticas de segurança do ap
 
 Os administradores podem fazer o escopo de implantações do MCAS para usuários licenciados usando os recursos de implantação com escopo disponíveis no serviço. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="compliance-manager"></a>Gerente de Conformidade
+## <a name="compliance-manager"></a>Gerenciador de Conformidade
 
 Simplificar a conformidade e reduzir o risco com o gerente de conformidade. O Gerenciador de conformidade ajuda as organizações a cumprir os requisitos de regulamentos, padrões, políticas da empresa ou outras estruturas de controle desejadas.
 
@@ -164,7 +164,7 @@ Estes são os benefícios para os usuários do serviço Gerenciador de conformid
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
-Os clientes com o Office 365 E1/a1/E3/a3 e as licenças do Microsoft 365 E3/a3 poderão acessar a avaliação da linha de base de proteção de dados. Os clientes com o Office 365 E5/a5 e as licenças do Microsoft 365 E5/a5 poderão acessar as avaliações da linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 22701. As avaliações Premium estarão disponíveis para compra para os clientes do Office 365 E5/a5 e Microsoft 365 E5/a5.
+Os clientes com o Office 365 E1/a1/E3/a3 e as licenças do Microsoft 365 E3/a3 poderão acessar a avaliação da linha de base de proteção de dados. Os clientes com o Office 365 E5/a5 e as licenças do Microsoft 365 E5/a5 poderão acessar as avaliações da linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 22701. Os clientes precisam ter pelo menos uma licença do Office 365 E5/a5 ou Microsoft 365 E5/a5 para usar o recurso de avaliação personalizada. As avaliações Premium estarão disponíveis para compra para os clientes do Office 365 E5/a5 e Microsoft 365 E5/a5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -174,7 +174,7 @@ O Gerenciador de conformidade é provisionado por padrão para o seu locatário.
 
 O acesso ao Gerenciador de conformidade é controlado pela definição de permissões de usuário e atribuição de funções. Para obter mais informações, consulte [introdução ao Gerenciador de conformidade: definir permissões de usuário e atribuir funções](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+## <a name="microsoft-defender-atp"></a>O Microsoft Defender ATP
 
 O Microsoft defender ATP é uma solução de segurança de ponto de extremidade que inclui gerenciamento e avaliação de vulnerabilidades baseados em riscos; recursos de redução da superfície de ataque; proteção com base no comportamento e na próxima geração da nuvem; detecção de pontos de extremidade e resposta (EDR); investigação e correção automáticas; e serviços gerenciados de busca. Confira a página [do Microsoft defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para saber mais.
 
@@ -211,7 +211,7 @@ O Microsoft 365 E5/a5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + 
 > [!NOTE]
 > O Power BI está incluído no Microsoft 365 E5/a5/G5; em todos os outros planos, o Power BI deve ser licenciado separadamente.
 
-Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 conformidade, proteção e governança de informações da Microsoft 365, Office 365 e5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 e AIP Plan 2 fornecem os direitos para um usuário se beneficiar do rótulo de confidencialidade automática.
+Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 conformidade, proteção de informações do Microsoft 365 e governança, Office 365 e5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 e AIP Plan 2 fornecem os direitos para o usuário se beneficiar do rótulo de confidencialidade automática.
 
 Para obter direitos específicos por licença, consulte a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Não inclui direitos para classificação automática com base no aprendizado da máquina (classificadores treinado).
 
@@ -247,7 +247,7 @@ O Microsoft 365 E5/a5/E3/a3 e o Office 365 E5/a5/E3 fornecem os direitos para um
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, Microsoft 365 Information Protection e governança, Office 365 E5/a5 e Office 365 Advanced Compliance fornecem os direitos para o usuário se beneficiar de aplicar automaticamente rótulos de retenção ou políticas, aplicando rótulos ou políticas de retenção padrão, iniciando o período de retenção de um rótulo de retenção com base em um evento personalizado, acionando uma revisão de disposição manual no final do período de retenção do rótulo, importando dados de terceiros por meio de conectores de dados nativos, declarando um registro de arquivo a, descobrindo conteúdo rotulado e monitorar a atividade de rotulação.
 
-Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, proteção e governança de informações da Microsoft 365 fornecem os direitos para que um usuário se beneficie de aplicar automaticamente os rótulos de retenção com base em classificadores estagiários.
+Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, proteção de informações do Microsoft 365 e governança fornecem os direitos para o usuário se beneficiar da aplicação automática de rótulos de retenção com base em classificadores estagiários.
 
 Para obter direitos específicos por licença, consulte a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ O gerenciamento de registros ajuda as organizações a cumprir as obrigações d
 
 Microsoft 365 E5/a5, conformidade da Microsoft 365 E5/a5, proteção e governança de informações da Microsoft 365, Office 365 E5/a5, Office 365 Advanced Compliance fornecem os direitos para um usuário se beneficiar do gerenciamento de registros, incluindo a declaração de itens como registros, a aplicação automática de rótulos de retenção ou registro e a execução de processos de análise de descarte
 
-Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformidade, proteção e governança de informações da Microsoft 365 fornecem os direitos para que um usuário se beneficie de aplicar automaticamente os rótulos de retenção ou registro com base em classificadores estagiários.
+O Microsoft 365 E5/a5, a conformidade da Microsoft 365 E5/a5, a proteção de informações do Microsoft 365 e a governança fornecem os direitos para que o usuário se beneficie de aplicar automaticamente os rótulos de retenção ou registro com base em classificadores estagiários.
 
 Para obter direitos específicos por licença, consulte a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 

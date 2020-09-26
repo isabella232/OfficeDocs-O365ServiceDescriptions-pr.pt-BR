@@ -8,29 +8,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web.
-ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Compare os recursos do Visio para a Web com o aplicativo da área de trabalho Visio.
+ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131945"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276664"
 ---
 # <a name="visio-for-the-web-service-description"></a>Descrição dos serviços do Visio da Web
 
 Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web. Comece com um diagrama básico para expressar ideias comuns, como ilustrar um plano, criar uma proposta ou descrever uma sequência de etapas em um processo. É simples e fácil criar diagramas de primeira classe com tipos de diagramas comumente usados e conjuntos de formas ricas. O Visio para os usuários da Web pode exibir e colaborar compartilhando diagramas e inserindo comentários em arquivos carregados no SharePoint Online ou no OneDrive for Business online.
   
-Para obter mais informações e começar, confira [Visio Plan 1](https://products.office.com/en-US/visio/visio-online).
+Para obter mais informações e começar, confira [Visio Plan 1](https://products.office.com/visio/visio-online).
   
 Para obter ajuda ao usar o Visio para a Web, consulte [ajuda do Visio & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilidade e comparação de recursos
 
-A tabela a seguir compara os recursos de recurso da Web do Visio para os aplicativos de área de trabalho do Visio ricos em recursos. Use a tabela para descobrir quais recursos estão disponíveis no Visio para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam dos recursos avançados do aplicativo da área de trabalho Visio, enquanto outras só precisam exibir e editar levemente diagramas do Visio com o Visio para a Web. 
+A tabela a seguir compara os recursos de recurso da Web do Visio para o aplicativo de área de trabalho do Visio avançado de recurso. Use a tabela para descobrir quais recursos estão disponíveis no Visio para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam dos recursos avançados do aplicativo da área de trabalho Visio, enquanto outras só precisam exibir e editar levemente diagramas do Visio com o Visio para a Web.<br><br> 
   
-||||
+| Recurso de aplicativo | Visio para a Web | Aplicativo da área de trabalho Visio |
 |:-----|:-----|:-----|
-|**Recursos do aplicativo** <br/> |**Visio da Web** <br/> |**Aplicativo da área de trabalho Visio** <br/> |
 |[Aplicar formatação avançada a texto e formas](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Organizar objetos](visio-online.md#arrange-objects) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar soluções de mashup](visio-online.md#build-mashup-solutions) <br/> |Sim  <br/> |Sim  <br/> |
@@ -66,9 +65,8 @@ A tabela a seguir compara os recursos de recurso da Web do Visio para os aplicat
   
 ## <a name="supported-file-types-in-visio-for-the-web"></a>Tipos de arquivo com suporte no Visio para a Web
 
-||||
+| Diagrama do Visio criado no Visio 2010 ou posterior | Modo de Exibição | Modo de Edição |
 |:-----|:-----|:-----|
-|**Diagramas do Visio criados no Visio 2010 ou posterior** <br/> |**Modo de Exibição** <br/> |**Modo de Edição** <br/> |
 |Open XML (. vsdx)  <br/> |Sim  <br/> |Não  <br/> |
 |Binário (. vsd)  <br/> |Sim  <br/> |Não  <br/> |
 |Macro (. vsdm)  <br/> |Sim  <br/> |Não  <br/> |

@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Oferecido pelo Office 365, o Project Online conta com poderosos recursos de gerenciamento de projetos para planejar, priorizar e gerenciar projetos e investimentos em portfólios de projetos, de quase qualquer lugar, em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Fornecido através do Office 365, o Project online oferece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos de portfólio de projetos, de quase qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
+ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131155"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276794"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
-## <a name="overview"></a>Visão Geral
+## <a name="overview"></a>Visão geral
 
 O Microsoft Project oferece os seguintes aplicativos para ajudar a atender às necessidades da sua organização para o gerenciamento de projetos e trabalho:
 
@@ -75,7 +75,7 @@ No futuro, a Microsoft se concentrará no Project para as inovações da Web. No
 
 ## <a name="microsoft-project-subscriptions"></a>Assinaturas do Microsoft Project
 
-O Microsoft Project está disponível por meio de três assinaturas diferentes para atender às necessidades da sua organização. Essas assinaturas são o plano de projeto 1, o plano de projeto 3 e o plano de projeto 5. Para comparar recursos entre assinaturas, confira [recursos de disponibilidade entre aplicativos e assinaturas](#feature-availability-across-applications-and-subscriptions).
+O Microsoft Project está disponível por meio de três assinaturas diferentes para atender às necessidades da sua organização. Essas assinaturas são o plano de projeto 1, o plano de projeto 3 e o plano de projeto 5. Para comparar recursos entre assinaturas, confira [recursos de disponibilidade entre aplicativos e assinaturas](#feature-availability-across-applications-and-subscriptions).<br><br>
 
 |Produto | Plano 1 | Plano 3 | Plano 5 |
 |--------|-----------------------------|------------------------|------------------------|
@@ -83,15 +83,15 @@ O Microsoft Project está disponível por meio de três assinaturas diferentes p
 |Project Online | |**x x**| **x x x** |
 |Cliente da área de trabalho do Project online | |**x**|**x**|
 
-Na tabela acima, o número de cheques (**x**) indica o nível geral de recursos fornecidos por um plano. Por exemplo, para o Project online, o plano 5 fornece mais recursos e, em seguida, plano 3.
+Na tabela acima, o número de cheques (**x**) indica o nível geral de recursos fornecidos por um plano. Por exemplo, para o Project online, o plano 5 fornece mais recursos do que o plano 3.
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>Disponibilidade de recursos entre aplicativos e assinaturas
 
 ### <a name="project-for-the-web-features"></a>Projeto para recursos da Web
 
-Os recursos listados nesta seção interagem somente com dados no projeto para o repositório de dados da Web. Todos esses recursos estão disponíveis em todas as assinaturas do Microsoft Project: plano de projeto 1, plano de projeto 3 e plano de projeto 5.
+Os recursos listados nesta seção interagem somente com dados no projeto para o repositório de dados da Web. Todos esses recursos estão disponíveis em todas as assinaturas do Microsoft Project: plano de projeto 1, plano de projeto 3 e plano de projeto 5.<br><br>
 
-|Recurso | Descrição | Licenças do Office 365 | Plano 1 | Plano 3 | Plano 5|
+| Recurso | Descrição | Licenças do Office 365 | Plano 1 | Plano 3 | Plano 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
 |**Gerenciamento de projetos, tarefas e tempo**||||||
 |Exibição de quadro | Acompanhe as tarefas do projeto visualmente para melhorar o fluxo de trabalho e monitoramento de status usando quadros de tarefas personalizados e prontos para uso.| Somente exibição | Sim | Sim| Sim|
@@ -125,7 +125,7 @@ Os recursos listados nesta seção interagem somente com dados no projeto para o
 
 ### <a name="project-online-features"></a>Recursos do Project Online
 
-Os recursos listados nesta seção interagem apenas com os dados do repositório de dados do SharePoint Online.
+Os recursos listados nesta seção interagem apenas com os dados do repositório de dados do SharePoint Online.<br><br>
 
 |Recurso | Descrição | Plano de projeto 3 | Plano de projeto 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -140,7 +140,7 @@ Os recursos listados nesta seção interagem apenas com os dados do repositório
 |Exibição de grade | Planejar e gerenciar projetos usando uma exibição de grade hierárquica de tarefas usando o Project Web App.| Sim | Sim |
 |Gerenciamento de problemas e riscos | Identificar e acompanhar problemas e riscos no nível do projeto e da tarefa.| Sim | Sim |
 |Projetos principais | Agrupar projetos relacionados menores em um único projeto mestre usando o Project Web App. | Sim | Sim |
-|Notifications | Fique na parte superior das atribuições de tarefas, status e eventos importantes do projeto com as notificações do Outlook e do Microsoft Teams. <sup>1</sup> | Sim | Sim |
+|Notificações | Fique na parte superior das atribuições de tarefas, status e eventos importantes do projeto com as notificações do Outlook e do Microsoft Teams. <sup>1</sup> | Sim | Sim |
 |Página inicial do projeto | Obtenha uma visão dos projetos que você trabalhou recentemente, bem como projetos importantes que você precisa monitorar de perto.| Sim | Sim |
 |Controle de versão do projeto | Comparar versões diferentes de um projeto com um relatório que mostra o que foi alterado entre as versões. | Sim | Sim |
 |Tarefas de resumo | Planejar, gerenciar e acompanhar produtos e fases usando tarefas de resumo no Project Web App. | Sim | Sim |
@@ -201,7 +201,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 
 ### <a name="project-online-desktop-client-features"></a>Recursos do cliente de área de trabalho do Project online
 
-|Recurso | Descrição |
+| Recurso | Descrição |
 |--------|-------------|
 |**Gerenciamento de projetos e tarefas**||
 |Linhas | Defina as linhas de base do projeto para monitorar o desempenho atual em relação ao desempenho passado. |
@@ -274,11 +274,11 @@ O Project para a Web e o Project online têm a mesma política de retenção e b
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Projeto para limites e limitações da Web
 
-O Project para a Web tem algumas limitações, que são descritas na tabela a seguir.
+O Project para a Web tem algumas limitações, que são descritas na tabela a seguir.<br><br>
 
-|Entidade/campo | Limite |
+| Entidade/campo | Limite |
 |-------------|-------|
-|**Tarefa** ||
+|**Task** ||
 |Máx. nível de hierarquia para a tarefa | 10 níveis |
 |Máx. links (sucessora + predecessor) de uma tarefa | 508 |
 |Máx. duração da tarefa de folha | 1250 dias |

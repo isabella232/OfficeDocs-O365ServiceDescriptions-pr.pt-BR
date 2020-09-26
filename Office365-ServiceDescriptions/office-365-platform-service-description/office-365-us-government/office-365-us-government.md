@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Este artigo fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365.
-ms.openlocfilehash: 7ca2dc6afa9d22f17b7c95d338e5b700df070d42
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fb01c4815536695f8b8ccf4c3d9ef003cd0cb071
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131725"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276774"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -29,9 +29,9 @@ ms.locfileid: "45131725"
 > 
 >Obrigado pelo seu suporte à medida que realizarmos as etapas para garantir que nossos serviços permaneçam disponíveis e confiáveis nesses momentos extraordinários.<br/> 
 
-Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Esta seção fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365. Recomendamos que você leia esta seção suplementar junto com as [descrições de serviço do Microsoft 365 e do Office 365](../../office-365-service-descriptions-technet-library.md).
+Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Esta descrição de serviço fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365. Recomendamos que você leia esta descrição de serviço junto com outras [descrições de serviço do Microsoft 365 e do Office 365](../../office-365-service-descriptions-technet-library.md).
   
-## <a name="how-to-use-this-service-description"></a>Como usar esta descrição de serviço
+## <a name="how-to-use-this-service-description"></a>Como usar a descrição deste serviço
 
 A descrição do serviço do governo dos EUA do Office 365 foi projetada para servir como uma sobreposição para a descrição geral do serviço do Office 365. Ela define as diferenças e os compromissos exclusivos em comparação com as ofertas do Office 365 Enterprise.
   
@@ -55,13 +55,13 @@ Além dos recursos e capacidades do Office 365, as organizações que usam o Off
   
 ## <a name="customer-eligibility"></a>Qualificação do cliente
 
-O Office 365 US Government está disponível para (1) entidades governamentais federais, estaduais, locais, tribais e territoriais dos Estados Unidos e (2) outras entidades que manipulam dados sujeitos a requisitos e regulamentações do governo, em que o uso do Office 365 US Government é apropriado para satisfazer essas regulamentações que estão sujeitas a validação de qualificação. A validação de qualificação feita pela Microsoft incluirá a confirmação da manipulação de dados sujeitos ao ITAR (International Traffic in Arms Regulations), dados para a aplicação da lei sujeitos à política do Criminal Justice Information Services (CJIS) do FBI ou outros dados controlados ou regulamentados pelo governo. A validação poderá exigir a prova do registro no Departamento de Estado dos Estados Unidos para os dados do ITAR ou o aval de uma entidade governamental com requisitos específicos para a manipulação de dados. O ambiente do Office 365 DoD-é para uso exclusivo do departamento de defesa dos Estados Unidos.
+O governo dos EUA do Office 365 está disponível para (1) entidades do governo dos EUA, estaduais, locais, tribal e autarquia e (2) outras entidades que lidam com os dados sujeitos às normas e aos requisitos governamentais e onde o uso do Office 365 o governo dos EUA é adequado para atender a esses requisitos, sujeito à validação da elegibilidade. A validação de qualificação feita pela Microsoft incluirá a confirmação da manipulação de dados sujeitos ao ITAR (International Traffic in Arms Regulations), dados para a aplicação da lei sujeitos à política do Criminal Justice Information Services (CJIS) do FBI ou outros dados controlados ou regulamentados pelo governo. A validação poderá exigir a prova do registro no Departamento de Estado dos Estados Unidos para os dados do ITAR ou o aval de uma entidade governamental com requisitos específicos para a manipulação de dados. O ambiente do Office 365 DoD-é para uso exclusivo do departamento de defesa dos Estados Unidos.
   
 Embora os critérios de qualificação sejam consistentes nas ofertas governamentais do Office 365, a Microsoft só concorda com a linguagem de contrato do DFARS e do ITAR para o ambiente de alta GCC.
   
 As entidades que tenham dúvidas em relação à qualificação para o Office 365 US Government devem consultar a equipe de contas.
   
-A qualificação precisa ser revalidada no momento da renovação do contrato do cliente para o Office 365 US Government.
+Após a renovação do contrato do cliente para o governo dos EUA do Office 365, é necessário revalidar a qualificação.
   
 ## <a name="customer-content-located-within-the-united-states"></a>Conteúdo de cliente localizado nos Estados Unidos
 
@@ -86,7 +86,7 @@ O Office 365 oferece a capacidade de integrar aplicativos de terceiros em sites 
   
 ## <a name="restricted-data-access-by-administrators"></a>Acesso restrito aos dados pelos administradores
 
-Acesso ao Office 365 o conteúdo do cliente governamental dos administradores da Microsoft está restrito ao pessoal em tela. Para obter detalhes sobre níveis de triagem, consulte a página de descrição do serviço para cada um dos respectivos ambientes (GCC ou GCC alta e DoD). 
+Acesso ao Office 365 o conteúdo do cliente governamental dos administradores da Microsoft está restrito ao pessoal em tela. Para obter detalhes sobre níveis de filtragem, consulte a página descrição de serviço para cada ambiente (GCC ou GCC elevado e DoD). 
 
   
 ## <a name="fasttrack-center-onboarding-assistance"></a>Assistência de integração do FastTrack Center
@@ -108,11 +108,10 @@ As informações específicas sobre o processo do centro FastTrack podem ser enc
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrações de dados realizadas pelo FastTrack
 
-Os clientes que escolhem o benefício de migração do [FastTrack](https://fasttrack.microsoft.com/) precisarão conceder acesso à equipe para gerenciar suas migrações de dados. Esses funcionários são cidadãos americanos e sofrem as verificações de segundo plano a seguir antes de realizar migrações para clientes dos serviços do governo dos EUA do Office 365.
+Os clientes que escolhem o benefício de migração do [FastTrack](https://fasttrack.microsoft.com/) precisarão conceder acesso à equipe para gerenciar suas migrações de dados. Esses funcionários são cidadãos americanos e sofrem as verificações de segundo plano a seguir antes de realizar migrações para clientes dos serviços do governo dos EUA do Office 365.<br><br>
   
-||||
+| Triagem de plano de fundo | CCG | GCC alto e DoD |
 |:-----|:-----|:-----|
-|**Triagem de plano de fundo** <br/> |**GCC** <br/> |**GCC alto e DoD** <br/> |
 |Verificação de cidadania dos EUA  <br/> |Sim  <br/> |Sim  <br/> |
 |Verificação do histórico de empregos  <br/> |Sim  <br/> |Sim  <br/> |
 |Verificação de educação  <br/> |Sim  <br/> |Sim  <br/> |
@@ -137,12 +136,11 @@ Para obter informações sobre o &amp; centro de conformidade de segurança e li
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilidade do serviço para cada plano
 
-Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange Online e o SharePoint Online. A tabela a seguir mostra os serviços disponíveis em cada plano do Office 365 US Government.
+Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange Online e o SharePoint Online. A tabela a seguir mostra os serviços disponíveis em cada plano do Office 365 US Government.<br><br>
   
-||||||
+| Serviço do Office 365 | Office 365 Government G1 | Office 365 Government G3 | Office 365 Government G5 | Office 365 governo F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**Serviços do Office 365** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
-|Office para a Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Office na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Microsoft 365 Apps para empresas  <br/> |Não <br/> |Sim <br/> |Sim <br/> |Não  <br/> |
 |Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção do Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -164,11 +162,10 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 
 ## <a name="platform-features"></a>Recursos da plataforma 
 
-A tabela a seguir exibe os recursos e serviços da plataforma que estão disponíveis nos planos do Office 365 US Government.
+A tabela a seguir exibe os recursos e serviços da plataforma que estão disponíveis nos planos do Office 365 US Government.<br><br>
   
-||||||
+| Recurso | Office 365 Government G1 | Office 365 Government G3 | Office 365 Government G5 | Office 365 governo F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
 |**Administração do Office 365** <br/> |||||
 |Use o centro de administração do Microsoft 365 para administrar o Office 365  <br/> |Sim<sup>16</sup> <br/> |Sim<sup>16</sup> <br/> |Sim  <br/> |Sim<sup>16</sup> <br/> |
 |Gerenciar as configurações de serviço principal do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -306,12 +303,11 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Disponibilidade de aplicativos do Office e valor corporativo
 
-A tabela a seguir mostra os recursos do aplicativo do Office que estão disponíveis nos planos do Office 365 US Government.
+A tabela a seguir mostra os recursos do aplicativo do Office que estão disponíveis nos planos do Office 365 US Government.<br><br>
   
-||||||
+| Aplicativo/recurso | Office 365 Government G1 | Office 365 Government G3 | Office 365 Government G5 | Office 365 governo F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**Recurso** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 governo F3** <br/> |
-|**Aplicativos do Office** <br/> |||||
+| **Aplicativos do Office** |||||
 |[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -370,27 +366,27 @@ A tabela a seguir mostra os recursos do aplicativo do Office que estão disponí
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>Disponibilidade de recursos e aplicativos do Office em planos governamentais
 
-Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais; no entanto, alguns recursos baseados na nuvem podem não estar atualmente disponíveis, conforme indicado na tabela.
+Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais; no entanto, alguns recursos baseados na nuvem podem não estar atualmente disponíveis, conforme indicado na tabela.<br><br>
 
-|||||
+| Aplicativo/recurso | CCG | CCG Alto | DOD |
 |-----|-----|-----|-----|
-|O [**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD** <br/> |
+|O [**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que **não estão** disponíveis no momento: ||||
 |animações inseridas 3D e modelos 3D | Não <br/> | Não <br/> | Não <br/> |
 |Tipos de dados | Não <br/> | Não <br/> | Não <br/> |
 |Preenchimento relâmpago | Não <br/> | Não <br/> | Não <br/> |
 |Ideias (serviços de informação) | Não <br/> | Não <br/> | Não <br/> |
-|Integração aprimorada com o PowerBI (elementos visuais personalizados, criar gráficos do PBI diretamente do Excel) | Não <br/> | Não <br/> | Não <br/> |
+|Integração aprimorada com o Power BI (Visual personalizado, criar gráficos do PBI diretamente do Excel) | Não <br/> | Não <br/> | Não <br/> |
 |Tinta digital inteligente | Não <br/> | Não <br/> | Não <br/> |
 |Grupos do Office 365 | Não <br/> | Não <br/> | Não <br/> |
 |Dados de gráficos dinâmicos conectados a tabelas dinâmicas | Não <br/> | Não <br/> | Não <br/> |
 |PowerPivot | Não <br/> | Não <br/> | Não <br/> |
-|Publicar no PowerBI | Não <br/> | Não <br/> | Não <br/> |
+|Publicar no Power BI | Não <br/> | Não <br/> | Não <br/> |
 |Colaboração em tempo real (presença, coautoria regular, chat em documento) | Não <br/> | Não <br/> | Não <br/> |
 |Shared with Me | Não <br/> | Não <br/> | Não <br/> |
 |Pesquisa Inteligente | Não <br/> | Não <br/> | Não <br/> |
 |Gráficos: mapa solar, cascata, histograma, mapas, linha do tempo, funil | Não <br/> | Não <br/> | Não <br/> |
 |Histórico de versão | Não <br/> | Não <br/> | Não <br/> |
-|O [**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD** <br/> |
+|O [**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que **não estão** disponíveis no momento: | **GCC** <br/> | **CCG Alto** <br/> | **DOD** <br/> |
 |Notificação por email | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não <br/> | 
 |Inserir uma imagem | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não <br/> |
 |Inserir um vídeo | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não <br/> |
@@ -399,14 +395,14 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais
 |Formulários de grupo mais recentes | No<sup>4</sup> <br/> | Sim <br/> | Sim <br/> |
 |Compartilhamento externo <sup>3</sup> | Sim <br/> | Não <br/> | Não <br/> |
 |Forms pro | Não | Não | Não |
-|O [**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD** <br/> |
+|O [**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que **não estão** disponíveis no momento: | **GCC** <br/> | **CCG Alto** <br/> | **DOD** <br/> |
 |Pesquisador | Não <br/> | Não <br/> | Não <br/> |
 |Tinta digital inteligente | Não <br/> | Não <br/> | Não <br/> |
-|O [**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD** <br/> |
+|O [**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que **não estão** disponíveis no momento: | **GCC** <br/> | **CCG Alto** <br/> | **DOD** <br/> |
 |Sons do Office (alguns) | Não <br/> | Não <br/> | Não <br/> |
 |DDE (troca dinâmica de dados) desabilitado por padrão | Não <br/> | Não <br/> | Não <br/> |
 |Ditado | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> | Não<sup>1</sup> <br/> |
-|O [**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD** <br/> |
+|O [**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que **não estão** disponíveis no momento: | **GCC** <br/> | **CCG Alto** <br/> | **DOD** <br/> |
 |Pesquisa Inteligente | Não <br/> | Não <br/> | Não <br/> |
 |Sons do Office (alguns) | Não <br/> | Não <br/> | Não <br/> |
 |modelos 3D e animações incorporadas 3D | Não <br/> | Não <br/> | Não <br/> |
@@ -432,7 +428,7 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais
 |Presença em tempo real | Não <br/> | Não <br/> | Não <br/> |
 |Reações no conteúdo | Não <br/> | Não <br/> | Não <br/> |
 |Galeria de quadros de comunicações, incluindo compartilhado com você | Não <br/> | Não <br/> | Não <br/> |
-|O [**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que não estão disponíveis no momento: | **GCC** <br/> | **GCC alto** <br/> | **DOD** <br/> |
+|O [**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) está totalmente disponível nas nuvens governamentais, exceto os seguintes recursos, que **não estão** disponíveis no momento: | **GCC** <br/> | **CCG Alto** <br/> | **DOD** <br/> |
 |Pesquisa Inteligente | Não <br/> | Não <br/> | Não <br/> |
 |Pesquisador | Não <br/> | Não <br/> | Não <br/> |
 |Sons do Office  | Não <br/> | Não <br/> | Não <br/> |
