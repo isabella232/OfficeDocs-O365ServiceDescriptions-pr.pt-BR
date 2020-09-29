@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Leia este artigo para saber mais sobre os recursos de conformidade disponíveis no arquivamento do Microsoft Exchange Online.
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132735"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293617"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Recursos de conformidade e segurança no arquivamento do Exchange Online
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Recursos de conformidade no Exchange Online
 
-As seções a seguir descrevem os recursos de conformidade do Microsoft Arquivamento do Exchange Online.
+Este artigo descreve os recursos de conformidade do arquivamento do Microsoft Exchange Online.
   
 ### <a name="retention-policies"></a>Políticas de retenção
 
@@ -67,7 +68,7 @@ Confira mais informações em [Bloqueio In-loco e Retenção Local](https://go.m
   
 ### <a name="in-place-ediscovery"></a>Descoberta Eletrônica In-loco
 
-Arquivamento do Exchange Online eDiscovery suporta no local para pesquisar o conteúdo de caixas de correio em uma organização. Usando o centro de administração do Exchange ou remota do Windows PowerShell de um local Exchange 2013 servidor, os administradores ou gerentes de descoberta autorizados podem pesquisar uma variedade de itens de caixa de correio - incluindo as mensagens de e-mail, anexos, compromissos do calendário, tarefas e contatos. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Confira mais detalhes em [Descoberta Eletrônica In-loco](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+Arquivamento do Exchange Online eDiscovery suporta no local para pesquisar o conteúdo de caixas de correio em uma organização. Usando o centro de administração do Exchange ou remota do Windows PowerShell de um local Exchange 2013 servidor, os administradores ou gerentes de descoberta autorizados podem pesquisar uma variedade de itens de caixa de correio - incluindo as mensagens de e-mail, anexos, compromissos do calendário, tarefas e contatos. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Para obter mais informações, consulte [Descoberta Eletrônica In-loco](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
 O centro de administração do Exchange e o Windows PowerShell remoto podem ser usados para pesquisar até 5.000 caixas de correio ao mesmo tempo em uma Descoberta Eletrônica In-loco. Veja mais detalhes sobre como usar o Windows PowerShell remoto para executar pesquisas de Descoberta Eletrônica In-loco em [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
@@ -119,9 +120,9 @@ As mensagens protegidas por IRM são indexadas e pesquisáveis, incluindo cabeç
 
 Arquivamento do Exchange Online fornece dois tipos de recursos de auditoria internos:
   
-- **Registro de auditoria do administrador**. Permite aos clientes rastrearem mudanças realizadas pelos seus administradores no ambiente do Arquivamento do Exchange Online, incluindo mudanças nas funções do RBAC ou políticas e configurações do Exchange. 
+- **Log de auditoria de administrador** – o log de auditoria do administrador permite que os clientes acompanhem as alterações feitas por seus administradores no ambiente de arquivamento do Exchange Online, incluindo alterações nas funções RBAC ou políticas e configurações do Exchange. 
     
-- **Log de auditoria de caixa de correio** Auditoria de caixa de correio log permite que os clientes controlar o acesso a caixas de correio por usuários que não seja o proprietário de caixa de correio. 
+- **Log de auditoria de caixa de correio** -log de auditoria de caixa de correio permite que os clientes controlem o acesso a caixas de correio por usuários que não sejam o proprietário 
     
 Vários relatórios de auditoria pré-definidos estão disponíveis no Painel de Controle do Exchange, incluindo Mudanças na Função do Administrador, Retenção de Litígio e Acesso de Caixa de Correio por Não Proprietário. Os administradores podem filtrar os relatórios por data e função e podem exportar todos os eventos de auditoria para caixas de correio especificadas no formato XML para retenção a longo prazo ou relatório personalizado.
   

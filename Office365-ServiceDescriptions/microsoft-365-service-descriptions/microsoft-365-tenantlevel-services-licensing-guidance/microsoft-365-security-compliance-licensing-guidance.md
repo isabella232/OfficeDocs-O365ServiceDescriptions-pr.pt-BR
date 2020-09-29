@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
-ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
+ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48284983"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294157"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -118,7 +118,7 @@ Para obter informações sobre como configurar o serviço, consulte [configuraç
 
 Os administradores podem fazer o escopo de implantações do OCAS para impor como determinados aplicativos são acessados e limitar os grupos de usuários monitorados pelo Office 365 Cloud app Security. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Segurança no aplicativo na nuvem da Microsoft
 
 O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos de nuvem e serviços, fornece uma análise sofisticada para identificar e combater as ameaças da Cyber e permite que elas controlem como os dados são transferidos &mdash; em qualquer aplicativo de nuvem.
 
@@ -315,11 +315,11 @@ Os serviços de conectores de dados são um valor de nível de locatário. Cada 
 
 ## <a name="microsoft-graph-apis-for-teams-dlp"></a>APIs do Microsoft Graph para Teams DLP
 
-No início do ano, [anunciamos a visualização pública da API de notificação de alteração do Microsoft Graph para mensagens no Teams](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages). Essa API permite que os desenvolvedores criem aplicativos que podem escutar mensagens do Microsoft Teams em tempo quase real e habilitar implementações de cenário DLP para clientes e ISVs. Além disso, a API do patch do Microsoft Graph permite aplicar ações DLP às mensagens do teams.
+No início do ano, [anunciamos a visualização pública da API de notificação de alteração do Microsoft Graph para mensagens no Teams](https://go.microsoft.com/fwlink/?linkid=2143888). Essa API permite que os desenvolvedores criem aplicativos que podem escutar mensagens do Microsoft Teams em tempo quase real e habilitar implementações de cenário DLP para clientes e ISVs. Além disso, a API do patch do Microsoft Graph permite aplicar ações DLP às mensagens do teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-[Os recursos de prevenção contra perda de dados (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) são amplamente usados no Microsoft Teams, particularmente como as organizações mudaram para o trabalho remoto. Se sua organização tem DLP, agora você pode definir políticas que impedem que as pessoas compartilhem informações confidenciais em um canal do Microsoft Teams ou em uma sessão de chat.
+[Os recursos de prevenção contra perda de dados (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) são amplamente usados no Microsoft Teams, particularmente como as organizações mudaram para o trabalho remoto. Se sua organização tem DLP, agora você pode definir políticas que impedem que as pessoas compartilhem informações confidenciais em um canal do Microsoft Teams ou em uma sessão de chat.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 

@@ -1,5 +1,5 @@
 ---
-title: Conformidade e política de sistema de mensagens
+title: Política de mensagens e conformidade no Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Leia este artigo para saber mais sobre os recursos de política e conformidade de mensagens no Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132785"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293797"
 ---
-# <a name="messaging-policy-and-compliance"></a>Conformidade e política de sistema de mensagens
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Política de mensagens e conformidade no Exchange Online Protection
 
 O Microsoft proteção do Exchange Online (EOP) oferece recursos de política e conformidade de mensagens que podem ajudar você a gerenciar seus dados de email.
 
@@ -65,7 +65,7 @@ A criptografia de mensagens do Office 365, parte da proteção de informações 
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Recursos de diretiva e conformidade de mensagens através de opções EOP
 
-|**Recurso**|**EOP autônomo**|**Recursos do EOP no <br/> Exchange Online**|**Exchange Enterprise <br/> Cal com serviços**|
+| Recurso | EOP autônomo | Recursos do EOP no <br/> Exchange Online | Exchange Enterprise <br/> CAL com serviços |
 |:-----|:-----|:-----|:-----|
 |Regras do fluxo de email|Sim<sup>1</sup>|Sim<sup>1</sup>|Sim<sup>1, 3</sup>|
 |Registro em log de auditoria|Sim<sup>2</sup>|Sim|Sim|

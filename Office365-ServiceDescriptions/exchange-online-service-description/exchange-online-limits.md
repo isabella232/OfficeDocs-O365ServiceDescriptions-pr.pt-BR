@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214340"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293787"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -239,7 +239,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 
 Os limites a seguir são aplicados a todas as mensagens de email.
 
-- **Limite de tamanho de mensagem**: limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, veja a [Microsoft oferece suporte a mensagens de email maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Limite de tamanho de mensagem**: limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, veja a [Microsoft oferece suporte a mensagens de email maiores](https://go.microsoft.com/fwlink/?linkid=2144144).
 
     > [!NOTE]
     > Alguns clientes de email podem ter limites de tamanho de mensagem menores ou podem limitar o tamanho de um anexo de arquivo individual para um valor menor do que o limite de tamanho de mensagem do Exchange Online.
@@ -280,7 +280,7 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|
 
 > [!NOTE]
-> <sup>1</sup> o tamanho máximo de mensagem padrão para caixas de correio da Microsoft é de 25 MB. Os administradores da Microsoft podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para obter mais informações sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, consulte a [Microsoft suporta mensagens de email maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). 
+> <sup>1</sup> o tamanho máximo de mensagem padrão para caixas de correio da Microsoft é de 25 MB. Os administradores da Microsoft podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para obter mais informações sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, consulte a [Microsoft suporta mensagens de email maiores](https://go.microsoft.com/fwlink/?linkid=2144144). 
 <br/> <sup>2</sup> você pode enviar e receber até 150 MB de mensagens entre usuários (onde a mensagem nunca deixa os datacenters da Microsoft). As mensagens roteadas fora dos datacenters da Microsoft estão sujeitas a uma maior codificação de conversão de 33%, caso em que o tamanho máximo da mensagem seja de 112 MB. <br/> 
 <sup>3</sup> contas do OWA para a possibilidade de que sua mensagem esteja sujeita ao aumento da codificação 33% e restringe o tamanho da mensagem que você pode enviar para 25% menor do que a configuração configurada. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. 
 <br/> <sup>4</sup> O tamanho das mensagens a serem movidas para o Exchange Online será calculado pelo Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. Esse limite se aplica a migrações baseadas em movimentação usando qualquer serviço de replicação de caixa de correio do Exchange. Outros métodos de migração (substituição, estágios, IMAP, PST) e outras ferramentas de terceiros são limitados pelo limite de tamanho de mensagem geral. <br/> 
@@ -309,7 +309,7 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|
 
 > [!NOTE]
-> <sup>1</sup> os administradores da Microsoft podem especificar um limite personalizado entre 1 mb e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para obter mais informações sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, consulte a [Microsoft suporta mensagens de email maiores](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> você pode enviar e receber até 150 MB de mensagens entre usuários (onde a mensagem nunca deixa os datacenters da Microsoft). As mensagens roteadas fora dos datacenters da Microsoft estão sujeitas a uma maior codificação de conversão de 33%, caso em que o tamanho máximo da mensagem seja de 112 MB. <br/> 
+> <sup>1</sup> os administradores da Microsoft podem especificar um limite personalizado entre 1 mb e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para obter mais informações sobre como personalizar o tamanho máximo permitido da mensagem para sua organização, consulte a [Microsoft suporta mensagens de email maiores](https://go.microsoft.com/fwlink/?linkid=2144144). <br/> <sup>2</sup> você pode enviar e receber até 150 MB de mensagens entre usuários (onde a mensagem nunca deixa os datacenters da Microsoft). As mensagens roteadas fora dos datacenters da Microsoft estão sujeitas a uma maior codificação de conversão de 33%, caso em que o tamanho máximo da mensagem seja de 112 MB. <br/> 
 <sup>3</sup> contas do OWA para a possibilidade de que sua mensagem esteja sujeita ao aumento da codificação 33% e restringe o tamanho da mensagem que você pode enviar para 25% menor do que a configuração configurada. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. <br/> 
 <sup>4</sup> este é o limite padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização. <br/> 
 <sup>5</sup> o tamanho das mensagens a serem movidas para o Exchange Online são calculados pelo Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. <br/> 

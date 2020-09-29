@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: f90f8a029307eb7c8d240a5038c3142516320cee
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 1be74377907ed36f2ef5738bb2002abf2844e603
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261583"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293947"
 ---
 # <a name="office-365-plan-options"></a>Opções de planos do Office 365
 
@@ -120,7 +120,7 @@ Os serviços online a seguir estão disponíveis individualmente, como planos au
 |Serviço de Business intelligence  <br/> |[Power BI](https://products.office.com/business/analytics-and-intelligence/home) <br/> |
 |Software de diagrama online  <br/> |[Visio Pro para Office 365](https://products.office.com/visio/visio-online-plan-2) <br/> |
 |Gerenciamento de Direitos de Informação  <br/> |[Proteção de Informações do Azure](https://signup.microsoft.com/signup?OfferId=9DF77AF9-DAAE-4d51-8E0E-EEEADD4866B8&dl=RIGHTSMANAGEMENT&ali=1) <br/> |
-|Kaizala  <br/> |[Microsoft Kaizala pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
+|Kaizala  <br/> |[Microsoft Kaizala pro](https://docs.microsoft.com/Office365/Kaizala/migrate-kaizala-pro) <br/> |
    
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

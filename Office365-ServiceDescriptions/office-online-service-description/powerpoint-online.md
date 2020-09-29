@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: O PowerPoint para a Web (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Os clientes do Microsoft 365 com o Office para a Web podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131315"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294058"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint para a Web
 
@@ -28,7 +28,7 @@ O editor do PowerPoint é um componente front-end da Web que cria uma superfíci
   
 Se você selecionar o botão **abrir no PowerPoint** na barra de ferramentas do PowerPoint para a Web, a apresentação será aberta no aplicativo da área de trabalho do PowerPoint (se o Microsoft PowerPoint 2010 ou posterior estiver instalado no computador).
   
-Saiba como [baixar e instalar o Office usando o Microsoft 365 for Business em um computador](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
+Saiba como [baixar e instalar o Office usando o Microsoft 365 for Business em um computador](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c).
   
 ## <a name="alignment-bullets-numbers"></a>Alinhamento, marcadores, numeração
 

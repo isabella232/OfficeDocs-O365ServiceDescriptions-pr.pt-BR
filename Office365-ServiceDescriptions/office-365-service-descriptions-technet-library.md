@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: O Microsoft 365 e o Office 365 são serviços baseados em nuvem projetados para ajudar a atender às necessidades de segurança robusta, confiabilidade e produtividade do usuário.
-ms.openlocfilehash: 64c21ecc0ebe63ba973f4efafec926bddd6ba3c0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131455"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294177"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrições de serviços do Microsoft 365 e do Office 365 
 
@@ -26,7 +26,7 @@ O Microsoft 365 e o Office 365 são serviços baseados em nuvem projetados para 
   
 Os tópicos desta biblioteca fornecem descrições detalhadas dos serviços e recursos disponíveis no Microsoft 365 e no Office 365. Para comparar recursos entre planos, consulte [poderosas ferramentas para dar suporte à sua empresa](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou a descrição de serviço relevante na lista abaixo. 
   
-Para obter informações sobre artigos de suporte, confira [ajuda do office & treinamento](https://support.office.com/), [documentação do Office para administradores e profissionais de ti](https://docs.microsoft.com/office/)e [centro de ajuda do Microsoft 365 para administradores e profissionais de ti](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide).
+Para obter informações sobre artigos de suporte, confira [ajuda do office & treinamento](https://support.office.com/), [documentação do Office para administradores e profissionais de ti](https://docs.microsoft.com/office/)e [centro de ajuda do Microsoft 365 para administradores e profissionais de ti](https://docs.microsoft.com/microsoft-365/).
   
 > [!NOTE]
 > Se você estiver procurando a planilha de comparação de descrição de serviço, ela foi removida. As tabelas de disponibilidade de recursos do produto em cada página de descrição de serviço foram atualizadas para ajudá-lo a escolher a versão do Office 365 que atenda às suas necessidades. 
@@ -84,7 +84,7 @@ Para começar, consulte as seguintes descrições de serviço:
 > [!NOTE]
 > <sup>1</sup> Inclui disponibilidade de [recursos do pacote](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), como o Microsoft Delve, o Microsoft MyAnalytics, o Microsoft Sway e o Microsoft Teams.
   
-## <a name="disclaimer"></a>Aviso de isenção de responsabilidade
+## <a name="disclaimer"></a>Aviso de isenção
 
-&copy;2018 Microsoft Corporation. Todos os direitos reservados. Microsoft, Office 365 e outros nomes de produtos e serviços são ou podem ser marcas comerciais registradas e/ou marcas comerciais nos EUA e/ou em outros países/regiões. As informações fornecidas aqui são para fins informativos apenas e representam a visão atual da Microsoft Corporation a partir da data de publicação ou revisão mais recente deste documento. Elas não se destinam a ser um contrato de serviço e não vinculam a Microsoft ou o cliente a nenhum recurso ou responsabilidade mencionado aqui. A MICROSOFT NÃO OFERECE GARANTIAS, EXPRESSAS, IMPLÍCITAS OU ESTATUTÁRIAS, QUANTO ÀS INFORMAÇÕES DESTE DOCUMENTO.
+&copy; 2018 Microsoft Corporation. Todos os direitos reservados. Microsoft, Office 365 e outros nomes de produtos e serviços são ou podem ser marcas comerciais registradas e/ou marcas comerciais nos EUA e/ou em outros países/regiões. As informações fornecidas aqui são para fins informativos apenas e representam a visão atual da Microsoft Corporation a partir da data de publicação ou revisão mais recente deste documento. Não se destina a ser um contrato de serviço e não compromete a Microsoft ou o cliente a quaisquer recursos, capacidades ou responsabilidades aqui mencionados. A MICROSOFT NÃO OFERECE GARANTIAS, EXPRESSAS, IMPLÍCITAS OU ESTATUTÁRIAS, QUANTO ÀS INFORMAÇÕES DESTE DOCUMENTO.
  

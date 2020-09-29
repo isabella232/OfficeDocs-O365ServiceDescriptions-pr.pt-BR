@@ -1,5 +1,5 @@
 ---
-title: Administração e gerenciamento [EOP]
+title: Administração e gerenciamento no Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: Esta seção descreve as interfaces de gerenciamento que estão disponíveis para administradores do Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 70c1978f78d61ff09acd3360ff874e38db80250c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Este artigo descreve as interfaces de gerenciamento que estão disponíveis para administradores do Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 6889998aaf71243a743e1ec0cf1787a9a2fdb624
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131537"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293607"
 ---
-# <a name="administration-and-managementeop"></a>Administração e gerenciamento [EOP]
+# <a name="administration-and-management-in-exchange-online-protection"></a>Administração e gerenciamento no Exchange Online Protection
 
-Esta seção descreve as interfaces de gerenciamento que estão disponíveis para administradores do Microsoft Exchange Online Protection (EOP).
+Este artigo descreve as interfaces de gerenciamento que estão disponíveis para administradores do Microsoft Exchange Online Protection (EOP).
   
 Você está procurando informações sobre todas as características EOP? Consulte a [Descrição do serviço de proteção do Exchange Online](exchange-online-protection-service-description.md).
   

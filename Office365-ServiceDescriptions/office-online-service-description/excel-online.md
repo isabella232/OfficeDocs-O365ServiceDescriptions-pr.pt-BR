@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131415"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294075"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -161,7 +161,7 @@ Consulte as fórmulas responsáveis pelos resultados de uma célula na barra de 
   
 ## <a name="formula-tools-advanced"></a>Ferramentas de fórmula, avançadas
 
-O aplicativo de área de trabalho do Microsoft Excel fornece as ferramentas de fórmula mais avançadas, como estilo de referência 3D. O Excel para a Web oferece suporte a um número crescente de fórmulas avançadas do Excel, como [fórmulas de matriz dinâmicas](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Saiba mais sobre [fórmulas](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
+O aplicativo de área de trabalho do Microsoft Excel fornece as ferramentas de fórmula mais avançadas, como estilo de referência 3D. O Excel para a Web oferece suporte a um número crescente de fórmulas avançadas do Excel, como [fórmulas de matriz dinâmicas](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Saiba mais sobre [fórmulas](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -189,7 +189,7 @@ Você pode ocultar e Reexibir linhas, colunas e planilhas em uma pasta de trabal
 
 ## <a name="ideas"></a>Ideias
 
-Ideias no Excel ajuda você a compreender seus dados por meio de resumos visuais, tendências e padrões de alto nível. Basta selecionar uma célula em um intervalo de dados e, em seguida, selecionar o botão **ideias** na guia **página inicial** . ideias no Excel analisarão seus dados e devolverão visuais interessantes a ele em um painel de tarefas. Saiba mais sobre as [ideias no Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
+Ideias no Excel ajuda você a compreender seus dados por meio de resumos visuais, tendências e padrões de alto nível. Basta selecionar uma célula em um intervalo de dados e, em seguida, selecionar o botão **ideias** na guia **página inicial** . Ideias no Excel analisarão seus dados e devolverão visuais interessantes a ele em um painel de tarefas. Saiba mais sobre as [ideias no Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
-ms.openlocfilehash: a2d1f37bf4f86399522573d18177f6c397fd761c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5156272ea444414b8da650cf294f99bdfb8b4081
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132635"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293857"
 ---
 # <a name="recipients"></a>Destinatários
 
 Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
   
-## <a name="email"></a>E-mail
+## <a name="email"></a>Email
 
 Cada assinante do Microsoft Exchange Online recebe uma caixa de correio, e caixas de correio especiais estão disponíveis para o agendamento dos recursos de facilidades (como salas de conferência) e para o acesso multiusuário aos endereços de email compartilhados. Limites máximos de armazenamento se aplicam à maioria das caixas de correio, e os administradores podem controlar os tamanhos permitidos da caixa de correio. Notificações e restrições automáticas podem alertar os usuários quando suas caixas de correio atingirem sua capacidade ou estarem próximos de atingir. O Exchange Online também tem vários tipos de limitações de mensagens—tamanho da mensagem, velocidade da mensagem e limites da lista de destinatários. Os detalhes de todos esses recursos e limites são fornecidos abaixo.
   
@@ -57,7 +57,7 @@ O Exchange Online permite que os usuários criem regras de caixa de entrada que 
   
 ### <a name="clutter"></a>Email secundário
 
-O Email secundário foi desenvolvido para ajudar você a focar nas mensagens mais importantes da caixa de entrada. Ele utiliza o aprendizado de máquina para limpar a sua caixa de entrada movendo as mensagens de prioridade baixa para uma nova pasta do Email secundário. O Email secundário respeita as regras existentes do email; portanto, se você criou regras para organizar seu email, essas regras continuarão a ser aplicadas e o Email secundário não executará ações nestas mensagens. Por padrão, o Email secundário é desabilitado para a sua caixa de entrada. Para saber mais, confira [Limpar sua caixa de entrada no Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
+O Email secundário foi desenvolvido para ajudar você a focar nas mensagens mais importantes da caixa de entrada. Ele utiliza o aprendizado de máquina para limpar a sua caixa de entrada movendo as mensagens de prioridade baixa para uma nova pasta do Email secundário. O Email secundário respeita as regras existentes do email; portanto, se você criou regras para organizar seu email, essas regras continuarão a ser aplicadas e o Email secundário não executará ações nestas mensagens. Por padrão, o Email secundário é desabilitado para a sua caixa de entrada. Para saber mais, confira [Limpar sua caixa de entrada no Office 365](https://go.microsoft.com/fwlink/?linkid=2144145).
   
 ### <a name="connected-accounts"></a>Contas conectadas
 

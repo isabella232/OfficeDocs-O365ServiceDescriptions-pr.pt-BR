@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: O arquivamento do Microsoft Exchange Online permite que os usuários se conectem às caixas de correio de arquivo morto de vários dispositivos e plataformas. Toda a conectividade de rede para o arquivamento do usuário ocorre pela Internet, e as conexões de rede virtual privada (VPN) não são obrigatórias. As organizações podem publicar um servidor de Acesso para Cliente para permitir que os usuários acessem sua caixa de correio primária usando o Outlook em Qualquer Lugar, sem requerer uma conexão VPN. Se o acesso VPN for requerido para acessar a caixa de correio primária do usuário localizada em um servidor local, esse requisito não mudará.
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: Leia este artigo para saber mais sobre os recursos do cliente disponíveis no arquivamento do Microsoft Exchange Online.
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255898"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293633"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Recursos do cliente no arquivamento do Exchange Online
 
@@ -29,8 +29,8 @@ O arquivamento do Microsoft Exchange Online permite que os usuários se conectem
 
 O Microsoft Outlook é um sofisticado programa de email que inclui suporte ao calendário, contatos e tarefas. O Arquivamento do Exchange Online dá suporte para o Outlook 2013, o Outlook 2010 e o Outlook 2007. Os principais recursos incluem:
   
-- **Outlook em qualquer lugar** O Outlook em qualquer lugar permite que os usuários do Outlook se conectem ao Exchange Server e ao arquivamento do Exchange Online pela Internet sem a necessidade de uma conexão VPN. A comunicação entre o Outlook e o Arquivamento do Exchange Online ocorre via túnel com segurança SSL, usando o componente de rede Windows RPC-over-HTTP.    
-- **Descoberta automática** O serviço da Descoberta automática do Exchange configura automaticamente o Outlook para trabalhar com o Arquivamento do Exchange Online. A descoberta automática permite que os usuários do Outlook recebam suas configurações de perfil necessárias diretamente do Exchange na primeira vez (e em intervalos fixos depois) que eles entrem com seu endereço de email e senha. 
+- **Outlook Anywhere** -o Outlook em qualquer lugar permite que os usuários do Outlook se conectem ao Exchange Server e ao arquivamento do Exchange Online pela Internet sem precisar de uma conexão VPN. A comunicação entre o Outlook e o Arquivamento do Exchange Online ocorre via túnel com segurança SSL, usando o componente de rede Windows RPC-over-HTTP.    
+- **Descoberta automática** -o serviço de descoberta automática do Exchange configura automaticamente o Outlook para funcionar com o arquivamento do Exchange Online. A descoberta automática permite que os usuários do Outlook recebam suas configurações de perfil necessárias diretamente do Exchange na primeira vez (e em intervalos fixos depois) que eles entrem com seu endereço de email e senha. 
 
 O Outlook 2010 e posterior e o Outlook na Web fornecem aos usuários todos os recursos do arquivo morto, bem como os recursos relacionados, como políticas de retenção e arquivamento.
   
@@ -41,9 +41,9 @@ O Outlook 2007 oferece suporte básico ao arquivamento, mas nem todos os recurso
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clientes suportados pelo Arquivamento do Exchange Online
 
-A tabela a seguir lista os clientes suportados pelo Arquivamento do Exchange Online:
+A tabela a seguir lista os clientes suportados pelo Arquivamento do Exchange Online:<br><br>
   
-|**Cliente**|**Suporte EOA**|
+| Cliente | Suporte do EOA |
 |:-----|:-----|
 |Outlook 2013 e posterior  <br/> |Oferece suporte para os recursos mais recentes no Arquivamento do Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |Oferece suporte aos recursos mais recentes no arquivamento do Exchange Online até Oct. 13, 2020|

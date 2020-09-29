@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Os seguintes recursos de funcionalidade de serviços principais estão disponíveis no Project online.
-ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5876a9f7df783a30fdc774efacf5828fdc4f64e5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131235"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294059"
 ---
 # <a name="core-services-functionality"></a>Principais recursos de serviços
 
@@ -32,7 +32,7 @@ O Project Online e o Project Server 2013 fornecem recursos aos administradores p
   
 ## <a name="getting-started"></a>Introdução
 
-O conteúdo de introdução está disponível para o Project online. Confira [Introdução ao Project Online](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US).
+O conteúdo de introdução está disponível para o Project online. Confira [Introdução ao Project Online](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Gerenciamento de problemas e de riscos (para membros da equipe)
 

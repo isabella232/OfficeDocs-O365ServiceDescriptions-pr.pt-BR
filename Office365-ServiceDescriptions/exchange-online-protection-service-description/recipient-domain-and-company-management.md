@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento de destinatários, domínios e empresas
+title: Gerenciamento de destinatário, domínio e empresa no Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: O Microsoft proteção do Exchange Online (EOP) oferece vários meios de gerenciamento das informações de destinatário, domínio e da empresa. Como administrador, você pode executar determinadas tarefas de gerenciamento no centro de administração do Exchange (Eat) e verificar outras tarefas de gerenciamento executadas no centro de administração do Microsoft 365.
-ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Leia este artigo para saber mais sobre o gerenciamento de destinatário, domínio e empresa no Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 7be36ecbf065eb7bc1ce2c890ac84a6fea565c68
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132765"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294117"
 ---
-# <a name="recipient-domain-and-company-management"></a>Gerenciamento de destinatários, domínios e empresas
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Gerenciamento de destinatário, domínio e empresa no Exchange Online Protection
 
 O Microsoft proteção do Exchange Online (EOP) oferece vários meios de gerenciamento das informações de destinatário, domínio e da empresa. Como administrador, você pode executar determinadas tarefas de gerenciamento no centro de administração do Exchange (Eat) e verificar outras tarefas de gerenciamento executadas no centro de administração do Microsoft 365.
   

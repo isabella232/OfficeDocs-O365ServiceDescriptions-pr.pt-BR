@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Saiba mais sobre a disponibilidade de recursos do SharePoint para clientes de nuvem do governo dos EUA.
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42174986"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294187"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint para ambientes do governo dos EUA
 
@@ -40,7 +40,7 @@ Não há diferenças conhecidas entre os recursos de desenvolvedor para clientes
 - As conexões com aplicativos externos, como fontes de dados para suplementos, estão limitadas às fontes localizadas dentro dos limites de segurança do sistema suportados pelo seu ambiente governamental.
 - A funcionalidade de serviços corporativos de conectividade (BCS) é suportada em cenários de conectividade nos quais as fontes de dados permanecem acessíveis dentro do limite de segurança para o seu serviço de nuvem.
 
-Se você usar aplicativos de terceiros em sites, revise as declarações de privacidade e conformidade fornecidas por terceiros ao avaliar o uso apropriado desses serviços para sua organização. Aplicativos e serviços de terceiros podem envolver o armazenamento, a transmissão e o processamento dos dados do cliente da sua organização em sistemas de terceiros que estão fora da nuvem governamental e, portanto, não são cobertos por sua conformidade e proteção de dados cumprir. 
+Se você usar aplicativos de terceiros em sites, revise as declarações de privacidade e conformidade fornecidas por terceiros ao avaliar o uso apropriado desses serviços para sua organização. Aplicativos e serviços de terceiros podem envolver o armazenamento, a transmissão e o processamento dos dados do cliente da sua organização em sistemas de terceiros que estão fora da nuvem governamental e, portanto, não são cobertos por seus compromissos de conformidade e proteção de dados. 
 
 ## <a name="it-admin-features"></a>Recursos de administração de ti
 
@@ -59,10 +59,10 @@ Para obter informações sobre a migração do FastTrack, consulte a [Descriçã
 Não há diferenças conhecidas entre os recursos de segurança e conformidade para clientes comerciais e para os clientes de nuvem governamental.
 
 Para obter informações sobre os seguintes recursos, consulte a [Descrição do serviço do governo dos EUA do Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features):
-- Sistema de Proteção de Dados do Cliente
+- Sistema de Proteção de Dados do cliente
 - Prevenção de perda de dados (DLP)
 - Descoberta eletrônica (pesquisa de conteúdo, retenção, exportação)
-- Proteção avançada contra ameaças do Office 365 (ATP)
+- Proteção Avançada contra Ameaças do Office 365 (ATP)
 - Rótulos de confidencialidade
 
 Para obter informações sobre os recursos do Azure Active Directory para o governo, consulte a [documentação de segurança e identidade do Azure governamental](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory). 
@@ -95,4 +95,4 @@ Sua mudança para a nuvem oferece experiências de transformativa com controles 
 
 Depois de configurar sua organização na nuvem do governo dos EUA da Microsoft, siga o caminho de implantação recomendado descrito na [central de recursos de adoção do SharePoint](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/). Não se esqueça de envolver seus campeões de adoção e de gerenciamento de mudanças.
 Você também pode trabalhar com o [FastTrack](https://www.microsoft.com/fasttrack) ou seu parceiro escolhido para distribuir o serviço para os seus usuários.
-Visite a [central de confiabilidade da Microsoft](https://www.microsoft.com/en-us/trust-center) para saber mais sobre como a Microsoft aborda segurança, privacidade e conformidade, princípios fundamentais sobre como capacitar as organizações a atender seus clientes.
+Visite a [central de confiabilidade da Microsoft](https://www.microsoft.com/trust-center) para saber mais sobre como a Microsoft aborda segurança, privacidade e conformidade, princípios fundamentais sobre como capacitar as organizações a atender seus clientes.

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Veja quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300505"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294088"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -34,7 +34,7 @@ Para ver quais planos incluem o SharePoint, [poderosas ferramentas para dar supo
 
 Para saber mais sobre as diferenças dos recursos do SharePoint para clientes de nuvem do governo dos EUA, confira [SharePoint para ambientes do governo dos EUA](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
-## <a name="whats-new"></a>O que há de novo
+## <a name="whats-new"></a>Novidades
 
 Para obter informações sobre os recursos mais recentes que estão sendo lançados, consulte [What ' s New in SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -90,7 +90,7 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Uso do aplicativo e monitoramento de erros](/sharepoint/monitor-apps)
 - Relatórios de atividade e uso do [SharePoint e do](/office365/admin/activity-reports/sharepoint-activity) [onedrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [Alterar URL do site](/sharepoint/change-site-address)
-- [Configurações de armazenamento e de retenção padrão para o OneDrive](/en-us/onedrive/set-default-storage-space)
+- [Configurações de armazenamento e de retenção padrão para o OneDrive](/onedrive/set-default-storage-space)
 - [Híbrido para o SharePoint Server](/sharepoint/hybrid/hybrid). Os primeiros funcionários exigem uma licença de acesso para cliente (CAL) para acessar o SharePoint Server.
 - [Gerenciamento de configurações de criação de site](/sharepoint/manage-site-creation)
 - [Gerenciamento de limites de armazenamento do site](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Restaurar sites excluídos](/sharepoint/restore-deleted-site-collection)
 - [Centro de administração do SharePoint](/sharepoint/get-started-new-admin-center). As organizações com profissionais de primeira linha precisam de pelo menos um usuário corporativo para acessar o centro de administração.
 - [Scanner de modernização do SharePoint](/sharepoint/dev/transform/modernize-scanner)
-- [Shell de gerenciamento do SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). As organizações com profissionais de primeira linha precisam de pelo menos um usuário corporativo para acessar o centro de administração.
+- [Shell de gerenciamento do SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). As organizações com profissionais de primeira linha precisam de pelo menos um usuário corporativo para acessar o centro de administração.
 - [Governança de site](/sharepoint/governance-overview) 
 - [Repositório de termos-metadados gerenciados](/sharepoint/managed-metadata)
 
@@ -167,7 +167,7 @@ Salvo indicação em contrário, os seguintes recursos estão disponíveis em to
 - [Biblioteca de ativos da organização](/sharepoint/organization-assets-library)
 - [Notícias da organização](/sharepoint/organization-news-site)
 - [Aprovação de página](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Páginas](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Gerenciamento de registros
 - [Lixeira](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Aplicativo móvel do SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

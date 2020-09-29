@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: O Word para a Web (anteriormente Word Web App) estende sua experiência do Microsoft Word ao navegador da Web, onde você pode trabalhar com documentos diretamente no site em que o documento está armazenado.
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616907"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294047"
 ---
 # <a name="word-for-the-web"></a>Word para a Web
 
@@ -40,7 +40,7 @@ Você pode obter um complemento para o Word na loja do Office. Os suplementos do
 
 O Word para a Web salva o documento automaticamente quando você faz alterações.
   
-## <a name="autotext"></a>AutoText
+## <a name="autotext"></a>AutoTexto
 
 Você pode inserir blocos de texto pré-formatado usando o AutoTexto da galeria de AutoTexto. Isso é útil, por exemplo, quando você precisa inserir repetidamente o mesmo bloco grande de texto e o texto contém muita formatação. Crie entradas de AutoTexto adicionando texto selecionado à galeria de AutoTexto. Para saber mais, confira [Inserir texto automaticamente](https://go.microsoft.com/fwlink/?linkid=846739).
   
@@ -160,7 +160,7 @@ Inserir quebras de página em ambos, Word para a Web e o aplicativo da área de 
 
 Com o Word para a Web, você pode ajustar as margens, o tamanho do papel e se a página é disposta vertical ou horizontalmente em seus documentos. O Word para a Web não exibe réguas e linhas de grade. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
   
-Saiba como [excluir uma página em branco no Word para a Web](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1).
+Saiba como [excluir uma página em branco no Word para a Web](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1).
   
 ## <a name="page-layout-tools-advanced"></a>Ferramentas de layout de página, avançadas
 

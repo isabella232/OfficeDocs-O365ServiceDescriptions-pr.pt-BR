@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Os seguintes recursos de gerenciamento de projetos estão disponíveis no Project online.
-ms.openlocfilehash: 6952e801fe96d9467c7b642b002abf6f97664414
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 3a6e49d3b373646524f4f1f96e955bd4b78e1677
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131215"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294081"
 ---
 # <a name="project-management"></a>Gerenciamento de projeto
 
@@ -44,4 +44,4 @@ Use uma abordagem centralizada e comum para relatório de tempo e gerenciamento 
 
 ## <a name="project-home"></a>Página inicial do projeto
 
-A página inicial do Project é o ponto de partida que lhe dá acesso rápido e fácil aos projetos que trabalharam recentemente e importantes projetos de alto nível. Você pode marcar esses projetos como favoritos com controles fáceis de usar para que eles sejam exibidos de forma proeminente na casa do projeto. Para saber mais, confira [introdução à página inicial do Project](https://support.office.com/article/get-started-with-project-home-a3b38418-35e7-4df4-8e4a-ba6a4fa0562a?ui=en-US&rs=en-US&ad=US).
+A página inicial do Project é o ponto de partida que lhe dá acesso rápido e fácil aos projetos que trabalharam recentemente e importantes projetos de alto nível. Você pode marcar esses projetos como favoritos com controles fáceis de usar para que eles sejam exibidos de forma proeminente na casa do projeto. Para saber mais, confira [introdução à página inicial do Project](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).

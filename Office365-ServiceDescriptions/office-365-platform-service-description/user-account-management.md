@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: A Microsoft oferece suporte aos seguintes métodos para criar, gerenciar e autenticar usuários.
-ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 56bc8c2e89df4540ec5a74edf76216a4401d6666
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261543"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294207"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -33,7 +33,7 @@ Se você precisar de informações sobre as ferramentas que podem ajudá-lo a re
 
 Obter ajuda com: [entrando na](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [instalação ou desinstalação do Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [cancelando o Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
-Para outros problemas, visite o [centro de suporte da Microsoft](https://support.microsoft.com/contactus/). Para suporte para o Office 365 operado pela 21Vianet na China, fale com a [Equipe de suporte técnico da 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Em relação ao Office 365 Germany, fale com a [Equipe de suporte do Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
+Para outros problemas, visite o [centro de suporte da Microsoft](https://support.microsoft.com/contactus/). Para suporte para o Office 365 operado pela 21Vianet na China, fale com a [Equipe de suporte técnico da 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Em relação ao Office 365 Germany, fale com a [Equipe de suporte do Office 365 Germany](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9). 
   
 ## <a name="sign-in-options"></a>Opções de entrada
 
@@ -87,7 +87,7 @@ Para clientes avançados como os aplicativos da área de trabalho do Microsoft O
     
 - **Autenticação básica/de proxy sobre SSL** – o cliente do Outlook passa credenciais de autenticação básica sobre SSL para o Exchange Online. Os proxies do Exchange Online a solicitação de autenticação para a plataforma de identidade e, em seguida, para o servidor de Federação do Active Directory local (para SSO). 
     
-Para garantir a descoberta e autenticação adequadas dos serviços Microsoft, os administradores devem aplicar um conjunto de componentes e atualizações a cada estação de trabalho que usa clientes avançados (como o Microsoft Office 2010) e se conecta ao Office 365. A instalação do desktop é uma ferramenta automatizada para configurar estações de trabalho com as atualizações necessárias. Para obter mais informações, consulte [usar meus aplicativos da área de trabalho do Office atual](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US).
+Para garantir a descoberta e autenticação adequadas dos serviços Microsoft, os administradores devem aplicar um conjunto de componentes e atualizações a cada estação de trabalho que usa clientes avançados (como o Microsoft Office 2010) e se conecta ao Office 365. A instalação do desktop é uma ferramenta automatizada para configurar estações de trabalho com as atualizações necessárias. Para obter mais informações, consulte [usar meus aplicativos da área de trabalho do Office atual](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7).
   
 ### <a name="sign-in-experience"></a>Experiência de entrada
 
@@ -114,7 +114,7 @@ A experiência de entrada é alterada dependendo do tipo de identidade em uso:<b
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-Há várias maneiras de adicionar usuários. Para saber mais, confira [Adicionar usuários individualmente ou em massa ajuda de administrador](https://docs.microsoft.com/office365/admin/add-users/add-users) e [Adicionar, remover e gerenciar usuários no Microsoft 365 Administration Center Preview](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Criar ou editar contas de usuário no Office 365 operado pela 21Vianet - Ajuda do administrador](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Há várias maneiras de adicionar usuários. Para saber mais, confira [Adicionar usuários individualmente ou em massa ajuda de administrador](https://docs.microsoft.com/office365/admin/add-users/add-users) e [Adicionar, remover e gerenciar usuários no Microsoft 365 Administration Center Preview](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Criar ou editar contas de usuário no Office 365 operado pela 21Vianet - Ajuda do administrador](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="delete-user-accounts"></a>Excluir contas de usuário
 
@@ -181,7 +181,7 @@ Parceiros podem ser autorizados a administrar contas em nome de clientes. O clie
   
 ## <a name="azure-active-directory-services"></a>Serviços do Azure Active Directory
 
-O Active Directory (AD) do Azure oferece recursos abrangentes de gerenciamento de identidade e acesso ao Office 365. Ele combina os serviços de diretório, gerenciamento avançado de identidades, gerenciamento de acesso a aplicativos e uma plataforma avançada baseada em padrões para os desenvolvedores. Para saber mais sobre os recursos do AD no Office 365, confira [Identidade visual da página de login e redefinição da senha de autoatendimento do usuário da nuvem](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Saiba mais sobre as [Edições Gratuita, Basic e Premium do Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+O Active Directory (AD) do Azure oferece recursos abrangentes de gerenciamento de identidade e acesso ao Office 365. Ele combina os serviços de diretório, gerenciamento avançado de identidades, gerenciamento de acesso a aplicativos e uma plataforma avançada baseada em padrões para os desenvolvedores. Para saber mais sobre os recursos do AD no Office 365, confira [página de entrada e redefinição de senha de autoatendimento do usuário da nuvem]() https://go.microsoft.com/fwlink/?linkid=2144147 . Saiba mais sobre as [Edições Gratuita, Basic e Premium do Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
