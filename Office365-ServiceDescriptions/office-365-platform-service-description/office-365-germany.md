@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com residências de dados na Alemanha e medidas de controle e acesso de dados estritos por meio de um modelo de confiança de dados exclusivo regido em lei alemão.
-ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
+ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293847"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367758"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
@@ -459,7 +459,7 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 <sup>9</sup> o Exchange Server 2013 usa apenas o mecanismo antimalware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. <br/> <sup>10</sup> contas conectadas têm suporte para &amp; contas POP IMAP, mas estão desabilitadas para o Outlook.com (Hotmail). <br/>
 <sup>11</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa. <br/>
 <sup>12</sup> não há suporte para o uso de cmdlet para trabalhar com a lista de endereços e a lista de endereços global. <br/>
-<sup>13</sup> requer o uso do espaço de endereçamento de disponibilidade para dar suporte ao compartilhamento com outros locatários. Para obter mais informações sobre como criar um espaço de endereçamento de disponibilidade, consulte [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Table indica se o cliente funciona ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos.<br/>
+<sup>13</sup> requer o uso do espaço de endereçamento de disponibilidade para dar suporte ao compartilhamento com outros locatários. Para obter mais informações sobre como criar um espaço de endereçamento de disponibilidade, consulte [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Table indica se o cliente funciona ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos.<br/>
 <sup>15</sup> há suporte para pop, mas não para IMAP.<br/>
 <sup>16</sup> algumas Web Parts e suplementos de terceiros podem não estar disponíveis.
 
@@ -533,7 +533,7 @@ A tabela a seguir exibe os recursos da Proteção Avançada contra Ameaças do E
 
 A tabela a seguir exibe os recursos do Project Online que estão disponíveis nos planos do Office 365 Germany. Saiba mais sobre o Project Online em [Introdução ao Project Online](https://go.microsoft.com/fwlink/?linkid=2144053).<br><br>
 
-| Plano | Descrição | Usuários de destino |
+| Planejar | Descrição | Usuários de destino |
 |:-----|:-----|:-----|
 |Project Online Essentials| Interface baseada na Web para membros da equipe  <br/>  Atualizar tarefas, problemas e riscos  <br/>  Enviar quadros de horários  <br/>  Compartilhar documentos e colaborar com a presença do Skype for Business|Membros da equipe|
 |Project Online Professional| Todas as funcionalidades do Project Online Essentials e:  <br/>  Interface de usuário avançada pelo cliente da área de trabalho  <br/>  Acesso a qualquer momento/em qualquer lugar por meio da interface da Web  <br/>  Custo e agendamento de projetos  <br/>  Gerenciamento de recursos  <br/>  Publicação de projetos na nuvem  <br/>  Inclui a versão mais recente do aplicativo Project para área de trabalho, transmitido instantaneamente para o seu PC com Windows.  <br/>  Cada licença de assinatura permite até cinco instalações simultâneas do aplicativo Project para área de trabalho.|Gerentes de projeto|
