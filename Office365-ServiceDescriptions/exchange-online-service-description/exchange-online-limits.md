@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: d2b3639627efbafa91ab5bb45807b83aa1b30a28
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293787"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408237"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -389,7 +389,7 @@ Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa 
 - **Período de retenção da pasta de lixo eletrônico**: o número máximo de dias que os itens podem permanecer na pasta lixo eletrônico antes de serem removidos automaticamente.
 
 > [!NOTE]
-> Uma caixa de correio de usuário com exclusão reversível &mdash; uma caixa de correio excluída usando o centro de administração do Microsoft 365 ou o cmdlet Remove-Mailbox no Exchange Online PowerShell e que ainda esteja na lixeira do Azure Active Directory &mdash; é recuperável dentro de 30 dias.
+> Uma caixa de correio de usuário excluída de forma reversível &mdash; usando o centro de administração do Microsoft 365 ou o cmdlet Remove-Mailbox no Exchange Online PowerShell e que ainda esteja na lixeira do Azure Active Directory &mdash; é recuperável dentro de 30 dias.
 
 ### <a name="retention-limits"></a>Limites de retenção
 
@@ -469,7 +469,7 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, regras 
     
 - **Número de vezes que uma mensagem é redirecionada**: o número de vezes que uma mensagem será redirecionada, encaminhada ou respondida automaticamente com base nas regras de caixa de entrada. Por exemplo, o Usuário A tem uma regra de Caixa de Entrada que redireciona mensagens para o Usuário B, com base no remetente. O Usuário B tem uma regra de Caixa de Entrada que encaminha mensagens para o Usuário C com base em palavras-chave na linha de assunto. Se uma mensagem satisfaz a ambas as condições, ela é enviada apenas ao Usuário B; ela não é encaminhada ao Usuário C, porque somente um redirecionamento é permitido. Nesse caso, a mensagem é descartada sem enviar uma notificação de falha na entrega (NDR) para o usuário B, indicando que a mensagem não foi entregue ao usuário C. Utilizamos o cabeçalho X-MS-Exchange-inbox-Rule-loop para determinar o número de vezes que uma mensagem foi redirecionada. Esse cabeçalho permanece também entre os limites organizacionais do Exchange.
 
-- **Número de vezes em que uma mensagem é redirecionada por regras de transporte**: o número de vezes que uma mensagem será redirecionada com base nas regras de transporte. Por exemplo, o Exchange Organization Tailspin Toys tem uma regra de transporte para redirecionar todas as mensagens que foram enviadas ao usuário a para o usuário B que está localizado na organização do Exchange contoso. Dentro da organização do Exchange contoso há uma regra de transporte em vigor para redirecionar todas as mensagens que foram enviadas ao usuário B para o usuário C, que está localizado na organização do Exchange A. Datum Corporation. Nesse caso, a mensagem é descartada e uma notificação de falha na entrega (NDR) com código de status e a mensagem de rejeição *550 transporte de 5.7.128. Regras. RejectMessage A contagem de loop de regras de transporte foi excedida e a mensagem rejeitada* é enviada para o usuário a. Utilizamos o cabeçalho X-MS-Exchange-Transport-Rules-loop para determinar o número de vezes que uma mensagem foi redirecionada por regras de transporte. Esse cabeçalho permanece também entre os limites organizacionais do Exchange.
+- **Número de vezes em que uma mensagem é redirecionada por regras de transporte**: o número de vezes que uma mensagem será redirecionada com base nas regras de transporte. Por exemplo, a Exchange Organization Tailspin Toys tem uma regra de transporte para redirecionar todas as mensagens que foram enviadas ao usuário a para o usuário B, que está localizado na organização do Exchange contoso. Dentro da organização do Exchange contoso, há uma regra de transporte em vigor para redirecionar todas as mensagens que foram enviadas ao usuário B para o usuário C, que está localizado na organização do Exchange A. Datum Corporation. Nesse caso, a mensagem é descartada e uma notificação de falha na entrega (NDR) com código de status e a mensagem de rejeição *550 transporte de 5.7.128. Regras. RejectMessage A contagem de loop de regras de transporte foi excedida e a mensagem rejeitada* é enviada para o usuário a. Utilizamos o cabeçalho X-MS-Exchange-Transport-Rules-loop para determinar o número de vezes que uma mensagem foi redirecionada por regras de transporte. Esse cabeçalho permanece também entre os limites organizacionais do Exchange.
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>Limites de regras de diário, transporte e caixa de entrada
 

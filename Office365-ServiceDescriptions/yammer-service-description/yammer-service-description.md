@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Veja quais recursos estão disponíveis nos diferentes planos do Yammer.
-ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276749"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408247"
 ---
 # <a name="yammer-service-description"></a>Descrição do serviço do Yammer
 
 Yammer é uma rede social corporativa excelente, segura e privada. O Yammer permite que os funcionários sejam mais produtivos e bem-sucedidos deixando que eles colaborem com facilidade, tomem decisões mais rapidamente e se auto-organizem em equipes para enfrentarem qualquer desafio comercial. É um novo modo de trabalhar que conduz naturalmente o alinhamento e a agilidade comerciais, reduz os tempos de ciclo, engaja os funcionários e melhora as relações entre clientes e parceiros.
   
-Para obter uma lista de planos que incluem o Yammer, consulte [Microsoft Service famílias and Plans](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
+Para obter uma lista de planos que incluem o Yammer, consulte [Microsoft Service famílias and Plans](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans).
   
 Para comparar recursos entre planos, consulte [poderosas ferramentas para dar suporte à sua empresa](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
@@ -34,7 +34,7 @@ Para obter os requisitos de sistema do Office 365, o serviço mensal baseado em 
 
 O Yammer está disponível nos seguintes planos:<br><br>
   
-| Plano | Descrição |
+| Planejar | Descrição |
 |:-----|:-----|
 |[Yammer](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Rede social corporativa - a qualquer hora, em qualquer lugar.  <br/> |
 |[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Rede social corporativa com segurança, administração e integrações avançadas.  <br/> |
