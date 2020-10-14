@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Saiba mais sobre os limites do SharePoint para o Microsoft 365 e planos autônomos.
-ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
+ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276722"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48447338"
 ---
 # <a name="sharepoint-limits"></a>Limites do Microsoft Office SharePoint Online
 
@@ -66,9 +66,9 @@ A cópia/movimentação de vários arquivos em uma única operação tem três r
 
 ### <a name="sync"></a>Sincronizar
 
-**Novo aplicativo de sincronização do onedrive** – para obter o desempenho ideal, recomendamos armazenar no máximo 300.000 arquivos por usuário em todas as bibliotecas de documentos sincronizadas, mesmo que você esteja usando arquivos sob demanda ou escolhendo apenas algumas pastas dentro das bibliotecas para sincronizar.
+**Aplicativo atual do onedrive Sync (OneDrive.exe)** – para obter o desempenho ideal, recomendamos armazenar no máximo 300.000 arquivos por usuário em todas as bibliotecas de documentos sincronizadas, mesmo que você esteja usando arquivos por demanda ou escolhendo apenas algumas pastas dentro das bibliotecas para sincronizar.
 
-**Aplicativo de sincronização anterior do onedrive for Business (Groove.exe)** -você pode sincronizar até 20.000 itens de total em todas as bibliotecas sincronizadas. Isso inclui as bibliotecas do OneDrive, as bibliotecas do site de equipe ou ambas. Separadamente do limite geral de sincronização, há limites para o número de itens que podem ser sincronizados para cada tipo de biblioteca:
+**Aplicativo de sincronização anterior do onedrive for Business (Groove.exe usado com ambientes do SharePoint no local antigo)** -você pode sincronizar até 20.000 itens no total em todas as bibliotecas sincronizadas. Isso inclui as bibliotecas do OneDrive, as bibliotecas do site de equipe ou ambas. Separadamente do limite geral de sincronização, há limites para o número de itens que podem ser sincronizados para cada tipo de biblioteca:
 
    - Você pode sincronizar até 20.000 itens em uma biblioteca do OneDrive. Isso inclui pastas e arquivos. 
    - Você pode sincronizar até 5.000 itens em uma biblioteca do SharePoint. Isso inclui pastas e arquivos. São as bibliotecas que você encontra em vários sites do SharePoint, como sites de equipe e sites de comunidade, bibliotecas que outras pessoas criaram ou que você criou na página sites. Você pode sincronizar várias bibliotecas do SharePoint. Qualquer site de equipe que você sincronizar também contará com o limite de itens de 20.000 geral em todas as bibliotecas sincronizadas.
