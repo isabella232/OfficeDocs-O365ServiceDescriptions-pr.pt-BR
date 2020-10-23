@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Veja quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294088"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661259"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -42,7 +42,7 @@ Para obter informações sobre os recursos mais recentes que estão sendo lança
 
 O Microsoft 365 está disponível em vários planos para atender melhor às necessidades da sua organização. Para obter informações sobre diferentes planos, incluindo opções de plano autônomo e informações sobre como migrar de um plano para outro, consulte [Microsoft 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
-Para acessar o SharePoint, os usuários de sua organização precisam receber uma licença que inclui o SharePoint. Um plano de início não é vendido como uma oferta autônoma, somente como parte do [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
+Para acessar o SharePoint, os usuários de sua organização precisam receber uma licença que inclui o SharePoint. Um plano de início não é vendido como uma oferta autônoma, somente como parte do [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1), [Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) ou [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab). 
   
 ## <a name="rights-of-guests"></a>Direitos de convidados
 

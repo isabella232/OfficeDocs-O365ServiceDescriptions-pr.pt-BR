@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245686"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661279"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -52,6 +52,9 @@ O Microsoft 365 está disponível em vários planos para atender melhor às nece
 Cada usuário que acessar o serviço Exchange Online deve ser atribuído a um plano de assinatura, e cada assinatura de usuário ter sua própria caixa de correio. Pastas e mensagens nessas caixas de correio residem em um computador com Exchange Server em um data center da Microsoft.
   
 As assinaturas do usuário não são exigidas para salas de conferência e caixas de correio compartilhadas. Esses tipos de caixa de correio especial não têm credenciais de logon. Em vez disso, os usuários licenciados com as permissões apropriadas gerenciam e acessam essas caixas por meio de delegação.
+
+**Direitos de uso de caixa de correio de usuário do Microsoft 365 F1** <br/>
+A Microsoft 365 F1 não inclui direitos para uma caixa de correio do Exchange. Para habilitar uma experiência de equipe completa, as licenças do M365 F1 podem vir com o plano de serviço K1 do Exchange Online habilitado. Embora o plano de serviço K1 do Exchange Online Provisione uma caixa de correio para o usuário, os usuários do M365 F1 não têm direito a usar a caixa de correio. Recomendamos que você desabilite o Outlook na Web por meio [dessas etapas](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) e peça aos usuários que não acessem a caixa de correio do Exchange por meio de outros métodos.
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisitos do sistema do Exchange Online
 
@@ -102,7 +105,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|Sim|Não|Não|Não|Não|Sim|Não|
-|**[Fluxo de emails](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -236,7 +239,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, consulte [De
 |Customize antimalware policies|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|
-|**[Fluxo de emails](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Plano 1 do Exchange Online &nbsp;**|**Plano 2 do Exchange Online &nbsp;**|**Quiosque do Exchange Online**|
+|**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Plano 1 do Exchange Online &nbsp;**|**Plano 2 do Exchange Online &nbsp;**|**Quiosque do Exchange Online**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Não|Não|Sim|Sim|Sim|

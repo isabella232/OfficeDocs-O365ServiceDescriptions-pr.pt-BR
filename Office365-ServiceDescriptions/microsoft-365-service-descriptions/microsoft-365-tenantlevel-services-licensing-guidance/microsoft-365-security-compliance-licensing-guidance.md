@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294157"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661289"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -164,7 +164,7 @@ Estes são os benefícios para os usuários do serviço Gerenciador de conformid
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
-Os clientes com o Office 365 E1/a1/E3/a3 e as licenças do Microsoft 365 E3/a3 poderão acessar a avaliação da linha de base de proteção de dados. Os clientes com o Office 365 E5/a5 e as licenças do Microsoft 365 E5/a5 poderão acessar as avaliações da linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 22701. Os clientes precisam ter pelo menos uma licença do Office 365 E5/a5 ou Microsoft 365 E5/a5 para usar o recurso de avaliação personalizada. As avaliações Premium estarão disponíveis para compra para os clientes do Office 365 E5/a5 e Microsoft 365 E5/a5.
+Os clientes com o Office 365 E5/a5 e as licenças do Microsoft 365 E5/a5 poderão acessar as avaliações da linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 27001, além de usar o recurso de avaliação personalizada. As avaliações Premium estarão disponíveis para compra para os clientes do Office 365 E5/a5 e Microsoft 365 E5/a5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
