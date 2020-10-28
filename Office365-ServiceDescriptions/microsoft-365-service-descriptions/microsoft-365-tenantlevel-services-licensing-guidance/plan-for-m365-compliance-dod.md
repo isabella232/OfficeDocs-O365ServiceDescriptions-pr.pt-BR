@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governamental – DoD é adequado para atender a esses requisitos.
-ms.openlocfilehash: 1daa907c60a16fa6422fb3b99af64710f7c16778
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
+ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962140"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48769973"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planejar a conformidade com o Microsoft 365 – implantações do DoD
 
@@ -38,9 +38,9 @@ Você pode encontrar mais informações sobre a oferta Microsoft 365 governament
 A [Descrição do serviço governo dos EUA do Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descreve os benefícios da plataforma, que são centralizados em atender aos requisitos de conformidade nos Estados Unidos.
 
 > [!TIP]
-> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n**. Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
+> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n** . Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
 
-**Pontos de decisão**:<br/>
+**Pontos de decisão** :<br/>
 - *Decida se o Microsoft 365 governamentais-DoD é adequado para sua organização.*
 - *Confirme se a sua organização atende aos requisitos de qualificação.*
 
@@ -55,7 +55,7 @@ Para ter decidido que esse serviço é adequado para sua organização, inicie o
 
 Recomendamos que você reserve um tempo para revisar cuidadosamente suas configurações de administrador e segurança antes de modificá-las e considere o impacto sobre a conformidade antes de fazer qualquer alteração nas configurações de segurança padrão.
 
-**Ponto de decisão**: *decida se você modificará qualquer uma das configurações de segurança governamentais-DOD padrão da Microsoft 365, resolvendo para entender primeiro o impacto de qualquer alteração que você possa fazer.*
+**Ponto de decisão** : *decida se você modificará qualquer uma das configurações de segurança governamentais-DOD padrão da Microsoft 365, resolvendo para entender primeiro o impacto de qualquer alteração que você possa fazer.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Etapa 4. Entender quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – DoD<sup>1</sup>
 
@@ -64,65 +64,64 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 
 |                                         | Recurso                                         | Status de GCC             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
-| **Proteção de informações**              | Rótulo unificado e rótulos de confidencialidade         | Implementando              |
-|                                         | Rótulos de contêiner para o SharePoint Online, grupos do Office          | Implementando              |
-|                                         | Rotular automaticamente com base em tipos de dados confidenciais para o Excel online, SharePoint Online, OneDrive for Business                      | Implementando              |
-|                                         | Rótulos baseados em tipos de dados confidenciais para clientes do Microsoft Win32 e do Mac            | Na Backlog de engenharia |
-|                                         | Rotular automaticamente com base em tipos de dados confidenciais para o Win 32, Mac |  Na Backlog de engenharia              |
-|                                         | Rotular automaticamente com base em tipos de dados confidenciais para o Teams                                       |Na Backlog de engenharia              |
-|                                         | Rotular automaticamente com base em tipos de dados confidenciais para dispositivos móveis                            |Na Backlog de engenharia |
-|                                         | Rótulos e políticas associadas com base em consultas                            | Disponível |
-|                                         | Explorador de Atividade de Rótulo                           | Na Backlog de engenharia  |
-|                                         | Classificadores de treinamento                              | Na Backlog de engenharia              |
+| **Proteção de informações**              | Cliente e scanner de rótulo unificado         | Disponível              |
+|                                         | Correspondência de dados exata          | Disponível               |
+|                                         | Classificação automática e rotulação para o Exchange Online, SharePoint Online, OneDrive                      | Implementando              |
+|                                         | Classificação automática e rotulamento para aplicativos do Office (Word, Excel, PowerPoint, Outlook) em Web, Android, iOS, Windows e Mac            | Em desenvolvimento |
+|                                         | Políticas orientadas por classificação com grupos do Office 365 |  Implementando              |
+|                                         | Classificação automática e rotulamento para dispositivos móveis                                       | Na Backlog de engenharia              |
+|                                         | Classificação automática e rotulamento para o Microsoft Teams                            | Na Backlog de engenharia |
+|                                         | Classificação de dados: visão geral e explorador de atividade de conteúdo                            | Na Backlog de engenharia |
+|                                         | Classificadores de aprendizado de máquina com rotulação automática                           | Na Backlog de engenharia  |
 |                                         | Criptografia básica de mensagens do Office 365 (E3)                            | Disponível              |
 |                                         | Criptografia avançada de mensagem do Office 365 (E5)  | Disponível              |
 |                                         | Chave de Cliente do Office 365    | Disponível |
 |                                         | Traga sua chave (BYOK) para o ciclo de vida de provisionamento de chave gerenciado pelo cliente                            | Disponível |
 |                                         | Manter sua própria chave (HYOK) que abrange a proteção de informações do Azure e o Active Directory (AD) Rights Management para cenários altamente regulamentados (versão prévia)                         | Disponível |
-|                                         | Criptografia de Chave Dupla                           | Na Backlog de engenharia |
+|                                         | Criptografia de Chave Dupla                           | Em desenvolvimento |
 |                                         | Prevenção de perda de dados (DLP) para arquivos e email         | Disponível |
-|                                         | DLP para chat de equipes e conversas de canal         | na Backlog de engenharia |
-|                                         | Correspondência exata dos dados de DLP | Na Backlog de engenharia |
-|                                         | Ponto de extremidade de DLP | Na Backlog de engenharia |
-| **Governança de informações** | Arquivamento de email                                       | Disponível              |
-|                                         | Bloqueio de preservação          | Disponível              |
-|                                         | Importar PST                      | Disponível              |
-|                                         | Rótulos manuais de retenção de não registros            | Disponível |
-|                                         | Rótulos de retenção padrão para bibliotecas, pastas e conjuntos de documentos do SharePoint/OneDrive for Business; Caixas de entrada do Exchange; e grupos do Office 365 | Disponível              |
-|                                         | Políticas de retenção para toda a organização; locais ou usuários específicos; e automaticamente com base em uma condição específica (por exemplo, palavras-chave ou informações confidenciais)                                       | Disponível              |
-|                                         | Políticas de retenção com classificador treinado                            | Na Backlog de engenharia |
-|                                         | Políticas de retenção para o Yammer e o Microsoft Teams                            | Na Backlog de engenharia |
-|                                         | Rótulos de registros manuais                           | Disponível              |
-|                                         | Rótulos de registro padrão para bibliotecas, pastas e conjuntos de documentos do SharePoint, do OneDrive for Business; e grupos do Office 365                              | Disponível              |
-|                                         | Políticas de registro automático com base em condições específicas (por exemplo, palavras-chave ou informações confidenciais); e com base em um evento                            | Disponível              |
-|                                         | Revisão de disposição  | Disponível              |
-|                                         | Gerente de planejamento de arquivos    | Disponível |
-|                                         | Prova de alienação                            | Disponível |
-|                                         | Registros normativos                         | Na Backlog de engenharia |
-|                                         | Imposição de licenciamento de gerenciamento de registros                           | Na Backlog de engenharia |
-|                                         | Análise de disposição de vários estágios de gerenciamento de registros | Na Backlog de engenharia |
-|                                         | Explorador de Atividade de Rótulo | Na Backlog de engenharia |
-|                                         | Classificadores de treinamento | Na Backlog de engenharia |
-|                                         | Rótulo unificado e rótulos de confidencialidade         | Na Backlog de engenharia |
-| **Gerenciamento de risco interno**             | Sistema de Proteção de Dados do cliente                                | Disponível            |
-|                                         | Indicadores do Office para Teams, sites do SharePoint, mensagens de email                         | Na Backlog de engenharia |
-|                                         | Roubo de dados por parte de usuários                        | Na Backlog de engenharia |
-|                                         | Vazamentos de dados gerais                                | Na Backlog de engenharia              |
-|                                         | Investigar alertas de gerenciamento de risco do insider                                   | Na Backlog de engenharia              
-|                                         | Painel de casos de gerenciamento de risco do Insider, navegador de conteúdo e modelos de aviso | Na Backlog de engenharia |
-|                                         | Escalonar para investigação de descoberta eletrônica avançada |Na Backlog de engenharia|
-|                                         | Vazamentos de dados por usuários de prioridade (visualização) | na Backlog de engenharia |
-|                                         | Vazamentos de dados por usuários descontentes (visualização) | na Backlog de engenharia |
-|                                         | Violações de política de segurança geral (versão prévia) | na Backlog de engenharia |
-|                                         | Violações de política de segurança por usuários de prioridade, que fazem parte de usuários, usuários insatisfeitos (visualização) | na Backlog de engenharia |
-|                                         | Personalização de política (versão prévia) | na Backlog de engenharia |
-|                                         | Exportar alertas (versão prévia) | na Backlog de engenharia |
-|                                         | Grupos de usuários de prioridade (visualização) | na Backlog de engenharia |
-|                                         | Criar políticas de cliente, 3 pré-configurado para conformidade de comunicação (incl. políticas de supervisão)  | na Backlog de engenharia |
-|                                         | Conformidade de comunicação (incl. políticas de supervisão) suporte à mensagem de Teams, Exchange e remove Teams |na Backlog de engenharia |
-|                                         | Conformidade de comunicação (incluindo políticas de supervisão) alertas de acesso; modelos de aviso; painel de política de comunicação |na Backlog de engenharia  |
-|                                         | Conformidade de comunicação (incluindo políticas de supervisão) escalonar para investigação para descoberta eletrônica avançada | na Backlog de engenharia |
-|                                         | Conformidade de comunicação (incluindo políticas de supervisão) detectar conteúdo adulto | na Backlog de engenharia |
+|                                         | Prevenção de perda de dados para chat de equipes e conversas de canal         | Na Backlog de engenharia |
+|                                         | Ponto de extremidade de prevenção contra perda de dados | Na Backlog de engenharia |
+| **Governança de informações** | Governança de informações: arquivamento de E-mails                                       | Disponível              |
+|                                         | Governança de informações: bloqueio de preservação          | Disponível              |
+|                                         | Governança de informações: importar PST                      | Disponível              |
+|                                         | Governança de informações: rótulos manuais de retenção de não registros            | Disponível |
+|                                         | Governança de informações: rótulos de retenção padrão para bibliotecas do SharePoint/OneDrive for Business, pastas e conjuntos de documentos; Caixas de entrada do Exchange; e grupos do Office 365 | Disponível              |
+|                                         | Governança de informações: políticas de retenção para toda a organização; locais ou usuários específicos; automaticamente com base em uma condição específica (por exemplo, palavras-chave ou informações confidenciais); e com base em um evento                                       | Disponível              |
+|                                         | Governança de informações: rótulos de retenção usando a classificação do SharePoint Syntex                            | Na Backlog de engenharia |
+|                                         | Governança de informações: políticas de retenção com classificador treinado                            | Na Backlog de engenharia |
+|                                         | Governança de informações: políticas de retenção para o Yammer e o Microsoft Teams                           | Na Backlog de engenharia              |
+|                                         | Gerenciamento de registros: classificação manual para rótulos de registro                              | Disponível              |
+|                                         | Gerenciamento de registros: rótulos de registro padrão para o SharePoint, bibliotecas do OneDrive for Business, pastas e conjuntos de documentos; e grupos do Office 365                            | Disponível              |
+|                                         | Gerenciamento de registros: políticas de registro automático com base em condições específicas (por exemplo, palavras-chave ou informações confidenciais); e com base em um evento  | Disponível              |
+|                                         | Gerenciamento de registros: análise de disposição    | Disponível |
+|                                         | Gerenciamento de registros: Gerenciador de planos de arquivo                            | Disponível |
+|                                         | Gerenciamento de registros: prova de alienação                         | Disponível |
+|                                         | Gerenciamento de registros: controle de versão de registros                           | Disponível |
+|                                         | Gerenciamento de registros: registros normativos | Na Backlog de engenharia |
+|                                         | Gerenciamento de registros: imposição de licenciamento | Na Backlog de engenharia |
+|                                         | Gerenciamento de registros: análise de disposição de vários estágios | Na Backlog de engenharia |
+|                                         | Gerenciamento de registros: explorador de atividade de rótulo         | Na Backlog de engenharia |
+|                                         | Gerenciamento de registros: classificadores estagiários         | Na Backlog de engenharia |
+| **Gerenciamento de risco do insider**             | Sistema de Proteção de Dados do cliente                                | Disponível            |
+|                                         | Gerenciamento de risco do insider: indicadores do Office para Teams, sites do SharePoint, mensagens de email                         | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: roubo de dados por parte de usuários                        | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: vazamentos de dados gerais                                | Na Backlog de engenharia              |
+|                                         | Gerenciamento de risco do insider: investigar alertas de gerenciamento de risco                                   | Na Backlog de engenharia              |
+|                                         | Gerenciamento de risco do insider: painel de casos, Gerenciador de conteúdo e modelos de aviso | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: escalonar para investigação de descoberta eletrônica avançada |Na Backlog de engenharia|
+|                                         | Gerenciamento de risco do insider: modelos de política para vazamentos de dados por usuários prioritários (visualização) | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: modelos de política para vazamentos de dados por usuários descontentes (visualização) | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: modelos de política para violações de política de segurança geral (versão prévia) | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: modelos de política para violações de política de segurança por usuários de prioridade, usuários de parte, usuários descontentes (visualização) | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: personalização de política (visualização) | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: exportar alertas (visualização) | Na Backlog de engenharia |
+|                                         | Gerenciamento de risco do insider: grupos de usuários de prioridade (visualização) | Na Backlog de engenharia |
+|                                         | Conformidade de comunicação (incl. políticas de supervisão): criar políticas de cliente, 3 pré-configurado  | Na Backlog de engenharia |
+|                                         | Conformidade de comunicação (incl. políticas de supervisão): suporte à mensagem de Teams, Exchange e remove Teams | Na Backlog de engenharia |
+|                                         | Conformidade de comunicação (incl. políticas de supervisão): alertas de acesso; modelos de aviso; painel de política de comunicação | Na Backlog de engenharia  |
+|                                         | Conformidade de comunicação (incl. políticas de supervisão): escalonar para investigação para descoberta eletrônica avançada | Na Backlog de engenharia |
+|                                         | Conformidade de comunicação (incl. políticas de supervisão): detectar conteúdo adulto | Na Backlog de engenharia |
 |                                         | Barreiras de informações | Na Backlog de engenharia |
 |                                         | Gerenciamento de acesso privilegiado                    | Na Backlog de engenharia |
 | **Descobrir & responder**                  | Descoberta eletrônica principal: preservação no local                            | Disponível              |
@@ -132,30 +131,46 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Descoberta eletrônica principal: descriptografia do RMS                                  | Disponível              |
 |                                         | Descoberta eletrônica principal: exportação nativa                                   | Disponível              |
 |                                         | Descoberta eletrônica principal: auditoria                                        | Disponível              |
-|                                         | Descoberta eletrônica avançada: processamento avançado                             | Implementando |
-|                                         | Descoberta eletrônica avançada: encadeamento de email                                 | Implementando |
-|                                         | Descoberta eletrônica avançada: identificação próxima duplicada                   | Implementando |
-|                                         | Descoberta eletrônica avançada: temas                                          | Implementando |
-|                                         | Descoberta eletrônica avançada: codificação de previsão                               | Implementando |
-|                                         | Descoberta eletrônica avançada: exportação processada com o arquivo de carregamento                 | Implementando |
-|                                         | Descoberta eletrônica avançada: marcação                                         | Implementando |
-|                                         | Descoberta eletrônica avançada: visualizadores                                         | Implementando |
-|                                         | Descoberta eletrônica avançada: redaçãos                                      | Implementando |
-|                                         | Descoberta eletrônica avançada: filtragem                                       | Implementando |
-|                                         | Descoberta eletrônica avançada: mapeamento de carga de trabalho                   | Implementando |
-|                                         | Descoberta eletrônica avançada: comunicações de responsáveis                        | Implementando |
+|                                         | Descoberta eletrônica principal: centro de conformidade da Microsoft expandiu o suporte para pesquisar e exportar itens na lixeira do SharePoint e do OneDrive for Business                             | Em desenvolvimento |
+|                                         | Descoberta eletrônica avançada: processamento avançado                                 | Implementando |
+|                                         | Descoberta eletrônica avançada: painel                   | Implementando |
+|                                         | Descoberta eletrônica avançada: encadeamento de email                                          | Implementando |
+|                                         | Descoberta eletrônica avançada: exportar (baixar, exportar, adicionar a outro conjunto de revisão)                               | Implementando |
+|                                         | Descoberta eletrônica avançada: filtragem                 | Implementando |
+|                                         | Descoberta eletrônica avançada: bloqueio legal para mensagens de canais privadas do teams                                         | Implementando |
+|                                         | Descoberta eletrônica avançada: identificação próxima duplicada                                         | Implementando |
+|                                         | Descoberta eletrônica avançada: fontes de dados não custodial                                      | Implementando |
+|                                         | Descoberta eletrônica avançada: codificação de previsão                                       | Implementando |
+|                                         | Descoberta eletrônica avançada: exportação processada com o arquivo de carregamento                   | Implementando |
+|                                         | Descoberta eletrônica avançada: redaçãos                        | Implementando |
 |                                         | Descoberta eletrônica avançada: conjuntos de revisão                                     | Implementando |
-|                                         | Descoberta eletrônica avançada: revisar e anotar                             | Implementando |
-|                                         | Descoberta eletrônica avançada: inclusão de não-Office 365                        | Implementando |
-|                                         | Descoberta eletrônica avançada: relatório de termos de pesquisa                              | Implementando |
+|                                         | Descoberta eletrônica avançada: revisar dados (dados de consulta, marcas inteligentes, painel e anotações (redigir)                             | Implementando |
+|                                         | Descoberta eletrônica avançada: relatório de termos de pesquisa                        | Implementando |
+|                                         | Descoberta eletrônica avançada: marcação                              | Implementando |
+|                                         | Descoberta eletrônica avançada: relatórios de locatário                              | Implementando |
+|                                         | Descoberta eletrônica avançada: visualizadores                              | Implementando |
+|                                         | Descoberta eletrônica avançada: descoberta eletrônica avançada do Yammer no centro de conformidade da Microsoft                              | Implementando |
+|                                         | Descoberta eletrônica avançada: suporte a caracteres de byte duplo/CJK                              | Na Backlog de engenharia |
+|                                         | Descoberta eletrônica avançada: APIs de gráfico                              | Na Backlog de engenharia |
+|                                         | Descoberta eletrônica avançada: centro de conformidade da Microsoft expandiu o suporte para pesquisar e exportar itens na lixeira do SharePoint e do OneDrive for Business                              | Na Backlog de engenharia |
+|                                         | Descoberta eletrônica avançada: inclusão e processamento de não-Office 365 (por exemplo, OCR)                              | Na Backlog de engenharia |
+|                                         | Descoberta eletrônica avançada: reações de equipes de suporte                              | Na Backlog de engenharia |
 |                                         | Auditoria básica                              | Disponível |
+|                                         | Auditoria avançada: disponibilidade do centro de conformidade e segurança                              | Disponível |
 |                                         | Auditoria avançada: acesso a eventos cruciais (por exemplo, mailitemsaccessed)                              | Implementando |
-|                                         | Retenção de log de auditoria avançada (1 ano)                               | Implementando |
-|                                         | Auditoria avançada maior largura de banda para API de atividade de gerenciamento                              | Implementando |
-|    **Gerenciamento de Conformidade**            | Gerente de conformidade e Pontuação                              | Na Backlog de engenharia |
+|                                         | Auditoria avançada: maior largura de banda para a API de atividade de gerenciamento                               | Implementando |
+|                                         | Auditoria avançada: retenção de logs (1 ano)                              | Implementando |
+|                                         | Auditoria avançada: retenção de longo prazo em logs de auditoria                              | Na Backlog de engenharia |
+|                                         | Auditoria avançada: eventos de envio de email direto e email                              | Na Backlog de engenharia |
+|                                         | Auditoria avançada: insights de auditoria processados                              | Na Backlog de engenharia |
+|                                         | Auditoria avançada: eventos de termos de pesquisa no Exchange Online e no SharePoint Online                              | Na Backlog de engenharia |
+|    **Gerenciamento de Conformidade**            | Centro de conformidade e segurança do Microsoft 365                              | Disponível |
+|                                         | Segurança no aplicativo na nuvem da Microsoft                              | Na Backlog de engenharia |
+|                                         | Gerenciador de Conformidade (Visualização)                              | Na Backlog de engenharia |
+|                                         | Suporte a caracteres de dois bytes                              | Na Backlog de engenharia |
 
 <sup>1</sup> o status identificado está sujeito a alterações à medida que os planos e as prioridades do projeto são reavaliados.<br/>
 <sup>2</sup> o aplicativo manual de rótulos requer o [cliente de proteção de informações do Azure (AIP) versão 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
 
 
-**Ponto de decisão**: *decida se os recursos de conformidade atendem às necessidades da sua organização.*
+**Ponto de decisão** : *decida se os recursos de conformidade atendem às necessidades da sua organização.*

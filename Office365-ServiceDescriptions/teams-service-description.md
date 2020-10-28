@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: O Microsoft Teams fornece mensagens instantâneas, colaboração de arquivos e dados, chamadas de áudio e vídeo, reuniões online avançadas, experiências móveis e recursos de Webconferência abrangentes.
-ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
-ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
+ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48175178"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773435"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
@@ -35,11 +35,11 @@ Para sua referência, incluímos esta tabela mestra das assinaturas que permitem
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
-Para obter diretrizes detalhadas de implementação de recursos do produto, consulte a [documentação de administração do Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). Esta descrição de serviço detalha as principais diferenças entre os serviços fornecidos nas várias instalações de nuvem. As funcionalidades do Microsoft Teams Core não diferem entre as assinaturas. A disponibilidade dos recursos de conformidade depende do nível de assinatura. Para saber mais, confira [segurança e conformidade no Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Para obter uma lista detalhada dos recursos disponíveis em cada assinatura, consulte [Microsoft 365 and Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Para obter diretrizes detalhadas de implementação de recursos do produto, consulte a [documentação de administração do Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). Esta descrição de serviço detalha as principais diferenças entre os serviços fornecidos nas várias instalações de nuvem. As funcionalidades do Microsoft Teams Core não diferem entre as assinaturas. A disponibilidade dos recursos de conformidade depende do nível de assinatura. Para saber mais, confira [segurança e conformidade no Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Para obter uma lista detalhada dos recursos disponíveis em cada assinatura, consulte [Microsoft 365 and Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
-**Recursos de voz em nuvem**: para audioconferência, sua organização deve comprar e atribuir uma licença de audioconferência a cada usuário que configurará as reuniões de discagem. Para os recursos do teams que exigem planos de chamadas, cada usuário precisa de um sistema de telefonia e um plano de chamadas domésticas ou domésticas e internacionais. Para saber mais, confira [licenças complementares do Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
+**Recursos de voz em nuvem** : para audioconferência, sua organização deve comprar e atribuir uma licença de audioconferência a cada usuário que configurará as reuniões de discagem. Para os recursos do teams que exigem planos de chamadas, cada usuário precisa de um sistema de telefonia e um plano de chamadas domésticas ou domésticas e internacionais. Para saber mais, confira [licenças complementares do Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 
-**Eventos ao vivo**: essa oferta no Office 365 substitui a transmissão de reunião do Skype desativada. Recursos de eventos ao vivo estão disponíveis para planos de licenciamento, conforme detalhado no serviço de fluxo. Examine os [detalhes de licenciamento do Microsoft Stream aqui](https://docs.microsoft.com/stream/license-overview). O serviço Live Events pode ser acessado por meio do Stream, do Yammer ou do Microsoft Teams. Para saber mais sobre recursos de eventos ao vivo, confira [eventos em tempo real em microsoft 365 no Yammer, Microsoft Teams e Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
+**Eventos ao vivo** : essa oferta no Office 365 substitui a transmissão de reunião do Skype desativada. Recursos de eventos ao vivo estão disponíveis para planos de licenciamento, conforme detalhado no serviço de fluxo. Examine os [detalhes de licenciamento do Microsoft Stream aqui](https://docs.microsoft.com/stream/license-overview). O serviço Live Events pode ser acessado por meio do Stream, do Yammer ou do Microsoft Teams. Para saber mais sobre recursos de eventos ao vivo, confira [eventos em tempo real em microsoft 365 no Yammer, Microsoft Teams e Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
 
 Todos os planos de assinatura suportados estão qualificados para acessar o cliente Web do Microsoft Teams, clientes de desktop e aplicativos móveis.
 
@@ -59,13 +59,14 @@ Esta tabela lista a disponibilidade de recursos do Microsoft Teams em planos de 
 |Área de trabalho de áudio/vídeo do PowerPoint para compartilhamento de tela <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Voz  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Audioconferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Aplicativos, bots, & conectores  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>3</sup>  <br/> |Sim<sup>3</sup>  <br/> |Sim<sup>3</sup>  <br/> |Sim  <br/> |
-|Eventos ao vivo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |No<sup>4</sup>  <br/> |No<sup>4</sup>  <br/> |Sim  <br/> |
+|Aplicativos, bots, & conectores  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>4</sup>  <br/> |Sim<sup>4</sup>  <br/> |Sim<sup>3, 4</sup>  <br/> |Sim  <br/> |
+|Eventos ao vivo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Nenhum<sup>5</sup>  <br/> |Nenhum<sup>5</sup>  <br/> |Sim  <br/> |
 
-> <sup>1</sup>  o Microsoft Teams em GCC-alto e DOD dão suporte a 2500 Membros em uma equipe individual.<br/>
+> <sup>1</sup>  o Microsoft Teams no GCC-High e o DOD dão suporte a membros 2500 em uma equipe individual.<br/>
 > <sup>2</sup> o Microsoft Planner não está disponível no momento para o acesso em canais privados.<br/>
-> <sup>3</sup> o Microsoft OneNote não está disponível em nuvens DOD. Os aplicativos e a publicação de aplicativos não estão disponíveis nessas nuvens no momento.<br/>
-> <sup>4</sup> eventos ao vivo não estão disponíveis em GCC-High ou DOD no momento.<br/>
+> <sup>3</sup> o Microsoft OneNote não está disponível em nuvens DOD.<br/>
+> <sup>4</sup> aplicativos e publicação de aplicativos não estão disponíveis nessas nuvens no momento.<br/>
+> <sup>5</sup> eventos ao vivo não estão disponíveis no GCC-High ou no DOD no momento.<br/>
 
 ## <a name="next-steps"></a>Próximas etapas
 

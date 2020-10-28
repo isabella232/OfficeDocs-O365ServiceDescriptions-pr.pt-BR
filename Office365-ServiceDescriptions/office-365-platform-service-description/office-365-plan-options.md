@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: 213f3bef10445ac8964e356f3438b9fd3fe100cf
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408217"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773445"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Opções de plano do Microsoft 365 e do Office 365
 
@@ -46,10 +46,10 @@ Cada plano do Microsoft 365 ou do Office 365 inclui vários serviços individuai
 > [!IMPORTANT]
 >  Embora um serviço possa estar disponível nos planos do Microsoft 365 e do Office 365, os recursos disponíveis em cada plano podem ser diferentes. Para ver os detalhes dos recursos que estão disponíveis para cada plano, consulte a descrição de serviço individual ou entre em contato com seu Revendedor ou Representante de vendas da Microsoft para obter mais informações. <br/>  Vários dos planos do Microsoft 365 e do Office 365 têm complementos que você pode comprar para a sua assinatura. Um complemento oferece funcionalidade adicional à assinatura. Saiba mais em [Comprar ou editar um complemento do Office 365 para empresas](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
   
-| Fornecer manutenção | Aplicativos do Microsoft 365 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
+| Serviço | Aplicativos do Microsoft 365 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Plataforma do Office 365  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Exchange Online  <br/> |Não  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>16</sup> <br/> |
+|Exchange Online  <br/> |Não  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>8</sup> <br/> |Sem<sup>16</sup> <br/> |
 |SharePoint Online  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>17</sup> <br/> |
 |OneDrive  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |Skype for Business Online <sup>14</sup> <br/> |Não  <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |
@@ -76,7 +76,7 @@ Cada plano do Microsoft 365 ou do Office 365 inclui vários serviços individuai
 <sup>13</sup> inclui o Skype for Business online plano 1.<br>
 <sup>14</sup> o Microsoft Teams agora é o cliente principal para mensagens, reuniões e chamadas no Microsoft 365. Desde Oct. 1, 2018, novos clientes com 500 estações ou menos estão integrados ao Microsoft Teams e não têm acesso ao Skype for Business online. Os locatários que já estiverem usando o Skype for Business online poderão continuar a fazê-lo (incluindo o provisionamento de novos usuários) até que concluam a transição para o Microsoft Teams.<br>
 <sup>15</sup> inclui conformidade com a Microsoft 365 e5, que oferece classificação e retenção automáticas, chave do cliente, criptografia avançada de mensagens, gerenciamento de risco do Insider, conformidade de comunicação, barreiras de informações, Lockbox de clientes, gerenciamento de acesso privilegiado, auditoria avançada, gerenciamento de registros e recursos de descoberta eletrônica avançados; e a segurança da Microsoft 365 e5, que inclui o Office 365 Advanced Threat Protection (ATP) plano 2, Microsoft defender ATP, Azure Active Directory Plan 2, Azure ATP, Microsoft Cloud app Security e documentos seguros.<br>
-<sup>16</sup> os usuários do Microsoft 365 F1 são provisionados para o plano do serviço de quiosque do Exchange para habilitar somente o calendário do Teams, sem direitos para implantar caixas de correio.<br>
+<sup>16</sup> a Microsoft 365 F1 não inclui direitos para uma caixa de correio do Exchange. Para habilitar uma experiência completa com o Teams, as licenças F1 do M365 podem ser fornecidas com o plano de serviço K1 do Exchange Online habilitado. Embora o plano de serviço K1 do Exchange Online Provisione uma caixa de correio para o usuário, os usuários do M365 F1 não têm direito a usar a caixa de correio. Recomendamos que seus clientes desabilitem o Outlook na Web por meio [dessas etapas](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) e solicite que os usuários não acessem a caixa de correio do Exchange por meio de outros métodos.<br>
 <sup>17</sup> inclui o quiosque do SharePoint Online. Não pode ser administradores. Nenhuma caixa de correio de site. Nenhum site pessoal.<br>
 <sup>18</sup> os usuários do Microsoft 365 F1 podem ler arquivos usando o Office para a Web, mas não têm direitos criar/editar/salvar. 
   
@@ -108,7 +108,7 @@ Você pode combinar os planos autônomo, Enterprise e Business (por exemplo, o P
 
 Os serviços online a seguir estão disponíveis individualmente, como planos autônomos. Eles também podem ser adicionados aos planos da família de serviços Business e Enterprise que não os tenham incluídos. Para obter informações sobre preços, ou para conversar com um representante online, selecione qualquer um dos planos listados na tabela a seguir.<br><br>
   
-| Fornecer manutenção | Planos |
+| Serviço | Planos |
 |:-----|:-----|
 |Exchange Online  <br/> |[Exchange Online (Plano 1)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online (Plano 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Proteção do Exchange Online](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Proteção Avançada contra Ameaças do Exchange Online](https://products.office.com/exchange/advance-threat-protection) <br/> [Arquivamento do Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online (Plano 1)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online (Plano 2)](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
