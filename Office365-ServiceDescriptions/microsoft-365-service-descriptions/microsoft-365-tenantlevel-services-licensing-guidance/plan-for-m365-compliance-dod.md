@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governamental – DoD é adequado para atender a esses requisitos.
-ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
-ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
+ms.openlocfilehash: aca09e0e7768228f39e942fbeffba1bae84cb77f
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769973"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793643"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planejar a conformidade com o Microsoft 365 – implantações do DoD
 
@@ -59,10 +59,9 @@ Recomendamos que você reserve um tempo para revisar cuidadosamente suas configu
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Etapa 4. Entender quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – DoD<sup>1</sup>
 
-Para atender aos requisitos de nossos clientes de nuvem governamental, há algumas diferenças entre os planos Microsoft 365 governamentais-DoD e Enterprise. Consulte a tabela a seguir para ver quais recursos estão disponíveis.
+Para atender aos requisitos de nossos clientes de nuvem governamental, há algumas diferenças entre os planos Microsoft 365 governamentais-DoD e Enterprise. Consulte a tabela a seguir para ver quais recursos estão disponíveis.<br><br>
 
-
-|                                         | Recurso                                         | Status de GCC             |
+| Área                                    | Recurso                                         | Status de GCC             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Proteção de informações**              | Cliente e scanner de rótulo unificado         | Disponível              |
 |                                         | Correspondência de dados exata          | Disponível               |
