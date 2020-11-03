@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: d83791aa46ca8c77227f3a7ce692f4439866a151
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661289"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830392"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -164,7 +164,7 @@ Estes são os benefícios para os usuários do serviço Gerenciador de conformid
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
-Os clientes com o Office 365 E5/a5 e as licenças do Microsoft 365 E5/a5 poderão acessar as avaliações da linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 27001, além de usar o recurso de avaliação personalizada. As avaliações Premium estarão disponíveis para compra para os clientes do Office 365 E5/a5 e Microsoft 365 E5/a5.
+Os clientes com o Office 365 E5/a5 e as licenças do Microsoft 365 E5/a5 poderão acessar as avaliações da linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 27001, além de usar o recurso de avaliação personalizada. As avaliações Premium estarão disponíveis para compra para os clientes do Office 365 E5/a5 e Microsoft 365 E5/a5 durante a primeira metade de 2021. Eles estarão disponíveis para compra por meio de VL, CSP e webdirect.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -461,7 +461,7 @@ Por padrão, os emails do Exchange Online, os sites do SharePoint e as contas do
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations**.
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations** .
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevenção de perda de dados de comunicação para o Microsoft Teams
 
@@ -481,7 +481,7 @@ Por padrão, as mensagens de chat e de canal do teams são um *local habilitado 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations**.
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations** .
 
 ## <a name="information-barriers"></a>Barreiras de informações
 
@@ -523,7 +523,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 e o plano de proteção de informações d
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Os administradores criam e gerenciam as políticas de criptografia de mensagens do Office 365 no centro de administração do Exchange em regras de **fluxo de emails**  >  **Rules**. Por padrão, essas regras se aplicam a todos os usuários no locatário. Para obter mais informações sobre como configurar os novos recursos de criptografia de mensagens do Office 365, consulte [configurar novos recursos de criptografia de mensagens do office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Os administradores criam e gerenciam as políticas de criptografia de mensagens do Office 365 no centro de administração do Exchange em regras de **fluxo de emails**  >  **Rules** . Por padrão, essas regras se aplicam a todos os usuários no locatário. Para obter mais informações sobre como configurar os novos recursos de criptografia de mensagens do Office 365, consulte [configurar novos recursos de criptografia de mensagens do office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 

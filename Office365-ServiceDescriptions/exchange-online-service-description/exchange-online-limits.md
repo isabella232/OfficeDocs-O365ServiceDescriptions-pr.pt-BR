@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: d2b3639627efbafa91ab5bb45807b83aa1b30a28
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: 728dbb670449a941400a3951201413e79895b238
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408237"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830422"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -68,16 +68,16 @@ Os limites no Microsoft Exchange Online podem ser classificados em uma das segui
 
 ## <a name="address-book-limits"></a>Limites de catálogo de endereços
 
-- **Limite da lista de endereços**: o número máximo de listas de endereços que podem ser criadas em uma organização do Exchange Online ou do exchange server 2013. Esse número inclui listas de endereços padrão no Exchange Online, como Todos os Contatos e Todos os Grupos.
+- **Limite da lista de endereços** : o número máximo de listas de endereços que podem ser criadas em uma organização do Exchange Online ou do exchange server 2013. Esse número inclui listas de endereços padrão no Exchange Online, como Todos os Contatos e Todos os Grupos.
 
     > [!NOTE]
     > Um máximo de 20 listas de endereços podem ser atribuídas a um único catálogo de endereços offline (OAB).
 
-- **Limite do catálogo de endereços offline**: o número máximo de catálogos de endereços offline (OAB) que pode ser criado em uma organização do Exchange Online ou do exchange server 2013.
+- **Limite do catálogo de endereços offline** : o número máximo de catálogos de endereços offline (OAB) que pode ser criado em uma organização do Exchange Online ou do exchange server 2013.
 
-- **Limite de políticas do catálogo de endereços**: o número máximo de políticas de catálogo de endereços (ABP) que são criadas em uma organização do Exchange Online ou do exchange server 2013.
+- **Limite de políticas do catálogo de endereços** : o número máximo de políticas de catálogo de endereços (ABP) que são criadas em uma organização do Exchange Online ou do exchange server 2013.
 
-- **Listas de endereços globais**: o número máximo de listas de endereços globais (GAL) que são criadas em uma organização do Exchange Online ou do exchange server 2013.
+- **Listas de endereços globais** : o número máximo de listas de endereços globais (GAL) que são criadas em uma organização do Exchange Online ou do exchange server 2013.
 
 ### <a name="address-book-limits"></a>Limites de catálogo de endereços
 
@@ -113,11 +113,11 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 |Caixas de correio compartilhadas<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50 GB<sup>2</sup>|
 |Caixas de correio de recurso|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3</sup>|
 |Caixas de correio de site<sup>5</sup>|50 GB|50 GB|50 GB|50 GB|50 GB|Não disponível|
-|Caixas de correio de pastas públicas|50 GB<sup>6</sup>|50 GB<sup>6</sup>|50 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|Não disponível|
+|Caixas de correio de pastas públicas|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|
 |Caixas de correio de grupo|50 GB|50 GB|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> Cada usuário recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). <br/> <sup>2</sup> para acessar uma caixa de correio compartilhada, um usuário deve ter uma licença do Exchange Online, mas a caixa de correio compartilhada não requer uma licença separada. Sem uma licença, as caixas de correio compartilhadas são limitadas a 50 GB. Para aumentar o limite de tamanho para 100 GB, a caixa de correio compartilhada deve receber uma licença do Exchange Online Plan 2 ou uma licença do plano 1 do Exchange Online com uma licença complementar de arquivamento do Exchange Online. Isso também permitirá que você habilite o arquivamento de expansão automática para uma quantidade ilimitada de capacidade de armazenamento de arquivo morto. Da mesma forma, se você quiser colocar uma caixa de correio compartilhada em retenção de litígio, a caixa de correio compartilhada deverá ter uma licença do Exchange Online Plan 2 ou uma licença do Exchange Online Plan 1 com uma licença complementar de arquivamento do Exchange Online. Se você deseja aplicar recursos avançados, como a proteção avançada contra ameaças do Office 365, descoberta eletrônica avançada ou políticas de retenção automática, a caixa de correio compartilhada deve ser licenciada para esses recursos. <br/> <sup>3</sup> Caixas de correio de recursos não necessitam de uma licença. No entanto, sem uma licença, as caixas de correio de recursos são limitadas a 50 GB. Para aumentar o tamanho da caixa de correio, é preciso atribuir uma licença E3 ou E5. Isso aumentará à caixa de correio para 100 GB. <br/> <sup>4</sup> caixas de correio de arquivo morto não são incluídas no Quiosque do Exchange Online. No entanto, podem ser comprados como um suplemento por meio do arquivamento do Exchange Online. Para obter mais informações, consulte a [Descrição do serviço de arquivamento do Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>cinco</sup> caixas de correio de site foram removidas do Exchange Online e do SharePoint online no 2017. <br/> <sup>6</sup> Você está limitado a 1,000 caixas de correio de pasta pública e o tamanho máximo total de todas as caixas de correio de pasta pública é de 50 TB. Caixas de correio de serviços de hierarquia são limitadas a 100 caixas de correio de pastas públicas. <br/> <sup>7</sup> As caixas de correio de arquivo-morto só podem ser usadas para arquivar emails para um só usuário ou uma entidade (como uma caixa de correio compartilhada) para a qual uma licença tenha sido aplicada. É proibido usar caixas de correio de arquivo morto como um meio de armazenar emails de vários usuários ou entidades.  Por exemplo, um administrador de TI não pode criar uma caixa de correio compartilhada e fazer com que os usuários a copiem (pelo campo Cc ou Cco ou por meio de uma regra de transporte) para o expresso fim de arquivamento. Observe que uma caixa de correio compartilhada usada por várias pessoas não armazena os emails desses usuários individuais. Vários usuários têm acesso a ela e enviam emails em nome da caixa de correio compartilhada. Portanto, os únicos emails armazenados na caixa de correio compartilhada são aqueles que foram enviados por ela e para ela, *como* a caixa de correio compartilhada. <br/> <sup>8</sup> Se você criou uma política de retenção no Exchange Online, as mensagens serão automaticamente transferidas para a caixa de correio de arquivo morto de um usuário somente se a caixa de correio primária do usuário for maior que 10 MB. A política de retenção não será executada automaticamente para caixas de correio menores do que 10 MB. <br/> <sup>9</sup> Caixas de correio de recursos não necessitam de uma licença. No entanto, sem uma licença, essas caixas de correio estão limitadas a 50 GB. Para aumentar o tamanho da caixa de correio, é preciso atribuir uma licença E3 ou E5. Isso aumentará à caixa de correio para 100 GB. <br/> <sup>10</sup> por padrão, as caixas de correio compartilhadas têm uma conta de usuário ativa associada com uma senha gerada pelo sistema (desconhecido). Para bloquear a entrada da conta de caixa de correio compartilhada associada, consulte [bloquear o logon para a conta de caixa de correio compartilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
+> <sup>1</sup> Cada usuário recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em [Visão geral de arquivamento ilimitado no Office 365](https://go.microsoft.com/fwlink/?linkid=844060). <br/> <sup>2</sup> para acessar uma caixa de correio compartilhada, um usuário deve ter uma licença do Exchange Online, mas a caixa de correio compartilhada não requer uma licença separada. Sem uma licença, as caixas de correio compartilhadas são limitadas a 50 GB. Para aumentar o limite de tamanho para 100 GB, a caixa de correio compartilhada deve receber uma licença do Exchange Online Plan 2 ou uma licença do plano 1 do Exchange Online com uma licença complementar de arquivamento do Exchange Online. Isso também permitirá que você habilite o arquivamento de expansão automática para uma quantidade ilimitada de capacidade de armazenamento de arquivo morto. Da mesma forma, se você quiser colocar uma caixa de correio compartilhada em retenção de litígio, a caixa de correio compartilhada deverá ter uma licença do Exchange Online Plan 2 ou uma licença do Exchange Online Plan 1 com uma licença complementar de arquivamento do Exchange Online. Se você deseja aplicar recursos avançados, como a proteção avançada contra ameaças do Office 365, descoberta eletrônica avançada ou políticas de retenção automática, a caixa de correio compartilhada deve ser licenciada para esses recursos. <br/> <sup>3</sup> Caixas de correio de recursos não necessitam de uma licença. No entanto, sem uma licença, as caixas de correio de recursos são limitadas a 50 GB. Para aumentar o tamanho da caixa de correio, é preciso atribuir uma licença E3 ou E5. Isso aumentará à caixa de correio para 100 GB. <br/> <sup>4</sup> caixas de correio de arquivo morto não são incluídas no Quiosque do Exchange Online. No entanto, podem ser comprados como um suplemento por meio do arquivamento do Exchange Online. Para obter mais informações, consulte a [Descrição do serviço de arquivamento do Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>cinco</sup> caixas de correio de site foram removidas do Exchange Online e do SharePoint online no 2017. <br/> <sup>6</sup> você está limitado a 1.000 caixas de correio de pasta pública e o tamanho máximo total de todas as caixas de correio de pasta pública é de 100 TB. Caixas de correio de serviços de hierarquia são limitadas a 100 caixas de correio de pastas públicas. <br/> <sup>7</sup> As caixas de correio de arquivo-morto só podem ser usadas para arquivar emails para um só usuário ou uma entidade (como uma caixa de correio compartilhada) para a qual uma licença tenha sido aplicada. É proibido usar caixas de correio de arquivo morto como um meio de armazenar emails de vários usuários ou entidades.  Por exemplo, um administrador de TI não pode criar uma caixa de correio compartilhada e fazer com que os usuários a copiem (pelo campo Cc ou Cco ou por meio de uma regra de transporte) para o expresso fim de arquivamento. Observe que uma caixa de correio compartilhada usada por várias pessoas não armazena os emails desses usuários individuais. Vários usuários têm acesso a ela e enviam emails em nome da caixa de correio compartilhada. Portanto, os únicos emails armazenados na caixa de correio compartilhada são aqueles que foram enviados por ela e para ela, *como* a caixa de correio compartilhada. <br/> <sup>8</sup> Se você criou uma política de retenção no Exchange Online, as mensagens serão automaticamente transferidas para a caixa de correio de arquivo morto de um usuário somente se a caixa de correio primária do usuário for maior que 10 MB. A política de retenção não será executada automaticamente para caixas de correio menores do que 10 MB. <br/> <sup>9</sup> Caixas de correio de recursos não necessitam de uma licença. No entanto, sem uma licença, essas caixas de correio estão limitadas a 50 GB. Para aumentar o tamanho da caixa de correio, é preciso atribuir uma licença E3 ou E5. Isso aumentará à caixa de correio para 100 GB. <br/> <sup>10</sup> por padrão, as caixas de correio compartilhadas têm uma conta de usuário ativa associada com uma senha gerada pelo sistema (desconhecido). Para bloquear a entrada da conta de caixa de correio compartilhada associada, consulte [bloquear o logon para a conta de caixa de correio compartilhada](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
 
 ### <a name="storage-limits-across-standalone-plans"></a>Limites de armazenamento em planos autônomos
 
@@ -137,11 +137,11 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 
 O Exchange Online oferece três tipos de notificações quando uma caixa de correio do usuário atinge ou está se aproximando de sua capacidade máxima:
 
-- **Aviso**: o usuário recebe um aviso de email informando que a caixa de correio está se aproximando do limite de tamanho máximo. Esse aviso se destina a incentivar os usuários a excluir emails indesejados.
+- **Aviso** : o usuário recebe um aviso de email informando que a caixa de correio está se aproximando do limite de tamanho máximo. Esse aviso se destina a incentivar os usuários a excluir emails indesejados.
 
-- **Proibir envio**: o usuário recebe um email de notificação de proibição de envio quando o limite de tamanho da caixa de correio é alcançado. O usuário não pode enviar novas mensagens até que emails suficientes sejam excluídos para trazer a caixa de correio abaixo do limite de tamanho.
+- **Proibir envio** : o usuário recebe um email de notificação de proibição de envio quando o limite de tamanho da caixa de correio é alcançado. O usuário não pode enviar novas mensagens até que emails suficientes sejam excluídos para trazer a caixa de correio abaixo do limite de tamanho.
 
-- **Proibir envio/recebimento**: o Exchange Online rejeita todos os emails de entrada quando o limite de tamanho da caixa de correio é alcançado e envia uma notificação de falha na entrega para o remetente. O remetente tem a opção de tentar reenviar o email mais tarde. Para receber mensagens novamente, o usuário deve excluir emails até que a caixa de correio fique abaixo do limite de tamanho.
+- **Proibir envio/recebimento** : o Exchange Online rejeita todos os emails de entrada quando o limite de tamanho da caixa de correio é alcançado e envia uma notificação de falha na entrega para o remetente. O remetente tem a opção de tentar reenviar o email mais tarde. Para receber mensagens novamente, o usuário deve excluir emails até que a caixa de correio fique abaixo do limite de tamanho.
 
 ### <a name="capacity-alerts"></a>Alertas de capacidade
 
@@ -166,27 +166,27 @@ O Exchange Online oferece três tipos de notificações quando uma caixa de corr
 
 Estes limites são para limitar as caixas de correios para tamanhos conhecidos que podem ser suportados pelo Exchange Online. O objetivo desses limites é impedir uma quantidade infinita de itens de caixa de correio por pasta, de pastas por caixa de correio ou de pastas públicas por organização do Exchange Online. Por razões práticas, os limites da pasta da caixa de correio são ilimitadas e o suficiente para suportar a maioria das caixas de correio do Exchange Online e caixas de correio locais que são migradas para o Exchange Online.
 
-- **Número máximo de mensagens por pasta da caixa de correio**: especifica o número máximo de mensagens para uma pasta de caixa de correio. Novas mensagens não podem ser entregues ou salvas em uma pasta quando este limite é alcançado.
+- **Número máximo de mensagens por pasta da caixa de correio** : especifica o número máximo de mensagens para uma pasta de caixa de correio. Novas mensagens não podem ser entregues ou salvas em uma pasta quando este limite é alcançado.
 
-- **Aviso para o número de mensagens por pasta da caixa de correio**: especifica o número de mensagens que uma pasta de caixa de correio pode conter antes de o Exchange Online enviar uma mensagem de aviso ao proprietário da caixa de correio. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
+- **Aviso para o número de mensagens por pasta da caixa de correio** : especifica o número de mensagens que uma pasta de caixa de correio pode conter antes de o Exchange Online enviar uma mensagem de aviso ao proprietário da caixa de correio. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
 
-- **Número máximo de mensagens por pasta na pasta itens recuperáveis**: especifica o número máximo de mensagens que podem estar contidas em cada pasta da pasta itens recuperáveis. Quando uma pasta excede este limite, ela não pode mais armazenar novas mensagens. Por exemplo, se a pasta Excluídos na pasta de Itens Recuperáveis tiver excedido o limite de mensagens e o proprietário da caixa de correio tentar excluir permanentemente itens da mesma, a exclusão irá falhar.
+- **Número máximo de mensagens por pasta na pasta itens recuperáveis** : especifica o número máximo de mensagens que podem estar contidas em cada pasta da pasta itens recuperáveis. Quando uma pasta excede este limite, ela não pode mais armazenar novas mensagens. Por exemplo, se a pasta Excluídos na pasta de Itens Recuperáveis tiver excedido o limite de mensagens e o proprietário da caixa de correio tentar excluir permanentemente itens da mesma, a exclusão irá falhar.
 
-- **Aviso para o número de mensagens por pasta na pasta itens recuperáveis**: especifica o número de mensagens que cada pasta da pasta itens recuperáveis pode conter antes que o Exchange Online registre um evento no log de eventos do aplicativo.
+- **Aviso para o número de mensagens por pasta na pasta itens recuperáveis** : especifica o número de mensagens que cada pasta da pasta itens recuperáveis pode conter antes que o Exchange Online registre um evento no log de eventos do aplicativo.
 
-- **Número máximo de subpastas por pasta da caixa de correio**: especifica o número máximo de subpastas que podem ser criadas em uma pasta de caixa de correio. O proprietário da caixa de correio não conseguirá criar uma nova subpasta quando este limite for atingido.
+- **Número máximo de subpastas por pasta da caixa de correio** : especifica o número máximo de subpastas que podem ser criadas em uma pasta de caixa de correio. O proprietário da caixa de correio não conseguirá criar uma nova subpasta quando este limite for atingido.
 
-- **Aviso para o número de subpastas por pasta da caixa de correio**: especifica o número de subpastas que podem ser criadas em uma pasta de caixa de correio antes que o Exchange Online envie uma mensagem de aviso ao proprietário da caixa de correio. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
+- **Aviso para o número de subpastas por pasta da caixa de correio** : especifica o número de subpastas que podem ser criadas em uma pasta de caixa de correio antes que o Exchange Online envie uma mensagem de aviso ao proprietário da caixa de correio. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
 
-- **Profundidade máxima da hierarquia de pastas**: especifica o número máximo de níveis na hierarquia de pastas de uma caixa de correio. O proprietário da caixa de correio não conseguirá criar outro nível na hierarquia da pasta da caixa de correio quando este limite for atingido.
+- **Profundidade máxima da hierarquia de pastas** : especifica o número máximo de níveis na hierarquia de pastas de uma caixa de correio. O proprietário da caixa de correio não conseguirá criar outro nível na hierarquia da pasta da caixa de correio quando este limite for atingido.
 
-- **Aviso para profundidade de hierarquia de pastas**: especifica o número de níveis na hierarquia de pastas de uma pasta de caixa de correio que pode ser criada antes do Exchange Online enviar uma mensagem de aviso ao proprietário da caixa de correio. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
+- **Aviso para profundidade de hierarquia de pastas** : especifica o número de níveis na hierarquia de pastas de uma pasta de caixa de correio que pode ser criada antes do Exchange Online enviar uma mensagem de aviso ao proprietário da caixa de correio. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
 
-- **Número máximo de pastas públicas**: especifica o número máximo de pastas públicas na hierarquia completa de pasta pública. Quando este limite é atingido, as pastas públicas existentes devem ser excluídas antes de novas pastas poderem ser criadas.
+- **Número máximo de pastas públicas** : especifica o número máximo de pastas públicas na hierarquia completa de pasta pública. Quando este limite é atingido, as pastas públicas existentes devem ser excluídas antes de novas pastas poderem ser criadas.
 
-- **Número máximo de subpastas por pasta pública**: especifica o número máximo de subpastas que podem ser criadas em uma pasta pública. Novas subpastas não poderão ser criadas em uma pasta pública quando este limite for atingido.
+- **Número máximo de subpastas por pasta pública** : especifica o número máximo de subpastas que podem ser criadas em uma pasta pública. Novas subpastas não poderão ser criadas em uma pasta pública quando este limite for atingido.
 
-- **Aviso para o número de subpastas por pasta pública**: especifica o número de subpastas que podem ser criadas em uma pasta pública antes de o Exchange Online enviar uma mensagem de aviso ao proprietário da pasta. Se não existir nenhum proprietário, as mensagens de aviso serão enviadas para usuários com permissões de Proprietário. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
+- **Aviso para o número de subpastas por pasta pública** : especifica o número de subpastas que podem ser criadas em uma pasta pública antes de o Exchange Online enviar uma mensagem de aviso ao proprietário da pasta. Se não existir nenhum proprietário, as mensagens de aviso serão enviadas para usuários com permissões de Proprietário. Quando esta cota é alcançada, as mensagens de aviso são enviadas diariamente.
 
 ### <a name="mailbox-folder-limits"></a>Limites da pasta da caixa de correio
 
@@ -239,25 +239,25 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 
 Os limites a seguir são aplicados a todas as mensagens de email.
 
-- **Limite de tamanho de mensagem**: limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, veja a [Microsoft oferece suporte a mensagens de email maiores](https://go.microsoft.com/fwlink/?linkid=2144144).
+- **Limite de tamanho de mensagem** : limites de tamanho de mensagem são necessários para impedir que mensagens grandes bloqueiem a entrega de outras mensagens e afetem o desempenho do serviço para todos os usuários. Esses limites incluem anexos e são aplicáveis em toda a organização a todas as mensagens (de entrada, de saída e internas). Mensagens maiores do que esse limite não serão entregues, e o remetente receberá uma NDR (notificação de falha na entrega). Embora os limites de tamanho de mensagem não possam ser configurados como maiores, menores ou para usuários individuais, os administradores também podem criar regras de transporte para limitar o tamanho máximo de qualquer anexo individual. Para saber mais, veja a [Microsoft oferece suporte a mensagens de email maiores](https://go.microsoft.com/fwlink/?linkid=2144144).
 
     > [!NOTE]
     > Alguns clientes de email podem ter limites de tamanho de mensagem menores ou podem limitar o tamanho de um anexo de arquivo individual para um valor menor do que o limite de tamanho de mensagem do Exchange Online.
 
-- **Limite de tamanho do cabeçalho da mensagem**: especifica o tamanho máximo de todos os campos de cabeçalho de mensagem em uma mensagem. O limite atual é 256 KB. Se o tamanho total de todos os cabeçalhos de mensagem exceder 256 KB, o Exchange Online rejeitará a mensagem com o erro "552 5.3.4 O tamanho do cabeçalho excedeu o tamanho máximo fixo." O tamanho do corpo ou dos anexos da mensagem não é considerado. Como os campos de cabeçalho são texto não criptografado, o tamanho do cabeçalho é determinado pelo número de caracteres em cada campo de cabeçalho e pelo número total de campos de cabeçalho. Cada caractere de texto consome 1 byte.
+- **Limite de tamanho do cabeçalho da mensagem** : especifica o tamanho máximo de todos os campos de cabeçalho de mensagem em uma mensagem. O limite atual é 256 KB. Se o tamanho total de todos os cabeçalhos de mensagem exceder 256 KB, o Exchange Online rejeitará a mensagem com o erro "552 5.3.4 O tamanho do cabeçalho excedeu o tamanho máximo fixo." O tamanho do corpo ou dos anexos da mensagem não é considerado. Como os campos de cabeçalho são texto não criptografado, o tamanho do cabeçalho é determinado pelo número de caracteres em cada campo de cabeçalho e pelo número total de campos de cabeçalho. Cada caractere de texto consome 1 byte.
 
-- **Limite de tamanho de assunto**: o número máximo de caracteres de texto permitido na linha de assunto de uma mensagem de email.
+- **Limite de tamanho de assunto** : o número máximo de caracteres de texto permitido na linha de assunto de uma mensagem de email.
 
-- **Limite de anexos de arquivo**: o número máximo de anexos de arquivo permitidos em uma mensagem de email. Mesmo se o tamanho total de todos os anexos de arquivo não violar o limite de tamanho da mensagem, ainda haverá um limite na quantidade de anexos permitida na mensagem. Este limite é controlado pelo limite da mensagem em várias partes.
+- **Limite de anexos de arquivo** : o número máximo de anexos de arquivo permitidos em uma mensagem de email. Mesmo se o tamanho total de todos os anexos de arquivo não violar o limite de tamanho da mensagem, ainda haverá um limite na quantidade de anexos permitida na mensagem. Este limite é controlado pelo limite da mensagem em várias partes.
 
-- **Limite de tamanho de anexo de arquivo**: o tamanho de arquivo máximo de um único anexo.
+- **Limite de tamanho de anexo de arquivo** : o tamanho de arquivo máximo de um único anexo.
 
     > [!NOTE]
     > Esse é o tamanho máximo de um único anexo. Programas cliente individuais, incluindo o Outlook na Web, podem limitar o tamanho dos anexos abaixo desse máximo. O Exchange ActiveSync não implementa limites de tamanho de anexos para anexos individuais. O tamanho total de todos os anexos para uma mensagem do Exchange ActiveSync deve ser menor do que o limite de tamanho de mensagem.
 
-- **Limite de mensagem de várias**partes: o número máximo de partes do corpo da mensagem permitido em uma mensagem MIME com diversas partes. Esse limite também controla a quantidade máxima de anexos permitidos em uma mensagem.
+- **Limite de mensagem de várias** partes: o número máximo de partes do corpo da mensagem permitido em uma mensagem MIME com diversas partes. Esse limite também controla a quantidade máxima de anexos permitidos em uma mensagem.
 
-- **Limite de profundidade de mensagem incorporada**: o número máximo de mensagens de email encaminhada permitidas em uma mensagem de email.
+- **Limite de profundidade de mensagem incorporada** : o número máximo de mensagens de email encaminhada permitidas em uma mensagem de email.
 
 ### <a name="message-limits"></a>Limites de mensagem
 
@@ -334,19 +334,19 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
 > [!NOTE]
 > Para grupos de distribuição armazenados no catálogo de endereços de uma organização, o grupo é contado como um destinatário. Para grupos de distribuição armazenados na pasta Contatos de uma caixa de correio, os membros do grupo são contados individualmente.
 
-- **Limite de taxa de destinatários**: para desencorajar a entrega de mensagens em massa não solicitadas, o Exchange Online tem limites de destinatário que impedem que usuários e aplicativos enviem grandes volumes de email. Esses limites são aplicados por usuário para todas as mensagens de saída e internas.
+- **Limite de taxa de destinatários** : para desencorajar a entrega de mensagens em massa não solicitadas, o Exchange Online tem limites de destinatário que impedem que usuários e aplicativos enviem grandes volumes de email. Esses limites são aplicados por usuário para todas as mensagens de saída e internas.
 
     > [!NOTE]
     > Os clientes do Exchange Online que precisam enviar emails comerciais em massa legítimos (por exemplo, boletins informativos para clientes) devem usar provedores de terceiros especializados nesses serviços.
 
-- **Limite do destinatário**: Este é o número máximo de destinatários permitidos nos campos para:, CC: e Cco: para uma única mensagem de email.
+- **Limite do destinatário** : Este é o número máximo de destinatários permitidos nos campos para:, CC: e Cco: para uma única mensagem de email.
 
     > [!NOTE]
     > Para o limite de taxa de destinatários e o limite de destinatários, um grupo de distribuição que está armazenado no catálogo de endereços compartilhado da organização conta como um destinatário. Em uma lista de distribuição pessoal, cada destinatário é contado separadamente.
 
-- **Limite de endereço de proxy do destinatário**: o limite de endereço de proxy do destinatário é o número máximo de aliases (endereços de email) que uma caixa de correio de destinatário pode ter. 
+- **Limite de endereço de proxy do destinatário** : o limite de endereço de proxy do destinatário é o número máximo de aliases (endereços de email) que uma caixa de correio de destinatário pode ter. 
 
-- **Limite de taxa de mensagens**: limites de taxa de mensagens determinam quantas mensagens um usuário pode enviar de sua conta do Exchange Online dentro de um período de tempo especificado. Esse limite ajuda a evitar o consumo de recursos do sistema por um único remetente. Se um usuário envia mensagens a uma taxa que excede o limite por meio de envio de cliente SMTP, as mensagens são rejeitadas e o cliente precisa repetir.
+- **Limite de taxa de mensagens** : limites de taxa de mensagens determinam quantas mensagens um usuário pode enviar de sua conta do Exchange Online dentro de um período de tempo especificado. Esse limite ajuda a evitar o consumo de recursos do sistema por um único remetente. Se um usuário envia mensagens a uma taxa que excede o limite por meio de envio de cliente SMTP, as mensagens são rejeitadas e o cliente precisa repetir.
 
 #### <a name="sending-limits"></a>Limites de envio
 
@@ -382,11 +382,11 @@ Para relatórios e limites de rastreamento de mensagens, consulte a seção "dis
 
 Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa de entrada podem ser acessados.
 
-- **Período de retenção da pasta itens excluídos**: o número máximo de dias que os itens podem permanecer na pasta itens excluídos antes de serem removidos automaticamente.
+- **Período de retenção da pasta itens excluídos** : o número máximo de dias que os itens podem permanecer na pasta itens excluídos antes de serem removidos automaticamente.
 
-- **Período de retenção para itens removidos da pasta itens excluídos**: o número máximo de dias que os itens removidos da pasta itens excluídos são mantidos antes de serem excluídos permanentemente.
+- **Período de retenção para itens removidos da pasta itens excluídos** : o número máximo de dias que os itens removidos da pasta itens excluídos são mantidos antes de serem excluídos permanentemente.
 
-- **Período de retenção da pasta de lixo eletrônico**: o número máximo de dias que os itens podem permanecer na pasta lixo eletrônico antes de serem removidos automaticamente.
+- **Período de retenção da pasta de lixo eletrônico** : o número máximo de dias que os itens podem permanecer na pasta lixo eletrônico antes de serem removidos automaticamente.
 
 > [!NOTE]
 > Uma caixa de correio de usuário excluída de forma reversível &mdash; usando o centro de administração do Microsoft 365 ou o cmdlet Remove-Mailbox no Exchange Online PowerShell e que ainda esteja na lixeira do Azure Active Directory &mdash; é recuperável dentro de 30 dias.
@@ -417,11 +417,11 @@ Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa 
 
 Estes limites se aplicam a grupos de distribuição no catálogo de endereços compartilhado de sua organização.
 
-- **Número máximo de membros do grupo de distribuição**: a contagem total de destinatários é determinada após a expansão do grupo de distribuição.
+- **Número máximo de membros do grupo de distribuição** : a contagem total de destinatários é determinada após a expansão do grupo de distribuição.
 
-- **Limitar o envio de mensagens a grupos de distribuição grandes**: os grupos de distribuição que contêm o número de membros especificado por esse limite devem ter as opções de gerenciamento de entrega ou de aprovação de mensagem configuradas. O gerenciamento de entrega especifica uma lista de remetentes que podem enviar mensagens para o grupo de distribuição. A aprovação de mensagens especifica um ou mais moderadores que devem aprovar todas as mensagens enviadas ao grupo de distribuição.
+- **Limitar o envio de mensagens a grupos de distribuição grandes** : os grupos de distribuição que contêm o número de membros especificado por esse limite devem ter as opções de gerenciamento de entrega ou de aprovação de mensagem configuradas. O gerenciamento de entrega especifica uma lista de remetentes que podem enviar mensagens para o grupo de distribuição. A aprovação de mensagens especifica um ou mais moderadores que devem aprovar todas as mensagens enviadas ao grupo de distribuição.
 
-- **Tamanho máximo de mensagem para grupos de distribuição grandes**: se uma mensagem for enviada para 5.000 ou mais destinatários, o tamanho da mensagem não poderá exceder esse limite. Se o tamanho da mensagem exceder o limite, a mensagem não será entregue, e o remetente receberá uma NDR (notificação de falha na entrega).
+- **Tamanho máximo de mensagem para grupos de distribuição grandes** : se uma mensagem for enviada para 5.000 ou mais destinatários, o tamanho da mensagem não poderá exceder esse limite. Se o tamanho da mensagem exceder o limite, a mensagem não será entregue, e o remetente receberá uma NDR (notificação de falha na entrega).
 
 ### <a name="distribution-group-limits"></a>Limites de grupos de distribuição
 
@@ -453,23 +453,23 @@ Estes limites se aplicam a grupos de distribuição no catálogo de endereços c
 
 A lista a seguir inclui os limites que se aplicam às regras de diário, regras de transporte (também conhecidas como regras de toda a organização) e limites que se aplicam às regras de caixa de entrada. As regras da Caixa de Entrada são configuradas por usuários individuais e aplicadas às mensagens enviadas e recebidas pela caixa de correio do usuário individual.
 
-- **Número máximo de regras de diário**: o número máximo de regras de diário que podem existir na organização.
+- **Número máximo de regras de diário** : o número máximo de regras de diário que podem existir na organização.
 
-- **Número máximo de regras de transporte**: o número máximo de regras que podem existir na organização.
+- **Número máximo de regras de transporte** : o número máximo de regras que podem existir na organização.
 
-- **Tamanho máximo de uma regra de transporte individual**: o número máximo de caracteres que podem ser usados em uma única regra de transporte. Os caracteres são usados nas condições, exceções e ações.
+- **Tamanho máximo de uma regra de transporte individual** : o número máximo de caracteres que podem ser usados em uma única regra de transporte. Os caracteres são usados nas condições, exceções e ações.
 
-- **Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte**: o número total de caracteres usados incluindo todas as expressões regulares em todas as condições e exceções da regra de transporte na organização. Você pode ter algumas regras que usam expressões regulares longas e complexas ou pode ter muitas regras que usam expressões regulares simples.
+- **Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte** : o número total de caracteres usados incluindo todas as expressões regulares em todas as condições e exceções da regra de transporte na organização. Você pode ter algumas regras que usam expressões regulares longas e complexas ou pode ter muitas regras que usam expressões regulares simples.
 
-- **Limites de verificação para conteúdo de anexos**: as condições de regra de transporte permitem que você examine o conteúdo de anexos de mensagens, mas apenas o primeiro 1 MB do texto extraído de um anexo é inspecionado. Esse limite de 1 MB refere-se ao texto extraído do anexo, não o tamanho do arquivo do anexo. Por exemplo, um arquivo de 2 MB pode conter menos de 1 MB de texto, para que todo ele seja inspecionado.
+- **Limites de verificação para conteúdo de anexos** : as condições de regra de transporte permitem que você examine o conteúdo de anexos de mensagens, mas apenas o primeiro 1 MB do texto extraído de um anexo é inspecionado. Esse limite de 1 MB refere-se ao texto extraído do anexo, não o tamanho do arquivo do anexo. Por exemplo, um arquivo de 2 MB pode conter menos de 1 MB de texto, para que todo ele seja inspecionado.
 
-- **Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte**: quando uma mensagem é acionada por regras de transporte diferentes, apenas um número finito de destinatários pode ser adicionado à mensagem. Depois que o limite é atingido, os destinatários restantes não são adicionados à mensagem. Além disso, grupos de distribuição não podem ser adicionados a uma mensagem por meio de uma regra de transporte.
+- **Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte** : quando uma mensagem é acionada por regras de transporte diferentes, apenas um número finito de destinatários pode ser adicionado à mensagem. Depois que o limite é atingido, os destinatários restantes não são adicionados à mensagem. Além disso, grupos de distribuição não podem ser adicionados a uma mensagem por meio de uma regra de transporte.
 
-- **Limite de encaminhamento**: o número máximo de destinatários que podem ser configurados para uma caixa de entrada ou regra de transporte com uma ação de redirecionamento. Se uma regra for configurada para redirecionar uma mensagem a um número de destinatários maior do que esse, a regra não será aplicada e qualquer mensagem que satisfaça à condição de regra não será redirecionada para nenhum dos destinatários listados na regra.
+- **Limite de encaminhamento** : o número máximo de destinatários que podem ser configurados para uma caixa de entrada ou regra de transporte com uma ação de redirecionamento. Se uma regra for configurada para redirecionar uma mensagem a um número de destinatários maior do que esse, a regra não será aplicada e qualquer mensagem que satisfaça à condição de regra não será redirecionada para nenhum dos destinatários listados na regra.
     
-- **Número de vezes que uma mensagem é redirecionada**: o número de vezes que uma mensagem será redirecionada, encaminhada ou respondida automaticamente com base nas regras de caixa de entrada. Por exemplo, o Usuário A tem uma regra de Caixa de Entrada que redireciona mensagens para o Usuário B, com base no remetente. O Usuário B tem uma regra de Caixa de Entrada que encaminha mensagens para o Usuário C com base em palavras-chave na linha de assunto. Se uma mensagem satisfaz a ambas as condições, ela é enviada apenas ao Usuário B; ela não é encaminhada ao Usuário C, porque somente um redirecionamento é permitido. Nesse caso, a mensagem é descartada sem enviar uma notificação de falha na entrega (NDR) para o usuário B, indicando que a mensagem não foi entregue ao usuário C. Utilizamos o cabeçalho X-MS-Exchange-inbox-Rule-loop para determinar o número de vezes que uma mensagem foi redirecionada. Esse cabeçalho permanece também entre os limites organizacionais do Exchange.
+- **Número de vezes que uma mensagem é redirecionada** : o número de vezes que uma mensagem será redirecionada, encaminhada ou respondida automaticamente com base nas regras de caixa de entrada. Por exemplo, o Usuário A tem uma regra de Caixa de Entrada que redireciona mensagens para o Usuário B, com base no remetente. O Usuário B tem uma regra de Caixa de Entrada que encaminha mensagens para o Usuário C com base em palavras-chave na linha de assunto. Se uma mensagem satisfaz a ambas as condições, ela é enviada apenas ao Usuário B; ela não é encaminhada ao Usuário C, porque somente um redirecionamento é permitido. Nesse caso, a mensagem é descartada sem enviar uma notificação de falha na entrega (NDR) para o usuário B, indicando que a mensagem não foi entregue ao usuário C. Utilizamos o cabeçalho X-MS-Exchange-inbox-Rule-loop para determinar o número de vezes que uma mensagem foi redirecionada. Esse cabeçalho permanece também entre os limites organizacionais do Exchange.
 
-- **Número de vezes em que uma mensagem é redirecionada por regras de transporte**: o número de vezes que uma mensagem será redirecionada com base nas regras de transporte. Por exemplo, a Exchange Organization Tailspin Toys tem uma regra de transporte para redirecionar todas as mensagens que foram enviadas ao usuário a para o usuário B, que está localizado na organização do Exchange contoso. Dentro da organização do Exchange contoso, há uma regra de transporte em vigor para redirecionar todas as mensagens que foram enviadas ao usuário B para o usuário C, que está localizado na organização do Exchange A. Datum Corporation. Nesse caso, a mensagem é descartada e uma notificação de falha na entrega (NDR) com código de status e a mensagem de rejeição *550 transporte de 5.7.128. Regras. RejectMessage A contagem de loop de regras de transporte foi excedida e a mensagem rejeitada* é enviada para o usuário a. Utilizamos o cabeçalho X-MS-Exchange-Transport-Rules-loop para determinar o número de vezes que uma mensagem foi redirecionada por regras de transporte. Esse cabeçalho permanece também entre os limites organizacionais do Exchange.
+- **Número de vezes em que uma mensagem é redirecionada por regras de transporte** : o número de vezes que uma mensagem será redirecionada com base nas regras de transporte. Por exemplo, a Exchange Organization Tailspin Toys tem uma regra de transporte para redirecionar todas as mensagens que foram enviadas ao usuário a para o usuário B, que está localizado na organização do Exchange contoso. Dentro da organização do Exchange contoso, há uma regra de transporte em vigor para redirecionar todas as mensagens que foram enviadas ao usuário B para o usuário C, que está localizado na organização do Exchange A. Datum Corporation. Nesse caso, a mensagem é descartada e uma notificação de falha na entrega (NDR) com código de status e a mensagem de rejeição *550 transporte de 5.7.128. Regras. RejectMessage A contagem de loop de regras de transporte foi excedida e a mensagem rejeitada* é enviada para o usuário a. Utilizamos o cabeçalho X-MS-Exchange-Transport-Rules-loop para determinar o número de vezes que uma mensagem foi redirecionada por regras de transporte. Esse cabeçalho permanece também entre os limites organizacionais do Exchange.
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>Limites de regras de diário, transporte e caixa de entrada
 
@@ -507,13 +507,13 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, regras 
 
 Estes limites controlam as configurações de moderação que são usadas para aprovação de mensagens aplicadas a grupos de distribuição e regras de transporte.
 
-- **Tamanho máximo da caixa de correio de arbitragem**: se a caixa de correio de arbitragem exceder esse limite, as mensagens que exigem moderação serão retornadas ao remetente em uma notificação de falha na entrega (NDR).
+- **Tamanho máximo da caixa de correio de arbitragem** : se a caixa de correio de arbitragem exceder esse limite, as mensagens que exigem moderação serão retornadas ao remetente em uma notificação de falha na entrega (NDR).
 
-- **Número máximo de moderadores**: o número máximo de moderadores que você pode atribuir a um único grupo de distribuição moderado ou que pode ser adicionado a uma mensagem usando uma única regra de transporte. Observe que você não pode especificar um grupo de distribuição como um moderador.
+- **Número máximo de moderadores** : o número máximo de moderadores que você pode atribuir a um único grupo de distribuição moderado ou que pode ser adicionado a uma mensagem usando uma única regra de transporte. Observe que você não pode especificar um grupo de distribuição como um moderador.
 
-- **Expiração para mensagens aguardando moderação**: por padrão, uma mensagem aguardando a moderação expira após dois dias. No entanto, o processamento de mensagens moderadas expiradas é executado a cada sete dias. Isso significa que uma mensagem moderada pode expirar a qualquer momento entre dois e nove dias.
+- **Expiração para mensagens aguardando moderação** : por padrão, uma mensagem aguardando a moderação expira após dois dias. No entanto, o processamento de mensagens moderadas expiradas é executado a cada sete dias. Isso significa que uma mensagem moderada pode expirar a qualquer momento entre dois e nove dias.
 
-- **Taxa máxima para mensagens de notificação de moderação expiradas**: esse limite define o número máximo de mensagens de notificação para mensagens moderadas expiradas em um período de uma hora. Esse limite é imposto a todos os bancos de dados de caixas de correio no datacenter.
+- **Taxa máxima para mensagens de notificação de moderação expiradas** : esse limite define o número máximo de mensagens de notificação para mensagens moderadas expiradas em um período de uma hora. Esse limite é imposto a todos os bancos de dados de caixas de correio no datacenter.
 
 Durante os períodos de pesado intenso, alguns remetentes podem não receber mensagens de notificação para mensagens moderadas que expiraram. No entanto, essas notificações ainda são detectáveis com o uso de relatórios de entrega.
 
@@ -542,9 +542,9 @@ Durante os períodos de pesado intenso, alguns remetentes podem não receber men
 
 Os seguintes limites se aplicam ao Microsoft Exchange ActiveSync, um protocolo de cliente que sincroniza dados de caixa de correio entre dispositivos móveis e o Exchange.
 
-- **Limite de dispositivos do Exchange ActiveSync**: o número máximo de dispositivos do Exchange ActiveSync por caixa de correio.
+- **Limite de dispositivos do Exchange ActiveSync** : o número máximo de dispositivos do Exchange ActiveSync por caixa de correio.
 
-- **Limite de exclusão de dispositivo do Exchange ActiveSync**: o número máximo de dispositivos do Exchange ActiveSync que um administrador do Exchange pode excluir em um único mês.
+- **Limite de exclusão de dispositivo do Exchange ActiveSync** : o número máximo de dispositivos do Exchange ActiveSync que um administrador do Exchange pode excluir em um único mês.
 
 ### <a name="exchange-activesync-limits"></a>Limites do Exchange ActiveSync
 
