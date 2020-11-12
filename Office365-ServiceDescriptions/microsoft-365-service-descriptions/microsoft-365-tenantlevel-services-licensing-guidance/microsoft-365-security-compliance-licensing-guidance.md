@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: d83791aa46ca8c77227f3a7ce692f4439866a151
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
+ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830392"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999714"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -25,7 +25,7 @@ Para os fins deste artigo, um serviço de nível de locatário é um serviço on
 > [!NOTE]
 > Alguns serviços de locatário atualmente não são capazes de limitar benefícios a usuários específicos. Devem ser tomadas esforços para limitar os benefícios do serviço aos usuários licenciados. Isso ajudará a evitar a interrupção de serviço em potencial para sua organização quando os recursos de direcionamento estiverem disponíveis.
 
-Para ver as opções de licenciamento dos seus usuários para se beneficiarem dos recursos de conformidade da Microsoft 365 a partir de 1º de abril de 2020, baixe a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+Para ver as opções de licenciamento dos seus usuários para se beneficiarem dos recursos de conformidade da Microsoft 365 a partir de 1º de abril de 2020, baixe a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -118,7 +118,7 @@ Para obter informações sobre como configurar o serviço, consulte [configuraç
 
 Os administradores podem fazer o escopo de implantações do OCAS para impor como determinados aplicativos são acessados e limitar os grupos de usuários monitorados pelo Office 365 Cloud app Security. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Segurança no aplicativo na nuvem da Microsoft
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos de nuvem e serviços, fornece uma análise sofisticada para identificar e combater as ameaças da Cyber e permite que elas controlem como os dados são transferidos &mdash; em qualquer aplicativo de nuvem.
 
@@ -148,7 +148,7 @@ Para obter informações sobre como configurar as políticas de segurança do ap
 
 Os administradores podem fazer o escopo de implantações do MCAS para usuários licenciados usando os recursos de implantação com escopo disponíveis no serviço. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="compliance-manager"></a>Gerenciador de Conformidade
+## <a name="compliance-manager"></a>Gerente de Conformidade
 
 Simplificar a conformidade e reduzir o risco com o gerente de conformidade. O Gerenciador de conformidade ajuda as organizações a cumprir os requisitos de regulamentos, padrões, políticas da empresa ou outras estruturas de controle desejadas.
 
@@ -174,7 +174,7 @@ O Gerenciador de conformidade é provisionado por padrão para o seu locatário.
 
 O acesso ao Gerenciador de conformidade é controlado pela definição de permissões de usuário e atribuição de funções. Para obter mais informações, consulte [introdução ao Gerenciador de conformidade: definir permissões de usuário e atribuir funções](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-atp"></a>O Microsoft Defender ATP
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 O Microsoft defender ATP é uma solução de segurança de ponto de extremidade que inclui gerenciamento e avaliação de vulnerabilidades baseados em riscos; recursos de redução da superfície de ataque; proteção com base no comportamento e na próxima geração da nuvem; detecção de pontos de extremidade e resposta (EDR); investigação e correção automáticas; e serviços gerenciados de busca. Confira a página [do Microsoft defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para saber mais.
 
@@ -461,7 +461,7 @@ Por padrão, os emails do Exchange Online, os sites do SharePoint e as contas do
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations** .
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevenção de perda de dados de comunicação para o Microsoft Teams
 
@@ -481,7 +481,7 @@ Por padrão, as mensagens de chat e de canal do teams são um *local habilitado 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations** .
+Os administradores podem personalizar locais (cargas de trabalho), usuários incluídos e usuários excluídos no centro de conformidade & segurança, em locais de **prevenção de perda de dados**  >  **Locations**.
 
 ## <a name="information-barriers"></a>Barreiras de informações
 
@@ -523,7 +523,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 e o plano de proteção de informações d
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Os administradores criam e gerenciam as políticas de criptografia de mensagens do Office 365 no centro de administração do Exchange em regras de **fluxo de emails**  >  **Rules** . Por padrão, essas regras se aplicam a todos os usuários no locatário. Para obter mais informações sobre como configurar os novos recursos de criptografia de mensagens do Office 365, consulte [configurar novos recursos de criptografia de mensagens do office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Os administradores criam e gerenciam as políticas de criptografia de mensagens do Office 365 no centro de administração do Exchange em regras de **fluxo de emails**  >  **Rules**. Por padrão, essas regras se aplicam a todos os usuários no locatário. Para obter mais informações sobre como configurar os novos recursos de criptografia de mensagens do Office 365, consulte [configurar novos recursos de criptografia de mensagens do office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 728dbb670449a941400a3951201413e79895b238
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 784d8c7a6d1e1d87db0982586c63fce73eb3fa33
+ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830422"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999724"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -268,7 +268,7 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de tamanho de mensagem - Outlook para Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Limite de tamanho de mensagem - migração|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |Limite de tamanho de mensagem-Outlook para iOS e Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Limite de comprimento de assunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Limite de anexos de arquivo|250 anexos|250 anexos|250 anexos|250 anexos|250 anexos|250 anexos|
