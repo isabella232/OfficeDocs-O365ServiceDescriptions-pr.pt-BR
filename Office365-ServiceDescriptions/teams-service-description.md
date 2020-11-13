@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: O Microsoft Teams fornece mensagens instantâneas, colaboração de arquivos e dados, chamadas de áudio e vídeo, reuniões online avançadas, experiências móveis e recursos de Webconferência abrangentes.
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773435"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003944"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
@@ -45,7 +45,7 @@ Todos os planos de assinatura suportados estão qualificados para acessar o clie
 
 O Microsoft Teams não está disponível como um serviço autônomo.
 
-## <a name="feature-category-reference"></a>Referência de categoria de recurso 
+## <a name="feature-category-reference"></a>Referência de categoria de recurso
 
 Esta tabela lista a disponibilidade de recursos do Microsoft Teams em planos de licenciamento ou instâncias de nuvem. Determinadas limitações se aplicam. Confira as notas de rodapé para obter mais informações. Esta tabela pode ser alterada sem aviso prévio. Consulte Microsoft 365 Message Center Notifications for Core Service Change Messaging e a [documentação de referência de termos de licenciamento da Microsoft](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
@@ -57,16 +57,17 @@ Esta tabela lista a disponibilidade de recursos do Microsoft Teams em planos de 
 |Canais-privado  <br/> |Sim  <br/> |Sim<sup>2</sup>  <br/> |Sim <br/> |Não  <br/> |Não <br/> |Sim  <br/> |
 |Reuniões  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Área de trabalho de áudio/vídeo do PowerPoint para compartilhamento de tela <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Voz  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Audioconferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Aplicativos, bots, & conectores  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>4</sup>  <br/> |Sim<sup>4</sup>  <br/> |Sim<sup>3, 4</sup>  <br/> |Sim  <br/> |
-|Eventos ao vivo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Nenhum<sup>5</sup>  <br/> |Nenhum<sup>5</sup>  <br/> |Sim  <br/> |
+|Voz  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>3</sup>  <br/> |Sim<sup>3</sup>  <br/> |Sim  <br/> |
+|Audioconferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>3</sup>  <br/> |Sim<sup>3</sup>  <br/> |Sim  <br/> |
+|Aplicativos, bots, & conectores  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>5</sup>  <br/> |Sim<sup>5</sup>  <br/> |Sim<sup>4, 5</sup>  <br/> |Sim  <br/> |
+|Eventos ao vivo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não<sup>6</sup>  <br/> |Não<sup>6</sup>  <br/> |Sim  <br/> |
 
 > <sup>1</sup>  o Microsoft Teams no GCC-High e o DOD dão suporte a membros 2500 em uma equipe individual.<br/>
 > <sup>2</sup> o Microsoft Planner não está disponível no momento para o acesso em canais privados.<br/>
-> <sup>3</sup> o Microsoft OneNote não está disponível em nuvens DOD.<br/>
-> <sup>4</sup> aplicativos e publicação de aplicativos não estão disponíveis nessas nuvens no momento.<br/>
-> <sup>5</sup> eventos ao vivo não estão disponíveis no GCC-High ou no DOD no momento.<br/>
+> <sup>3</sup> o roteamento direto deve ser configurado para que o Microsoft Teams Voice and audio Conferencing funcione no GCCH e no DOD.<br/>
+> <sup>4</sup> o Microsoft OneNote não está disponível em nuvens DOD.<br/>
+> <sup>5</sup> aplicativos e publicação de aplicativos não estão disponíveis nessas nuvens no momento.<br/>
+> <sup>6</sup> eventos ao vivo não estão disponíveis no GCC-High ou no DOD no momento.<br/>
 
 ## <a name="next-steps"></a>Próximas etapas
 
