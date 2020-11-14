@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de governos da região, ou outras entidades que lidam com os dados sujeitos a normas e requisitos governamentais, onde o uso do Microsoft 365 governamental-GCC é adequado para atender a esses requisitos.
-ms.openlocfilehash: 33a325a0d828596c4880cfab624d3df7da5f0450
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818641"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072672"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planejar a conformidade com a Microsoft 365 – GCC
 
@@ -41,7 +41,7 @@ Você pode encontrar mais informações sobre a oferta Microsoft 365 governament
 A [Descrição do serviço governo dos EUA do Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descreve os benefícios da plataforma, que são centralizados em atender aos requisitos de conformidade nos Estados Unidos.
 
 > [!TIP]
-> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n** . Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
+> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n**. Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
 
 > [!NOTE]
 > O Microsoft 365 governamental-GCC só está disponível nos Estados Unidos. Clientes governamentais não americanos podem escolher entre vários [planos governamentais do Office 365](https://products.office.com/government/compare-office-365-government-plans).
@@ -182,8 +182,8 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Auditoria avançada: insights de auditoria processados                               | Na Backlog de engenharia |
 |                                         | Auditoria avançada: eventos de termos de pesquisa no Exchange Online e no SharePoint Online                              | Na Backlog de engenharia |
 |    **Gerenciamento de Conformidade**            | Centro de conformidade e segurança do Microsoft 365                              | Disponível |
-|                                         | Gerenciador de Conformidade (Visualização)                              | Na Backlog de engenharia |
-|                                         | Segurança no aplicativo na nuvem da Microsoft                              | Na Backlog de engenharia |
+|                                         | Gerenciador de Conformidade                              | Implementando |
+|                                         | Microsoft Cloud App Security                              | Na Backlog de engenharia |
 |                                         | Suporte a caracteres de dois bytes                              | Na Backlog de engenharia |
 |    **Enorme**            | APIs de gráfico para descoberta eletrônica avançada                              | Em desenvolvimento |
 |                                         | Conectores de dados primários                              | Na Backlog de engenharia |
