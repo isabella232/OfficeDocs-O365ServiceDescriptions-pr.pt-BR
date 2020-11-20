@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999714"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330258"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -118,7 +118,7 @@ Para obter informações sobre como configurar o serviço, consulte [configuraç
 
 Os administradores podem fazer o escopo de implantações do OCAS para impor como determinados aplicativos são acessados e limitar os grupos de usuários monitorados pelo Office 365 Cloud app Security. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Segurança no aplicativo na nuvem da Microsoft
 
 O Microsoft Cloud app Security (MCAS) é uma solução do CASB (Cloud Access Security Broker) que oferece aos seus aplicativos de nuvem e serviços, fornece uma análise sofisticada para identificar e combater as ameaças da Cyber e permite que elas controlem como os dados são transferidos &mdash; em qualquer aplicativo de nuvem.
 
@@ -148,7 +148,7 @@ Para obter informações sobre como configurar as políticas de segurança do ap
 
 Os administradores podem fazer o escopo de implantações do MCAS para usuários licenciados usando os recursos de implantação com escopo disponíveis no serviço. Para obter mais informações, consulte [implantação com escopo](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="compliance-manager"></a>Gerente de Conformidade
+## <a name="compliance-manager"></a>Gerenciador de Conformidade
 
 Simplificar a conformidade e reduzir o risco com o gerente de conformidade. O Gerenciador de conformidade ajuda as organizações a cumprir os requisitos de regulamentos, padrões, políticas da empresa ou outras estruturas de controle desejadas.
 
@@ -298,8 +298,8 @@ As seguintes licenças fornecem os direitos para um usuário se beneficiar dos c
 - Microsoft 365 E5/a5
 - Proteção de informações do Microsoft 365 E5/a5 & governança
 - Conformidade com o Microsoft 365 E5/a5
-- Gerenciamento de risco do Microsoft 365 E5/a5 Insider 
-- Microsoft 365 E5/a5 eDiscovery e auditoria 
+- Gerenciamento de risco do Microsoft 365 E5/a5 Insider
+- Microsoft 365 E5/a5 eDiscovery e auditoria
 - Office 365 E5/a5
 - Conformidade Avançada do Office 365
 
@@ -377,11 +377,7 @@ As chaves de criptografia de chave do cliente do Office 365 podem ser habilitada
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Para atribuir chaves de criptografia a dados dentro de uma organização do Office 365 e/ou do Microsoft 365 para usuários licenciados, siga as instruções de implantação das chaves de criptografia de chave do cliente.
-
-- Para os arquivos do SharePoint Online, do OneDrive for Business e do Teams, os arquivos em um ou mais sites podem ser criptografados usando a chave do cliente.
-
-- Para o Exchange Online e o Skype for Business, as caixas de correio podem ser criptografadas usando a chave do cliente.
+Para o Exchange Online e o Skype for Business, as caixas de correio podem ser criptografadas usando a chave do cliente. Você deve configurar o Azure antes de poder usar a chave do cliente para o Office 365. Confira [Configurar a chave do cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) para as etapas que você precisa seguir para criar e configurar os recursos necessários do Azure e as etapas para configurar a chave do cliente no Office 365. Depois de concluir a configuração do Azure, determine a política e, portanto, quais teclas serão atribuídas a caixas de correio e arquivos em sua organização. Caixas de correio e arquivos para os quais você não atribui uma política usarão políticas de criptografia controladas e gerenciadas pela Microsoft. Para obter mais informações sobre a chave do cliente ou para uma visão geral, consulte [Service Encryption with Customer Key in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide).
 
 ## <a name="office-365-customer-lockbox"></a>Sistema de Proteção de Dados do Cliente do Office 365
 
