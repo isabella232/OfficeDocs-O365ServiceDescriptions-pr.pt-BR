@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem do governo dos EUA e a nuvem comercial, conforme listado na descrição do serviço do Exchange Online.
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988078"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376084"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para ambientes do governo dos EUA
 
@@ -111,7 +111,7 @@ A tabela a seguir descreve se os recursos especificados do Exchange Online estã
 |Caixas de correio local|Sim|Sim|Sim||
 |Pastas públicas|Sim|Sim|Sim||
 |**[Clientes e dispositivos móveis](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
-|Tarefas pendentes da Web|Sim|Não|Não||
+|Tarefas pendentes na Web|Sim|Não|Não||
 |Outlook para Windows|Sim|Sim|Sim|Para atender aos requisitos de conformidade do GCC High e DoD, você deve estar executando pelo menos a versão 1803 do Office 365 ProPlus. O Office 365 ProPlus não está incluído em G1 ou F3.|
 |Outlook na Web|Sim|Sim|Sim||
 |Outlook para Mac|Sim|Sim|Sim|Para atender aos requisitos de conformidade do GCC High e DoD, você deve estar executando pelo menos a versão 1803 do Office 365 ProPlus. O Office 365 ProPlus não está incluído em G1 ou F3.|
@@ -170,7 +170,7 @@ Para obter mais informações e as atualizações mais recentes, consulte [Azure
 
 ### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Comportamento de criptografia de mensagem do Office 365 entre os limites de GCC alta/DoD
 
-Se você usar a criptografia de mensagem do Office 365 em um ambiente de maior GCC, esteja ciente dessas características exclusivas sobre a experiência do destinatário:  
+Se você planeja usar a criptografia de mensagem do Office 365 em um ambiente de maior GCC, esteja ciente dessas características exclusivas sobre a experiência do destinatário:  
 
 - Ao enviar emails criptografados de GCC alta ou DoD para destinatários no mesmo ambiente:
     
@@ -212,13 +212,13 @@ O Outlook para iOS e o Android também estão disponíveis para ambientes GCC Hi
 
 Apenas alguns suplementos OWA e Outlook estão disponíveis no GCC High e no DoD. Meus modelos e reuniões sugeridas estão disponíveis e espera-se que funcionem. Só há suporte para os cinco suplementos padrão do OWA. A integração com aplicativos de terceiros é possível, no entanto, essas integrações não são cobertas pelas promessas de conformidade da Microsoft para GCC alta ou DoD. Os clientes devem se familiarizar com as práticas de manipulação de dados de terceiros e as promessas de conformidade antes de configurar o complemento para sua organização.
 
-## <a name="feature-nuances-within-gcc-environments"></a>Nuances de recursos em ambientes GCC
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Nuances de recursos dentro de ambientes GCC para a Microsoft
 
 | Recurso | Descrição | PARCEIROS | Disponibilidade em GCC |
 |:-----|:-----|:-----|:-----|
 |Plataformas suportadas|Web, Android, iOS, Mac, Windows|Todos|Somente Web|
 |O Hub M365 suporta|Integração com o Outlook, o Microsoft Teams, o Planner|Todos|Outlook, planejador (as equipes a serem disponibilizadas com o aplicativo de tarefas do Teams)|
-|Migração do Wunderlist|Permitir que os usuários do Wunderlist migrem dados para tarefas pendentes|Sim|Não|
+|Migração do Wunderlist|Permitir que os usuários do Wunderlist migrem dados para tarefas pendentes na Web|Sim|Não|
 |Notificação por Push|Envie notificações por push para usuários finais para lembretes, etc.|Sim|Não|
 |Suporte do Helpshift|Usar a interface helpshift para criar a solicitação de suporte|Sim|Não|
 |Meu dia|Planejar seu dia|Sim|Sim|
