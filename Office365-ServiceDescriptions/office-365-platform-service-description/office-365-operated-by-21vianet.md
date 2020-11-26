@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294127"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411650"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -295,7 +295,7 @@ A tabela a seguir fornece links para comparações do Office para recursos de re
 > - O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente.
 > - Os clientes locais do Microsoft Office Web Apps Server 2013 recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, Office Standard ou uma licença do Office 365 ProPlus).
 
-| Aplicativo | Office para Web operado pela 21Vianet | Link para a comparação detalhada de recursos |
+| Application | Office para Web operado pela 21Vianet | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
 |Word|Word para Web operado pela 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para Web operado pela 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -342,7 +342,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>4</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteção Avançada contra Ameaças|Não|--|Não|Não|Não|Não|Não|
-|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
+|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -732,7 +732,7 @@ A versão do Office 365 operado pela 21Vianet do Office 365 é específica da Ch
 |Query throttling|Sim|Não|Sim|Sim|Sim|Sim|Sim|
 |Visualização ao focalizar|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Ranking models|Nenhum<sup>5</sup>|Não|Não|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|
-|Refiners|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Refinadores|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RESTful Query API/Query OM|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Result sources|Sim|Sim|Sim|Não|Não|Não|Não|
 |Search connector framework|Não|Não|Não|Não|Não|Não|Não|
@@ -1070,7 +1070,7 @@ Os seguintes recursos móveis não são suportados:
 - "LinkedIn" & "relatórios para" dados no cartão de pessoas
 - Favoritos
 - Reproduzir meus emails
-- Suplementos
+- Add-Ins
 - Resposta inteligente
 - Feed do Office
 - Tempo de saída
@@ -1099,7 +1099,7 @@ A tabela a seguir exibe os recursos do Project Online que estão disponíveis en
 |[Campos personalizados](../project-online-service-description/core-functionality.md#custom-fields)|Não|Sim|Sim|Sim|Não|
 |[Copiar e colar aprimorados entre aplicativos do Microsoft Office](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|Não|Sim|Sim|Sim|Não|
 |[Gráfico de Gantt, calendário e exibições de planilha de tarefas](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|Não|Sim|Sim|Sim|Não|
-|[Interface de usuário Microsoft Fluent, a faixa de opções](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|Não|Sim|Sim|Sim|Não|
+|[Interface do usuário, a faixa de opções](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|Não|Sim|Sim|Sim|Não|
 |[Desfazer em vários níveis](../project-online-service-description/core-functionality.md#multiple-level-undo)|Não|Sim|Sim|Sim|Não|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|Não|Sim|Sim|Sim|Não|
 |[Office Store](../project-online-service-description/core-functionality.md#office-store)|Não|Não|Não|Não|Não|

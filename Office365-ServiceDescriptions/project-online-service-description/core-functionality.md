@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Os recursos de funcionalidades principais a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294037"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411580"
 ---
 # <a name="core-functionality"></a>Funcionalidade principal
 
@@ -52,13 +52,13 @@ Colabore com o desenvolvimento do cronograma copiando e colando detalhes do cron
 
 Apresente as informações do projeto graficamente usando os modos de exibição gráfico de Gantt, diagrama de rede, gráfico, planilha, uso e formulário. Confira [Escolher modo de exibição correto do cronograma do projeto](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
+## <a name="user-interface-the-ribbon"></a>Interface do usuário, a faixa de opções
 
-Aumente a produtividade com a faixa de opções, uma interface de guias com a qual você pode rapidamente localizar e usar recursos e controles do Project. [Saiba mais sobre a faixa de opções](https://go.microsoft.com/fwlink/p/?LinkId=271325).
-  
+Aumente a produtividade com a faixa de opções, uma interface de guias com a qual você pode rapidamente localizar e usar recursos e controles do Project.
+
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-Você pode desfazer várias alterações ao mesmo tempo usando o menu desfazer. 
+Você pode desfazer várias alterações ao mesmo tempo usando o menu desfazer.
   
 ## <a name="network-diagram-view"></a>Exibição de Diagrama de Rede
 
@@ -103,5 +103,3 @@ Use controles de zoom na barra de status para rapidamente alterar a perspectiva 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
 Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
-  
-

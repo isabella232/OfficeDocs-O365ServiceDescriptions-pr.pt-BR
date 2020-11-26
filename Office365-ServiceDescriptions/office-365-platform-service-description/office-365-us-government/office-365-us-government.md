@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Este artigo fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365.
-ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830402"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411610"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -252,7 +252,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**Confiança**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 governo F3**|
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Advanced Data Governance|Nenhum<sup>12</sup>|Nenhum<sup>12</sup>|Sim|Nenhum<sup>12</sup>|
-|Microsoft Cloud App Security|Nenhum<sup>12, 15, 19</sup>|Nenhum<sup>12, 15, 19</sup>|Sim<sup>15, 19</sup>|Nenhum<sup>12, 15, 19</sup>|
+|Segurança no Aplicativo na Nuvem|Nenhum<sup>12, 15, 19</sup>|Nenhum<sup>12, 15, 19</sup>|Sim<sup>15, 19</sup>|Nenhum<sup>12, 15, 19</sup>|
 |Proteção Avançada contra Ameaças|Nenhum<sup>12, 18</sup>|Nenhum<sup>12, 18</sup>|Sim<sup>18</sup>|Nenhum<sup>12, 18</sup>|
 |Sistema de Proteção de Dados do cliente|Nenhum<sup>12</sup>|Nenhum<sup>12</sup>|Sim|Nenhum<sup>12</sup>|
 |Descoberta Eletrônica Avançada|Nenhum<sup>12</sup>|Nenhum<sup>12</sup>|Sim|Nenhum<sup>12</sup>|
@@ -446,6 +446,7 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens governamentais
 |Chat contextual com coautores: converse com coautores no documento|Não|Não|Não|
 |Ditado|Não<sup>1</sup>|Não<sup>1</sup>|Não<sup>1</sup>|
 
+Para obter disponibilidade de recursos do Microsoft Teams no GCC/GCC High/DoD, visite a [Descrição do serviço do Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description).
 > <sup>1</sup> disponibilidade em breve.
 <br/><sup>2</sup> disponibilidade no Surface Hub local (não conectado).
 <br/><sup>3</sup> o compartilhamento externo está disponível para o ambiente gcc. Saiba mais sobre como [desativar ou ativar o Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) para sua organização. O compartilhamento externo está desabilitado para ambientes GCC altos e DOD; os usuários da sua organização podem fazer o seguinte: concluir um formulário e enviar respostas, [duplicar e compartilhar um formulário como um modelo](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [coautoria ou colaborar em um formulário](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)e [acessar os resultados do formulário](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).

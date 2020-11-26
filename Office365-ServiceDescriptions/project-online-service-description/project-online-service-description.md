@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project online é uma solução online flexível para o gerenciamento de portfólio de projetos (PPM) e o trabalho diário. Fornecido através do Office 365, o Project online oferece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos de portfólio de projetos, de quase qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 5288a0b4160ad8f48fbae17030a4726b541dc7b0
-ms.sourcegitcommit: e6626910d7ccd2898a6e550b7c46b4f623142bd9
+ms.openlocfilehash: c00ab33ada0de493a0e1f79c898f735824f9e7d9
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085735"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411590"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -102,7 +102,7 @@ Os recursos listados nesta seção interagem somente com dados no projeto para o
 |Agendamento de tarefas | Obtenha uma visão dos projetos que você trabalhou recentemente, bem como projetos importantes que você precisa monitorar de perto.| Somente exibição | Sim | Sim | Sim |
 |Exibição de linha do tempo (gráfico de Gantt) | Rastreie e entenda visualmente datas, dependências e atribuições de projetos em um modo de exibição de linha do tempo hierárquico.|Somente exibição | Sim | Sim | Sim |
 |Tarefas de resumo | Planejar, gerenciar e acompanhar produtos e fases usando tarefas de resumo.| Somente exibição | Sim | Sim | Sim |
-|Criar e usar campos personalizados de tarefas | Adicionar campos personalizados locais a tarefas em um projeto, adicionar dados a esses campos ou atualizar dados nesses campos.| Não | Sim | Sim | Sim |
+|Criar e usar campos personalizados de tarefas | Adicionar campos personalizados locais a tarefas em um projeto, adicionar dados a esses campos ou atualizar dados nesses campos.| View Only | Sim | Sim | Sim |
 |**Colaboração** ||||||
 |Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim | Sim | Sim |
 |**Gerenciamento de recursos e programas** ||||||
@@ -118,13 +118,13 @@ Os recursos listados nesta seção interagem somente com dados no projeto para o
 |Aplicativos móveis | Criar aplicativos móveis personalizados com o PowerApps. <sup>4</sup> |Não | Não | Sim | Sim |
 |**Personalização e integração**||||||
 |Usar o aplicativo de projeto pronto para uso | Use o aplicativo de projeto pronto para exibir um projeto, criar um novo projeto, adicionar novos dados a um projeto ou atualizar dados de projeto existentes. | View Only | Sim | Sim | Sim |
-|Personalizar modos de exibição e formulários <sup>4</sup> | Personalizar somente modos de exibição e formulários no aplicativo de projeto pronto para uso. | Não | Sim | Sim | Sim |
-|Usar campos personalizados | Exibir, adicionar, atualizar ou excluir dados em um campo personalizado. | View Only | View Only | Sim | Sim |
-|Usar entidades personalizadas <sup>5</sup> | Crie e defina entidades personalizadas para manter os dados adicionais necessários para seus projetos, programas, portfólios, etc. | Não | View Only | Sim | Sim |
+|Personalizar modos de exibição e formulários <sup>4</sup> | Personalizar somente modos de exibição e formulários no aplicativo de projeto pronto para uso. | View Only | Sim | Sim | Sim |
+|Usar colunas personalizadas | Exibir, adicionar, atualizar ou excluir dados em uma coluna adicionada a uma tabela. | View Only | View Only | Sim | Sim |
+|Usar tabelas personalizadas <sup>5</sup> | Crie e defina tabelas personalizadas para manter os dados adicionais necessários para seus projetos, portfólios, etc. | Não | View Only | Sim | Sim |
 |**Gerenciamento de segurança e de usuários**||||||
 |Grupos modernos do Office | Crie uma equipe de projeto para colaborar com o e configurar facilmente uma coleção de recursos para que os membros da equipe compartilhem. | Sim | Sim | Sim | Sim |
 |**Aplicativos de terceiros**||||||
-|Conectar-se ao *Project para a Web* com aplicativos de terceiros <sup>4</sup> | Use um aplicativo personalizado ou de terceiros para exibir, criar, atualizar ou excluir dados de projeto em qualquer entidade de projeto nativa ou personalizada.<br> Criar relatórios em aplicativos de terceiros com base no projeto para dados da Web. | Não | Não | Sim | Sim |
+|Conectar-se ao *Project para a Web* com aplicativos de terceiros <sup>4</sup> | Use um aplicativo personalizado ou de terceiros para exibir, criar, atualizar ou excluir dados de projeto em qualquer tabela de projeto nativo ou personalizado.<br> Criar relatórios em aplicativos de terceiros com base no projeto para os dados da Web. | Não | Não | Sim | Sim |
 
 ### <a name="project-online-features"></a>Recursos do Project Online
 
@@ -157,7 +157,7 @@ Os recursos listados nesta seção interagem apenas com os dados do repositório
 |Attachments | Anexar documentos, imagens e outros arquivos na equipe, no projeto ou no nível da tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
 |Membros externos da equipe |Colaborar com pessoas de fora de sua organização, concedendo a elas acesso para exibir e interagir com seus projetos, tarefas e documentos. <sup>6</sup> | Sim | Sim |
 |Sites de projeto | Criar e personalizar um hub para colaboração e documentos de um projeto. | Sim | Sim |
-Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim |
+|Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim |
 |**Gerenciamento de demanda** ||||
 |Configuração do fluxo de trabalho de aprovação de solicitação do projeto | Crie os fluxos de trabalho que você precisa para avaliar, priorizar e aprovar a demanda de entrada. | Não | Sim |
 |Criação de formulários de solicitação de projeto | Capture dados importantes sobre a demanda de entrada para ajudá-lo a avaliar e priorizar o novo trabalho. | Não | Sim |
@@ -196,7 +196,7 @@ Integração do Microsoft Teams | Colabore em projetos no Microsoft Teams. <sup>
 <sup>2</sup> placas Azure adquiridas separadamente.</br>
 <sup>3</sup> os relatórios do Project para a Web e o Project online estão disponíveis usando o Power bi. Requer uma licença do Power BI.</br>
 <sup>4</sup> a criação e o uso de aplicativos de energia separados, além do aplicativo de projeto pronto para acessar o Project para os dados do cliente da Web ou do Project online, requer uma assinatura separada de aplicativos de energia.</br>
-<sup>5</sup> limitado a 5 entidades personalizadas.</br>
+<sup>5</sup> limitado a 5 tabelas personalizadas.</br>
 <sup>6</sup> o licenciamento do Project online para usuários externos segue a mesma política que para usuários internos. Qualquer interação em um site do Project online requer uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
 <sup>7</sup> a automação e integração dos processos de negócios com a automatização de energia com o Project para os dados da Web requer uma assinatura automatizada de energia e uma assinatura do plano de projeto 3 ou do Project Plan 5.</br>
 <sup>8</sup> usuários com uma assinatura do plano de projeto 3 ou Project Plan 5 podem enviar solicitações de compromisso de recurso. Eles não podem revisar, cumprir ou aprovar solicitações de contrato de recurso.</br>
@@ -289,7 +289,7 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 |Máx. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Máx. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para a tarefa | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Projeto** ||
 |Máx. total de tarefas do projeto | 500 |
 |Máx. duração total do projeto | 3650 dias (10 anos) |
 |Máx. total de recursos para o projeto | 150 |

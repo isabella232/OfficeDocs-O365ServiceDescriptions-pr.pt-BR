@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de governos da região, ou outras entidades que lidam com os dados sujeitos a normas e requisitos governamentais, onde o uso do Microsoft 365 governamental-GCC é adequado para atender a esses requisitos.
-ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072672"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411640"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planejar a conformidade com a Microsoft 365 – GCC
 
@@ -46,7 +46,7 @@ A [Descrição do serviço governo dos EUA do Office 365](https://docs.microsoft
 > [!NOTE]
 > O Microsoft 365 governamental-GCC só está disponível nos Estados Unidos. Clientes governamentais não americanos podem escolher entre vários [planos governamentais do Office 365](https://products.office.com/government/compare-office-365-government-plans).
 
-**Pontos de decisão** : <br/>
+**Pontos de decisão**: <br/>
 - *Decida se o Microsoft 365 governamentais-GCC é apropriado para sua organização.*
 - *Confirme se a sua organização atende aos requisitos de qualificação.*
 
@@ -58,7 +58,7 @@ Para ter decidido que esse serviço é adequado para sua organização, inicie o
 
 Recomendamos que você reserve um tempo para revisar cuidadosamente suas configurações de administrador e segurança antes de modificá-las e considere o impacto sobre a conformidade antes de fazer qualquer alteração nas configurações de segurança padrão.
 
-**Ponto de decisão** : *decida se você modificará qualquer uma das configurações de segurança do Microsoft 365 governo-gcc padrão, resolvendo para entender primeiro o impacto de qualquer alteração que você possa fazer.*
+**Ponto de decisão**: *decida se você modificará qualquer uma das configurações de segurança do Microsoft 365 governo-gcc padrão, resolvendo para entender primeiro o impacto de qualquer alteração que você possa fazer.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Etapa 4. Entender quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – GCC<sup>1</sup>
 
@@ -182,7 +182,7 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Auditoria avançada: insights de auditoria processados                               | Na Backlog de engenharia |
 |                                         | Auditoria avançada: eventos de termos de pesquisa no Exchange Online e no SharePoint Online                              | Na Backlog de engenharia |
 |    **Gerenciamento de Conformidade**            | Centro de conformidade e segurança do Microsoft 365                              | Disponível |
-|                                         | Gerenciador de Conformidade                              | Implementando |
+|                                         | Gerenciador de Conformidade                              | Disponível |
 |                                         | Microsoft Cloud App Security                              | Na Backlog de engenharia |
 |                                         | Suporte a caracteres de dois bytes                              | Na Backlog de engenharia |
 |    **Enorme**            | APIs de gráfico para descoberta eletrônica avançada                              | Em desenvolvimento |
@@ -195,4 +195,4 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 
 <sup>1</sup> o status identificado está sujeito a alterações à medida que os planos e as prioridades do projeto são reavaliados.<br/>
 
-**Ponto de decisão** : *decida se os recursos de conformidade atendem às necessidades da sua organização.*
+**Ponto de decisão**: *decida se os recursos de conformidade atendem às necessidades da sua organização.*

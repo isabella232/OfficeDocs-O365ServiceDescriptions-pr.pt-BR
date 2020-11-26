@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Saiba mais sobre a disponibilidade de recursos do SharePoint para clientes de nuvem do governo dos EUA.
-ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 310aa1589aed1156de223bed229ce99ef2f5b69a
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294187"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411600"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint para ambientes do governo dos EUA
 
@@ -58,16 +58,11 @@ Para obter informações sobre a migração do FastTrack, consulte a [Descriçã
 
 Não há diferenças conhecidas entre os recursos de segurança e conformidade para clientes comerciais e para os clientes de nuvem governamental.
 
-Para obter informações sobre os seguintes recursos, consulte a [Descrição do serviço do governo dos EUA do Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features):
-- Sistema de Proteção de Dados do cliente
-- Prevenção de perda de dados (DLP)
-- Descoberta eletrônica (pesquisa de conteúdo, retenção, exportação)
-- Proteção Avançada contra Ameaças do Office 365 (ATP)
-- Rótulos de confidencialidade
+Para obter informações sobre os recursos de segurança e conformidade, consulte o [centro de conformidade de & de segurança](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center).
 
 Para obter informações sobre os recursos do Azure Active Directory para o governo, consulte a [documentação de segurança e identidade do Azure governamental](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory). 
 
-Para obter informações sobre os recursos de proteção de informações do Azure para o governo, consulte a [Descrição do serviço do governo Premium de proteção de informações do Azure](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
+Para obter informações sobre os recursos de proteção de informações do Azure para o governo, consulte a [Descrição do serviço do governo Premium de proteção de informações do Azure](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description). 
 
 ## <a name="sites-and-content"></a>Sites e conteúdo
 
