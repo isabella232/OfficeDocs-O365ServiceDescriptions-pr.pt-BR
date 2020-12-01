@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos de educação do Office 365, este artigo mostrará quais recursos estão incluídos em cada um deles. O Office 365 combina o Microsoft Office Desktop Suite familiarizado com versões baseadas em nuvem de serviços de colaboração e comunicação de última geração da Microsoft, &mdash; incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para Web e o Microsoft Skype for Business Online &mdash; para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 63cf6859c28c612649fc30579c534f210696056a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293877"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518872"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -153,7 +153,7 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
 |**Confiança** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Privacidade, segurança e transparência](privacy-security-and-transparency.md) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Gerenciamento de Segurança Avançada  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|Microsoft Defender para Office 365  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Sistema de Proteção de Dados do Cliente  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Descoberta eletrônica avançada<sup>7</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Pontuação segura<sup>5</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -220,7 +220,7 @@ O [ &amp; centro de conformidade de segurança](https://docs.microsoft.com/micro
 <sup>2</sup> a governança de dados avançada permite que você mantenha informações importantes e exclua informações não importantes classificando informações com base em uma política de retenção ou exclusão ou ambos. Ele inclui ações inteligentes/automatizadas, como a recomendação de políticas; aplicação automática de rótulos a dados; aplicar rótulos com base em tipos de dados sigilosos ou consultas; e o uso de filtros de importação inteligente. Ele também inclui o recurso de supervisão para a análise de comunicações de funcionários por motivos de segurança e conformidade. <br/> 
 <sup>3</sup> Unlimited. <br/> 
 <sup>4</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos). <br/> 
-<sup>5</sup> a proteção avançada contra ameaças está disponível no Office 365 a5 e como um serviço autônomo para o Office 365 a1 e o Office 365 a3.<br/>
+<sup>5</sup> o Microsoft defender para Office 365 está disponível no Office 365 a5 e como um serviço autônomo para o Office 365 a1 e o Office 365 a3.<br/>
 <sup>6</sup> você também pode usar a [API de atividade de gerenciamento do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificada. <br/>
   
 ## <a name="office-application-features"></a>Recursos do aplicativo do Office  
@@ -292,7 +292,7 @@ A tabela a seguir fornece links para comparações do Office para recursos de re
 > - Microsoft 365 aplicativos para empresas é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. <br/>
 > - Os clientes locais do Microsoft Office Online Server recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, o Office Standard ou o Microsoft 365 Apps for Enterprise License). 
   
-| Aplicativo | Office na Web | Link para a comparação detalhada de recursos |
+| Application | Office na Web | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
 |Word  <br/> |Word para a Web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel para a Web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
@@ -336,8 +336,8 @@ A tabela a seguir lista os recursos do Exchange Online que estão disponíveis n
 |Customize antimalware policies  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Quarentena - gerenciamento de administrador  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Quarentena - auto-gerenciamento de usuário final  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Proteção Avançada contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Microsoft Defender para Office 365  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
+|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Roteamento personalizado de email de saída  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Conditional mail routing  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -506,7 +506,7 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 <sup>3</sup> Caixas de correio de recursos não necessitam de uma licença.<br/> 
 <sup>4</sup> caixas de correio de site são criadas e gerenciadas no SharePoint Online. Para saber mais, confira preparação para usar sites de correio no Office 365.<br/> 
 <sup>5</sup> você está limitado a 1000 caixas de correio de pasta pública e o tamanho máximo total de todas as caixas de correio de pasta pública é de 50 TB.<br/> 
-<sup>6</sup> o arquivo morto in-loco só pode ser usado para arquivar emails para um único usuário ou entidade (como uma caixa de correio compartilhada) para a qual uma licença foi aplicada. É proibido usar o Arquivo Morto no Local para armazenar os emails de vários usuários ou entidades. Por exemplo, um administrador de TI não pode criar uma caixa de correio compartilhada e fazer com que os usuários a copiem (pelo campo Cc ou Cco ou por meio de uma regra de transporte) para o expresso fim de arquivamento. Observe que uma caixa de correio compartilhada usada por várias pessoas não armazena os emails desses usuários individuais. Vários usuários têm acesso a ela e enviam emails em nome da caixa de correio compartilhada. Portanto, os únicos emails armazenados na caixa de correio compartilhada são aqueles enviados para ou dele, como a caixa de correio compartilhada.<br/> 
+<sup>6</sup> In-Place arquivo morto só pode ser usado para arquivar emails para um único usuário ou entidade (como uma caixa de correio compartilhada) para a qual uma licença foi aplicada. É proibido usar o Arquivo Morto no Local para armazenar os emails de vários usuários ou entidades. Por exemplo, um administrador de TI não pode criar uma caixa de correio compartilhada e fazer com que os usuários a copiem (pelo campo Cc ou Cco ou por meio de uma regra de transporte) para o expresso fim de arquivamento. Observe que uma caixa de correio compartilhada usada por várias pessoas não armazena os emails desses usuários individuais. Vários usuários têm acesso a ela e enviam emails em nome da caixa de correio compartilhada. Portanto, os únicos emails armazenados na caixa de correio compartilhada são aqueles enviados para ou dele, como a caixa de correio compartilhada.<br/> 
 <sup>7</sup> se você tiver criado uma política de retenção no Exchange Online, as mensagens serão automaticamente movidas para a caixa de correio de arquivo morto de um usuário se a caixa de correio principal do usuário for maior do que 10 MB. A política de retenção não será executada automaticamente para caixas de correio menores do que 10 MB. 
   
 #### <a name="capacity-alerts"></a>Alertas de capacidade

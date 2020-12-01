@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com residências de dados na Alemanha e medidas de controle e acesso de dados estritos por meio de um modelo de confiança de dados exclusivo regido em lei alemão.
-ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367758"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518822"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
@@ -156,7 +156,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Protocolos IPv4 e IPv6|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**Confiança**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[Privacidade, segurança e transparência](privacy-security-and-transparency.md)**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Proteção Avançada contra Ameaças|Não|Não|Não|Não|Não|Não|Sim|Não|
+|Microsoft Defender para Office 365|Não|Não|Não|Não|Não|Não|Sim|Não|
 |Sistema de Proteção de Dados do Cliente|Não|Não|Não|Não|Não|Não|Sim|Não|
 |Descoberta Eletrônica Avançada|Não|Não|Não|Não|Não|Não|Não|Não|
 |Classificação de Segurança|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -262,7 +262,7 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
 
 | Recurso | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Aplicativos do Office<sup>1, 2</sup>**||||
+|**Aplicativos do Office <sup>1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sim|Sim|Sim|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sim|Sim|Sim|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Sim|Sim|Sim|
@@ -332,7 +332,7 @@ A tabela a seguir fornece links para comparações do Office para os recursos de
 > - Os clientes locais do Microsoft Office Web Apps Server 2013 recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, Office Standard ou uma licença do Office 365 ProPlus). <br/>
 > - Devido à natureza do Office 365 Alemanha, há alguns recursos que ainda não foram habilitados. Você verá os serviços chegarem próximos à paridade completa de recursos com serviços globais ao longo do tempo.
 
-| Aplicativo | Office na Web | Link para a comparação detalhada de recursos |
+| Application | Office na Web | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
 |Word|Word para a Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -375,8 +375,8 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Customize antimalware policies|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Proteção Avançada contra Ameaças|Não|--|Não|Não|Não|Não|Sim|Não|
-|**[Fluxo de emails](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|Microsoft Defender para Office 365|Não|--|Não|Não|Não|Não|Sim|Não|
+|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -520,11 +520,11 @@ A tabela a seguir exibe os recursos da EOP (Proteção do Exchange Online) que e
 <sup>17</sup> disponível no Office 365 Alemanha E3.<br/>
 <sup>18</sup> disponível como um recurso complementar para o Office 365 Alemanha.
 
-## <a name="exchange-online-advanced-threat-protection-features"></a>Recursos de Proteção Avançada contra Ameaças do Exchange Online
+## <a name="defender-for-office-365-features"></a>Recursos do defender para Office 365
 
-A tabela a seguir exibe os recursos da Proteção Avançada contra Ameaças do Exchange Online que estão disponíveis nos planos do Office 365 Germany. Para obter informações mais detalhadas sobre os recursos do EOP, selecione os links na tabela. Quando o Exchange Online é mencionado, ele normalmente refere-se à família de serviços do Office 365 Enterprise.<br><br>
+A tabela a seguir lista os recursos do defender para Office 365 que estão disponíveis nos planos do Office 365 Alemanha. Quando o Exchange Online é mencionado, ele normalmente refere-se à família de serviços do Office 365 Enterprise.<br><br>
 
-| Recurso | ATP autônoma | Recursos da ATP no Exchange Online |
+| Recurso | Defender para Office 365 autônomo | Recursos do defender para Office 365 no Exchange Online |
 |:-----|:-----|:-----|
 |Links Seguros|Sim|Sim|
 |Anexos Seguros|Sim|Sim|
@@ -712,7 +712,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Query throttling|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Visualização ao focalizar|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Ranking models|Sim<sup>5</sup>|Não|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|
-|Refiners|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Refinadores|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RESTful Query API/Query OM|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Result sources|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Search connector framework|Não|Não|Não|Não|Não|Não|Não|Não|

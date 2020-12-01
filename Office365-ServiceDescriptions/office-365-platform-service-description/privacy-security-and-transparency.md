@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: A Microsoft valoriza as parcerias que temos com nossos clientes e dá muita importância para a privacidade a segurança dos dados dos clientes. Para saber mais, consulte a Central de Confiabilidade da Microsoft.
-ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131665"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519052"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacidade, segurança e transparência
 
@@ -51,11 +51,10 @@ Como administrador da Microsoft, você pode usar o Lockbox do cliente para contr
   
 O Sistema de Proteção de Dados do Cliente está incluído no plano do Office 365 Enterprise 5 ou você pode adquirir uma assinatura separada com qualquer outro plano do Office 365 Enterprise. Para saber mais, consulte [Solicitações do Sistema de Proteção de Dados do Cliente do Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
-## <a name="advanced-threat-protection"></a>Proteção Avançada contra Ameaças
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
-O Office 365 proteção avançada contra ameaças ajuda a proteger sua organização contra malware e vírus. A ATP inclui [links seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [anexos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)e recursos de [inteligência de falsificação](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Os links seguros protegem proativamente seus usuários contra hiperlinks mal-intencionados em uma mensagem, fornecendo proteção sempre que o link é selecionado. O recurso Anexos Seguros protege contra vírus e malware desconhecidos, roteando todas as mensagens e anexos que não têm uma assinatura de vírus/malware conhecidos para um ambiente especial onde a ATP pode detectar conteúdo mal-intencionado. Para obter mais informações sobre a ATP, confira [Descrição do serviço de proteção avançada contra ameaças do Office 365](../office-365-advanced-threat-protection-service-description.md).
+O defender para Office 365 ajuda a proteger sua organização contra malware e vírus. O defender para Office 365 inclui [links seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [anexos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)e recursos de [inteligência de falsificação](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Os links seguros protegem proativamente seus usuários contra hiperlinks mal-intencionados em uma mensagem, fornecendo proteção sempre que o link é selecionado. Os anexos seguros protegem contra malware e vírus desconhecidos, roteando todas as mensagens e anexos que não têm uma assinatura de vírus/malware conhecida em um ambiente especial onde o defender para Office 365 pode detectar más intenções. Para obter mais informações sobre o defender para Office 365, consulte [Descrição do serviço do Microsoft defender para office 365](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
 Para exibir a disponibilidade de recursos nos planos, consulte [Microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).
-  

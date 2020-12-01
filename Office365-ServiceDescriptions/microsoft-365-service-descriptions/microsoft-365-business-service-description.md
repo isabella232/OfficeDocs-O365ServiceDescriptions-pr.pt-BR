@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business Premium é uma solução integrada que reúne a melhor produtividade do setor com recursos avançados de segurança e gerenciamento de dispositivos para ajudar a proteger sua empresa. Esta descrição de serviço descreve as opções e os recursos do plano.
-ms.openlocfilehash: 644579ff120d754100fbd4b187a5499ff3368cd8
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: dba7668a3ee06fb859210dc072011d036a5c2fdb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245706"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519062"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrição do serviço Microsoft 365 Business Premium
 
@@ -55,9 +55,9 @@ O Microsoft 365 Business Premium inclui essencialmente todos os recursos dispon�
 |[Privacidade, segurança e transparência](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Proteção antispam interna  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção Antimalware interna  <br/> |Sim  <br/> |Sim  <br/> |
-|Office 365 plano avançado de proteção contra ameaças 1 <br/> |Não  <br/> |Sim<sup>7</sup> <br/> |
+|Plano 1 do Microsoft Defender para Office 365 <br/> |Não  <br/> |Sim<sup>7</sup> <br/> |
 |Classificação de Segurança<sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|Plano 2 de proteção avançada contra ameaças do Office 365 <br/> |Não  <br/> |Não <br/> |
+|Plano 2 do Microsoft Defender para Office 365 <br/> |Não  <br/> |Não <br/> |
 |**O Azure AD Premium P1 está disponível para clientes do Microsoft 365 Business Premium.**<br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Mobilidade corporativa + segurança E3** <br/> |
 |MFA (Autenticação Multifator do Azure)  <br/> |Não  <br/> |Sim <br/> |Sim  <br/> |
 |Unidades administrativas  <br/> |Não  <br/> |Sim <br/> |Sim  <br/> |
@@ -107,6 +107,6 @@ O Microsoft 365 Business Premium inclui essencialmente todos os recursos dispon�
 <sup>4</sup> disponível em [https://securescore.office.com](https://securescore.office.com) . Requer permissões de administrador. Para obter mais informações, consulte [Microsoft Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/>
 <sup>5</sup> gerenciamento simplificado de dispositivos do Windows 10 incorporado no centro de administração do Microsoft 365. Os recursos de gerenciamento do Intune de iOS, Android, macOS e outros gerenciamento de dispositivos entre plataformas incorporados no centro de administração de gerenciamento de dispositivos, também licenciados para uso com o Microsoft 365 Business Premium. Os aplicativos de terceiros e a configuração de itens como perfis WiFi e certificados VPN também podem ser gerenciados no centro de administração de gerenciamento de dispositivos. <br/>
 <sup>6</sup> este plano vem com o Microsoft Stream Plan 2, que inclui o portal de vídeo, a pesquisa de fala e a transcrição de texto, a pesquisa profunda e a detecção de face.<br/>
-<sup>7</sup> a Microsoft 365 vem com o Office 365 Advanced Threat Protection plano 1. Para obter mais informações, consulte [recursos de conformidade e segurança do Microsoft 365 Business Premium](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
+<sup>7</sup> a Microsoft 365 vem com o Microsoft defender para Office 365 plano 1. Para obter mais informações, consulte [recursos de conformidade e segurança do Microsoft 365 Business Premium](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
 <sup>8</sup> os assinantes do Microsoft 365 Business Premium estão licenciados para usar recursos completos do Intune para IOS, Android, MacOS e outros gerenciamento de dispositivos de plataforma cruzada. Recursos não disponíveis no centro de administração no Microsoft 365 Business Premium, como gerenciamento de aplicativos de terceiros e configuração de perfis WiFi, certificados VPN, etc., podem ser gerenciados no console do Intune completo.</br>
 <sup>9</sup> se você tiver dispositivos licenciados para Windows 7 e 8,1 Professional, o Microsoft 365 Business Premium fornecerá uma atualização para o Windows 10 pro. No entanto, essa licença não cobre o Windows 7,1 ou 8 Home Edition com o Windows 10 pro. Com o Microsoft 365 Business premium você não só obtém os [recursos de segurança do Microsoft defender que estão habilitados no Windows pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), você também obtém acesso a recursos premium, como proteção de rede para ameaças baseadas na Web e regras de prevenção de invasão de host para reduzir o ransomware. Ao configurar sua conta do Microsoft 365 Business Premium, você seleciona proteção de aplicativos e definições de configuração de dispositivo. Essas configurações determinam as políticas aplicadas automaticamente aos dispositivos quando ingressam no Azure Active Directory.</br>

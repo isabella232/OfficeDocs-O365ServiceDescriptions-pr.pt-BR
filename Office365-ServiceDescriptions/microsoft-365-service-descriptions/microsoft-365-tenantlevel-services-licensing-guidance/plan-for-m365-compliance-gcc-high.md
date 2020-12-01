@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão gerando implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos às normas e aos requisitos governamentais, em que o uso do Microsoft 365 governamental – GCC High é adequado para atender a esses requisitos.
-ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072662"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518903"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plano para conformidade com o Microsoft 365 – GCC High
 
@@ -38,7 +38,7 @@ A [Descrição do serviço governo dos EUA do Office 365](https://docs.microsoft
 > [!TIP]
 > Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n**. Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
 
-**Pontos de decisão** :<br/>
+**Pontos de decisão**:<br/>
 - *Decida se o Microsoft 365 governamentais – GCC-High é apropriado para sua organização.*
 - *Confirme se a sua organização atende aos requisitos de qualificação.*
 
@@ -53,7 +53,7 @@ Para ter decidido que esse serviço é adequado para sua organização, inicie o
 
 Recomendamos que você reserve um tempo para revisar cuidadosamente suas configurações de administrador e segurança antes de modificá-las e considere o impacto sobre a conformidade antes de fazer qualquer alteração nas configurações de segurança padrão.
 
-**Ponto de decisão** : *decida se você modificará qualquer uma das configurações de segurança do Microsoft 365 governamentais – GCC-High, resolvendo primeiro entender o impacto de qualquer alteração que você possa fazer.*
+**Ponto de decisão**: *decida se você modificará qualquer uma das configurações de segurança do Microsoft 365 governamentais – GCC-High, resolvendo primeiro entender o impacto de qualquer alteração que você possa fazer.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Etapa 4. Entender quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – GCC-alto<sup>1</sup>
 
@@ -110,7 +110,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Gerenciamento de risco do insider: escalonar para investigação de descoberta eletrônica avançada | Em desenvolvimento|
 |                                         | Gerenciamento de risco do insider: indicadores de dispositivo para atividade no Windows 10 Build 1809 e superior | Na Backlog de engenharia|
 |                                         | Gerenciamento de risco do insider: indicadores de violação de política de segurança (visualização) | Na Backlog de engenharia|
-|                                         | Gerenciamento de risco do insider: indicadores para alertas ATP do Windows Defender (versão prévia) | Na Backlog de engenharia|
+|                                         | Gerenciamento de risco do insider: indicadores para o Microsoft defender para alertas de ponto de extremidade (versão prévia) | Na Backlog de engenharia|
 |                                         | Gerenciamento de risco do insider: modelos de política para vazamentos de dados por usuários prioritários (visualização) | Na Backlog de engenharia |
 |                                         | Gerenciamento de risco do insider: modelos de política para vazamentos de dados por usuários descontentes (visualização) | Na Backlog de engenharia |
 |                                         | Gerenciamento de risco do insider: modelos de política para violações de política de segurança geral (versão prévia) | Na Backlog de engenharia |
@@ -182,7 +182,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Auditoria avançada: eventos de termos de pesquisa no Exchange Online e no SharePoint Online                              | Na Backlog de engenharia |
 |    **Gerenciamento de Conformidade**            | Centro de conformidade e segurança do Microsoft 365                              | Disponível |
 |                                         | Gerenciador de Conformidade                                 | Implementando              |
-|                                         | Microsoft Cloud App Security                                 | Disponível              |
+|                                         | Segurança no aplicativo na nuvem da Microsoft                                 | Disponível              |
 |                                         | Suporte a caracteres de dois bytes                                 | Na Backlog de engenharia              |
 |    **Enorme**            | APIs de gráfico para descoberta eletrônica avançada                              | Em desenvolvimento |
 |                                         | Conectores de dados primários                                 | Na Backlog de engenharia              |
@@ -191,4 +191,4 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 
 <sup>1</sup> o status identificado está sujeito a alterações à medida que os planos e as prioridades do projeto são reavaliados.<br/>
 
-**Ponto de decisão** : *decida se os recursos de conformidade atendem às necessidades da sua organização.*
+**Ponto de decisão**: *decida se os recursos de conformidade atendem às necessidades da sua organização.*

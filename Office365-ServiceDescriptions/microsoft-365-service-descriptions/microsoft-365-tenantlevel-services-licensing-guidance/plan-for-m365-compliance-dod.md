@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governamental – DoD é adequado para atender a esses requisitos.
-ms.openlocfilehash: c15ca172c97c6549649e44d76dca019d866a7a4f
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830408"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519042"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planejar a conformidade com o Microsoft 365 – implantações do DoD
 
@@ -38,9 +38,9 @@ Você pode encontrar mais informações sobre a oferta Microsoft 365 governament
 A [Descrição do serviço governo dos EUA do Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) descreve os benefícios da plataforma, que são centralizados em atender aos requisitos de conformidade nos Estados Unidos.
 
 > [!TIP]
-> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n** . Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
+> Você pode querer transferir as tabelas de informações na descrição do serviço para uma pasta de trabalho do Excel e adicionar duas colunas: **relevantes para minha organização** e **atender às necessidades da minha organização y/n**. Em seguida, você pode revisar essa lista com seus colegas para confirmar que esse serviço atende às necessidades da sua organização.
 
-**Pontos de decisão** :<br/>
+**Pontos de decisão**:<br/>
 - *Decida se o Microsoft 365 governamentais-DoD é adequado para sua organização.*
 - *Confirme se a sua organização atende aos requisitos de qualificação.*
 
@@ -55,7 +55,7 @@ Para ter decidido que esse serviço é adequado para sua organização, inicie o
 
 Recomendamos que você reserve um tempo para revisar cuidadosamente suas configurações de administrador e segurança antes de modificá-las e considere o impacto sobre a conformidade antes de fazer qualquer alteração nas configurações de segurança padrão.
 
-**Ponto de decisão** : *decida se você modificará qualquer uma das configurações de segurança governamentais-DOD padrão da Microsoft 365, resolvendo para entender primeiro o impacto de qualquer alteração que você possa fazer.*
+**Ponto de decisão**: *decida se você modificará qualquer uma das configurações de segurança governamentais-DOD padrão da Microsoft 365, resolvendo para entender primeiro o impacto de qualquer alteração que você possa fazer.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Etapa 4. Entender quais recursos estão atualmente indisponíveis ou estão desabilitados por padrão no Microsoft 365 governamentais – DoD<sup>1</sup>
 
@@ -109,7 +109,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Gerenciamento de risco do insider: escalonar para investigação de descoberta eletrônica avançada |Na Backlog de engenharia|
 |                                         | Gerenciamento de risco do insider: indicadores de dispositivo para atividade no Windows 10 Build 1809 e superior |Na Backlog de engenharia|
 |                                         | Gerenciamento de risco do insider: indicadores de violação de política de segurança (visualização) |Na Backlog de engenharia|
-|                                         | Gerenciamento de risco do insider: indicadores para alertas ATP do Windows Defender (versão prévia) |Na Backlog de engenharia|
+|                                         | Gerenciamento de risco do insider: indicadores para o Microsoft defender para alertas de ponto de extremidade (versão prévia) |Na Backlog de engenharia|
 |                                         | Gerenciamento de risco do insider: modelos de política para vazamentos de dados por usuários prioritários (visualização) | Na Backlog de engenharia |
 |                                         | Gerenciamento de risco do insider: modelos de política para vazamentos de dados por usuários descontentes (visualização) | Na Backlog de engenharia |
 |                                         | Gerenciamento de risco do insider: modelos de política para violações de política de segurança geral (versão prévia) | Na Backlog de engenharia |
@@ -184,4 +184,4 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 
 <sup>1</sup> o status identificado está sujeito a alterações à medida que os planos e as prioridades do projeto são reavaliados.<br/>
 
-**Ponto de decisão** : *decida se os recursos de conformidade atendem às necessidades da sua organização.*
+**Ponto de decisão**: *decida se os recursos de conformidade atendem às necessidades da sua organização.*

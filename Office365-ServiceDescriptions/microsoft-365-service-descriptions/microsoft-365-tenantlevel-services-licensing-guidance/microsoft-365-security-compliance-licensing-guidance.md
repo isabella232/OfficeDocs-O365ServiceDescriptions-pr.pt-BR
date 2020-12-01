@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
-ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
+ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49330258"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518932"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -47,49 +47,49 @@ Por padrão, os recursos de proteção de identidade do Azure AD estão habilita
 
 Os administradores podem definir o escopo da proteção de identidade do Azure AD atribuindo políticas de risco que definem o nível de redefinições de senha e permitindo o acesso somente a usuários licenciados. Para obter instruções sobre como fazer o escopo de implantações de proteção de identidade do Azure AD, consulte [Configurar a política de risco de entrada](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="azure-advanced-threat-protection"></a>Proteção Avançada contra Ameaças do Azure
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender para Identidade
 
-A ATP (proteção avançada contra ameaças) do Azure é um serviço de nuvem que ajuda a proteger ambientes híbridos corporativos de vários tipos de ataques avançados e insidedos.
+O Microsoft defender for Identity é um serviço de nuvem que ajuda a proteger ambientes híbridos corporativos de vários tipos de ataques avançados e insidedos.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-Os analistas e profissionais de segurança do SecOp se beneficiam da capacidade do Azure ATP de detectar e investigar ameaças avançadas, identidades comprometidas e ações mal-intencionadas de insider. Os usuários finais se beneficiam com seus dados monitorados pelo Azure ATP.
+Os analistas e profissionais de segurança do SecOp se beneficiam da capacidade do Microsoft defender para identificar e investigar ameaças avançadas, identidades comprometidas e ações mal-intencionadas de insider. Os usuários finais se beneficiam com seus dados monitorados pelo Microsoft defender para identidade.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
-Enterprise Mobility + Security E5/a5, Microsoft 365 E5/a5, a segurança da Microsoft 365 E5/a5 e a proteção avançada contra ameaças do Azure para usuários fornecem os direitos para se beneficiar do Azure ATP.
+Enterprise Mobility + Security E5/a5, Microsoft 365 E5/a5, a segurança da Microsoft 365 E5/a5 e o Microsoft defender for Identity for users fornecem os direitos de benefício do Microsoft defender para identidade.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Por padrão, os recursos do Azure ATP estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre como configurar o Azure ATP, consulte [criar sua instância do Azure ATP](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1).
+Por padrão, os recursos do Microsoft defender para identidade estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre como configurar o Microsoft defender para identidade, consulte [criar sua instância do Microsoft defender para identidade](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os serviços do Azure ATP atualmente não são capazes de limitar recursos para usuários específicos. Você deve licenciar todos os usuários que pretende beneficiar.
+O Microsoft defender for Identity Services atualmente não é capaz de limitar recursos a usuários específicos. Você deve licenciar todos os usuários que pretende beneficiar.
 
-## <a name="office-365-advanced-threat-protection"></a>Proteção Avançada contra Ameaças do Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
-A proteção avançada contra ameaças (ATP) ajuda a proteger as organizações contra ataques sofisticados, como phishing e malwares de zero dias. A ATP também fornece informações acionáveis ao se correlacionar sinais de uma ampla variedade de dados para ajudar a identificar, priorizar e fornecer recomendações sobre como lidar com ameaças potenciais.
+O defender para Office 365 ajuda a proteger as organizações contra ataques sofisticados, como phishing e malwares de zero dias. O defender para Office 365 também fornece informações acionáveis ao correlacionar sinais de uma ampla variedade de dados para ajudar a identificar, priorizar e fornecer recomendações sobre como lidar com ameaças potenciais.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-A ATP protege os usuários contra ataques sofisticados, como phishing e malwares de zero dias. Para obter a lista completa de serviços fornecidos no plano 1 e no plano 2, confira [proteção avançada contra ameaças do Office 365](https://products.office.com/exchange/advance-threat-protection).
+O defender para Office 365 protege os usuários contra ataques sofisticados, como phishing e malwares de zero dias. Para obter a lista completa de serviços fornecidos no plano 1 e no plano 2, consulte [Microsoft defender para Office 365](https://products.office.com/exchange/advance-threat-protection).
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço? 
 
-Office 365 proteção avançada contra ameaças, Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, Microsoft 365 Business Premium e Office 365 ATP Plans 1 e 2 fornecem os direitos para o usuário se beneficiar da proteção avançada contra ameaças.
+Microsoft defender para Office 365, Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, Microsoft 365 Business Premium e Microsoft defender para Office 365 os planos 1 e 2 fornecem os direitos para o usuário se beneficiar do defender para Office 365.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Por padrão, os recursos ATP são habilitados no nível do locatário para todos os usuários dentro do locatário. Para obter informações sobre como configurar as políticas ATP para usuários licenciados, consulte [Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+Por padrão, os recursos do Microsoft defender para Office 365 estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre como configurar políticas do defender for Office 365 para usuários licenciados, consulte [Microsoft defender para office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Para escopo ATP, siga as políticas de implantação de links seguros e de anexos seguros:
+Para fazer o escopo do Microsoft defender para Office 365, siga as políticas de implantação de links seguros e de anexos seguros:
 
-- Para obter informações sobre como configurar links seguros para usuários licenciados, consulte [set up Office 365 ATP Safe links Policies](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Para obter informações sobre como configurar links seguros para usuários licenciados, consulte [Configurar políticas de links seguros no Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
 
-- Para obter informações sobre a configuração de anexos seguros para usuários licenciados, consulte [set up Office 365 ATP Safe Attachments Policies](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies).
+- Para obter informações sobre como configurar anexos seguros para usuários licenciados, consulte [Configurar políticas de anexos seguros no Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies).
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -174,25 +174,25 @@ O Gerenciador de conformidade é provisionado por padrão para o seu locatário.
 
 O acesso ao Gerenciador de conformidade é controlado pela definição de permissões de usuário e atribuição de funções. Para obter mais informações, consulte [introdução ao Gerenciador de conformidade: definir permissões de usuário e atribuir funções](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender para Ponto de Extremidade
 
-O Microsoft defender ATP é uma solução de segurança de ponto de extremidade que inclui gerenciamento e avaliação de vulnerabilidades baseados em riscos; recursos de redução da superfície de ataque; proteção com base no comportamento e na próxima geração da nuvem; detecção de pontos de extremidade e resposta (EDR); investigação e correção automáticas; e serviços gerenciados de busca. Confira a página [do Microsoft defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para saber mais.
+O Microsoft defender for Endpoint é uma solução de segurança de ponto de extremidade que inclui gerenciamento e avaliação de vulnerabilidades baseados em riscos; recursos de redução da superfície de ataque; proteção com base no comportamento e na próxima geração da nuvem; detecção de pontos de extremidade e resposta (EDR); investigação e correção automáticas; e serviços gerenciados de busca. Confira a página [do Microsoft defender para ponto de extremidade](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para saber mais.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
-Usuários licenciados do Windows 10 Enterprise e5, Windows 10 Education a5, Microsoft 365 E5 (M365 E5) que inclui o Windows 10 Enterprise e5, o Microsoft 365 E5 Security, o Microsoft 365 a5 (M365 a5) pode se beneficiar do Microsoft defender ATP.
+Usuários licenciados do Windows 10 Enterprise e5, Windows 10 Education a5, Microsoft 365 E5 (M365 E5) que inclui o Windows 10 Enterprise e5, a segurança da Microsoft 365 e5, Microsoft 365 a5 (M365 a5) podem se beneficiar do Microsoft defender para ponto de extremidade.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
-Os analistas e profissionais de segurança do SecOps se beneficiam dos recursos de segurança do ponto de extremidade do Microsoft defender ATP para fazer proteção preventiva, detecção de pós-violação, investigação automatizada e resposta a ameaças avançadas. Os usuários finais se beneficiam com eventos mal-intencionados monitorados pelo Microsoft defender ATP.
+Os analistas e os profissionais de segurança do SecOps se beneficiam dos recursos de segurança de ponto de extremidade do Microsoft defender para ponto de extremidade para proteção preventiva, detecção de pós-violação, investigação automatizada e resposta a ameaças avançadas. Os usuários finais se beneficiam com eventos mal-intencionados monitorados pelo Microsoft defender for Endpoint.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
-Por padrão, os recursos ATP do Microsoft defender estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre a implantação, consulte o [Guia de implantação](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
+Por padrão, os recursos do Microsoft defender para ponto de extremidade estão habilitados no nível do locatário para todos os usuários no locatário. Para obter informações sobre a implantação, consulte o [Guia de implantação](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Os administradores do Microsoft defender ATP podem utilizar o [controle de acesso baseado em função (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) para criar funções e grupos dentro da equipe de operações de segurança para conceder o acesso apropriado ao centro de segurança do Microsoft defender.
+Os administradores do Microsoft defender for Endpoint podem utilizar o [controle de acesso baseado em função (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) para criar funções e grupos dentro da equipe de operações de segurança para conceder o acesso apropriado ao centro de segurança do Microsoft defender.
 
 ## <a name="information-protection"></a>Proteção de Informações
 
@@ -377,7 +377,7 @@ As chaves de criptografia de chave do cliente do Office 365 podem ser habilitada
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário que estão licenciados para o serviço?
 
-Para o Exchange Online e o Skype for Business, as caixas de correio podem ser criptografadas usando a chave do cliente. Você deve configurar o Azure antes de poder usar a chave do cliente para o Office 365. Confira [Configurar a chave do cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) para as etapas que você precisa seguir para criar e configurar os recursos necessários do Azure e as etapas para configurar a chave do cliente no Office 365. Depois de concluir a configuração do Azure, determine a política e, portanto, quais teclas serão atribuídas a caixas de correio e arquivos em sua organização. Caixas de correio e arquivos para os quais você não atribui uma política usarão políticas de criptografia controladas e gerenciadas pela Microsoft. Para obter mais informações sobre a chave do cliente ou para uma visão geral, consulte [Service Encryption with Customer Key in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide).
+Para o Exchange Online e o Skype for Business, as caixas de correio podem ser criptografadas usando a chave do cliente. Você deve configurar o Azure antes de poder usar a chave do cliente para o Office 365. Confira [Configurar a chave do cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) para as etapas que você precisa seguir para criar e configurar os recursos necessários do Azure e as etapas para configurar a chave do cliente no Office 365. Depois de concluir a configuração do Azure, determine a política e, portanto, quais teclas serão atribuídas a caixas de correio e arquivos em sua organização. Caixas de correio e arquivos para os quais você não atribui uma política usarão políticas de criptografia controladas e gerenciadas pela Microsoft. Para obter mais informações sobre a chave do cliente ou para uma visão geral, consulte [Service Encryption with Customer Key in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview).
 
 ## <a name="office-365-customer-lockbox"></a>Sistema de Proteção de Dados do Cliente do Office 365
 

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais, estaduais, locais, tribal ou de governos da região, ou outras entidades que lidam com os dados sujeitos a normas e requisitos governamentais, onde o uso do Microsoft 365 governamental-GCC é adequado para atender a esses requisitos.
-ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411640"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519032"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planejar a conformidade com a Microsoft 365 – GCC
 
@@ -115,7 +115,7 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Gerenciamento de risco do insider: escalonar para investigação de descoberta eletrônica avançada | Em desenvolvimento|
 |                                         | Gerenciamento de risco do insider: indicadores de dispositivo para atividade no Windows 10 Build 1809 e superior | Na Backlog de engenharia|
 |                                         | Gerenciamento de risco do insider: indicadores de violação de política de segurança (visualização) | Na Backlog de engenharia|
-|                                         | Gerenciamento de risco do insider: indicadores para alertas ATP do Windows Defender (versão prévia) | Na Backlog de engenharia|
+|                                         | Gerenciamento de risco do insider: indicadores para o Microsoft defender para alertas de ponto de extremidade (versão prévia) | Na Backlog de engenharia|
 |                                         | Gerenciamento de risco do insider: modelos de política para vazamentos de dados por usuários prioritários (visualização) | Na Backlog de engenharia |
 |                                         | Gerenciamento de risco do insider: modelos de política para vazamentos de dados por usuários descontentes (visualização) | Na Backlog de engenharia |
 |                                         | Gerenciamento de risco do insider: modelos de política para violações de política de segurança geral (versão prévia) | Na Backlog de engenharia |
@@ -183,7 +183,7 @@ Para acomodar os requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Auditoria avançada: eventos de termos de pesquisa no Exchange Online e no SharePoint Online                              | Na Backlog de engenharia |
 |    **Gerenciamento de Conformidade**            | Centro de conformidade e segurança do Microsoft 365                              | Disponível |
 |                                         | Gerenciador de Conformidade                              | Disponível |
-|                                         | Microsoft Cloud App Security                              | Na Backlog de engenharia |
+|                                         | Segurança no aplicativo na nuvem da Microsoft                              | Na Backlog de engenharia |
 |                                         | Suporte a caracteres de dois bytes                              | Na Backlog de engenharia |
 |    **Enorme**            | APIs de gráfico para descoberta eletrônica avançada                              | Em desenvolvimento |
 |                                         | Conectores de dados primários                              | Na Backlog de engenharia |
