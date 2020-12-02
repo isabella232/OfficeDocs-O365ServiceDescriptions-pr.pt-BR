@@ -64,7 +64,7 @@
 ### [Recursos de arquivamento](exchange-online-archiving-service-description/archive-features.md)
 ### [Recursos do cliente](exchange-online-archiving-service-description/client-features.md)
 ### [Recursos de conformidade e segurança](exchange-online-archiving-service-description/compliance-and-security-features.md)
-## [Descrição do serviço da Proteção Avançada contra Ameaças do Office 365](office-365-advanced-threat-protection-service-description.md)
+## [Descrição do serviço do Microsoft Defender para Office 365](office-365-advanced-threat-protection-service-description.md)
 ## [Descrição do serviço Microsoft Teams](teams-service-description.md)
 ## [Descrição do serviço OneDrive](onedrive-for-business-service-description.md)
 ## [Descrição do serviço SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
