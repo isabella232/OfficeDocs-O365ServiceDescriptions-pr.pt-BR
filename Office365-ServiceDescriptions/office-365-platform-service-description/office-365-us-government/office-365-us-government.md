@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público de Estados Unidos, a Microsoft criou os planos do governo dos EUA do Office 365 (ou o governo do Office 365). Este artigo fornece uma visão geral dos recursos que são específicos para os ambientes do governo dos EUA do Office 365.
-ms.openlocfilehash: 237a1f39b7c5231475c40750777212a8213a9d2b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 63cef3dfac77ae22bc413deab9d375c1cd110b46
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519082"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566673"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -79,6 +79,8 @@ Os serviços governamentais do Office 365 são fornecidos de datacenters fisicam
 > Normalmente, o Skype for Business não armazena conteúdo de clientes, mas se ocorrer algum armazenamento, ele será feito em datacenters nos EUA.
 
 Se os seus usuários estiverem localizados dentro dos Estados Unidos ao usar o Office para a Web (anteriormente conhecido como Office Web Apps) ou se você adotar o uso dos serviços de Federação do Active Directory (AD FS) 2,0 e configurar políticas para ajudar a garantir que os usuários se conectem aos serviços por meio de logon único, todo o conteúdo do cliente que estiver temporariamente armazenado no Office para a Web estará localizado
+
+A página de uso do site para sites do SharePoint está disponível para planos governamentais, embora por conformidade, há alguns recursos desta página que estão disponíveis apenas para clientes comerciais. Para saber mais, confira [página de uso do site para sites do SharePoint no Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 
 ## <a name="office-365-government-and-third-party-services"></a>Serviços governamentais e de terceiros do Office 365
 
@@ -253,7 +255,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Advanced Data Governance|Nenhum<sup>12</sup>|Nenhum<sup>12</sup>|Sim|Nenhum<sup>12</sup>|
 |Segurança no Aplicativo na Nuvem|Nenhum<sup>12, 15, 19</sup>|Nenhum<sup>12, 15, 19</sup>|Sim<sup>15, 19</sup>|Nenhum<sup>12, 15, 19</sup>|
-|Microsoft Defender para Office 365|Nenhum<sup>12, 18</sup>|Nenhum<sup>12, 18</sup>|Sim<sup>18</sup>|Nenhum<sup>12, 18</sup>|
+|Microsoft defender para Office 365|Nenhum<sup>12, 18</sup>|Nenhum<sup>12, 18</sup>|Sim<sup>18</sup>|Nenhum<sup>12, 18</sup>|
 |Sistema de Proteção de Dados do cliente|Nenhum<sup>12</sup>|Nenhum<sup>12</sup>|Sim|Nenhum<sup>12</sup>|
 |Descoberta Eletrônica Avançada|Nenhum<sup>12</sup>|Nenhum<sup>12</sup>|Sim|Nenhum<sup>12</sup>|
 |Pontuação segura<sup>14</sup>|Sim<sup>9, 15</sup>|Sim<sup>9</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|

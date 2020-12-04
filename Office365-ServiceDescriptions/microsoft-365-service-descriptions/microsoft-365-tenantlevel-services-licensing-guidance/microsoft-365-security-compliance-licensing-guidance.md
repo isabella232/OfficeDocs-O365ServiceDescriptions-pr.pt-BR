@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518932"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566663"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -37,7 +37,7 @@ Os analistas e profissionais de segurança do SecOps se beneficiam de ter visual
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
 
-Enterprise Mobility + Security E5/a5, Microsoft 365 E5/a5, a segurança da Microsoft 365 E5/a5 e o Azure Active Directory Premium plano 2 fornecem os direitos para um usuário se beneficiar da proteção de identidade do Azure Active Directory.
+Os clientes com licenças E1 e E3 poderão acessar apenas a avaliação da linha de base de proteção de dados padrão. Os clientes com o Office 365 E5/a5 e as licenças do Microsoft 365 E5/a5 (conformidade, proteção de informações & controle e descoberta eletrônica e SKUs de auditoria incluídos) poderão acessar as avaliações da linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 27001. O recurso de avaliação personalizada e as avaliações Premium são reservados para os clientes do Office 365 E5/a5 e Microsoft 365 E5/a5. As avaliações Premium estarão disponíveis para compra durante o primeiro semestre de 2021 a VL, CSP e webdirect. 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -47,7 +47,7 @@ Por padrão, os recursos de proteção de identidade do Azure AD estão habilita
 
 Os administradores podem definir o escopo da proteção de identidade do Azure AD atribuindo políticas de risco que definem o nível de redefinições de senha e permitindo o acesso somente a usuários licenciados. Para obter instruções sobre como fazer o escopo de implantações de proteção de identidade do Azure AD, consulte [Configurar a política de risco de entrada](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender para Identidade
+## <a name="microsoft-defender-for-identity"></a>Microsoft defender para identidade
 
 O Microsoft defender for Identity é um serviço de nuvem que ajuda a proteger ambientes híbridos corporativos de vários tipos de ataques avançados e insidedos.
 
@@ -67,7 +67,7 @@ Por padrão, os recursos do Microsoft defender para identidade estão habilitado
 
 O Microsoft defender for Identity Services atualmente não é capaz de limitar recursos a usuários específicos. Você deve licenciar todos os usuários que pretende beneficiar.
 
-## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft defender para Office 365
 
 O defender para Office 365 ajuda a proteger as organizações contra ataques sofisticados, como phishing e malwares de zero dias. O defender para Office 365 também fornece informações acionáveis ao correlacionar sinais de uma ampla variedade de dados para ajudar a identificar, priorizar e fornecer recomendações sobre como lidar com ameaças potenciais.
 
@@ -174,7 +174,7 @@ O Gerenciador de conformidade é provisionado por padrão para o seu locatário.
 
 O acesso ao Gerenciador de conformidade é controlado pela definição de permissões de usuário e atribuição de funções. Para obter mais informações, consulte [introdução ao Gerenciador de conformidade: definir permissões de usuário e atribuir funções](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender para Ponto de Extremidade
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft defender para ponto de extremidade
 
 O Microsoft defender for Endpoint é uma solução de segurança de ponto de extremidade que inclui gerenciamento e avaliação de vulnerabilidades baseados em riscos; recursos de redução da superfície de ataque; proteção com base no comportamento e na próxima geração da nuvem; detecção de pontos de extremidade e resposta (EDR); investigação e correção automáticas; e serviços gerenciados de busca. Confira a página [do Microsoft defender para ponto de extremidade](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para saber mais.
 
@@ -338,7 +338,7 @@ O acesso à API é configurado no nível do locatário.
 
 A API do Microsoft Graph para Teams DLP são valores de nível de locatário. Cada usuário destinado a se beneficiar desse serviço deve ser licenciado.
 
-## <a name="ediscovery"></a>Descoberta eletrônica
+## <a name="ediscovery"></a>Descoberta Eletrônica
 
 a descoberta eletrônica fornece soluções de investigação e descoberta eletrônica para departamentos jurídicos e de ti em corporações para identificar, coletar, preservar, reduzir e revisar o conteúdo relacionado a uma investigação ou litígio antes de exportar do sistema Microsoft 365.
 
