@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: O Excel para a Web (anteriormente Excel Web App) estende sua experiência do Microsoft Excel para o navegador da Web, onde você pode trabalhar com pastas de trabalho diretamente no site onde a pasta de trabalho está armazenada. Todos os clientes podem exibir e editar levemente arquivos do Office usando o Office para a Web.
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294075"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586634"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
@@ -54,7 +54,7 @@ Use os botões de alinhamento na guia Página Inicial para mudar o alinhamento d
   
 ## <a name="apply-conditional-formatting"></a>Aplicar formatação condicional
 
-Use um formato condicional para ajudá-lo a explorar e analisar visualmente os dados, detectar problemas críticos e identificar padrões e tendências. Saiba mais sobre como [usar a formatação condicional no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=282326).
+Use um formato condicional para ajudá-lo a explorar e analisar visualmente os dados, detectar problemas críticos e identificar padrões e tendências. Saiba mais sobre como [usar a formatação condicional no Excel para a Web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -89,7 +89,7 @@ Tabelas e gráficos do Excel facilitam a formatação de dados e o gerenciamento
 
 ## <a name="check-spelling"></a>Verificar ortografia
 
-Para verificar a ortografia de qualquer texto na sua planilha, selecione **revisar**  >  **Proofing**  >  **ortografia**da verificação. Saiba mais sobre a [verificação ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Para verificar a ortografia de qualquer texto na sua planilha, selecione **revisar**  >  **Proofing**  >  **ortografia** da verificação. Saiba mais sobre a [verificação ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -209,7 +209,7 @@ Adicionar e formatar formas como caixas, círculos, linhas, conectores ou setas 
 
 ## <a name="keyboard-shortcuts"></a>Atalhos do teclado
 
-Você pode controlar os atalhos de teclado para que funcionem da mesma forma nas versões da área de trabalho e da Web do Excel alterando a configuração dos atalhos de teclado &mdash; que você pode até mesmo substituir atalhos do navegador. Basta selecionar **Help**  >  **atalhos de teclado**da ajuda. "
+Você pode controlar os atalhos de teclado para que funcionem da mesma forma nas versões da área de trabalho e da Web do Excel alterando a configuração dos atalhos de teclado &mdash; que você pode até mesmo substituir atalhos do navegador. Basta selecionar **Help**  >  **atalhos de teclado** da ajuda. "
   
 ## <a name="merge-cells"></a>Merge cells
 
