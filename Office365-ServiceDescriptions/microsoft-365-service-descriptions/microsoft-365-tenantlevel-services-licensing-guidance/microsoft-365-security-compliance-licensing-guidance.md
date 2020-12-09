@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
-ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
+ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576002"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601757"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento da Microsoft 365 para segurança & conformidade
 
@@ -25,7 +25,7 @@ Para os fins deste artigo, um serviço de nível de locatário é um serviço on
 > [!NOTE]
 > Alguns serviços de locatário atualmente não são capazes de limitar benefícios a usuários específicos. Devem ser tomadas esforços para limitar os benefícios do serviço aos usuários licenciados. Isso ajudará a evitar a interrupção de serviço em potencial para sua organização quando os recursos de direcionamento estiverem disponíveis.
 
-Para ver as opções de licenciamento dos seus usuários para se beneficiarem dos recursos de conformidade da Microsoft 365 a partir de 1º de abril de 2020, baixe a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
+Para ver as opções de licenciamento dos seus usuários para se beneficiarem dos recursos de conformidade da Microsoft 365 a partir de 1º de abril de 2020, baixe a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -199,7 +199,7 @@ O Gerenciador de conformidade é provisionado por padrão para o seu locatário.
 
 O acesso ao Gerenciador de conformidade é controlado pela definição de permissões de usuário e atribuição de funções. Para obter mais informações, consulte [introdução ao Gerenciador de conformidade: definir permissões de usuário e atribuir funções](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft defender para ponto de extremidade
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender para Ponto de Extremidade
 
 O Microsoft defender for Endpoint (anteriormente Microsoft defender ATP) é uma solução de segurança de ponto de extremidade que inclui gerenciamento e avaliação de vulnerabilidades baseados em riscos; recursos de redução da superfície de ataque; proteção com base no comportamento e na próxima geração da nuvem; detecção de pontos de extremidade e resposta (EDR); investigação e correção automáticas; e serviços gerenciados de busca. Confira a página [do Microsoft defender para ponto de extremidade](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para saber mais.
 
@@ -363,7 +363,7 @@ O acesso à API é configurado no nível do locatário.
 
 A API do Microsoft Graph para Teams DLP são valores de nível de locatário. Cada usuário destinado a se beneficiar desse serviço deve ser licenciado.
 
-## <a name="ediscovery"></a>Descoberta Eletrônica
+## <a name="ediscovery"></a>Descoberta eletrônica
 
 a descoberta eletrônica fornece soluções de investigação e descoberta eletrônica para departamentos jurídicos e de ti em corporações para identificar, coletar, preservar, reduzir e revisar o conteúdo relacionado a uma investigação ou litígio antes de exportar do sistema Microsoft 365.
 

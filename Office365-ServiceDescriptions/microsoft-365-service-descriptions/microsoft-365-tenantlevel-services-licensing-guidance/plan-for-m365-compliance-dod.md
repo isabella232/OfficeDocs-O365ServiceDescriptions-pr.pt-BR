@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão conduzindo implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos a regulamentações e requisitos governamentais, onde o uso do Microsoft 365 governamental – DoD é adequado para atender a esses requisitos.
-ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: a619943b5eed63007b78613ab9b6715a52ef467d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519042"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601716"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planejar a conformidade com o Microsoft 365 – implantações do DoD
 
@@ -169,7 +169,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Auditoria avançada: maior largura de banda para a API de atividade de gerenciamento                              | Implementando |
 |                                         | Auditoria avançada: retenção de logs (1 ano)                              | Implementando |
 |                                         | Auditoria avançada: disponibilidade do centro de conformidade e segurança                              | Disponível |
-|                                         | Auditoria avançada: retenção de longo prazo em logs de auditoria                              | Na Backlog de engenharia |
+|                                         | Auditoria avançada: retenção de longo prazo em logs de auditoria (10 anos)                              | Na Backlog de engenharia |
 |                                         | Auditoria avançada: eventos de envio de email direto e email                              | Na Backlog de engenharia |
 |                                         | Auditoria avançada: insights de auditoria processados                              | Na Backlog de engenharia |
 |                                         | Auditoria avançada: eventos de termos de pesquisa no Exchange Online e no SharePoint Online                              | Na Backlog de engenharia |

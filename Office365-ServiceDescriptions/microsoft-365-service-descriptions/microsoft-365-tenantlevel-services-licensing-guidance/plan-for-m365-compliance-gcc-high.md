@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de ti que estão gerando implantações do Office 365 em entidades governamentais americanas ou outras entidades que lidam com os dados sujeitos às normas e aos requisitos governamentais, em que o uso do Microsoft 365 governamental – GCC High é adequado para atender a esses requisitos.
-ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: 9b4e4deec0ef79a124cc73679709970f01e73e4d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566643"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601756"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plano para conformidade com o Microsoft 365 – GCC High
 
@@ -174,9 +174,9 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 |                                         | Auditoria avançada: acesso a eventos cruciais (por exemplo, mailitemsaccessed)                              | Disponível |
 |                                         | Auditoria avançada: maior largura de banda para a API de atividade de gerenciamento                              | Disponível |
 |                                         | Auditoria avançada: controle legal para mensagens de canais privadas do teams                              | Disponível |
-|                                         | Auditoria avançada: retenção de logs (1 ano)                              | Disponível |
+|                                         | Auditoria avançada: retenção de logs (1 ano)                              | Implementando |
 |                                         | Auditoria avançada: disponibilidade do centro de conformidade e segurança                              | Disponível |
-|                                         | Auditoria avançada: retenção de longo prazo em logs de auditoria                              | Na Backlog de engenharia |
+|                                         | Auditoria avançada: retenção de longo prazo em logs de auditoria (10 anos)                              | Na Backlog de engenharia |
 |                                         | Auditoria avançada: eventos de envio de email direto e email                              | Na Backlog de engenharia |
 |                                         | Auditoria avançada: insights de auditoria processados                              | Na Backlog de engenharia |
 |                                         | Auditoria avançada: eventos de termos de pesquisa no Exchange Online e no SharePoint Online                              | Na Backlog de engenharia |
