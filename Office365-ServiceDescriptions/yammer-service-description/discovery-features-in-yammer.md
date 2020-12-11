@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Os recursos de descoberta a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: 5271b6b5b41acd4287f1b341f13c969e26abac8e
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 8992cf1bbadf980b9e869eecc8d99b6fef1a3c78
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132075"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624522"
 ---
 # <a name="discovery-features-in-yammer"></a>Recursos de descoberta no Yammer
 
@@ -24,7 +24,7 @@ Os recursos de descoberta a seguir estão disponíveis no Yammer.
   
 ## <a name="feeds"></a>Feeds
 
-Fique sobre as conversas relevantes, os arquivos e os projetos que ocorrem na organização. Os feeds permitem que você participe rapidamente de conversas, @mention colegas de trabalho para fazer um loop em uma discussão e visualizar documentos.
+Fique sobre as conversas, os arquivos e os projetos relevantes que ocorrem em toda a organização. Os feeds permitem que você participe rapidamente de conversas, @mention colegas de trabalho para fazer um loop em uma discussão e visualizar documentos.
 
 ## <a name="instant-type-ahead"></a>Tipo instantâneo à frente
 
