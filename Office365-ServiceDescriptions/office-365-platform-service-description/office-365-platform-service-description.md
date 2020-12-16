@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft 365 e o Office 365 estão disponíveis em vários planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos, incluindo os planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519122"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683515"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrição dos serviços das plataformas Microsoft 365 e Office 365
 
@@ -183,10 +183,12 @@ Vários dos planos do Microsoft 365 para empresas têm complementos que você po
 |**Confiança** <br/> |**Microsoft 365 Business Basic** <br/> |**Aplicativos do Microsoft 365 para empresas** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**[Privacidade, segurança e transparência](privacy-security-and-transparency.md)** <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Office 365 Cloud App Security  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
-|Microsoft Defender para Office 365  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
+|Obter o Microsoft Defender para Office 365  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Sistema de Proteção de Dados do Cliente  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Chave<sup>14</sup> do cliente <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Descoberta eletrônica avançada<sup>15</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
+|Auditoria básica<sup>22</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Auditoria avançada<sup>22</sup> <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |Pontuação segura da Microsoft<sup>7</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
 |**[Conformidade](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
@@ -225,4 +227,5 @@ Vários dos planos do Microsoft 365 para empresas têm complementos que você po
 <br/><sup>18</sup> para obter mais informações, confira [planos e ambientes do myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>19</sup> inclui os recursos do Azure Active Directory descritos na coluna **aplicativos do Office 365** na página de [preços do Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Você deve adicionar o Azure Active Directory Plan 1 ou o plano 2, o Enterprise Mobile Security ou o Microsoft 365 E3 ou E5 para obter os recursos premium do Azure AD.<br/>
 <sup>20</sup> o email de resumo é fornecido automaticamente para todos os usuários do Exchange Online. Para obter mais informações, consulte [Configure briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>21</sup> os usuários recebem acesso somente para exibição ao Project para a Web. Esses direitos são restritos para uso apenas com o projeto do aplicativo Web e apenas para locatários que têm uma licença do plano de projeto 1, plano de projeto 3 ou Project Plan 5. Esses direitos não concedem acesso a aplicativos de plataforma de energia ou outros conjuntos de dados, o cliente de desktop do Project online ou o Project online. Para obter detalhes do recurso, consulte a [Descrição do serviço do Microsoft Project](../project-online-service-description/project-online-service-description.md).
+<sup>21</sup> os usuários recebem acesso somente para exibição ao Project para a Web. Esses direitos são restritos para uso apenas com o projeto do aplicativo Web e apenas para locatários que têm uma licença do plano de projeto 1, plano de projeto 3 ou Project Plan 5. Esses direitos não concedem acesso a aplicativos de plataforma de energia ou outros conjuntos de dados, o cliente de desktop do Project online ou o Project online. Para obter detalhes do recurso, consulte a [Descrição do serviço do Microsoft Project](../project-online-service-description/project-online-service-description.md).<br/>
+<sup>22</sup> a auditoria no Microsoft 365 fornece às organizações a visibilidade de vários tipos de atividades auditadas em diferentes serviços do Microsoft 365. Use a pesquisa de log de auditoria do [ &amp; centro de conformidade de segurança](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) para exibir as atividades do usuário e do administrador em sua organização. Você também pode usar a [API de atividade de gerenciamento do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificada. Quando uma atividade auditada é executada por um usuário ou administrador, um registro de auditoria é gerado e armazenado no log de auditoria da organização do cliente. O período de tempo que um registro de auditoria é mantido (e pesquisável no log de auditoria) depende da assinatura do Office 365 ou do Microsoft 365 Enterprise do cliente e do tipo da licença atribuída a usuários específicos.

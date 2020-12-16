@@ -1,5 +1,5 @@
 ---
-title: Centro de Conformidade e Segurança
+title: Centro de conformidade e segurança
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade de segurança &amp; foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: dc0a9633ea3726d53ccbca89da6f87e86144280e
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519112"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683545"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -135,7 +135,7 @@ limite de <sup>3</sup> a 50 GB.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>&amp;Disponibilidade do centro de conformidade de segurança no Office 365 operado pela 21vianet
 
-O centro de conformidade & segurança não está disponível em nenhum plano para o Office 365 operado pela 21Vianet.
+O centro de conformidade está disponível no E3 Plan para Office 365 operado pela 21Vianet.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>&amp;Disponibilidade do centro de conformidade de segurança no Office 365 Alemanha
 
