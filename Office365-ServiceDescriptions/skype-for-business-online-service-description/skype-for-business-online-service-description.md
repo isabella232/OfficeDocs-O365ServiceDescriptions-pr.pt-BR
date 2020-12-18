@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Veja quais recursos do Skype for Business online estão disponíveis nos diferentes planos do Microsoft 365 e do Office 365.
-ms.openlocfilehash: 18144b42d6f94f4ce93432d681e136cd8063656c
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 070ea7ca1e66b1157726bea68c4130800b21a9f5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276754"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709739"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descrição do serviço do Skype for Business Online
 
@@ -145,7 +145,7 @@ Para ver uma comparação mais detalhada, confira a tabela a seguir.<br><br>
 |Chamadas federadas e pelo Skype  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Chamada de equipe  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Monitor de chamada de vídeo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
-|Caixa postal  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |
+|Caixa postal  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |[Planos de chamadas](skype-for-business-online-features.md#calling-plans) (plano de chamadas domésticas, com a compra de complemento obrigatória)  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Não  <br/> |
 |[Planos de chamadas](skype-for-business-online-features.md#calling-plans) (plano de chamadas internacionais, com a compra de complemento necessária)  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Não  <br/> |
 |[Créditos de Comunicação](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |Não  <br/> |Não  <br/> |Não<sup>6</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |

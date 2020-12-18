@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 64a403f935450e9b3500e352acb1dfa7f9717aeb
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683555"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709749"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -60,19 +60,6 @@ Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individua
 ## <a name="system-requirements"></a>Requisitos do sistema
 
 Confira os requisitos de sistema do Office 365 em [Requisitos de sistema do Office](https://products.office.com/office-system-requirements/#Office365forBEG) no site de produtos do [office.com](https://www.office.com).
-
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
-
-O centro de conformidade da Microsoft 365 fornece acesso fácil às ferramentas de que você precisa para gerenciar as necessidades de conformidade da sua organização. As soluções a seguir estão disponíveis no centro de conformidade para planos operados pela 21Vianet:
-
-- Prevenção de Perda de Dados (DLP)
-- Retenção
-- Auditoria
-- Proteção de informações da Microsoft (MIP)
-
-Consulte detalhes individuais da solução para entender o conjunto exato de recursos disponíveis no Plan operated by 21Vianet.
-
-Para saber mais sobre o centro de conformidade da Microsoft, clique [aqui](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center).
 
 ## <a name="platform-features"></a>Recursos da plataforma 
 
@@ -131,7 +118,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Hospedar vários Sites Públicos do SharePoint Online com nomes de domínio personalizados<sup>5</sup>|Não|Não|Não|Não|Não|Não|Não|
 |Verificação de propriedade de domínio necessária para domínios personalizados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy|Não|Não|Não|Não|Não|Não|Não|
-|**[Continuidade e integridade do serviço](service-health-and-continuity.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
+|**[Saúde e continuidade do serviço](service-health-and-continuity.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Status de alertas individuais disponíveis no painel do centro de administração do 365 da Microsoft|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RSS feed de **Integridade do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
