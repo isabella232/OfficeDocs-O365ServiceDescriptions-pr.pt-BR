@@ -110,4 +110,3 @@
 #### [Planejar a conformidade com o Microsoft 365 – GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Planejar a conformidade com o Microsoft 365 – GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Descrição do serviço Microsoft Bookings](microsoft-bookings-service-description.md)
-## [Descrição do serviço do Microsoft Dynamics 365](microsoft-dynamics-365-online-service-description.md)
