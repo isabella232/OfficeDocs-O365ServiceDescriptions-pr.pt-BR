@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Saiba mais sobre as diferenças entre os planos de educação do Microsoft 365 e do Office 365.
-ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
-ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
+ms.openlocfilehash: 2e149dc53127046bdb813bb10ca65a857fef67d8
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49611253"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730729"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -26,7 +26,7 @@ O Microsoft 365 fornece um sistema completo, incluindo o Office 365, o Windows 1
 
 Cada plano de educação do Microsoft 365 inclui vários serviços individuais, como o Exchange Online e o SharePoint Online. A tabela a seguir mostra os serviços disponíveis em cada plano do Office 365 e do Microsoft 365 para que você possa escolher a solução que melhor atende às suas necessidades. Para revisar os serviços e recursos com mais detalhes, consulte a descrição do serviço de [educação do Office 365](office-365-education.md) .<br></br>
 
-| Fornecer manutenção | Office 365 Education A1 | Office 365 Education A3 | Office 365 Education a5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Benefício de uso do aluno do Office 365 a3 | Benefício de uso do aluno do Office 365 a5 | Benefício de uso do aluno do Microsoft 365 Education a3 | Microsoft 365 Education-benefício de uso do aluno |
+| Serviço | Office 365 Education A1 | Office 365 Education A3 | Office 365 Education a5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Benefício de uso do aluno do Office 365 a3 | Benefício de uso do aluno do Office 365 a5 | Benefício de uso do aluno do Microsoft 365 Education a3 | Microsoft 365 Education-benefício de uso do aluno |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Plataforma do Office 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Office na Web|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -54,8 +54,8 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |**Vídeo e reuniões de voz**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education a5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A56**|**Benefício de uso do aluno do Office 365 a3**|**Benefício de uso do aluno do Office 365 a5**|**Benefício de uso do aluno do Microsoft 365 Education a3**|**Microsoft 365 Education-benefício de uso do aluno**|
 |Transmissão de Reunião do Skype|Não|Sim|Sim|Sim|Sim|Não|Não|Não|Não|
 |Microsoft Bookings|Não|Sim|Sim|Sim|Sim|Não|Não|Não|Não|
-|Conferência por Áudio|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
-|Sistema Telefônico|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
+|Audioconferência|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
+|Sistema de Telefonia|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
 |**Analytics**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education a5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Benefício de uso do aluno do Office 365 a3**|**Benefício de uso do aluno do Office 365 a5**|**Benefício de uso do aluno do Microsoft 365 Education a3**|**Microsoft 365 Education-benefício de uso do aluno**|
 |Delve|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Power BI Pro|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
@@ -74,7 +74,7 @@ Cada plano de educação do Microsoft 365 inclui vários serviços individuais, 
 |Descoberta Eletrônica Avançada|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
 |Prevenção de perda de dados (DLP) para emails e arquivos|Não|Sim|Sim|Sim|Sim|Não|Não|Não|Não|
 |Endpoint DLP|Não|Não|Não|Não|Sim|Não|Não|Não|Não|
-|DLP de comunicação (chat de equipes)|Não|Sim|Sim|Sim|Sim|Não|Não|Não|Não|
+|DLP de comunicação (chat de equipes)|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
 |Conformidade em comunicações|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
 |Chave de Cliente|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
 |Auditoria básica|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|

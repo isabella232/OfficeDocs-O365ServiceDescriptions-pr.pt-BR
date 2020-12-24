@@ -1,5 +1,5 @@
 ---
-title: Centro de conformidade e segurança
+title: Centro de Conformidade e Segurança
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O centro de conformidade de segurança &amp; foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: dc0a9633ea3726d53ccbca89da6f87e86144280e
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683545"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730719"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -30,58 +30,21 @@ Para ver as opções de licenciamento dos seus usuários para se beneficiarem do
 | Recurso | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 governo dos EUA G1 | Office 365 E3, Office 365 governo dos EUA G3 | Office 365 E5 | Office 365 F3, Office 365 governo dos EUA F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Acesso ao centro de &amp; conformidade de segurança](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
-|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Não   |Não   |Não|Não   |Não   |Sim   |
-|[Gerenciamento de ameaças](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtragem de mensagens e anti-malware |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
-|[Gerenciamento avançado de ameaças](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), como o explorador de ameaças para campanhas de phishing<sup>6</sup>  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Sistema de Proteção de Dados do Cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Gerenciamento de dispositivo móvel](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
-|[Prevenção de perda de dados para o Exchange Online, o SharePoint Online e o onedrive for Business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Não   |Sim  |Sim   |Não   |Sim   |Sim   |Não   |
-|[Prevenção de perda de dados de comunicação para o Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Não   |Não   |Não   |Não   |Não   |Sim  |
-|[Rótulos de sensibilidade manuais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Não | Não  |Não   | Sim | Sim | Sim | Não  |
-|Rótulos de confidencialidade automático| Não | Não  |Não  | Não | Não | Sim<sup>13</sup> | Não  |
-|[Barreiras de informações](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não  |
-|[Governança de informações](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Sim<sup>11</sup>   |Sim<sup>11</sup>   |Sim<sup>11</sup>   |Sim   |Sim   |Sim   |Sim<sup>11</sup>   |
-|[Governança avançada de informações](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Pesquisa de conteúdo](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
+|[Prevenção de perda de dados para o Exchange Online, o SharePoint Online e o onedrive for Business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1, 3</sup> |Não   |Sim  |Sim   |Não   |Sim   |Sim   |Não   |
+|[Rótulos de sensibilidade manuais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | Não | Não  |Não   | Sim | Sim | Sim | Não  |
 |[ocorrências de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
 |[suspensões de descoberta eletrônica (incluindo bloqueios de descoberta eletrônica baseados em consulta)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Não   |Não   |Não  |Não   |Sim   |Sim   |Não   |
 |[exportação de descoberta eletrônica](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Não   |Não   |Não   |Não   |Sim   |Sim   |Não   |
-|[Descoberta eletrônica avançada](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Arquivamento](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |Sim<sup>3</sup>  |Sim<sup>3</sup>  |Sim<sup>3</sup>   |Sim<sup>3</sup>  |Sim<sup>4</sup>  |Sim<sup>4</sup>  |Não   |
-|[Políticas de alerta](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |Sim   |Sim   |Sim|Sim   |Sim   |Sim   |Sim   |
-|[Auditoria básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sim   |Sim   |Sim|Sim   |Sim   |Sim   |Sim   |
-|[Auditoria avançada](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Conformidade de comunicação (políticas de supervisão)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
+|[Auditoria básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |Sim   |Sim   |Sim|Sim   |Sim   |Sim   |Sim   |
 |[Criptografia de mensagem do Office 365 (OME) básica](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Não   |Não   |Não   |Não   |Sim  |Sim   |Não   |
-|[Criptografia de Mensagem Avançada do 365 Office](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Não   |Não   |Não   |Não   |Não |Sim   |Não   |
-|[Gerenciamento de acesso privilegiado](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
-|[Chave de Cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Não   |Não   |Não   |Não   |Não   |Sim   |Não   |
 
-<sup>1</sup> o controle de informações permite que os usuários criem, publiquem e apliquem manualmente rótulos aos documentos; Importe dados usando o envio de unidade ou pela rede. Esses recursos estão disponíveis em E3 e e5, com apenas disponibilidade limitada no E1. Para obter uma lista completa dos recursos disponíveis no E1, E3 e e5, consulte a comparação detalhada de licenciamento de conformidade da Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+<sup>1</sup> inclui arquivos armazenados nos repositórios do Microsoft Teams.
 
-<sup>2</sup> o controle avançado de informações permite que você mantenha informações importantes e exclua informações não importantes classificando informações com base em uma política de retenção ou exclusão ou ambos. Ele inclui ações inteligentes/automatizadas, como a recomendação de políticas, a aplicação automática de rótulos a dados, a aplicação de rótulos com base em tipos de dados sigilosos ou consultas, revisão de disposição e uso de filtros de importação inteligentes. Ele também inclui o recurso de supervisão para a análise de comunicações de funcionários por motivos de segurança e conformidade.
+<sup>2</sup> os logs de auditoria de todos os planos que incluem auditoria básica (exceto para E5) são mantidos por 90 dias. Como o E5 inclui auditoria avançada, os logs de auditoria são mantidos por até um ano. Além disso, você pode usar a [API de atividade de gerenciamento do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificada.
 
-limite de <sup>3</sup> a 50 GB.
+<sup>3</sup> requer o complemento do Office 365 Data Loss Prevention.
 
-<sup>4</sup> ilimitado.
-
-<sup>5</sup> a descoberta eletrônica avançada é suportada nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos).
-
-<sup>6</sup> o Microsoft defender para Office 365 está disponível no Office 365 E5 e como um serviço autônomo para o Office 365 E1 e o Office 365 E3.
-
-<sup>7</sup> inclui arquivos armazenados nos repositórios do Microsoft Teams.
-
-<sup>8</sup> logs de auditoria para todos os planos que incluem auditoria básica (exceto para E5) são mantidos por 90 dias. Como o E5 inclui auditoria avançada, os logs de auditoria são mantidos por até um ano. Além disso, você pode usar a [API de atividade de gerenciamento do Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificada.
-
-<sup>9</sup> requer o complemento do Office 365 Data Loss Prevention.
-
-<sup>10</sup> rótulos de confidencialidade também estão incluídos na proteção de informações do Azure P1 e P2.
-
-<sup>11</sup> é necessária uma licença de arquivamento do Exchange Online plano 2 ou do Exchange Online para reter o conteúdo em uma caixa de correio de usuário usando uma política de retenção.
-
-<sup>12</sup> a auditoria avançada fornece retenção de um ano de logs de auditoria para atividades no Azure Active Directory, Exchange e SharePoint e fornece a capacidade de criar políticas de retenção de log de auditoria personalizadas para gerenciar a retenção de logs de auditoria para outros serviços do Office 365. Também fornece acesso a eventos cruciais para investigações e acesso de alta largura de banda à API da atividade de gerenciamento do Office 365.
-
-<sup>13</sup> não inclui rotulamento com base no Machine Learning (classificadores treinado).
+<sup>4</sup> os rótulos de confidencialidade também estão incluídos na proteção de informações do Azure P1 e P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilidade do centro de conformidade de segurança para planos autônomos
 
