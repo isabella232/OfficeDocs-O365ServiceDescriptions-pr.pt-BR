@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços em nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
-ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
+ms.openlocfilehash: ea937b095550466e604b20e4eb5f943a6897bfa9
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709749"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740982"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -118,7 +118,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |Hospedar vários Sites Públicos do SharePoint Online com nomes de domínio personalizados<sup>5</sup>|Não|Não|Não|Não|Não|Não|Não|
 |Verificação de propriedade de domínio necessária para domínios personalizados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy|Não|Não|Não|Não|Não|Não|Não|
-|**[Saúde e continuidade do serviço](service-health-and-continuity.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
+|**[Continuidade e integridade do serviço](service-health-and-continuity.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Status de alertas individuais disponíveis no painel do centro de administração do 365 da Microsoft|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RSS feed de **Integridade do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -1053,7 +1053,7 @@ A tabela a seguir exibe os planos do Office 365 que incluem o serviço SharePoin
 |Windows PowerShell|Sim|Sim|
 |Relatórios do Skype for Business online no centro de administração do Microsoft 365|No<sup>4</sup>|No<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. O Lync 2013 Basic está disponível para todos os clientes. O cliente de desktop do Lync Basic é um aplicativo instalado localmente que fornece recursos de conferência, presença e mensagens instantâneas para planos do Office 365 que incluem o Skype for Business online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype for Business (Lync), que inclui recursos adicionais, como suporte avançado para telefonia, recursos de conformidade de arquivamento &amp; . A Skype for Business Online license must be assigned for each user. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
@@ -1076,7 +1076,6 @@ Os seguintes recursos móveis não são suportados:
 - Resposta inteligente
 - Feed do Office
 - Tempo de saída
-- Rótulo de confidencialidade de proteção de informações da Microsoft
 - Armazenamento do Dropbox
 - Armazenamento do Google Drive
 - Armazenamento em caixa
