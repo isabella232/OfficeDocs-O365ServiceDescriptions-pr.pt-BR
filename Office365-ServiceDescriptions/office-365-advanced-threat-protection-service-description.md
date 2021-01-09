@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: O Microsoft Defender para Office 365 é um serviço de filtragem de email baseado na nuvem que ajuda a proteger sua organização contra vírus e malware desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: fd2869eb98b64fca4f241339497486a392815402
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
+ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780005"
+ms.lasthandoff: 01/09/2021
+ms.locfileid: "49790435"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -32,7 +32,7 @@ Veja a seguir as principais maneiras de usar o Defender for Office 365 para prot
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Disponibilidade do Microsoft Defender para Office 365
 
-O Defender para Office 365 Plano 2 está incluído no Office 365 E5, no Office 365 A5 e no Microsoft 365 E5. O Defender para Office 365 Plano 1 está incluído no Microsoft 365 Business Premium.
+O Microsoft Defender para Office 365 Plano 2 está incluído no Office 365 E5, no Office 365 A5, no Microsoft 365 E5 Security e no Microsoft 365 E5, conforme especificado aqui: [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . O Defender para Office 365 Plano 1 está incluído no Microsoft 365 Business Premium.
 
 Você pode adicionar o Defender para Office 365 aos seguintes planos de assinatura do Exchange e do Microsoft 365:
 
@@ -94,13 +94,10 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |Investigação de ameaças (investigação avançada de ameaças)|[Detecções em tempo real](#real-time-detections)|[Explorador](#explorer)|[Explorador](#explorer)|
 |[Resposta automatizada a incidentes](#automated-incident-response)|Não|Sim|Sim|
 |[Simulador de Ataque](#attack-simulator)|Não|Sim|Sim|
-|*Integração com o Microsoft 365 Defender*|Não|Sim|Sim|
-
-> [!TIP]
-> Deseja uma lista baixável das diferenças entre o Defender para Office 365 Plano 1 e o Plano 2? [Obter o PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
+|*Integração [com o Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|Não|Sim|Sim|
 
 > [!NOTE]
-> Se seu locatário tiver apenas uma licença de avaliação do Office ATP P2 ou uma licença de avaliação do Office 365 E5, sem outra licença qualificada para a Proteção contra Ameaças da Microsoft, você não poderá acessar a Proteção contra Ameaças da Microsoft. Para saber mais sobre a licença MTP, consulte <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites>
+> Se seu locatário tiver apenas a licença de avaliação do Defender para Office 365 Plano 2 ou a licença de avaliação do Microsoft 365 E5, sem outra licença qualificada para o Microsoft 365 Defender, você não poderá acessar o Microsoft 365 Defender. Para saber mais, confira [os requisitos do Microsoft 365 Defender.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 
 ## <a name="defender-for-office-365-capabilities"></a>Recursos do Defender para Office 365
 
@@ -161,11 +158,11 @@ O que você precisa saber antes de começar?
 
 ### <a name="real-time-reports"></a>Relatórios em tempo real
 
-Os recursos de monitoramento disponíveis no Centro de Conformidade e Segurança incluem relatórios e informações em tempo [real](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) que permitem que seus administradores de segurança e conformidade se concentrem em problemas de alta prioridade, como ataques de segurança ou aumento de atividades suspeitas. & Além de destacar áreas problemáticas, relatórios inteligentes e ideias incluem recomendações e links para exibir e explorar dados e também tomar ações rápidas.
+Os recursos de monitoramento disponíveis no Centro de Conformidade e Segurança ( ) incluem relatórios e informações em tempo real que permitem que seus administradores de segurança e conformidade se concentrem em problemas de alta prioridade, como ataques de segurança ou aumento de atividades [https://protection.office.com](https://protection.office.com) suspeitas. [](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) & Além de destacar áreas problemáticas, relatórios inteligentes e ideias incluem recomendações e links para exibir e explorar dados e também tomar ações rápidas.
 
 ### <a name="explorer"></a>Explorador
 
-O Explorador (também chamado de Explorador de Ameaças) é um relatório em tempo real que permite aos usuários autorizados identificar e analisar ameaças recentes. Por padrão, este relatório mostra dados dos últimos 7 dias, no entanto, os modos de exibição podem ser alterados para exibir dados dos últimos 30 dias.
+O Explorador (também chamado de Explorador de Ameaças) é um relatório em tempo real que permite aos usuários autorizados identificar e analisar ameaças recentes. Por padrão, esse relatório mostra dados dos últimos sete dias; no entanto, os visualizações podem ser modificados para mostrar dados dos últimos 30 dias.
 
 O Explorer contém exibições, como Malware (para email e conteúdo), Envios, Phishing e Todos os Emails. Para ver como o Explorer se compara com detecções em tempo real, [baixe este PDF.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
@@ -173,7 +170,7 @@ Para obter mais informações sobre o Explorer (no Microsoft Defender para Offic
 
 ### <a name="real-time-detections"></a>Detecções em tempo real
 
-As detecções em tempo real são um relatório em tempo real que permite aos usuários autorizados identificar e analisar ameaças recentes. Assim como o Explorador, esse relatório mostra os dados dos últimos 7 dias.
+As detecções em tempo real são um relatório em tempo real que permite aos usuários autorizados identificar e analisar ameaças recentes. Semelhante ao Explorer, por padrão, esse relatório mostra dados dos últimos sete dias.
 
 As detecções em tempo real contêm exibições, como Malware (para email e conteúdo), Envios e Phishing. Para ver como as detecções em tempo real se comparam com o Explorer, [baixe este PDF.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 

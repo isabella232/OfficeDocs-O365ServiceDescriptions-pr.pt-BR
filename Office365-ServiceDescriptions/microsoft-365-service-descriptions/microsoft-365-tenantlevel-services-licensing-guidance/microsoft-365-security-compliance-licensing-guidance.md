@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece diretrizes de licenciamento para a conformidade com o Microsoft 365 para ajudar a evitar possíveis interrupções no serviço devido a acesso não licenciado.
-ms.openlocfilehash: 04ff448cd45ed81b17ed230547462c80d8c47669
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: ef31f5c9b833163434e6df224b6f8bf8bd462155
+ms.sourcegitcommit: 58befa733e889d34e2f7598ccf894cc8a60dcea0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49779985"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49786853"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Diretrizes de licenciamento do Microsoft 365 para conformidade & segurança
 
@@ -37,7 +37,7 @@ Os analistas e profissionais de segurança da SecOps se beneficiam de ter visual
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para que um usuário se beneficie do serviço?
 
-Os clientes com licenças E1 e E3 poderão acessar apenas a avaliação padrão da Linha de Base de Proteção de Dados. Os clientes com licenças do Office 365 E5/A5 e do Microsoft 365 E5/A5 (Conformidade, Governança de Proteção de Informações e Descoberta Eletrônica e SKUs de Auditoria incluídas) poderão acessar as avaliações de Linha de Base de Proteção de &amp; Dados, RGPD, NIST 800-53 e ISO 27001. O recurso de avaliação personalizada e as avaliações premium são reservados para clientes do Office 365 E5/A5 e microsoft 365 E5/A5. As avaliações premium estarão disponíveis para compra durante o primeiro semestre de 2021 por meio de VL, CSP e WebDirect.  
+Os clientes com licenças do Office 365 E5/A5 e do Microsoft 365 E5/A5 poderão acessar as avaliações de linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 27001, além de usar o recurso de avaliação personalizada. As avaliações premium estarão disponíveis para compra para clientes do Office 365 E5/A5 e do Microsoft 365 E5/A5 durante o primeiro semestre de 2021. Eles estarão disponíveis para compra por meio de VL, CSP e WebDirect.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -189,7 +189,7 @@ A seguir estão os benefícios para os usuários do serviço gerenciador de conf
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para que um usuário se beneficie do serviço?
 
-Os clientes com licenças do Office 365 E5/A5 e do Microsoft 365 E5/A5 poderão acessar as avaliações de linha de base de proteção de dados, RGPD, NIST 800-53 e ISO 27001, além de usar o recurso de avaliação personalizada. As avaliações premium estarão disponíveis para compra para clientes do Office 365 E5/A5 e do Microsoft 365 E5/A5 durante o primeiro semestre de 2021. Eles estarão disponíveis para compra por meio de VL, CSP e WebDirect.
+Os clientes com licenças E1 e E3 poderão acessar apenas a avaliação padrão da Linha de Base de Proteção de Dados. Os clientes com licenças do Office 365 E5/A5 e do Microsoft 365 E5/A5 (Conformidade, Governança de Proteção de Informações e Descoberta Eletrônica e SKUs de Auditoria incluídas) poderão acessar as avaliações de Linha de Base de Proteção de &amp; Dados, RGPD, NIST 800-53 e ISO 27001. O recurso de avaliação personalizada e as avaliações premium são reservados para clientes do Office 365 E5/A5 e microsoft 365 E5/A5. As avaliações premium estarão disponíveis para compra durante o primeiro semestre de 2021 por meio de VL, CSP e WebDirect. 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -290,9 +290,9 @@ O Gerenciamento de Registros ajuda as organizações a cumprir suas obrigações
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para que um usuário se beneficie do serviço?
 
-O Microsoft 365 E5/A5, o Microsoft 365 E5/A5 Compliance, a Proteção e Governança de Informações do Microsoft 365, o Office 365 E5/A5, a Conformidade Avançada do Office 365 fornecem os direitos para que um usuário se beneficie do Gerenciamento de Registros, incluindo declarar itens como registros, aplicar automaticamente rótulos de retenção ou registros e executar processos de revisão de disposição (excluindo automaticamente a aplicação de um rótulo de retenção com base em classificadores de treinamento).
+Microsoft 365 E5/A5/G5, A Conformidade do Microsoft 365 E5/A5/G5, a Governança e Proteção de Informações do Microsoft 365, o Office 365 E5/A5/G5, a Conformidade Avançada do Office 365 fornecem os direitos para que um usuário se beneficie do Gerenciamento de Registros, incluindo declarar itens como registros ou registros regulamentares, aplicar automaticamente rótulos de retenção ou registros e executar processos de revisão de disposição (excluindo automaticamente a aplicação de um rótulo de retenção com base em classificadores de treinamento).
 
-O Microsoft 365 E5/A5, a conformidade com o Microsoft 365 E5/A5, a Proteção de Informações do Microsoft 365 e a Governança fornecem os direitos para que um usuário se beneficie da aplicação automática de rótulos de retenção ou registro com base em classificadores de treinamento.
+O Microsoft 365 E5/A5, a conformidade com o Microsoft 365 E5/A5 e a Proteção de Informações e Governança do Microsoft 365 fornecem direitos para que um usuário se beneficie da aplicação automática de rótulos de retenção ou registro com base em classificadores de treinamento.
 
 Para direitos específicos por licença, confira a Comparação detalhada de licenciamento de conformidade do Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -475,7 +475,7 @@ Os usuários se beneficiam da DLP para o Exchange Online, o SharePoint Online e 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para que um usuário se beneficie do serviço?
 
-O Microsoft 365 A1/E3/A3/Business, o Office 365 E3/A3 e a Prevenção contra Perda de Dados do Office 365 fornecem os direitos para que um usuário se beneficie da DLP do Office 365 para Exchange Online, SharePoint Online e OneDrive for Business.
+O Microsoft 365 E3/A3/Business Premium, o Office 365 E3/A3 e a Prevenção contra Perda de Dados do Office 365 fornecem os direitos para que um usuário se beneficie da DLP do Office 365 para Exchange Online, SharePoint Online e OneDrive for Business.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
