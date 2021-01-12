@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: O Microsoft Defender para Office 365 é um serviço de filtragem de email baseado na nuvem que ajuda a proteger sua organização contra vírus e malware desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
-ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
+ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/09/2021
-ms.locfileid: "49790435"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794957"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -78,7 +78,7 @@ O Defender para Office 365 pode ser usado com qualquer agente de transferência 
 
 Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado, ele normalmente refere-se à família de serviços do Office 365 Enterprise.<br><br>
 
-| Recurso | Defender para Office 365 Plano 1 | Defender para Office 365 Plano 2 | Microsoft 365 E5 / E5 Security|
+| Recurso | Defender para Office 365 Plano 1 | Defender para Office 365 Plano 2 | Segurança do Microsoft 365 E5 /E5|
 |:-----|:-----|:-----|:-----|
 |*Configuração, proteção e detecção*|
 |[Anexos Seguros](#safe-attachments)|Sim|Sim|Sim|
@@ -97,7 +97,7 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |*Integração [com o Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|Não|Sim|Sim|
 
 > [!NOTE]
-> Se seu locatário tiver apenas a licença de avaliação do Defender para Office 365 Plano 2 ou a licença de avaliação do Microsoft 365 E5, sem outra licença qualificada para o Microsoft 365 Defender, você não poderá acessar o Microsoft 365 Defender. Para saber mais, confira [os requisitos do Microsoft 365 Defender.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+> Se seu locatário tiver apenas uma licença de avaliação do Office ATP P2 ou uma licença de avaliação do Office 365 E5, sem outra licença qualificada para a Proteção contra Ameaças da Microsoft, você não poderá acessar a Proteção contra Ameaças da Microsoft. Para saber mais sobre a licença MTP, consulte <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
 
 ## <a name="defender-for-office-365-capabilities"></a>Recursos do Defender para Office 365
 
@@ -131,7 +131,7 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
 ### <a name="safe-documents"></a>Documentos Seguros
 
-O [recurso Documentos Seguros](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) usa o Microsoft Defender para [Ponto](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) de Extremidade para verificar documentos e arquivos abertos no [Exibição Protegido.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+O [recurso Documentos Seguros](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) usa o Microsoft Defender para o [Ponto](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) de Extremidade para verificar documentos e arquivos abertos no [Exibição Protegido.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
 
 O que você precisa saber antes de começar?
 
@@ -186,4 +186,4 @@ Para obter mais informações sobre o Explorer (no Microsoft Defender para Offic
 
 ### <a name="attack-simulator"></a>Simulador de Ataque
 
-[O Simulador](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) de Ataque permite que os usuários autorizados executem cenários de ataque realistas em sua organização. Vários tipos diferentes de ataques estão disponíveis, incluindo um ataque de phishing de nome para exibição, um ataque de pulverização de senha e um ataque de senha de força bruta.
+[O Simulador](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) de Ataque permite que usuários autorizados executem cenários de ataque realistas em sua organização. Vários tipos diferentes de ataques estão disponíveis, incluindo um ataque de phishing de nome para exibição, um ataque de pulverização de senha e um ataque de senha de força bruta.
