@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: O Microsoft Defender para Office 365 é um serviço de filtragem de email baseado na nuvem que ajuda a proteger sua organização contra vírus e malware desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: b3eb9d94fdd96899a0d08e591715a07354104c25
+ms.sourcegitcommit: 29db3ccfdd875fc8968e11c040c6db46c2720134
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794957"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49799400"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -32,7 +32,7 @@ Veja a seguir as principais maneiras de usar o Defender for Office 365 para prot
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Disponibilidade do Microsoft Defender para Office 365
 
-O Microsoft Defender para Office 365 Plano 2 está incluído no Office 365 E5, no Office 365 A5, no Microsoft 365 E5 Security e no Microsoft 365 E5, conforme especificado aqui: [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . O Defender para Office 365 Plano 1 está incluído no Microsoft 365 Business Premium.
+O Microsoft Defender para Office 365 Plano 2 está incluído no Office 365 E5, Office 365 A5, Microsoft 365 E5 Security e Microsoft 365 E5, conforme especificado aqui: [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . O Defender para Office 365 Plano 1 está incluído no Microsoft 365 Business Premium.
 
 Você pode adicionar o Defender para Office 365 aos seguintes planos de assinatura do Exchange e do Microsoft 365:
 
@@ -78,7 +78,7 @@ O Defender para Office 365 pode ser usado com qualquer agente de transferência 
 
 Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado, ele normalmente refere-se à família de serviços do Office 365 Enterprise.<br><br>
 
-| Recurso | Defender para Office 365 Plano 1 | Defender para Office 365 Plano 2 | Segurança do Microsoft 365 E5 /E5|
+| Recurso | Defender para Office 365 Plano 1 | Defender para Office 365 Plano 2 | Microsoft 365 E5 / E5 Security|
 |:-----|:-----|:-----|:-----|
 |*Configuração, proteção e detecção*|
 |[Anexos Seguros](#safe-attachments)|Sim|Sim|Sim|
@@ -97,13 +97,13 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |*Integração [com o Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|Não|Sim|Sim|
 
 > [!NOTE]
-> Se seu locatário tiver apenas uma licença de avaliação do Office ATP P2 ou uma licença de avaliação do Office 365 E5, sem outra licença qualificada para a Proteção contra Ameaças da Microsoft, você não poderá acessar a Proteção contra Ameaças da Microsoft. Para saber mais sobre a licença MTP, consulte <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
+> Se o locatário tiver apenas a licença de avaliação do Microsoft Defender for Office Plan P2 ou a licença de avaliação do Office 365 E5, sem outra licença qualificada para o Microsoft 365 Defender, você não poderá acessar o Microsoft 365 Defender. Para saber mais sobre a licença MTP, confira [os requisitos do Microsoft 365 Defender.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 
 ## <a name="defender-for-office-365-capabilities"></a>Recursos do Defender para Office 365
 
 ### <a name="safe-attachments"></a>Anexos seguros
 
-[Os Anexos Seguros](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) protegem contra vírus e malware desconhecidos e fornece proteção de dia zero para proteger seu sistema de mensagens. Todas as mensagens e anexos que não têm uma assinatura de vírus/malware conhecida são roteados para um ambiente especial em que o Defender para Office 365 usa uma variedade de técnicas de aprendizagem e análise de máquina para detectar intenção maliciosa. Se nenhuma atividade suspeita for detectada, a mensagem será liberada para entrega na caixa de correio.
+[O recurso Anexos Seguros](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) protege contra vírus e malware desconhecidos e fornece proteção de dia zero para proteger seu sistema de mensagens. Todas as mensagens e anexos que não têm uma assinatura de vírus/malware conhecida são roteados para um ambiente especial em que o Defender para Office 365 usa uma variedade de técnicas de aprendizagem e análise de máquina para detectar intenção maliciosa. Se nenhuma atividade suspeita for detectada, a mensagem será liberada para entrega na caixa de correio.
 
 > [!NOTE]
 > A verificação de Anexos Seguros ocorre na mesma região em que seus dados do Office 365 residem. Para obter mais informações sobre geografia do data center, consulte [Onde seus dados estão localizados?](https://products.office.com/where-is-your-data-located?geo=All)
@@ -131,7 +131,7 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
 ### <a name="safe-documents"></a>Documentos Seguros
 
-O [recurso Documentos Seguros](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) usa o Microsoft Defender para o [Ponto](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) de Extremidade para verificar documentos e arquivos abertos no [Exibição Protegido.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+O [recurso Documentos Seguros](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) usa o Microsoft Defender para [Ponto](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) de Extremidade para verificar documentos e arquivos abertos no [Exibição Protegido.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
 
 O que você precisa saber antes de começar?
 
@@ -186,4 +186,4 @@ Para obter mais informações sobre o Explorer (no Microsoft Defender para Offic
 
 ### <a name="attack-simulator"></a>Simulador de Ataque
 
-[O Simulador](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) de Ataque permite que usuários autorizados executem cenários de ataque realistas em sua organização. Vários tipos diferentes de ataques estão disponíveis, incluindo um ataque de phishing de nome para exibição, um ataque de pulverização de senha e um ataque de senha de força bruta.
+[O Simulador](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) de Ataque permite que os usuários autorizados executem cenários de ataque realistas em sua organização. Vários tipos diferentes de ataques estão disponíveis, incluindo um ataque de phishing de nome para exibição, um ataque de pulverização de senha e um ataque de senha de força bruta.
