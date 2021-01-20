@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project Online é uma solução online flexível para PPM (gerenciamento de portfólio de projetos) e trabalho diário. Fornecido por meio do Office 365, o Project Online oferece poderosos recursos de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólios de projetos, de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: 961aa648ccd5cf0f143016baddf659ae9d5082b4
+ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794967"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49905144"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -36,9 +36,9 @@ Este artigo ajudará você a entender quais aplicativos são fornecidos em cada 
 
 O Project para a Web é a oferta mais recente da Microsoft para trabalho baseado em nuvem e gerenciamento de projetos. O Project para a Web fornece recursos de gerenciamento de trabalho simples e poderosos para atender à maioria das necessidades e funções. Gerentes de projeto e membros da equipe podem usar o Project para a Web para planejar e gerenciar o trabalho de qualquer tamanho.
 
-O Project para a Web foi criado na Plataforma Microsoft Power. A Plataforma Power consiste em PowerApps, Power Automate, Power BI e o Microsoft Dataverse. Os dados do Project para a Web são armazenados no Microsoft Dataverse. 
+O Project para a Web foi criado no Microsoft Power Platform. A Plataforma Power consiste em PowerApps, Power Automate, Power BI e o Microsoft Dataverse. Os dados do Project para a Web são armazenados no Microsoft Dataverse. 
 
-O Project para a Web está disponível por meio de três assinaturas: Plano 1 do Projeto, Plano 3 do Project e Plano 5 do Project. Os recursos listados na [seção Recursos do Project](#project-for-the-web-features) para a Web interagem apenas com dados no Project para o armazenamento de dados da Web.
+O Project para a Web está disponível por meio de três assinaturas: Plano de Projeto 1, Plano 3 do Project e Plano 5 do Project. Os recursos [listados nos recursos do Project para a Web](#project-for-the-web-features) interagem apenas com dados no Project para o armazenamento de dados da Web.
 
 ### <a name="project-online"></a>Project Online
  
@@ -46,7 +46,7 @@ O Project Online é uma solução online flexível para PPM (Gerenciamento de Po
 
 O Project Online é criado na plataforma do SharePoint e armazena dados no armazenamento de dados do SharePoint.
 
-O Project Online está disponível por meio de duas assinaturas: Plano de Projeto 3 e Plano de Projeto 5. Os recursos listados na [seção de recursos do Project Online](#project-online-features) interagem apenas com dados no armazenamento de dados do SharePoint do Project Online.
+O Project Online está disponível por meio de duas assinaturas: Plano de Projeto 3 e Plano de Projeto 5. Os recursos listados [nos recursos do Project Online](#project-online-features) interagem apenas com dados no armazenamento de dados do SharePoint do Project Online.
 
 A funcionalidade de membro da equipe do Project Online está disponível por meio de uma assinatura do Project Online Essentials ou do Project Plan 1. O Project Online Essentials  é uma assinatura de complemento de membro da equipe para clientes que têm assinaturas do Plano 3 do Project ou do Project Plan 5. As assinaturas do Project Online Essentials e do Project Plan 1 proporcionam aos membros da equipe uma interface da Web para executar atualizações de tarefas e horas em projetos gerenciados no Project Online.
 
@@ -61,11 +61,11 @@ O Project Online Essentials não inclui o Project para a Web. O Plano de Projeto
 
 ### <a name="project-online-desktop-client"></a>Cliente da área de trabalho do Project Online
 
-Microsoft Project Online desktop client is a project management program that features automated scheduling, project resource management, and built-in reporting. O cliente da área de trabalho do Project Online pode ser usado como um aplicativo autônomo ou pode se conectar ao Project Online. O cliente da área de trabalho do Project Online é a versão de assinatura do cliente de área de trabalho do Project Professional e está disponível nas assinaturas do Project Plano 3 e do Project Plan 5.
+Microsoft Project Online desktop client is a project management program that features automated scheduling, project resource management, and built-in reporting. O cliente da área de trabalho do Project Online pode ser usado como um aplicativo autônomo ou pode se conectar ao Project Online. O cliente da área de trabalho do Project Online é a versão de assinatura do cliente de área de trabalho do Project Professional e está disponível nas assinaturas do Plano 3 do Project e do Project Plan 5.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Usando o Project para a Web e o Project Online juntos
 
-Embora o Project para a Web e o Project Online sejam aplicativos separados, você pode usá-los lado a lado. Você pode ver todos os seus projetos em ambos os aplicativos no Project Home. Você pode usar a funcionalidade de Mapa do Project para criar roteiros que incluam projetos de ambos os aplicativos. E você pode usar o Power BI e o pacote de conteúdo do Project para a Web do Power BI para obter informações sobre projetos e recursos entre os dois aplicativos. <sup>3</sup>
+Embora o Project para a Web e o Project Online sejam aplicativos separados, você pode usá-los lado a lado. Você pode ver todos os seus projetos em ambos os aplicativos no Project Home. Você pode usar a funcionalidade de Mapa do Project para criar roteiros que incluam projetos de ambos os aplicativos. E você pode usar o Power BI e o pacote de conteúdo do Project para a Web power BI para obter informações sobre projetos e recursos entre os dois aplicativos. <sup>3</sup>
 
 Este diagrama mostra como os aplicativos podem trabalhar juntos lado a lado.
 
@@ -89,7 +89,7 @@ Na tabela acima, o número de verificações (**x**) indica o nível geral de re
 
 ### <a name="project-for-the-web-features"></a>Recursos do Project para a Web
 
-Os recursos listados nesta seção interagem apenas com dados no Project para o armazenamento de dados da Web. Todos esses recursos estão disponíveis em todas as assinaturas do Microsoft Project: Plano de Projeto 1, Plano 3 do Project e Plano 5 do Project.<br><br>
+Os recursos listados nesta seção interagem apenas com dados no Project para o armazenamento de dados da Web. Todos esses recursos estão disponíveis em todas as assinaturas do Microsoft Project: Plano 1 do Projeto, Plano 3 do Project e Plano 5 do Project.<br><br>
 
 | Recurso | Descrição | Licenças do Office 365 | Plano 1 | Plano 3 | Plano 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
@@ -112,7 +112,7 @@ Os recursos listados nesta seção interagem apenas com dados no Project para o 
 |Ler relatórios do *Project para os dados da* Web | Exibir relatórios, painéis e portais personalizados do Power BI para entender os dados de projeto, programa, portfólio e recurso. | Não | Não | Sim | Sim |
 |Criar relatórios usando *o Project para os dados da* Web | Entenda os dados importantes para sua organização criando relatórios personalizados do Power BI com base em relatórios de caixa de correio ou do zero.<br> Crie painéis e portais personalizados do Power BI para ajudar a atender às necessidades organizacionais específicas. | Não | Não | Sim | Sim |
 |**Usabilidade** ||||||
-|Coautoria | Trabalhe em conjunto com os participantes e os membros da equipe para criar, editar e atualizar simultaneamente listas de tarefas, cronogramas de projeto e muito mais.| Somente exibição | Sim | Sim | Sim |
+|Coautoria | Trabalhe em conjunto com os participantes e membros da equipe para criar, editar e atualizar simultaneamente listas de tarefas, cronogramas de projeto e muito mais.| Somente exibição | Sim | Sim | Sim |
 |Indicadores gráficos | Entenda o status da tarefa, as atribuições e muito mais com indicadores gráficos.| Somente exibição | Sim | Sim | Sim |
 |**Mobilidade** ||||||
 |Aplicativos móveis | Crie aplicativos móveis personalizados com o PowerApps. <sup>4</sup> |Não | Não | Sim | Sim |
@@ -213,7 +213,7 @@ Os recursos listados nesta seção interagem apenas com dados no armazenamento d
 |Caminho crítico | Acompanhe visualmente as tarefas que representam o caminho mais longo pelo projeto. |
 |Prazos | Estabeleça e acompanhe prazos importantes de projetos e tarefas. |
 |Dependências | Definir e rastrear visualmente dependências entre tarefas. |
-|Exibição de Gantt | Rastreia e compreenda visualmente as datas, dependências e atribuições do projeto em um exibição de Gantt hierárquico. |
+|Exibição de Gantt | Rastreia e compreende visualmente as datas, dependências e atribuições do projeto em uma exibição de Gantt hierárquica. |
 |Exibição de grade | Planejar e gerenciar projetos usando uma exibição de grade hierárquica de tarefas. |
 |Projetos principais | Agrupar projetos relacionados menores em um único projeto mestre. |
 |Marcos | Estabeleça e acompanhe importantes etapas de projeto e tarefa. |
@@ -251,7 +251,7 @@ Os recursos listados nesta seção interagem apenas com dados no armazenamento d
 ## <a name="service-considerations"></a>Considerações sobre o serviço
 
 > [!NOTE]
-> O Project para a Web atualmente não está disponível para GCC, GCC High e DoD. Estamos trabalhando na entrega do Project para a Web para você, mas não é possível compartilhar um período de tempo estabelecido no momento.
+> O Project para a Web está atualmente indisponível para GCC, GCC High e DoD. Estamos trabalhando na entrega do Project para a Web para você, mas não é possível compartilhar um período de tempo estabelecido no momento.
 
 ### <a name="licensing-considerations"></a>Considerações sobre licenciamento
 
@@ -263,7 +263,7 @@ Os recursos listados nesta seção interagem apenas com dados no armazenamento d
 
 ### <a name="use-of-sharepoint-online"></a>Usar o SharePoint Online
 
-O Project Online requer o uso do SharePoint Online, que é provisionado como parte do Project Online. Os direitos à funcionalidade do SharePoint Online fornecida com assinaturas do Project Plano 3 ou do Project Plan 5 são limitados ao armazenamento e ao acesso a dados para dar suporte ao Project Online.
+O Project Online requer o uso do SharePoint Online, que é provisionado como parte do Project Online. Os direitos à funcionalidade do SharePoint Online fornecida com assinaturas do Project Plano 3 ou do Project Plan 5 estão limitados a armazenar e acessar dados para dar suporte ao Project Online.
 
 ### <a name="project-roadmap-and-power-automate"></a>Mapa do Project e Power Automate
 
@@ -274,6 +274,14 @@ O Project Roadmap requer o uso do Power Automate, que é provisionado como parte
 O Project para a Web requer o uso do Dataverso da Microsoft para armazenar seus dados. Um banco de dados do Microsoft Dataverse é provisionado como parte da sua assinatura do Project. Os direitos à funcionalidade do Microsoft Dataverse estão limitados a armazenar e acessar dados para dar suporte ao Project para a Web. A funcionalidade do Microsoft Dataverse exigida pelo Project aparece como  o plano de serviço Common **Data Service para o Project** na seção Aplicativos do Centro de administração do Microsoft 365.
 
 Para clientes do Project com cinco (5) ou mais licenças do Project para a Web, os clientes do Project para a Web podem implantar em ambientes power platform production e áreas de áreas de trabalho.
+
+| Capacidade incluída/acumulada                                      | Project P1 | Project P3 | Project P5 |
+|--------------------------------------------------------------------|------------|------------|------------|
+| Banco de dados dataverse (anteriormente common data service) : incluído/locatário | 3 GB        | 5 GB        | 5 GB        |
+| Banco de dados dataverso: licença acumulada/de assinatura de usuário (USL)        | 50 MB       | 250 MB      | 250 MB      |
+| Log do dataverso: Incluído/locatário                                     | 2 GB        | 2 GB        | 2 GB        |
+| Arquivo Dataverse: Incluído/locatário                                    | 20 GB       | 20 GB       | 20 GB       |
+| Arquivo Dataverse: Accrued/USL                                        | 400 MB      | 2 GB        | 2 GB        |
 
 ### <a name="data-backup-and-retention"></a>Backup e retenção de dados
 
