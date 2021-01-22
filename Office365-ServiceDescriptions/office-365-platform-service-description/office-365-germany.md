@@ -8,21 +8,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
-description: Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com residências de dados na Alemanha e medidas de controle e acesso de dados estritos por meio de um modelo de confiança de dados exclusivo regido em lei alemão.
-ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: O Office 365 Germany é uma opção diferenciada dos serviços do Office 365 já disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados da Alemanha, da União Europeia (UE) e da EfTA (Associação Europeia de Livre Comércio), fornecendo nossos serviços de produtividade líderes do setor para trabalho digital, a partir de data centers alemães, com residência de dados na Alemanha e medidas estritas de acesso e controle de dados por meio de um modelo de data trustee exclusivo regido pelas leis alemãs.
+ms.openlocfilehash: 7d8fcf36c96f6dc8403296fde4e77165eea0e3da
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518822"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919774"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
-Office 365 Alemanha é uma opção diferenciada dos serviços do Office 365 que já estão disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados na Alemanha, na União Europeia (UE) e na Associação Européia (EFTA) ao fornecer nossos serviços de produtividade líderes do setor para trabalho digital, de data centers em alemão, com residências de dados na Alemanha e medidas de controle e acesso de dados estritos por meio de um modelo de confiança de dados exclusivo regido em lei alemão.
+O Office 365 Germany é uma opção diferenciada dos serviços do Office 365 já disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados da Alemanha, da União Europeia (UE) e da EfTA (Associação Europeia de Livre Comércio), fornecendo nossos serviços de produtividade líderes do setor para trabalho digital, a partir de data centers alemães, com residência de dados na Alemanha e medidas estritas de acesso e controle de dados por meio de um modelo de data trustee exclusivo regido pelas leis alemãs.
 
 O objeto de confiança de dados, T-Systems International, uma empresa alemã independente e subsidiária da Deutsche Telekom, controla o acesso lógico e físico aos dados dos clientes. Os dados dos clientes não podem ser acessados sem a aprovação ou a supervisão do objeto de confiança de dados, que é regido pelas leis alemãs.
 
-Com base nessa evolução nas necessidades dos clientes, nossa estratégia de nuvem para a Alemanha se concentrará na entrega das novas regiões de nuvem na Alemanha que são consistentes com nossa oferta global de nuvem. Com esse foco, não vamos mais aceitar novos clientes ou implantar novos serviços da Alemanha atualmente disponível do Microsoft Cloud. Os clientes existentes podem continuar a usar os serviços de nuvem atuais disponíveis atualmente, que serão mantidos com as atualizações de segurança necessárias. [Saiba mais sobre o Office 365 Alemanha](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c).
+Com base nessa evolução nas necessidades dos clientes, nossa estratégia de nuvem para a Alemanha se concentrará na entrega das novas regiões de nuvem na Alemanha que são consistentes com nossa oferta de nuvem global. Com esse foco, não aceitaremos mais novos clientes ou implantaremos novos serviços do Microsoft Cloud Germany atualmente disponível. Os clientes existentes podem continuar a usar os serviços de nuvem atuais disponíveis atualmente, que manteremos com as atualizações de segurança necessárias. [Saiba mais sobre o Office 365 Germany.](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c)
 
 ## <a name="service-availability-for-each-plan"></a>Disponibilidade do serviço para cada plano
 
@@ -30,7 +30,7 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 
 | Serviço | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Office 365 plataforma <sup>1</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Plataforma <sup>1</sup> do Office 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Exchange Online|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |SharePoint Online|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |OneDrive for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
@@ -40,26 +40,26 @@ Cada plano do Office 365 Germany inclui alguns serviços individuais, como o Exc
 |Project Online <sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Power BI <sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Visio para a Web <sup>4</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Yammer Enterprise|N/D|N/D|N/D|N/D|N/D|N/D|N/D|N/D|
+|Yammer Enterprise|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|Não disponível|
 |Proteção de Informações do Azure|Não|Não|Não|Não|Não|Não|Não|Não|
 
 > [!NOTE]
-> <sup>1</sup> serviço de assinatura baseado em nuvem com recursos relacionados, incluindo o centro de administração do Microsoft 365, onde você pode configurar usuários e domínios. <br/>
+> <sup>1</sup> Serviço de assinatura baseada em nuvem com recursos relacionados, incluindo o centro de administração do Microsoft 365, onde você pode configurar usuários e domínios. <br/>
 <sup>2</sup> Compre um plano do Office 365 ProPlus separadamente. O Office 365 ProPlus está incluído no Office 365 Germany Enterprise E3 e no Office 365 Germany Enterprise E4. [A autenticação moderna](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) deve ser habilitada para uso com o Office 365 Germany. <br/>
-<sup>3</sup> o Project online e o Power bi não estão incluídos, mas podem ser comprados como um serviço complementar separado ou adicionados gratuitamente ao plano de educação do Office 365 Alemanha a1. <br/>
-<sup>4</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md).
+<sup>3</sup> O Project Online e o Power BI não estão incluídos, mas podem ser adquiridos como um serviço de complemento separado ou adicionados gratuitamente ao plano Office 365 Germany Education A1. <br/>
+<sup>4</sup> O Visio para consumo da Web (recurso de exibição) está disponível gratuitamente. Os recursos de criação e edição do Visio para a Web exigem uma licença. Para obter mais informações sobre o Visio para a Web, consulte a descrição do serviço Web do [Visio.](../visio-online-service-description/visio-online-service-description.md)
 
 ## <a name="system-requirements"></a>Requisitos do sistema
 
 Confira os requisitos de sistema do Office 365 em [Requisitos de sistema do Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) no site de produtos do [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409).
 
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>&amp;Disponibilidade do centro de conformidade de segurança no Office 365 Alemanha
+## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Disponibilidade &amp; do Centro de Conformidade de Segurança no Office 365 Germany
 
-O centro de conformidade de segurança &amp; está disponível para o Office 365 Alemanha. Para obter mais informações e uma lista de recursos, consulte o [ &amp; centro de conformidade de segurança do Office 365](office-365-securitycompliance-center.md).
+O Centro &amp; de Conformidade de Segurança está disponível para o Office 365 Germany. Para obter mais informações e uma lista de recursos, consulte o Centro de Conformidade de Segurança [do Office 365. &amp; ](office-365-securitycompliance-center.md)
 
-### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Quais certificados de conformidade são fornecidos para o Office 365 Alemanha?
+### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Quais certificados de conformidade são fornecidos para o Office 365 Germany?
 
-O Office 365 Alemanha obedece aos padrões de conformidade e segurança na nuvem do Office 365. O Office 365 oferece um conjunto abrangente de certificações, avaliados de forma independente por auditores credenciados como parte dos controles de organização de serviço (SOC), organização internacional para a padronização (ISO) e auditorias. As certificações incluem ISO 27001/27002, 27017, 27018 e SOC 1 e 2. Os controles de confiança de dados adicionais no Office 365 Germany serão avaliados por avaliadores independentes como parte da nossas auditorias ISO e SOC anuais.
+O Office 365 Germany segue os padrões de conformidade e segurança na nuvem do Office 365. O Office 365 oferece um conjunto abrangente de certificações, avaliados independentemente por auditores credenciados como parte dos Controles da Organização de Serviço (SOC), Organização Internacional para Padronização (ISO) e auditorias. As certificações incluem ISO 27001/27002, 27017, 27018 e SOC 1 e 2. Os controles de confiança de dados adicionais no Office 365 Germany serão avaliados por avaliadores independentes como parte da nossas auditorias ISO e SOC anuais.
 
 ## <a name="platform-features"></a>Recursos da plataforma 
 
@@ -71,11 +71,11 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 | Recurso | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Recursos de Administração do Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-germany&preserve-view=true#admin-center-features-and-settings)**|||||||||
-|Administrar o Office 365 usando o centro de administração do Microsoft 365 ou o Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Administrar o Office 365 usando o Centro de administração do Microsoft 365 ou o Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Proteger o conteúdo usando a Proteção de Informações do Azure|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não|Não|Não<sup>2</sup>|
 |**[Recursos do Pacote do Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Bookings|Não|Não|Não|Não|Não|Não|Não|Não|
-|Email de resumo da Microsoft|Não|Não|Não|Não|Não|Não|Não|Não|
+|Email do Microsoft Briefing|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Power Automate|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft Forms|Não|Não|Não|Não|Não|Não|Não|Não|
 |Microsoft MyAnalytics|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -88,9 +88,9 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Grupos do Office 365|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Vídeo do Office 365|Não|Não|Não|Sim|Sim|Sim|Sim|Não|
 |**[Gerenciamento de contas de usuário](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Identidade de nuvem, identidade federada ou autenticação multifator|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Identidade de nuvem, identidade federada ou autenticação multifato|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Configuração de área de trabalho do Office 365|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Carregamento em massa usando arquivos. csv|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Carregamento em massa usando arquivos .csv|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Ferramenta de Sincronização de Diretórios|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Migração simples (substituição) do Exchange|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Excluir contas e redefinir senhas de usuários do Office 365 ou usando o Windows PowerShell<sup>3</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -107,16 +107,16 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Adicionar até 900 domínios personalizados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Registros DNS gerenciados pelo Office 365 (redelegação completa)|Sim|Sim|Sim|Sim|Não|Sim|Sim|Sim|
 |Registros DNS gerenciados em seu provedor de hospedagem de DNS (redelegação parcial)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Usar o domínio **Name.onmicrosoft.de** ou um nome de domínio personalizado para endereços de email e para o Skype for Business Online <sup>8</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Usar **name.onmicrosoft.de** domínio ou um nome de domínio personalizado para endereços de email e Skype for Business Online <sup>8</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Usar o **nome.sharepoint.de** para seu site de equipe|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Usar um nome de domínio personalizado para seu site de equipe<sup>7</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |Hospedar um site público com um provedor diferente|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Usar um provedor diferente para email e IM|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Verificação de propriedade de domínio necessária para domínios personalizados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy|Não|Não|Não|Não|Não|Não|Não|Não|
-|**[Continuidade e integridade do serviço](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Saúde e continuidade do serviço](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Status de alertas individuais disponíveis no painel do centro de administração do 365 da Microsoft|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Status de alertas individuais disponíveis no painel do Centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RSS feed de **Integridade do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Relatórios](reports.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Caixas postais ativas e inativas|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -156,7 +156,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Protocolos IPv4 e IPv6|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**Confiança**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[Privacidade, segurança e transparência](privacy-security-and-transparency.md)**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Microsoft Defender para Office 365|Não|Não|Não|Não|Não|Não|Sim|Não|
+|Obter o Microsoft Defender para Office 365|Não|Não|Não|Não|Não|Não|Sim|Não|
 |Sistema de Proteção de Dados do Cliente|Não|Não|Não|Não|Não|Não|Sim|Não|
 |Descoberta Eletrônica Avançada|Não|Não|Não|Não|Não|Não|Não|Não|
 |Classificação de Segurança|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -169,7 +169,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Autoridade FISMA para Operar|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acordo de processamento de dados da Microsoft|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Dados de PAN controlados por PCI|Não|Não|Não|Não|Não|Não|Não|Não|
-|**[Continuidade de serviço](service-health-and-continuity.md)**|||||||||
+|**[Continuidade do serviço](service-health-and-continuity.md)**|||||||||
 |**[BlackBerry](blackberry.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Usar BIS (BlackBerry Internet Service)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Parceiros](partners.md)**|||||||||
@@ -179,44 +179,44 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |**[Direitos de uso do produto](product-use-rights.md)**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 
 > [!NOTE]
-> <sup>1</sup> o Office 365 Alemanha não fornece suporte para sistemas operacionais que não sejam suportados pelo fabricante.<br/>
-<sup>2</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e habilitar os recursos de IRM (gerenciamento de direitos de informação) compatíveis. Alguns recursos de proteção de informações do Azure exigem uma assinatura do Office 365 ProPlus, que não está incluído no Office 365 Alemanha Business Essentials, Office 365 Alemanha Business Premium, Office 365 Alemanha Enterprise E1, Office 365 Alemanha Education a1 ou Office 365 Alemanha Enterprise K1.<br/>
+> <sup>1</sup> O Office 365 Germany não oferece suporte a nenhum sistema operacional que não seja suportado pelo fabricante.<br/>
+2 A Proteção de Informações do Azure não está incluída, mas pode ser adquirida como um complemento separado e <sup>habilita</sup> os recursos de IRM (Gerenciamento de Direitos de Informação) com suporte. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Office 365 ProPlus, que não está incluída no Office 365 Germany Business Essentials, no Office 365 Germany Business Premium, no Office 365 Germany Enterprise E1, no Office 365 Germany Education A1 ou no Office 365 Germany Enterprise K1.<br/>
 <sup>3</sup> Quando você usa a sincronização de diretórios com um Microsoft Active Directory local, deve excluir as contas ou alterar as senhas usando este serviço, em vez de usar o portal do Office 365 ou o módulo do Azure Active Directory para Windows PowerShell.<br/>
 <sup>4</sup> Saiba como configurar as políticas de gerenciamento de autoatendimento de redefinição de senha para usuários em [Gerenciar Senhas no Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/).<br/>
 <sup>5</sup> Reduzir usuários adquiridos com um desconto pode estar sujeito a uma taxa de cancelamento antecipado. Isso não se aplica a assinaturas pagas mensalmente.<br/>
-<sup>6</sup> o Office 365 Alemanha Education a1 Plans não oferecem suporte a alterações de assentos de licenças do centro de administração do Microsoft 365.<br/>
-<sup>7</sup> o direito de usar aplicativos de software cliente, como o Office 365 ProPlus Office 2016, e o Office 2013 está incluído em alguns planos do Office 365 na Alemanha. Os aplicativos de software cliente são executados no dispositivo de um usuário final, em vez de em datacenters na Alemanha. Para fins de contrato com a Microsoft, os aplicativos de software cliente não são [Serviços Online alemães](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Os aplicativos de software cliente também podem lry um usuário final de acessar serviços online que não são serviços online em alemão. Os compromissos de residência de dados alemães e o controle de acesso do objeto de confiança de dados alemão se aplicam somente aos Serviços Online alemães.<br/>
-<sup>8</sup> a [autenticação moderna](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) deve estar habilitada para uso com o Office 365 Alemanha.<br/>
-<sup>9</sup> Office 365 Alemanha é desenvolvido em conformidade com os padrões de segurança e conformidade de nuvem do Office 365. O Office 365 oferece um amplo conjunto de certificações, avaliados independentemente por auditores credenciados como parte do SOC, ISO e auditorias. Entre as certificações estão ISO 27001/27002, 27017, 27018 e SOC 1 &amp; 2. Os controles de confiança de dados adicionais no Office 365 Germany serão avaliados por avaliadores independentes como parte da nossas auditorias ISO e SOC anuais.
+<sup>6 Os</sup> planos do Office 365 Germany Education A1 não são suportados para alterações de licença do Centro de administração do Microsoft 365.<br/>
+<sup>7</sup> O direito de usar aplicativos de software cliente, como o Office 365 ProPlus Office 2016 e o Office 2013, está incluído em alguns planos do Office 365 Germany. Os aplicativos de software cliente são executados no dispositivo de um usuário final, em vez de em datacenters na Alemanha. Para fins de contrato com a Microsoft, os aplicativos de software cliente não são [Serviços Online alemães](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Os aplicativos de software cliente também podem exigir que um usuário final acesse serviços online que não sejam serviços online alemães. Os compromissos de residência de dados alemães e o controle de acesso do objeto de confiança de dados alemão se aplicam somente aos Serviços Online alemães.<br/>
+<sup>8</sup> [A autenticação moderna](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) deve estar habilitada para uso com o Office 365 Germany.<br/>
+<sup>9</sup> O Office 365 Germany foi criado de acordo com os padrões de conformidade e segurança na nuvem do Office 365. O Office 365 oferece um amplo conjunto de certificações, avaliados independentemente por auditores credenciados como parte do SOC, ISO e auditorias. Entre as certificações estão ISO 27001/27002, 27017, 27018 e SOC 1 &amp; 2. Os controles de confiança de dados adicionais no Office 365 Germany serão avaliados por avaliadores independentes como parte da nossas auditorias ISO e SOC anuais.
 
 ## <a name="office-application-features"></a>Recursos do aplicativo do Office  
 
 > [!NOTE]
-> Os planos do Office 365 Germany incluem aplicativos de software cliente que são instalados e executados no dispositivo do usuário final ("aplicativos de software cliente"), como Office 2013 ProPlus, Office 2016\* e Office 3. Os aplicativos de software cliente não operam exclusivamente em data centers em alemão e podem permitir que um usuário final acesse serviços online que não sejam [serviços online em alemão](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Para fins de contrato com a Microsoft, os aplicativos de software cliente não são Serviços Online Alemães. Os compromissos alemães de residência de dados e o controle de acesso pelo objeto de confiança de dados alemão se aplicam somente aos Serviços Online Alemães.<br/> \*O Office 2013 para Office 365 Germany requer que a [autenticação moderna seja habilitada](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
+> Os planos do Office 365 Germany incluem aplicativos de software cliente que são instalados e executados no dispositivo do usuário final ("aplicativos de software cliente"), como Office 2013 ProPlus, Office 2016\* e Office 3. Os aplicativos de software cliente não operam exclusivamente em data centers alemães e podem permitir que um usuário final acesse serviços online que não sejam serviços [online alemães.](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58) Para fins de contrato com a Microsoft, os aplicativos de software cliente não são Serviços Online Alemães. Os compromissos alemães de residência de dados e o controle de acesso pelo objeto de confiança de dados alemão se aplicam somente aos Serviços Online Alemães.<br/> \*O Office 2013 para Office 365 Germany requer que a [autenticação moderna seja habilitada](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
 
 Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos do Office 365 Germany.<br><br>
 
-| Recurso | Office 365 Germany Business | Office 365 Germany Business Essentials | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Alemanha Enterprise E3<sup>9</sup> | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
+| Recurso | Office 365 Germany Business | Office 365 Germany Business Essentials | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3<sup>9</sup> | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Aplicativos do Office**<sup>1, &nbsp; 2</sup>|||||||||
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher)|Sim<sup>10</sup>|Não|Sim<sup>10</sup>|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher)|Sim<sup>10</sup>|Não|Sim<sup>10</sup>|Não<sup>7</sup>|Não|Sim|Sim|Não|
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim|Sim|Sim<sup>6</sup>|
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Não|Não|Não|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Não|Não|Não|Não<sup>7</sup>|Não|Sim|Sim|Não|
 |[Aplicativos do Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|[Office para Mac para o Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Sim|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
-|Outlook para Android<sup>11</sup>|Não|Não|Não|Nenhum<sup>7</sup>|Não|Não|Não|Não|
-|**Valor corporativo**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|5 instalações por usuário em PC ou Mac|Sim<sup>8</sup>|Não|Sim|Nenhum<sup>7</sup>|Não|Sim|Sim|Não|
+|[Office para Mac para o Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Sim|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
+|Outlook para Android<sup>11</sup>|Não|Não|Não|Não<sup>7</sup>|Não|Não|Não|Não|
+|**Valor da empresa**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|5 instalações por usuário em PC ou Mac|Sim<sup>8</sup>|Não|Sim|Não<sup>7</sup>|Não|Sim|Sim|Não|
 |Provisionamento automatizado de contas de usuário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Interface de usuário multilíngue|Não|Não|Sim|Não|Não|Sim|Sim|Não|
 |Implantação de push de cliente|Sim|Sim|Sim|Não|Não|Sim|Sim|Não|
@@ -227,11 +227,11 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
 |Virtualização de área de trabalho|Não|Não|Não|Não|Não|Sim|Sim|Não|
 |Comparação de planilhas do Excel|Não|Não|Não|Não|Não|Sim|Sim|Não|
 |Pesquisa de planilhas do Excel|Não|Não|Não|Não|Não|Sim|Sim|Não|
-|Conformidade e arquivamento do Exchange Online e do SharePoint Online|Sim|Não|Sim<sup>5</sup>|Não|Não|Sim|Sim|Não|
+|Arquivamento e conformidade do Exchange Online e do SharePoint Online|Sim|Não|Sim<sup>5</sup>|Não|Não|Sim|Sim|Não|
 |Suporte à Política de Grupo|Não|Não|Não|Não|Não|Sim|Sim|Não|
-|Gerenciamento de direitos de informação usando a proteção de informações do Azure<sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
-|Gerenciamento de direitos de informação usando o Windows Server AD RMS<sup>4</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
-|Suporte a suplemento do Office, ActiveX e BHO|Não|Não|Sim|Não|Não|Sim|Sim|Não|
+|Gerenciamento de Direitos de Informação usando a Proteção de Informações do Azure<sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
+|Gerenciamento de Direitos de Informação usando o Windows Server AD RMS<sup>4</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
+|Suporte a add-in, ActiveX e BHO do Office|Não|Não|Sim|Não|Não|Sim|Sim|Não|
 |Acesso de cliente do OneNote aos blocos de anotações no SharePoint Server, SharePoint Online, OneDrive for Business e Office 365|Sim|Não|Sim|Não|Não|Sim|Sim|Não|
 |Office Lens|Não|Não|Não|Não|Não|Não|Não|Não|
 |Telemetria do Office|Não|Não|Não|Não|Não|Sim|Sim|Não|
@@ -248,17 +248,17 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
 |Volume activation (KMS/MAK)|Não|Não|Não|Não|Não|Não|Não|Não|
 
 > [!NOTE]
-> <sup>1</sup> os planos da Alemanha do Office 365 incluem aplicativos de software cliente que são instalados e executados no dispositivo do usuário final ("aplicativos de software cliente"), como o Office 365 ProPlus, o Office 2013 e o Office 2016. Os aplicativos de software cliente não operam exclusivamente em data centers em alemão e podem permitir que um usuário final acesse serviços online que não sejam serviços online em alemão. Para fins de contrato com a Microsoft, os aplicativos de software cliente não são Serviços Online Alemães. Os compromissos alemães de residência de dados e o controle de acesso pelo objeto de confiança de dados alemão se aplicam somente aos Serviços Online Alemães.<br/>
+> <sup>1</sup> Os planos do Office 365 Germany incluem aplicativos de software cliente instalados e executados no dispositivo do usuário final ("aplicativos de software cliente"), como o Office 365 ProPlus, o Office 2013 e o Office 2016. Os aplicativos de software cliente não operam exclusivamente em data centers alemães e podem permitir que um usuário final acesse serviços online que não sejam serviços online alemães. Para fins de contrato com a Microsoft, os aplicativos de software cliente não são Serviços Online Alemães. Os compromissos alemães de residência de dados e o controle de acesso pelo objeto de confiança de dados alemão se aplicam somente aos Serviços Online Alemães.<br/>
 <sup>2</sup> O Office 2013 exige que [modern authentication be enabled](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
-<sup>3</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado para habilitar os recursos de IRM compatíveis.<br/>
+<sup>3</sup> A Proteção de Informações do Azure não está incluída, mas pode ser adquirida como um complemento separado para habilitar os recursos de IRM com suporte.<br/>
 <sup>4</sup> O AD RMS para Windows Server é um servidor local que deve ser comprado e gerenciado separadamente para que os recursos de IRM com suporte sejam habilitados. <br/>
 <sup>5</sup> Se você tem o Office Professional Plus 2013 ou uma versão autônoma do Excel 2013, baixe e use o [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) como um suplemento sem suporte. <br/>
-<sup>6</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Germany Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, consulte [dektop Client Comparison Tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
+<sup>6</sup> O Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Germany Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, consulte [Dektop client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
 <sup>7</sup> Algumas escolas estão qualificadas para o Education Plus, que inclui o Office 365 ProPlus e permite que alunos, professores e funcionários instalem a versão mais recente do Office em até cinco computadores Mac ou PC e em outros dispositivos móveis, incluindo tablets com Windows e iPad. As escolas se qualificam para o Education Plus do Office 365 quando licenciam o Office em toda a instituição para professores e funcionários por meio do Registro para Soluções Educacionais, Soluções Educacionais de Assinatura Open Value ou um contrato escolar. Observe que o Access e o Publisher estão disponíveis apenas em PCs. O OneNote para Mac está disponível como um download separado na Mac App Store.<br/>
 <sup>8</sup> O Office 2011 for Mac pode ser instalado, mas não ativado. <br/>
 <sup>9</sup> A ativação de volume para o Office 365 Germany Enterprise E3 e Office 365 ProPlus é limitada a instalações no Windows Server 2008 R2 e mais recentes com instalações da função RDS habilitada ou do Windows To Go. Em ambos os casos, os usuários que acessam essas instalações precisam ter licenças do Office 365 Germany Enterprise E3 ou Office 365 ProPlus.<br/>
-<sup>10</sup> o acesso está disponível no momento se você estiver no canal atual ou no lançamento direcionado para o canal adiado. Se você está no Canal Adiado, o Access estará disponível em junho de 2017. Confira mais informações em [Access incluído como parte do Office 365 Business e Business Premium](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/>
-<sup>11</sup> não está disponível para o Office 365 Alemanha, mas está chegando em breve.
+<sup>O Access 10</sup> está disponível no momento se você estiver no Canal Atual ou no lançamento direcionado do Canal Adiado. Se você está no Canal Adiado, o Access estará disponível em junho de 2017. Confira mais informações em [Access incluído como parte do Office 365 Business e Business Premium](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/>
+<sup>11</sup> Não disponível para o Office 365 Germany, mas em breve.
 
 | Recurso | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
@@ -279,7 +279,7 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
 |[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Não|Sim|Sim|
 |[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Não|Sim|Sim|
 |Outlook para Android<sup>11</sup>|Não|Não|Não|
-|**Valor corporativo**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus**|
+|**Valor da empresa**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus**|
 |5 instalações por usuário em PC ou Mac|Não|Sim|Sim<sup>8</sup>|
 |Provisionamento automatizado de contas de usuário|N/D|Sim|Sim|
 |Interface de usuário multilíngue|Sim|Sim|Sim|
@@ -293,8 +293,8 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
 |Pesquisa de planilhas do Excel|Sim|Sim|Sim|
 |Armazenamento e conformidade do Exchange Online e do SharePoint Online|Sim<sup>3</sup>|Sim|Sim<sup>3</sup>|
 |Suporte à Política de Grupo|Sim|Sim|Sim|
-|Gerenciamento de direitos de informação usando a proteção de informações do Azure<sup>4</sup>|Não|Não|Não|
-|Gerenciamento de direitos de informação usando o Windows Server AD RMS<sup>5</sup>|Não|Não|Não|
+|Gerenciamento de Direitos de Informação usando a Proteção de Informações do Azure<sup>4</sup>|Não|Não|Não|
+|Gerenciamento de Direitos de Informação usando o Windows Server AD RMS<sup>5</sup>|Não|Não|Não|
 |Suporte a suplementos do Office, ActiveX e BHO|Sim|Sim|Sim|
 |Acesso de cliente do OneNote aos blocos de anotações no SharePoint Server, SharePoint Online, OneDrive for Business e Office 365|Não|Sim|Sim|
 |Office Lens|Não|Não|Não|
@@ -309,30 +309,30 @@ Use as tabelas a seguir para comparar a disponibilidade de recursos nos planos d
 |Ativação de computador compartilhado|Não|Não|Sim|
 |Suporte a bloqueio de armazenamento de arquivo baseado em nuvem|Sim|Sim|Sim|
 |Atualizações de versão|Não|Sim|Sim|
-|Volume activation (KMS/MAK)|Sim|Sim|No<sup>10</sup>|
+|Volume activation (KMS/MAK)|Sim|Sim|Não<sup>10</sup>|
 
 > [!NOTE]
-> <sup>1</sup> os planos da Alemanha do Office 365 incluem aplicativos de software cliente que são instalados e executados no dispositivo do usuário final ("aplicativos de software cliente"), como o Office 365 ProPlus, o Office 2013 e o Office 2016. Os aplicativos de software cliente não operam exclusivamente em data centers em alemão e podem permitir que um usuário final acesse serviços online que não sejam serviços online em alemão. Para fins de contrato com a Microsoft, os aplicativos de software cliente não são Serviços Online Alemães. Os compromissos alemães de residência de dados e o controle de acesso pelo objeto de confiança de dados alemão se aplicam somente aos Serviços Online Alemães.<br/>
+> <sup>1</sup> Os planos do Office 365 Germany incluem aplicativos de software cliente instalados e executados no dispositivo do usuário final ("aplicativos de software cliente"), como o Office 365 ProPlus, o Office 2013 e o Office 2016. Os aplicativos de software cliente não operam exclusivamente em data centers alemães e podem permitir que um usuário final acesse serviços online que não sejam serviços online alemães. Para fins de contrato com a Microsoft, os aplicativos de software cliente não são Serviços Online Alemães. Os compromissos alemães de residência de dados e o controle de acesso pelo objeto de confiança de dados alemão se aplicam somente aos Serviços Online Alemães.<br/>
 <sup>2</sup> O Office 2013 exige que [modern authentication be enabled](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
-<sup>3</sup> Os recursos de armazenamento em arquivo morto e conformidade são compatíveis com esta versão do Office, mas os planos do Exchange Online e do SharePoint Online não estão incluídos e devem ser adquiridos separadamente ou usados com os equivalentes com suporte do servidor local.<br/> <sup>4</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado para habilitar os recursos de IRM compatíveis.<br/> <sup>5</sup> O AD RMS para Windows Server é um servidor local que precisa ser adquirido e gerenciado separadamente de forma a permitir os recursos de IRM com suporte.<br/>
+<sup>3</sup> Os recursos de armazenamento em arquivo morto e conformidade são compatíveis com esta versão do Office, mas os planos do Exchange Online e do SharePoint Online não estão incluídos e devem ser adquiridos separadamente ou usados com os equivalentes com suporte do servidor local.<br/> <sup>4</sup> A Proteção de Informações do Azure não está incluída, mas pode ser adquirida como um complemento separado para habilitar os recursos de IRM com suporte.<br/> <sup>5</sup> O AD RMS para Windows Server é um servidor local que precisa ser adquirido e gerenciado separadamente de forma a permitir os recursos de IRM com suporte.<br/>
 <sup>6</sup> Se você tiver o Office Professional Plus 2013 ou uma versão autônoma do Excel 2013, baixe e use o [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) como um suplemento não compatível.<br/>
-<sup>7</sup> o Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
+<sup>7</sup> O Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype, que englobam recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. Deve ser atribuída uma licença do Skype for Business online a cada usuário. Para obter mais informações sobre os recursos do Lync Basic, consulte Tabelas de comparação do cliente [da área de trabalho.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/>
 <sup>8</sup> O Office 2011 for Mac pode ser instalado, mas não ativado.<br/>
-<sup>9</sup> o Office 365 ProPlus é compatível com a infraestrutura de área de trabalho virtual (VDI) dedicada do usuário. O Office 365 ProPlus ProPlus só dá suporte a RDS (Serviços de Área de Trabalho Remota) quando adquirido por meio de um Programa de Licenciamento por Volume.<br/>
+<sup>9</sup> O Office 365 ProPlus é suportado na VDI (infraestrutura de área de trabalho virtual) dedicada ao usuário. O Office 365 ProPlus ProPlus só dá suporte a RDS (Serviços de Área de Trabalho Remota) quando adquirido por meio de um Programa de Licenciamento por Volume.<br/>
 <sup>10</sup> A ativação de volume para o Office 365 Germany Enterprise E3 e Office 365 ProPlus é limitada a instalações no Windows Server 2008 R2 e mais recentes com instalações da função RDS habilitada ou do Windows To Go. Em ambos os casos, os usuários que acessam essas instalações precisam ter licenças do Office 365 Germany Enterprise E3 ou Office 365 ProPlus.<br/>
-<sup>11</sup> não está disponível para o Office 365 Alemanha, mas está chegando em breve.
+<sup>11</sup> Não disponível para o Office 365 Germany, mas em breve.
 
-## <a name="office-for-the-web-features"></a>Office para recursos da Web
+## <a name="office-for-the-web-features"></a>Recursos do Office para a Web
 
-A tabela a seguir fornece links para comparações do Office para os recursos de recurso Web disponíveis no Office 365 Alemanha Plans to feature-rich Microsoft Office Desktop apps. Use as comparações para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização podem precisar da capacidade de gráfico avançado do aplicativo da área de trabalho do Excel, enquanto outras podem precisar apenas exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web.
+A tabela a seguir fornece links para comparações dos recursos do Office para a Web disponíveis nos planos do Office 365 Germany para aplicativos da área de trabalho do Microsoft Office com recursos avançados. Use as comparações para descobrir quais recursos estão disponíveis no Office para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização podem precisar do recurso de gráfico avançado do aplicativo da área de trabalho Excel, enquanto outros talvez precisem apenas exibir e editar levemente documentos do Word e apresentações do PowerPoint com o Office para a Web.
 
 > [!NOTE]
 > - Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. A tabela não é uma lista abrangente de recursos do Microsoft Office. <br/>
 > - O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente. <br/>
-> - Os clientes locais do Microsoft Office Web Apps Server 2013 recebem uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como o Office Professional Plus, Office Standard ou uma licença do Office 365 ProPlus). <br/>
-> - Devido à natureza do Office 365 Alemanha, há alguns recursos que ainda não foram habilitados. Você verá os serviços chegarem próximos à paridade completa de recursos com serviços globais ao longo do tempo.
+> - Os clientes locais do Microsoft Office Web Apps Server 2013 receberão uma licença de edição da Web do Office se adquirirem uma licença do pacote de área de trabalho do Office (como uma licença do Office Professional Plus, do Office Standard ou do Office 365 ProPlus). <br/>
+> - Devido à natureza do Office 365 Germany, existem alguns recursos que ainda não foram habilitados. Você verá os serviços chegarem próximos à paridade completa de recursos com serviços globais ao longo do tempo.
 
-| Application | Office na Web | Link para a comparação detalhada de recursos |
+| Aplicativo | Office na Web | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
 |Word|Word para a Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -346,7 +346,7 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 | Recurso | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Planejamento e implantação](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
-|Implantação híbrida suportada<sup>1</sup>|Sim<sup>2</sup>|Sim|Sim<sup>2</sup>|Sim|Sim|Sim|Sim|Sim|
+|Implantação híbrida<sup>suportada 1</sup>|Sim<sup>2</sup>|Sim|Sim<sup>2</sup>|Sim|Sim|Sim|Sim|Sim|
 |Suporte para migração IMAP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte para migração de substituição|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Suporte para migração em estágios|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -359,9 +359,9 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Arquivamento baseado em nuvem de caixas de correio no local|Não|Não|Não|Sim|Sim|Sim|Sim|Não|
 |Marcas e políticas de retenção|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Criptografia de dados de tempo de parada (BitLocker)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|IRM usando a proteção de informações do Azure<sup>3</sup>|No<sup>4</sup>|No<sup>4</sup>|No<sup>4</sup>|No<sup>4</sup>|No<sup>4</sup>|Não|Não|No<sup>4</sup>|
-|IRM usando Windows Server AD RMS<sup>3</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|Nenhum<sup>5</sup>|
-|Criptografia de mensagem do Office 365|No<sup>4</sup>|No<sup>4</sup>|No<sup>4</sup>|No<sup>4</sup>|No<sup>4</sup>|Sim|Sim|No<sup>4</sup>|
+|IRM usando a Proteção de Informações do Azure<sup>3</sup>|Não<sup>4</sup>|Não<sup>4</sup>|Não<sup>4</sup>|Não<sup>4</sup>|Não<sup>4</sup>|Não|Não|Não<sup>4</sup>|
+|IRM usando o Windows Server AD RMS<sup>3</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|
+|Criptografia de mensagem do Office 365|Não<sup>4</sup>|Não<sup>4</sup>|Não<sup>4</sup>|Não<sup>4</sup>|Não<sup>4</sup>|Sim|Sim|Não<sup>4</sup>|
 |S/MIME|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim||
 |Bloqueio In-loco e Retenção de Litígio|Não|--|Não|Sim|Não|Sim|Sim|Não|
 |Descoberta Eletrônica In-loco|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim|
@@ -369,42 +369,42 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Prevenção contra perda de dados|Não|Não|Não|Não|Não|Sim|Sim|Não|
 |Registro em Diário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Proteção antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Proteção antispam interna|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Proteção anti-spam integrado|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Customize anti-spam policies|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
-|Proteção Antimalware interna|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|
+|Proteção anti-malware integrado|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|
 |Customize antimalware policies|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Microsoft Defender para Office 365|Não|--|Não|Não|Não|Não|Sim|Não|
+|Obter o Microsoft Defender para Office 365|Não|--|Não|Não|Não|Não|Sim|Não|
 |**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conditional mail routing|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Adicionando um parceiro a uma lista segura de entrada|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Adicionando um parceiro a uma lista de segurança de entrada|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Roteamento de email híbrido|Sim<sup>2</sup>|--|Sim<sup>2</sup>|Sim|Sim|Sim|Sim|Sim|
 |**[Destinatários](../exchange-online-service-description/recipients.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Alertas de capacidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Email secundário<sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
+|Clutter<sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
 |MailTips|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso de representante|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Regras da Caixa de Entrada|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Contas conectadas|Sim|Sim|Sim|Sim<sup>10</sup>|Sim<sup>10</sup>|Sim<sup>10</sup>|Sim<sup>10</sup>|Sim<sup>10</sup>|
-|Caixas de correio inativas|No<sup>11</sup>|--|No<sup>11</sup>|Sim|No<sup>11</sup>|Sim|Sim|No<sup>11</sup>|
+|Caixas de correio inativas|Não<sup>11</sup>|--|Não<sup>11</sup>|Sim|Não<sup>11</sup>|Sim|Sim|Não<sup>11</sup>|
 |Offline address book|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Políticas do catálogo de endereços|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Catálogo de endereços hierárquico|Sim|--|Sim|Sim|Sim|Sim|Sim|Não|
-|Listas de endereços e lista de endereços global|Sim|Sim|Sim|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|
+|Listas de endereços e Lista de Endereços Global|Sim|Sim|Sim|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|
 |Grupos do Office 365|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Grupos de distribuição|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Contatos externos (global)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Cartão de contato universal|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Link de contato com redes sociais|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Cartão de visita universal|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Vinculação de contatos com redes sociais|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Caixas de correio de recurso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Gerenciamento da sala de conferência|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Respostas de Ausência Temporária|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compartilhamento de calendário|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Recursos de relatórios e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Relatórios do centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Relatórios do Centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Relatórios de serviços Web|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Message trace|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Relatórios de auditoria|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>5</sup>|
@@ -413,7 +413,7 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Compartilhamento federado (incluindo publicação de calendário)<sup>13</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Pastas públicas|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Clientes e dispositivos móveis](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Outlook para Windows<sup>14</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| No <sup>11</sup>|
+|Outlook para Windows<sup>14</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim| Não <sup>11</sup>|
 |Outlook na Web<sup>14</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Outlook para Mac<sup>14</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Outlook para iOS e Android<sup>14</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -426,7 +426,7 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |Caixa postal|Não|Não|Não|Não|Não|Sim|Sim|Não|
 |Integração entre caixa postal e FAX de terceiros|Não|Não|Não|Não|Não|Sim|Sim|Não|
 |Interoperabilidade de caixa postal de terceiros|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Integração do Skype for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Integração com o Skype for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Alta disponibilidade e continuidade de negócios](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Replicação de caixa de correio em data centers|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Recuperação da caixa de correio excluída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -435,33 +435,33 @@ A tabela a seguir exibe os recursos do Exchange Online que estão disponíveis n
 |**[Interoperabilidade, conectividade e compatibilidade](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Presença do Skype for Business no OWA<sup>3</sup> e no Outlook|Não|Não|Não|Não|Não|Não|Não|Não|
 |Interoperabilidade do SharePoint|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Suporte à conectividade do EWS|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Suporte a retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Suporte à conectividade EWS|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Suporte à retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Instalação e administração do Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Acesso ao portal do Microsoft Office 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Acesso ao centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Acesso ao Centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso ao centro de administração do Exchange|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Políticas do ActiveSync para dispositivos móveis|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Relatórios de uso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|**[Estendendo o serviço-personalização, suplementos e recursos](../exchange-online-service-description/exchange-online-service-description.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Suplementos do Outlook e MAPI do Outlook|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Não|
+|Relatório de uso|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|**[Estendendo o serviço - personalização, add-ins e recursos](../exchange-online-service-description/exchange-online-service-description.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|Outlook add-ins and Outlook MAPI|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim<sup>16</sup>|Não|
 
 > [!NOTE]
-> <sup>1</sup> o Exchange 2010 suporta apenas a implantação híbrida mínima. (A implantação híbrida completa não é suportada pelo Exchange 2010.) Para obter mais informações sobre a implantação híbrida mínima, consulte [usar a migração expressa para migrar caixas de correio do Exchange para o Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef).<br/>
-<sup>2</sup> o Office 365 Alemanha Business Essentials e o Office 365 Alemanha Business Premium não oferecem direitos de acesso para uso com os servidores locais. Para estar em conformidade, o cliente deve comprar ou ter adquirido previamente as CALs apropriadas ou atualizar para um SKU corporativo, que fornece esses direitos de acesso.<br/>
-<sup>3</sup> indisponível para o Office 365 Alemanha, mas estará chegando em breve.<br/>
-<sup>4</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um complemento separado (ou adicionada gratuitamente ao Office 365 Alemanha Education a1 Plan) para habilitar os recursos de IRM compatíveis. A criptografia de mensagem do Office 365 depende da proteção de informações do Azure.<br/>
+> <sup>1</sup> O Exchange 2010 suporta apenas a implantação híbrida mínima. (A implantação híbrida completa não é suportada pelo Exchange 2010.) Para saber mais sobre a implantação híbrida mínima, confira Usar a migração expressa para migrar caixas de correio [do Exchange para o Office 365.](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)<br/>
+<sup>2</sup> O Office 365 Germany Business Essentials e o Office 365 Germany Business Premium não fornecem direitos de acesso para utilização com servidores locais. Para estar em conformidade, o cliente deve comprar ou ter comprado anteriormente as CALs apropriadas ou atualizar para uma SKU Enterprise, que fornece esses direitos de acesso.<br/>
+<sup>3</sup> Não disponível para o Office 365 Germany, mas em breve.<br/>
+<sup>4</sup> A Proteção de Informações do Azure não está incluída, mas pode ser adquirida como um complemento separado (ou adicionada gratuitamente ao plano Office 365 Germany Education A1) para habilitar os recursos de IRM com suporte. A Criptografia de Mensagens do Office 365 depende da Proteção de Informações do Azure.<br/>
 <sup>5</sup> O AD RMS para Windows Server é um servidor local que precisa ser adquirido e gerenciado separadamente de forma a permitir os recursos de IRM com suporte.<br/>
-<sup>6</sup> para descoberta eletrônica, você precisa de uma consulta separada para o local vs. Cloud.<br/>
-<sup>7</sup> as regras de fluxo de emails (também conhecidas como regras de transporte) são formadas por critérios flexíveis, que permitem definir condições, exceções e ações a serem executadas com base nos critérios. As condições, exceções e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server. Para obter mais informações, consulte os tópicos correspondentes para cada produto.<br/>
-<sup>8</sup> acessível apenas via acesso direto à interface de gerenciamento do centro de administração do Exchange (Eat). <br/>
-<sup>9</sup> o Exchange Server 2013 usa apenas o mecanismo antimalware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. <br/> <sup>10</sup> contas conectadas têm suporte para &amp; contas POP IMAP, mas estão desabilitadas para o Outlook.com (Hotmail). <br/>
-<sup>11</sup> uma assinatura do EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa. <br/>
-<sup>12</sup> não há suporte para o uso de cmdlet para trabalhar com a lista de endereços e a lista de endereços global. <br/>
-<sup>13</sup> requer o uso do espaço de endereçamento de disponibilidade para dar suporte ao compartilhamento com outros locatários. Para obter mais informações sobre como criar um espaço de endereçamento de disponibilidade, consulte [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Table indica se o cliente funciona ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos.<br/>
-<sup>15</sup> há suporte para pop, mas não para IMAP.<br/>
-<sup>16</sup> algumas Web Parts e suplementos de terceiros podem não estar disponíveis.
+<sup>6</sup> Para a Descoberta eDiscovery, você precisa de uma consulta separada para a nuvem versus local.<br/>
+<sup>7</sup> As regras de fluxo de emails (também conhecidas como regras de transporte) são feitas de critérios flexíveis, que permitem definir condições, exceções e ações a ser tomadas com base nos critérios. As condições, exceções e ações disponíveis diferem entre o Exchange Online e o Microsoft Exchange Server. Para obter mais informações, consulte os tópicos correspondentes para cada produto.<br/>
+<sup>8</sup> Acessível somente por meio de acesso direto à interface de gerenciamento do Centro de administração do Exchange (EAC). <br/>
+<sup>9</sup> O Exchange Server 2013 usa apenas o mecanismo anti-malware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. <br/> <sup>10 Contas</sup> conectadas são suportadas para contas POP IMAP, mas desabilitadas &amp; para Outlook.com (Hotmail). <br/>
+<sup>11</sup> Uma assinatura EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio inativa. <br/>
+<sup>12</sup> Não há suporte para o uso de um cmdlet para trabalhar com a Lista de Endereços e a Lista de Endereços Global. <br/>
+<sup>13 Requer o</sup> uso do espaço de endereço de disponibilidade para dar suporte ao compartilhamento com outros locatários. Para obter mais informações sobre como criar um espaço de endereço de disponibilidade, consulte [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Tabela indica se o cliente funciona ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos.<br/>
+<sup>Há suporte para 15</sup> POP, mas o IMAP não.<br/>
+<sup>16</sup> Algumas Web Parts e complementos de terceiros podem não estar disponíveis.
 
 ## <a name="exchange-online-protection-features"></a>Recursos da Proteção do Exchange Online
 
@@ -487,13 +487,13 @@ A tabela a seguir exibe os recursos da EOP (Proteção do Exchange Online) que e
 |[Quarentena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): autogerenciamento de usuário final|Sim|Sim|Sim|
 |[Governança de dados avançada](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|Não|Sim|Sim|
 |[Office 365 Threat Intelligence](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|Não|Sim|Sim|
-|[Relatórios de lixo eletrônico no Outlook na Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sim<sup>8</sup>|Não<sup>8</sup>|Não<sup>8</sup>|
-|[Rotear email entre a Microsoft e seus próprios servidores de email](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sim|Sim|Sim|
+|[Relatório de lixo eletrônico no Outlook na Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sim<sup>8</sup>|Não<sup>8</sup>|Não<sup>8</sup>|
+|[Roteamento de emails entre a Microsoft e seus próprios servidores de email](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sim|Sim|Sim|
 |[Mensagens seguras com um parceiro confiável](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sim|Sim|Sim|
 |[Lista segura de endereço IP de um parceiro](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sim|Sim|Sim|
 |[Roteamento de email condicional](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|Sim|Sim|Sim|
 |[Roteamento híbrido de email](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|Sim|Sim|Sim|
-|[Relatórios do centro de administração do Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Sim<sup>9</sup>|Sim<sup>10</sup>|Sim <sup>9, 10</sup>|
+|[Relatórios do Centro de administração do Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Sim<sup>9</sup>|Sim<sup>10</sup>|Sim <sup>9, 10</sup>|
 |[Criar relatórios usando serviços Web](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|Não|Sim|Sim|
 |[Rastreamento de mensagens](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim|
 |[Acesso ao centro de administração do Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Sim|Sim|Sim|
@@ -503,28 +503,28 @@ A tabela a seguir exibe os recursos da EOP (Proteção do Exchange Online) que e
 > [!NOTE]
 > <sup>1</sup> Os usuários de email são definidos como "Caixas de Correio" e, juntamente com os contatos externos de email, podem ser adicionados, removidos e gerenciados diretamente no Centro de administração do Exchange (EAC).<br/>
 <sup>2</sup> Sem personalização de RBAC. Apenas funções de administrador.<br/>
-<sup>3</sup> Os domínios gerenciados podem ser visualizados e os tipos de domínio podem ser editados no EAC. Todos os outros gerenciamento de domínio devem ser feitos no centro de administração do Microsoft 365.<br/>
-<sup>4</sup> as regras de fluxo de emails (também conhecidas como regras de transporte) no EOP são descritas em [regras de fluxo de emails (regras de transporte) no Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). As condições, exceções e ações da regra de fluxo de emails diferem levemente entre o EOP e o Exchange Online. Essas diferenças são observadas nas [condições e exceções de regra de fluxo de emails (predicados) no Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) e [ações de regra de fluxo de email no Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).<br/>
+<sup>3</sup> Os domínios gerenciados podem ser visualizados e os tipos de domínio podem ser editados no EAC. Todos os outros gerenciamentos de domínio devem ser feitos no centro de administração do Microsoft 365.<br/>
+<sup>4 As</sup> regras de fluxo de emails (também conhecidas como regras de transporte) no EOP são descritas nas regras de fluxo de email (regras de transporte) no [Exchange Online Protection.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) As condições, exceções e ações de regras de fluxo de emails disponíveis diferem ligeiramente entre o EOP e o Exchange Online. Essas diferenças são notadas em condições de regra de fluxo de emails e exceções [(predicados)](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) no Exchange Online e ações de regra de fluxo de [email no Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).<br/>
 <sup>5</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio.<br/>
 <sup>6</sup> Dicas de política de DLP não estão disponíveis para clientes do Exchange Enterprise CAL com Serviços.<br/>
-<sup>7</sup> A ação padrão do filtro de conteúdo é mover as mensagens de spam para a pasta Lixo Eletrônico do destinatário. Para que isso funcione com caixas de correio locais do Exchange, você também precisa configurar duas regras de transporte em sua organização do Exchange local para detectar os cabeçalhos de spam adicionados pelo EOP. Para obter mais informações, consulte [garantir que o spam seja roteado para a pasta lixo eletrônico de cada usuário](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder).<br/>
+<sup>7</sup> A ação padrão do filtro de conteúdo é mover as mensagens de spam para a pasta Lixo Eletrônico do destinatário. Para que isso funcione com caixas de correio locais do Exchange, você também precisa configurar duas regras de transporte em sua organização local do Exchange para detectar os headers de spam adicionados pelo EOP. Para obter mais informações, consulte [Garantir que o spam seja roteado para a pasta Lixo Eletrônico de](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)cada usuário.<br/>
 <sup>8</sup> Este recurso está disponível para clientes do Exchange Server 2013 Service Pack 1 (SP1) cujas caixas de correio estão sendo filtradas pelo EOP e, em breve, estará disponível para clientes do Exchange Online. <br/>
 <sup>9</sup> Os relatórios do EOP são um subconjunto dos relatórios do Exchange Online que excluem informações sobre caixas de correio. <br/>
 <sup>10</sup> Inclui relatórios de DLP. <br/>
 <sup>11</sup> Os clientes do Exchange Enterprise CAL com Serviços devem instalar a pasta de trabalho selecionando o serviço **Exchange Online** em vez do serviço **Exchange Online Protection**.<br/>
-<sup>12</sup> suportado para clientes locais que compram a proteção de informações do Azure e usem o Exchange Online Protection para rotear emails pelo Exchange Online.<br/>
+<sup>12 Com</sup> suporte para clientes locais que compram a Proteção de Informações do Azure e usam o Proteção do Exchange Online para rotear emails por meio do Exchange Online.<br/>
 <sup>13</sup> Examina as mensagens de entrada e saída, mas não verifica as mensagens internas enviadas de um remetente em sua organização para um destinatário em sua organização.<br/>
 <sup>14</sup> As ações e predicados disponíveis diferem entre o EOP e o Exchange Online.<br/>
-<sup>15</sup> a configuração híbrida não está disponível por meio do assistente híbrido, mas pode ser configurada manualmente se você tiver o Exchange SP1.<br/>
-<sup>16</sup> disponível no Office 365 Alemanha E1 e superior.<br/>
-<sup>17</sup> disponível no Office 365 Alemanha E3.<br/>
-<sup>18</sup> disponível como um recurso complementar para o Office 365 Alemanha.
+<sup>15</sup> A configuração híbrida não está disponível por meio do Assistente Híbrido, mas pode ser configurada manualmente se você tiver o Exchange SP1.<br/>
+<sup>16</sup> Disponível no Office 365 Germany E1 e acima.<br/>
+<sup>17</sup> Disponível no Office 365 Germany E3.<br/>
+<sup>18</sup> Disponível como um recurso de complemento do Office 365 Germany.
 
-## <a name="defender-for-office-365-features"></a>Recursos do defender para Office 365
+## <a name="defender-for-office-365-features"></a>Recursos do Defender para Office 365
 
-A tabela a seguir lista os recursos do defender para Office 365 que estão disponíveis nos planos do Office 365 Alemanha. Quando o Exchange Online é mencionado, ele normalmente refere-se à família de serviços do Office 365 Enterprise.<br><br>
+A tabela a seguir lista os recursos do Defender para Office 365 que estão disponíveis nos planos do Office 365 Germany. Quando o Exchange Online é mencionado, ele normalmente refere-se à família de serviços do Office 365 Enterprise.<br><br>
 
-| Recurso | Defender para Office 365 autônomo | Recursos do defender para Office 365 no Exchange Online |
+| Recurso | Defender para Office 365 autônomo | Recursos do Defender para Office 365 no Exchange Online |
 |:-----|:-----|:-----|
 |Links Seguros|Sim|Sim|
 |Anexos Seguros|Sim|Sim|
@@ -536,7 +536,7 @@ A tabela a seguir exibe os recursos do Project Online que estão disponíveis no
 | Planejar | Descrição | Usuários de destino |
 |:-----|:-----|:-----|
 |Project Online Essentials| Interface baseada na Web para membros da equipe  <br/>  Atualizar tarefas, problemas e riscos  <br/>  Enviar quadros de horários  <br/>  Compartilhar documentos e colaborar com a presença do Skype for Business|Membros da equipe|
-|Project Online Professional| Todas as funcionalidades do Project Online Essentials e:  <br/>  Interface de usuário avançada pelo cliente da área de trabalho  <br/>  Acesso a qualquer momento/em qualquer lugar por meio da interface da Web  <br/>  Custo e agendamento de projetos  <br/>  Gerenciamento de recursos  <br/>  Publicação de projetos na nuvem  <br/>  Inclui a versão mais recente do aplicativo Project para área de trabalho, transmitido instantaneamente para o seu PC com Windows.  <br/>  Cada licença de assinatura permite até cinco instalações simultâneas do aplicativo Project para área de trabalho.|Gerentes de projeto|
+|Project Online Professional| Todas as funcionalidades do Project Online Essentials e:  <br/>  Interface de usuário avançada pelo cliente da área de trabalho  <br/>  Acesso a qualquer hora/em qualquer lugar por meio da interface da Web  <br/>  Custo e agendamento de projetos  <br/>  Gerenciamento de recursos  <br/>  Publicação de projetos na nuvem  <br/>  Inclui a versão mais recente do aplicativo Project para área de trabalho, transmitido instantaneamente para o seu PC com Windows.  <br/>  Cada licença de assinatura permite até cinco instalações simultâneas do aplicativo Project para área de trabalho.|Gerentes de projeto|
 |Project Online Premium| Todas as funcionalidades do Project Online Professional e:  <br/>  Seleção e otimização de portfólios  <br/>  Gerenciamento de demanda  <br/>  Gerenciamento de recursos da empresa  <br/>  Relatórios prontos de portfólio|Gerentes de recursos e portfólios|
 
 ## <a name="sharepoint-online-features"></a>Recursos do SharePoint Online
@@ -546,16 +546,16 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Recursos para desenvolvedores | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Catálogo de aplicativos (SharePoint)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Implantação de aplicativo: aplicativos hospedados na nuvem|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Implantação de aplicativo: aplicativos hospedados pelo SharePoint|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Implantação de aplicativos: aplicativos hospedados na nuvem|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Implantação de aplicativos: aplicativos hospedados pelo SharePoint|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Serviço de gerenciamento de aplicativos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|BCS: alertas de listas externas|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|BCS: tipos de conteúdo externo com escopo de aplicativo (ECTs)|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|BCS: Web Parts de dados corporativos|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|BCS: lista externa|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|BCS: Alertas para listas externas|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|BCS: Tipos de conteúdo externo (ECTs) com escopo de aplicativo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|BCS: Web Parts de dados de negócios|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|BCS: Lista externa|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |BCS: OData connector|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |BCS: Profile Pages|Não|Não|Não|Não|Não|Não|Não|Não|
-|BCS: integração de cliente avançado|Não|Não|Não|Não|Não|Não|Não|Não|
+|BCS: integração de cliente rica|Não|Não|Não|Não|Não|Não|Não|Não|
 |BCS: Secure Store Service|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |BCS: Tenant-level external data log|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Browser-based customizations|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -574,74 +574,74 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |SharePoint Design Manager|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Sharepoint Designer 2013|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Repositório do SharePoint2|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Fluxos de trabalho do SharePoint 2010 (.NET 3,5)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Fluxos de trabalho do SharePoint 2010 (pronto para uso)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Fluxos de trabalho do SharePoint 2010 (.NET 3.5)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Fluxos de trabalho do SharePoint 2010 (fora da caixa)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Fluxos de trabalho do SharePoint 2013 e do SharePoint 2016|Sim|Não|Sim|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|Sim|
 |Workload API: ECM APIs|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Workload API: Search APIs|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Workload API: Social APIs|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |**Recursos para profissionais de TI**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Sincronização do Active Directory|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Mapeamento de acesso alternativo (AAM)|Não|Não|Não|Não|Não|Não|Não|Não|
+|Mapeamento alternativo de acesso (AAM)|Não|Não|Não|Não|Não|Não|Não|Não|
 |Analytics Platform|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Antimalware protection|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Suporte a autenticação baseada em declarações|Não|Não|Não|Não|Não|Não|Não|Não|
+|Suporte à autenticação baseada em declarações|Não|Não|Não|Não|Não|Não|Não|Não|
 |Assistentes de configuração|Não|Não|Não|Não|Não|Não|Não|Não|
 |Data loss prevention|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Atualização de conjunto de sites adiada|Não|Não|Não|Não|Não|Não|Não|Não|
 |Data loss prevention|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Encryption at rest|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Conjuntos de sites de cabeçalho de host|Não|Não|Não|Não|Não|Não|Não|Não|
+|Host header site collections|Não|Não|Não|Não|Não|Não|Não|Não|
 |Gerenciamento de permissões aprimorado|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Criação de site de autoatendimento aprimorada|Não|Não|Sim|Não|Não|Não|Não|Não|
+|Criação de site de autoatendado aprimorada|Não|Não|Sim|Não|Não|Não|Não|Não|
 |Contas gerenciadas|Não|Não|Não|Não|Não|Não|Não|Não|
 |Minimal Download Strategy (MDS)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |OAuth|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|Sim<sup>8</sup>|
 |Gerenciamento de patches|Não|Não|Não|Não|Não|Não|Não|Não|
 |Modelos de cota|Não|Não|Não|Não|Não|Não|Não|Não|
-|Suporte a banco de dados somente leitura|Não|Não|Não|Não|Não|Não|Não|Não|
-|Remote BLOB Storage|Não|Não|Não|Não|Não|Não|Não|Não|
-|Gerenciamento de solicitação|Não|Não|Não|Não|Não|Não|Não|Não|
+|Suporte ao banco de dados somente leitura|Não|Não|Não|Não|Não|Não|Não|Não|
+|Armazenamento de BLOB remoto|Não|Não|Não|Não|Não|Não|Não|Não|
+|Gerenciamento de solicitações|Não|Não|Não|Não|Não|Não|Não|Não|
 |Request throttling|Não|Não|Não|Não|Não|Não|Não|Não|
 |Resource throttling|Não|Não|Não|Não|Não|Não|Não|Não|
 |Plataforma do aplicativo de serviço|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |SharePoint Health Analyzer|Não|Não|Não|Não|Não|Não|Não|Não|
-|Centro de administração do SharePoint (Office 365)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|No<sup>4</sup>|
+|Centro de administração do SharePoint (Office 365)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não<sup>4</sup>|
 |Shredded Storage|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Políticas de conformidade de conjunto de sites|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Verificações de integridade do conjunto de sites|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Políticas de conformidade do conjunto de sites|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Verificações de saúde do conjunto de sites|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Serviço de Controle de Sessão|Não|Não|Não|Não|Não|Não|Não|Não|
 |Streamlined Central Administration|Não|Não|Não|Não|Não|Não|Não|Não|
 |Notificações de status do sistema|Não|Não|Não|Não|Não|Não|Não|Não|
-|Recuperação de banco de dados de conteúdo desanexado|Não|Não|Não|Não|Não|Não|Não|Não|
+|Recuperação de banco de dados de conteúdo desassovado|Não|Não|Não|Não|Não|Não|Não|Não|
 |Upgrade evaluation site collections|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Relatórios de uso e registro em log|Não|Não|Não|Não|Não|Não|Não|Não|
-|Suporte do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Relatório de uso e registro em log|Não|Não|Não|Não|Não|Não|Não|Não|
+|Suporte ao Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**Recursos de conteúdo**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Suporte aos padrões de acessibilidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Suporte a vídeo/aprimoramentos da biblioteca de ativos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Suporte a padrões de acessibilidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Suporte a vídeo/aprimoramentos da Biblioteca de Ativos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Auditoria|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Relatórios de auditoria &amp; (por exemplo, edições de documentos, edições de políticas, exclusões|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Relatórios de auditoria (por exemplo, edições &amp; de documentos, edições de política, exclusões|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Content Organizer|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Design Manager|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conjuntos de documentos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Tradução de documento no Word para a Web|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|pesquisa de descoberta eletrônica|Sim<sup>6</sup>|Sim|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|
-|retenção de descoberta eletrônica|Não<sup>6</sup>|Não|Não<sup>6</sup>|Sim<sup>6</sup>|Não<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Não<sup>6</sup>|
-|exportação de descoberta eletrônica|Não<sup>6</sup>|Não|Não<sup>6</sup>|Sim<sup>6</sup>|Não<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Não<sup>6</sup>|
-|Bibliotecas e listas habilitadas para email|Não|Não|Não|Não|Não|Não|Não|Não|
-|Compartilhamento externo: acesso externo|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|
-|Compartilhamento externo: link de convidado|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|
+|Tradução de documentos no Word para a Web|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Pesquisa de Descoberta eDiscovery|Sim<sup>6</sup>|Sim|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|
+|EDiscovery hold|Não<sup>6</sup>|Não|Não<sup>6</sup>|Sim<sup>6</sup>|Não<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Não<sup>6</sup>|
+|Exportação de Descoberta eDiscovery|Não<sup>6</sup>|Não|Não<sup>6</sup>|Sim<sup>6</sup>|Não<sup>6</sup>|Sim<sup>6</sup>|Sim<sup>6</sup>|Não<sup>6</sup>|
+|Listas e bibliotecas habilitadas para email|Não|Não|Não|Não|Não|Não|Não|Não|
+|Compartilhamento externo: acesso externo|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|
+|Compartilhamento externo: link de convidado|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|Não<sup>9</sup>|
 |Sincronização de pastas|Sim<sup>1, 10</sup>|Sim|Sim<sup>1, 9</sup>|Sim<sup>1, 9</sup>|Sim<sup>1</sup>|Sim|Sim|Sim<sup>2, 10</sup>|
 |Auditoria híbrida|Não|Não|Não|Não|Não|Não|Não|Não|
-|Tipos de conteúdo e taxonomia híbrida|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim<sup>20</sup>|
+|Taxonomia híbrida e tipos de conteúdo|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim<sup>20</sup>|
 |Gerenciamento de Direitos de Informação (IRM)|Não<sup>3</sup>|Não|Não<sup>3</sup>|Sim|Não<sup>3</sup>|Sim|Sim|Não<sup>3, 4</sup>|
 |Gerenciamento de Direitos de Informação (IRM)|Não|Não|Não|Não|Não|Não|Não|Não|
 |Serviço de metadados gerenciados|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Navegação orientada por metadados|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Descarte de vários estágios|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Navegação controlada por metadados|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Disposição em vários estágios|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Office para a Web (criar/editar)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim<sup>16</sup>|
-|Office para a Web (modo de exibição)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Office para a Web (exibir)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Office ProPlus (Osub)|Não|Sim|Não|Não|Não|Sim|Sim|Não|
 |Office Web Apps Server integration|Não|Não|Não|Não|Não|Não|Não|Não|
 |PowerPoint Automation Services|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -651,25 +651,25 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Recycle Bin (SharePoint admin center)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Recycle Bin (site collection)|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Itens relacionados|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Gerenciamento de mídia avançado|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Tipos de conteúdo compartilhado|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Gerenciamento de mídia rico|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Tipos de conteúdo compartilhados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Serviços de tradução do SharePoint|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Pesquisas|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Unique Document IDs|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Pesquisa de vídeo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|Publishing Analytics|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Análise de publicação|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Catálogo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|Página categoria e página de item de catálogo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|Página de categoria e página de item de catálogo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Web Parts de pesquisa|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Piblicação intersite|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|WCM: ferramentas de designer|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|WCM: Ferramentas de designer|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Navegação facetada|Não|Não|Não|Não|Não|Sim<sup>7</sup>|Sim<sup>7</sup>|Não|
 |Renderizações de imagem|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |WCM: Managed navigation|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|WCM: renderização móvel e de dispositivo|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|WCM: vários domínios|Não|Não|Não|Não|Não|Não|Não|Não|
+|WCM: renderização de dispositivos e móveis|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|WCM: Vários domínios|Não|Não|Não|Não|Não|Não|Não|Não|
 |WCM: Recommendations|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|WCM: otimização do mecanismo de pesquisa (SEO)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|WCM: Otimização do Mecanismo de Pesquisa (SEO)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Word Automation Services|Não|Não|Não|Não|Não|Não|Não|Não|
 |**Recursos de percepções**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Business Intelligence Center|Não|Não|Não|Não|Não|Sim|Sim|Não|
@@ -677,7 +677,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Biblioteca de conexões de dados|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Decoupled PivotTables and PivotCharts|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Serviços do Excel|Não|Não|Não|Não|Não|Não|Não|Não|
-|Lista de campos e suporte a campos|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|Field List and field support|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Aprimoramentos de filtro|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Pesquisa de filtro|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |PerformancePoint Services|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -686,9 +686,9 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Power View for Excel in SharePoint|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Power Pivot para Excel no SharePoint|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Quick Explore|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|Painéis de & scorecards|Não|Não|Não|Não|Não|Não|Não|Não|
+|Scorecards & painéis|Não|Não|Não|Não|Não|Não|Não|Não|
 |SQL Server Reporting Services (SSRS) Integrated Mode|Não|Não|Não|Não|Não|Não|Não|Não|
-|Segmentação de linha do tempo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|Slicer de linha do tempo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Usar e interagir com pastas de trabalho do Excel que contêm modelos de dados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Visio para a Web<sup>18</sup>|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Serviços do Visio<sup>18</sup>|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -710,9 +710,9 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Query spelling correction|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Query suggestions|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Query throttling|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Visualização ao focalizar|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Visualização em foco|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Ranking models|Sim<sup>5</sup>|Não|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|
-|Refinadores|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Refiners|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RESTful Query API/Query OM|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Result sources|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Search connector framework|Não|Não|Não|Não|Não|Não|Não|Não|
@@ -724,16 +724,16 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |**Recursos de sites**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Change the look|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Connections to Microsoft Office Clients|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Suporte ao navegador cruzado|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Suporte a navegadores cruzados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Caminhos gerenciados personalizados|Não|Não|Não|Não|Não|Não|Não|Não|
 |Governança|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Inicializador de aplicativos híbrido|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim<sup>19</sup>|
+|Iniciador de aplicativos híbrido|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim<sup>19</sup>|
 |OneDrive for Business e sites híbridos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim<sup>19</sup>|
-|Escalabilidade e gerenciamento de lista grande|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
+|Escalabilidade e gerenciamento de listas grandes|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Conectividade móvel|Não|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|Sim<sup>11</sup>|
 |Interface de usuário multilíngue|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|
 |My Tasks|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Web Parts do OOTB|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Web Parts OOTB|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Permissions Management|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Project functionality for team sites|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Project site template|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -747,22 +747,22 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Bloco de anotações de equipe|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Site de equipe: acesso simplificado|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Designs de site|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Temas de site (altere a aparência|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Temas de site (alterar a aparência|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Página de uso do site|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Variações|Sim|Não|Sim|Sim|Sim|Sim|Sim|Não|
 |Work Management Service|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |**Recursos sociais**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Ask Me About|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Blogs pessoais|Sim<sup>13</sup>|Não|Sim<sup>13</sup>|Sim<sup>13</sup>|Sim<sup>13</sup>|Sim<sup>13</sup>|Sim<sup>13</sup>|Sim<sup>13</sup>|
-|Reputação de comunidades, símbolos e moderação|Sim<sup>14</sup>|Não|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sem<sup>14</sup>|
+|Reputação, badging e moderação das comunidades|Sim<sup>14</sup>|Não|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Não<sup>14</sup>|
 |Comunidade|Sim<sup>14</sup>|Não|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Não|
 |Feed da empresa|Sim|Não|Sim|Sim|Sim|Sim|Sim|Não|
-|Conversas de documento com o Yammer|Não|Não|Não|Não|Não|Não|Não|Não|
+|Document conversations with Yammer|Não|Não|Não|Não|Não|Não|Não|Não|
 |Follow|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Microblog|Sim|Não|Sim|Sim|Sim|Sim|Sim|Não|
 |News feed|Sim|Não|Sim|Sim|Sim|Sim|Sim|Não|
-|Compartilhamento com um clique|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Pessoas, sites, recomendações de documento|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Compartilhamento de um clique|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Pessoas, sites, recomendações de documentos|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Site pessoal|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Fotos e presença|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Perfil|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -772,7 +772,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |OneDrive for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim<sup>2</sup>|
 |Tag profiles|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Tasks integrated with Outlook|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Marcas de tendências|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Marcas de tendência|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Wikis|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Yammer|Não|Não|Não|Não|Não|Não|Não|Não|
 |**Complementos**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
@@ -782,11 +782,11 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Duet Online|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 
 > [!NOTE]
-> <sup>1</sup> para usar a sincronização de pastas, você deve ter o Office 2013 ou posterior (edição Standard ou Professional) ou uma assinatura que inclua aplicativos do Office. Os planos Office 365 Germany Business Essentials, Office 365 Germany Enterprise E1, Office 365 Germany Enterprise E1 e Office 365 Germany Education A1 não incluem assinaturas para aplicativos do Office para a área de trabalho. No entanto, será possível usar a sincronização de pastas se você instalar o Office 2013 ou posterior e assinar um desses planos.<br/>
+> <sup>1</sup> Para usar a sincronização de pastas, você deve ter o Office 2013 ou posterior (edição Standard ou Professional) ou uma assinatura que inclua aplicativos do Office. Os planos Office 365 Germany Business Essentials, Office 365 Germany Enterprise E1, Office 365 Germany Enterprise E1 e Office 365 Germany Education A1 não incluem assinaturas para aplicativos do Office para a área de trabalho. No entanto, será possível usar a sincronização de pastas se você instalar o Office 2013 ou posterior e assinar um desses planos.<br/>
 <sup>2</sup> As contas Kiosk limitaram a funcionalidade do OneDrive for Business. Os clientes do Kiosk podem usar o aplicativo cliente de sincronização de pastas do OneDrive for Business para sincronizar bibliotecas de documentos de sites de equipe com um computador compartilhado e acessar documentos offline. Mas as contas Kiosk não incluem um Site Pessoal do OneDrive for Business, portanto, não se beneficiam de uma biblioteca pessoal do OneDrive for Business com 1 TB de armazenamento online.<br/>
-<sup>3</sup> a proteção de informações do Azure não está incluída, mas pode ser adquirida como um suplemento separado para habilitar os recursos de IRM compatíveis. Para criar um conteúdo protegido por RMS, você deve ter o Office Professional Plus 2013, o Office Professional Plus 2016, o Office 365 Pro Plus ou o Outlook Web Access.<br/>
+<sup>3</sup> A Proteção de Informações do Azure não está incluída, mas pode ser adquirida como um complemento separado para habilitar os recursos de IRM com suporte. Para criar conteúdo protegido por RMS, você deve ter o Office Professional Plus 2013, o Office Professional Plus 2016, o Microsoft 365 Apps ou o Outlook Web Access.<br/>
 <sup>4</sup> Como os usuários Kiosk não podem ser administradores, os locatários com usuários Kiosk precisam de, pelo menos, um usuário corporativo para acessar o centro de administração. <br/>
-<sup>5</sup> os clientes do SharePoint Online precisam baixar e instalar o aplicativo de ajuste de modelo de classificação gratuita para criar e personalizar modelos de classificação.<br/>
+<sup>5</sup> clientes do SharePoint Online precisam baixar e instalar o aplicativo gratuito de Ajuste de Modelo de Classificação para criar e personalizar modelos de classificação.<br/>
 <sup>6</sup> Quando você usa recursos de Descoberta Eletrônica, os requisitos de licenciamento para um plano que permite esse recurso se aplicam a todos os usuários finais que fazem parte da ação de Descoberta Eletrônica (Pesquisar, Bloquear, Exportar).<br/> <sup>7</sup> Usuários autenticados do SharePoint Online podem acessar conjuntos de sites particulares com navegação facetada.<br/>
 <sup>8</sup> Alguns provedores podem não estar disponíveis na sua localidade.<br/>
 <sup>9</sup> Compartilhamento de documentos, bibliotecas ou sites por email com pessoas de fora da organização. Os administradores têm a capacidade de habilitar esse recurso, mas recebem uma mensagem de aviso indicando que isso pode fazer com que os arquivos compartilhados possam ser acessados de fora do país de origem. Os usuários que tentam compartilhar com pessoas de fora da organização recebem a mesma mensagem de aviso.<br/>
@@ -794,17 +794,17 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 <sup>12</sup> A Ajuda está disponível somente em inglês e em chinês simplificado.<br/>
 <sup>13</sup> Não é possível adicionar comentários sobre blogs.<br/>
 <sup>14</sup> O site de comunidade da organização está disponível, mas não a possibilidade de ter ajuda da comunidade pública.<br/>
-<sup>15</sup> O Access 2010 não tem suporte.<br/> <sup>16</sup> Os usuários Kiosk não podem criar documentos do Office usando blocos dinâmicos. Para criar um documento, os usuários do quiosque devem fazer isso em um site do SharePoint Online selecionando **novo** e selecionando um documento tipo de arquivo-Word, pasta de trabalho do Excel, apresentação do PowerPoint, bloco de anotações do OneNote ou pesquisa do Excel-no menu **criar um novo arquivo** . <br/>
-<sup>17</sup> os formulários do InfoPath que contêm o código do usuário (área restrita) só podem ser consumidos no cliente avançado do InfoPath.<br/>
-<sup>18</sup> o Visio para o consumo da Web (recurso Exibir) está disponível gratuitamente. O Visio para os recursos de criação e edição da Web exige uma licença. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md).<br/>
-<sup>19</sup> K1 os usuários podem acessar o SharePoint Server em uma instalação híbrida, mas o Office 365 K1 não inclui direitos de cal para acessar o servidor; esses direitos devem ser comprados separadamente.
+<sup>15</sup> O Access 2010 não tem suporte.<br/> <sup>16</sup> Os usuários Kiosk não podem criar documentos do Office usando blocos dinâmicos. Para criar um documento, os usuários de quiosque devem  fazer isso em um site do SharePoint Online selecionando Novo e, em seguida, selecionando um tipo de arquivo – documento do Word, pasta de trabalho do Excel, apresentação do PowerPoint, bloco de anotações do OneNote ou pesquisa do Excel – no **menu** Criar um novo arquivo. <br/>
+<sup>17 Formulários</sup> do InfoPath que contêm código de usuário (Área Des sandbox) só podem ser consumidos no InfoPath Rich Client.<br/>
+<sup>18</sup> O Visio para consumo da Web (recurso de exibição) está disponível gratuitamente. Os recursos de criação e edição do Visio para a Web exigem uma licença. Para obter mais informações sobre o Visio para a Web, consulte a descrição do serviço Web do [Visio.](../visio-online-service-description/visio-online-service-description.md)<br/>
+<sup>19</sup> K1 usuários podem acessar o SharePoint Server em uma configuração híbrida, mas o Office 365 K1 não inclui direitos CAL para acessar o servidor; esses direitos devem ser comprados separadamente.
 
 ## <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
 
 A tabela a seguir exibe os recursos do Skype for Business online que estão disponíveis nos planos do Office 365 Germany.
 
 > [!NOTE]
-> Essa tabela indica a disponibilidade do cliente e do serviço entre os planos do Office 365 Germany. Se você deseja comparar recursos individuais entre os vários clientes de área de trabalho do Skype for Business, clientes da Web e clientes móveis, consulte [tabelas de comparação de clientes de área de trabalho](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) e tabelas de comparação de [clientes móveis](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables).
+> Essa tabela indica a disponibilidade do cliente e do serviço entre os planos do Office 365 Germany. Se você quiser comparar recursos individuais entre os vários clientes de área [](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) de trabalho do Skype for Business, clientes Web e clientes móveis, consulte Tabelas de comparação de clientes de desktop e Tabelas de Comparação [de Clientes Móveis.](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)
 
 | Recurso | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -816,17 +816,17 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 |Clientes móveis do Skype for Business|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Skype for Business Web App|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Mensagens instantâneas, presença e contatos](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|IM e presença de PC para PC|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|IM e presença de vários participantes|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Configuração de cartão de visita|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Configuração da minha imagem|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Minha imagem: experiência de foto de URL|Não|Não|Não|Não|Não|Não|Não|
+|IM e presença pc-pc|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Presença e IM com vários partições|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Configuração do cartão de visita|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Configuração de Minha Imagem|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Minha Imagem: experiência de foto da URL|Não|Não|Não|Não|Não|Não|Não|
 |Configuração da lista de contatos|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Repositório unificado de contatos|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não|
-|Pesquisa do catálogo de endereços|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Expansão de lista de distribuição|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Pesquisa de livro de endereços|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Expansão da lista de distribuição|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Chat persistente|Não|Não|Não|Não|Não|Não|Não|
-|Fotos de remetente/destinatário|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Fotos do remetente/destinatário|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Áudio, vídeo e mídia de Skype para Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|\  <br/> **Office 365 Germany Enterprise E3**|\  <br/> **Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Compartilhamento de área de trabalho por meio do VbSS (compartilhamento de tela baseado em vídeo)|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Compartilhamento de área de trabalho e aplicativo por meio do protocolo RDP|Sim|Sim|Sim|Sim|Sim|Sim|Não|
@@ -839,33 +839,33 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 |Federação do Skype|Não<sup>6</sup>|Não|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não|
 |AOL e federação do Yahoo!|Não|Não|Não|Não|Não|Não|Não|
 |**[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Ad hoc e agendar conferência de áudio|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Agendamento de conferência de vídeo e ad hoc|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Vídeo de orador ativo|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Codificação e decodificação H. 264|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Vídeo de vários participantes|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Vídeo de alta definição ou imagens de todos os participantes|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Ad hoc e agendar audioconferência|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Ad hoc e agendar conferência de vídeo|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Vídeo do alto-falante ativo|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Codificação e decodificação H.264|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Vídeo com vários partes|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Vídeo em alta definição ou imagens de todos os participantes|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Controles do apresentador|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Exibição selecionada do participante|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Compartilhamento do OneNote|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Ad hoc e agendar Webconferência|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Reunião de discagem do Skype for Business via Conferência de áudio (primeira parte)|Não|Não|Não|Não|Não|Não|Não|
-|Reunião de discagem do Skype for Business via provedor de serviços de conferência de áudio (ACP)|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não|
+|Ad hoc e agendar webconferência|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Reunião discada do Skype for Business via audioconferência (terceiros)|Não|Não|Não|Não|Não|Não|Não|
+|Reunião discada do Skype for Business por meio do Provedor de Audioconferência (ACP) certificado|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não|
 |Compartilhamento do PowerPoint|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Transferência de arquivo|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Quadro de comunicações e anotações|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Whiteboard e anotações|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Carregamento do PowerPoint|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Sondagem|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Gravação e reprodução do lado do cliente|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Gravação e reprodução no servidor|Não|Não|Não|Não|Não|Não|Não|
-|Lobby de reunião|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Transmissão de reunião do Skype<sup>6</sup>|Não|Não|Não<sup>6</sup>|Não|Não<sup>6</sup>|Não<sup>6</sup>|Não|
-|Acesso de convidado para reuniões do Skype com o Skype for Business Web App|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Gravação e reprodução no lado do servidor|Não|Não|Não|Não|Não|Não|Não|
+|Lobby da reunião|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Transmissão de Reunião do Skype<sup>6</sup>|Não|Não|Não<sup>6</sup>|Não|Não<sup>6</sup>|Não<sup>6</sup>|Não|
+|Acesso de convidados a reuniões do Skype com o Skype for Business Web App|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Agendar reuniões do Skype for Business no Outlook|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Agendar reuniões do Skype for Business no Outlook em nome de outras (delegação)|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Agendar reuniões do Skype for Business com o Agendador da Web|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não|
+|Agendar reuniões do Skype for Business no Outlook em nome de outras pessoas (Delegação)|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Agendar reuniões do Skype for Business com o agendador da Web|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não|
 |Agendar reuniões online no Outlook na Web|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Delegação do Outlook para agendar reuniões|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Delegação do Outlook para agendamento de reuniões|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Criar reuniões públicas com as IDs estáticas de reunião no Outlook|Não|Não|Não|Não|Não|Não|Não|
 |**Chamadas de voz**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Opções de ocupado|Não|Não|Não|Não|Não|Não|Não|
@@ -902,22 +902,22 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 |Chamada de equipe|Não|Não|Não|Não|Sim|Sim|Não|
 |Monitor de chamada de vídeo|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Caixa postal|Não|Não|Não|Não|Não|Não|Não|
-|[Planos de chamadas](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (plano de chamadas domésticas, com a compra de complemento obrigatória)|Não|Não|Não|Não|No<sup>4</sup>|No<sup>4</sup>|Não|
-|[Planos de chamadas](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (plano de chamadas internacionais, com a compra de complemento necessária)|Não|Não|Não|Não|No<sup>4</sup>|No<sup>4</sup>|Não|
+|[Planos de](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) Chamada (Plano de Chamada Doméstica, com compra de complemento necessária)|Não|Não|Não|Não|Não<sup>4</sup>|Não<sup>4</sup>|Não|
+|[Planos de](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) Chamada (Plano de Chamada Internacional, com compra de complemento necessária)|Não|Não|Não|Não|Não<sup>4</sup>|Não<sup>4</sup>|Não|
 |[Créditos de Comunicação](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json)|Não|Não|Não|Não|Não|Não|Não|
 |Skype for Business Voz|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Segurança e arquivamento](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Criptografia de IM e mídia|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Mensagens instantâneas e filtragem de arquivos|Não|Não|Não|Não|Não|Não|Não|
+|Filtragem de IM e arquivo|Não|Não|Não|Não|Não|Não|Não|
 |Controle de versão do cliente|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Arquivamento de conteúdo de IM|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Sim|Não|
 |Arquivamento de conteúdo de conferência|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Sim|Não|
-|Compartilhamento de aplicativos e arquivamento de compartilhamento de área de trabalho|Não|Não|Não|Não|Não|Não|Não|
-|Configuração de arquivamento em nível de usuário|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Sim|Não|
+|Compartilhamento de aplicativos e Arquivamento de Compartilhamento de Área de Trabalho|Não|Não|Não|Não|Não|Não|Não|
+|Configuração de arquivamento no nível do usuário|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Sim|Não|
 |Arquivos de rastreamento de logon|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |**[Interoperabilidade entre Exchange e SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Interoperabilidade de presença com Exchange Server|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Interoperabilidade de presença com Exchange Online|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Interoperabilidade de presença com o Exchange Server|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Interoperabilidade de presença com o Exchange Online|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Interoperabilidade de Unificação de Mensagens com Exchange Server|Não|Não|Não|Não|Não|Não|Não|
 |Interoperabilidade de Unificação de Mensagens com Exchange Online|Não|Não|Não|Não|Não| Não|Não|
 |Interoperabilidade do Outlook na Web|Sim|Sim|Sim|Sim|Sim|Sim|Não|
@@ -930,15 +930,15 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 |Centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Centro de administração do Skype for Business|Sim|Sim<sup>3</sup>|Sim|Sim|Sim|Sim|Não|
 |Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Não|
-|Relatórios do Skype for Business online no centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Não|
+|Relatórios do Skype for Business Online no Centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. O Lync 2013 Basic está disponível para todos os clientes. O cliente de desktop do Lync Basic é um aplicativo instalado localmente que fornece recursos de conferência, presença e mensagens instantâneas para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype for Business (Lync), que inclui recursos adicionais, como suporte avançado para telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. Para obter mais informações sobre os recursos do Lync Basic, consulte [tabelas de comparação de clientes de desktop](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. O Lync 2013 Basic está disponível para todos os clientes. O cliente de desktop do Lync Basic é um aplicativo instalado localmente que fornece recursos de conferência, presença e mensagens instantâneas para planos do Office 365 que incluem o Skype for Business online. O Office 365 ProPlus e o Office 365 Enterprise E3 incluem o aplicativo completo do Skype for Business (Lync), que inclui recursos adicionais, incluindo suporte avançado a telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. Para obter mais informações sobre os recursos do Lync Basic, consulte Tabelas de comparação do cliente [da área de trabalho.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/>
 <sup>2</sup> O arquivamento do Skype for Business online depende do recurso Bloqueio In-Loco do Exchange, que não está incluído neste plano.<br/> <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface. <br/>
 <sup>4</sup> You must assign an Exchange Online (Plan 2) plan to users who you want to have voice mail. An Exchange Online (Plan 1) plan can't be used for voice mail. <br/>
-<sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. No entanto, a chamada federada é suportada.<br/>
+<sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. No entanto, há suporte para a chamada federada.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon.
 
-## <a name="visio-for-the-web-features"></a>Visio para recursos da Web
+## <a name="visio-for-the-web-features"></a>Recursos do Visio para a Web
 
-O Visio para a Web está disponível para o Office 365 Alemanha. Para obter mais informações sobre o Visio para a Web, consulte o [Visio para a descrição do serviço Web](../visio-online-service-description/visio-online-service-description.md).
+O Visio para a Web está disponível para o Office 365 Germany. Para obter mais informações sobre o Visio para a Web, consulte a descrição do serviço Web do [Visio.](../visio-online-service-description/visio-online-service-description.md)
