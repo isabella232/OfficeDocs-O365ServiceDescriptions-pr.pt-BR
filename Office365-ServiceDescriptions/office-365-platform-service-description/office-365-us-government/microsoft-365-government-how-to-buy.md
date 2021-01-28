@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral do Microsoft 365 Government e descreve as opções de compra.
-ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
-ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
+ms.openlocfilehash: b099adfdd4f392bcdf1f9aa383601a49026cb5c1
+ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49939196"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50031245"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - como comprar
 
@@ -31,7 +31,7 @@ O Microsoft 365 Government ajuda os líderes e funcionários do governo dos EUA 
 |:-----|:-----|:-----|
 |Aumentar a confiança pública por meio de comunicação e transparência aprimoradas  <br/> |Melhorar os serviços cidadãos por meio de melhor colaboração <br/> | Melhorar a qualidade dos serviços por meio do acesso móvel à necessidade da equipe do campo de informações, quando necessário  |
 |Melhorar o acesso a ideias que podem ajudar a moldar as decisões de política e orçamento  <br/> |Aprimorar as comunicações entre agências.  <br/> |Habilitar a colaboração e o compartilhamento de conhecimento para identificar e resolver problemas rapidamente  <br/> |
-|Mantenha-se informado e conectado aos funcionários e cidadãos, no escritório ou na estrada  <br/> |Crie um envolvimento mais profundo com políticas públicas para ajudar a melhorar as taxas de retenção de funcionários  <br/> | Crie uma noção mais forte de comunidade entre as agências  <br/> |
+|Mantenha-se informado e conectado aos funcionários e cidadãos, no escritório ou na estrada  <br/> |Crie um envolvimento mais profundo com políticas públicas para ajudar a melhorar as taxas de retenção de funcionários  <br/> | Crie uma noção mais forte de comunidade entre locais de agências  <br/> |
 |Garantir uma solução compatível com o governo dos EUA que ajude a reduzir os custos e melhorar a agilidade  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>O que torna o Microsoft 365 Government diferente das ofertas do Microsoft 365 para empresas?
@@ -40,8 +40,8 @@ O Microsoft 365 Government foi projetado exclusivamente para atender aos requisi
 
 **Comunidade exclusiva.** Os data centers governamentais estão disponíveis apenas para agências ou departamentos governamentais ou empresas comerciais que tenham sido autorizadas a manter e processar informações controladas em nome do governo dos EUA.
 
-**Equipe triada.** O acesso ao conteúdo do cliente da sua organização é restrito à equipe da Microsoft que são cidadãos dos EUA e passou por verificações de plano de fundo necessárias.
-Auditorias de terceiros. Toda a infraestrutura é auditada por um auditor certificado de terceiros que fornece um relatório de avaliação de segurança ou carta de atestado usada por órgãos federais para emitir uma autorização para operar (ATO). 
+**Equipe triada.** O acesso ao conteúdo do cliente da sua organização é restrito à equipe da Microsoft que são cidadãos dos EUA e passou por verificações de antecedentes necessárias.
+Auditorias de terceiros. Toda a infraestrutura é auditada por um auditor de terceiros certificado que fornece um relatório de avaliação de segurança ou carta de atestado usada por órgãos federais para emitir uma autorização para operar (ATO). 
 
 **Armazenamento de conteúdo.** Os dados são armazenados nos Estados Unidos com infraestrutura compatível. A tabela a seguir resume os compromissos e ambientes do Microsoft 365 for Government.<br><br>
 
@@ -64,22 +64,22 @@ Um cliente governamental qualificado é definido por um dos seguintes:
 - Uma agência federal, definida como uma agência, escritório, agência, departamento ou outra entidade do Governo dos EUA
 - Uma entidade de estado/local, definida como um dos seguintes:
     - Qualquer agência de um estado ou governo local nos EUA
-    - Qualquer país/região dos EUA, cidade, distrito de finalidade especial ou outro tipo semelhante de fundamentalidade governamental estabelecido pelas leis do estado de um cliente e localizado dentro da jurisdição e dos limites geográficos do estado do cliente
+    - Qualquer país do brasil, região, cidade, distrito de finalidade especial ou outro tipo semelhante de fundamentalidade governamental estabelecido pelas leis do estado de um cliente e localizado dentro da jurisdição e dos limites geográficos do estado do cliente
     - O distrito de Bahamas, a Ilha de Porto Rico, Guam, Samoa Americana, As Ilhas Virgens dos Estados Unidos e as Ilhas Marianas do Norte
-- Uma entidade tribal, definida como uma entidade tribal reconhecida federalmente qualificada para o fundos e serviços do Departamento do Interior dos EUA devido ao seu status de uma mulher índia ou, no Japão, uma nativa nativa ou uma corporação nativa regional alemã
+- Uma entidade tribal, definida como uma entidade tribal reconhecida federalmente qualificada para o fundos e serviços do Departamento do Interior dos EUA devido ao seu status como uma alemã índia ou, no Norte, uma nativa nativa ou uma corporação regional nativa dos EUA
 
 Organizações não governamentais que têm os seguintes tipos de dados e podem fornecer as comprovações listadas se qualificam para o processo de validação do Microsoft Government Cloud:
 
 Uma entidade privada comercial com dados sujeitos a regulamentações. Os tipos de dados governamentais aceitos incluem:
 - ITAR (Tráfego Internacional de Armas)
 - Informações Não Classificadas Controladas (CUI)
-- Departamento de Defesa (DoD) informações controladas não classificadas (UCNI)
+- Informações controladas pelo Departamento de Defesa (DoD) não classificadas (UCNI)
 - Departamento de Energia (DoE) UCNI
 - Criminal Criminal Information (CJI)
 - Dados de nível de impacto do Departamento de Defesa
 - Outros tipos de dados que exigem o Microsoft 365 Government
 
-Uma entidade comercial internacional pode se qualificar, embora dados regulamentados possam ser necessários para adquirir o serviço por meio de sua subsidiária dos EUA.
+Uma entidade comercial internacional pode se qualificar, embora os dados regulamentados possam ser necessários para adquirir o serviço por meio de sua subsidiária dos EUA.
 
 A prova de associação em um dos grupos listados acima será necessária para acessar as ofertas do Microsoft 365 Government.
 
@@ -93,10 +93,10 @@ Para saber mais sobre os serviços disponíveis no Microsoft 365 Government, con
 - [Teams para o Governo - Implantações GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government - implantações GCC High](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams para o Governo - Implantações do DoD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [Outlook para iOS e Android na nuvem da comunidade governamental](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Outlook para iOS e Android na Nuvem da Comunidade Governamental](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
 - [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
-- [Página de produtos do Microsoft 365 Government](https://www.microsoft.com/microsoft-365/government)
+- [Página de produto do Microsoft 365 Government](https://www.microsoft.com/microsoft-365/government)
 - [Roteiro do Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
 
 ## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Quais canais de vendas estão disponíveis para o Microsoft 365 Government?
@@ -110,7 +110,7 @@ A tabela a seguir mostra as opções que podem acomodar as necessidades de cada 
 
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Como comprar o Microsoft 365 Government?
 
-Siga estas etapas para comprar licenças do Microsoft 365 Government:
+Siga estas etapas para adquirir licenças do Microsoft 365 Government:
 
 1. Preencha e envie o formulário para [GCC](https://www.microsoft.com/en-us/microsoft-365/government/eligibility-validation) ou [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/) para validar a qualificação da sua organização.
 2. Trabalhe com a equipe de contas da Microsoft ou com um parceiro qualificado para fazer um pedido. Os clientes só podem comprar licenças do Microsoft 365 para o Governo dos Estados Unidos por meio de parceiros selecionados.
@@ -149,12 +149,12 @@ Siga estas etapas para comprar licenças do Microsoft 365 Government:
 - LiftOff, LLC
 - Norção
 - Novetta
-- A Technologies, Inc.
+- Technologies Dalm, Inc.
 - Profissionais silenciosos, LLC
 - Red River
 - SAIC
 - Smartronix
-- Serviços Def. 7
+- York 7
 - TechTrend, Inc.
 - Vexcel
 
@@ -178,11 +178,11 @@ Confira os seguintes recursos para saber mais sobre o Microsoft 365 Government.
 - [Teams para o Governo - Implantações GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government - implantações GCC High](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams para o Governo - Implantações do DoD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [Outlook para iOS e Android na nuvem da comunidade governamental](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Outlook para iOS e Android na Nuvem da Comunidade Governamental](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
 - [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
 - [Roteiro do Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)
-- [Página de produtos do Microsoft 365 Government](https://www.microsoft.com/microsoft-365/government)
+- [Página de produto do Microsoft 365 Government](https://www.microsoft.com/microsoft-365/government)
 - [Página do Microsoft Government Industry](https://www.microsoft.com/enterprise/government)
 - [Microsoft IT Tech Community - Setor Público](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
 - [Azure Government](https://azure.microsoft.com/global-infrastructure/government/)
