@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluem o Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 7b43af4d2938eea638670f15d807cef53d963d1e
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: 43ee44473f69fd2d5183be8b481a58329d0bf23d
+ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780015"
+ms.lasthandoff: 02/01/2021
+ms.locfileid: "50069256"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -58,7 +58,7 @@ O Microsoft 365 F1 não inclui direitos para uma caixa de correio do Exchange. P
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisitos do sistema do Exchange Online
 
-Para requisitos de sistema, o serviço mensal baseado em assinatura disponível para empresas, educação e organizações governamentais, confira [o Microsoft 365 e](https://products.office.com/office-system-requirements/#Office365forBEG)recursos do Office.
+Para requisitos do sistema, o serviço mensal baseado em assinatura disponível para empresas, educação e organizações governamentais, confira [o Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG)e recursos do Office.
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limites de armazenamento e destinatário para o Exchange Online
 
@@ -85,12 +85,12 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, confira a de
 |Arquivamento de Caixas de Correio baseadas no Exchange Online| Não|Não|Sim|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim<sup>9</sup>|Não|
 |Arquivamento baseado em nuvem de caixas de correio no local|Sim <sup>1</sup>|Sim<sup>1</sup>|Não|Não|Sim|Sim|Sim|Não|
 |Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Políticas de retenção manuais, rótulos e marcas |Não|Não|Não|Não|Sim|Sim|Sim|Sim|
+|Políticas de retenção manual, rótulos e marcas |Não|Não|Não|Não|Sim|Sim|Sim|Sim|
 |Criptografia de dados em repouso (BitLocker)|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim|Sim|Sim|Sim|Sim|Sim|
 |IRM usando a Proteção de Informações do Azure|Não|Sim|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Sim|Não<sup>2</sup>|
 |IRM usando Windows Server AD RMS|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|Sim<sup>3</sup>|
 |Criptografia de Mensagem do Office 365|Sim<sup>13</sup>|Sim<sup>13</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Sim|Não<sup>2</sup>|
-|Chave de<sup>Cliente 22</sup>|Não|Não|Não|Não|Não|Não|Sim|Não||
+|Chave<sup>de Cliente 22</sup>|Não|Não|Não|Não|Não|Não|Sim|Não||
 |S/MIME|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim|Sim|Sim|Sim|Sim|Sim||
 |Bloqueio In-loco e Retenção de Litígio|Sim|Sim|Não|Não|Não|Sim|Sim|Não|
 |Descoberta Eletrônica In-loco|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim<sup>20</sup>|Sim|
@@ -104,7 +104,7 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, confira a de
 |Customize antimalware policies|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim <sup>7</sup>|
 |Quarentena - auto-gerenciamento de usuário final|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Obter o Microsoft Defender para Office 365|Não|Sim|Não|Não|Não|Não|Sim|Não|
+|Microsoft Defender para Office 365|Não|Não|Não|Não|Não|Não|Sim|Não|
 |**[Fluxo de mensagens](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Roteamento personalizado de email de saída|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Secure messaging with a trusted partner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -186,21 +186,21 @@ Para disponibilidade de recursos no Microsoft 365 Business Premium, confira a de
 <sup>6</sup> O Exchange Server 2013 tem a maioria dos mesmos recursos anti-spam integrados que o Exchange Server 2010. Para obter informações sobre os benefícios da filtragem de spam hospedada pelo Exchange em relação às ofertas locais, consulte Benefícios dos recursos [anti-spam no Exchange Online Protection Over Exchange Server 2013.](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
 <sup>7</sup> Acessível somente por meio de acesso direto à interface de gerenciamento do Centro de administração do Exchange (EAC). <br/>
 <sup>8</sup> O Exchange Server 2013 usa apenas o mecanismo anti-malware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. <br/>
-<sup>9</sup> Uma assinatura EOA pode ser adquirida separadamente para cada caixa de correio que exige o recurso de caixa de correio ou arquivo morto inativo.<br/>
+<sup>9</sup> Uma assinatura EOA pode ser adquirida separadamente para cada caixa de correio que requer o recurso de caixa de correio ou arquivo morto inativo.<br/>
 <sup>10</sup> O SharePoint deve ser implantado na organização local do Exchange. <br/>
 <sup>11</sup> O SharePoint Online deve ser incluído no plano de assinatura. <br/>
 <sup>Há suporte para 12</sup> POP, mas o IMAP não. <br/>
-<sup>13</sup> Com suporte para clientes locais do Exchange Server 2013 que compram a Proteção de Informações do Azure. A Criptografia de Mensagens do Office 365 exige que os clientes locais encaminhem emails através do Exchange Online, usando a Proteção do Exchange Online para filtragem de email ou estabelecendo o fluxo de emails híbrido. <br/>
+<sup>13 Com</sup> suporte para clientes locais do Exchange Server 2013 que compram a Proteção de Informações do Azure. A Criptografia de Mensagens do Office 365 exige que os clientes locais encaminhem emails através do Exchange Online, usando a Proteção do Exchange Online para filtragem de email ou estabelecendo o fluxo de emails híbrido. <br/>
 <sup>14</sup> Clientes do Exchange Server 2013 precisam baixar e instalar o SP1 para acessar a Impressão Digital de Documento e as Dicas de Política no OWA e no OWA para Dispositivos. <br/>
 A Criptografia de Unidade de Disco BitLocker <sup>15</sup> é suportada para o Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
 <sup>16</sup> O Microsoft 365 Business Basic, o Microsoft 365 Business Standard e o Office 365 Enterprise F3 não fornecem direitos de acesso para utilização com servidores locais. Para estar em conformidade, o cliente deve comprar ou ter comprado previamente as CALs apropriadas ou atualizar para um SKU Enterprise, que fornece esses direitos de acesso. <br/>
 <sup>17 Contas</sup> conectadas são suportadas para contas POP IMAP, mas desabilitadas &amp; para Outlook.com (Hotmail). <br/>
 <sup>18</sup> Não há suporte para o uso de cmdlets no PowerShell do Exchange Online para personalizar as listas de endereços padrão e a GAL (lista de endereços global) padrão. <br/>
 <sup>19</sup> Algumas Web Parts e complementos de terceiros podem não estar disponíveis. <br/>
-<sup>20</sup> Para a Descoberta eDiscovery, você precisa de uma consulta separada para a nuvem versus local. <br/>
+<sup>20</sup> Para a Descoberta eDiscovery, você precisa de uma consulta separada para o local versus a nuvem. <br/>
 <sup>21</sup> A tabela indica se o cliente trabalha ou não com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos. <br/>
 <sup>22 Para</sup> obter mais informações, consulte [Criptografia de serviço com a Chave do Cliente.](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) <br/>
-<sup>23</sup> O suporte da UM do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas de SBCs operados pelo cliente terminará em abril de 2019. Para obter mais informações, consulte a Descontinuação do blog da equipe do Exchange de suporte para controladores de borda de sessão na Unificação de [Mensagens do Exchange Online.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) <br/>
+<sup>23</sup> O suporte à UM do Exchange Online para sistemas PBX de terceiros por meio de conexões diretas de SBCs operados pelo cliente terminará em abril de 2019. Para obter mais informações, consulte a Descontinuação do blog da equipe do Exchange de suporte para controladores de borda de sessão na Unificação de [Mensagens do Exchange Online.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) <br/>
 <sup>24</sup> Um usuário F3 não pode adicionar representantes à sua própria caixa de correio, mas pode acessar outra caixa de correio (incluindo caixas de correio compartilhadas) e executar qualquer ação que tenha sido delegada a ela.<br/>
 <sup>25</sup> Uma assinatura do Microsoft 365 Apps para empresas também é necessária para o Exchange Server 2013 e o Exchange Server 2016.<br/>
 <sup>26 Suporte</sup> ao aplicativo EWS aplicado à representação de aplicativo do EWS.
@@ -222,7 +222,7 @@ A Criptografia de Unidade de Disco BitLocker <sup>15</sup> é suportada para o E
 |Arquivamento de Caixas de Correio baseadas no Exchange Online|Sim|Não|Sim|Sim|Não|
 |Arquivamento baseado em nuvem de caixas de correio no local|Sim <sup>5</sup>|Sim <sup>5</sup>|Não|Sim|Não|
 |Messaging Records Management (MRM) |Sim|Sim|Sim|Sim|Sim|
-|Políticas de retenção manuais, rótulos e marcas|Não|Não|Sim|Sim|Sim|
+|Políticas de retenção manual, rótulos e marcas|Não|Não|Sim|Sim|Sim|
 |Criptografia de dados em repouso (BitLocker)|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim|Sim|
 |IRM usando a Proteção de Informações do Azure|Não|Sim|Não<sup>11</sup>|Não<sup>11</sup>|Não<sup>11</sup>|
 |IRM usando Windows Server AD RMS|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|Sim<sup>12</sup>|
@@ -328,7 +328,7 @@ Não há suporte para <sup>9</sup> IMAP. <br/>
 <sup>14</sup> Os clientes que executam o Exchange Server 2013 ou posterior precisam baixar e instalar a atualização cumulativa (CU) mais recente, ou a atualização cumulativa imediatamente anterior, para acessar a Impressão Digital de Documento e as Dicas de Política no OWA e no OWA para Dispositivos. <br/>
 <sup>15</sup> Disponível para clientes que executam o Exchange Server 2013 ou posterior. <br/>
 A Criptografia de Unidade de Disco BitLocker <sup>16</sup> é suportada para o Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
-<sup>17</sup> Exchange Online Plano 1 tem um limite [de tamanho na caixa de correio e arquivo morto.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) O arquivamento do Exchange Online para o complemento do Exchange Online adiciona arquivo morto baseado em nuvem ilimitado e Espera [Local.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold) <br/>
+<sup>17</sup> Exchange Online Plano 1 tem um limite [de tamanho na caixa de correio e arquivo morto.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) O Arquivamento do Exchange Online para o complemento do Exchange Online adiciona arquivo morto baseado em nuvem ilimitado e o [In-Place Hold.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold) <br/>
 <sup>18 Calendários</sup> do Quiosque do Exchange Online só podem ser acessados ou compartilhados por meio do OWA. <br/>
 <sup>19 Contas</sup> conectadas são suportadas para contas POP IMAP, mas desabilitadas &amp; para Outlook.com (Hotmail). <br/>
 <sup>20</sup> O uso de cmdlets no PowerShell do Exchange Online para personalizar listas de endereços padrão e a GAL (lista de endereços global) padrão não é suportado. <br/>
