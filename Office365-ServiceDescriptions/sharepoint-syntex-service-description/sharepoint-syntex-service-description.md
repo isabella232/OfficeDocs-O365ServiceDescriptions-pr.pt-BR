@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço Syntex do SharePoint
+title: Descrição do serviço SharePoint Syntex
 ms.author: office365servicedesc
 author: pamelaar
 ms.audience: ITPro
@@ -7,14 +7,14 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: O Syntex do SharePoint no Microsoft 365 usa inteligência artificial avançada (AI) e ensino de máquina para ampliar a experiência humana, automatizar o processamento de conteúdo e transformar o conteúdo em conhecimento.
-ms.openlocfilehash: da40dc93729e97740d7e3e3cc367ca99b9e63658
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
+ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072427"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50084724"
 ---
-# <a name="sharepoint-syntex-service-description"></a>Descrição do serviço Syntex do SharePoint 
+# <a name="sharepoint-syntex-service-description"></a>Descrição do serviço SharePoint Syntex 
 
 O Syntex do SharePoint no Microsoft 365 usa inteligência artificial avançada (AI) e ensino de máquina para ampliar a experiência humana, automatizar o processamento de conteúdo e transformar o conteúdo em conhecimento.
 
@@ -66,7 +66,7 @@ Para obter mais informações sobre a Syntex, confira os seguintes recursos:
 
   - Para começar a planejar sua implantação de Syntex, visite a [página Syntex](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) do SharePoint no Microsoft Tech Community Resource Center.
 
-  - Para saber mais sobre a Syntex e como usá-la, consulte a documentação do [produto Syntex do SharePoint.](/microsoft-365/contentunderstanding/)
+  - Para saber mais sobre a Syntex e como usá-la, consulte a [documentação do produto Syntex do SharePoint.](/microsoft-365/contentunderstanding/)
 
   - Para se manter atualizado sobre os recursos da Syntex, visite nosso [blog do Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2084915)
 
@@ -74,7 +74,7 @@ Para obter mais informações sobre a Syntex, confira os seguintes recursos:
 
 A Syntex está disponível como um complemento baseado no usuário para planos do Microsoft 365. Para se inscrever para uma avaliação gratuita ou para comprar o Syntex, visite a [página do produto Syntex do SharePoint.](https://aka.ms/sharepointsyntex)
 
-Para termos e condições de licenciamento para produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site termos do produto.](https://www.microsoft.com/licensing/terms/)
+Para termos e condições de licenciamento para produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto.](https://www.microsoft.com/licensing/terms/)
 
 ### <a name="messaging"></a>Mensagens
 
