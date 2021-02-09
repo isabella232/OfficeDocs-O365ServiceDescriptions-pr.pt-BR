@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Saiba mais sobre a disponibilidade de recursos do SharePoint para clientes de nuvem do governo dos EUA.
-ms.openlocfilehash: b0f36ea92b856a3fa9c1bf4ddd4cb4265655d1ae
-ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
+ms.openlocfilehash: 505be0509dbef718e64983377c8dc75a23adfd26
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49919744"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50145978"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Ambientes do SharePoint para o governo dos EUA
 
@@ -22,7 +22,7 @@ Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem d
 
 Para obter mais informações sobre a nuvem governamental, incluindo qualificação e compras, consulte [Microsoft 365 Government - como comprar](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Para comparar planos do Office 365 Government, confira [planos do Office 365 Government.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
-Para saber mais sobre os pontos de extremidade necessários ao gerenciar a conectividade de rede, consulte os pontos de extremidade do [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou pontos de extremidade do Office [365 U.S. Government DoD.](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)
+Para saber mais sobre os pontos de extremidade necessários ao gerenciar a conectividade de rede, consulte os pontos de extremidade do [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou pontos de extremidade do [Office 365 U.S. Government DoD.](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)
 
 Além de aproveitar os recursos e capacidades do Office 365, as organizações se beneficiam dos seguintes recursos exclusivos dos ambientes de nuvem do governo dos EUA:
 
@@ -58,7 +58,7 @@ Para obter informações sobre a migração FastTrack, consulte a descrição do
 
 Não há diferenças conhecidas entre os recursos de segurança e conformidade para clientes comerciais e aqueles para clientes de nuvem governamentais.
 
-Para obter informações sobre os recursos de segurança e conformidade, consulte o [Centro de conformidade e & segurança.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
+Para obter informações sobre recursos de segurança e conformidade, consulte o [Centro de conformidade e & segurança.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
 
 Para obter informações sobre os recursos do Azure Active Directory para o governo, consulte a documentação de Segurança [do Azure Government + Identidade.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
@@ -72,6 +72,7 @@ Aqui estão as diferenças entre os sites e os recursos de conteúdo para client
 - A biblioteca de ativos da organização não está disponível
 - Adicionar listas e páginas ao Teams não está disponível para clientes GCC High e DoD
 - A funcionalidade do Graph no SharePoint Online para GCC High está desabilitada no momento. Qualquer serviço que depende do Microsoft Graph pode não estar disponível no momento
+- Os recursos que dependem de conexões com serviços da Internet, como a guia imagens de estoque, não funcionarão conforme o esperado
 
 ## <a name="search-features"></a>Recursos de pesquisa
 

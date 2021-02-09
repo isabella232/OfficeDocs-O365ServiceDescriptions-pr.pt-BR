@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Saiba mais sobre as diferenças entre os planos do Microsoft 365 e do Office 365 Education.
-ms.openlocfilehash: 8cb6e167f84a1f15720a06280b97524d07b7e926
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069266"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50145998"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -72,7 +72,7 @@ Cada plano do Microsoft 365 Education inclui vários serviços individuais, como
 |Pesquisa de conteúdo|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Descoberta Principal do eDiscovery (incluindo a responsabilidade e a exportação)|Não|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Descoberta Eletrônica Avançada|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
-|Prevenção contra perda de dados (DLP) para emails e arquivos|Sim|Sim|Sim|Sim|Sim|Não|Não|Não|Não|
+|Prevenção contra perda de dados (DLP) para emails e arquivos|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Endpoint DLP|Não|Não|Não|Não|Sim|Não|Não|Não|Não|
 |DLP de Comunicações (bate-papo do Teams)|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
 |Conformidade em comunicações|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
