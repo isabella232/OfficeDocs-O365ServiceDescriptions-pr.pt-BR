@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Saiba mais sobre as diferenças entre os planos do Microsoft 365 e do Office 365 Education.
-ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
-ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
+ms.openlocfilehash: 737f900412cdd252b3b06d56ef9281cdf09e5333
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "50145998"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241037"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -48,10 +48,10 @@ Cada plano do Microsoft 365 Education inclui vários serviços individuais, como
 |Ferramentas de aprendizagem|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Verificador de Acessibilidade|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Office Lens|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Minecraft Education Edition com o Construtor de Código|Não|Não|Não|Sim|Sim|Não|Não|Sim|Sim|
+|Minecraft Education Edition com o Construtor de Códigos|Não|Não|Não|Sim|Sim|Não|Não|Sim|Sim|
 |Aplicativo Fazer um Teste|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
 |Configurar o aplicativo de PCs escolares|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
-|**Vídeo de voz e reuniões**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A56**|**Benefício de uso do aluno do Office 365 A3**|**Benefício de uso do aluno do Office 365 A5**|**Benefício de uso do aluno do Microsoft 365 Education A3**|**Benefício de uso do aluno do Microsoft 365 Education A5**|
+|**Vídeo de voz e reuniões**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Benefício de uso do aluno do Office 365 A3**|**Benefício de uso do aluno do Office 365 A5**|**Benefício de uso do aluno do Microsoft 365 Education A3**|**Benefício de uso do aluno do Microsoft 365 Education A5**|
 |Transmissão de Reunião do Skype|Não|Sim|Sim|Sim|Sim|Não|Não|Não|Não|
 |Microsoft Bookings|Não|Sim|Sim|Sim|Sim|Não|Não|Não|Não|
 |Audioconferência|Não|Não|Sim|Não|Sim|Não|Não|Não|Não|
