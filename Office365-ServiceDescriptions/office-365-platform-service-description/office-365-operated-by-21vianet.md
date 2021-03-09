@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços de nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 68f57eef2133d6993d269489b883ea1d62a745d0
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460300"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572737"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -163,7 +163,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 |**[Atualizações de serviço](service-updates.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Atualizações regulares fornecidas a todos os clientes|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Notificações enviadas ao Centro de Mensagens quando a ação é necessária, um problema é resolvido, os recursos são implantados ou as alterações do serviço|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) algumas atualizações de serviço|Não|--|Não|Não|Não|Não|Não|
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) algumas atualizações de serviço|Não|Não|Não|Não|Não|Não|Não|
 |Opção para ativar lançamento direcionado|Não|--|Não|Não|Sim|Sim|Sim|
 |**[Ajuda e treinamento](help-and-training.md)**|**Office 365 Business Essentials operado pela 21Vianet**|**Office 365 Business operado pela 21Vianet**|**Office 365 Business Premium operado pela 21Vianet**|**Office 365 A1 operado pela 21Vianet**|**Office 365 Enterprise E1 operado pela 21Vianet**|**Office 365 Enterprise E3 operado pela 21Vianet**|**Office 365 Enterprise F3 operado pela 21Vianet**|
 |Ajuda online|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
