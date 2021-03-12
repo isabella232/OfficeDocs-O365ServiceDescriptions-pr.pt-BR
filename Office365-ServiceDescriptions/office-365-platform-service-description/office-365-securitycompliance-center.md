@@ -1,5 +1,5 @@
 ---
-title: Centro de conformidade e segurança
+title: Centro de Conformidade e Segurança
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O Centro &amp; de Conformidade de Segurança foi projetado para ajudá-lo a gerenciar recursos de conformidade no Office 365 para sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 4daf754f5472620482eced63a9970b05a4e61a6c
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 38bdd64efec20a5535226507a28b7c3a61e632e8
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460190"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726706"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -27,16 +27,35 @@ Para ver as opções de licenciamento de seus usuários para se beneficiar dos r
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilidade &amp; do Centro de Conformidade de Segurança para planos corporativos e corporativos
 
-| Recurso | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|[Acesso ao Centro de &amp; Conformidade de Segurança](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
-|[Prevenção contra perda de dados para Exchange Online, SharePoint Online e OneDrive for Business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> | Não | Não  |Sim   | Sim | Sim | Sim | Não  |
-|[Rótulos de sensibilidade manual](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | Não | Não  |Não   | Sim | Sim | Sim | Não  |
-|[Casos de Descoberta eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
-|[Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Não   |Não   |Não  |Não   |Sim   |Sim   |Não   |
-|[Exportação de Descobertas EDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Não   |Não   |Não   |Não   |Sim   |Sim   |Não   |
-|[Auditoria Básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |Sim   |Sim   |Sim|Sim   |Sim   |Sim   |Sim   |
-|[Criptografia de Mensagens do Office 365 (OME) Básico](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Não   |Não   |Não   |Não   |Sim  |Sim   |Não   |
+| Recurso | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|[Acesso ao Centro de &amp; Conformidade de Segurança](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |
+|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) | Não | Não |Não | Não | Não | Sim | Sim  |   |
+|[Gerenciamento de ameaças, como filtragem de mensagens e antimalware](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim |
+|[Gerenciamento avançado de ameaças, como o explorador de ameaças para campanhas de phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)<sup>6</sup> | Não | Não |Não | Não | Não | Sim | Sim | Não |
+|[Sistema de Proteção de Dados do Cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests) | Não | Não | Não | Não | Não | Sim | Sim  | Não  |
+|[Gerenciamento de dispositivo móvel](https://docs.microsoft.com/microsoft-365/admin/basic-mobility-security/set-up) | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim |
+|[Prevenção contra perda de dados para Exchange Online, SharePoint Online e OneDrive for Business](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | Não | Sim | Sim | Não | Sim | Sim | Não | Não |
+|[Prevenção contra perda de dados de comunicação para o Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) | Não | Não | Não | Não | Não | Sim | Não |  |
+|[Rótulos de sensibilidade manual](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Não | Não | Não | Sim | Sim | Sim | Sim | Não |
+|Rótulos automáticos de sensibilidade | Não | Não |Não | Não | Não | Sim | Sim | Não |
+|[Barreiras de informações](https://docs.microsoft.com/microsoft-365/compliance/information-barriers) | Não | Não  |Não  | Não | Não | Sim | Não  | Não  |
+|[Governança de informações](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup> | Sim<sup>11</sup> | Sim<sup>11</sup>  |Sim<sup>11</sup>  | Sim | Sim | Sim | Sim | Sim<sup>11</sup>  |
+|[Governança de informações avançadas](https://docs.microsoft.com/microsoft-365/compliance/retention)<sup>2</sup> | Não | Não  |Não  | Não | Não | Sim | Sim  | Não  |
+|[Pesquisa de conteúdo](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) | Sim | Sim  |Sim  | Sim | Sim | Sim | Sim  | Sim  |
+|[Casos de Descoberta eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-core-ediscovery)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   | Sim  |
+|[Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta)](https://docs.microsoft.com/microsoft-365/compliance/get-started-core-ediscovery)  |Não   |Não   |Não  |Não   |Sim   |Sim   |Sim   |Não   |
+|[Exportação de Descobertas EDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Não   |Não   |Não   |Não  |Sim   |Sim   |Sim  |Não   |
+|[Descoberta Avançada 5](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)<sup></sup>  |Não   |Não   |Não   |Não  |Não   |Sim   |Sim  |Não  |
+|[Arquivamento](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)  |Sim<sup>3</sup>  |Sim<sup>3</sup>  |Sim<sup>3</sup>  |Sim<sup>3</sup>  |Sim<sup>4</sup>   |Sim<sup>4</sup>   |Sim  |Não  |
+|[Políticas de alerta](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)  |Sim  |Sim  |Sim  |Sim  |Sim  |Sim  |Sim  |Sim  |
+|[Auditoria Básica](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sim |Sim |Sim |Sim |Sim |Sim |Sim |Sim |
+|[Auditoria Avançada](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit) |Não |Não |Não |Não |Não |Sim |Sim |Não |
+|[Conformidade de comunicação (políticas de supervisão)](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies) |Não |Não |Não |Não |Não |Sim |Sim |Não |
+|[Criptografia de Mensagens do Office 365 (OME) Básico](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Não |Não |Não |Não |Sim |Sim |Sim |Não |
+|[Criptografia de Mensagem Avançada do 365 Office](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Não |Não |Não |Não |Não |Sim |Sim |Não |
+|[Gerenciamento de Acesso Privilegiado](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
+|[Chave do Cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
 
 <sup>1</sup> Os logs de auditoria de todos os planos que incluem a Auditoria Básica (exceto o E5) são mantidos por 90 dias. Como o E5 inclui Auditoria Avançada, os logs de auditoria são mantidos por até um ano. Além disso, você pode usar a API de Atividade de Gerenciamento do [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos do log de auditoria unificado.
 
