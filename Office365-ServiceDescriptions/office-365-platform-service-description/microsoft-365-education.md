@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Saiba mais sobre as diferenças entre os planos do Microsoft 365 e do Office 365 Education.
-ms.openlocfilehash: 9205ade4bceacbbad7877076175f37f95cf5dd49
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460220"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902025"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -93,8 +93,8 @@ Cada plano do Microsoft 365 Education inclui vários serviços individuais, como
 |Microsoft Defender Antivírus|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
 |Microsoft Defender Device Guard|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
 |Microsoft Defender para Identidade<sup>11</sup>|Não|Não|Não|Não|Sim|Não|Não|Não|Sim|
-|Office 365 Cloud App Security|Não|Não|Não|Não|Sim|Sim|Sim|Sim|Sim|
-|Segurança do Aplicativo na Nuvem do Microsoft 365|Não|Não|Não|Não|Não|Não|Não|Não|Sim|
+|Office 365 Cloud App Security|Não|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Segurança do Aplicativo na Nuvem do Microsoft 365|Não|Não|Não|Não|Sim|Não|Não|Não|Sim|
 |Microsoft Defender para Endpoint<sup>12</sup>|Não|Não|Não|Não|Sim|Não|Não|Não|Não|
 |**Benefícios de servidor e CAL**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Benefício de uso do aluno do Office 365 A3**|**Benefício de uso do aluno do Office 365 A5**|**Benefício de uso do aluno do Microsoft 365 Education A3**|**Benefício de uso do aluno do Microsoft 365 Education A5**|
 |Exchange<sup>7</sup>|Não|Não|Não|Sim<sup>8</sup>|Sim|Não|Não|Não|Não|

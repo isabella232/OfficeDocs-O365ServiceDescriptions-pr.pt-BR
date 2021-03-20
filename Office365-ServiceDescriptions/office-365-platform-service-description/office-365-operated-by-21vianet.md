@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços de nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572737"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902056"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -275,7 +275,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 |Telemetria do Office|Sim|Sim|Sim|Não|Não|Não|Não|Não|Sim|Não|
 |Suporte offline a aplicativos do cliente|Sim|Sim|Sim|Sim|Sim|Sim|Não|Não|Sim|Não|
 |Instalação otimizada de cliente lado a lado|Não|Sim|Sim|Sim|Sim|Sim|Não|Não|Sim|Não|
-|Power Map para Excel|Não<sup>3</sup>|Não|Não|Não|Não|Não|Não|Não|Sim|Não|
+|Power Map para Excel|Não|Não|Não|Não|Não|Não|Não|Não|Não|Não|
 |Power Pivot para Excel|Não|Não|Não|Não|Não|Não|Não|Não|Sim|Não|
 |Power Query para Excel|Não|Não|Não|Não|Não|Não|Não|Não|Sim|Não|
 |Power View para Excel|Não|Não|Não|Não|Não|Não|Não|Não|Sim|Não|
