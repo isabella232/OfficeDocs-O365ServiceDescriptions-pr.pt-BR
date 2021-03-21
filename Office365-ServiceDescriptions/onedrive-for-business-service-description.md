@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Visualize quais recursos do OneDrive estão disponíveis em quais planos.
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154399"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901946"
 ---
 # <a name="onedrive-service-description"></a>Descrição do serviço OneDrive
 
@@ -26,7 +26,7 @@ O OneDrive é um espaço de armazenamento on-line na nuvem que é fornecido aos 
   
 O OneDrive está incluído nos planos do Microsoft 365, Office 365 e do SharePoint Online, e também pode ser adquirido como um plano autônomo. 
     
-Para comparar planos, confira [Ferramentas avançadas para dar suporte à sua empresa](https://go.microsoft.com/fwlink/?linkid=799177) e [Comparar planos do OneDrive for Business](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Para obter informações detalhadas sobre o plano de assinaturas que permitem aos usuários OneDrive, confira a [tabela de comparação de assinatura completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) e [Compare planos OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
   
 > [!NOTE]
 > Os planos autônomos do OneDrive incluem o Office para a Web. 
@@ -133,7 +133,7 @@ A menos que indicado de outra forma, os recursos a seguir estão disponíveis em
 A menos que indicado de outra forma, os recursos a seguir estão disponíveis em todos os planos quem incluem o OneDrive e todos os planos autônomos do OneDrive:
 
 - [Solicitações de acesso](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [Links "Qualquer pessoa"](/Office365/Enterprise/best-practices-anonymous-sharing) (que podem ser definidos para exigir expiração) 
+- [Links "Qualquer pessoa"](/Office365/Enterprise/best-practices-anonymous-sharing) (que podem ser definidos para exigir expiração) 
 - [As mencionadas nos comentários](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Exige um plano que inclua o Office 365 para a Web ou aos aplicativos da área de trabalho do Office 365.
 - [Solicitações de arquivo](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Gerenciar o link de compartilhamento padrão ([no nível da organização](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) e [por local](/sharepoint/change-default-sharing-link))
