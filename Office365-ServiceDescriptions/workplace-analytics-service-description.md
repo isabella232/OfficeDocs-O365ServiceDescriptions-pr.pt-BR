@@ -9,43 +9,43 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: O Microsoft Workplace Analytics oferece ideias ricas e acionáveis nas tendências de comunicação e colaboração da sua organização para ajudá-lo a tomar decisões de negócios mais eficazes.
-ms.openlocfilehash: 1698590614c202075532de9977077da2195c3ebe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: O Microsoft Workplace Analytics fornece informações avançadas e ativas sobre as tendências de comunicação e colaboração da sua organização para ajudá-lo a tomar decisões comerciais mais eficazes.
+ms.openlocfilehash: 4bb007df02c1773045c1cb60a0cb77326b9878a2
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132925"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174046"
 ---
 # <a name="workplace-analytics-service-description"></a>Descrição do serviço do Workplace Analytics
 
-O Microsoft Workplace Analytics oferece ideias ricas e acionáveis nas tendências de comunicação e colaboração da sua organização para ajudá-lo a tomar decisões de negócios mais eficazes.
+O Microsoft Workplace Analytics fornece informações avançadas e ativas sobre as tendências de comunicação e colaboração da sua organização para ajudá-lo a tomar decisões comerciais mais eficazes.
 
-## <a name="transform-unprecedented-insights-into-action"></a>Transformar ideias sem precedentes em ação
+## <a name="transform-unprecedented-insights-into-action"></a>Transformar insights sem precedentes em ação
 
 * Sobrecarga de colaboração de endereço
-* Desmembrar silos de org
-* Práticas do Gerenciador de nível superior
+* Separar silos de organização
+* Práticas de gerente de nível superior
 * Acelerar aquisições
-* Ineficiência do processo de raiz
+* Ineficiências de processo de raiz
 * Aumentar a produtividade de vendas
-* Transformação da experiência do funcionário
-* Planejamento do espaço de trabalho
+* Transformar a experiência do funcionário
+* Planejamento de espaço de trabalho
 
-## <a name="gain-objective-actionable-insights"></a>Obter objetivos, informações acionáveis
+## <a name="gain-objective-actionable-insights"></a>Obter informações objetivas e ativas
 
-Veja como sua organização gasta tempo e colabora interna e externamente com ideias sem precedentes do Office 365. A análise do local de trabalho oferece aos líderes de negócios dezenas de métricas comportamentais acionáveis sobre o tempo e as redes para informar uma variedade de decisões estratégicas, incluindo modelos de equipe, alocação de recursos e planejamento de espaço de trabalho.
+Veja como sua organização gasta tempo e colabora interna e externamente com informações sem precedentes do Office 365. O Workplace Analytics fornece aos líderes comerciais dezenas de métricas comportamentais ativas sobre o tempo e as redes para informar uma variedade de decisões estratégicas, incluindo modelos de equipe, alocação de recursos e planejamento de espaço de trabalho.
 
 ## <a name="drive-organizational-change-with-data"></a>Conduzir alterações organizacionais com dados
 
-A análise de local de trabalho fornece um conjunto avançado de dados objetivos para tomar melhores decisões de negócios. Os painéis de exploração orientados realçam as áreas problemáticas, enquanto as consultas flexíveis respondem às perguntas comerciais direcionadas sobre estratégias de contratação, novas estruturas organizacionais e programas corporativos. Ampliar dados com informações de resultados de negócios para estabelecer práticas recomendadas, modelos de previsão e benchmarks. Apresente as iniciativas de alteração com base nos dados comportamentais e meça o êxito dos programas ao longo do tempo. Entre em contato com seu representante de atendimento ao cliente Microsoft para saber mais sobre os serviços de consultoria disponíveis que você pode usar para quantificar os desafios de negócios e implementar alterações.
+O Workplace Analytics fornece um conjunto rico de dados objetivos para tomar decisões comerciais melhores. Painéis de exploração guiados realçam áreas de problemas potenciais, enquanto consultas flexíveis respondem a perguntas comerciais direcionadas sobre estratégias de contratação, novas estruturas organizacionais e programas de negócios. Aumente os dados com informações de resultados comerciais para estabelecer práticas recomendadas, modelos preditivos e comparações. Introduza iniciativas de alteração com base em dados comportamentais e mede o sucesso dos programas ao longo do tempo. Entre em contato com seu representante do Serviço de Atendimento ao Cliente da Microsoft para saber mais sobre os serviços de consultoria disponíveis que você pode usar para quantificar desafios de negócios e implementar alterações.
 
 ## <a name="privacy-and-compliance-designed-for-you"></a>Privacidade e conformidade projetadas para você
 
-A análise do local de trabalho fornece controles de privacidade para atender às suas necessidades e conformidade para proteger seus dados. Os clientes decidem quais populações analisam e mantêm o controle sobre a agregação de dados e os padrões de desidentificação. A análise de local de trabalho analisa apenas os metadados da Microsoft. A visualização de dados e os níveis de agregação são baseados nas preferências de função e de cliente.
+O Workplace Analytics fornece controles de privacidade para atender às suas necessidades e conformidade para proteger seus dados. Os clientes decidem quais populações analisar e manter o controle sobre os padrões de agregação e de identificação de dados. O Workplace Analytics analisa apenas os metadados da Microsoft. Os níveis de visualização e agregação de dados se baseiam nas preferências de função e cliente.
 
-Para saber mais, confira [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Para saber mais sobre como usar a análise do local de trabalho, consulte [documentação de análise do local de trabalho](https://docs.microsoft.com/workplace-analytics/).
+Para saber mais, confira [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Para saber mais sobre como usar o Workplace Analytics, consulte [Workplace Analytics documentation](/workplace-analytics/).
   
 ## <a name="licensing-requirements"></a>Requisitos de licença
 
-O plano 1 do Exchange Online ou o plano 2 é um pré-requisito.
+O Plano 1 ou o Plano 2 do Exchange Online é um pré-requisito.

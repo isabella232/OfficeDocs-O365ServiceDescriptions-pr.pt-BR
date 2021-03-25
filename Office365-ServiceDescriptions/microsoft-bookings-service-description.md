@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Saiba mais sobre as opções de plano e os recursos disponíveis no Microsoft Bookings.
-ms.openlocfilehash: 70ae22991cc017acc65f47805d3361365906b982
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460230"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173026"
 ---
 # <a name="microsoft-bookings-service-description"></a>Descrição do serviço Microsoft Bookings
 
@@ -26,7 +26,7 @@ Para obter informações detalhadas sobre o plano sobre assinaturas que permitem
 
 A tabela a seguir lista os principais recursos do Microsoft Bookings disponíveis nos planos. Certas advertências se aplicam. Consulte as notas de rodapé para obter mais informações. Esta tabela pode mudar sem aviso prévio.
 
-| Recurso Principal | Small Business | Planos empresariais | CCG | GCC-High | DOD | Education |
+| Recurso Principal | Small Business | Planos empresariais | CCG | GCC-High | DOD | Educação |
 | --- | --- | --- | --- | --- | --- | --- |
 | Página de agendamento baseada na Web (página de reserva) | Sim | Sim | Sim | Não | Não | Sim |
 | Controle de acesso de página de reserva (somente locatário) | Sim | Sim | Sim | Não | Não | Sim |
@@ -46,8 +46,8 @@ A tabela a seguir lista os principais recursos do Microsoft Bookings disponívei
 
 Para obter informações técnicas sobre o Microsoft Bookings, confira os seguintes recursos:
 
-- [Documentação do Microsoft Bookings no Microsoft Docs](https://docs.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
-- [API do Microsoft Bookings no Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-beta)
+- [Documentação do Microsoft Bookings no Microsoft Docs](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
+- [API do Microsoft Bookings no Microsoft Graph](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
 - [Página de produto do Bookings](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app)
 - [Blog do Bookings na Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
 
@@ -57,7 +57,7 @@ Para termos e condições de licenciamento para produtos e serviços adquiridos 
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](https://docs.microsoft.com/microsoft-365/admin/manage/message-center).
+Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
-ms.openlocfilehash: ec2373a988d66102ba2b2b50d957e659be12e5aa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
-ms.translationtype: HT
+ms.openlocfilehash: 860241d88cb986ff427b9b75b57bb09d7a4f8a6e
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294167"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172756"
 ---
 # <a name="office-applications"></a>Aplicativos do Office
 
@@ -54,7 +54,7 @@ Microsoft Access é uma solução de gerenciamento de banco de dados para sistem
   
 ## <a name="skype-for-business"></a>Skype for Business
 
-O Skype for Business é um cliente de mensagens instantâneas e aplicativo de comunicação unificado. Consulte [O que há de novo no Skype for Business Server 2019](https://docs.microsoft.com/skypeforbusiness/whats-new).
+O Skype for Business é um cliente de mensagens instantâneas e aplicativo de comunicação unificado. Consulte [O que há de novo no Skype for Business Server 2019](/skypeforbusiness/whats-new).
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
@@ -85,4 +85,3 @@ Os aplicativos Office para Windows 10 Mobile são otimizados para telas sensíve
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
 Para visualizar a disponibilidade de recursos entre os planos, opções autônomas e soluções no local, consulte [Descrição dos serviços de aplicativos do Office](office-applications-service-description.md).
-  

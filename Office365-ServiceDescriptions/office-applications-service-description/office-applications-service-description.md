@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: O Microsoft 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office que você já conhece, como Word, Excel e PowerPoint.
-ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902020"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173896"
 ---
 # <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
@@ -36,7 +36,7 @@ Use a tabela a seguir para comparar a disponibilidade de recursos entre planos e
   
 Vários dos planos do Microsoft 365 para empresas têm complementos que você pode comprar para sua assinatura. Um complemento oferece funcionalidade adicional à assinatura. Para obter mais informações, [consulte Comprar ou editar um complemento](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).<br><br>
 
-| Aplicativo/recurso | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps para empresas | Microsoft 365 Apps para Pequenos e Médios negócios | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Aplicativo/recurso | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps para Grandes Empresas | Microsoft 365 Apps para Pequenos e Médios negócios | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Aplicativos do Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -55,7 +55,7 @@ Vários dos planos do Microsoft 365 para empresas têm complementos que você po
 |[Office Mobile para Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Não  <br/> |Não  <br/> |Não <br/> |Sim <br/>|Sim  <br/> |Sim  <br/> |Sim<sup>13</sup>  <br/> |Sim  <br/> |Sim<sup>13</sup>  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>13</sup>  <br/> |
 |Outlook para Android  <br/> |Não  <br/> |Não  <br/> |Não  <br/>|Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
 |Microsoft Teams  <br/> |Não  <br/> |Não  <br/> |Sim <br/>|Sim  <br/> |Sim  <br/> |Sim <br/> |Sim  <br/> |Sim  <br/> |Sim <br/> |Sim  <br/> |Sim  <br/> |Sim <br/> |
-|**Valor da empresa** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Microsoft 365 Apps para empresas** <br/> |**Microsoft 365 Apps para Pequenos e Médios negócios** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
+|**Valor da empresa** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Microsoft 365 Apps para empresas** <br/> |**Microsoft 365 Apps para Pequenos e Médios Negócios** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |5 instalações por usuário em PC ou Mac  <br/> |Não  <br/> |Não  <br/>| Não  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim<sup>7</sup> <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> | 
 |Provisionamento automatizado de contas de usuário  <br/> |N/D  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Interface de usuário multilíngue  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/>|Sim  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Sim <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |
@@ -95,7 +95,7 @@ Vários dos planos do Microsoft 365 para empresas têm complementos que você po
 <sup>2</sup> A Proteção de Informações do Azure não está incluída, mas pode ser comprada como um complemento separado e permitirá os recursos de Gerenciamento de Direitos de Informação (IRM) com suporte. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura do Microsoft 365 Apps para empresas, que não está incluída no Microsoft 365 Business Basic, no Microsoft 365 Business Standard, no Office 365 E1, no Office 365 Education ou no Office 365 F3.<br/>
 <sup>3</sup> O Windows Server AD RMS é um servidor local que precisa ser adquirido e gerenciado separadamente de forma a permitir os recursos de IRM com suporte.<br/>
 <sup>4</sup> Se você tiver o Office 2013 Professional Plus ou uma versão autônoma do Excel 2013, poderá usar o Power Map Preview para Excel 2013, que é um complemento sem suporte. A versão anterior do Power Map Preview expirou e não funcionará com nenhuma versão do Excel. Se você instalou a versão anterior, desinstale-a do Painel de Controle e baixe e instale a versão atual do Power Map Preview. Esta versão tem a mesma funcionalidade da versão do Power Map lançada com o Microsoft 365 SP1.<br/> 
-<sup>5</sup> O Skype for Business Basic está disponível para todos os clientes. O cliente da área de trabalho do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferência para planos que incluem o Skype for Business Online. Os Aplicativos do Microsoft 365 para empresas e o Office 365 E3 incluem o aplicativo skype completo, que inclui recursos adicionais, incluindo suporte avançado à telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. Para uma comparação de recursos e recursos, consulte Tabelas de comparação de cliente de área de [trabalho para Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
+<sup>5</sup> O Skype for Business Basic está disponível para todos os clientes. O cliente da área de trabalho do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferência para planos que incluem o Skype for Business Online. Os Aplicativos do Microsoft 365 para empresas e o Office 365 E3 incluem o aplicativo skype completo, que inclui recursos adicionais, incluindo suporte avançado à telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. Para uma comparação de recursos e recursos, consulte Tabelas de comparação de cliente de área de [trabalho para Lync Server 2013](/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
 <sup>6</sup> Algumas escolas estão qualificadas para o Education Plus, que inclui o Microsoft 365 Apps para empresas e permite que alunos, professores e funcionários instalem a versão mais recente do Office em até cinco computadores PC ou Mac e em outros dispositivos móveis, incluindo tablets do Windows e o iPad. As escolas se qualificam para o Education Plus do Office 365 quando licenciam o Office em toda a instituição para professores e funcionários por meio do Registro para Soluções Educacionais, Soluções Educacionais de Assinatura Open Value ou um contrato escolar. Observe que o Access e o Publisher estão disponíveis apenas em PCs. O OneNote para Mac está disponível como um download separado na Mac App Store. <br/>
 <sup>7 O</sup> Office para Mac 2011 pode ser instalado, mas não ativado. <br/>
 <sup>8 O</sup> Microsoft 365 Apps para empresas tem suporte na VDI (infraestrutura de área de trabalho virtual) dedicada ao usuário. Os Aplicativos do Microsoft 365 para empresas só suportam serviços de área de trabalho remota (RDS) quando comprados por meio de um Programa de Licenciamento por Volume.<br/>

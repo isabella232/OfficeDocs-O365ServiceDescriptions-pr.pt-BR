@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Se você for um administrador, poderá encontrar instruções detalhadas para configurar os recursos do Skype for Business Online em Configurar o Skype for Business Online.
-ms.openlocfilehash: 0ed4c057ba8421a14a4848993159587506abeeac
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572697"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172666"
 ---
 # <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
 
@@ -29,7 +29,7 @@ Se você for um administrador, poderá encontrar instruções detalhadas para co
     
 - Confira as opções do Skype for Business em um dispositivo móvel em [Instalar o Skype for Business em um dispositivo móvel](https://go.microsoft.com/fwlink/?linkid=847564).
     
-- Confira uma comparação detalhada entre os clientes da Web e da área de trabalho do Skype for Business em [Tabelas de comparação de clientes do Skype for Business Online](https://go.microsoft.com/fwlink/?linkid=829754). Confira uma comparação detalhada dos clientes de dispositivos móveis do Skype for Business em [Tabelas de comparação de clientes de dispositivos móveis](https://go.microsoft.com/fwlink/?linkid=846932).
+- Confira uma comparação detalhada entre os clientes da Web e da área de trabalho do Skype for Business em [Tabelas de comparação de clientes do Skype for Business Online](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison). Confira uma comparação detalhada dos clientes de dispositivos móveis do Skype for Business em [Tabelas de comparação de clientes de dispositivos móveis](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison).
     
 Para baixar o cliente para seu dispositivo móvel, pc ou Mac, vá para [Baixar o Skype for Business em todos os seus dispositivos.](https://go.microsoft.com/fwlink/?linkid=846929)
   
@@ -57,7 +57,7 @@ Consulte [Definir opções de dispositivo de áudio no Skype for Business](https
 
 A conectividade externa do Skype for Business (federação) permite que os usuários do Skype for Business se conectem com usuários em outras organizações que usam o Skype for Business, bem como aqueles que hospedam seu próprio Skype for Business Server no local. Os contatos federados podem ver a presença, comunicar-se usando mensagem instantânea e fazer chamadas de áudio e vídeo de Skype para Skype. Todas as comunicações federadas são criptografadas entre os sistemas de mensagem instantânea usando os servidores proxy de acesso. A Microsoft não controla a criptografia após as mensagens serem passadas à rede do parceiro federado (se o parceiro estiver federado com um Skype for Business Server local ou uma rede de terceiros).
   
-A conectividade externa do Skype for Business requer a configuração correta e o consentimento de ambas as partes da relação de federação. Depois que a federação é configurada pelos administradores de ambos os lados, os usuários em cada organização podem ver presença e se comunicar com os usuários na outra organização. A federação só tem suporte entre outros ambientes do Skype for Business, com servidores proxy de acesso ou borda configurados adequadamente. Para saber mais sobre a configuração do servidor de Borda, consulte Componentes necessários para o acesso do usuário externo [no Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access).
+A conectividade externa do Skype for Business requer a configuração correta e o consentimento de ambas as partes da relação de federação. Depois que a federação é configurada pelos administradores de ambos os lados, os usuários em cada organização podem ver presença e se comunicar com os usuários na outra organização. A federação só tem suporte entre outros ambientes do Skype for Business, com servidores proxy de acesso ou borda configurados adequadamente. Para saber mais sobre a configuração do servidor de Borda, consulte Componentes necessários para o acesso do usuário externo [no Lync Server 2013](/lyncserver/lync-server-2013-components-required-for-external-user-access).
   
 ## <a name="skype-for-business-online-meetings"></a>Reuniões do Skype for Business Online
 
@@ -112,15 +112,15 @@ Para ver os tópicos mais recentes da ajuda do Administrador do Skype for Busine
 
 A audioconferência é qualquer conferência na qual pelo menos um participante disca para a parte de áudio usando um telefone. A capacidade de usar um telefone para acessar uma reunião é útil para pessoas que estão viajando ou que não podem participar de uma reunião usando um PC ou dispositivo móvel. Em outras situações, usar um telefone também pode ser uma opção melhor, como quando a conectividade com a Internet é limitada ou quando uma reunião é apenas de áudio.
   
-Com a audioconferência, os usuários da organização criam e hospedam reuniões com números de acesso telefônico. Os chamadores podem usar esses números para entrar em uma reunião pelo telefone. Os usuários que entrarem na reunião por telefone terão acesso apenas ao áudio, não a mensagens instantâneas, áreas de trabalho ou arquivos compartilhados. Basta configurar uma conferência discada para os usuários que pretendem agendar ou conduzir reuniões. A menos que o organizador bloqueie a reunião, todos que tiverem o número de acesso e a ID da Conferência poderão ingressar nela. Saiba mais em [Introdução à audioconferência](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) e [Números disponíveis para audioconferência](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Com a audioconferência, os usuários da organização criam e hospedam reuniões com números de acesso telefônico. Os chamadores podem usar esses números para entrar em uma reunião pelo telefone. Os usuários que entrarem na reunião por telefone terão acesso apenas ao áudio, não a mensagens instantâneas, áreas de trabalho ou arquivos compartilhados. Basta configurar uma conferência discada para os usuários que pretendem agendar ou conduzir reuniões. A menos que o organizador bloqueie a reunião, todos que tiverem o número de acesso e a ID da Conferência poderão ingressar nela. Saiba mais em [Introdução à audioconferência](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) e [Números disponíveis para audioconferência](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 Você pode habilitar a conferência discada usando a Microsoft como provedor de conferência discada ou usando um provedor de conferência discada de terceiros (também chamado de provedor de audioconferência ou ACP).
   
-A audioconferência não está disponível em todos os países ou regiões. Confira a lista de países ou regiões nos quais é possível adquirir a audioconferência em [Onde você pode obter a audioconferência?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+A audioconferência não está disponível em todos os países ou regiões. Confira a lista de países ou regiões nos quais é possível adquirir a audioconferência em [Onde você pode obter a audioconferência?](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json).
   
 ## <a name="calling-plans"></a>Planos de Chamadas
 
-O Skype for Business inclui recursos de chamadas encontrados na PSTN (Rede Telefônica Pública Comutada). Planos de Chamadas são um [](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365) complemento para o Sistema de Telefonia que permite que você pesquise, adquira e atribua números de telefone aos usuários em sua organização para que eles possam fazer chamadas e receber chamadas de pessoas dentro e fora da organização, diretamente do Office 365. Os usuários atribuídos a números de telefone podem fazer chamadas de voz em todos os dispositivos do Skype for Business, como telefones VoIP, PCs e dispositivos móveis. Eles também podem controlar as chamadas usando recursos como ativar/desativar mudo, esperar/retomar, transferências de chamadas, encaminhamento de chamadas e, se necessário, chamadas de emergência. 
+O Skype for Business inclui recursos de chamadas encontrados na PSTN (Rede Telefônica Pública Comutada). Planos de Chamadas são um [](#phone-system-in-office-365) complemento para o Sistema de Telefonia que permite que você pesquise, adquira e atribua números de telefone aos usuários em sua organização para que eles possam fazer chamadas e receber chamadas de pessoas dentro e fora da organização, diretamente do Office 365. Os usuários atribuídos a números de telefone podem fazer chamadas de voz em todos os dispositivos do Skype for Business, como telefones VoIP, PCs e dispositivos móveis. Eles também podem controlar as chamadas usando recursos como ativar/desativar mudo, esperar/retomar, transferências de chamadas, encaminhamento de chamadas e, se necessário, chamadas de emergência. 
   
 Saiba mais sobre os planos de chamadas disponíveis em [Planos de chamadas do Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Para obter mais informações e configurar um Plano de Chamada, consulte [Qual Plano de Chamada é o correto para você?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: O Microsoft Exchange Online usa um modelo de Controle de Acesso Baseado em Função (RBAC) para permitir que os administradores da organização controlem detalhadamente o que usuários e funcionários de TI podem fazer no serviço. Por exemplo, se um responsável pela conformidade for responsável por solicitações de pesquisa de caixa de correio, o administrador poderá delegar esse recurso administrativo ao responsável por meio de RBAC. O Exchange Online usa a mesma estrutura de RBAC do Microsoft Exchange Server 2013.
-ms.openlocfilehash: 0593c98857a7ce0c487c628018097395d7a5fe50
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: b66dc5b0cfdfea5c700afbb5ac38a8309236b427
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132685"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173756"
 ---
 # <a name="permissions"></a>Permissões
 
@@ -24,7 +24,7 @@ O Microsoft Exchange Online usa um modelo de Controle de Acesso Baseado em Funç
   
 Em seu nível mais alto, o RBAC é composto por funções de gerenciamento, grupos de funções de gerenciamento e políticas de atribuição de função de gerenciamento. As seções a seguir fornecem mais informações sobre cada componente do RBAC.
   
-Confira mais informações sobre o modelo de permissões do RBAC usado no Exchange Online em [Permissões](https://go.microsoft.com/fwlink/p/?LinkId=271935).
+Confira mais informações sobre o modelo de permissões do RBAC usado no Exchange Online em [Permissões](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-based-permissions"></a>Permissões baseadas em função
 
@@ -34,7 +34,7 @@ Existem dois tipos de funções, funções administrativas e de usuário final:
   
 - **Funções administrativas** Essas funções contêm permissões que podem ser atribuídas a administradores ou usuários especialistas que utilizam grupos de funções que gerenciam uma parte da organização do Exchange Online, como destinatários, servidores ou bancos de dados. 
     
-- **Funções de usuário final** Essas funções, atribuídas por meio de diretivas de atribuição de função, permitem que os usuários gerenciem aspectos de suas próprias caixas de correio e grupos de distribuição de sua propriedade. As funções de usuário final começam com o prefixo  `My`.
+- **Funções de usuário final** Essas funções, atribuídas usando políticas de atribuição de função, permitem que os usuários gerenciem aspectos de suas próprias caixas de correio e grupos de distribuição que eles têm. As funções de usuário final começam com o prefixo  `My`.
     
 As funções atribuem permissões aos administradores e usuários para executar tarefas por meio da disponibilização de cmdlets. Como o EAC (centro de administração do Exchange) e o Shell de Gerenciamento do Exchange usam cmdlets para gerenciar o Exchange Online, conceder acesso a um cmdlet fornece ao administrador ou usuário a permissão para executar a tarefa em cada uma das interfaces de gerenciamento do Exchange Online.
   
@@ -43,16 +43,16 @@ As permissões baseadas em função do Microsoft Online Services sobrepõem as d
 > [!IMPORTANT]
 > Algumas funções disponíveis na versão local do Microsoft Exchange Server 2013 podem não estar disponíveis no Exchange Online. 
   
-Confira mais informações sobre permissões no Exchange Online em [Permissões Baseadas em Função](https://go.microsoft.com/fwlink/p/?LinkId=271936).
+Confira mais informações sobre permissões no Exchange Online em [Permissões Baseadas em Função](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-groups"></a>Grupos de função
 
-Grupos de funções de Gerenciamento associam papéis de gerenciamento a um grupo de administradores ou usuários especialistas. Os administradores gerenciam uma ampla configuração de organização ou destinatário do Exchange Online. Usuários especialistas gerenciam os recursos específicos do Exchange Online, como conformidade, ou podem ter recursos de gerenciamento limitados, como membros de Suporte Técnico, mas não recebem amplos direitos administrativos. Grupos de função geralmente associam funções de gerenciamento administrativo que permitem que administradores e usuários especialistas gerenciem a configuração de sua organização e seus destinatários. Por exemplo, grupos de função controlam se administradores podem gerenciar destinatários ou usar recursos de descoberta da caixa de correio. 
+Grupos de funções de Gerenciamento associam papéis de gerenciamento a um grupo de administradores ou usuários especialistas. Os administradores gerenciam uma ampla configuração de organização ou destinatário do Exchange Online. Usuários especialistas gerenciam os recursos específicos do Exchange Online, como conformidade, ou podem ter recursos de gerenciamento limitados, como membros de Suporte Técnico, mas não recebem amplos direitos administrativos. Os grupos de funções geralmente associam funções de gerenciamento administrativas que permitem que administradores e usuários especialistas gerenciem a configuração de sua organização e destinatários. Por exemplo, grupos de função controlam se administradores podem gerenciar destinatários ou usar recursos de descoberta da caixa de correio. 
   
 > [!IMPORTANT]
 > Alguns grupos de funções disponíveis na versão local do Microsoft Exchange Server 2013 podem não estar disponíveis no Exchange Online. 
   
-Confira mais informações sobre grupos de funções em [Grupos de funções e políticas de atribuição de funções](https://go.microsoft.com/fwlink/p/?LinkId=271937).
+Confira mais informações sobre grupos de funções em [Grupos de funções e políticas de atribuição de funções](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-assignment-policies"></a>Diretivas de atribuição de função
 
@@ -61,10 +61,8 @@ Diretivas de atribuição de função de gerenciamento associam funções de ger
 > [!IMPORTANT]
 > Algumas atribuições de funções disponíveis na versão local do Microsoft Exchange Server 2013 podem não estar disponíveis no Exchange Online. 
   
-Confira mais informações sobre políticas de atribuição de funções em [Grupos de funções e políticas de atribuição de funções](https://go.microsoft.com/fwlink/p/?LinkId=271937).
+Confira mais informações sobre políticas de atribuição de funções em [Grupos de funções e políticas de atribuição de funções](/exchange/permissions-exchange-2013-help).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
-  
-
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição [do serviço do Exchange Online.](exchange-online-service-description.md)

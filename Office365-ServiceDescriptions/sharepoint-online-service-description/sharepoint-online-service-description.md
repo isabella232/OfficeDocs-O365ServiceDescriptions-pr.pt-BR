@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Confira quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901926"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174096"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -32,7 +32,7 @@ Para uma visão geral rápida, consulte [O que é o SharePoint?](https://support
   
 Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para SharePoint, consulte a [tabela de comparação de assinatura completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans). Para requisitos de sistema do Microsoft 365, consulte [Microsoft 365 and Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
 
-Para saber mais sobre as diferenças de recursos do SharePoint para clientes de nuvem do governo dos EUA, consulte [SharePoint for US government environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
+Para saber mais sobre as diferenças de recursos do SharePoint para clientes de nuvem do governo dos EUA, consulte [SharePoint for US government environments](../office-365-platform-service-description/office-365-us-government/sharepoint.md).
   
 ## <a name="whats-new"></a>Novidades
 
@@ -54,7 +54,7 @@ O OneDrive no Microsoft 365 é armazenamento online para usuários individuais e
 
 ## <a name="apps"></a>Aplicativos
 
-Para sincronizar arquivos do SharePoint em um computador, os usuários podem usar o aplicativo de sincronização [do OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) para Windows ou Mac. Para obter informações sobre a disponibilidade de recursos no aplicativo de sincronização, consulte a descrição [do serviço do OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description) 
+Para sincronizar arquivos do SharePoint em um computador, os usuários podem usar o aplicativo de sincronização [do OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) para Windows ou Mac. Para obter informações sobre a disponibilidade de recursos no aplicativo de sincronização, consulte a descrição [do serviço do OneDrive.](../onedrive-for-business-service-description.md) 
 
 Para trabalhar com sites do SharePoint em um dispositivo móvel, eles podem instalar o aplicativo móvel do [SharePoint para iOS, Android ou Windows](https://products.office.com/sharepoint/mobile-app). 
   
@@ -81,7 +81,7 @@ Para uma visão geral das opções de personalização, consulte [Personalizaç�
 
 Para saber mais sobre a disponibilidade do Microsoft Power Apps e do Power Automate, consulte as Perguntas frequentes sobre o licenciamento do Power Apps e [do Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Para saber mais sobre a disponibilidade do Microsoft Graph, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Para saber mais sobre a disponibilidade do Microsoft Graph, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
 
 ## <a name="it-admin-features"></a>Recursos de administrador de IT
 
@@ -110,7 +110,7 @@ A menos que seja notado de outra forma, os seguintes recursos estão disponívei
 
 Para obter informações sobre a disponibilidade dos serviços de migração do FastTrack, consulte os planos [e serviços qualificados.](/fasttrack/m365-eligible-services-and-plans) 
 
-Para obter informações sobre recursos relacionados ao compartilhamento, consulte a descrição [do serviço do OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description)
+Para obter informações sobre recursos relacionados ao compartilhamento, consulte a descrição [do serviço do OneDrive.](../onedrive-for-business-service-description.md)
 
 Para ajudar o administrador do SharePoint, consulte [Administrador do SharePoint Online](/sharepoint/sharepoint-online).
 
@@ -127,9 +127,9 @@ A menos que seja notado de outra forma, os seguintes recursos estão disponívei
 - [Restaurar uma biblioteca de documentos para um ponto anterior no tempo](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Verificação de vírus](/office365/securitycompliance/virus-detection-in-spo)
 
-Para obter informações sobre recursos relacionados ao compartilhamento, consulte a descrição [do serviço do OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description)
+Para obter informações sobre recursos relacionados ao compartilhamento, consulte a descrição [do serviço do OneDrive.](../onedrive-for-business-service-description.md)
 
-O SharePoint se integra aos recursos avançados de segurança e conformidade do Microsoft 365. Para obter informações sobre a disponibilidade dos seguintes recursos, consulte a descrição do serviço de conformidade & [segurança](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center):
+O SharePoint se integra aos recursos avançados de segurança e conformidade do Microsoft 365. Para obter informações sobre a disponibilidade dos seguintes recursos, consulte a descrição do serviço de conformidade & [segurança](../office-365-platform-service-description/office-365-securitycompliance-center.md):
 
 - [Sistema de Proteção de Dados do Cliente](/microsoft-365/compliance/customer-lockbox-requests)
 - [DLP (Prevenção contra perda de dados)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -188,7 +188,7 @@ A menos que seja notado de outra forma, os seguintes recursos estão disponívei
 
 Para saber mais sobre a disponibilidade do Microsoft Power Apps e do Power Automate, consulte as Perguntas frequentes sobre o licenciamento do Power Apps e [do Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Para obter informações sobre recursos relacionados ao compartilhamento, consulte a descrição [do serviço do OneDrive.](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)
+Para obter informações sobre recursos relacionados ao compartilhamento, consulte a descrição [do serviço do OneDrive.](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)
 
 ## <a name="search-features"></a>Recursos de pesquisa
 
@@ -202,6 +202,4 @@ A menos que seja notado de outra forma, os seguintes recursos estão disponívei
 - [Centro de pesquisa (pesquisa clássica)](/sharepoint/manage-search-center)
 - [Esquema de pesquisa (pesquisa clássica e moderna)](/sharepoint/manage-search-schema)
 
-Para obter informações sobre o Delve, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description) 
-
-
+Para obter informações sobre o Delve, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md)

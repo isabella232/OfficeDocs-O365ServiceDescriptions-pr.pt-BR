@@ -12,33 +12,33 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Com todas as assinaturas do Microsoft Office 365 for Enterprise, Business, Education e governamental, o suporte da Microsoft oferece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do centro de administração do Microsoft365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte Opções de suporte da Microsoft.
-ms.openlocfilehash: b7f4a0fffc903c65a2a51e2267b420c24fdd12b0
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+description: A cada Microsoft Office 365 para assinatura corporativa, corporativa, educacional e governamental, o Suporte da Microsoft fornece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do Centro de administração do Microsoft365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte Opções de Suporte da Microsoft.
+ms.openlocfilehash: f2279db8689f30d6906f33d6c2531ddfb4223784
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261563"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172786"
 ---
 # <a name="support"></a>Suporte
 
-Com todas as assinaturas do Microsoft Office 365 for Enterprise, Business, Education e governamental, o suporte da Microsoft oferece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do centro de administração do Microsoft 365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte [Opções de suporte da Microsoft](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+A cada Microsoft Office 365 para assinatura corporativa, corporativa, educacional e governamental, o Suporte da Microsoft fornece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do Centro de administração do Microsoft 365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte [Opções de Suporte da Microsoft](/Office365/Admin/contact-support-for-business-products).
   
-Administradores autorizados podem usar o centro de administração do Microsoft 365 para enviar solicitações de serviço online, acessar números de telefone de suporte e exibir todas as solicitações de serviço abertas e fechadas recentemente. As solicitações de serviço enviadas no centro de Administração podem ser reabertas por até 14 dias após o encerramento da solicitação. Para obter instruções, consulte [entrar em contato com o suporte da Microsoft 365 para empresas](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+Os administradores autorizados podem usar o Centro de administração do Microsoft 365 para enviar solicitações de serviço online, acessar números de telefone de suporte e exibir todas as solicitações de serviço abertas e fechadas recentemente. As solicitações de serviço enviadas no centro de administração podem ser reabertas por até 14 dias após o fechamento da solicitação. Para obter instruções, consulte [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
   
-A equipe de suporte técnico do Microsoft 365 soluciona apenas os problemas relacionados ao Microsoft 365 e ao Office 365. Os problemas que são originados nas redes do cliente ficam fora dos limites de suporte e, nesses casos, os clientes devem trabalhar com sua equipe de rede ou a equipe de contato com a [rede da Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) para obter assistência.
+A equipe de suporte técnico do Microsoft 365 soluciona apenas os problemas relacionados ao Microsoft 365 e ao Office 365. Os problemas originados em redes de clientes estão fora dos limites de suporte e, nesses casos, os clientes devem trabalhar com sua equipe de rede ou envolver a equipe [de Rede](https://support.microsoft.com/gp/contactus81?Audience=Commercial) da Microsoft para assistência.
   
 ## <a name="community-and-self-service-support-options"></a>Opções de suporte de autoatendimento e da comunidade
 
-O suporte de autoatendimento está disponível para todos os planos e inclui ferramentas e vídeos de solução de problemas, artigos e vídeos de ajuda, além de fóruns e wikis na [comunidade do Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para obter mais informações sobre recursos de suporte de autoatendimento, consulte a descrição do serviço de [ajuda e treinamento](help-and-training.md) .
+O suporte autoatendado está disponível para todos os planos e inclui ferramentas de solução de problemas e vídeos, artigos de ajuda e vídeos, bem como fóruns e wikis na comunidade [do Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para obter mais informações sobre recursos de suporte a autoatendados, consulte [a descrição do serviço de ajuda e](help-and-training.md) treinamento.
   
 ## <a name="pre-sales-support"></a>Suporte para pré-vendas
 
-O suporte de pré-venda fornece assistência sobre recursos de assinatura e benefícios, planos de comparação, preços e licenciamento e ajuda a identificar a solução certa para atender às suas necessidades de negócios. Além disso, pode ajudá-lo a encontrar um parceiro e a comprar e inscrever-se em uma assinatura de avaliação. Você pode ligar durante o horário comercial local, de segunda a sexta-feira. É possível acessar o suporte para pré-vendas usando o mesmo telefone do suporte técnico. O número de telefone de suporte pode ser encontrado no centro de administração da avaliação gratuita. Para obter instruções, consulte [entrar em contato com o suporte da Microsoft 365 para empresas](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+O suporte a pré-vendas fornece assistência sobre recursos e benefícios de assinatura, planeja comparações, preços e licenciamento e ajuda a identificar a solução certa para atender às suas necessidades comerciais. Além disso, pode ajudá-lo a encontrar um parceiro e a comprar e inscrever-se em uma assinatura de avaliação. Você pode ligar durante o horário comercial local, de segunda a sexta-feira. É possível acessar o suporte para pré-vendas usando o mesmo telefone do suporte técnico. O número de telefone de suporte pode ser encontrado no centro de administração da avaliação gratuita. Para obter instruções, consulte [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
   
 ## <a name="billing-and-subscription-management-support"></a>Suporte para gerenciamento de assinatura e cobrança
 
-A assistência para problemas de gerenciamento de assinatura e cobrança está disponível online ou por telefone durante o horário comercial local, de segunda a sexta-feira. É possível acessar o suporte para gerenciamento de assinatura e cobrança usando o mesmo telefone e processo de solicitação de serviço online do suporte técnico. O número de telefone de suporte pode ser encontrado no centro de administração. Para obter instruções, consulte [entrar em contato com o suporte da Microsoft 365 para empresas](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+A assistência para problemas de gerenciamento de assinatura e cobrança está disponível online ou por telefone durante o horário comercial local, de segunda a sexta-feira. É possível acessar o suporte para gerenciamento de assinatura e cobrança usando o mesmo telefone e processo de solicitação de serviço online do suporte técnico. O número de telefone de suporte pode ser encontrado no centro de administração. Para obter instruções, consulte [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
   
 Aqui estão alguns exemplos de problemas de gerenciamento de assinatura e cobrança:
   
@@ -56,17 +56,17 @@ Aqui estão alguns exemplos de problemas de gerenciamento de assinatura e cobran
 
 ## <a name="technical-support"></a>Suporte técnico
 
-Suporte técnico para assinaturas do Microsoft 365 fornece assistência com instalação básica, configuração e uso técnico geral. Alguns exemplos desses problemas são listados na tabela a seguir.<br><br>
+O suporte técnico para assinaturas do Microsoft 365 fornece assistência com instalação básica, instalação e uso técnico geral. Alguns exemplos desses problemas são listados na tabela a seguir.<br><br>
   
 | Categoria de suporte | Exemplos |
 |:-----|:-----|
-|Instalação e configuração  <br/> | Exchange Online:  <br/>  Migração de caixa de correio  <br/>  Configuração de destinatário (permissões de caixa de correio, configuração de encaminhamento de email, configuração de caixa de correio compartilhada)  <br/>  Configuração da Descoberta Automática  <br/>  SharePoint Online:  <br/>  Grupos de usuários e permissões  <br/>  Configuração de usuários externos  <br/>  Skype for Business online:  <br/>  Instalação e criação de contatos  <br/>  Microsoft 365 aplicativos para empresas: assistência para instalação e configuração  <br/> |
+|Instalação e configuração  <br/> | Exchange Online:  <br/>  Migração de caixa de correio  <br/>  Configuração de destinatário (permissões de caixa de correio, configuração de encaminhamento de email, configuração de caixa de correio compartilhada)  <br/>  Configuração da Descoberta Automática  <br/>  SharePoint Online:  <br/>  Grupos de usuários e permissões  <br/>  Configuração de usuários externos  <br/>  Skype for Business online:  <br/>  Instalação e criação de contatos  <br/>  Aplicativos do Microsoft 365 para empresas: Assistência de instalação e instalação  <br/> |
 |Configuração  <br/> | Problemas de falha de configuração de serviço  <br/>  Problemas de provisionamento  <br/>  Redelegação e configuração de domínio  <br/>  Problemas de configuração de serviço  <br/>  SSO (logon único)  <br/>  Sincronização do Active Directory  <br/> |
 
 > [!NOTE]
-> Você pode saber como entrar em contato com o suporte técnico aqui: [entrar em contato com o suporte do Microsoft 365 para empresas](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+> Você pode aprender a entrar em contato com o suporte técnico aqui: Entre em contato com o Suporte do [Microsoft 365 para empresas.](/Office365/Admin/contact-support-for-business-products)
 >
-> O suporte técnico não inclui a solução de problemas de serviços ou suplementos de terceiros. Saiba mais sobre a localização de respostas de outros clientes na [comunidade da Microsoft](https://answers.microsoft.com).
+> O Suporte Técnico não inclui a solução de problemas de serviços ou complementos de terceiros. Saiba mais sobre como encontrar respostas de outros clientes na [Comunidade da Microsoft.](https://answers.microsoft.com)
   
 ### <a name="technical-support-case-handling"></a>Tratamento de caso de suporte técnico
 
@@ -80,9 +80,9 @@ Quando um caso é aberto, a Microsoft atribui um nível de severidade a ele de a
 
 ### <a name="technical-support-initial-response-times"></a>Tempos de resposta inicial do suporte técnico
 
-O tempo de resposta inicial é baseado nos níveis de severidade descritos acima e no tipo de assinatura. A tabela abaixo descreve as metas de tempo de resposta.<br><br>
+O tempo inicial de resposta baseia-se nos níveis de gravidade descritos acima e no tipo de assinatura. A tabela abaixo descreve as metas de tempo de resposta.<br><br>
   
-| Nível de severidade | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 aplicativos para empresas<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup> | Office 365 E1<sup>2</sup><br> Office 365 E3<sup>2</sup><br> Office 365 governo G2<sup>2</sup><br> Office 365 governo dos EUA E3<sup>2</sup><br> Office 365 para educação<sup>2</sup> | Office 365 F1<sup>2</sup><br> Office 365 governo dos EUA K1<sup>2</sup> | Opções de suporte elevado<sup>3</sup> |
+| Nível de severidade | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 Apps for business<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup> | Office 365 E1<sup>2</sup><br> Office 365 E3<sup>2</sup><br> Office 365 Government G2<sup>2</sup><br> Office 365 US Government E3<sup>2</sup><br> Office 365 para educação<sup>2</sup> | Office 365 F1<sup>2</sup><br> Office 365 US Government K1<sup>2</sup> | Opções de suporte<sup>elevados 3</sup> |
 |:-----|:-----|:-----|:-----|:-----|
 | Severidade A (Crítica)  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: uma hora  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: uma hora  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: uma hora  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: uma hora  <br/> |
 |Severidade B (Alta)  <br/> |Disponível: horário comercial  <br/> Tempo de resposta: sem compromisso  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: próximo dia  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: próximo dia  <br/> |Disponível: 24/7<sup>4</sup> <br/> Tempo de resposta: 2 horas  <br/> |
@@ -90,17 +90,17 @@ O tempo de resposta inicial é baseado nos níveis de severidade descritos acima
 
 > [!NOTE]
 > <sup>1</sup> Os planos Business incluem suporte em horário comercial para problemas não críticos e suporte por telefone 24 horas por dia, sete dias por semana da Microsoft.<br/>
-> <sup>2</sup> os planos corporativos incluem suporte por telefone 24/7 da Microsoft para todos os problemas.<br/>
-> <sup>3</sup> para obter descrições das opções de suporte elevado, consulte [Opções de suporte adicionais](support.md#additional-support-options).<br/>
+> <sup>2</sup> Os planos empresariais incluem suporte telefônico 24/7 da Microsoft para todos os problemas.<br/>
+> <sup>3 Para</sup> obter descrições das opções de suporte elevados, consulte [Opções de suporte adicionais.](support.md#additional-support-options)<br/>
 > <sup>4</sup> As chamadas e solicitações de serviço são atendidas 24 horas por dia, sete dias por semana na maioria dos países e regiões.
   
 ### <a name="support-for-standalone-plans"></a>Suporte para planos autônomos
 
-O suporte para planos autônomos pagos é tratado com o mesmo nível de objetivos de tempo de resposta e suporte que os planos na família de serviços corporativos. Para obter uma lista dos planos autônomos, veja [Standalone services](office-365-plan-options.md#standalone-services).
+O suporte para planos autônomos pagos é tratado com o mesmo nível de objetivos de tempo de resposta e suporte que os planos na família de serviços Enterprise. Para obter uma lista dos planos autônomos, veja [Standalone services](office-365-plan-options.md#standalone-services).
   
 ### <a name="technical-support-languages"></a>Idiomas de suporte técnico
 
-Dependendo do local e do idioma, os engenheiros de suporte estão disponíveis durante o horário comercial na maioria das regiões e, muitas vezes, 24 horas por dia. Confira mais informações em [números de telefone internacionais](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products) e [Opções de suporte da Microsoft](https://products.office.com/business/office-365-for-business-support-options). Se precisar de assistência adicional para tradução, peça aos engenheiros de suporte para continuarem na linha e providenciarem a participação de um tradutor na ligação.
+Dependendo do local e do idioma, os engenheiros de suporte estão disponíveis durante o horário comercial na maioria das regiões e, muitas vezes, 24 horas por dia. Para obter mais informações, consulte [International Phone Numbers](/Office365/Admin/contact-support-for-business-products) and Microsoft Support [Options](https://products.office.com/business/office-365-for-business-support-options). Se precisar de assistência adicional para tradução, peça aos engenheiros de suporte para continuarem na linha e providenciarem a participação de um tradutor na ligação.
   
 ## <a name="shared-support-responsibilities"></a>Responsabilidades compartilhadas de suporte
 
@@ -108,9 +108,9 @@ A Microsoft sabe que contar com suporte técnico de profissionais qualificados e
   
 ### <a name="administrator-role-and-responsibilities"></a>Função e responsabilidades do administrador
 
-Pessoas com funções de administrador da Microsoft são os únicos da organização do cliente autorizados a acessar a seção de **Administração** do centro de administração e se comunicar diretamente com a Microsoft sobre as solicitações de serviço.
+As pessoas com funções de administrador da Microsoft são as  únicas na organização do cliente autorizadas a acessar a seção Administrador do centro de administração e a se comunicar diretamente com a Microsoft sobre solicitações de serviço.
   
-Com o Office 365 for Enterprise e o plano de aplicativos do Microsoft 365, você pode designar vários tipos de administradores que servem a diferentes funções. A descrição do serviço usa o título genérico administrador para se referir a todas as categorias de administradores. Para saber mais sobre os tipos de funções de administrador, veja [Atribuir funções de administrador](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Com o Office 365 para empresas e o Plano de Aplicativos do Microsoft 365, você pode designar vários tipos de administradores que atendem a funções diferentes. A descrição do serviço usa o título genérico administrador para se referir a todas as categorias de administradores. Para saber mais sobre os tipos de funções de administrador, veja [Atribuir funções de administrador](/office365/admin/add-users/assign-admin-roles).
   
 O administrador é:
   
@@ -130,7 +130,7 @@ O administrador é:
 
 - Usar recursos de suporte de autoatendimento da Microsoft para resolver problemas de suporte.
 
-O administrador deve prestar assistência inicial para os usuários do cliente. No entanto, se o administrador não puder resolver problemas com a ajuda dos recursos de suporte de autoatendimento, eles deverão entrar em contato com o [suporte técnico](support.md#technical-support).
+O administrador deve prestar assistência inicial para os usuários do cliente. No entanto, se o administrador não conseguir resolver problemas com a ajuda de recursos de suporte pessoal, ele deverá entrar em [contato com o suporte técnico](support.md#technical-support).
   
 ### <a name="microsoft-support-role"></a>Função do suporte da Microsoft
 
@@ -154,7 +154,7 @@ O administrador deve prestar assistência inicial para os usuários do cliente. 
 
 ### <a name="elevated-support-options"></a>Opções de suporte elevado
 
-Enquanto os serviços de suporte incluídos na Microsoft atendem às necessidades de muitos clientes, os clientes com requisitos mais avançados ou ambientes complexos devem considerar as opções de suporte pago da Microsoft. Essas ofertas de suporte elevado incluem as metas de resposta mais rápidas, a possibilidade de definir níveis de severidade para os problemas e o acesso aos recursos técnicos adicionais e ao gerenciamento de conta de suporte.
+Embora os serviços de suporte incluídos na Microsoft atendem às necessidades de muitos clientes, os clientes com requisitos mais avançados ou ambientes complexos devem considerar as opções de suporte pago da Microsoft. Essas ofertas de suporte elevado incluem as metas de resposta mais rápidas, a possibilidade de definir níveis de severidade para os problemas e o acesso aos recursos técnicos adicionais e ao gerenciamento de conta de suporte.
   
 Os exemplos de suporte elevado incluem:
   
@@ -170,20 +170,20 @@ Há vários tipos de serviços de suporte adicionais disponíveis:
   
 - Para conhecer as opções destinadas a clientes de grandes corporações que têm interesse em um serviço de ciclo de vida completo para dar suporte à migração para o Office 365, confira [Serviços Microsoft para Office 365](https://www.microsoft.com/microsoftservices/cloud-productivity.aspx).
 
-- Para obter opções para clientes de grandes empresas que buscam um serviço de suporte gerenciado que abrange tecnologias da Microsoft e locais necessárias para acessar o serviço online, consulte [Premier Support](https://www.microsoft.com/enterprise/services/support).
+- Para opções para clientes de grandes empresas que procuram um serviço de suporte gerenciado que abrange tanto a Microsoft quanto as tecnologias locais necessárias para acessar o serviço online, consulte [Premier Support](https://www.microsoft.com/enterprise/services/support).
 
 - Para ver opções destinadas a clientes de pequenas empresas nos Estados Unidos, Canadá e Reino Unido, confira [Suporte para empresas](https://support.microsoft.com/help/4341255/support-for-business).
 
 ### <a name="partners"></a>Parceiros
 
-Você pode escolher um parceiro da Microsoft e delegar funções administrativas, inclusive a criação de tíquetes de solicitação de serviços. Para saber mais, veja a descrição do serviço de [Parceiros](partners.md) e confira o artigo [Adicionar, alterar ou excluir um parceiro consultor de assinaturas](https://docs.microsoft.com/office365/admin/misc/add-partner).
+Você pode escolher um parceiro da Microsoft e delegar funções administrativas, inclusive a criação de tíquetes de solicitação de serviços. Para saber mais, veja a descrição do serviço de [Parceiros](partners.md) e confira o artigo [Adicionar, alterar ou excluir um parceiro consultor de assinaturas](/office365/admin/misc/add-partner).
   
 ### <a name="developers"></a>Desenvolvedores
 
-Os desenvolvedores podem saber mais sobre como desenvolver aplicativos do Office e do SharePoint no [msdn Microsoft Developer Network](https://developer.microsoft.com/office/docs). O suporte ao desenvolvedor está disponível por meio de Blogs e fóruns online na Comunidade de desenvolvedores, por meio de recursos Premier ou Partner support, ou diretamente através da Microsoft. Para obter links para opções de suporte do desenvolvedor, consulte [support Resources](https://developer.microsoft.com/office/docs).
+Os desenvolvedores podem saber mais sobre o desenvolvimento de aplicativos do Office e do SharePoint no [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs). O Suporte para Desenvolvedores está disponível por meio de blogs online e fóruns na comunidade de desenvolvedores, por meio de recursos de suporte premier ou parceiro ou diretamente por meio da Microsoft. Para ver links para opções de Suporte para Desenvolvedores, consulte [Recursos de Suporte.](https://developer.microsoft.com/office/docs)
   
 > [!NOTE]
-> O Microsoft Team não oferece suporte a scripts (por exemplo, técnicas de script como JavaScript, VBScript e assim por diante ou VBA). Se precisar de ajuda com scripts, entre em contato com o [Suporte da Microsoft](https://support.microsoft.com/). Para o suporte de uso de aplicativos do Office, consulte [Opções de suporte para problemas de aplicativos do Microsoft Office para assinantes](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).
+> A equipe da Microsoft não dá suporte a scripts (por exemplo, técnicas de script como JavaScript, VBScript e assim por diante ou VBA). Se precisar de ajuda com scripts, entre em contato com o [Suporte da Microsoft](https://support.microsoft.com/). Para suporte ao uso de aplicativos do Office, consulte [Opções de suporte para Microsoft Office problemas de aplicativos para assinantes](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).
   
 ### <a name="volume-licensing"></a>Licenciamento por volume
 
@@ -199,4 +199,4 @@ Se você já adquiriu licenças da Microsoft em um programa de licenciamento por
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, consulte [Microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).
+Para exibir a disponibilidade de recursos entre planos, consulte a descrição do serviço da plataforma [do Microsoft 365 e do Office 365.](office-365-platform-service-description.md)

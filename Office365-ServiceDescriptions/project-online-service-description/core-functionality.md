@@ -10,19 +10,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Os recursos de funcionalidades principais a seguir estão disponíveis no Project online.
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: Os seguintes recursos principais de funcionalidade estão disponíveis no Project Online.
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411580"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172706"
 ---
 # <a name="core-functionality"></a>Funcionalidade principal
 
-Os recursos de funcionalidades principais a seguir estão disponíveis no Project online.
+Os seguintes recursos principais de funcionalidade estão disponíveis no Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição do serviço do Project online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
   
 ## <a name="add-columns"></a>Adicionar colunas
 
@@ -30,11 +30,11 @@ Adicione uma coluna à sua exibição. Para saber mais, confira [Como ocultar ou
   
 ## <a name="backstage"></a>Backstage
 
-Selecione **arquivo** para usar recursos no Backstage, onde você pode gerenciar seus arquivos de projeto e os dados sobre eles. Use o Backstage para tudo o que você faz para um arquivo de projeto que você não faz no arquivo: criar, salvar, inspecionar metadados ocultos ou informações pessoais e opções de configuração. 
+Selecione **Arquivo** para usar recursos no Backstage, onde você pode gerenciar seus arquivos de projeto e os dados sobre eles. Use o Backstage para tudo o que você faz para um arquivo de projeto que você não faz no arquivo: criar, salvar, inspecionar metadados ocultos ou informações pessoais e opções de configuração. 
   
 ## <a name="click-to-run"></a>Clique para Executar
 
-Instale rapidamente o Project online pela Internet, redes internas, sistemas de arquivos locais ou de mídia offline para garantir que você esteja atualizado com a versão mais recente do aplicativo de área de trabalho do Project. Para saber mais, confira [Clique para executar](https://go.microsoft.com/fwlink/p/?LinkId=271596).
+Instale rapidamente o Project Online pela Internet, redes internas, sistemas de arquivos locais ou mídia offline para garantir que você esteja atualizado com a versão mais recente do aplicativo de área de trabalho do Project. Para saber mais, confira [Clique para executar](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Menus contextuais exibidos com o botão direito
 
@@ -50,7 +50,7 @@ Colabore com o desenvolvimento do cronograma copiando e colando detalhes do cron
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
-Apresente as informações do projeto graficamente usando os modos de exibição gráfico de Gantt, diagrama de rede, gráfico, planilha, uso e formulário. Confira [Escolher modo de exibição correto do cronograma do projeto](https://go.microsoft.com/fwlink/?LinkId=402905).
+Apresentar informações do projeto graficamente usando gráfico de Gantt, Diagrama de Rede, gráfico, planilha, uso e exibições de formulário. Confira [Escolher modo de exibição correto do cronograma do projeto](https://go.microsoft.com/fwlink/?LinkId=402905).
   
 ## <a name="user-interface-the-ribbon"></a>Interface do usuário, a faixa de opções
 
@@ -58,7 +58,7 @@ Aumente a produtividade com a faixa de opções, uma interface de guias com a qu
 
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-Você pode desfazer várias alterações ao mesmo tempo usando o menu desfazer.
+Você pode desfazer várias alterações ao mesmo tempo usando o menu Desfazer.
   
 ## <a name="network-diagram-view"></a>Exibição de Diagrama de Rede
 
@@ -66,15 +66,15 @@ Exibir tarefas, dependências e o caminho crítico do seu projeto em um modo de 
   
 ## <a name="office-store"></a>Office Store
 
-Precisa de um aplicativo para ajudá-lo com o Project? Encontre novos aplicativos para o Project na Office Store. Confira [Suplementos para o Project](https://go.microsoft.com/fwlink/?LinkId=273883).
+Precisa de um aplicativo para ajudá-lo com o Project? Encontre novos aplicativos para o Project no Office Store. Confira [Suplementos para o Project](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Ajuda online
 
-A ajuda do Project está disponível no Office.com ou em guias de introdução diretamente no Project (selecione **arquivo** \> **novo**). [Assista a estes vídeos para fazer a mudança para o Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+A Ajuda do Project está disponível no Office.com ou em Guias de Iniciação diretamente no Project (selecione **Arquivo** \> **Novo**). [Assista a estes vídeos para fazer a mudança para o Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-Salvar um arquivo de projeto como um arquivo PDF ou XPS. Confira [Salvar um arquivo de projeto como PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Salve um arquivo project como um arquivo PDF ou XPS. Confira [Salvar um arquivo de projeto como PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -102,4 +102,4 @@ Use controles de zoom na barra de status para rapidamente alterar a perspectiva 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do [serviço do Project Online.](project-online-service-description.md)

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 5308770ff7fc6ab6c44f27293ff89ebbffa6e72f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 21df7d4747ae0b92f21a9da56c0d4bc9ff96ccaf
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132745"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173316"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidade, conectividade e compatibilidade
 
@@ -31,7 +31,7 @@ O Lync Server 2010 e o Lync Server 2013 locais poderão interoperar com o Exchan
     
 - Interoperabilidade de caixa postal
     
-Para saber mais sobre como configurar o Skype for Business Server 2015 com o Exchange Online, confira [Configurando a integração local do Skype for Business Server 2015 com o Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271804). Para configurações híbridas, confira [Configurações híbridas do Skype for Business Server 2015 compatíveis](https://go.microsoft.com/fwlink/?LinkID=513084).
+Para saber mais sobre como configurar o Skype for Business Server 2015 com o Exchange Online, confira [Configurando a integração local do Skype for Business Server 2015 com o Exchange Online](/skypeforbusiness/deploy/integrate-with-exchange-server/outlook-web-app). Para configurações híbridas, confira [Configurações híbridas do Skype for Business Server 2015 compatíveis](/skypeforbusiness/skype-for-business-hybrid-solutions/integration-with-exchange-and-sharepoint).
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
@@ -49,7 +49,7 @@ O Exchange Online oferece os seguintes recursos para a conexão com aplicativos 
     
 ### <a name="exchange-web-services"></a>Serviços Web do Exchange
 
-Serviços Web Exchange (EWS) são o API de desenvolvimento preferencial para o Exchange Server e o Exchange Online. Usando o EWS ou a API gerenciada do EWS, os administradores podem acessar os dados armazenados com o Exchange Online a partir dos aplicativos executados no local, no Azure ou em outros serviços hospedados. O EWS permite que os administradores realizem ações especializadas, como consultar o conteúdo de uma caixa de correio, postar um evento de calendário, criar uma tarefa ou acionar uma ação específica com base no conteúdo de uma mensagem de email. O Exchange Online habilita a funcionalidade EWS, concedendo permissões de aplicativo para as contas de clientes. Essas permissões permitem que o aplicativo de cliente acesse a caixa de correio do aplicativo e adicione conteúdo. A Representação do Exchange é um método usado para conceder permissões de aplicativo. Para obter mais detalhes sobre como usar os Serviços Web do Exchange com o Exchange Online, consulte os artigos técnicos no Centro de Desenvolvimento do Exchange Online.
+Serviços Web Exchange (EWS) são o API de desenvolvimento preferencial para o Exchange Server e o Exchange Online. Usando o EWS ou a API gerenciada do EWS, os administradores podem acessar os dados armazenados com o Exchange Online a partir dos aplicativos executados no local, no Azure ou em outros serviços hospedados. O EWS permite que os administradores executem ações especializadas, como consultar o conteúdo de uma caixa de correio, postar um evento de calendário, criar uma tarefa ou disparar uma ação específica com base no conteúdo de uma mensagem de email. O Exchange Online habilita a funcionalidade EWS, concedendo permissões de aplicativo para as contas de clientes. Essas permissões permitem que o aplicativo de cliente acesse a caixa de correio do aplicativo e adicione conteúdo. A Representação do Exchange é um método usado para conceder permissões de aplicativo. Para obter mais detalhes sobre como usar os Serviços Web do Exchange com o Exchange Online, consulte os artigos técnicos no Centro de Desenvolvimento do Exchange Online.
   
 ### <a name="smtp-relay"></a>Retransmissão SMTP
 
@@ -57,6 +57,4 @@ O Exchange Online pode ser usado como um serviço de entrega SMTP, para retransm
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Exchange Online](exchange-online-service-description.md).
-  
-
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição [do serviço do Exchange Online.](exchange-online-service-description.md)

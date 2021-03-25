@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Saiba mais sobre a disponibilidade de recursos do SharePoint para clientes de nuvem do governo dos EUA.
-ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902016"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172926"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Ambientes governamentais do SharePoint para EUA
 
-Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem governamental dos EUA e a nuvem comercial, conforme listado na descrição [do serviço do SharePoint.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description) O SharePoint está disponível para os ambientes GCC (Government Community Cloud), GCC High e DoD. 
+Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem governamental dos EUA e a nuvem comercial, conforme listado na descrição [do serviço do SharePoint.](../../sharepoint-online-service-description/sharepoint-online-service-description.md) O SharePoint está disponível para os ambientes GCC (Government Community Cloud), GCC High e DoD. 
 
-Para obter mais informações sobre a nuvem governamental, incluindo qualificação e compra, consulte [Microsoft 365 Government - how to buy](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Para comparar os planos do Office 365 Government, consulte [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
+Para obter mais informações sobre a nuvem governamental, incluindo qualificação e compra, consulte [Microsoft 365 Government - how to buy](./microsoft-365-government-how-to-buy.md). Para comparar os planos do Office 365 Government, consulte [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
 Para saber mais sobre os pontos de extremidade necessários ao gerenciar a conectividade de rede, consulte os pontos de extremidade do [Office 365 Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou pontos de extremidade do [Office 365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
@@ -52,13 +52,13 @@ Aqui estão as diferenças entre os recursos de administrador de IT para cliente
 - Mover.io ainda não há suporte
 - Multi-geo não está disponível para todos os clientes de nuvem do governo
 
-Para obter informações sobre a migração do FastTrack, consulte a descrição do serviço do [Office 365 US Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack).
+Para obter informações sobre a migração do FastTrack, consulte a descrição do serviço do [Office 365 US Government](./office-365-us-government.md#data-migrations-performed-by-fasttrack).
 
 ## <a name="security-and-compliance-features"></a>Recursos de segurança e conformidade
 
 Não há diferenças conhecidas entre os recursos de segurança e conformidade para clientes comerciais e para clientes de nuvem do governo.
 
-Para obter informações sobre recursos de segurança e conformidade, consulte [o Centro de Conformidade & Segurança.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
+Para obter informações sobre recursos de segurança e conformidade, consulte [o Centro de Conformidade & Segurança.](../office-365-securitycompliance-center.md)
 
 Para obter informações sobre os recursos do Azure Active Directory para o governo, consulte [Azure Government Security + Identity documentation](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory). 
 
@@ -83,7 +83,7 @@ Aqui estão as diferenças entre os recursos de pesquisa para clientes comerciai
 
 ## <a name="sharing-and-sync"></a>Compartilhamento e sincronização
 
-Para diferenças de recursos entre a nuvem comercial e os ambientes de nuvem do governo, consulte [Compartilhamento de arquivos](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing).
+Para diferenças de recursos entre a nuvem comercial e os ambientes de nuvem do governo, consulte [Compartilhamento de arquivos](./gcc-high-and-dod.md#file-sharing).
 
 ## <a name="plan-for-governance"></a>Plano de governança
 

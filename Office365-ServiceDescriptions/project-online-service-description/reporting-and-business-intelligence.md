@@ -8,21 +8,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
-description: Os seguintes recursos de relatórios e Business Intelligence estão disponíveis no Project online.
-ms.openlocfilehash: 04f8faf3c92698617ade586b47095f720472d6b3
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Os seguintes recursos de relatórios e business intelligence estão disponíveis no Project Online.
+ms.openlocfilehash: 0211510dadc51966a2124e192476f39d05182351
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131615"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172596"
 ---
 # <a name="reporting-and-business-intelligence"></a>Inteligência de negócios e de relatórios
 
-Os seguintes recursos de relatórios e Business Intelligence estão disponíveis no Project online.
+Os seguintes recursos de relatórios e business intelligence estão disponíveis no Project Online.
   
 ## <a name="odata-feeds"></a>Feeds OData
 
-Os feeds OData permitem que as consultas do REST e uma série de bibliotecas de cliente do OData façam consultas de dados de relatórios de uma instância do Project Web App. Por exemplo, você pode usar diretamente uma consulta do REST em um navegador da Web ou usar o JavaScript para criar aplicativos da Web e aplicativos de cliente para dispositivos móveis, tablets, PCs e Macs. Para saber mais, confira [Referência de serviço de OData do Project 2013](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+Os feeds OData permitem que as consultas do REST e uma série de bibliotecas de cliente do OData façam consultas de dados de relatórios de uma instância do Project Web App. Por exemplo, você pode usar diretamente uma consulta do REST em um navegador da Web ou usar o JavaScript para criar aplicativos da Web e aplicativos de cliente para dispositivos móveis, tablets, PCs e Macs. Para saber mais, confira [Referência de serviço de OData do Project 2013](/previous-versions/office/project-odata/jj163015(v=office.15)).
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Painéis prontos de portfólios
 
@@ -31,4 +31,3 @@ Os sofisticados relatórios prontos foram desenvolvidos para serem imediatamente
 ## <a name="project-desktop-reporting"></a>Relatórios da área de trabalho do Project
 
 Os relatórios da área de trabalho do Project permitem que você crie e personalize relatórios gráficos impressionantes dos dados de projeto que desejar, sem depender de outro software. Para mais informações, confira [Criar um relatório de projeto](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
-  
