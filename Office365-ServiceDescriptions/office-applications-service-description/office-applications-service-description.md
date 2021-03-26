@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: O Microsoft 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho do Office que você já conhece, como Word, Excel e PowerPoint.
-ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173896"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215754"
 ---
 # <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
@@ -28,7 +28,7 @@ Embora o Office seja um serviço baseado em nuvem, os aplicativos do Office não
   
 Os aplicativos do Office estão disponíveis nas edições de 32 e 64 bits.
   
-Para obter informações detalhadas sobre o plano de assinaturas que permitem usuários para a descrição do serviço de aplicativos do Office, consulte [a tabela de comparação de assinatura completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans).
+Para obter informações detalhadas sobre o plano de assinaturas que permitem usuários para a descrição do serviço de aplicativos do Office, consulte [a tabela de comparação de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145).
   
 ## <a name="feature-availability-across-plans"></a>Disponibilidade de recursos nos planos
 
@@ -36,7 +36,7 @@ Use a tabela a seguir para comparar a disponibilidade de recursos entre planos e
   
 Vários dos planos do Microsoft 365 para empresas têm complementos que você pode comprar para sua assinatura. Um complemento oferece funcionalidade adicional à assinatura. Para obter mais informações, [consulte Comprar ou editar um complemento](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).<br><br>
 
-| Aplicativo/recurso | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps para Grandes Empresas | Microsoft 365 Apps para Pequenos e Médios negócios | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Aplicativo/recurso | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps para empresas | Microsoft 365 Apps para empresas | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Aplicativos do Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Confira quais recursos do SharePoint estão disponíveis em quais planos.
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174096"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215734"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -30,7 +30,7 @@ O SharePoint no Microsoft 365 ajuda as organizações a compartilhar e gerenciar
 
 Para uma visão geral rápida, consulte [O que é o SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para SharePoint, consulte a [tabela de comparação de assinatura completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans). Para requisitos de sistema do Microsoft 365, consulte [Microsoft 365 and Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
+Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para SharePoint, consulte a [tabela de comparação de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145). Para requisitos de sistema do Microsoft 365, consulte [Microsoft 365 and Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
 
 Para saber mais sobre as diferenças de recursos do SharePoint para clientes de nuvem do governo dos EUA, consulte [SharePoint for US government environments](../office-365-platform-service-description/office-365-us-government/sharepoint.md).
   
@@ -81,7 +81,7 @@ Para uma visão geral das opções de personalização, consulte [Personalizaç�
 
 Para saber mais sobre a disponibilidade do Microsoft Power Apps e do Power Automate, consulte as Perguntas frequentes sobre o licenciamento do Power Apps e [do Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Para saber mais sobre a disponibilidade do Microsoft Graph, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
+Para saber mais sobre a disponibilidade do Microsoft Graph, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
 
 ## <a name="it-admin-features"></a>Recursos de administrador de IT
 

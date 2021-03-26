@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio do Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 448ca9c170e1969f0bdf430064e5df1d8e5b45c3
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172676"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215804"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -57,7 +57,7 @@ Os membros da equipe com assinaturas do Project Online Essentials ou do Project 
 - Enviar quadros de horários
 - Compartilhar documentos e colaborar com usuários do Microsoft Teams ou skype for Business
 
-O Project Online Essentials não inclui o Project para a Web. O Plano 1 do Project inclui o Project para a Web.
+O Project Online Essentials não inclui o Project para a Web. O Plano 1 do Project inclui o Project para a Web e o Project Online Essentials.
 
 ### <a name="project-online-desktop-client"></a>Cliente de área de trabalho do Project Online
 
@@ -128,7 +128,7 @@ Os recursos listados nesta seção interagem apenas com dados no Project para o 
 
 ### <a name="project-online-features"></a>Recursos do Project Online
 
-Os recursos listados nesta seção interagem apenas com dados no armazenamento de dados do SharePoint do Project Online.<br><br>
+Os recursos listados nesta seção interagem apenas com dados no armazenamento de dados do SharePoint do Project Online. Os membros da equipe com assinaturas do Project Online Essentials ou do Project Plan 1 podem executar algumas funções do Project Online. Para obter mais informações, consulte [Microsoft Project service description - Service Descriptions | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online).<br><br>
 
 |Recurso | Descrição | Plano de Projeto 3 | Plano de Projeto 5 |
 |--------|-------------|-----------------------------|------------------------|

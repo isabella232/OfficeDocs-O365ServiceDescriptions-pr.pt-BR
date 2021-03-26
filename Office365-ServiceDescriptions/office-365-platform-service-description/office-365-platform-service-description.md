@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: O Microsoft 365 e o Office 365 estão disponíveis em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos, incluindo os planos do Exchange Online, este artigo mostrará quais recursos estão incluídos em cada um deles.
-ms.openlocfilehash: f94076fc71861bc797b9b67bfd9dca670db1f22f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 219bda9792a2b3c0fd8941b6ed4949f84a514ff9
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174006"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215850"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descrição dos serviços das plataformas Microsoft 365 e Office 365
 
@@ -26,7 +26,7 @@ O Microsoft 365 e o Office 365 estão disponíveis em uma variedade de planos pa
   
 O Microsoft 365 e o Office 365 oferecem o poder da produtividade na nuvem para empresas de todos os tamanhos, ajudando a economizar tempo, dinheiro e liberar recursos valiosos. Os planos do Microsoft 365 e do Office 365 combinam o conjunto de áreas de trabalho do Microsoft Office familiar com versões baseadas em nuvem dos serviços de comunicação e colaboração de última geração da Microsoft, incluindo o Microsoft Exchange Online, o Microsoft SharePoint Online, o Office para a Web e o Microsoft Skype for Business Online, para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da Internet.
   
-Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para a plataforma Microsoft 365 e Office 365, consulte a tabela de comparação [de assinatura completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans). Para obter uma lista mais detalhada de recursos, consulte a descrição de serviço relevante em Descrições de serviço do [Microsoft 365 e do Office 365.](../office-365-service-descriptions-technet-library.md)
+Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para a plataforma Microsoft 365 e Office 365, consulte a tabela de comparação [de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145). Para obter uma lista mais detalhada de recursos, consulte a descrição de serviço relevante em Descrições de serviço do [Microsoft 365 e do Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)
   
 - Para saber mais sobre os planos do Office 365 Education, comece pela página [Office 365 Education](office-365-education.md). 
     

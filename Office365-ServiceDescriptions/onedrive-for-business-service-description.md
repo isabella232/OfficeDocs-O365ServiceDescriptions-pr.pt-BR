@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Visualize quais recursos do OneDrive estão disponíveis em quais planos.
-ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9bdf54b8fa59601a46fb4dae3a0265444fe7727a
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172726"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215794"
 ---
 # <a name="onedrive-service-description"></a>Descrição do serviço OneDrive
 
@@ -26,7 +26,7 @@ O OneDrive é um espaço de armazenamento on-line na nuvem que é fornecido aos 
   
 O OneDrive está incluído nos planos do Microsoft 365, Office 365 e do SharePoint Online, e também pode ser adquirido como um plano autônomo. 
     
-Para obter informações detalhadas sobre o plano de assinaturas que permitem aos usuários OneDrive, confira a [tabela de comparação de assinatura completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) e [Compare planos OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
+Para obter informações detalhadas sobre o plano de assinaturas que permitem aos usuários OneDrive, confira a [tabela de comparação de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145) e [Compare planos OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
   
 > [!NOTE]
 > Os planos autônomos do OneDrive incluem o Office para a Web. 

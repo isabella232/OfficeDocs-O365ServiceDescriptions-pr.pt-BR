@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: Recursos, distribuições, privacidade e pré-requisitos do MyAnalytics
-ms.openlocfilehash: 9b19dfd5eb40ab136f8491fc87fab02434b88d98
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 3b573c4e675830bb2c7b5d9101c9793b493c4d11
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173486"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215860"
 ---
 # <a name="myanalytics-service-description"></a>Descrição do serviço do MyAnalytics
 
@@ -25,7 +25,7 @@ O MyAnalytics processa informações de maneira que proteja a privacidade dos fu
 
 ## <a name="available-plans"></a>Planos disponíveis
 
-Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para MyAnalytics, consulte a [tabela de comparação de assinatura completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans).
+Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para MyAnalytics, consulte a [tabela de comparação de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="elements"></a>Elementos
 
