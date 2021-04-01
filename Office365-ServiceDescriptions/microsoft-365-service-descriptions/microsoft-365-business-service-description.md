@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business Premium é uma solução integrada que reúne a melhor produtividade na classe com recursos avançados de gerenciamento de dispositivos e segurança para ajudar a proteger seus negócios. Esta descrição de serviço descreve as opções e recursos do plano.
-ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173536"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484814"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrição do serviço Microsoft 365 Business Premium
 
@@ -43,7 +43,7 @@ O Microsoft 365 Business Premium inclui essencialmente todos os recursos dispon�
 |Microsoft Stream  <br/> |Sim<sup>6</sup>  <br/> |Sim<sup>6</sup>  <br/> |
 |[Administração do Microsoft 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Ferramenta de sincronização do Azure AD Connect<br/> |Sim  <br/> |Sim  <br/> |
-|Ativação de computador compartilhado <br/> |Não <br/> |Sim  <br/> |
+|[Ativação de computador compartilhado](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |Não <br/> |Sim  <br/> |
 |[Política e conformidade de mensagens](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Arquivamento de longo prazo de caixas de correio baseadas no Exchange Online  <br/> |Não  <br/> |Sim<sup>3</sup> <br/> |
 |Plano 1 de Proteção de Informações do Azure |Não <br/>|Sim<sup>2</sup> </br>|

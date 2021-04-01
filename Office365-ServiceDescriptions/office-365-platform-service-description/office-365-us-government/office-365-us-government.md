@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 US Government (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos específicos dos ambientes do Office 365 Government US.
-ms.openlocfilehash: a2568a77406954a2d3461a0e33f7ca5f3e9160d8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172956"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484824"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -142,7 +142,7 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 |Serviço do Office 365|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
 |Office na Web|Sim|Sim|Sim|Sim|
-|Microsoft 365 Apps para Grandes Empresas|Não|Sim|Sim|Não|
+|Microsoft 365 Apps para empresas|Não|Sim|Sim|Não|
 |Exchange Online|Sim|Sim|Sim|Sim|
 |Proteção do Exchange Online|Sim|Sim|Sim|Sim|
 |SharePoint Online|Sim|Sim|Sim|Sim|
@@ -190,7 +190,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Gerenciamento de contas de usuário](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Identidade de nuvem|Sim|Sim|Sim|Sim|
 |Identidade federada (logon único)|Sim|Sim|Sim|Sim|
-|Multi-factor Authentication|Sim|Sim|Sim|Sim|
+|Autenticação multifator|Sim|Sim|Sim|Sim|
 |Autenticação de fator de telefone|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim|Sim<sup>9</sup>|
 |Configuração de área de trabalho do Office 365|Sim|Sim|Sim|Sim|
 |Gerenciar usuários com o Office 365|Sim|Sim|Sim|Sim|
@@ -348,7 +348,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office que estão disponí
 |Telemetria do Office|Não|Sim<sup>4</sup>|Sim<sup>4</sup>|Não|
 |Suporte offline a aplicativos do cliente|Não|Sim|Sim|Não|
 |Instalação otimizada de cliente lado a lado|Não|Sim|Sim|Não|
-|Power Map para Excel|Não|Sim<sup>4</sup>|Sim<sup>4</sup>|Não|
+|Power Map para Excel|Não|Não|Não|Não|
 |Power Pivot para Excel|Não|Sim<sup>4</sup>|Sim<sup>4</sup>|Não|
 |Power Query para Excel|Não|Sim<sup>4</sup>|Sim<sup>4</sup>|Não|
 |Power View para Excel|Não|Sim<sup>4</sup>|Sim<sup>4</sup>|Não|
