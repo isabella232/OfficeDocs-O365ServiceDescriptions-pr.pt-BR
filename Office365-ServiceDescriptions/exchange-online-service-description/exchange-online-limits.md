@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: 06017db419d1f62c907e5bd5004d8d2eef2f54c1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 47f56be9b431b6f2b5e0340291ea6e3d156674d8
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173706"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484834"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -321,7 +321,7 @@ Os limites de recebimento e envio são aplicados para combater spam e worms em e
 
 ### <a name="receiving-limits"></a>Limites de recebimento
 
-Os limites de recebimento se aplicam ao número de mensagens que um usuário, grupo ou pasta pública pode receber por hora. Isso se aplica a mensagens recebidas da Internet e de servidores locais. Se exceder o limite de recebimento, os emails enviados para essa caixa de correio receberão uma notificação de falha na entrega informando que a caixa de correio excedeu o limite máximo de entrega. Após uma hora, o limite será atualizado, e a caixa de correio poderá receber mensagens novamente.
+Limites de recebimento se aplicam ao número de mensagens que um usuário, grupo ou pasta pública pode receber por hora *de qualquer e todas as fontes*. Isso inclui mensagens de remetentes internos, mensagens da Internet e mensagens de servidores locais. Quando o limite de recebimento é excedido em uma caixa de correio, as mensagens enviadas para a caixa de correio são retornadas ao remetente em uma notificação de falha na entrega (também conhecido como NDR ou mensagem de devolução) informando que a caixa de correio excedeu o limite máximo de entrega. Após uma hora, o limite será atualizado, e a caixa de correio poderá receber mensagens novamente.
 
 | Recurso | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -369,7 +369,7 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
 |Limite de taxa de destinatários|Sem limites<sup>1</sup>|10.000 destinatários por dia<sup>2</sup>|10.000 destinatários por dia<sup>2</sup>|10.000 destinatários por dia<sup>2</sup>|
 |Limite de destinatários|1000 destinatários<sup>1</sup>|1000 destinatários|1000 destinatários|1000 destinatários|
 |Limite de endereço proxy do destinatário|400|400|400|400|
-|Limite de taxa de mensagens|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|
+|Limite de taxa de mensagens|Sem limite|30 mensagens por minuto|30 mensagens por minuto|30 mensagens por minuto|
 
 > [!NOTE]
 > <sup>1</sup> Este é o limite padrão para organizações do Exchange Server 2013. Os administradores podem alterar esse valor para sua organização.<br/>
