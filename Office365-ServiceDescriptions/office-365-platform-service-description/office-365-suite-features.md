@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e se comunicar com segurança em vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173976"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599043"
 ---
 # <a name="microsoft-365-suite-features"></a>Recursos do pacote Microsoft 365
 
@@ -25,12 +25,6 @@ Os recursos listados neste tópico são uma coleção de ferramentas baseadas na
 ## <a name="delve"></a>Delve
 
 O Delve permite que os usuários pesquisem e descubram conteúdo no Microsoft 365 com base em insights personalizados. O Delve é a primeira experiência a usar a tecnologia Office Graph. Para saber mais sobre Delve, acesse [O que é Delve?](https://go.microsoft.com/fwlink/?LinkId=511463).
-
-## <a name="microsoft-bookings"></a>Microsoft Bookings
-
-O Microsoft Bookings é um aplicativo online e móvel para empresas que querem fornecer serviços aos clientes em um compromisso. Exemplos dessas empresas incluem salões de beleza, escritórios dentários, spas, escritórios de advocacia, provedores de serviços financeiros, consultores, profissionais de saúde, instituições educacionais e auto-lojas. O Microsoft Bookings está disponível para clientes nos EUA e no Canadá que têm uma assinatura do Microsoft 365 para empresas.
-  
-Para obter mais informações sobre o Microsoft Bookings, acesse Publicar seu calendário [comercial online com o Microsoft Bookings.](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)
 
 ## <a name="microsoft-briefing-email"></a>Email do Microsoft Briefing
 
@@ -58,7 +52,7 @@ Use a API do Microsoft Graph para criar rapidamente aplicativos que se conectam 
 
 O Microsoft Lists é um aplicativo do Microsoft 365 que ajuda você a controlar informações e organizar o trabalho. As listas são simples, inteligentes e flexíveis, portanto, você pode ficar por dentro do que importa mais para sua equipe. Controlar problemas, ativos, rotinas, contatos, inventário e muito mais usando exibições personalizáveis e regras inteligentes para manter todos notificados e sincronizados. Com modelos prontos, você pode iniciar rapidamente listas online, em nosso novo aplicativo móvel ou no Microsoft Teams. Como faz parte do Microsoft 365, você pode contar com a segurança e a conformidade prontas para a empresa.
 
-Para mais informações, confira:
+Para saber mais, confira:
 
 * [Centro **de recursos de Listas públicas da Microsoft**](https://aka.ms/MSLists)
 * [Centro **de adoção de Listas públicas da Microsoft**](https://aka.ms/ListsAdoption)
@@ -69,7 +63,7 @@ O Microsoft Planner é uma ferramenta que oferece aos usuários uma maneira visu
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-O Microsoft Power Apps é um serviço empresarial que ajuda você a criar, integrar e compartilhar aplicativos que funcionam em qualquer dispositivo. O Power Apps permite que você use conexões criadas pela sua empresa para conectar seu aplicativo à nuvem e aos serviços locais, incluindo o Microsoft 365 e o Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bancos de dados Oracle e muito mais. Você pode compartilhar facilmente seus Power Apps com colegas de trabalho simplesmente digitando um endereço de email. Para saber mais, acesse o site do Microsoft [Power Apps.](https://powerapps.microsoft.com/)
+O Microsoft Power Apps é um serviço empresarial que ajuda você a criar, integrar e compartilhar aplicativos que funcionam em qualquer dispositivo. O Power Apps permite que você use conexões criadas pela sua empresa para conectar seu aplicativo à nuvem e aos serviços locais, incluindo o Microsoft 365 e o Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bancos de dados Oracle e muito mais. Você pode compartilhar facilmente seus Aplicativos do Power com colegas de trabalho digitando um endereço de email. Para saber mais, acesse o site do Microsoft [Power Apps.](https://powerapps.microsoft.com/)
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,13 +71,13 @@ O Microsoft Stream é um serviço de vídeo corporativo que as pessoas em sua or
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-O Microsoft Sway é um aplicativo profissional de storytelling digital para empresas que ajuda você e seus colegas a expressar ideias usando uma tela interativa baseada na Web. O mecanismo de design interno do Microsoft Sway ajuda você a produzir relatórios, apresentações e apresentações profissionais, visualmente atraentes e muito mais, sem a necessidade de formatação extensiva ou treinamento adicional. Você também pode modificar os resultados para obter a aparência exclusiva que deseja. O Microsoft Sway faz com que sua criação pareça ótima em qualquer navegador em qualquer tela, e ela pode ser compartilhada com colegas e clientes simplesmente enviando um link. O Microsoft Sway ajuda você a encontrar e reunir todos os tipos de conteúdo sem sair do aplicativo, para que você possa arrastar e soltar suas imagens, texto, vídeos e gráficos direto em sua tela. Para saber mais, confira [Sway](https://sway.com). O Microsoft Sway ainda não está disponível no [Office 365 Germany.](office-365-germany.md)
+O Microsoft Sway é um aplicativo profissional de storytelling digital para empresas que ajuda você e seus colegas a expressar ideias usando uma tela interativa baseada na Web. O mecanismo de design interno do Microsoft Sway ajuda você a produzir relatórios, apresentações e apresentações profissionais, visualmente atraentes e muito mais, sem a necessidade de formatação extensiva ou treinamento adicional. Você também pode modificar os resultados para obter a aparência exclusiva que deseja. O Microsoft Sway faz com que sua criação pareça ótima em qualquer navegador em qualquer tela e pode ser compartilhada com colegas e clientes enviando um link. O Microsoft Sway ajuda você a encontrar e reunir todos os tipos de conteúdo sem sair do aplicativo, para que você possa arrastar e soltar suas imagens, texto, vídeos e gráficos direto em sua tela. Para saber mais, confira [Sway](https://sway.com). O Microsoft Sway ainda não está disponível no [Office 365 Germany.](office-365-germany.md)
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps para Empresas
 
 O Microsoft 365 Apps para empresas é o pacote sempre atualizado de aplicativos de área de trabalho que você já conhece (incluindo Word, PowerPoint, Excel, Outlook e Teams) disponível como assinatura. O Microsoft 365 Apps para empresas inclui recursos inteligentes exclusivos, como Ideias no [**Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Pesquisador no [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)colaboração em tempo [**real,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams como o hub para trabalho em equipe e recursos avançados de segurança. Como uma licença baseada em usuário, você pode implantar o Office em até cinco computadores ou Macs, cinco tablets e cinco dispositivos móveis. Com 1 TB de armazenamento em nuvem do OneDrive, você pode acessar e colaborar em seus arquivos de qualquer lugar.
 
-Para mais informações, confira:
+Para saber mais, confira:
 
 * [Página Visão Geral](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [Página do produto (para comprar)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
@@ -117,7 +111,7 @@ Com o Microsoft To Do, os clientes podem:
 
 Para saber mais, confira: [To Do](https://to-do.microsoft.com/)
 
-## <a name="whiteboard"></a>Quadro de comunicações
+## <a name="whiteboard"></a>Whiteboard
 
 O Quadro de Branco da Microsoft é uma tela digital de forma livre onde as pessoas, o conteúdo e as ideias se reúnem. Você pode usar o Quadro de Trabalho para colaborar com sua equipe para realizar muitas atividades — seja sua equipe no mesmo local ou em vários locais. Os membros da equipe podem trabalhar de forma colaborativa usando seus próprios dispositivos.
 
