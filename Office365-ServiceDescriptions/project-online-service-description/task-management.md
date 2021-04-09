@@ -2,6 +2,7 @@
 title: Gerenciamento de tarefas
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,25 +11,25 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Os recursos de gerenciamento de tarefas a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Os seguintes recursos de gerenciamento de tarefas estão disponíveis no Project Online.
+ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131065"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651056"
 ---
 # <a name="task-management"></a>Gerenciamento de tarefas
 
-Os recursos de gerenciamento de tarefas a seguir estão disponíveis no Project online.
+Os seguintes recursos de gerenciamento de tarefas estão disponíveis no Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição do serviço do Project online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
 Quando você desativa uma tarefa, ela permanece no plano de projeto, mas não afeta: a disponibilidade de recursos, o cronograma do projeto ou o modo como outras tarefas são agendadas. Saiba mais sobre [Desativar uma tarefa](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
-## <a name="auto-complete"></a>Preenchimento automático
+## <a name="auto-complete"></a>Auto-concluído
 
 Obtenha sugestões para nomes de tarefa ou recurso conforme você digita. 
   
@@ -66,5 +67,5 @@ Use o modo Agendar Manualmente para agendar suas tarefas manualmente. Confira [C
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do [serviço do Project Online.](project-online-service-description.md)
   

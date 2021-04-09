@@ -2,6 +2,7 @@
 title: Office 365 US Government
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 US Government (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos específicos dos ambientes do Office 365 Government US.
-ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484824"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653153"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -190,7 +191,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Gerenciamento de contas de usuário](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Identidade de nuvem|Sim|Sim|Sim|Sim|
 |Identidade federada (logon único)|Sim|Sim|Sim|Sim|
-|Autenticação multifator|Sim|Sim|Sim|Sim|
+|Multi-factor Authentication|Sim|Sim|Sim|Sim|
 |Autenticação de fator de telefone|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim|Sim<sup>9</sup>|
 |Configuração de área de trabalho do Office 365|Sim|Sim|Sim|Sim|
 |Gerenciar usuários com o Office 365|Sim|Sim|Sim|Sim|
@@ -210,7 +211,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Adicionar domínios de terceiro nível personalizados, como marketing.fourthcoffee.com|Sim|Sim|Sim|Sim|
 |Adicionar até 900 domínios personalizados|Sim|Sim|Sim|Sim|
 |Verificação de propriedade de domínio necessária para domínios personalizados|Sim|Sim|Sim|Sim|
-|**[Continuidade e integridade do serviço](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
+|**[Saúde e continuidade do serviço](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|
 |Status dos alertas individuais disponíveis no painel do Centro de administração do Microsoft 365|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|
 |RSS feed de **Integridade do serviço**|Sim|Sim|Sim|Sim|

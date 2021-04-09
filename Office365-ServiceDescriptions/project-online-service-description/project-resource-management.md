@@ -2,6 +2,7 @@
 title: Gerenciamento de recursos do Project
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project online.
-ms.openlocfilehash: 47f415ca77410d5a8420c6a4fabc9274743a516d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project Online.
+ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131105"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651201"
 ---
 # <a name="project-resource-management"></a>Gerenciamento de recursos do Project
 
-Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project online.
+Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição do serviço do Project online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
   
 ## <a name="cost-resources"></a>Recursos de custos
 
@@ -54,6 +55,6 @@ Adicione recursos ao seu projeto, como recursos de trabalho como pessoas, recurs
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do [serviço do Project Online.](project-online-service-description.md)
   
 

@@ -2,17 +2,18 @@
 title: Descrição do serviço SharePoint Syntex
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: O SharePoint Syntex no Microsoft 365 usa inteligência artificial avançada (AI) e ensino de máquina para ampliar a experiência humana, automatizar o processamento de conteúdo e transformar conteúdo em conhecimento.
-ms.openlocfilehash: 76da52c2a7021ca0bc48272f8983401da39b4136
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174086"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653393"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Descrição do serviço SharePoint Syntex 
 

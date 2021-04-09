@@ -2,6 +2,7 @@
 title: Descrição do serviço do Microsoft Project
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: O Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio do Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 992da5d280066914e1744ec31cd8d1ca341a98dd
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215804"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652255"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -154,7 +155,7 @@ Os recursos listados nesta seção interagem apenas com dados no armazenamento d
 |Aprovações de quadro de horários | Os membros da equipe podem enviar quadro de horários para aprovação. Os gerentes de recursos e supervisores podem revisar, aprovar e recusar os quadro de horários enviados. | Sim | Sim |
 |Configuração em tempo não de trabalho | Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. | Não | Sim |
 |**Colaboração** ||||
-|Attachments | Anexar documentos, imagens e outros arquivos no nível de equipe, projeto ou tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
+|Anexos | Anexar documentos, imagens e outros arquivos no nível de equipe, projeto ou tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
 |Membros externos da equipe |Colabore com pessoas de fora da sua organização concedendo a elas acesso para exibir e interagir com seus projetos, tarefas e documentos. <sup>6</sup> | Sim | Sim |
 |Sites de projeto | Crie e personalize um hub para colaboração e documentos para um projeto. | Sim | Sim |
 |Integração com o Microsoft Teams | Colaborar em projetos no Microsoft Teams. <sup>1</sup> | Sim | Sim |
@@ -293,14 +294,14 @@ O Project para a Web tem algumas limitações, que são descritas na tabela a se
 
 | Entidade/campo | Limite |
 |-------------|-------|
-|**Tarefa** ||
+|**Task** ||
 |Máx. nível de hierarquia para tarefa | 10 níveis |
 |Máx. links (sucessora + predecessora) para uma tarefa | 20 |
 |Máx. duração da tarefa folha | 1250 dias |
 |Máx. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Máx. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para tarefa | 1/1/1984 &ndash; 31/12/2149 |
-|**Projeto** ||
+|**Project** ||
 |Máx. tarefas totais do projeto | 500 |
 |Máx. duração total do projeto | 3650 dias (10 anos) |
 |Máx. total de recursos para o projeto | 150 |

@@ -2,18 +2,19 @@
 title: Exchange Online para ambientes governamentais dos EUA
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem governamental dos EUA e a nuvem comercial, conforme listado na descrição do serviço do Exchange Online.
-ms.openlocfilehash: 2ecef2aeaa9c216e715f1084be022c5c4d0cce32
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cf1b995f8497ff2249504b195ecaf1b2f7c6f62c
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173966"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653283"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para ambientes governamentais dos EUA
 

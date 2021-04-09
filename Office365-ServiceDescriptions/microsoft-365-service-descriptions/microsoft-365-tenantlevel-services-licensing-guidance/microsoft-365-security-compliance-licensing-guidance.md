@@ -2,6 +2,7 @@
 title: Diretrizes de licenciamento do Microsoft 365 para conformidade & segurança
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece diretrizes de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 87eeaf51e18b74150416bdfc51bc6f97e94cd2db
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173395"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652655"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Diretrizes de licenciamento do Microsoft 365 para conformidade com &amp; a segurança
 

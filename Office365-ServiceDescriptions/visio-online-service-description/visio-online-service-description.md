@@ -2,41 +2,42 @@
 title: Descrição dos serviços do Visio da Web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Compare os recursos do Visio para a Web com o aplicativo da área de trabalho Visio.
-ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+description: Compare os recursos no Visio para a Web com o aplicativo da área de trabalho do Visio.
+ms.openlocfilehash: c490e0fbb891c09cfa73706002d6f5b7b3b33452
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276664"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653614"
 ---
 # <a name="visio-for-the-web-service-description"></a>Descrição dos serviços do Visio da Web
 
-Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web. Comece com um diagrama básico para expressar ideias comuns, como ilustrar um plano, criar uma proposta ou descrever uma sequência de etapas em um processo. É simples e fácil criar diagramas de primeira classe com tipos de diagramas comumente usados e conjuntos de formas ricas. O Visio para os usuários da Web pode exibir e colaborar compartilhando diagramas e inserindo comentários em arquivos carregados no SharePoint Online ou no OneDrive for Business online.
+Com o Visio para a Web, você pode exibir, editar e compartilhar diagramas do Visio na Web. Comece com um diagrama básico para expressar ideias comuns, como representar um plano, fazer uma proposta ou descrever uma sequência de etapas em um processo. É simples e fácil criar diagramas de primeira classe com tipos de diagramas comumente usados e conjuntos de formas rich. Os usuários do Visio para a Web podem exibir e colaborar compartilhando diagramas e inserindo comentários em arquivos carregados no SharePoint Online ou no OneDrive for Business Online.
   
-Para obter mais informações e começar, confira [Visio Plan 1](https://products.office.com/visio/visio-online).
+Para obter mais informações e começar, consulte [Visio Plan 1](https://products.office.com/visio/visio-online).
   
-Para obter ajuda ao usar o Visio para a Web, consulte [ajuda do Visio & Learning](https://support.office.com/visio).
+Para ajudar ao usar o Visio para a Web, consulte [Visio help & learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilidade e comparação de recursos
 
-A tabela a seguir compara os recursos de recurso da Web do Visio para o aplicativo de área de trabalho do Visio avançado de recurso. Use a tabela para descobrir quais recursos estão disponíveis no Visio para a Web e, em seguida, selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam dos recursos avançados do aplicativo da área de trabalho Visio, enquanto outras só precisam exibir e editar levemente diagramas do Visio com o Visio para a Web.<br><br> 
+A tabela a seguir compara o Visio para os recursos da Web com o aplicativo de área de trabalho do Visio rico em recursos. Use a tabela para descobrir quais recursos estão disponíveis no Visio para a Web e selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam dos recursos avançados do aplicativo de área de trabalho do Visio, enquanto outras precisam apenas exibir e editar levemente diagramas do Visio com o Visio para a Web.<br><br> 
   
-| Recurso de aplicativo | Visio para a Web | Aplicativo da área de trabalho Visio |
+| Recurso Application | Visio para a Web | Aplicativo da área de trabalho do Visio |
 |:-----|:-----|:-----|
-|[Aplicar formatação avançada a texto e formas](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sim  <br/> |Sim  <br/> |
+|[Aplicar formatação rica a texto e formas](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sim  <br/> |Sim  <br/> |
 |[Organizar objetos](visio-online.md#arrange-objects) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar soluções de mashup](visio-online.md#build-mashup-solutions) <br/> |Sim  <br/> |Sim  <br/> |
 |[Criar diagramas](visio-online.md#create-diagrams) <br/> |Sim  <br/> |Sim  <br/> |
 |[Recortar, copiar e colar](visio-online.md#cut-copy-and-paste) <br/> |Sim  <br/> |Sim  <br/> |
 |[Editar diagramas](visio-online.md#edit-diagrams) <br/> |Sim  <br/> |Sim  <br/> |
-|[Incorporar diagrama em uma página do SharePoint, da Web ou de blog](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Sim  <br/> |Não  <br/> |
+|[Inserir diagrama em uma página do SharePoint, web ou blog](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Sim  <br/> |Não  <br/> |
 |[Localizar](visio-online.md#find) <br/> |Sim  <br/> |Sim  <br/> |
 |[Formatação de fontes](visio-online.md#font-formatting) <br/> |Sim  <br/> |Sim  <br/> |
 |[Hiperlinks](visio-online.md#hyperlinks)<sup>1</sup> <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
@@ -52,23 +53,23 @@ A tabela a seguir compara os recursos de recurso da Web do Visio para o aplicati
 |[Diga-Me](visio-online.md#tell-me) <br/> |Não  <br/> |Sim  <br/> |
 |[Desfazer e refazer](visio-online.md#undo-and-redo) <br/> |Não  <br/> |Sim  <br/> |
 |[Ver e adicionar comentários](visio-online.md#view-and-add-comments) <br/> |Sim<sup>5</sup> <br/> |Sim  <br/> |
-|[Exibir dados da forma](visio-online.md#view-shape-data) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
+|[Exibir dados de forma](visio-online.md#view-shape-data) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |
 |[Exibir arquivos do Visio no navegador](visio-online.md#view-visio-files-in-the-browser) <br/> |Sim  <br/> |Sim  <br/> |
 |[Zoom](visio-online.md#zoom) <br/> |Sim<sup>6</sup> <br/> |Sim  <br/> |
    
-> <sup>1</sup> siga os hiperlinks (não é possível inserir ou editá-los). 
-<br/><sup>2</sup> compartilhar via SharePoint ou uma unidade para negócios e compartilhar com usuários que não têm o SharePoint ou o onedrive. 
-<br/> <sup>3</sup> indisponível no Visio para o editor da Web.
-<br/><sup>4</sup> indisponível no Visio para o Web Viewer. 
-<br/><sup>5</sup> não está disponível no Visio para o editor da Web, mas você pode alternar para o modo de exibição e exibir comentários. 
-<br/><sup>6</sup> disponível no Visio para o editor da Web. 
+> <sup>1</sup> Siga hiperlinks (não é possível inseri-los ou editá-los). 
+<br/><sup>2</sup> Compartilhar via SharePoint ou One Drive for Business e compartilhar com usuários que não têm SharePoint ou OneDrive. 
+<br/> <sup>3</sup> Não disponível no Visio para o Editor da Web.
+<br/><sup>4</sup> Não disponível no Visio para o Visualizador da Web. 
+<br/><sup>5</sup> Não disponível no Visio para o Editor da Web, mas você pode alternar para Modo de exibição e exibir comentários. 
+<br/><sup>6</sup> Disponível no Visio para o Editor da Web. 
   
 ## <a name="supported-file-types-in-visio-for-the-web"></a>Tipos de arquivo com suporte no Visio para a Web
 
 | Diagrama do Visio criado no Visio 2010 ou posterior | Modo de Exibição | Modo de Edição |
 |:-----|:-----|:-----|
-|Open XML (. vsdx)  <br/> |Sim  <br/> |Não  <br/> |
-|Binário (. vsd)  <br/> |Sim  <br/> |Não  <br/> |
-|Macro (. vsdm)  <br/> |Sim  <br/> |Não  <br/> |
+|Open XML (.vsdx)  <br/> |Sim  <br/> |Não  <br/> |
+|Binário (.vsd)  <br/> |Sim  <br/> |Não  <br/> |
+|Macro (.vsdm)  <br/> |Sim  <br/> |Não  <br/> |
    
 

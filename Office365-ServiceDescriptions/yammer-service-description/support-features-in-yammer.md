@@ -2,6 +2,7 @@
 title: Recursos de suporte no Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Os recursos de suporte a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131995"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653513"
 ---
 # <a name="support-features-in-yammer"></a>Recursos de suporte no Yammer
 
 Os recursos de suporte a seguir estão disponíveis no Yammer.
   
 > [!IMPORTANT]
-> O Yammer não oferece suporte à recuperação de conteúdo excluído, como &mdash; redes externas, usuários, mensagens, grupos e arquivos, &mdash; incluindo conteúdo excluído acidentalmente por administradores de rede.
+> O Yammer não dá suporte à recuperação de conteúdo excluído, como redes &mdash; externas, usuários, mensagens, grupos e arquivos, incluindo conteúdo excluído acidentalmente pelos administradores &mdash; de rede.
 >
 > A Microsoft não oferece relatórios ad-hoc ou personalizados além dos recursos de análise disponíveis no Yammer. Ocasionalmente, a Microsoft pode fornecer um relatório personalizado no curso de uma solicitação de suporte, mas, na maioria das vezes, eles não podem acomodar solicitações diretas para os dados.
 
@@ -33,11 +34,11 @@ Os administradores do Yammer Enterprise são responsáveis pela manutenção da 
 
 ## <a name="customer-support"></a>Suporte ao cliente
 
-O suporte técnico está disponível para responder às perguntas do cliente e resolver problemas rapidamente. Os clientes do Yammer podem receber suporte postando no fórum de suporte público, que é monitorado 24 horas por dia, sete dias por semana por agentes de suporte. Se você for um cliente Yammer procurando suporte, consulte [Suporte público do Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
+O suporte técnico está disponível para responder às perguntas do cliente e resolver problemas rapidamente. Os clientes do Yammer podem receber suporte postando no fórum de suporte público, que é monitorado 24 horas por dia, sete dias por semana pelos agentes de suporte. Se você for um cliente Yammer procurando suporte, consulte [Suporte público do Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-O serviço Microsoft FastTrack pode ajudar sua organização a migrar para a nuvem da Microsoft fornecendo ajuda em cada etapa do caminho. O FastTrack permite que você planeje as distribuições de forma estratégica, redistribui rapidamente os novos serviços e os novos usuários integrados. Para obter detalhes, visite o [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obter informações sobre como criar sua rede do Yammer, incluindo os documentos e as atividades de pré-inicialização, lançamento e suporte, vá para a página do [enVision: identificar cenários](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e, em seguida, selecione **juntar sua organização**.
+O serviço Do Microsoft FastTrack pode ajudar sua organização a se mover para o Microsoft Cloud, fornecendo ajuda em todas as etapas do caminho. O FastTrack permite planejar estrategicamente as lançamentos, a rampa rápida de novos serviços e a integração de novos usuários. Para obter detalhes, visite o [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obter informações sobre como criar sua rede do Yammer, incluindo pré-lançamento, início e suporte a documentos e atividades, acesse a página Visualizar: Identificar [cenários](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e selecione Reunir sua **organização**.
 
 ## <a name="support-features-across-yammer-plans"></a>Recursos de suporte nos planos do Yammer
 
@@ -55,7 +56,7 @@ Exemplos
   
 |**Nível de Severidade**|**Descrição**|**Exemplos**|
 |:-----|:-----|:-----|
-|Sev A (Crítica)  <br/> |O serviço não pode ser usado para a maioria dos usuários finais.  <br/> |A plataforma Yammer está inativa.  <br/> |
+|Sev A (Crítica)  <br/> |O serviço é inutilizável para a maioria dos usuários finais.  <br/> |A plataforma yammer está inocessado.  <br/> |
 |Sev B (Alta)  <br/> |O serviço pode ser usado, mas está seriamente prejudicado.  <br/> |A postagem nos feeds não está funcionando conforme o esperado.  <br/> |
 |Sev C (Média)  <br/> |O serviço não funciona conforme o esperado, mas uma solução está disponível.  <br/> |As visualizações do arquivo não aparecem conforme o esperado.  <br/> |
 

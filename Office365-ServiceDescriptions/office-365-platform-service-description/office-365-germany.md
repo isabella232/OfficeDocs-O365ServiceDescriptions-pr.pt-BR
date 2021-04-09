@@ -2,6 +2,7 @@
 title: Office 365 Germany
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: O Office 365 Germany é uma opção diferenciada dos serviços do Office 365 já disponíveis em toda a Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados da Alemanha, da União Europeia (UE) e da EfTA (Associação Europeia de Livre Comércio) fornecendo nossos serviços de produtividade líderes do setor para o trabalho digital, a partir de data centers alemães, com residência de dados na Alemanha e medidas estritas de acesso e controle de dados por meio de um modelo de trustee de dados exclusivo regido pela lei alemã.
-ms.openlocfilehash: 00e2861130283c6917d307e6793beb9dfa09c058
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173856"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653493"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemanha
 
@@ -114,7 +115,7 @@ Confira informações específicas sobre preços e recursos nos planos de vário
 |Usar um provedor diferente para email e IM|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Verificação de propriedade de domínio necessária para domínios personalizados|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy|Não|Não|Não|Não|Não|Não|Não|Não|
-|**[Continuidade e integridade do serviço](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Saúde e continuidade do serviço](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Status dos alertas individuais disponíveis no painel do Centro de administração do Microsoft 365|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |RSS feed de **Integridade do serviço**|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|

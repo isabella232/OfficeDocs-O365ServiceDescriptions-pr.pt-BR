@@ -2,6 +2,7 @@
 title: Recursos do Skype for Business Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Se você for um administrador, poderá encontrar instruções detalhadas para configurar os recursos do Skype for Business Online em Configurar o Skype for Business Online.
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172666"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651016"
 ---
 # <a name="skype-for-business-online-features"></a>Recursos do Skype for Business Online
 
@@ -120,7 +121,7 @@ A audioconferência não está disponível em todos os países ou regiões. Conf
   
 ## <a name="calling-plans"></a>Planos de Chamadas
 
-O Skype for Business inclui recursos de chamadas encontrados na PSTN (Rede Telefônica Pública Comutada). Planos de Chamadas são um [](#phone-system-in-office-365) complemento para o Sistema de Telefonia que permite que você pesquise, adquira e atribua números de telefone aos usuários em sua organização para que eles possam fazer chamadas e receber chamadas de pessoas dentro e fora da organização, diretamente do Office 365. Os usuários atribuídos a números de telefone podem fazer chamadas de voz em todos os dispositivos do Skype for Business, como telefones VoIP, PCs e dispositivos móveis. Eles também podem controlar as chamadas usando recursos como ativar/desativar mudo, esperar/retomar, transferências de chamadas, encaminhamento de chamadas e, se necessário, chamadas de emergência. 
+O Skype for Business inclui recursos de chamadas encontrados na PSTN (Rede Telefônica Pública Comutada). Planos de Chamadas são um [](#phone-system) complemento para o Sistema de Telefonia que permite que você pesquise, adquira e atribua números de telefone aos usuários em sua organização para que eles possam fazer chamadas e receber chamadas de pessoas dentro e fora da organização, diretamente do Office 365. Os usuários atribuídos a números de telefone podem fazer chamadas de voz em todos os dispositivos do Skype for Business, como telefones VoIP, PCs e dispositivos móveis. Eles também podem controlar as chamadas usando recursos como ativar/desativar mudo, esperar/retomar, transferências de chamadas, encaminhamento de chamadas e, se necessário, chamadas de emergência. 
   
 Saiba mais sobre os planos de chamadas disponíveis em [Planos de chamadas do Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Para obter mais informações e configurar um Plano de Chamada, consulte [Qual Plano de Chamada é o correto para você?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

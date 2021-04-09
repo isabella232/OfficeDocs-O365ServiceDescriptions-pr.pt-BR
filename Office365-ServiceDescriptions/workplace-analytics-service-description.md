@@ -2,6 +2,7 @@
 title: Descrição do serviço do Workplace Analytics
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: O Microsoft Workplace Analytics fornece informações avançadas e ativas sobre as tendências de comunicação e colaboração da sua organização para ajudá-lo a tomar decisões comerciais mais eficazes.
-ms.openlocfilehash: 4bb007df02c1773045c1cb60a0cb77326b9878a2
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: f87ebeebda4747f78fc9c7b1212e5f2723160e9a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174046"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653023"
 ---
 # <a name="workplace-analytics-service-description"></a>Descrição do serviço do Workplace Analytics
 

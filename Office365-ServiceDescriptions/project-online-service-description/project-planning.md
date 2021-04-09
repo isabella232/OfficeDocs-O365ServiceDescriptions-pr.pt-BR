@@ -2,6 +2,7 @@
 title: Planejamento de projeto
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: Os recursos de planejamento de projeto a seguir estão disponíveis no Project online.
-ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Os seguintes recursos de planejamento de projeto estão disponíveis no Project Online.
+ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131095"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651046"
 ---
 # <a name="project-planning"></a>Planejamento de projeto
 
-Os recursos de planejamento de projeto a seguir estão disponíveis no Project online.
+Os seguintes recursos de planejamento de projeto estão disponíveis no Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Confira a [Descrição do serviço do Project online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
   
 ## <a name="baseline-rollup"></a>Pacote cumulativo de atualizações de linha de base
 
@@ -54,7 +55,7 @@ Aplique várias linhas de agrupamento a um plano de projeto. Saiba mais sobre [A
   
 ## <a name="reports"></a>Relatórios
 
-Com o Project 2016, você pode criar relatórios nítidos, coloridos e profissionais sem precisar exportar seus dados para outro programa. Adicione imagens, gráficos, animações, links e mais &mdash; tudo o que você deve ter para compartilhar informações de status do projeto com clareza e eficácia com os participantes e membros da equipe. Saiba mais sobre [a criação de um relatório de projeto](https://go.microsoft.com/fwlink/p/?LinkId=271349).
+Com o Project 2016, você pode criar relatórios profissionais, coloridos e coloridos sem precisar exportar seus dados para outro programa. Adicione imagens, gráficos, animações, links e mais tudo o que você deve ter para compartilhar de forma clara e eficaz as informações de status do projeto com os participantes e &mdash; membros da equipe. Saiba mais sobre [a criação de um relatório de projeto.](https://go.microsoft.com/fwlink/p/?LinkId=271349)
   
 ## <a name="team-planner"></a>Planejador de equipe
 
@@ -62,5 +63,5 @@ Use um modo de exibição que mostre as pessoas e as suas atribuições.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos, nas opções autônomas e nas soluções locais, consulte [Descrição do serviço do Project online](project-online-service-description.md).
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do [serviço do Project Online.](project-online-service-description.md)
   

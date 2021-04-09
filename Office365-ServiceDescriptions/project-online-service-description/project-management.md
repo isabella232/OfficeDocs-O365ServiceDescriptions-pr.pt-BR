@@ -2,6 +2,7 @@
 title: Gerenciamento de projeto
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Os seguintes recursos de gerenciamento de projeto estão disponíveis no Project Online.
-ms.openlocfilehash: 358d6b3889917e98015b2c4d03838a38e915ef72
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174116"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652265"
 ---
 # <a name="project-management"></a>Gerenciamento de projeto
 

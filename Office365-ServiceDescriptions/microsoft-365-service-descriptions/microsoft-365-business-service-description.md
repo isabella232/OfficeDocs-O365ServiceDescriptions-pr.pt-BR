@@ -2,6 +2,7 @@
 title: Descrição do serviço Microsoft 365 Business Premium
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: O Microsoft 365 Business Premium é uma solução integrada que reúne a melhor produtividade na classe com recursos avançados de gerenciamento de dispositivos e segurança para ajudar a proteger seus negócios. Esta descrição de serviço descreve as opções e recursos do plano.
-ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 2822f93ce488c180b1cdb0bf6fefefb061138f5b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484814"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652665"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrição do serviço Microsoft 365 Business Premium
 
