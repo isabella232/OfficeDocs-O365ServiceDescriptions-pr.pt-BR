@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 US Government (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos específicos dos ambientes do Office 365 Government US.
-ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653153"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767481"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -143,7 +143,7 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 |Serviço do Office 365|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
 |Office na Web|Sim|Sim|Sim|Sim|
-|Microsoft 365 Apps para empresas|Não|Sim|Sim|Não|
+|Microsoft 365 Apps para Grandes Empresas|Não|Sim|Sim|Não|
 |Exchange Online|Sim|Sim|Sim|Sim|
 |Proteção do Exchange Online|Sim|Sim|Sim|Sim|
 |SharePoint Online|Sim|Sim|Sim|Sim|
@@ -255,7 +255,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**Confiança**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Advanced Data Governance|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
-|Segurança no Aplicativo na Nuvem|No<sup>12, 15, 19</sup>|No<sup>12, 15, 19</sup>|Sim<sup>15, 19</sup>|No<sup>12, 15, 19</sup>|
+|Segurança no Aplicativo na Nuvem|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sim<sup>19</sup>|No<sup>12, 19</sup>|
 |Obter o Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sim<sup>18</sup>|No<sup>12, 18</sup>|
 |Sistema de Proteção de Dados do cliente|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Descoberta Eletrônica Avançada|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
