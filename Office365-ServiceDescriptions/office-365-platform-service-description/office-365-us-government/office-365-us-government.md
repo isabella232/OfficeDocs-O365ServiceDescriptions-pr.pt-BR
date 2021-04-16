@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 US Government (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos específicos dos ambientes do Office 365 Government US.
-ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: d72294f222850b5b3d2705302f578d9a67f6075d
+ms.sourcegitcommit: c64da86e181eb61e622c2f29e1ab994b5de6894a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767481"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857821"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -256,7 +256,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Advanced Data Governance|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Segurança no Aplicativo na Nuvem|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sim<sup>19</sup>|No<sup>12, 19</sup>|
-|Obter o Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sim<sup>18</sup>|No<sup>12, 18</sup>|
+|Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sim<sup>18</sup>|No<sup>12, 18</sup>|
 |Sistema de Proteção de Dados do cliente|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Descoberta Eletrônica Avançada|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Pontuação<sup>Segura 14</sup>|Sim<sup>9, 15</sup>|Sim<sup>9</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|
@@ -401,11 +401,11 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens do governo; no
 |[**O Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:|**GCC**|**CCG Alto**|**DOD**|
 |Pesquisador|Não|Não|Não|
 |Tinta Digital Inteligente|Não|Não|Não|
-|[**O Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:|**GCC**|**CCG Alto**|**DOD**|
+|[**O Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.|**GCC**|**CCG Alto**|**DOD**|
 |Sons do Office (alguns)|Não|Não|Não|
 |DDE (Dynamic Data Exchange) desabilitado por padrão|Não|Não|Não|
-|Ditado|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
-|[**O Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:|**GCC**|**CCG Alto**|**DOD**|
+|Ditado|Sim|Sim|No<sup>1</sup>|
+|[**O Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.|**GCC**|**CCG Alto**|**DOD**|
 |Pesquisa Inteligente|Não|Não|Não|
 |Sons do Office (alguns)|Não|Não|Não|
 |Modelos 3D e animações 3D incorporadas|Não|Não|Não|
@@ -418,7 +418,7 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens do governo; no
 |Histórico de versão|Não|Não|Não|
 |Grupos do Office 365|Não|Não|Não|
 |Colaboração em tempo real (presença, coautorização regular, chat no documento)|Não|Não|Não|
-|Ditado|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
+|Ditado|Sim|Sim|No<sup>1</sup>|
 |Reutilizar slides|Não|Não|Não|
 |**O Quadro de** Opções da Microsoft nas nuvens do governo está disponível apenas em clientes hub e não na área de trabalho.|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |Inserir anotações, texto e imagens grudentas|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
@@ -431,7 +431,7 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens do governo; no
 |Presença em tempo real|Não|Não|Não|
 |Reações no conteúdo|Não|Não|Não|
 |Galeria de quadro de whiteboards, incluindo compartilhado com você|Não|Não|Não|
-|[**O Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:|**GCC**|**CCG Alto**|**DOD**|
+|[**O Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.|**GCC**|**CCG Alto**|**DOD**|
 |Pesquisa Inteligente|Não|Não|Não|
 |Pesquisador|Não|Não|Não|
 |Sons do Office|Não|Não|Não|
@@ -447,7 +447,7 @@ Os seguintes aplicativos do Office estão disponíveis nas nuvens do governo; no
 |Histórico de versão|Não|Não|Não|
 |Grupos do Office 365|Não|Não|Não|
 |Chat contextual com coautor: converse com coautor dentro do documento|Não|Não|Não|
-|Ditado|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
+|Ditado|Sim|Sim|No<sup>1</sup>|
 
 Para disponibilidade de recursos do Microsoft Teams no GCC/GCC High/DoD, visite a descrição do [serviço do Microsoft Teams.](../../teams-service-description.md)
 > <sup>1</sup> Disponibilidade futura.
