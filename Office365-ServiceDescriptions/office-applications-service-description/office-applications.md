@@ -14,7 +14,7 @@ ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: O Microsoft Office é um serviço poderoso que o ajuda a revelar suas melhores ideias, executar tarefas e permanecer conectado em trânsito. Conecte-se para ter uma experiência personalizada e todos os aplicativos do Office mais atuais, com recursos novos e aprimorados sendo adicionados continuamente.
 ms.openlocfilehash: 5d23343c076244d3a326ed447d2fbf4ff88ffa0c
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51652375"
