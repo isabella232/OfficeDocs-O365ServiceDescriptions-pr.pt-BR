@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Saiba mais sobre a disponibilidade de recursos do SharePoint para clientes de nuvem do governo dos EUA.
-ms.openlocfilehash: 8688c80ee2214ad77f4c27fa79dd38dca3c6cbb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653143"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900771"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Ambientes governamentais do SharePoint para EUA
 
@@ -75,6 +75,7 @@ Aqui estão as diferenças entre os sites e os recursos de conteúdo para client
 - A funcionalidade do Graph no SharePoint Online para GCC High está desabilitada no momento. Qualquer serviço que depende do Microsoft Graph pode não estar disponível no momento
 - Recursos que dependem de conexões com serviços da Internet, como a guia imagens de ações, não funcionarão conforme o esperado
 - As notificações para atividade de arquivo e site não estão disponíveis
+- A Web Part de notícias só receberá notícias do site atual. Notícias de sites selecionados ou acúmulos de notícias de hub de sites associados não estão disponíveis para clientes GCC High e DoD
 
 ## <a name="search-features"></a>Recursos de pesquisa
 

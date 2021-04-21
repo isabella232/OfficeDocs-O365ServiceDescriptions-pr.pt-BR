@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: 1adcb5aaf9584889299e38943cc0355c0a82caed
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 0d8d155e451ba2ef912b8ca0d265b175d01ecc64
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653483"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900751"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Opções de planos para Microsoft 365 e Office 365
 
@@ -52,12 +52,11 @@ Cada plano do Microsoft 365 ou office 365 inclui vários serviços individuais, 
 |Plataforma do Office 365  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Exchange Online  <br/> |Não  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>8</sup> <br/> |Não<sup>16</sup> <br/> |
 |SharePoint Online  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>17</sup> <br/> |
-|SharePoint Syntex  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim <br/> |
 |OneDrive  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
 |Skype for Business Online <sup>14</sup> <br/> |Não  <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |
 |Office na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |No<sup>18</sup> <br/> |
 |Aplicativos do Office  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
-|Project  <br/> |Não  <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não  <br/> |
+|Projeto  <br/> |Não  <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não  <br/> |
 |Power BI  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |Yammer Enterprise  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção de Informações do Azure<sup>2</sup> <br/> |Não  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |Sim  <br/> |No<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |No<sup>1</sup> <br/> |Não  <br/> |

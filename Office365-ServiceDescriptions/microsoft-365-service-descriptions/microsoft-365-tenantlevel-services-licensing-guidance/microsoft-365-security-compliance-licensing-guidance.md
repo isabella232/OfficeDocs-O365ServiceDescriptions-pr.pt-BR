@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece diretrizes de licenciamento para a conformidade do Microsoft 365 para ajudar a evitar possíveis interrupções de serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652655"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900761"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Diretrizes de licenciamento do Microsoft 365 para conformidade com &amp; a segurança
 
@@ -26,7 +26,7 @@ Para os fins deste artigo, um serviço de nível de locatário é um serviço on
 > [!NOTE]
 > Alguns serviços de locatários atualmente não são capazes de limitar benefícios a usuários específicos. Os esforços devem ser feitos para limitar os benefícios do serviço aos usuários licenciados. Isso ajudará a evitar possíveis interrupções de serviço para sua organização depois que os recursos de direcionamento estão disponíveis.
 
-Para ver as opções de licenciamento de seus usuários para se beneficiar dos recursos de conformidade do Microsoft 365 a partir de 1º de abril de 2020, baixe a Comparação detalhada de Licenciamento de Conformidade do Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
+Para ver as opções de licenciamento de seus usuários para se beneficiar dos recursos de conformidade do Microsoft 365, baixe a Comparação detalhada de Licenciamento de Conformidade do Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -92,7 +92,7 @@ Por padrão, os recursos do Microsoft Defender para Identidade são habilitados 
 
 No momento, os serviços do Microsoft Defender para Identidade não são capazes de limitar recursos a usuários específicos. Você deve licenciar todos os usuários que pretende beneficiar.
 
-## <a name="microsoft-defender-for-office-365"></a>Obter o Microsoft Defender para Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
 O Microsoft Defender for Office 365 (anteriormente a Proteção Avançada contra Ameaças do Office 365) ajuda a proteger as organizações contra ataques sofisticados, como phishing e malware de dia zero. O Microsoft Defender para Office 365 também fornece informações ativas correlacionando sinais de uma ampla variedade de dados para ajudar a identificar, priorizar e fornecer recomendações sobre como lidar com possíveis ameaças.
 
@@ -218,7 +218,7 @@ Por padrão, os recursos do Microsoft Defender para Ponto de Extremidade são ha
 
 Os administradores do Microsoft Defender for Endpoint podem usar o controle de acesso baseado em função (RBAC) para criar funções e grupos dentro da equipe de operações de segurança para conceder acesso apropriado ao Centro de Segurança do Microsoft Defender. Para obter mais informações, consulte [Manage portal access using role-based access control](/windows/security/threat-protection/microsoft-defender-atp/rbac).
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Análise de classificação de dados do Microsoft 365: Visão geral do Explorador de &amp; Atividades de Conteúdo  
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Análise de classificação de dados do Microsoft 365: Visão geral do Explorador de &amp; Atividades de Conteúdo
 
 Os recursos de análise de classificação de dados estão disponíveis na experiência do centro de conformidade do Microsoft 365. Visão geral mostra os locais do conteúdo digital e os rótulos e tipos de informações confidenciais mais comuns presentes. O Explorador de Conteúdo fornece visibilidade da quantidade e tipos de dados confidenciais e permite que os usuários filtrem por rótulo ou tipo de sensibilidade para obter uma visão detalhada dos locais onde os dados confidenciais são armazenados. O Explorador de Atividades mostra atividades relacionadas a dados confidenciais e rótulos, como downgrades de rótulos ou compartilhamento externo que podem expor seu conteúdo a riscos.
 
