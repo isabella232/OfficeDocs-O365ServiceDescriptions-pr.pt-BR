@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: O Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços de nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: be29bc918e8db388e51d44e39dab88018706bbda
+ms.sourcegitcommit: 1bdc4b442c34cfd291872760d5b7a01b207cd716
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653203"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52001787"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -67,7 +67,7 @@ O Centro de Conformidade do Microsoft 365 fornece acesso fácil às ferramentas 
 
 - Prevenção de Perda de Dados (DLP)
 - Retenção
-- Auditoria
+- Auditoria com dados do Azure Active Directory e exchange
 - Microsoft Information Protection (MIP) andsensitivity labels for Office clients and Outlook using the AIP unified label client
 
 > [!NOTE]
