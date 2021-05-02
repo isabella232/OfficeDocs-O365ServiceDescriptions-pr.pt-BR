@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Os administradores da Microsoft podem exibir o status dos serviços e descobrir quando a manutenção está agendada. As informações de saúde do serviço estão disponíveis a qualquer momento ao entrar.
-ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ec8e03d31a300755ab741723b81651d6d6969b37
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652445"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074492"
 ---
 # <a name="service-health-and-continuity"></a>Saúde e continuidade do serviço
 
@@ -43,6 +43,14 @@ Há dois tipos de notificações sobre os horários em que os serviços podem n�
 ### <a name="recent-worldwide-uptimes"></a>Tempos de atividade recentes em todo o mundo
 
 Mudar para um serviço de nuvem não deve significar perder a capacidade de saber o que está acontecendo. Com o Office 365, não. Nosso objetivo é ser transparente em nossas operações para que você possa monitorar o estado do seu serviço, controlar problemas e ter uma visão histórica da disponibilidade. As tabelas a seguir mostram dados recentes de tempo de atividade em todo o mundo.
+
+**2021**
+
+| P1 | P2 | Q3 | Q4 |
+|:-----|:-----|:-----|:-----|
+| 99.97% <br/> | | | |
+
+<br>
 
 **2020**
 

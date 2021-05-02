@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e se comunicar com segurança em vários dispositivos e vários serviços do Office 365. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
-ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
+ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52023566"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074472"
 ---
 # <a name="microsoft-365-suite-features"></a>Recursos do pacote Microsoft 365
 
@@ -74,7 +74,7 @@ O Microsoft Stream é um serviço de vídeo corporativo que as pessoas em sua or
 
 O Microsoft Sway é um aplicativo profissional de storytelling digital para empresas que ajuda você e seus colegas a expressar ideias usando uma tela interativa baseada na Web. O mecanismo de design interno do Microsoft Sway ajuda você a produzir relatórios, apresentações e apresentações profissionais, visualmente atraentes e muito mais, sem a necessidade de formatação extensiva ou treinamento adicional. Você também pode modificar os resultados para obter a aparência exclusiva que deseja. O Microsoft Sway faz com que sua criação pareça ótima em qualquer navegador em qualquer tela e pode ser compartilhada com colegas e clientes enviando um link. O Microsoft Sway ajuda você a encontrar e reunir todos os tipos de conteúdo sem sair do aplicativo, para que você possa arrastar e soltar suas imagens, texto, vídeos e gráficos direto em sua tela. Para saber mais, confira [Sway](https://sway.com). O Microsoft Sway ainda não está disponível no [Office 365 Germany.](office-365-germany.md)
   
-## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps para Grandes Empresas
+## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps para empresas
 
 O Microsoft 365 Apps para empresas é o pacote sempre atualizado de aplicativos de área de trabalho que você já conhece (incluindo Word, PowerPoint, Excel, Outlook e Teams) disponível como assinatura. O Microsoft 365 Apps para empresas inclui recursos inteligentes exclusivos, como Ideias no [**Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Pesquisador no [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)colaboração em tempo [**real,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams como o hub para trabalho em equipe e recursos avançados de segurança. Como uma licença baseada em usuário, você pode implantar o Office em até cinco computadores ou Macs, cinco tablets e cinco dispositivos móveis. Com 1 TB de armazenamento em nuvem do OneDrive, você pode acessar e colaborar em seus arquivos de qualquer lugar.
 
@@ -112,7 +112,7 @@ Com o Microsoft To Do, os clientes podem:
 
 Para saber mais, confira: [To Do](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment"></a>Implantação do Windows Update para Empresas  
+## <a name="windows-update-for-business-deployment-service"></a>Serviço de implantação do Windows Update para Empresas 
 
 O serviço de implantação do Windows Update para Empresas fornece controle sobre a aprovação, o agendamento e a proteção do conteúdo fornecido pelo Windows Update. Ele foi projetado para trabalhar com suas políticas existentes do Windows Update para Empresas para fornecer um controle rico sobre atualizações individuais. Os recursos fornecidos pelo serviço de implantação incluem:
 
