@@ -9,45 +9,37 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: O Microsoft 365 Business Voice é um serviço de complemento que permite que você use o Microsoft Teams para chamadas telefônicas. Isso combina sistema telefônico, plano de chamadas domésticas, SMS e audioconferência.
-ms.openlocfilehash: e47d794ba1fe2790603908f0e7b9c4a0ef93132c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Microsoft 365 Business Voice é um serviço de complemento que permite que você use Microsoft Teams para chamadas telefônicas. Isso combina sistema telefônico, plano de chamadas domésticas, SMS e audioconferência.
+ms.openlocfilehash: cbb8834dc2eebda535151d0042fa158469a0aa20
+ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653263"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264779"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descrição dos serviços do Microsoft 365 Business Voice
 
-O Microsoft 365 Business Voice é uma solução de telefonia baseada em nuvem no Microsoft Teams que oferece recursos do sistema de telefonia, como estacionamento de chamadas, encaminhamento de chamadas, atendimento automático, filas de chamadas, audioconferência e planos de chamadas. O Business Voice pode ser adicionado às assinaturas do Office 365 e do Microsoft 365 que incluem o Microsoft Teams (até 300 licenças). Para obter mais informações sobre o serviço Business Voice, consulte [Microsoft 365 Business Voice](/MicrosoftTeams/business-voice/whats-business-voice).
+Microsoft 365 Business Voice é uma solução de telefonia baseada em nuvem no Microsoft Teams que oferece recursos do sistema de telefonia, como estacionamento de chamadas, encaminhamento de chamadas, atendimento automático, filas de chamadas, audioconferência e planos de chamadas. O Business Voice pode ser adicionado Office 365 assinaturas Microsoft 365 que incluem Microsoft Teams (até 300 licenças). Para obter mais informações sobre o serviço Business Voice, [consulte Microsoft 365 Business Voice](/MicrosoftTeams/business-voice/whats-business-voice).
 
-Você pode escolher entre duas opções do Microsoft 365 Business Voice:
+## <a name="available-plans"></a>Planos disponíveis
 
-- Microsoft 365 Business Voice
-- Microsoft 365 Business Voice sem plano de chamada
+A tabela a seguir mostra os planos que incluem Microsoft 365 Business Voice para que você possa escolher a solução que melhor atenda às necessidades da sua organização. Para obter informações detalhadas do plano, [consulte Microsoft 365 Business Voice](/microsoftteams/business-voice/whats-business-voice).
 
-O Microsoft 365 Business Voice está disponível com as seguintes assinaturas com até 300 licenças:
+| Planos de pequenas empresas | Enterprise planos |
+|--------------------------------------------------------|------------------------------|
+| Microsoft 365 Business Basic | Microsoft 365 Enterprise E1 |
+| Microsoft 365 Business Standard | Microsoft 365 Enterprise E3 |
+| Microsoft 365 Business Premium |  |
 
-- Microsoft 365 Business Basic
-- Microsoft 365 Business Standard
-- Microsoft 365 Business Premium
-- Microsoft 365 F1
-- Microsoft 365 F3
-- Office 365 F3
-- Microsoft e Office 365 Enterprise E1 ou E3
-- Microsoft 365 e Office 365 Education A1 ou A3
-- Microsoft 365 e Office 365 Government G1 ou G3
-- Microsoft 365 Nonprofit Business Basic
-- Microsoft 365 Nonprofit Business Standard
-- Microsoft 365 e Office 365 Sem fins lucrativos E1 ou E3
+## <a name="feature-availability"></a>Disponibilidade de recursos
 
-## <a name="microsoft-365-business-voice-features"></a>Recursos do Microsoft 365 Business Voice
+A tabela a seguir lista os principais recursos Microsoft 365 Business Voice disponíveis nos planos. Certas advertências se aplicam. Consulte as notas de rodapé para obter mais informações. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte [https://www.microsoft.com/microsoft-teams/voice-calling](https://www.microsoft.com/microsoft-teams/voice-calling) .
 
-| Recurso | Microsoft 365 Business Voice | Microsoft 365 Business Voice sem plano de chamada |
+| Recurso | Microsoft 365 Business Voice | Microsoft 365 Business Voice Sem Plano de Chamada |
 |--------------------------------------------------------|------------------------------|---------------------------------------------------|
 | Números locais | Sim | Sim<sup>*</sup> |
 | Chamada voIP | Sim | Sim<sup>*</sup> |
-| Atendedores automáticos | Sim | Sim<sup>*</sup> |
+| Atendentes automáticos | Sim | Sim<sup>*</sup> |
 | Fila de chamada | Sim | Sim<sup>*</sup> |
 | ID do chamador | Sim | Sim<sup>*</sup> |
 | Roteamento de chamadas | Sim | Sim<sup>*</sup> |
@@ -55,7 +47,7 @@ O Microsoft 365 Business Voice está disponível com as seguintes assinaturas co
 | Chamada de emergência com localização dinâmica | Sim | Sim<sup>*</sup> |
 | Caixa Postal | Sim | Sim<sup>*</sup> |
 | Estacionamento de chamada | Sim | Sim<sup>*</sup> |
-| Encaminhamento de chamada | Sim | Sim<sup>*</sup> |
+| Encaminhamento de chamadas | Sim | Sim<sup>*</sup> |
 | Delegação de chamadas (compartilhar uma linha telefônica com um representante) | Sim | Sim<sup>*</sup> |
 | Música em espera | Sim | Sim<sup>*</sup> |
 | Bloco de chamada | Sim | Sim<sup>*</sup> |
@@ -71,3 +63,23 @@ O Microsoft 365 Business Voice está disponível com as seguintes assinaturas co
 <sup>*</sup> Disponível com o plano de chamada fornecido por terceiros.
 
 <sup>**</sup>A discagem gratuita e o Plano de Chamada Internacional estão disponíveis a custos adicionais usando [Créditos de Comunicação.](/microsoftteams/what-are-communications-credits) Para saber mais, confira [discagem gratuita e](/microsoftteams/toll-free-dialing-limitations-and-restrictions) [taxas de chamada internacional.](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)
+
+## <a name="learn-more"></a>Saiba mais
+
+Para obter informações técnicas sobre Microsoft 365 Business Voice confira os seguintes recursos:
+
+- [Microsoft 365 Visão geral do produto](/MicrosoftTeams/business-voice/whats-business-voice)
+- [Descrição dos serviços do Microsoft 365 Business Voice](/office365/servicedescriptions/microsoft-365-business-voice-service-description)
+- [Microsoft 365 Business Voice de documentação](/MicrosoftTeams/business-voice/)
+
+## <a name="licensing-terms"></a>Termos de licenciamento
+
+Para termos e condições de licenciamento para produtos e serviços adquiridos por meio de Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto](https://www.microsoft.com/licensing/terms/).
+
+## <a name="messaging"></a>Mensagens
+
+Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
+
+## <a name="accessibility"></a>Acessibilidade
+
+A Microsoft permanece comprometida com a segurança de seus dados e [com a acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
