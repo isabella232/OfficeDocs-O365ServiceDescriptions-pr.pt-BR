@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
-ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
+ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52247969"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52266361"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -122,6 +122,10 @@ Os recursos listados nesta seção interagem apenas com dados no Project para o 
 |Personalizar exibições e formulários <sup>4</sup> | Personalize somente exibições e formulários no aplicativo de Project. | View Only | Sim | Sim | Sim |
 |Usar colunas personalizadas | Exibir, adicionar, atualizar ou excluir dados em uma coluna adicionada a uma tabela. | View Only | View Only | Sim | Sim |
 |Usar tabelas <sup>personalizadas 5</sup> | Crie e defina tabelas personalizadas para manter dados adicionais necessários para seus projetos, portfólios, etc. | Não | View Only | Sim | Sim |
+|**Power Automate fluxos de trabalho e fluxos de processo de negócios** <sup>7</sup> ||||||
+| | Defina e use Power Automate fluxos de nuvem que utilizam Project dados, incluindo tabelas e colunas personalizadas. | Não | Sim | Sim | Sim |
+| | Defina Power Automate fluxos de Processo De Negócios que utilizam Project dados, incluindo tabelas e colunas personalizadas. | Não | Não | Sim | Sim |
+| | Use Power Automate fluxos de Processo De Negócios que utilizam Project dados. | Não | Sim | Sim | Sim |
 |**Segurança e gerenciamento de usuários**||||||
 |Office Grupos Modernos | Crie uma equipe de projeto para colaborar e facilmente configurar uma coleção de recursos para os membros da equipe compartilharem. | Sim | Sim | Sim | Sim |
 |**Aplicativos de terceiros**||||||
@@ -199,7 +203,14 @@ Os recursos listados nesta seção interagem apenas com dados no Project Online 
 <sup>4</sup> Criar e usar Power Apps além do aplicativo Project que acessa o Project para a Web ou para os dados do cliente Project Online requer uma assinatura Power Apps separada.</br>
 <sup>5</sup> Limitado a 5 tabelas personalizadas.</br>
 <sup>6</sup> Project Online licenciamento para usuários externos segue a mesma política para usuários internos. Qualquer interação em um site Project Online requer uma assinatura Project Plano 3 ou Project Plano 5.</br>
-<sup>7</sup> Automatizar e integrar processos de negócios com Power Automate com o Project para os dados da Web requer uma assinatura Power Automate e uma assinatura Project Plano 3 ou Project Plano 5.</br>
+<sup>7</sup> Power Automate uso dentro Project está limitado ao contexto do Project aplicativo. O que isso significa é que, para gatilhos e ações, os direitos de fluxo incluídos Project podem:
+
+- Conexão a qualquer fonte de dados dentro dos direitos de uso do Project aplicativo:
+  - Fontes de dados disponíveis por meio de conectores padrão
+  - Project dados por meio do conector do Microsoft Dataverse
+- Ser disparado diretamente de dentro do aplicativo Project (por meio de gatilho/ação integrado)
+
+Se o fluxo estiver isolado e não tiver nada a ver com o aplicativo Project, uma licença de plataforma precisará ser comprada.</br>
 <sup>8</sup> Os usuários com uma assinatura Project Plano 3 ou Project Plano 5 podem enviar solicitações de envolvimento de recursos. Eles não podem revisar, atender ou aprovar solicitações de envolvimento de recursos.</br>
 <sup>9</sup> Os usuários com uma assinatura Project Plano 5 podem revisar, atender e aprovar solicitações de envolvimento de recursos.</br>
 <sup>10 O</sup> Active Directory requer uma assinatura separada. </br>
