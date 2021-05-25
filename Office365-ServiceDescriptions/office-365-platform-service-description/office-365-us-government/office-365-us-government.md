@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 para o Governo norte-americano (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos que são específicos Office 365 Government ambientes dos EUA.
-ms.openlocfilehash: a1c5ed6e166ec3a893c716e5de18e9bc81a3865f
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545928"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625638"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -413,7 +413,9 @@ Os seguintes Office aplicativos estão disponíveis nas nuvens do governo; no en
 |Modelos 3D e animações 3D incorporadas|Não|Não|Não|
 |Gráficos: mapas|Não|Não|Não|
 |Tinta Digital Inteligente|Não|Não|Não|
-|Legendas e legendas ao vivo PowerPoint|Não|Não|Não|
+|Legendas e legendas ao vivo PowerPoint|Sim|Sim|Não|
+|Apresentações ao vivo|Não|Não|Não|
+|Leitura Avançada|Não|Não|Não|
 |Técnico de Apresentador|Não|Não|Não|
 |Shared with Me|Não|Não|Não|
 |Skype for Business integração com o compartilhamento|Não|Não|Não|
