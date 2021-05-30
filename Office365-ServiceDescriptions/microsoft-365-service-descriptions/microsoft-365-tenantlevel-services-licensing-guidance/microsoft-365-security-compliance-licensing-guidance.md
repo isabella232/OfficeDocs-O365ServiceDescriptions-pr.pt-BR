@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece diretrizes de licenciamento Microsoft 365 conformidade para ajudar a evitar possíveis interrupções no serviço devido ao acesso não licenciado.
-ms.openlocfilehash: d4ddb9c492cccef13c86e450c64a2eb6efe61eaa
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546008"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699057"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 de licenciamento para conformidade com &amp; a segurança
 
@@ -26,7 +26,7 @@ Para os fins deste artigo, um serviço de nível de locatário é um serviço on
 > [!NOTE]
 > Alguns serviços de locatários atualmente não são capazes de limitar benefícios a usuários específicos. Os esforços devem ser feitos para limitar os benefícios do serviço aos usuários licenciados. Isso ajudará a evitar possíveis interrupções de serviço para sua organização depois que os recursos de direcionamento estão disponíveis.
 
-Para ver as opções de licenciamento de seus usuários para se beneficiarem de Microsoft 365 de conformidade, baixe a Comparação detalhada Microsoft 365 Licenciamento de Conformidade. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
+Para ver as opções de licenciamento de seus usuários para se beneficiarem de Microsoft 365 de conformidade, baixe [a tabela Microsoft 365 Comparison.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -267,7 +267,7 @@ O Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + 
 
 Microsoft 365 E5/A5/G5, conformidade Microsoft 365 E5/A5/G5, proteção de informações do Microsoft 365 E5/A5/G5 e Governança, Office 365 E5, Enterprise Mobility + Security E5/A5/G5 e Plano 2 da AIP fornecem os direitos para um usuário se beneficiar da rotulagem automática de sensibilidade.
 
-Para direitos específicos por licença, consulte a comparação de licenciamento de conformidade Microsoft 365 conformidade detalhada. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Não inclui direitos de classificação automática com base em Machine Learning (classificadores treináveis).
+A Proteção de Informações não inclui direitos de classificação automática com base Machine Learning (classificadores treináveis).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 

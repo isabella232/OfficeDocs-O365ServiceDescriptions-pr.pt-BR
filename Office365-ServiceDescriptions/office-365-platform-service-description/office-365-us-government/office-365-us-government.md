@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 para o Governo norte-americano (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos que são específicos Office 365 Government ambientes dos EUA.
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625638"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699077"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -105,7 +105,7 @@ Os serviços de adoção do usuário são compostos de tarefas que fornecem orie
 
 Informações específicas sobre o processo do Centro FastTrack podem ser encontradas [aqui](/FastTrack/us-gov-appendix-overview). Para uma divisão de funções e responsabilidades de envolvimento, revise [As responsabilidades do FastTrack,](/FastTrack/us-gov-appendix-fasttrack-responsibilities) bem como [suas responsabilidades.](/FastTrack/us-gov-appendix-your-responsibilities)
 
-> <sup>1</sup> Você deve comprar pelo menos 50 licenças da lista dos planos qualificados [para](/fasttrack/eligibility) receber os serviços do FastTrack.
+> <sup>1</sup> Você deve comprar pelo menos 150 licenças da lista dos planos qualificados [para](/fasttrack/eligibility) receber os serviços do FastTrack.
 <br/><sup>2</sup> Os serviços de Migração de Dados estão disponíveis Office 365 locatários com 500 ou mais licenças.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrações de dados realizadas pelo FastTrack
@@ -143,7 +143,7 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 |Serviço do Office 365|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
 |Office na Web|Sim|Sim|Sim|Sim|
-|Microsoft 365 Apps para Grandes Empresas|Não|Sim|Sim|Não|
+|Microsoft 365 Apps para empresas|Não|Sim|Sim|Não|
 |Exchange Online|Sim|Sim|Sim|Sim|
 |Proteção do Exchange Online|Sim|Sim|Sim|Sim|
 |SharePoint Online|Sim|Sim|Sim|Sim|
@@ -191,7 +191,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Gerenciamento de contas de usuário](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Identidade de nuvem|Sim|Sim|Sim|Sim|
 |Identidade federada (logon único)|Sim|Sim|Sim|Sim|
-|Autenticação multifator|Sim|Sim|Sim|Sim|
+|Multi-factor Authentication|Sim|Sim|Sim|Sim|
 |Telefone fator|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim|Sim<sup>9</sup>|
 |Configuração de área de trabalho do Office 365|Sim|Sim|Sim|Sim|
 |Gerenciar usuários com o Office 365|Sim|Sim|Sim|Sim|
