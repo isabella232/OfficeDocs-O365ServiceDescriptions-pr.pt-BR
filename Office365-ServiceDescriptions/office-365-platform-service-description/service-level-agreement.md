@@ -35,4 +35,4 @@ Confira o [Contrato de Nível de Serviço da 21Vianet](https://go.microsoft.com/
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, consulte a descrição do serviço da plataforma [do Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos entre os planos, [consulte Microsoft 365 descrição do serviço Office 365 plataforma.](office-365-platform-service-description.md)

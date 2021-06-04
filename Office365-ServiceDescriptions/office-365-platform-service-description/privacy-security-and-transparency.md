@@ -32,7 +32,7 @@ Para saber mais sobre como o Microsoft Office 365 protege a privacidade de seus 
   
 Para as etapas específicas que os administradores de Empresas, Empresas de médio porte, Governo e Educação poderão seguir para configurar as definições de privacidade do Office 365, confira [Opções avançadas de privacidade para administradores](https://go.microsoft.com/fwlink/p/?LinkID=285202).
   
-Para obter informações sobre segurança e privacidade para outros serviços da Microsoft, incluindo o Microsoft 365 Apps para empresas, consulte Para quais serviços online a [Central de Confiação](https://www.microsoft.com/trustcenter/default.aspx) se aplica?
+Para obter informações sobre segurança e privacidade para outros serviços Microsoft, incluindo Microsoft 365 Apps para Grandes Empresas, consulte Para quais serviços online a [Central de Confiações](https://www.microsoft.com/trustcenter/default.aspx) se aplica?
   
 ## <a name="security"></a>Segurança
 
@@ -44,7 +44,7 @@ Como cliente, você pode descobrir onde seus dados residem, quem na Microsoft po
   
 ## <a name="advanced-ediscovery"></a>Descoberta Eletrônica Avançada
 
-A Descoberta Eletrônica, ou eDiscovery, é o processo de identificar e fornecer informações eletrônicas que podem ser usadas como provas. A Descoberta EDiscoveria Avançada se baseia no conjunto existente de recursos de Descoberta e Descoberta No Office 365, permitindo que você analise conjuntos de dados grandes e não estruturados e reduza a quantidade de dados relevantes para um caso legal. Você pode usar o recurso Pesquisar no Centro de Conformidade do Office 365 para realizar uma pesquisa inicial de todas as fontes de conteúdo em sua organização para identificar e coletar os dados que podem ser relevantes para um processo legal específico. Em seguida você pode analisar esses dados aplicando a análise de texto, aprendizagem automática e recursos de codificação de relevância/previsão da Descoberta Eletrônica Avançada. Para obter mais informações, consulte [Advanced eDiscovery](/microsoft-365/compliance/overview-ediscovery-20).
+A Descoberta Eletrônica, ou eDiscovery, é o processo de identificar e fornecer informações eletrônicas que podem ser usadas como provas. Advanced eDiscovery se baseia no conjunto existente de recursos de Descoberta Office 365, permitindo que você analise conjuntos de dados grandes e não estruturados e reduza a quantidade de dados relevantes para um caso legal. Você pode usar o recurso Pesquisar no Centro de Conformidade do Office 365 para realizar uma pesquisa inicial de todas as fontes de conteúdo em sua organização para identificar e coletar os dados que podem ser relevantes para um processo legal específico. Em seguida você pode analisar esses dados aplicando a análise de texto, aprendizagem automática e recursos de codificação de relevância/previsão da Descoberta Eletrônica Avançada. Para obter mais informações, [consulte Advanced eDiscovery](/microsoft-365/compliance/overview-ediscovery-20).
   
 ## <a name="customer-lockbox"></a>Sistema de Proteção de Dados do cliente
 
@@ -52,10 +52,10 @@ Como administrador da Microsoft, você pode usar o Customer Lockbox para control
   
 O Sistema de Proteção de Dados do Cliente está incluído no plano do Office 365 Enterprise 5 ou você pode adquirir uma assinatura separada com qualquer outro plano do Office 365 Enterprise. Para saber mais, consulte [Solicitações do Sistema de Proteção de Dados do Cliente do Office 365](/microsoft-365/compliance/customer-lockbox-requests).
   
-## <a name="microsoft-defender-for-office-365"></a>Obter o Microsoft Defender para Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
-O Defender for Office 365 ajuda a proteger sua organização contra malware e vírus. O Defender para Office 365 inclui [links](/office365/securitycompliance/atp-safe-links)seguros, [anexos seguros,](/office365/securitycompliance/atp-safe-attachments) [recursos de inteligência anti-phishing](/office365/securitycompliance/atp-anti-phishing)e [spoof.](/office365/securitycompliance/learn-about-spoof-intelligence) Os Links Seguros protegem proativamente seus usuários contra hiperlinks mal-intencionados em uma mensagem, fornecendo proteção sempre que o link é selecionado. Os Anexos Seguros protegem contra malwares e vírus desconhecidos, roteamento de todas as mensagens e anexos que não têm uma assinatura de vírus/malware conhecida para um ambiente especial em que o Defender para Office 365 pode detectar intenção mal-intencionada. Para obter mais informações sobre o Defender para Office 365, consulte [Microsoft Defender for Office 365 service description](../office-365-advanced-threat-protection-service-description.md).
+O Defender para Office 365 ajuda a proteger sua organização contra malware e vírus. O Defender para Office 365 inclui [links](/office365/securitycompliance/atp-safe-links)Cofre , [Cofre anexos,](/office365/securitycompliance/atp-safe-attachments)recursos de inteligência [anti-phishing](/office365/securitycompliance/atp-anti-phishing)e [spoof.](/office365/securitycompliance/learn-about-spoof-intelligence) Cofre Os links protegem proativamente seus usuários contra hiperlinks mal-intencionados em uma mensagem, fornecendo proteção sempre que o link é selecionado. Cofre Os anexos protegem contra malwares e vírus desconhecidos, roteamento de todas as mensagens e anexos que não têm uma assinatura de vírus/malware conhecida para um ambiente especial em que o Defender para Office 365 pode detectar intenção mal-intencionada. Para obter mais informações sobre o Defender para Office 365, consulte [Microsoft Defender for Office 365 service description](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, consulte a descrição do serviço da plataforma [do Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos entre os planos, [consulte Microsoft 365 descrição do serviço Office 365 plataforma.](office-365-platform-service-description.md)

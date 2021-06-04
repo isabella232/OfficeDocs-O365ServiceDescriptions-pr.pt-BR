@@ -53,5 +53,5 @@ O Microsoft Partner Network tem o compromisso de atender às necessidades de nos
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Microsoft 365 e do Office 365, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos entre Microsoft 365 e Office 365, consulte Microsoft 365 descrição do serviço [Office 365 plataforma.](office-365-platform-service-description.md)
   

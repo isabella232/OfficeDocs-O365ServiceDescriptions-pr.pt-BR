@@ -56,7 +56,7 @@ Para ver as opções de licenciamento de seus usuários para se beneficiarem de 
 |[Criptografia de Mensagens do Office 365 básico (OME)](/microsoft-365/compliance/ome)  |Não |Não |Não |Não |Sim |Sim |Sim |Não |
 |[Criptografia de Mensagem Avançada do 365 Office](/microsoft-365/compliance/ome-advanced-message-encryption)  |Não |Não |Não |Não |Não |Sim |Sim |Não |
 |[Gerenciamento de Acesso Privilegiado](/microsoft-365/compliance/privileged-access-management-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
-|[Chave de Cliente](/microsoft-365/compliance/customer-key-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
+|[Chave do Cliente](/microsoft-365/compliance/customer-key-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
 
 <sup>1</sup> Os logs de auditoria de todos os planos que incluem a Auditoria Básica (exceto o E5) são mantidos por 90 dias. Como o E5 inclui Auditoria Avançada, os logs de auditoria são mantidos por até um ano. Além disso, você pode usar a [API Office 365 Atividade](/office/office-365-management-api/office-365-management-activity-api-reference) de Gerenciamento para recuperar eventos do log de auditoria unificado.
 

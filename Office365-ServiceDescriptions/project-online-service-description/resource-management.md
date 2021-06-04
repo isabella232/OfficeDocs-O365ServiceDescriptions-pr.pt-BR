@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
-description: Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project Online.
+description: Os seguintes recursos de gerenciamento de recursos estão disponíveis Project Online.
 ms.openlocfilehash: 62b64e672dc9acb1e86415d47cad9c8ead053330
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,7 +19,7 @@ ms.locfileid: "51651083"
 ---
 # <a name="resource-management"></a>Gerenciamento de recursos
 
-Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project Online.
+Os seguintes recursos de gerenciamento de recursos estão disponíveis Project Online.
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>Aprovar/rejeitar/modificar solicitações de contrato de recursos de entrada
 

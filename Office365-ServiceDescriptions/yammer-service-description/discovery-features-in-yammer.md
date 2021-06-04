@@ -35,16 +35,16 @@ Os resultados sugeridos da pesquisa aparecem conforme você digita para te ajuda
 
 Saiba no que os seus colegas de trabalho estão trabalhando em tempo real. O Ticker mostra histórias de atividades que ocorrem em tempo real, incluindo edições de página, carregamentos de arquivos e atualizações feitas em outros aplicativos de negócios.
   
-## <a name="topics"></a>Topics
+## <a name="topics"></a>Tópicos
 
 Marque o conteúdo com tópicos para ajudar outras pessoas a encontrar rapidamente mensagens relacionadas, arquivos, anotações e muito mais adicionando uma hashtag (#) antes da palavra ou pesquisando por tópicos existentes.
   
 ## <a name="universal-search"></a>Pesquisa universal
 
-A pesquisa de texto completo permite que você encontre rapidamente arquivos, anotações, conversas, pessoas e dados em sua rede do Yammer e aplicativos de negócios integrados.
+A pesquisa de texto completo permite que você encontre rapidamente arquivos, anotações, conversas, pessoas e dados em sua rede Yammer e aplicativos de negócios integrados.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição do serviço [do Yammer.](yammer-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Yammer descrição do serviço.](yammer-service-description.md)
   
   

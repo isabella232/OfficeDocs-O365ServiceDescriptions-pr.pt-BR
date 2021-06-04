@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: Os seguintes recursos de gerenciamento de portfólio estão disponíveis no Project Online.
+description: Os seguintes recursos de gerenciamento de portfólio estão disponíveis Project Online.
 ms.openlocfilehash: 1554659494a6ad6afbeb35690deee61346bf6e55
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652275"
 ---
 # <a name="portfolio-management"></a>Gerenciamento de portfólio
 
-Os seguintes recursos de gerenciamento de portfólio estão disponíveis no Project Online.
+Os seguintes recursos de gerenciamento de portfólio estão disponíveis Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição Project Online serviço](project-online-service-description.md).
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analisar projetos e otimizar portfólios
 
@@ -33,7 +33,7 @@ Crie projetos de várias maneiras. Para mais informações, confira [Criar um pr
   
 ## <a name="enterprise-resource-management"></a>Gerenciamento de recursos da empresa
 
-Recursos são as pessoas, materiais ou custos necessários para fazer o projeto. As soluções do MICROSOFT PPM permitem que os gerentes de recursos gerenciem o pool de recursos, planejem a capacidade de recursos e aprovem, rejeitem e modifiquem solicitações de envolvimento de recursos de entrada. Para saber mais, confira [Adicionar um recurso ao Project Web App.](https://go.microsoft.com/fwlink/p/?LinkId=271320)
+Recursos são as pessoas, materiais ou custos necessários para fazer o projeto. As PPM microsoft permitem que os gerentes de recursos gerenciem o pool de recursos, planejem a capacidade de recursos e aprovem, rejeitem e modifiquem solicitações de envolvimento de recursos de entrada. Para saber mais, confira [Adicionar um recurso ao Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320).
   
 ## <a name="financial-management"></a>Gerenciamento financeiro
 

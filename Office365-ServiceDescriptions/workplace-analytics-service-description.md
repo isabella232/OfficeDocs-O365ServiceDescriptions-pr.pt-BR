@@ -35,7 +35,7 @@ O Microsoft Workplace Analytics fornece informações avançadas e ativas sobre 
 
 ## <a name="gain-objective-actionable-insights"></a>Obter informações objetivas e ativas
 
-Veja como sua organização gasta tempo e colabora interna e externamente com informações sem precedentes do Office 365. O Workplace Analytics fornece aos líderes comerciais dezenas de métricas comportamentais ativas sobre o tempo e as redes para informar uma variedade de decisões estratégicas, incluindo modelos de equipe, alocação de recursos e planejamento de espaço de trabalho.
+Veja como sua organização gasta tempo e colabora interna e externamente com percepções sem precedentes de Office 365. O Workplace Analytics fornece aos líderes comerciais dezenas de métricas comportamentais ativas sobre o tempo e as redes para informar uma variedade de decisões estratégicas, incluindo modelos de equipe, alocação de recursos e planejamento de espaço de trabalho.
 
 ## <a name="drive-organizational-change-with-data"></a>Conduzir alterações organizacionais com dados
 
@@ -47,6 +47,6 @@ O Workplace Analytics fornece controles de privacidade para atender às suas nec
 
 Para saber mais, confira [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Para saber mais sobre como usar o Workplace Analytics, consulte [Workplace Analytics documentation](/workplace-analytics/).
   
-## <a name="licensing-requirements"></a>Requisitos de licença
+## <a name="licensing-requirements"></a>Requisitos de licenciamento
 
-O Plano 1 ou o Plano 2 do Exchange Online é um pré-requisito.
+Exchange Online O Plano 1 ou o Plano 2 é um pré-requisito.

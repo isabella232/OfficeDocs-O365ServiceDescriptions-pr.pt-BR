@@ -36,13 +36,13 @@ Um incidente de serviço é um evento que afeta a disponibilidade de um serviço
   
 Há dois tipos de notificações sobre os horários em que os serviços podem não estar disponíveis:
   
-- **Eventos de manutenção planejados:** Manutenção planejada são atualizações regulares de serviço iniciadas pela Microsoft para a infraestrutura e aplicativos de software. As notificações de manutenção planejadas informam aos clientes sobre o trabalho de serviço que pode afetar a funcionalidade de um serviço da Microsoft. Os clientes são notificados com até cinco dias de antecedência de toda a manutenção planejada por meio do Centro de Mensagens no Centro de administração do Microsoft 365. Normalmente, a Microsoft planeja a manutenção para momentos em que o uso do serviço está historicamente em seu menor nível com base em fusos horários regionais. 
+- **Eventos de manutenção planejados:** Manutenção planejada são atualizações regulares de serviço iniciadas pela Microsoft para a infraestrutura e aplicativos de software. As notificações de manutenção planejadas informam aos clientes sobre o trabalho de serviço que pode afetar a funcionalidade de um serviço da Microsoft. Os clientes são notificados com até cinco dias de antecedência de toda a manutenção planejada por meio do Centro de Mensagens no Microsoft 365 de administração. Normalmente, a Microsoft planeja a manutenção para momentos em que o uso do serviço está historicamente em seu menor nível com base em fusos horários regionais. 
     
 - **Tempo de inatividade não planejado:** Incidentes de serviço não planejados ocorrem quando um dos serviços não está disponível ou não responde. 
 
 ### <a name="recent-worldwide-uptimes"></a>Tempos de atividade recentes em todo o mundo
 
-Mudar para um serviço de nuvem não deve significar perder a capacidade de saber o que está acontecendo. Com o Office 365, não. Nosso objetivo é ser transparente em nossas operações para que você possa monitorar o estado do seu serviço, controlar problemas e ter uma visão histórica da disponibilidade. As tabelas a seguir mostram dados recentes de tempo de atividade em todo o mundo.
+Mudar para um serviço de nuvem não deve significar perder a capacidade de saber o que está acontecendo. Com Office 365, não. Nosso objetivo é ser transparente em nossas operações para que você possa monitorar o estado do seu serviço, controlar problemas e ter uma visão histórica da disponibilidade. As tabelas a seguir mostram dados recentes de tempo de atividade em todo o mundo.
 
 **2021**
 
@@ -84,7 +84,7 @@ Mudar para um serviço de nuvem não deve significar perder a capacidade de sabe
 
 ## <a name="notification-policy"></a>Diretiva de notificação
 
-Quando um incidente de serviço ocorre, a Microsoft reconhece que comunicações oportunas, direcionadas e precisas são essenciais para os clientes. A Microsoft notifica os administradores atualizando o ShD (Service Health Dashboard) específico do locatário no centro de administração do Microsoft 365. As atualizações de incidentes de serviço são fornecidas em uma cadência por hora ou, se uma cadência diferente for necessária, ela será afirmada na postagem de comunicação shd. 
+Quando um incidente de serviço ocorre, a Microsoft reconhece que comunicações oportunas, direcionadas e precisas são essenciais para os clientes. A Microsoft notifica os administradores atualizando o ShD (Service Health Dashboard) específico do locatário no Microsoft 365 de administração. As atualizações de incidentes de serviço são fornecidas em uma cadência por hora ou, se uma cadência diferente for necessária, ela será afirmada na postagem de comunicação shd. 
   
 ## <a name="service-health-communication-channels"></a>Canais de comunicação de saúde do serviço
 
@@ -94,17 +94,17 @@ O Aplicativo de Administração para administradores da organização oferece a 
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pacote de Gerenciamento do Office 365 para Microsoft System Center 2012 R2
 
-O Microsoft System Center é uma plataforma de gerenciamento integrada que ajuda a gerenciar o data center, os dispositivos clientes e os ambientes híbridos de TI na nuvem. Os administradores da Microsoft que usam o System Center agora têm a opção de importar o Pacote de Gerenciamento do Office 365, o que permite que eles ex view todas as comunicações de serviço no Operations Manager no System Center. O uso dessa ferramenta fornece acesso ao status dos seus serviços assinados, aos incidentes de serviço ativos e resolvidos e às comunicações do seu Centro de Mensagens. Para obter mais informações, obter o [Microsoft System Center Management Pack para Office 365](https://www.microsoft.com/download/details.aspx?id=43708) no Centro de Download da Microsoft. 
+O Microsoft System Center é uma plataforma de gerenciamento integrada que ajuda a gerenciar o data center, os dispositivos clientes e os ambientes híbridos de TI na nuvem. Os administradores da Microsoft que usam o System Center agora têm a opção de importar o Office 365 Management Pack, que permite que eles ex viewem todas as comunicações de serviço no Operations Manager em System Center. O uso dessa ferramenta fornece acesso ao status dos seus serviços assinados, aos incidentes de serviço ativos e resolvidos e às comunicações do seu Centro de Mensagens. Para obter mais informações, obter o [Microsoft System Center Management Pack para](https://www.microsoft.com/download/details.aspx?id=43708) Office 365 no Centro de Download da Microsoft. 
   
 ### <a name="office-365-service-communications-api"></a>API de Comunicações de Serviço do Office 365
 
-A API de Comunicações de Serviço do Office 365 permite acessar as comunicações de serviço da maneira que você deseja. Com essa API, você tem a capacidade de criar ou conectar suas ferramentas às comunicações de serviço, simplificando potencialmente a maneira como você monitora seu ambiente. A API de Comunicações de Serviço permite que você monitore os seguintes itens do seu ambiente:
+A OFFICE 365 de Comunicações de Serviço permite acessar as comunicações de serviço da maneira que você deseja. Com essa API, você tem a capacidade de criar ou conectar suas ferramentas às comunicações de serviço, simplificando potencialmente a maneira como você monitora seu ambiente. A API de Comunicações de Serviço permite que você monitore os seguintes itens do seu ambiente:
   
 - Integridade do serviço em tempo real
     
 - Comunicações do Centro de Mensagens
     
-Para obter mais informações, consulte a referência da API de Comunicações de Serviço [do Office 365.](/office/office-365-management-api/office-365-service-communications-api-reference) 
+Para obter mais informações, consulte a [referência Office 365 API de Comunicações de Serviço.](/office/office-365-management-api/office-365-service-communications-api-reference) 
   
 ## <a name="post-incident-reviews"></a>Análise de Pós-incidente
 
@@ -136,7 +136,7 @@ A Microsoft garante que os dados do cliente estarão disponíveis sempre que for
   
 - **Armazenamento de dados e redundância:** os dados dos clientes são armazenados em um ambiente redundante com recursos de proteção de dados robustos para permitir disponibilidade, continuidade dos negócios e recuperação rápida. Vários níveis de redundância de dados são implementados, variando desde discos redundantes para proteger contra falhas de disco local, a uma replicação de dados contínua, completa e até um data center geograficamente diversificado. 
     
-- **Monitoramento de dados:** Os serviços da Microsoft mantêm altos níveis de desempenho monitorando: 
+- **Monitoramento de dados: serviços Microsoft** manter altos níveis de desempenho monitorando: 
     
   - Bancos de dados
     
@@ -156,7 +156,7 @@ As equipes de desenvolvimento e operações da Microsoft são complementadas por
   
 A organização de suporte intimamente se alinha com as operações e desenvolvimento de produtos, oferece tempos de resolução rápidos e um canal para ouvir a opinião dos clientes. O feedback dos clientes fornece dados para os processos de planejamento, desenvolvimento e operação.
   
-- **Acompanhamento de problemas online:** os clientes precisam saber que seus problemas serão abordados e precisam ter a possibilidade de acompanhar a resolução em tempo hábil. O Centro de administração do Microsoft 365 fornece uma única interface baseada na Web para suporte. Os clientes podem usar o portal para adicionar e monitorar as solicitações de serviço e receber feedback de equipes de suporte da Microsoft. 
+- **Acompanhamento de problemas online:** os clientes precisam saber que seus problemas serão abordados e precisam ter a possibilidade de acompanhar a resolução em tempo hábil. O Microsoft 365 de administração fornece uma única interface baseada na Web para suporte. Os clientes podem usar o portal para adicionar e monitorar as solicitações de serviço e receber feedback de equipes de suporte da Microsoft. 
     
 - **Auto-ajuda, com suporte contínuo da equipe:** A Microsoft oferece uma ampla variedade de recursos e ferramentas de auto-ajuda que podem ajudar os clientes a resolver problemas relacionados ao serviço sem exigir o suporte da Microsoft. 
     
@@ -166,4 +166,4 @@ Para obter mais informações sobre suporte, consulte o [artigo Suporte.](suppor
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, consulte a descrição do serviço da plataforma [do Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos entre os planos, [consulte Microsoft 365 descrição do serviço Office 365 plataforma.](office-365-platform-service-description.md)

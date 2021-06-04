@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online oferece uma variedade de recursos de relatórios dentro e fora do Centro de administração do Exchange (EAC).
+description: Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração Exchange (EAC).
 ms.openlocfilehash: fa80cd6c7d8e9e5f0527c478474cffe17e9204af
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,27 +21,27 @@ ms.locfileid: "51652685"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Recursos de relatórios e ferramentas de solução de problemas
 
-Microsoft Exchange Online oferece uma variedade de recursos de relatórios dentro e fora do Centro de administração do Exchange (EAC).
+Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração Exchange (EAC).
   
 ## <a name="reporting-features"></a>Recursos de relatório
 
-Os clientes do Exchange Online podem acessar relatórios no Centro de administração do Microsoft 365, baixando uma planilha de relatórios do Excel ou usando serviços Web.
+Exchange Online clientes podem acessar relatórios no centro de administração Microsoft 365, baixando uma Excel de trabalho de relatório ou usando serviços Web.
   
-### <a name="reporting-in-the-microsoft-365-admin-center"></a>Relatórios no centro de administração do Microsoft 365
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Relatórios no centro de Microsoft 365 de administração
 
-Há relatórios na página Relatórios no Centro de administração do Microsoft 365 que fornecem informações resumidas sobre caixas de correio e grupos. Por exemplo, um relatório lista o número de grupos criados e excluídos por dia, semana, mês ou ano. Há também relatórios resumidos de caixas de correio novas e excluídas e caixas de correio ativas e inativas. 
+Há relatórios na página Relatórios no centro de administração Microsoft 365 que fornecem informações resumidas sobre caixas de correio e grupos. Por exemplo, um relatório lista o número de grupos criados e excluídos por dia, semana, mês ou ano. Há também relatórios resumidos de caixas de correio novas e excluídas e caixas de correio ativas e inativas. 
   
-Além disso, a página Relatórios no Centro de administração do Microsoft 365 contém relatórios de dados de mensagens, que fornecem informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas pelas regras de transporte do Exchange ou políticas de prevenção contra perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do Exchange Online. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
+Além disso, a página Relatórios no centro de administração do Microsoft 365 contém relatórios de dados de mensagens, que fornecem informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas por políticas de Regras de Transporte Exchange ou Prevenção contra Perda de Dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do Exchange Online. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
   
-Para obter mais informações sobre quais relatórios estão disponíveis em cada assinatura, consulte [Reports](../office-365-platform-service-description/reports.md). Para obter informações mais detalhadas sobre a página Relatórios no Centro de administração do Microsoft 365, consulte Exibir e baixar relatórios sobre o uso do serviço no [Office 365](/microsoft-365/admin/activity-reports/activity-reports) e Usar relatórios de proteção de email para exibir dados sobre [malware, spam](/exchange/monitoring/use-mail-protection-reports)e detecções de regras.
+Para obter mais informações sobre quais relatórios estão disponíveis em cada assinatura, consulte [Reports](../office-365-platform-service-description/reports.md). Para obter informações mais detalhadas sobre a página Relatórios no centro de administração do Microsoft 365, consulte Exibir e baixar relatórios sobre o uso do serviço no [Office 365](/microsoft-365/admin/activity-reports/activity-reports) e Usar relatórios de proteção de email para exibir dados sobre malware, spam e detecções de [regras.](/exchange/monitoring/use-mail-protection-reports)
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Relatórios usando a pasta de trabalho de relatório do Excel
 
-Você também pode usar a pasta de trabalho de relatórios do Excel 2013 para visualizar relatórios resumidos com recursos de busca detalhada. No entanto, recomendamos usar os relatórios do Centro de administração do Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. Para saber mais de visão geral e links para baixar e instalar a pasta de trabalho, confira a seguinte [página de download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para informações sobre como usar a pasta de trabalho, confira [Relatórios de Proteção de Email usando a Pasta de Trabalho de Relatório do Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
+Você também pode usar a pasta de trabalho de relatórios do Excel 2013 para visualizar relatórios resumidos com recursos de busca detalhada. No entanto, recomendamos usar os relatórios do centro de administração Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. Para saber mais de visão geral e links para baixar e instalar a pasta de trabalho, confira a seguinte [página de download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para informações sobre como usar a pasta de trabalho, confira [Relatórios de Proteção de Email usando a Pasta de Trabalho de Relatório do Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
   
 ### <a name="reporting-using-web-services"></a>Criar relatórios usando serviços Web
 
-O acesso a relatórios resumidos e detalhados sobre caixas de correio, grupos e dados de mensagens está disponível usando o serviço Web REST/OData Tenant Reporting, que é uma interface programática que permite criar relatórios personalizados. Para obter mais informações, consulte Serviços Web do [Office 365 Reporting.](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))
+O acesso a relatórios resumidos e detalhados sobre caixas de correio, grupos e dados de mensagens está disponível usando o serviço Web REST/OData Tenant Reporting, que é uma interface programática que permite criar relatórios personalizados. Para obter mais informações, [consulte Office 365 Relatórios de serviços Web](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15)).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Ferramentas de recursos e solução de problemas de relatório no EAC
 
@@ -49,7 +49,7 @@ As ferramentas de recursos de relatório e de solução de problemas a seguir es
   
 ### <a name="trace-an-email-message"></a>Rastrear uma mensagem de email
 
-O recurso de rastreamento de mensagens permite que você, como administrador, siga mensagens de email à medida que elas passam pelo seu serviço do Exchange Online. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Isso permite responder com eficiências às perguntas dos usuários e solucionar problemas de fluxo de emails e diminui a necessidade de entrar em contato com o suporte técnico para solicitar assistência.
+O recurso de rastreamento de mensagens permite que você, como administrador, siga mensagens de email à medida que elas passam pelo serviço Exchange Online de mensagens. Ele o ajuda a determinar se uma mensagem de email direcionada foi recebida, rejeitada, adiada ou entregue pelo serviço. Isso permite responder com eficiências às perguntas dos usuários e solucionar problemas de fluxo de emails e diminui a necessidade de entrar em contato com o suporte técnico para solicitar assistência.
   
 > [!IMPORTANT]
 > Para solucionar problemas e tendências gerais, use as ferramentas de relatório para obter esses dados. Para pontos específicos únicos em que são necessários detalhes sobre uma mensagem, use a ferramenta de rastreamento de mensagem. 
@@ -72,4 +72,4 @@ Você pode usar esses relatórios para monitorar e solucionar problemas de UM (U
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição [do serviço do Exchange Online.](exchange-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Exchange Online descrição do serviço.](exchange-online-service-description.md)

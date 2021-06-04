@@ -1,5 +1,5 @@
 ---
-title: Administração e gerenciamento na Proteção do Exchange Online
+title: Administração e gerenciamento em Proteção do Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,19 +19,19 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653063"
 ---
-# <a name="administration-and-management-in-exchange-online-protection"></a>Administração e gerenciamento na Proteção do Exchange Online
+# <a name="administration-and-management-in-exchange-online-protection"></a>Administração e gerenciamento em Proteção do Exchange Online
 
 Este artigo descreve as interfaces de gerenciamento que estão disponíveis para os administradores Microsoft Exchange Online Protection (EOP).
   
-Você está procurando informações sobre todas as características EOP? Consulte a descrição [do serviço de Proteção do Exchange Online](exchange-online-protection-service-description.md).
+Você está procurando informações sobre todas as características EOP? Consulte a [descrição Proteção do Exchange Online serviço](exchange-online-protection-service-description.md).
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Acesso ao centro de administração do Microsoft 365
+## <a name="access-to-the-microsoft-365-admin-center"></a>Acesso ao centro de Microsoft 365 de administração
 
-O Centro de administração do Microsoft 365 é o portal da Web do qual o administrador de serviços de cada empresa pode gerenciar contas de usuário e configurações para cada um dos serviços da Microsoft aos quais se inscreve. No Centro de administração do Microsoft 365, os administradores podem seguir links para o EAC, onde podem gerenciar configurações específicas do EOP.
+O Microsoft 365 de administração é o portal da Web do qual o administrador de serviço de cada empresa pode gerenciar contas de usuário e configurações para cada um dos serviços Microsoft ao qual se inscreve. No centro de administração Microsoft 365, os administradores podem seguir links para o EAC, onde podem gerenciar configurações específicas do EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Acesso ao centro de administração do Exchange
 
-O Centro de administração do Exchange (EAC) é um console de gerenciamento unificado que facilita o uso e é otimizado para todos os tipos de implantação. O novo e aprimorado EAC substitui o Forefront Online Protection para o Centro de administração do Exchange. O EAC fornece uma integração mais forte com o Microsoft 365 e uma experiência de interface do usuário consistente e perfeita em todos os produtos exchange (Microsoft Exchange Online e Microsoft Exchange Server 2013). Para saber mais sobre o EAC, confira [Centro de administração do Exchange no Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
+O Centro de administração do Exchange (EAC) é um console de gerenciamento unificado que facilita o uso e é otimizado para todos os tipos de implantação. O novo e aprimorado EAC substitui o Forefront Online Protection para o Centro de administração do Exchange. O EAC fornece uma integração mais forte com o Microsoft 365 e uma experiência de interface do usuário consistente e perfeita entre produtos Exchange (Microsoft Exchange Online e Microsoft Exchange Server 2013). Para saber mais sobre o EAC, confira [Centro de administração do Exchange no Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
   
 ## <a name="remote-windows-powershell-access"></a>Acesso Remoto do Windows PowerShell
 
@@ -39,4 +39,4 @@ O Centro de administração do Exchange (EAC) é um console de gerenciamento uni
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do serviço [de Proteção do Exchange Online.](exchange-online-protection-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Proteção do Exchange Online descrição do serviço.](exchange-online-protection-service-description.md)

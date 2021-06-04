@@ -24,7 +24,7 @@ ms.locfileid: "51652515"
 
 Se você estiver em conformidade com o Contrato de Assinatura do Microsoft Online, você poderá usar os serviços online e softwares relacionados como expressamente permitido sob os [Direitos de Uso do Microsoft Online Services](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a>Direitos de uso do Office 365 operado pela 21Vianet
+## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 operados pela 21Vianet usam direitos
 
 Confira o [Contrato Padrão de Serviços Online](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) e os [Termos de Uso](https://www.21vbluecloud.com/office365/O365-TOU/).
   
@@ -34,6 +34,6 @@ Para saber sobre programas de licenciamento para sua organização, confira [Lic
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, consulte a descrição do serviço da plataforma [do Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos entre os planos, [consulte Microsoft 365 descrição do serviço Office 365 plataforma.](office-365-platform-service-description.md)
   
 

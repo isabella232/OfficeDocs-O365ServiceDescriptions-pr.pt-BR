@@ -34,13 +34,13 @@ Os limites no Skype for Business Online se enquadram nas seguintes categorias:
 - [Limites de minutos](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Os limites aplicados a uma organização do Microsoft 365 podem diferir, dependendo de quanto tempo a organização está inscrita no serviço. Quando um limite é alterado nos datacenters da Microsoft, pode demorar algum tempo para que a alteração seja aplicada a todos os clientes existentes. 
+> Os limites aplicados a uma organização Microsoft 365 podem diferir dependendo de quanto tempo a organização está inscrita no serviço. Quando um limite é alterado nos datacenters da Microsoft, pode demorar algum tempo para que a alteração seja aplicada a todos os clientes existentes. 
   
 ## <a name="peer-to-peer-limits"></a>Limites ponto a ponto
 
-- **Limite de transferência de** arquivo - O tamanho máximo de um arquivo que pode ser transferido em uma conversa de IM do Skype for Business Online. Para saber quais tipos de arquivos não podem ser transferidos, confira o artigo da Suporte da Microsoft sobre [como enviar e receber arquivos ou anexos no Skype for Business Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
+- **Limite de transferência de** arquivo - O tamanho máximo de um arquivo que pode ser transferido em uma conversa Skype for Business IM Online. Para saber quais tipos de arquivos não podem ser transferidos, confira o artigo da Suporte da Microsoft sobre [como enviar e receber arquivos ou anexos no Skype for Business Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
-- **Limite de conversas com** guias abertas - O número máximo de guias de conversa que um usuário do Skype for Business pode ter aberto ao mesmo tempo. 
+- **Limite de conversas com guias** abertas - O número máximo de guias de conversa que um Skype for Business usuário pode ter aberto ao mesmo tempo. 
     
 ### <a name="peer-to-peer-limits"></a>Limites ponto a ponto 
 
@@ -55,7 +55,7 @@ Os limites no Skype for Business Online se enquadram nas seguintes categorias:
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Limites ponto a ponto nas opções autônomas
 
-| Recurso | Skype for Business Server 2015 | Plano Autônomo 1 do Skype for Business Online &nbsp; | Plano Autônomo do Skype for Business Online &nbsp; 2 |
+| Recurso | Skype for Business Server 2015 | Skype for Business Plano Autônomo Online &nbsp; 1 | Skype for Business Plano Autônomo Online &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Limite de transferência de arquivo  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limite  <br/> |
 |Limite de conversas<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
@@ -66,15 +66,15 @@ Os limites no Skype for Business Online se enquadram nas seguintes categorias:
   
 ## <a name="meeting-limits"></a>Limites de reuniões
 
-- **Limite de carregamento de** arquivo - O tamanho máximo de arquivos que podem ser carregados em uma reunião do Skype for Business, incluindo apresentações do PowerPoint e apostilas. 
+- **Limite de carregamento de** arquivo - O tamanho máximo de arquivos que podem ser carregados em uma reunião de Skype for Business, incluindo apresentações PowerPoint apresentações. 
     
-- **Participantes em uma reunião do Skype for Business** - O número máximo de participantes (incluindo o apresentador) que podem ingressar em uma única reunião do Skype for Business. 
+- **Participantes em uma reunião Skype for Business** - O número máximo de participantes (incluindo o apresentador) que podem ingressar em uma única reunião Skype for Business reunião. 
     
-- **Apresentadores em uma reunião do Skype for Business** - O número máximo de apresentadores em uma única reunião do Skype for Business. 
+- **Apresentadores em uma reunião Skype for Business** - O número máximo de apresentadores em uma única Skype for Business reunião. 
     
-- **Participantes da reunião** do Aplicativo Web do Skype for Business - O número máximo de participantes da reunião do Aplicativo Web do Skype for Business que podem participar de uma reunião. 
+- **Skype for Business participantes** da reunião do aplicativo Web - O número máximo de participantes de reunião Skype for Business web app que podem participar de uma reunião. 
     
-- **Participantes anônimos** do aplicativo Web do Skype for Business - O número máximo de participantes de reunião do Aplicativo Web do Skype for Business que podem ingressar anonimamente em uma reunião. 
+- **Skype for Business participantes anônimos** do aplicativo Web - O número máximo de participantes de reunião Skype for Business web app que podem ingressar anonimamente em uma reunião. 
     
 - **Convidados que ingressaram por telefone** - O número máximo de convidados que podem ligar para uma reunião. 
     
@@ -95,7 +95,7 @@ Os limites no Skype for Business Online se enquadram nas seguintes categorias:
   
 ### <a name="meeting-limits-across-standalone-options"></a>Limites de reuniões nas opções autônomas
 
-| Recurso | Skype for Business Server 2015 | Plano Autônomo 1 do Skype for Business Online &nbsp; | Plano Autônomo do Skype for Business Online &nbsp; 2 |
+| Recurso | Skype for Business Server 2015 | Skype for Business Plano Autônomo Online &nbsp; 1 | Skype for Business Plano Autônomo Online &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Limite de upload de arquivos  <br/> |500 MB  <br/> |Não aplicável  <br/> |500 MB  <br/> |
 |Participantes em uma reunião do Skype for Business  <br/> |250  <br/> |Não aplicável  <br/> |250  <br/> |
@@ -107,7 +107,7 @@ Os limites no Skype for Business Online se enquadram nas seguintes categorias:
    
 ## <a name="meeting-retention-limits"></a>Limites de retenção de reunião
 
-- **Período de retenção de** conteúdo de reunião - A quantidade de tempo após a última pessoa sair de uma reunião que qualquer conteúdo de reunião carregado é mantido no Skype for Business antes de ser excluído permanentemente. 
+- **Período de retenção de** conteúdo de reunião - A quantidade de tempo após a última pessoa sair de uma reunião que qualquer conteúdo de reunião carregado é retido no Skype for Business antes de ser excluído permanentemente. 
     
 - **Período de expiração da** reunião - A quantidade de tempo após o término de uma reunião para que os usuários possam acessar a reunião. 
     

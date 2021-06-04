@@ -25,7 +25,7 @@ A Microsoft dá suporte aos seguintes recursos de rede.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Portas, protocolos e endereços IP
 
-A Microsoft usa endereços IPv4 e IPv6. O uso de endereçamento IPv6 é opcional e não é obrigatório para estabelecer conexão com o Office 365. Nem todos os recursos do Microsoft 365 estão totalmente habilitados usando IPv6. Para obter mais informações sobre o suporte a Ipv6, consulte [Suporte para IPv6 nos serviços microsoft](/office365/enterprise/ipv6-support).
+A Microsoft usa endereços IPv4 e IPv6. O uso de endereçamento IPv6 é opcional e não é obrigatório para estabelecer conexão com o Office 365. Nem todos Microsoft 365 recursos estão totalmente habilitados usando IPv6. Para obter mais informações sobre o suporte a Ipv6, consulte [Suporte para IPv6 em serviços Microsoft](/office365/enterprise/ipv6-support).
   
 A Microsoft mantém uma lista de endereços IP permitidos na ajuda da Microsoft. Para obter mais informações, [consulte URLs e intervalos de endereços IP](/office365/enterprise/urls-and-ip-address-ranges). No caso do Office 365 operado pela 21Vianet, confira [URLs e endereços IP para o Office 365 operado pela 21Vianet](/office365/enterprise/managing-office-365-endpoints). Em relação ao Office 365 Germany, confira [Pontos de extremidade do Office 365 Germany](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
@@ -64,4 +64,4 @@ Para saber mais, visite a [Central de Confiabilidade do Office 365](https://www.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, consulte a descrição do serviço da plataforma [do Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos entre os planos, [consulte Microsoft 365 descrição do serviço Office 365 plataforma.](office-365-platform-service-description.md)

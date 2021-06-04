@@ -25,7 +25,7 @@ Os recursos de rede externa a seguir estão disponíveis no Yammer.
   
 ## <a name="external-networks"></a>Redes externas
 
-Crie um espaço de trabalho online dedicado para colaborar com contatos comerciais fora da rede yammer da sua organização.
+Crie um espaço de trabalho online dedicado para colaborar com contatos comerciais fora da rede Yammer da sua organização.
   
 ## <a name="fast-network-switching"></a>Comução de rede rápida
 
@@ -33,4 +33,4 @@ Troque automaticamente entre rede interna e externa. Monitore facilmente convers
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição do serviço [do Yammer.](yammer-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Yammer descrição do serviço.](yammer-service-description.md)

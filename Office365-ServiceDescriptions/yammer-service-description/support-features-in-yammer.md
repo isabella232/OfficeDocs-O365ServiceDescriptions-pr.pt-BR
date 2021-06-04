@@ -24,7 +24,7 @@ ms.locfileid: "51653513"
 Os recursos de suporte a seguir estão disponíveis no Yammer.
   
 > [!IMPORTANT]
-> O Yammer não dá suporte à recuperação de conteúdo excluído, como redes &mdash; externas, usuários, mensagens, grupos e arquivos, incluindo conteúdo excluído acidentalmente pelos administradores &mdash; de rede.
+> Yammer não dá suporte à recuperação de conteúdo excluído, como redes &mdash; externas, usuários, mensagens, grupos e arquivos, incluindo conteúdo excluído acidentalmente pelos administradores &mdash; de rede.
 >
 > A Microsoft não oferece relatórios ad-hoc ou personalizados além dos recursos de análise disponíveis no Yammer. Ocasionalmente, a Microsoft pode fornecer um relatório personalizado no curso de uma solicitação de suporte, mas, na maioria das vezes, eles não podem acomodar solicitações diretas para os dados.
 
@@ -34,11 +34,11 @@ Os administradores do Yammer Enterprise são responsáveis pela manutenção da 
 
 ## <a name="customer-support"></a>Suporte ao cliente
 
-O suporte técnico está disponível para responder às perguntas do cliente e resolver problemas rapidamente. Os clientes do Yammer podem receber suporte postando no fórum de suporte público, que é monitorado 24 horas por dia, sete dias por semana pelos agentes de suporte. Se você for um cliente Yammer procurando suporte, consulte [Suporte público do Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
+O suporte técnico está disponível para responder às perguntas do cliente e resolver problemas rapidamente. Yammer clientes podem receber suporte postando no fórum de suporte público, que é monitorado 24 horas por dia, sete dias por semana pelos agentes de suporte. Se você for um cliente Yammer procurando suporte, consulte [Suporte público do Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-O serviço Do Microsoft FastTrack pode ajudar sua organização a se mover para o Microsoft Cloud, fornecendo ajuda em todas as etapas do caminho. O FastTrack permite planejar estrategicamente as lançamentos, a rampa rápida de novos serviços e a integração de novos usuários. Para obter detalhes, visite o [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obter informações sobre como criar sua rede do Yammer, incluindo pré-lançamento, início e suporte a documentos e atividades, acesse a página Visualizar: Identificar [cenários](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e selecione Reunir sua **organização**.
+O serviço Do Microsoft FastTrack pode ajudar sua organização a se mover para o Microsoft Cloud, fornecendo ajuda em todas as etapas do caminho. O FastTrack permite planejar estrategicamente as lançamentos, a rampa rápida de novos serviços e a integração de novos usuários. Para obter detalhes, visite o [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obter informações sobre como criar sua rede Yammer, incluindo pré-lançamento, início e suporte a documentos e atividades, acesse a página Visualizar: Identificar [cenários](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e selecione Reunir sua **organização**.
 
 ## <a name="support-features-across-yammer-plans"></a>Recursos de suporte nos planos do Yammer
 
@@ -56,7 +56,7 @@ Exemplos
   
 |**Nível de Severidade**|**Descrição**|**Exemplos**|
 |:-----|:-----|:-----|
-|Sev A (Crítica)  <br/> |O serviço é inutilizável para a maioria dos usuários finais.  <br/> |A plataforma yammer está inocessado.  <br/> |
+|Sev A (Crítica)  <br/> |O serviço é inutilizável para a maioria dos usuários finais.  <br/> |A Yammer plataforma está para baixo.  <br/> |
 |Sev B (Alta)  <br/> |O serviço pode ser usado, mas está seriamente prejudicado.  <br/> |A postagem nos feeds não está funcionando conforme o esperado.  <br/> |
 |Sev C (Média)  <br/> |O serviço não funciona conforme o esperado, mas uma solução está disponível.  <br/> |As visualizações do arquivo não aparecem conforme o esperado.  <br/> |
 

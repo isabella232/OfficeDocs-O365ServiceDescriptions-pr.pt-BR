@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-description: Saiba mais sobre a política de mensagens e a conformidade no Exchange Online.
+description: Saiba mais sobre a política de mensagens e a conformidade Exchange Online.
 ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -25,9 +25,9 @@ ms.locfileid: "51652705"
 
 As caixas de correio do Exchange Online residem na nuvem, e o arquivamento delas requer ambientes de hospedagem exclusivos. Em alguns casos, o Exchange Online pode ser usado também para arquivar caixas de correio locais na nuvem. As opções de arquivamento com o Exchange Online são descritas nesta seção.
   
-O Exchange Online oferece recursos de arquivamento interno para caixas de correio baseadas em nuvem, incluindo um Arquivo Morto In-loco que oferece aos usuários um local conveniente para armazenar mensagens de email antigas. Um In-Place Archive é um tipo especial de caixa de correio que aparece junto com as pastas de caixa de correio primárias de um usuário no Outlook e no Outlook na Web. Os usuários podem acessar e pesquisar o arquivo morto da mesma forma que acessam e pesquisam suas caixas de correio principais. A funcionalidade disponível depende do cliente em uso:
+O Exchange Online oferece recursos de arquivamento interno para caixas de correio baseadas em nuvem, incluindo um Arquivo Morto In-loco que oferece aos usuários um local conveniente para armazenar mensagens de email antigas. Um In-Place Archive é um tipo especial de caixa de correio que aparece junto com as pastas de caixa de correio primárias de um usuário Outlook e Outlook na Web. Os usuários podem acessar e pesquisar o arquivo morto da mesma forma que acessam e pesquisam suas caixas de correio principais. A funcionalidade disponível depende do cliente em uso:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010 e Outlook na Web** Os usuários têm acesso aos recursos completos do arquivo morto, bem como aos recursos de conformidade relacionados, como controle sobre políticas de retenção e arquivamento. 
+- **Outlook 2016, Outlook 2013, Outlook 2010** e Outlook na Web Os usuários têm acesso aos recursos completos do arquivo morto, bem como aos recursos de conformidade relacionados, como controle sobre políticas de retenção e arquivamento. 
     
 - **Outlook 2007** Os usuários têm suporte básico para o Arquivo Morto In Loco, mas nem todos os recursos de arquivamento e de conformidade estão disponíveis. Por exemplo, os usuários não podem aplicar políticas de retenção ou de arquivamento a itens de caixa de correio e devem se basear em políticas provisionadas pelo administrador. 
     
@@ -41,12 +41,12 @@ Para obter mais informações, consulte:
     
 ### <a name="archive-sizes"></a>Tamanhos de arquivo morto
 
-Apenas os dados de mensagens de um usuário podem ser armazenados em cada arquivo morto pessoal. A alocação de armazenamento depende do plano de assinatura. Para obter mais informações sobre tamanhos de caixa de correio de arquivo morto, consulte a seção "Limites de armazenamento de caixa de correio" nos limites [do Exchange Online.](exchange-online-limits.md)
+Apenas os dados de mensagens de um usuário podem ser armazenados em cada arquivo morto pessoal. A alocação de armazenamento depende do plano de assinatura. Para obter mais informações sobre tamanhos de caixa de correio de arquivo morto, consulte a seção "Limites de armazenamento de caixa de correio" [Exchange Online limites](exchange-online-limits.md).
   
 > [!IMPORTANT]
 > - O uso de registro no diário, regras de transporte ou regras de encaminhamento automático para copiar mensagens para uma caixa de correio do Exchange Online com a finalidade de arquivamento não é permitido. A Microsoft se reserva o direito de negar o arquivamento ilimitado em instâncias em que um arquivo morto de caixa de correio não está sendo usado em um cenário pessoal ou em outros casos de uso inadequado.
 > - O Arquivo Morto In Loco tem requisitos de licenciamento específico para usuários do Outlook. Os usuários do Outlook 2007 devem ter a Atualização Cumulativa do Office 2007 para fevereiro de 2011 para acessarem o arquivo morto pessoal. 
-> - O Exchange Online não dá suporte ao cmdlet  _New-MailboxImportRequest_ Windows PowerShell do Exchange Server 2010 Service Pack 1 ou posterior para importação orientada pelo administrador de arquivos .pst para um arquivo morto pessoal. Se um usuário tiver a caixa de correio principal e o arquivo morto no Exchange Online, um administrador poderá usar o PST Capture, uma ferramenta gratuita, para importar dados de arquivo .pst para o arquivo morto ou a caixa de correio principal do usuário.
+> - Exchange Online não dá suporte ao cmdlet _new-MailboxImportRequest_ Windows PowerShell do Exchange Server 2010 Service Pack 1 ou posterior para importação orientada pelo administrador de arquivos .pst para um arquivo morto pessoal. Se um usuário tiver a caixa de correio principal e o arquivo morto no Exchange Online, um administrador poderá usar o PST Capture, uma ferramenta gratuita, para importar dados de arquivo .pst para o arquivo morto ou a caixa de correio principal do usuário.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Arquivamento baseado em nuvem de caixas de correio no local
 
@@ -57,13 +57,13 @@ Usar o Exchange Online para arquivamento baseado em nuvem de caixas de correio d
   
 ## <a name="retention-tags-and-retention-policies"></a>Marcas e políticas de retenção
 
-O Exchange Online oferece políticas de retenção para ajudar as organizações a reduzir as obrigações associadas ao email e a outros meios de comunicação. Com essas políticas, os administradores podem aplicar configurações de retenção a pastas específicas nas caixas de entrada dos usuários. Os administradores também podem dar aos usuários um menu de políticas de retenção e permitir que eles apliquem as políticas a itens, conversas ou pastas específicos usando o Outlook 2010 ou posterior ou o Outlook na Web.
+O Exchange Online oferece políticas de retenção para ajudar as organizações a reduzir as obrigações associadas ao email e a outros meios de comunicação. Com essas políticas, os administradores podem aplicar configurações de retenção a pastas específicas nas caixas de entrada dos usuários. Os administradores também podem dar aos usuários um menu de políticas de retenção e permitir que eles apliquem as políticas a itens, conversas ou pastas específicos usando o Outlook 2010 ou posterior ou Outlook na Web.
   
 No Exchange Online, os administradores gerenciam as políticas de retenção usando o Centro de administração do Exchange (EAC) ou o Windows PowerShell remoto.
   
 O Exchange Online oferece dois tipos de políticas: políticas de arquivo morto e políticas de exclusão. Ambos os tipos podem ser combinados no mesmo item ou pasta. Por exemplo, o usuário pode marcar uma mensagem de email para ser movida automaticamente para o Arquivo Morto In-loco em um número especificado de dias e excluída após outro intervalo de dias.
   
-Com o Outlook 2010 ou posterior e o Outlook na Web, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais. Eles podem também exibir as políticas de retenção aplicadas e as datas de exclusão esperadas em mensagens. Os usuários de outros clientes de email podem apenas ter mensagens de email excluídas ou arquivadas com base nas políticas de retenção do lado de servidor definidas pelo administrador.
+Com Outlook 2010 ou posterior e Outlook na Web, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais. Eles podem também exibir as políticas de retenção aplicadas e as datas de exclusão esperadas em mensagens. Os usuários de outros clientes de email podem apenas ter mensagens de email excluídas ou arquivadas com base nas políticas de retenção do lado de servidor definidas pelo administrador.
   
 Os recursos de política de retenção oferecidos no Exchange Online são iguais aos oferecidos no Exchange Server 2010 Service Pack 2 RU4. Os administradores podem usar o Windows PowerShell remoto para migrar políticas de retenção de ambientes do Exchange Server 2010 ou posterior locais para o Exchange Online.
   
@@ -74,25 +74,25 @@ Confira mais informações em [Marcas e políticas de retenção](/exchange/secu
   
 ## <a name="encryption-of-data-at-rest"></a>Criptografia de dados em repouso
 
-A criptografia de dados do cliente em repouso é fornecida por várias tecnologias do lado do serviço, incluindo BitLocker, DKM, Criptografia de Serviço de Armazenamento do Azure e criptografia de serviço no Exchange Online, Skype for Business, OneDrive for Business e SharePoint Online. A Criptografia de Serviço do Office 365 inclui uma opção para usar chaves de criptografia gerenciadas pelo cliente armazenadas no Azure Key Vault. Essa opção de chave gerenciada pelo cliente, chamada [Chave](/microsoft-365/compliance/customer-key-overview)do Cliente, está disponível para Exchange Online, SharePoint Online e OneDrive for Business. 
+A criptografia de dados do cliente em repouso é fornecida por várias tecnologias do lado do serviço, incluindo BitLocker, DKM, Criptografia de Serviço do Azure Armazenamento e criptografia de serviço no Exchange Online, Skype for Business, OneDrive for Business e SharePoint Online. Office 365 A Criptografia de Serviço inclui uma opção para usar chaves de criptografia gerenciadas pelo cliente armazenadas no Azure Key Vault. Essa opção de chave gerenciada pelo cliente, chamada [Chave](/microsoft-365/compliance/customer-key-overview)do Cliente, está disponível para Exchange Online, SharePoint Online e OneDrive for Business. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Os servidores Microsoft usam o BitLocker para criptografar as unidades de disco que contêm dados do cliente em repouso no nível de volume. A criptografia BitLocker é um recurso de proteção de dados integrado ao Windows. O BitLocker é uma das tecnologias usadas para proteger contra ameaças caso haja falhas em outros processos ou controles (por exemplo, controle de acesso ou reciclagem de hardware) que podem levar alguém a obter acesso físico a discos que contenham dados do cliente. Nesse caso, o BitLocker elimina o potencial de roubo ou exposição de dados devido a computadores e discos perdidos, roubados ou desmantelados inadequadamente. 
+Os servidores Microsoft usam BitLocker para criptografar as unidades de disco que contêm dados do cliente em repouso no nível de volume. BitLocker criptografia é um recurso de proteção de dados que é integrado a Windows. BitLocker é uma das tecnologias usadas para proteger contra ameaças caso haja falhas em outros processos ou controles (por exemplo, controle de acesso ou reciclagem de hardware) que podem levar alguém a obter acesso físico a discos que contenham dados do cliente. Nesse caso, o BitLocker elimina o potencial de roubo ou exposição de dados devido a computadores e discos perdidos, roubados ou desmantelados inadequadamente. 
   
 ### <a name="distributed-key-manager"></a>Gerenciador de Chaves Distribuídas
 
-Além do BitLocker, usamos uma tecnologia chamada Distributed Key Manager (DKM). O DKM é uma funcionalidade do lado do cliente que usa um conjunto de chaves secretas para criptografar e descriptografar informações. Somente membros de um grupo de segurança específico nos Serviços de Domínio do Active Directory podem acessar essas chaves para descriptografar os dados criptografados pelo DKM. No Exchange Online, apenas certas contas de serviço, sob as quais os processos do Exchange são executados, fazem parte do grupo de segurança. Como parte do procedimento operacional padrão no datacenter, nenhum humano recebe credenciais que fazem parte deste grupo de segurança e, portanto, nenhuma pessoa tem acesso às chaves que podem descriptografar esses segredos.
+Além de BitLocker, usamos uma tecnologia chamada Distributed Key Manager (DKM). O DKM é uma funcionalidade do lado do cliente que usa um conjunto de chaves secretas para criptografar e descriptografar informações. Somente membros de um grupo de segurança específico nos Serviços de Domínio do Active Directory podem acessar essas chaves para descriptografar os dados criptografados pelo DKM. No Exchange Online, apenas certas contas de serviço, sob as quais os processos do Exchange são executados, fazem parte do grupo de segurança. Como parte do procedimento operacional padrão no datacenter, nenhum humano recebe credenciais que fazem parte deste grupo de segurança e, portanto, nenhuma pessoa tem acesso às chaves que podem descriptografar esses segredos.
   
 ## <a name="customer-key"></a>Chave de Cliente
 
-Com a Chave do Cliente, você controla as chaves de criptografia da sua organização e as configura para criptografar seus dados em repouso nos datacenters da Microsoft. Os dados em repouso incluem dados do Exchange Online e do Skype for Business armazenados em caixas de correio e arquivos armazenados no SharePoint Online e no OneDrive for Business. Para obter mais informações, consulte [Control your data in using Customer Key](/office365/securitycompliance/controlling-your-data-using-customer-key) and Service Encryption with Customer Key [FAQ](/office365/securitycompliance/service-encryption-with-customer-key-faq).
+Com a Chave do Cliente, você controla as chaves de criptografia da sua organização e as configura para criptografar seus dados em repouso nos datacenters da Microsoft. Os dados em repouso incluem dados de Exchange Online e Skype for Business armazenados em caixas de correio e arquivos armazenados no SharePoint Online e OneDrive for Business. Para obter mais informações, consulte [Control your data in using Customer Key](/office365/securitycompliance/controlling-your-data-using-customer-key) and Service Encryption with Customer Key [FAQ](/office365/securitycompliance/service-encryption-with-customer-key-faq).
   
 ## <a name="office-365-message-encryption"></a>Criptografia de Mensagem do Office 365
 
-A Criptografia de Mensagens do Office 365 permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Anunciamos novos recursos na Criptografia de Mensagens do Office que aproveitam os recursos de proteção na Criptografia de Informações do Azure. Esses novos recursos proporcionam experiências de usuário final aprimoradas que facilitam o compartilhamento e a colaboração em mensagens protegidas com qualquer pessoa dentro ou fora da organização. Os novos recursos de Criptografia de Mensagens do Office têm alguns requisitos de instalação. Consulte Configurar novos recursos de Criptografia de Mensagens do Office 365 com base na Proteção de Informações do Azure. Os clientes na Criptografia de Mensagens herdadas do Office 365 não têm os novos recursos sem seguir as diretrizes de configuração fornecidas acima. Leia as [Perguntas Frequentes para](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) obter mais detalhes sobre o que está incluído nos novos recursos de Criptografia de Mensagens do Office 365 herdadas. 
+Criptografia de Mensagens do Office 365 permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Anunciamos novos recursos em Office Criptografia de Mensagens que aproveitam os recursos de proteção na Criptografia de Informações do Azure. Esses novos recursos proporcionam experiências de usuário final aprimoradas que facilitam o compartilhamento e a colaboração em mensagens protegidas com qualquer pessoa dentro ou fora da organização. Os novos recursos Office criptografia de mensagens têm alguns requisitos de instalação. Consulte Configurar novos recursos Criptografia de Mensagens do Office 365 com base na Proteção de Informações do Azure. Os clientes em Criptografia de Mensagens do Office 365 não obterão os novos recursos sem seguir as diretrizes de configuração fornecidas acima. Leia as [perguntas frequentes para](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) obter mais detalhes sobre o que está incluído nos novos recursos de Criptografia de Mensagens do Office 365 herdado. 
 
-A Criptografia Avançada de Mensagens do Office 365 oferece proteção adicional permitindo a expiração e revogação de mensagens.  Você também pode criar vários modelos para emails criptografados provenientes da sua organização.  A Criptografia avançada de Mensagens está incluída no Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Preços de Funcionários sem fins lucrativos), Office 365 Enterprise E5 (Preços de Funcionários sem fins lucrativos) ou Office 365 Education A5. Se sua organização tiver uma assinatura que não inclua a Criptografia Avançada de Mensagens do Office 365, você poderá comprar a Conformidade do Microsoft 365 E5 ou o SKU de Conformidade Avançada do Office 365 como complemento.
+Criptografia de Mensagem Avançada do Office 365 oferece proteção adicional permitindo a expiração e revogação de mensagens.  Você também pode criar vários modelos para emails criptografados provenientes da sua organização.  A Criptografia Avançada de Mensagens está incluída no Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Preços de Funcionários sem fins lucrativos), Office 365 Enterprise E5 (Preços de Funcionários sem fins lucrativos) ou Office 365 Education A5. Se sua organização tiver uma assinatura que não inclua Criptografia de Mensagem Avançada do Office 365, você poderá comprar Microsoft 365 E5 Compliance ou o Conformidade Avançada do Office 365 SKU como complemento.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extensions)
 
@@ -131,7 +131,7 @@ Confira mais informações em [Bloqueio In-loco e Retenção Local](/exchange/se
   
 ## <a name="in-place-ediscovery"></a>Descoberta Eletrônica In-loco
 
-O Exchange Online permite que os clientes pesquisem o conteúdo das caixas de correio em uma organização usando uma interface baseada na Web. Os administradores e oficiais de segurança e conformidade autorizados a realizar pesquisa de Descoberta Eletrônica In-loco (por atribuição) podem pesquisar mensagens de email, anexos, compromissos de calendário, tarefas, contatos e outros itens. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Os resultados da pesquisa também incluirão itens da pasta Itens Excluídos se eles corresponderem à consulta da pesquisa.
+Exchange Online permite que os clientes pesquisem o conteúdo das caixas de correio em uma organização usando uma interface baseada na Web. Os administradores e oficiais de segurança e conformidade autorizados a realizar pesquisa de Descoberta Eletrônica In-loco (por atribuição) podem pesquisar mensagens de email, anexos, compromissos de calendário, tarefas, contatos e outros itens. A Descoberta Eletrônica In-loco pode pesquisar simultaneamente em caixas de correio principais e arquivos mortos. Os inúmeros recursos de filtragem incluem remetente, destinatário, tipo de mensagem, data de envio/recebimento e cópia e cópia oculta, além de sintaxe KQL. Os resultados da pesquisa também incluirão itens da pasta Itens Excluídos se eles corresponderem à consulta da pesquisa.
   
 Os resultados das pesquisas de Descoberta Eletrônica In-loco podem ser visualizados na interface baseada na Web, exportados para um arquivo PST ou copiados para um tipo especial de caixa de correio, a caixa de correio de Descoberta. Uma caixa de correio de Descoberta tem uma cota de 50 GB para armazenar os resultados da pesquisa. Os administradores também podem conectar o Outlook à caixa de correio de Descoberta para acessar resultados de pesquisa e exportar os resultados para um arquivo .pst.
   
@@ -170,7 +170,7 @@ Atualmente, várias organizações são obrigadas por lei, requisitos reguladore
 - Aplicar avisos de isenção às mensagens transmitidas pela organização
     
 > [!IMPORTANT]
-> Os tipos de arquivo de anexo que exigem a instalação de iFilters de terceiros no servidor de email (como Adobe .pdf) não podem ser inspecionados usando regras de fluxo de emails até que um iFilter apropriado seja instalado. Para obter mais informações sobre tipos de arquivo suportados por regras de fluxo de emails, consulte [Use mail flow rules to inspect message attachments in Office 365](/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
+> Os tipos de arquivo de anexo que exigem a instalação de iFilters de terceiros no servidor de email (como o Adobe .pdf) não podem ser inspecionados usando regras de fluxo de emails até que um iFilter apropriado seja instalado. Para obter mais informações sobre tipos de arquivo suportados por regras de fluxo de emails, consulte [Use mail flow rules to inspect message attachments in Office 365](/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
   
 Para obter mais informações sobre regras de fluxo de emails, consulte [Mail flow rules in Exchange 2016](/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?preserve-view=true&view=exchserver-2019).
   
@@ -188,11 +188,11 @@ Você pode configurar políticas de DLP na interface de gerenciamento do Centro 
     
 - Incorpore seus próprios modelos personalizados de política de DLP e tipos de informações confidenciais.
     
-- Detecte informações confidenciais em anexos de mensagens, texto do corpo ou linhas de assunto e ajuste o nível de confiança no qual o Exchange Online atua.
+- Detecte informações confidenciais em anexos de mensagens, texto do corpo ou linhas de assunto e ajuste o nível de confiança no qual Exchange Online age.
     
 - Detecte dados confidenciais por meio de impressão digital do documento. A impressão digital de documentos ajuda você a criar facilmente tipos de informações confidenciais personalizadas com base em formulários baseados em texto que você pode usar para definir as regras de transporte e políticas de DLP.
     
-- Adicione Dicas de Política, que podem ajudar a reduzir a perda de dados exibindo um aviso para seus usuários do Outlook 2016, Outlook 2013, Outlook na Web e OWA para Dispositivos e também pode melhorar a eficácia de suas políticas permitindo relatórios falsos positivos. 
+- Adicione o Dicas de política, que pode ajudar a reduzir a perda de dados exibindo um aviso para seus usuários do Outlook 2016, Outlook 2013, Outlook na Web e OWA para dispositivos e também pode melhorar a eficácia de suas políticas permitindo relatórios falsos positivos. 
     
 - Revise os dados de incidentes em relatórios de DLP ou adicione seus próprios relatórios específicos usando uma ação de geração de relatórios de incidentes.
     
@@ -206,7 +206,7 @@ Você pode gerenciar regras de diário usando o Centro de administração do Exc
   
 Para garantir uma solução de diário bem-sucedida e confiável, você precisa concluir as seguintes tarefas:
   
-- Certifique-se de que o destino do diário não seja uma caixa de correio do Exchange Online.
+- Certifique-se de que o destino do diário não seja uma caixa de Exchange Online de correio.
     
 - Crie no diretório de cliente um objeto de contato para o endereço de email de destino SMTP a ser usado para registro no diário.
     
@@ -220,4 +220,4 @@ Confira mais informações sobre o registro no diário em [Registro no diário](
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição [do serviço do Exchange Online.](exchange-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Exchange Online descrição do serviço.](exchange-online-service-description.md)

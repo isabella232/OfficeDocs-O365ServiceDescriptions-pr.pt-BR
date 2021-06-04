@@ -28,7 +28,7 @@ Para clientes que implantaram o Microsoft Lync Server 2010, o Lync Server 2013 o
   
 O Lync Server 2010 e o Lync Server 2013 locais poderão interoperar com o Exchange Online de duas maneiras adicionais:
   
-- Interoperabilidade de IM e presença no Outlook na Web
+- Interoperabilidade de IM e presença Outlook na Web
     
 - Interoperabilidade de caixa postal
     
@@ -36,7 +36,7 @@ Para saber mais sobre como configurar o Skype for Business Server 2015 com o Exc
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Para clientes que implantaram o Microsoft SharePoint Server ou o SharePoint Online como parte de um plano de assinatura, o SharePoint pode se conectar ao Exchange Online para serviços integrados.
+Para clientes que implantaram o Microsoft SharePoint Server ou SharePoint Online como parte de um plano de assinatura, o SharePoint pode se conectar ao Exchange Online para serviços integrados.
   
 Para saber mais sobre conectar o SharePoint ao Exchange Online, confira [Utilizar o SharePoint Online em um domínio personalizado junto com outros serviços](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -58,4 +58,4 @@ O Exchange Online pode ser usado como um serviço de entrega SMTP, para retransm
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição [do serviço do Exchange Online.](exchange-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Exchange Online descrição do serviço.](exchange-online-service-description.md)

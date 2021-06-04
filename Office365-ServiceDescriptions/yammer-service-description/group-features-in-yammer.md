@@ -37,5 +37,5 @@ Adicione e priorize grupos relacionados aos que você já ingressou para que os 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição do serviço [do Yammer.](yammer-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Yammer descrição do serviço.](yammer-service-description.md)
   

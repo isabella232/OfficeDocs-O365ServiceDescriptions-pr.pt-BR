@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
-description: Os seguintes recursos de gerenciamento de projeto estão disponíveis no Project Online.
+description: Os seguintes recursos de gerenciamento de projeto estão disponíveis em Project Online.
 ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652265"
 ---
 # <a name="project-management"></a>Gerenciamento de projeto
 
-Os seguintes recursos de gerenciamento de projeto estão disponíveis no Project Online.
+Os seguintes recursos de gerenciamento de projeto estão disponíveis em Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição Project Online serviço](project-online-service-description.md).
   
 ## <a name="issues-and-risk-management"></a>Gerenciamento de problemas e riscos
 
@@ -43,6 +43,6 @@ O cronograma representa as tarefas e as entregas que devem ser executadas para a
 
 Use uma abordagem centralizada e comum para relatório de tempo e gerenciamento de tarefas. Capture o tempo de trabalho e o tempo sem trabalho para folha de pagamento, geração de fatura e outras finalidades comerciais. Comunique com eficiência o status de projetos ou trabalho diário e as solicitações ad hoc para medir os picos de utilização e os vales ou o progresso de tarefas. Isso ajuda você a antecipar o efeito sobre o esforço, o custo e o prazo planejados. Para saber mais sobre, veja [Controlar o tempo e o progresso das tarefas](https://go.microsoft.com/fwlink/p/?LinkId=271321).
 
-## <a name="project-home"></a>Project Home
+## <a name="project-home"></a>Project Casa
 
-Project Home é o ponto de partida que oferece acesso rápido e fácil a projetos recentemente trabalhados e importantes, top-of-mind projects. Você pode marcar esses projetos como favoritos com controles fáceis de usar para que eles possam ser exibidos com destaque no Project Home. Para saber mais, confira [Começar com o Project Home](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).
+Project Home é o ponto de partida que oferece acesso rápido e fácil a projetos recentemente trabalhados e importantes, top-of-mind projects. Você pode marcar esses projetos como favoritos com controles fáceis de usar para que eles possam ser exibidos com destaque no Project Home. Para saber mais, confira [Começar a Project Home](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).

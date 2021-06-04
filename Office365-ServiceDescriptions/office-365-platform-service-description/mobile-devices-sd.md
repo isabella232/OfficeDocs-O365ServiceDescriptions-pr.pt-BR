@@ -27,8 +27,8 @@ Muitos telefones celulares, tablets e outros dispositivos móveis podem ser usad
     
 - Para obter informações sobre como usar email em dispositivos móveis, consulte a descrição do serviço [Clientes e dispositivos](../exchange-online-service-description/clients-and-mobile-devices.md) móveis. 
     
-- Para obter informações sobre Mobilidade Básica e Segurança do Microsoft 365, consulte [Overview of Basic Mobility and Security for Microsoft 365](/microsoft-365/admin/basic-mobility-security/overview).
+- Para obter informações sobre Mobilidade Básica e Segurança para Microsoft 365, consulte [Overview of Basic Mobility and Security for Microsoft 365](/microsoft-365/admin/basic-mobility-security/overview).
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Microsoft 365 e do Office 365, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos entre Microsoft 365 e Office 365, consulte Microsoft 365 descrição do serviço [Office 365 plataforma.](office-365-platform-service-description.md)

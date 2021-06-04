@@ -29,11 +29,11 @@ Notifique outros colegas de trabalho e envolva-os em uma conversa @mencionando o
 
 ## <a name="events"></a>Eventos
 
-Organize reuniões e eventos, compartilhe-os com colegas de trabalho e acompanhe a participação. Os eventos podem ser adicionados aos calendários do Outlook, Google, Yahoo!e iCal.
+Organize reuniões e eventos, compartilhe-os com colegas de trabalho e acompanhe a participação. Os eventos podem ser adicionados a calendários Outlook, Google, Yahoo!e iCal.
   
-## <a name="office-for-the-web-support"></a>Suporte do Office para a Web
+## <a name="office-for-the-web-support"></a>Office suporte à Web
 
-Com o Suporte do Office para a Web no Yammer, os documentos carregados no Yammer podem ser exibidos e editados com o Office para a Web, diretamente no Yammer. Isso permite que os documentos sejam bem renderizados com o Office para a Web, habilita a coautoria por diferentes usuários simultaneamente e exibe conversas relevantes do Yammer, bem no navegador.
+Com Office para o suporte à Web no Yammer, os documentos carregados no Yammer podem ser exibidos e editados com o Office para a Web, diretamente Yammer. Isso permite que os documentos sejam renderizados de forma Office para a Web, habilita a coautoragem por diferentes usuários simultaneamente e exibe conversas Yammer relevantes, bem no navegador.
 
 ## <a name="online-now"></a>Online agora
 
@@ -57,5 +57,5 @@ Compartilhe conversas no feed de outro grupo ou por meio de uma mensagem privada
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir planos de disponibilidade de recursos, opções autônomas e soluções locais, consulte [Descrição do serviço do Yammer.](yammer-service-description.md)
+Para exibir planos de disponibilidade de recursos, opções autônomas e soluções locais, consulte [Yammer descrição do serviço.](yammer-service-description.md)
   

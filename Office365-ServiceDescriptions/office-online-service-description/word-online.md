@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: O Word para a Web (anteriormente Word Web App) estende sua experiência do Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado.
+description: O Word para a Web (anteriormente Word Web App) estende sua experiência de Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado.
 ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,7 +23,7 @@ ms.locfileid: "51652325"
 ---
 # <a name="word-for-the-web"></a>Word para a Web
 
-O Word para a Web (anteriormente Word Web App) estende sua experiência do Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado. 
+O Word para a Web (anteriormente Word Web App) estende sua experiência de Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Guias de alinhamento e layout dinâmico
 
@@ -35,7 +35,7 @@ Os estilos de parágrafo e caractere salvos em um documento estão disponíveis 
   
 ## <a name="office-add-ins"></a>Suplementos do Office
 
-Você pode obter um complemento para o Word na loja do Office. Os complementos do Office funcionam apenas no aplicativo da área de trabalho do Word e não estão disponíveis no Word para a Web. Saiba como [obter um complemento para o Word](https://go.microsoft.com/fwlink/?LinkId=391443).
+Você pode obter um complemento para o Word na loja do Office. Office os complementos funcionam apenas no aplicativo da área de trabalho do Word e não estão disponíveis no Word para a Web. Saiba como [obter um complemento para o Word](https://go.microsoft.com/fwlink/?LinkId=391443).
   
 ## <a name="autosave"></a>Autosave
 
@@ -63,7 +63,7 @@ Não disponível no Word para a Web. Você pode exibir as citações existentes 
   
 ## <a name="clipboard"></a>Área de transferência
 
-Devido às limitações da tecnologia do navegador da Web, copiar e colar texto no Office para a Web é diferente de copiar e colar texto nos aplicativos da área de trabalho do Office. Saiba mais sobre [copiar e colar no Office para a Web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
+Devido às limitações da tecnologia de navegador da Web, copiar e colar texto no Office para a Web é diferente de copiar e colar texto nos aplicativos da área de trabalho Office. Saiba mais sobre [copiar e colar em Office para a Web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
   
 ## <a name="collaboration-advanced"></a>Colaboração, avançado
 
@@ -111,7 +111,7 @@ Você pode adicionar notas de rodapé e notas de fim aos seus documentos no Word
   
 ## <a name="full-fidelity-reading-view"></a>Modo de exibição de leitura de fidelidade total
 
-Quando você abre o documento no OneDrive ou no SharePoint, o Word para a Web abre o documento no navegador. A formatação e o layout são o que você veria se abrisse o documento no modo de exibição de Layout de Impressão no aplicativo da área de trabalho Word.
+Quando você abre seu documento em OneDrive ou SharePoint, o Word para a Web abre o documento no navegador. A formatação e o layout são o que você veria se abrisse o documento no modo de exibição de Layout de Impressão no aplicativo da área de trabalho Word.
   
 ## <a name="graphic-effect-presets"></a>Predefinições de efeitos gráficos
 
@@ -131,7 +131,7 @@ Um índice lista os termos e os tópicos que são discutidos em um documento, ju
   
 ## <a name="insert-online-pictures"></a>Inserir imagens online
 
-Com o Word para a Web, você pode inserir uma imagem de um arquivo salvo no disco rígido local ou no Bing Images. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Com o Word para a Web, você pode inserir uma imagem de um arquivo salvo em seu disco rígido local ou Bing Imagens. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="irm-and-password-protection"></a>IRM e proteção por senha
 
@@ -151,7 +151,7 @@ Não disponível no Word para a Web. Recursos avançados de integração de dado
   
 ## <a name="offline-viewing-and-authoring"></a>Criação e exibição offline
 
-Não disponível no Word para a Web. O Office para a Web requer uma conexão com a Internet e um navegador da Internet. Você precisa do aplicativo de área de trabalho do Word instalado em seu computador para exibir e editar um documento enquanto estiver desconectado da Internet ou do Servidor do Office Web Apps local da sua organização. Se você tiver o aplicativo da área de trabalho Word instalado, você pode usar a funcionalidade completa do Word para visualizar e editar seu documento. Quando você salvar, o documento online será atualizado com suas alterações. Você também pode baixar e salvar como uma cópia offline do documento, mas isso não estará em sincronia com a versão online. Saiba mais sobre o [Servidor do Office Web Apps](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
+Não disponível no Word para a Web. Office para a Web requer uma conexão com a Internet e um navegador da Internet. Você precisa do aplicativo de área de trabalho do Word instalado em seu computador para exibir e editar um documento enquanto estiver desconectado da Office Internet ou do servidor web apps local da sua organização. Se você tiver o aplicativo da área de trabalho Word instalado, você pode usar a funcionalidade completa do Word para visualizar e editar seu documento. Quando você salvar, o documento online será atualizado com suas alterações. Você também pode baixar e salvar como uma cópia offline do documento, mas isso não estará em sincronia com a versão online. Saiba mais sobre o [Servidor do Office Web Apps](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
   
 ## <a name="page-breaks"></a>Quebras de página
 
@@ -205,7 +205,7 @@ Não disponível no Word para a Web. Revisores de texto avançados, como a adiç
   
 ## <a name="real-time-co-authoring"></a>Coautoria em tempo real
 
-Mais de uma pessoa pode trabalhar simultaneamente em um documento. No Word para a Web e o Word 2016, a presença em tempo real ajuda você a ver onde seus coautores estão trabalhando no documento para que você não crie conflitos à medida que edita e veja alterações à medida que elas estão sendo feitas. O Word 2013 suporta a edição simultânea, mas não há nenhuma indicação de presença e as alterações não poderão ser vistas por vários autores até que o documento seja salvo. Para saber mais sobre coautor em tempo real, consulte Novidades no [Word para a Web](https://go.microsoft.com/fwlink/?LinkId=389520) e Colaborar em documentos do Word com [coautor em](https://go.microsoft.com/fwlink/?linkid=798760)tempo real.
+Mais de uma pessoa pode trabalhar simultaneamente em um documento. No Word para a Web e Word 2016, a presença em tempo real ajuda você a ver onde seus coautores estão trabalhando no documento para que você não crie conflitos à medida que edita e veja as alterações à medida que elas estão sendo feitas. O Word 2013 suporta a edição simultânea, mas não há nenhuma indicação de presença e as alterações não poderão ser vistas por vários autores até que o documento seja salvo. Para saber mais sobre coautor em tempo real, consulte Novidades no [Word para a Web](https://go.microsoft.com/fwlink/?LinkId=389520) e Colaborar em documentos do Word com [coautor em](https://go.microsoft.com/fwlink/?linkid=798760)tempo real.
   
 ## <a name="reference-tools"></a>Ferramentas de referência
 
@@ -293,7 +293,7 @@ O zoom está disponível no modo de Exibição. Com o Word para a Web, use as co
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Office para a descrição do](office-online-service-description.md)serviço Web. 
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Office para a descrição do serviço [Web.](office-online-service-description.md) 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>Limitações e especificações de parâmetros operacionais
 

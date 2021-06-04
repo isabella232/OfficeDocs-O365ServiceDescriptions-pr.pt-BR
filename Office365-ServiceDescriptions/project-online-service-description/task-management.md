@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Os seguintes recursos de gerenciamento de tarefas estão disponíveis no Project Online.
+description: Os seguintes recursos de gerenciamento de tarefas estão disponíveis Project Online.
 ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651056"
 ---
 # <a name="task-management"></a>Gerenciamento de tarefas
 
-Os seguintes recursos de gerenciamento de tarefas estão disponíveis no Project Online.
+Os seguintes recursos de gerenciamento de tarefas estão disponíveis Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição Project Online serviço](project-online-service-description.md).
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -53,7 +53,7 @@ Exiba os fatores que afetam o cronograma de uma tarefa, como uma data de início
 
 Veja como uma tarefa se conecta a outras tarefas realçando seu caminho de tarefa em todo o projeto. Saiba mais sobre [Realçar como as tarefas são vinculadas a outras tarefas](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
-## <a name="top-down-summary-tasks"></a>Tarefas de resumo hierárquicas
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 
 Crie uma atribuição de recurso em uma tarefa de resumo. Saiba mais sobre [Planejamento hierárquico](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
@@ -67,5 +67,5 @@ Use o modo Agendar Manualmente para agendar suas tarefas manualmente. Confira [C
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do [serviço do Project Online.](project-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Project Online descrição do serviço.](project-online-service-description.md)
   

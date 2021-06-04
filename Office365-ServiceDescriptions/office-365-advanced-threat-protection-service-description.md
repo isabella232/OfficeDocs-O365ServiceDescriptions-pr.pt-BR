@@ -134,7 +134,7 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
 O [Cofre de documentos](/microsoft-365/security/office-365-security/safe-docs) usa o Microsoft Defender para [Ponto](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) de Extremidade para examinar documentos e arquivos abertos [no Protected View](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
 
-O que você precisa saber antes de começar?
+Do que você precisa saber para começar?
 
 - Cofre Os documentos agora estão geralmente disponíveis para usuários com Office versão 2004 (12730.x) ou superior! Esse recurso está desligado por padrão e precisará ser habilitado pelo Administrador de Segurança.
 

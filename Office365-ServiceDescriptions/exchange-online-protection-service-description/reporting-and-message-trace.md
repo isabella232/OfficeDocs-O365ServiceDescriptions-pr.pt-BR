@@ -21,20 +21,20 @@ ms.locfileid: "51653123"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Relatórios e rastreamento de mensagem no Exchange Online Protection
 
-O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no Centro de administração do Microsoft 365, enquanto outros estão disponíveis no Centro de administração do Exchange (EAC).
+O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração Microsoft 365, enquanto outros estão disponíveis no centro de administração Exchange (EAC).
 
-Você está procurando informações sobre todas as características EOP? Consulte a descrição [do serviço de Proteção do Exchange Online](exchange-online-protection-service-description.md).
+Você está procurando informações sobre todas as características EOP? Consulte a [descrição Proteção do Exchange Online serviço](exchange-online-protection-service-description.md).
 
 ## <a name="microsoft-365-admin-center-reports"></a>Relatórios do Centro de administração do Microsoft 365
 
-A página Relatórios no Centro de administração do Microsoft 365 fornece informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas por regras de fluxo de emails (também conhecidas como regras de transporte) ou políticas de prevenção contra perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do EOP. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
+A página Relatórios no centro de administração do Microsoft 365 fornece informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas por regras de fluxo de emails (também conhecidas como regras de transporte) ou políticas de prevenção contra perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do EOP. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
 
 Para obter informações mais detalhadas sobre esses relatórios, consulte [Use mail protection reports to view data about malware, spam, and rule detections](/exchange/monitoring/use-mail-protection-reports).
 
 ## <a name="reporting-using-web-services"></a>Criar relatórios usando serviços Web
 
 > [!NOTE]
-> Muitos dos recursos de relatório baseados em REST e cmdlets relacionados foram preterido em janeiro de 2018. Para obter informações sobre os relatórios de substituição disponíveis do Microsoft Graph no Office 365, consulte os subtópicos de Trabalhar com relatórios de uso [no Microsoft Graph](/graph/api/resources/report).
+> Muitos dos recursos de relatório baseados em REST e cmdlets relacionados foram preterido em janeiro de 2018. Para obter informações sobre os relatórios de substituição disponíveis da Microsoft Graph no Office 365, consulte os subtópicos de Trabalhar com relatórios de uso no [Microsoft Graph](/graph/api/resources/report).
 
 Não disponível para clientes autônomos do EOP. Você pode usar o serviço Web REST/OData Tenant Reporting para coletar de forma programática relatórios resumidos e detalhados sobre dados de mensagens, e você pode exibir os dados em uma página da Web em um portal de gerenciamento da Web personalizado.
 
@@ -44,4 +44,4 @@ O recurso de rastreamento de mensagens no EAC permite que você, como administra
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do serviço [de Proteção do Exchange Online.](exchange-online-protection-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Proteção do Exchange Online descrição do serviço.](exchange-online-protection-service-description.md)

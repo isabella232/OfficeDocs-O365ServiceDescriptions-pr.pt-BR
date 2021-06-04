@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: O Microsoft 365 e o Office 365 são serviços baseados em nuvem projetados para ajudar a atender às necessidades da sua organização para segurança robusta, confiabilidade e produtividade do usuário.
+description: Microsoft 365 e Office 365 são serviços baseados em nuvem projetados para ajudar a atender às necessidades da sua organização para segurança robusta, confiabilidade e produtividade do usuário.
 ms.openlocfilehash: 7a51d0914774455ad6f78bbd362633a48094ebf3
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,22 +23,22 @@ ms.locfileid: "51652385"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrições de serviços do Microsoft 365 e do Office 365 
 
-O Microsoft 365 e o Office 365 são serviços baseados em nuvem projetados para ajudar a atender às necessidades da sua organização para segurança robusta, confiabilidade e produtividade do usuário. 
+Microsoft 365 e Office 365 são serviços baseados em nuvem projetados para ajudar a atender às necessidades da sua organização para segurança robusta, confiabilidade e produtividade do usuário. 
   
-Os artigos nesta biblioteca fornecem descrições detalhadas dos serviços e recursos disponíveis com o Microsoft 365 e o Office 365. Para obter informações sobre aplicativos de negócios do Microsoft Dynamics 365, consulte a documentação do [Microsoft Dynamics 365.](/dynamics365/)
+Os artigos nesta biblioteca fornecem descrições detalhadas dos serviços e recursos disponíveis com Microsoft 365 e Office 365. Para obter informações sobre aplicativos de negócios do Microsoft Dynamics 365, consulte a documentação do [Microsoft Dynamics 365.](/dynamics365/)
 
 Para comparar recursos entre planos, consulte [Ferramentas poderosas para dar](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) suporte à sua empresa ou à descrição de serviço relevante na lista abaixo. 
   
-Para obter artigos e informações de suporte, consulte Treinamento da Ajuda do [Office](https://support.office.com/)&, documentação do [Office](/office/)para administradores e profissionais de TI e Centro de ajuda do [Microsoft 365](/microsoft-365/)para administradores e profissionais de TI.
+Para obter informações e artigos de suporte, consulte Office Ajuda & [Treinamento,](https://support.office.com/)documentação Office para administradores e profissionais de TI [e](/office/)Microsoft 365 centro de ajuda para administradores e profissionais de [TI](/microsoft-365/).
   
 > [!NOTE]
 > Se você estiver procurando a planilha de comparação de descrição do serviço, ela foi retirada. As tabelas de disponibilidade de recursos do produto em cada página de descrição do serviço foram atualizadas para ajudá-lo a escolher melhor a versão do Office 365 que atende às suas necessidades. 
   
-A Microsoft oferece o Benefício do Centro FastTrack para o Office 365 para serviços qualificados em planos qualificados. O benefício permite que você trabalhe remotamente com especialistas da Microsoft para preparar seu ambiente do Office 365 para uso. Para saber mais, confira [benefícios do FastTrack Center do Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
+A Microsoft oferece o Benefício do Centro FastTrack para Office 365 para serviços qualificados em planos qualificados. O benefício permite que você trabalhe remotamente com especialistas da Microsoft para deixar seu Office 365 ambiente pronto para uso. Para saber mais, confira [benefícios do FastTrack Center do Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Para começar, consulte as seguintes descrições de serviço:
   
-- Descrição do serviço da plataforma<sup>1</sup> do [Microsoft 365 e do Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
+- [Microsoft 365 e Office 365 de serviço de plataforma](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Descrição de serviços dos aplicativos do Office](office-applications-service-description/office-applications-service-description.md)
 

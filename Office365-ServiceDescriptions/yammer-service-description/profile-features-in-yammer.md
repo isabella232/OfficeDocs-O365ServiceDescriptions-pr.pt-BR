@@ -41,14 +41,14 @@ Adicione gerentes e relatórios para criar um gráfico de organização junto co
   
 ## <a name="praise"></a>Elogiar
 
-Dê e receba reconhecimento por um trabalho bem feito. Conquistas e selos aparecem em perfis na **guia Elogiar.**
+Dê e receba reconhecimento por um trabalho bem feito. Conquistas e selos aparecem em perfis na **guia Elogio.**
  
 ## <a name="user-profiles"></a>Perfis de usuário
 
-Carregue uma imagem, preencha os detalhes do contato e liste sua experiência. Os perfis agregam todas as suas informações, inclusive conversas e arquivos.
+Upload uma imagem, preencha os detalhes do contato e liste sua experiência. Os perfis agregam todas as suas informações, inclusive conversas e arquivos.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição do serviço [do Yammer.](yammer-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Yammer descrição do serviço.](yammer-service-description.md)
   
 

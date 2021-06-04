@@ -7,7 +7,7 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
-description: Saiba mais Microsoft Exchange Online disponibilidade de recursos e serviços em planos do Microsoft 365 e Office 365.
+description: Saiba mais sobre Microsoft Exchange Online disponibilidade de recursos e serviços em Microsoft 365 e Office 365 planos.
 ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
 ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
 ms.translationtype: MT
@@ -19,13 +19,13 @@ ms.locfileid: "51414874"
 
 Microsoft Exchange Online é uma solução de mensagens hospedada que fornece o recursos do Microsoft Exchange Server como um serviço baseado em nuvem. Isso permite que os usuários acessem o e-mail, o calendário, os contatos e as tarefas a partir de computadores, da Web e de dispositivos móveis. Ele se integra totalmente ao Active Directory, permitindo que os administradores usem políticas de grupo, bem como outras ferramentas administrativas, para gerenciar os recursos do Exchange Online em seu ambiente.
   
-As organizações que assinam o Exchange Online retêm o controle sobre os serviços de mensagens oferecidos aos usuários, mas não têm a carga operacional do software de servidor local. Com os planos hospedados do Exchange Online descritos nesta descrição de serviço, o email é hospedado em servidores que suportam vários clientes simultaneamente. Esses servidores são ativos nos data centers da Microsoft e são acessíveis aos usuários em uma ampla variedade de dispositivos de dentro de uma rede corporativa ou pela Internet.
+As organizações que assinam Exchange Online retêm o controle sobre os serviços de mensagens oferecidos aos usuários, mas não têm a carga operacional do software de servidor local. Com os Exchange Online hospedados descritos nesta descrição de serviço, o email é hospedado em servidores que suportam vários clientes simultaneamente. Esses servidores são ativos nos data centers da Microsoft e são acessíveis aos usuários em uma ampla variedade de dispositivos de dentro de uma rede corporativa ou pela Internet.
 
-Esta descrição de serviço detalha as principais diferenças entre os serviços fornecidos em várias instalações na nuvem. As funcionalidades principais do Exchange Online não diferem entre as assinaturas. A disponibilidade dos recursos de conformidade depende do nível de assinatura.
+Esta descrição de serviço detalha as principais diferenças entre os serviços fornecidos em várias instalações na nuvem. Exchange Online principais funcionalidades não diferem entre as assinaturas. A disponibilidade dos recursos de conformidade depende do nível de assinatura.
   
 ## <a name="available-plans"></a>Planos disponíveis
 
-Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para o Exchange Online, consulte a tabela de comparação de [soluções da Microsoft](https://go.microsoft.com/fwlink/?linkid=2139145).
+Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para Exchange Online, consulte a tabela de comparação de [soluções da Microsoft](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 Cada usuário que acessar o serviço Exchange Online deve ser atribuído a um plano de assinatura, e cada assinatura de usuário ter sua própria caixa de correio. Pastas e mensagens nessas caixas de correio residem em um computador executando Exchange Server em um datacenter da Microsoft.
   
@@ -33,9 +33,9 @@ As assinaturas do usuário não são exigidas para salas de conferência e caixa
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-A tabela a seguir lista os principais recursos do Exchange Online disponíveis nos planos. Certas advertências se aplicam*. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada dos recursos do Exchange Online em todos os planos, consulte [Comparar planos do Exchange Online.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
+A tabela a seguir lista os principais recursos Exchange Online disponíveis nos planos. Certas advertências se aplicam*. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada e completa dos recursos Exchange Online entre os planos, consulte [Compare Exchange Online planos](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans).<br><br>
   
-| Recurso | Planos de pequenas empresas | Planos empresariais | Planos de educação | CCG | GCC-High | DOD | 
+| Recurso | Planos de pequenas empresas | Enterprise planos | Planos de educação | CCG | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Planejamento e implantação](planning-and-deployment.md)|Sim*|Sim|Sim|Sim|Sim|Sim|
 |[Permissões](permissions.md)|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -54,10 +54,10 @@ A tabela a seguir lista os principais recursos do Exchange Online disponíveis n
 
 ## <a name="learn-more"></a>Saiba mais
 
-Para obter mais informações sobre o Exchange Online, confira os seguintes recursos:
+Para obter mais informações Exchange Online, confira os seguintes recursos:
 
-- [Documentação de administrador do Exchange Online](/exchange/exchange-online)
-- [Limites de armazenamento e destinatário do Exchange Online](exchange-online-limits.md)
+- [Exchange Online de administrador](/exchange/exchange-online)
+- [Exchange Online limites de armazenamento e destinatário](exchange-online-limits.md)
 - [Novidades do centro de administração do Exchange](/exchange/whats-new)
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
@@ -70,4 +70,4 @@ Para se manter informado das próximas alterações, incluindo recursos novos e 
 
 ### <a name="accessibility"></a>Acessibilidade
 
-A Microsoft permanece comprometida com a segurança de seus dados e com a acessibilidade de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro de Acessibilidade do [Office.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft permanece comprometida com a segurança de seus dados e com a acessibilidade de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)

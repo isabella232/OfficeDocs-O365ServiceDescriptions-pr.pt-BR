@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento de destinatário, domínio e empresa no Exchange Online Protection
+title: Gerenciamento de destinatário, domínio e empresa no Proteção do Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,15 +19,15 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51652993"
 ---
-# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Gerenciamento de destinatário, domínio e empresa no Exchange Online Protection
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Gerenciamento de destinatário, domínio e empresa no Proteção do Exchange Online
 
-Microsoft Exchange Online Protection (EOP) oferece vários meios de gerenciar suas informações de destinatário, domínio e empresa. Como administrador, você pode executar determinadas tarefas de gerenciamento no Centro de administração do Exchange (EAC) e verificar outras tarefas de gerenciamento executadas no centro de administração do Microsoft 365.
+Microsoft Exchange Online A Proteção (EOP) oferece vários meios de gerenciar suas informações de destinatário, domínio e empresa. Como administrador, você pode executar determinadas tarefas de gerenciamento no centro de administração do Exchange (EAC) e verificar outras tarefas de gerenciamento executadas no Microsoft 365 de administração.
   
-Você está procurando informações sobre todas as características EOP? Consulte a descrição [do serviço de Proteção do Exchange Online](exchange-online-protection-service-description.md).
+Você está procurando informações sobre todas as características EOP? Consulte a [descrição Proteção do Exchange Online serviço](exchange-online-protection-service-description.md).
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-Os destinatários de email são categorizados como grupos ou usuários de email e podem ser gerenciados por meio da sincronização do diretório, diretamente no EAC ou via Windows PowerShell remoto. Se estiver gerenciando destinatários locais, você deverá executar a sincronização de diretório para que seus destinatários de email sejam refletidos no EAC. Os usuários gerenciados exclusivamente no Centro de administração do Microsoft 365 não podem ser visualizados no EAC, mas podem ser adicionados ou removidos da associação em um grupo de função de administrador no EAC. Confira mais informações sobre destinatários no EOP em [Destinatários no EOP](/microsoft-365/security/office-365-security/manage-recipients-in-eop).
+Os destinatários de email são categorizados como grupos ou usuários de email e podem ser gerenciados por meio da sincronização do diretório, diretamente no EAC ou via Windows PowerShell remoto. Se estiver gerenciando destinatários locais, você deverá executar a sincronização de diretório para que seus destinatários de email sejam refletidos no EAC. Os usuários gerenciados exclusivamente no centro de administração do Microsoft 365 não podem ser visualizados no EAC, mas podem ser adicionados ou removidos da associação em um grupo de função de administrador no EAC. Confira mais informações sobre destinatários no EOP em [Destinatários no EOP](/microsoft-365/security/office-365-security/manage-recipients-in-eop).
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
@@ -35,7 +35,7 @@ No EOP você pode configurar apenas funções de administrador. Os usuários pod
   
 ## <a name="domain-management"></a>Gerenciamento de domínio
 
-Domínios gerenciados são domínios protegidos pelo EOP. Os domínios gerenciados podem ser visualizados e os tipos de domínio podem ser editados no EAC. O provisionamento e o gerenciamento de domínios ocorrem no centro de administração do Microsoft 365 e as alterações são refletidas no EAC. Confira mais informações em [Exibir ou editar domínios gerenciados no EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
+Domínios gerenciados são domínios protegidos pelo EOP. Os domínios gerenciados podem ser visualizados e os tipos de domínio podem ser editados no EAC. O provisionamento e o gerenciamento de domínios ocorrem no centro de administração Microsoft 365 e as alterações são refletidas no EAC. Confira mais informações em [Exibir ou editar domínios gerenciados no EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
   
 ## <a name="match-subdomains"></a>Corresponder subdomínios
 
@@ -49,4 +49,4 @@ Para ativar o DBEB é preciso fazer algumas configurações de domínio e de usu
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do serviço [de Proteção do Exchange Online.](exchange-online-protection-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Proteção do Exchange Online descrição do serviço.](exchange-online-protection-service-description.md)

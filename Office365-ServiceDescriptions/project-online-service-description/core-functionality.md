@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Os seguintes recursos principais de funcionalidade estão disponíveis no Project Online.
+description: Os seguintes recursos principais de funcionalidade estão disponíveis em Project Online.
 ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51652295"
 ---
 # <a name="core-functionality"></a>Funcionalidade principal
 
-Os seguintes recursos principais de funcionalidade estão disponíveis no Project Online.
+Os seguintes recursos principais de funcionalidade estão disponíveis em Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição Project Online serviço](project-online-service-description.md).
   
 ## <a name="add-columns"></a>Adicionar colunas
 
@@ -35,7 +35,7 @@ Selecione **Arquivo** para usar recursos no Backstage, onde você pode gerenciar
   
 ## <a name="click-to-run"></a>Clique para Executar
 
-Instale rapidamente o Project Online pela Internet, redes internas, sistemas de arquivos locais ou mídia offline para garantir que você esteja atualizado com a versão mais recente do aplicativo de área de trabalho do Project. Para saber mais, confira [Clique para executar](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
+Instale rapidamente Project Online internet, redes internas, sistemas de arquivos locais ou mídia offline para garantir que você esteja atualizado com a versão mais recente do aplicativo de área de trabalho Project desktop. Para saber mais, confira [Clique para executar](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Menus contextuais exibidos com o botão direito
 
@@ -65,17 +65,17 @@ Você pode desfazer várias alterações ao mesmo tempo usando o menu Desfazer.
 
 Exibir tarefas, dependências e o caminho crítico do seu projeto em um modo de exibição de Diagrama de Rede. Confira [Criar um diagrama de rede](https://go.microsoft.com/fwlink/p/?LinkId=271338).
   
-## <a name="office-store"></a>Office Store
+## <a name="office-store"></a>Office store
 
-Precisa de um aplicativo para ajudá-lo com o Project? Encontre novos aplicativos para o Project no Office Store. Confira [Suplementos para o Project](https://go.microsoft.com/fwlink/?LinkId=273883).
+Precisa de um aplicativo para ajudá-lo com o Project? Encontre novos aplicativos para Project no Office store. Confira [Suplementos para o Project](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Ajuda online
 
-A Ajuda do Project está disponível no Office.com ou em Guias de Iniciação diretamente no Project (selecione **Arquivo** \> **Novo**). [Assista a estes vídeos para fazer a mudança para o Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Project A ajuda está disponível em Office.com ou em Guia de Project (selecione **Arquivo** \> **Novo**). [Assista a estes vídeos para fazer a mudança para o Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-Salve um arquivo project como um arquivo PDF ou XPS. Confira [Salvar um arquivo de projeto como PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Salve um Project como um arquivo PDF ou XPS. Confira [Salvar um arquivo de projeto como PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -93,7 +93,7 @@ Em vez de colocá-lo em um projeto em branco, o Project 2013 apresenta um centro
 
 Quebre nomes de tarefa ou recurso para que fluam em uma segunda linha. Confira [Quebrar texto alterando a altura da linha](https://go.microsoft.com/fwlink/p/?LinkId=271344).
   
-## <a name="timeline-view"></a>Exibição de linha do tempo
+## <a name="timeline-view"></a>Timeline view
 
 Crie e personalize a exibição de linha do tempo para visualizar os detalhes do cronograma e se comunicar com as partes interessadas. Assista ao [Vídeo: Criar uma linha de tempo](https://go.microsoft.com/fwlink/?LinkId=402912)
   
@@ -103,4 +103,4 @@ Use controles de zoom na barra de status para rapidamente alterar a perspectiva 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do [serviço do Project Online.](project-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Project Online descrição do serviço.](project-online-service-description.md)

@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project Online.
+description: Os seguintes recursos de gerenciamento de recursos estão disponíveis Project Online.
 ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651201"
 ---
 # <a name="project-resource-management"></a>Gerenciamento de recursos do Project
 
-Os seguintes recursos de gerenciamento de recursos estão disponíveis no Project Online.
+Os seguintes recursos de gerenciamento de recursos estão disponíveis Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição Project Online serviço](project-online-service-description.md).
   
 ## <a name="cost-resources"></a>Recursos de custos
 
@@ -37,11 +37,11 @@ Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronogra
 
 Quando as pessoas em seu projeto estão trabalhando em muitas tarefas ao mesmo tempo, você pode ajustar suas atribuições automaticamente. Isso é conhecido como nivelamento de recursos. Confira [Atribuições de recursos de nível](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
-## <a name="resource-sheet-and-usage-views"></a>Exibições de uso e folha de recursos
+## <a name="resource-sheet-and-usage-views"></a>Resource sheet and usage views
 
 Apresentar informações sobre o recurso graficamente usando os modos de exibição de uso do recurso, planilha, gráfico e formulário. Confira [Escolher o relatório correto](https://go.microsoft.com/fwlink/?LinkId=402920).
   
-## <a name="resource-substitution"></a>Substituição de recursos
+## <a name="resource-substitution"></a>Resource substitution
 
 Substitua recursos genéricos como carpinteiros por pessoas reais. Confira [Criar e compartilhar um pool de recursos](https://go.microsoft.com/fwlink/?LinkId=402921).
   
@@ -55,6 +55,6 @@ Adicione recursos ao seu projeto, como recursos de trabalho como pessoas, recurs
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do [serviço do Project Online.](project-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Project Online descrição do serviço.](project-online-service-description.md)
   
 

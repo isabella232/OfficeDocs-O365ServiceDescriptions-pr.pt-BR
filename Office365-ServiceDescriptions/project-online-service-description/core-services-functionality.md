@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Os seguintes principais recursos de funcionalidade de serviços estão disponíveis no Project Online.
+description: Os seguintes recursos principais de funcionalidade de serviços estão disponíveis no Project Online.
 ms.openlocfilehash: 685c14a18af853c206bb9db0aaa294b7f96b1dfe
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652285"
 ---
 # <a name="core-services-functionality"></a>Principais recursos de serviços
 
-Os seguintes principais recursos de funcionalidade de serviços estão disponíveis no Project Online.
+Os seguintes recursos principais de funcionalidade de serviços estão disponíveis no Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição Project Online serviço](project-online-service-description.md).
   
 ## <a name="active-directory-integration"></a>Integração do Active Directory
 
@@ -33,7 +33,7 @@ O Project Online e o Project Server 2013 fornecem recursos aos administradores p
   
 ## <a name="getting-started"></a>Introdução
 
-O conteúdo de início está disponível para o Project Online. Confira [Introdução ao Project Online](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
+O conteúdo de início está disponível para Project Online. Confira [Introdução ao Project Online](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Gerenciamento de problemas e de riscos (para membros da equipe)
 
@@ -53,7 +53,7 @@ Estamos de acordo com nossa promessa de tempo de atividade de 99,9% com uma gara
   
 ## <a name="service-updates"></a>Atualizações de serviço
 
-Atualizamos regularmente os serviços microsoft com novos recursos e recursos. Consulte [Atualizações de serviço](../office-365-platform-service-description/service-updates.md).
+Atualizamos regularmente serviços Microsoft novos recursos e recursos. Consulte [Atualizações de serviço](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Colaboração de membros da equipe
 

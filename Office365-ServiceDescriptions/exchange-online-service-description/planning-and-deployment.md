@@ -29,7 +29,7 @@ As organizações devem escolher as opções de migração baseadas em seus sist
 
 - **Implantação somente na nuvem** - Sua organização tem todas as caixas de correio de usuário hospedadas no Exchange Online. 
     
-- **Implantação híbrida** do Exchange - Sua organização tem algumas caixas de correio de usuário hospedadas em uma organização local do Exchange e algumas caixas de correio de usuário hospedadas no Exchange Online. 
+- **Exchange** implantação híbrida - Sua organização tem algumas caixas de correio de usuário hospedadas em uma organização Exchange local e algumas caixas de correio de usuário hospedadas em Exchange Online. 
     
 ### <a name="cloud-only"></a>Apenas Nuvem
 
@@ -48,13 +48,13 @@ Para saber mais sobre implantações híbridas, confira [Implantações híbrida
 
 As organizações devem escolher as opções de migração baseadas em seus sistemas de origem de email, os estados finais desejados (totalmente ou parcialmente hospedados), o número de usuários a serem migrados e de quanto tempo o estado final precisa para ser atingido. As opções de migração possíveis são:
   
-- **Migração IMAP** - Migrar dados de caixa de correio de sistemas de email baseados em IMAP para o Exchange Online. 
+- **Migração IMAP** - Migrar dados de caixa de correio de sistemas de email baseados em IMAP para Exchange Online. 
     
-- **Migração** de recortamento do Exchange - Migrar caixas de correio do Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 e sistemas do Exchange hospedados para o Exchange Online em uma única migração de recortamento. 
+- Migração de **Exchange** - Migrar caixas de correio do Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 e sistemas Exchange hospedados para Exchange Online em uma única migração de recortamento. 
     
-- Migração em estágios do **Exchange** - Realize uma migração em estágios para migrar caixas de correio do Exchange Server 2003 ou Exchange Server 2007 com ferramentas de migração baseadas na Web e alterações mínimas na infraestrutura local. 
+- Migração em **estágios Exchange** - Realize uma migração em estágios para migrar caixas de correio do Exchange Server 2003 ou Exchange Server 2007 com ferramentas de migração baseadas na Web e alterações mínimas na infraestrutura local. 
     
-- **Migração de movimentação remota** - Migrar caixas de correio locais do Exchange para o Exchange Online em uma implantação híbrida do Exchange. Você deve ter uma implantação híbrida do Exchange para usar uma migração de movimentação remota. 
+- **Migração de movimentação** remota - Migre caixas de correio locais Exchange para Exchange Online em uma implantação Exchange híbrida. Você deve ter uma implantação híbrida do Exchange para usar uma migração de movimentação remota. 
     
 Para saber mais sobre a migração de email e caixas de correio para o Exchange Online, consulte [Migração de Caixa de Correio para o Exchange Online ](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e).
   
@@ -109,7 +109,7 @@ Para saber mais sobre migração em estágios no Exchange, consulte [O que você
 
 A Microsoft oferece diversas ferramentas para ajudar na migração de um ambiente de email existente para o Exchange Online. Quais delas serão adequadas dependerá do ambiente atual da organização e dos objetivos da implantação:
   
-- **Painel de migração** - Os administradores podem usar o painel de migração no centro de administração do Exchange para gerenciar a migração de caixa de correio para o Exchange Online em uma migração de recortamento ou em estágios do Exchange. Os administradores também podem usar o painel para migrar o conteúdo das caixas de correio dos usuários de um servidor IMAP local para caixas de correio existentes do Exchange Online. O painel oferece aos administradores as seguintes capacidades: 
+- **Painel de** migração - Os administradores podem usar o painel de migração no centro de administração Exchange para gerenciar a migração de caixa de correio para Exchange Online em uma migração de Exchange de recortamento ou em estágios. Os administradores também podem usar o painel para migrar o conteúdo das caixas de correio dos usuários de um servidor IMAP local para caixas de correio existentes do Exchange Online. O painel oferece aos administradores as seguintes capacidades: 
     
   - **Criar e iniciar vários lotes de migração** - Os administradores podem criar e enfilar até 100 lotes de migração. Apenas um lote de migração é processado por vez, porém, os administradores podem colocar em fila diversos lotes, para que, quando um lote de migração for processado, o próximo lote da fila será iniciado. 
     
@@ -119,13 +119,13 @@ A Microsoft oferece diversas ferramentas para ajudar na migração de um ambient
     
   - **Relatórios de migração** abertos - Os administradores podem abrir estatísticas de migração ou o relatório de erro de migração para um lote de migração direto do painel. 
     
-  - **Editar um lote de migração** - Se um lote de migração para uma migração em estágios do Exchange ou uma migração IMAP estiver na fila de migração, mas não estiver em execução no momento, os administradores poderão editar o lote de migração. 
+  - **Editar um lote de** migração - Se um lote de migração para uma migração em estágios Exchange ou uma migração IMAP estiver na fila de migração, mas não estiver em execução no momento, os administradores poderão editar o lote de migração. 
     
-- Ferramenta de Sincronização do **Azure Active Directory** - A ferramenta de Sincronização do Azure Active Directory desempenha um papel importante na migração para cenários de email híbridos que utilizam o Exchange Online e um Exchange Server. A ferramenta desempenha uma sincronização unidirecional do Active Directory local para o Exchange Online. Após a conclusão da migração, os administradores precisam apenas usar o Exchange Online para gerenciar os usuários e os grupos do Active Directory. A ferramenta também oferece aos usuários uma Lista de Endereços Global unificada em que o ambiente online é continuamente sincronizado com o ambiente local. 
+- **Azure Active Directory Ferramenta de** sincronização - a ferramenta Azure Active Directory Sync desempenha um papel importante na migração para cenários de email híbridos que utilizam o Exchange Online e um Exchange Server. A ferramenta desempenha uma sincronização unidirecional do Active Directory local para o Exchange Online. Após a conclusão da migração, os administradores precisam apenas usar o Exchange Online para gerenciar os usuários e os grupos do Active Directory. A ferramenta também oferece aos usuários uma Lista de Endereços Global unificada em que o ambiente online é continuamente sincronizado com o ambiente local. 
     
     Para saber mais sobre o Ferramenta de Sincronização do Microsoft Azure Active Directory, confira [Sincronização de diretórios: mapa](/azure/active-directory/hybrid/whatis-hybrid-identity).
     
-- **Assistente de Configuração** Híbrida - O Assistente de Configuração Híbrida simplifica o processo de implantação híbrida simplificando a configuração local e do Exchange Online de recursos e serviços. Introduzido como parte do Exchange Server 2010 Service Pack 2, o Assistente de Configuração Híbrida é executado apenas nas organizações locais e possui os seguintes componentes: 
+- **Assistente de Configuração** Híbrida - O Assistente de Configuração Híbrida simplifica o processo de implantação híbrida simplificando a configuração local e Exchange Online de recursos e serviços. Introduzido como parte do Exchange Server 2010 Service Pack 2, o Assistente de Configuração Híbrida é executado apenas nas organizações locais e possui os seguintes componentes: 
     
   - Um assistente do Centro de Administração do Exchange (EAC) que orienta os administradores por meio do processo ponta a ponta para configurar uma implantação híbrida.
     
@@ -133,8 +133,8 @@ A Microsoft oferece diversas ferramentas para ajudar na migração de um ambient
     
     Para saber mais sobre o Assistente de Configuração Híbrida, confira [Assistente de Configuração Híbrida](/exchange/hybrid-configuration-wizard).
     
-- **Controle remoto Windows PowerShell** - Como parte da Atualização de Serviço do Exchange Online de dezembro de 2011, o Windows PowerShell remoto pode ser usado para ajudar a solucionar erros de migração. Por exemplo, os administradores podem exibir informações de diagnósticos para lotes de migração, assim como as estatísticas de migração e as informações de diagnóstico para usuários baseadas em seus endereços SMTP principais. 
+- **Controle remoto Windows PowerShell** - Como parte da Atualização de Serviço Exchange Online de dezembro de 2011, os Windows PowerShell remotos podem ser usados para ajudar a solucionar erros de migração. Por exemplo, os administradores podem exibir informações de diagnósticos para lotes de migração, assim como as estatísticas de migração e as informações de diagnóstico para usuários baseadas em seus endereços SMTP principais. 
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição do [serviço do Exchange Online.](exchange-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte, [Exchange Online descrição do serviço.](exchange-online-service-description.md)

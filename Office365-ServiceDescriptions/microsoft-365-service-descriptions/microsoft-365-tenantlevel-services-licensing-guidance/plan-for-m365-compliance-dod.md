@@ -109,7 +109,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 | | Gerenciamento de registros: controle de versão de registros | Disponível |
 | | Gerenciamento de registros: registros regulatórios | Disponível |
 | | Gerenciamento de registros: use SharePoint classificação syntex para aplicar rótulos de registro | No backlog de engenharia |
-| **Gerenciamento de risco interno** | Sistema de Proteção de Dados do cliente | Disponível |
+| **Gerenciamento de riscos insider** | Sistema de Proteção de Dados do cliente | Disponível |
 | | Gerenciamento de riscos insider: painel de caso, Explorador de Conteúdo e modelos de aviso | Em implantação |
 | | Insider Risk Management: Escalone para investigação para Advanced eDiscovery | Em implantação |
 | | Insider Risk Management: Roubo de dados ao separar usuários | Em implantação |

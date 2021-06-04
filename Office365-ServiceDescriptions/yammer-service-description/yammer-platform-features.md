@@ -29,7 +29,7 @@ Faça a integração dos aplicativos empresariais corporativos adicionando dados
   
 ## <a name="browser-extension"></a>Extensão do navegador
 
-Adiciona uma guia do Yammer ao menu do navegador e permite compartilhar rapidamente qualquer página da Web que você está exibindo selecionando o ícone do Yammer, escolhendo em qual grupo você gostaria de postar sua mensagem e compartilhando seus próprios comentários com um link para a página. A extensão também informará se houver uma conversa do Yammer existente sobre a página. 
+Adiciona uma guia Yammer ao menu do navegador e permite compartilhar rapidamente qualquer página da Web que estiver exibindo selecionando o ícone Yammer, escolhendo em qual grupo você gostaria de postar sua mensagem e compartilhando seus próprios comentários com um link para a página. A extensão também informará se houver uma conversa do Yammer existente sobre a página. 
 
 ## <a name="embeddable-feeds"></a>Feeds inbeddable
 
@@ -39,12 +39,12 @@ Um único trecho do código permite que você incorpore facilmente qualquer feed
 
 Adicione os botões de Curtir e Seguir aos seus aplicativos empresariais para que os funcionários possam interagir com objetos fora do Yammer.
   
-## <a name="yammer-connect-login"></a>Logon de conexão do Yammer
+## <a name="yammer-connect-login"></a>Yammer logon de conexão
 
-Adicione o botão Logon aos aplicativos de negócios para que os usuários possam se registrar e fazer logon facilmente com suas contas do Yammer.
+Adicione o botão Logon aos aplicativos de negócios para que os usuários possam se registrar e fazer logon facilmente com suas Yammer contas.
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição do serviço [do Yammer.](yammer-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Yammer descrição do serviço.](yammer-service-description.md)
   
 

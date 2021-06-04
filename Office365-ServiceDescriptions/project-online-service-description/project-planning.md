@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: Os seguintes recursos de planejamento de projeto estão disponíveis no Project Online.
+description: Os seguintes recursos de planejamento de projeto estão disponíveis Project Online.
 ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,11 +21,11 @@ ms.locfileid: "51651046"
 ---
 # <a name="project-planning"></a>Planejamento de projeto
 
-Os seguintes recursos de planejamento de projeto estão disponíveis no Project Online.
+Os seguintes recursos de planejamento de projeto estão disponíveis Project Online.
   
-Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição do serviço do Project Online](project-online-service-description.md).
+Procurando informações sobre todos os recursos do Project Online? Consulte a [descrição Project Online serviço](project-online-service-description.md).
   
-## <a name="baseline-rollup"></a>Pacote cumulativo de atualizações de linha de base
+## <a name="baseline-rollup"></a>Baseline rollup
 
 Os dados de base podem ser acumulados ou resumidos em uma linha de resumo. Saiba mais sobre [Configurar e salvar uma linha de base](https://go.microsoft.com/fwlink/p/?LinkId=271346).
   
@@ -45,7 +45,7 @@ Marque os principais objetivos do seu projeto com um marco. Saiba mais sobre [Ad
 
 Filtra os planos do projeto por qualquer valor no plano. Saiba mais sobre [Criar um filtro personalizado](https://go.microsoft.com/fwlink/p/?LinkId=271341).
   
-## <a name="formulas-and-graphical-indicators"></a>Fórmulas e indicadores gráficos
+## <a name="formulas-and-graphical-indicators"></a>Formulas and graphical indicators
 
 Adicione uma imagem a uma coluna para indicar o andamento de um cronograma. Saiba mais sobre [Adicionar indicadores](https://go.microsoft.com/fwlink/p/?LinkId=271340).
   
@@ -55,7 +55,7 @@ Aplique várias linhas de agrupamento a um plano de projeto. Saiba mais sobre [A
   
 ## <a name="reports"></a>Relatórios
 
-Com o Project 2016, você pode criar relatórios profissionais, coloridos e coloridos sem precisar exportar seus dados para outro programa. Adicione imagens, gráficos, animações, links e mais tudo o que você deve ter para compartilhar de forma clara e eficaz as informações de status do projeto com os participantes e &mdash; membros da equipe. Saiba mais sobre [a criação de um relatório de projeto.](https://go.microsoft.com/fwlink/p/?LinkId=271349)
+Com Project 2016, você pode criar relatórios profissionais, coloridos e nítidos sem precisar exportar seus dados para outro programa. Adicione imagens, gráficos, animações, links e mais tudo o que você deve ter para compartilhar de forma clara e eficaz as informações de status do projeto com os participantes e &mdash; membros da equipe. Saiba mais sobre [a criação de um relatório de projeto.](https://go.microsoft.com/fwlink/p/?LinkId=271349)
   
 ## <a name="team-planner"></a>Planejador de equipe
 
@@ -63,5 +63,5 @@ Use um modo de exibição que mostre as pessoas e as suas atribuições.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Descrição do [serviço do Project Online.](project-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Project Online descrição do serviço.](project-online-service-description.md)
   

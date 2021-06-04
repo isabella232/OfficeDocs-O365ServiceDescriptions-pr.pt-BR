@@ -1,5 +1,5 @@
 ---
-title: Política e conformidade de mensagens na Proteção do Exchange Online
+title: Política e conformidade de mensagens em Proteção do Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,15 +19,15 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653343"
 ---
-# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Política e conformidade de mensagens na Proteção do Exchange Online
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Política e conformidade de mensagens em Proteção do Exchange Online
 
-Microsoft Exchange Online Protection (EOP) fornece recursos de política e conformidade de mensagens que podem ajudá-lo a gerenciar seus dados de email.
+Microsoft Exchange Online A Proteção (EOP) fornece recursos de política de mensagens e conformidade que podem ajudá-lo a gerenciar seus dados de email.
 
-Você está procurando informações sobre todas as características EOP? Consulte a descrição [do serviço de Proteção do Exchange Online](exchange-online-protection-service-description.md).
+Você está procurando informações sobre todas as características EOP? Consulte a [descrição Proteção do Exchange Online serviço](exchange-online-protection-service-description.md).
 
 ## <a name="mail-flow-rules"></a>Regras do fluxo de email
 
-As regras de fluxo de emails (também conhecidas como regras de transporte) oferecem flexibilidade para aplicar suas próprias políticas específicas da empresa ao email. As regras de fluxo de emails são feitas de critérios flexíveis, que permitem definir condições, exceções e ações a ser tomadas com base nos critérios. Para obter mais informações, consulte [Mail flow rules (transport rules) in Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0).
+As regras de fluxo de emails (também conhecidas como regras de transporte) oferecem flexibilidade para aplicar suas próprias políticas específicas da empresa ao email. As regras de fluxo de emails são feitas de critérios flexíveis, que permitem definir condições, exceções e ações a ser tomadas com base nos critérios. Para obter mais informações, consulte [Mail flow rules (transport rules) in Proteção do Exchange Online](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0).
 
 ## <a name="audit-logging"></a>Registro em log de auditoria
 
@@ -51,18 +51,18 @@ Você pode configurar as políticas de DLP no EAC, que permitem:
 
 - Detecte dados confidenciais por meio de impressão digital do documento. A impressão digital de documento ajuda você a criar facilmente tipos de informações confidenciais personalizadas com base em formulários baseados em texto que você pode usar para definir regras de fluxo de emails e políticas de DLP.
 
-- Adicione Dicas de Política, que podem ajudar a reduzir a perda de dados exibindo um aviso para os usuários do Outlook 2013, do Outlook na Web e do OWA para Dispositivos e também podem melhorar a eficácia de suas políticas permitindo relatórios falsos positivos.
+- Adicione a política Dicas, que pode ajudar a reduzir a perda de dados exibindo um aviso para o Outlook 2013, o Outlook na Web e o OWA para dispositivos e também pode melhorar a eficácia de suas políticas permitindo relatórios falsos positivos.
 
 - Revise os dados de incidentes em relatórios de DLP ou adicione seus próprios relatórios específicos usando uma ação de geração de relatórios de incidentes.
 
 > [!NOTE]
 > As políticas de DLP são aplicadas apenas ao email que entra ou sai da organização. Os emails intraorganizacionais (internos) não têm políticas de DLP aplicadas, a menos que você execute o Exchange Server 2013 com DLP local. Isso também se aplica às dicas de política de DLP, que informam aos usuários sobre possíveis violações de política antes que dados confidenciais sejam enviados por engano a destinatários não autorizados.
 
-Para saber mais sobre DLP, consulte [Prevenção contra perda de dados no Exchange Online](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
+Para saber mais sobre DLP, consulte [Prevenção contra perda de dados em Exchange Online](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 
 ## <a name="office-365-message-encryption"></a>Criptografia de Mensagem do Office 365
 
-A Criptografia de Mensagens do Office 365, parte da Proteção de Informações do Azure, é um serviço online que permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Os clientes locais podem acessar a Criptografia de Mensagens do Office 365 comprando a Proteção de Informações do Azure e usando a Proteção do Exchange Online para configurar o fluxo de emails por meio do Exchange Online. Para saber mais sobre a Criptografia de Mensagens do Office 365 no Exchange Online, consulte Criptografia de Mensagens do [Office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) na descrição do serviço do Exchange Online.
+Criptografia de Mensagens do Office 365, uma parte da Proteção de Informações do Azure, é um serviço online que permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Os clientes locais podem acessar Criptografia de Mensagens do Office 365 comprando a Proteção de Informações do Azure e usando o Proteção do Exchange Online para configurar o fluxo de emails por meio Exchange Online. Para saber mais sobre Criptografia de Mensagens do Office 365 em Exchange Online, [consulte Criptografia de Mensagens do Office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) na descrição Exchange Online serviço.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Recursos de diretiva e conformidade de mensagens através de opções EOP
 
@@ -74,7 +74,7 @@ A Criptografia de Mensagens do Office 365, parte da Proteção de Informações 
 |Criptografia de Mensagem do Office 365|Sim<sup>4</sup>|Sim|Sim<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> As condições de regra de fluxo de emails disponíveis, exceções e ações diferem ligeiramente entre o EOP e o Exchange Online. Essas diferenças são notadas nas condições de regra de fluxo de email e exceções [(predicados)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) no Exchange Online e ações de regra de fluxo de email [no Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
-> <sup>2</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio. <br/>
-> <sup>3</sup> Dicas de política de DLP não estão disponíveis para clientes do Exchange Enterprise CAL com Serviços. <br/>
-> <sup>4</sup> Suportado para clientes locais que compram o complemento da Proteção de Informações do Azure e usam a Proteção do Exchange Online para rotear emails pelo Exchange Online. Para a experiência da área de trabalho, além do complemento proteção de informações do Azure, os Aplicativos do Microsoft 365 para empresas precisam ser comprados. <br/>
+> <sup>1</sup> As condições de regra de fluxo de email disponíveis, exceções e ações diferem ligeiramente entre o EOP e Exchange Online. Essas diferenças são notadas nas condições de regra de fluxo de email e exceções [(predicados) em](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) Exchange Online e ações de regra de fluxo de email [em Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
+> <sup>2</sup> Os relatórios de auditoria do EOP são um subconjunto dos relatórios de auditoria do Exchange Online que excluem informações sobre caixas de correio.<br/>
+> <sup>3</sup> Dicas de política de DLP não estão disponíveis para clientes do Exchange Enterprise CAL com Serviços.<br/>
+> <sup>4</sup> Com suporte para clientes locais que compram o complemento da Proteção de Informações do Azure e usam Proteção do Exchange Online para rotear emails por meio Exchange Online. Para a experiência da área de trabalho, além do complemento proteção de informações do Azure, Microsoft 365 Apps para Grandes Empresas precisa ser comprado. <br/>

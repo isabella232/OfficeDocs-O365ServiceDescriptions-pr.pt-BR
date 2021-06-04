@@ -25,7 +25,7 @@ Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
   
 ## <a name="online-help"></a>Ajuda online
 
-Artigos e vídeos de ajuda estão disponíveis em qualquer link de ajuda em linha no serviço, incluindo o ícone de ajuda na barra de navegação superior do portal do Office 365 e do Centro de administração do Microsoft 365. Você também pode pesquisar toda a ajuda Office 365 em [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Artigos e vídeos de ajuda estão disponíveis em qualquer link de ajuda em linha no serviço, incluindo o ícone de ajuda na barra de navegação superior do portal Office 365 e do centro de administração Microsoft 365. Você também pode pesquisar toda a ajuda Office 365 em [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Treinamento
 
@@ -90,15 +90,15 @@ Na home page da comunidade Office 365, os clientes podem acessar os seguintes re
     
 Para saber mais, visite a comunidade do [Office 365](https://techcommunity.microsoft.com/).
   
-## <a name="manage-office-365-guidance"></a>Gerenciar diretrizes do Office 365
+## <a name="manage-office-365-guidance"></a>Gerenciar Office 365 orientação
 
-Os profissionais de TI de grandes organizações podem visitar a home page gerenciar documentação do Office 365. Esta página fornece links para diretrizes de implantação complexas destinadas a grandes organizações.
+Os profissionais de TI de grandes organizações podem visitar a home page Gerenciar Office 365 documentação. Esta página fornece links para diretrizes de implantação complexas destinadas a grandes organizações.
   
-Para obter mais informações, visite [Gerenciar o Office 365](/Office365/).
+Para obter mais informações, visite [Gerenciar Office 365](/Office365/).
   
 ## <a name="other-self-help-resources"></a>Outros recursos de autoajuda
 
-Além da Comunidade do Office 365 e da ajuda online, o Office 365 inclui os seguintes recursos de auto-ajuda:
+Além da ajuda Office 365 Community online, Office 365 inclui os seguintes recursos de auto-ajuda:
   
 - **Ferramenta de solução de problemas para o Office 365** Depois de responder a pequenas perguntas sobre seu problema, a ferramenta de solução de problemas para o Office 365 sugere ferramentas úteis e informações com base em suas respostas. Para usar a ferramenta, acesse a página [Ferramenta de solução de problemas para o Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) da comunidade Office 365. 
     
@@ -149,4 +149,4 @@ Os recursos de ajuda e treinamento estão disponíveis nos seguintes idiomas.
    
 ## <a name="feature-availability"></a>Disponibilidade do recurso
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte a descrição do serviço de plataforma do [Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Microsoft 365 descrição](office-365-platform-service-description.md)do serviço Office 365 plataforma.

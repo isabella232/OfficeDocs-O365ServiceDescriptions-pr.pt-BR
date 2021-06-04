@@ -22,7 +22,7 @@ ms.locfileid: "51653383"
 # <a name="blackberry"></a>BlackBerry
 
 > [!NOTE]
-> Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar dispositivos microsoft Exchange ActiveSync ou uma oferta da Pesquisa em Movimento (RIM, a solução de email sem fio BlackBerry) para executar o Blackberry Enterprise Server (BES). 
+> Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar dispositivos microsoft Exchange ActiveSync ou uma oferta do Research in Motion (RIM, a solução de email sem fio BlackBerry) para executar o Blackberry Enterprise Server (BES). 
   
 Os dispositivos BlackBerry® podem acessar email e documentos no Office 365.
   
@@ -34,7 +34,7 @@ Para obter mais informações, [consulte Configurar email em um BlackBerry](http
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>BlackBerry® 7 e dispositivos mais antigos com Microsoft Exchange Online
 
-Você pode usar o BlackBerry® Internet Service (BIS) para conectar BlackBerry 7 e smartphones anteriores ao Exchange Online. O BIS permite que os usuários blackberry acessem suas contas de email pela Internet por meio de IMAP ou POP.
+Você pode usar o BlackBerry® Internet Service (BIS) para conectar o BlackBerry 7 e smartphones anteriores ao Exchange Online. O BIS permite que os usuários blackberry acessem suas contas de email pela Internet por meio de IMAP ou POP.
   
 A maioria das operadoras móveis tem BIS configurada. Os usuários finais precisarão configurar a sincronização de email, calendário e contatos usando as instruções nos seguintes artigos da Base de Dados de Conhecimento:
   
@@ -49,9 +49,9 @@ A maioria das operadoras móveis tem BIS configurada. Os usuários finais precis
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>Dispositivos BlackBerry com SharePoint Online
 
-Para o acesso SharePoint Online da Microsoft, os usuários BlackBerry podem usar o navegador nativo em seu smartphone BlackBerry para acessar os sites SharePoint Online. Os usuários do BlackBerry podem exibir documentos do Word, Excel e PowerPoint usando o Office para renderização da Web no navegador móvel.
+Para o acesso SharePoint Online da Microsoft, os usuários BlackBerry podem usar o navegador nativo em seu smartphone BlackBerry para acessar os sites SharePoint Online. Os usuários do BlackBerry podem exibir documentos do Word, Excel e PowerPoint usando Office para a renderização da Web no navegador móvel.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos nos planos do Office 365, consulte a descrição do serviço da plataforma [do Microsoft 365 e do Office 365.](office-365-platform-service-description.md)
+Para exibir a disponibilidade de recursos em Office 365 planos, consulte [Microsoft 365 descrição do](office-365-platform-service-description.md)serviço Office 365 plataforma.
   
