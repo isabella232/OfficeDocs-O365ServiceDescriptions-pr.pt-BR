@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O Centro de Conformidade de Segurança foi projetado para ajudá-lo a gerenciar recursos de &amp; conformidade Office 365 sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699097"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798457"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -56,7 +56,7 @@ Para ver as opções de licenciamento de seus usuários para se beneficiarem de 
 |[Criptografia de Mensagens do Office 365 básico (OME)](/microsoft-365/compliance/ome)  |Não |Não |Não |Não |Sim |Sim |Sim |Não |
 |[Criptografia de Mensagem Avançada do 365 Office](/microsoft-365/compliance/ome-advanced-message-encryption)  |Não |Não |Não |Não |Não |Sim |Sim |Não |
 |[Gerenciamento de Acesso Privilegiado](/microsoft-365/compliance/privileged-access-management-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
-|[Chave do Cliente](/microsoft-365/compliance/customer-key-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
+|[Chave de Cliente](/microsoft-365/compliance/customer-key-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
 
 <sup>1</sup> Os logs de auditoria de todos os planos que incluem a Auditoria Básica (exceto o E5) são mantidos por 90 dias. Como o E5 inclui Auditoria Avançada, os logs de auditoria são mantidos por até um ano. Além disso, você pode usar a [API Office 365 Atividade](/office/office-365-management-api/office-365-management-activity-api-reference) de Gerenciamento para recuperar eventos do log de auditoria unificado.
 
@@ -116,7 +116,7 @@ Para ver as opções de licenciamento de seus usuários para se beneficiarem de 
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidade do Centro de Conformidade de &amp; Segurança no Office 365 operado pela 21Vianet
 
-O Centro de Conformidade está disponível no plano E3 para Office 365 operado pela 21Vianet.
+O Centro de Conformidade está disponível no plano E3 para Office 365 [operado pela 21Vianet](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet).
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Disponibilidade &amp; do Centro de Conformidade de Segurança Office 365 Alemanha
 

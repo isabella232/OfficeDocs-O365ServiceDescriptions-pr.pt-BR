@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 3b8748a07bee29e12552d096e56eae84cfdc4c04
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545918"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798477"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -127,7 +127,7 @@ Os recursos listados nesta seção interagem apenas com dados no Project para o 
 |**Segurança e gerenciamento de usuários**||||||
 |Office Grupos Modernos | Crie uma equipe de projeto para colaborar e facilmente configurar uma coleção de recursos para os membros da equipe compartilharem. | Sim | Sim | Sim | Sim |
 |**Aplicativos de terceiros**||||||
-|Conexão para *Project para a Web* com aplicativos de terceiros <sup>4</sup> | Use um aplicativo personalizado ou de terceiros para exibir, criar, atualizar ou excluir Project dados em qualquer tabela Project nativa. | Não | Sim | Sim | Sim |
+|Conexão para *Project para a Web* com aplicativos de terceiros <sup>4</sup> | Use um aplicativo personalizado ou de terceiros para exibir, criar, atualizar ou excluir Project dados em qualquer tabela Project nativa. | Exibir somente<sup>11</sup> | Sim | Sim | Sim |
 
 ### <a name="project-online-features"></a>Recursos do Project Online
 
@@ -212,6 +212,7 @@ Se o fluxo estiver isolado e não tiver nada a ver com o aplicativo Project, uma
 <sup>8</sup> Os usuários com uma assinatura Project Plano 3 ou Project Plano 5 podem enviar solicitações de envolvimento de recursos. Eles não podem revisar, atender ou aprovar solicitações de envolvimento de recursos.</br>
 <sup>9</sup> Os usuários com uma assinatura Project Plano 5 podem revisar, atender e aprovar solicitações de envolvimento de recursos.</br>
 <sup>10 O</sup> Active Directory requer uma assinatura separada. </br>
+<sup>11</sup> Somente os direitos de exibição são concedidos de dentro de um Aplicativo Do Power. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online clientes da área de trabalho
 

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece diretrizes de licenciamento Microsoft 365 conformidade para ajudar a evitar possíveis interrupções no serviço devido ao acesso não licenciado.
-ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699057"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798467"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 de licenciamento para conformidade com &amp; a segurança
 
@@ -176,7 +176,7 @@ Para obter informações sobre como configurar Microsoft Cloud App Security pol�
 
 Os administradores podem escopo de implantações MCAS para usuários licenciados usando os recursos de implantação com escopo disponíveis no serviço. Para obter mais informações, consulte [Implantação com escopo](/cloud-app-security/scoped-deployment).
 
-## <a name="compliance-manager"></a>Gerenciador de Conformidade
+## <a name="compliance-manager"></a>Gerente de Conformidade
 
 Simplifique a conformidade e ajude a reduzir o risco com o Gerenciador de Conformidade. O Gerenciador de Conformidade ajuda as organizações a atender aos requisitos de regulamentos, padrões, políticas da empresa ou outras estruturas de controle desejadas.
 
@@ -198,7 +198,7 @@ Os clientes com licenças E1 e E3/G3 poderão acessar apenas a avaliação padr�
 
 O Gerenciador de Conformidade é provisionado por padrão para seu locatário. Os administradores configuram permissões de usuário e atribuem funções para que usuários não administradores em sua organização possam começar a usar o Gerenciador de Conformidade. Para obter mais informações, [consulte Get started with Compliance Manager: Set user permissions and assign roles](/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender para Ponto de Extremidade
+## <a name="microsoft-defender-for-endpoint"></a>Proteção Avançada contra Ameaças do Microsoft Defender
 
 O Microsoft Defender for Endpoint (anteriormente Microsoft Defender ATP) é uma solução de segurança de ponto de extremidade que inclui Gerenciamento de Vulnerabilidades e avaliação baseadas em riscos; recursos de redução de superfície de ataque; proteção de próxima geração baseada em comportamento e com energia na nuvem; detecção e resposta de ponto de extremidade (EDR); investigação automática e correção; e serviços de busca gerenciados. Consulte [a página do Microsoft Defender para Ponto de](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) Extremidade para saber mais.
 
@@ -303,8 +303,6 @@ Microsoft 365 E5/A5/G5, conformidade Microsoft 365 E5/A5/G5, Microsoft 365 Prote
 
 Microsoft 365 E5/A5/G5, conformidade Microsoft 365 E5/A5/G5, proteção de informações do Microsoft 365 E5/A5/G5 e Governança fornecem os direitos para que um usuário se beneficie da aplicação automática de rótulos de retenção com base em classificadores treináveis.
 
-Para direitos específicos por licença, consulte a comparação de licenciamento de conformidade Microsoft 365 conformidade detalhada. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
 Por padrão, os recursos de Governança de Informações são habilitados no nível do locatário para todos os usuários dentro do locatário. Para obter informações sobre como configurar a Governança de Informações para aplicar o auto-rótulo e políticas para usuários licenciados, consulte [Microsoft Information Governance in Microsoft 365](/microsoft-365/compliance/manage-information-governance).
@@ -322,8 +320,6 @@ O Gerenciamento de Registros ajuda as organizações a cumprir suas obrigações
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Proteção de Informações e Governança E5/A5/G5 e Office 365 E5/A5/G5 fornecem os direitos para um usuário se beneficiar do Gerenciamento de Registros, incluindo declarar itens como registros ou registros regulamentares, aplicar automaticamente rótulos de retenção ou registro e executar processos de revisão de disposição (excluindo automaticamente a aplicação de um rótulo de retenção com base em classificadores treineis).
 
 Microsoft 365 E5/A5/G5, conformidade Microsoft 365 E5/A5/G5 e Microsoft 365 Proteção de Informações e Governança fornecem os direitos para que um usuário se beneficie da aplicação automática de rótulos de retenção ou registro com base em classificadores com treinamento.
-
-Para direitos específicos por licença, consulte a comparação de licenciamento de conformidade Microsoft 365 conformidade detalhada. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 

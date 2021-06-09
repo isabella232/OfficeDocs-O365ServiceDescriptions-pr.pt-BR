@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: O Microsoft Defender for Office 365 é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malwares e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 76b4d2e53c8a2942d4b974c5289c9ae4c8854b72
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545968"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798447"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -69,7 +69,7 @@ Estamos continuando a adicionar novos recursos ao Defender para Office 365. Para
 
 - [Roteiro do Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
-- [Novidades do Microsoft Defender para Office 365](/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+- [Novidades no Microsoft Defender para Office 365 - Office 365 | Microsoft Docs](/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365)
 
 ## <a name="requirements-for-microsoft-defender-for-office-365"></a>Requisitos do Microsoft Defender para Office 365
 
