@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece diretrizes de licenciamento Microsoft 365 conformidade para ajudar a evitar possíveis interrupções no serviço devido ao acesso não licenciado.
-ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: 2f1f048de8dd0de2416c87f2fbf985d8ee47b9b2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798467"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906747"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 de licenciamento para conformidade com &amp; a segurança
 
@@ -176,7 +176,7 @@ Para obter informações sobre como configurar Microsoft Cloud App Security pol�
 
 Os administradores podem escopo de implantações MCAS para usuários licenciados usando os recursos de implantação com escopo disponíveis no serviço. Para obter mais informações, consulte [Implantação com escopo](/cloud-app-security/scoped-deployment).
 
-## <a name="compliance-manager"></a>Gerente de Conformidade
+## <a name="compliance-manager"></a>Gerenciador de Conformidade
 
 Simplifique a conformidade e ajude a reduzir o risco com o Gerenciador de Conformidade. O Gerenciador de Conformidade ajuda as organizações a atender aos requisitos de regulamentos, padrões, políticas da empresa ou outras estruturas de controle desejadas.
 
@@ -198,7 +198,7 @@ Os clientes com licenças E1 e E3/G3 poderão acessar apenas a avaliação padr�
 
 O Gerenciador de Conformidade é provisionado por padrão para seu locatário. Os administradores configuram permissões de usuário e atribuem funções para que usuários não administradores em sua organização possam começar a usar o Gerenciador de Conformidade. Para obter mais informações, [consulte Get started with Compliance Manager: Set user permissions and assign roles](/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-for-endpoint"></a>Proteção Avançada contra Ameaças do Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender para Ponto de Extremidade
 
 O Microsoft Defender for Endpoint (anteriormente Microsoft Defender ATP) é uma solução de segurança de ponto de extremidade que inclui Gerenciamento de Vulnerabilidades e avaliação baseadas em riscos; recursos de redução de superfície de ataque; proteção de próxima geração baseada em comportamento e com energia na nuvem; detecção e resposta de ponto de extremidade (EDR); investigação automática e correção; e serviços de busca gerenciados. Consulte [a página do Microsoft Defender para Ponto de](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) Extremidade para saber mais.
 
@@ -297,7 +297,17 @@ Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3, Exchan
 
 Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 e SharePoint Plano 2 fornecem os direitos para um usuário se beneficiar de uma política de retenção básica SharePoint ou OneDrive e/ou aplicar manualmente um rótulo de retenção não registrado a arquivos no SharePoint ou OneDrive.
 
-Microsoft 365 E5/A5/G5/E3/A3 e Office 365 E5/A5/G5/E3/A3 fornecem os direitos para um usuário se beneficiar de uma política de retenção Teams.
+As organizações podem usar políticas de retenção para manter ou excluir Teams mensagens de acordo com suas políticas. Isso inclui o gerenciamento de mensagens em Teams chats e conversas.
+
+As licenças a seguir fornecem os direitos para um usuário se beneficiar de uma política de Teams de retenção:
+
+- Microsoft 365 E5/G5/A5/E3/G3/A3
+- Office 365 E5/G5/A5/E3/G3/A3/F3/E1/G1
+
+Observe que, para usuários com as seguintes licenças, o período mínimo de retenção ou exclusão suportado é de 30 dias:
+
+- Microsoft 365 F1/F3, Business Basic, Business Standard e Business Premium
+- Office 365 E1/G1 e F3
 
 Microsoft 365 E5/A5/G5, conformidade Microsoft 365 E5/A5/G5, Microsoft 365 Proteção de Informações e Governança E5/A5/G5, e o Office 365 E5/A5 fornecem os direitos para que um usuário se beneficie da aplicação automática de rótulos ou políticas de retenção, da aplicação de rótulos ou políticas de retenção padrão, iniciando o período de retenção de um rótulo de retenção com base em um evento personalizado, disparando uma revisão de disposição manual no final do período de retenção do rótulo, importando dados de terceiros por meio de conectores de dados nativos, declarando um arquivo um registro, descobrindo o conteúdo rotulado e monitorando a atividade de rotulagem.
 

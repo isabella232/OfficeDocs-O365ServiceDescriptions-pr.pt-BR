@@ -1,5 +1,5 @@
 ---
-title: Visio para a Web
+title: Visio detalhes dos recursos
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio para a Web estende sua experiência do Microsoft Visio para o navegador, onde você pode criar e editar diagramas salvos na nuvem. Microsoft 365 os clientes podem exibir, imprimir e compartilhar diagramas e inserir comentários em uso.
-ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e8e395c91d0bb7c018dd4451a6491c2b209ec4f2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653633"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906757"
 ---
-# <a name="visio-for-the-web"></a>Visio para a Web
+# <a name="visio-features-detail"></a>Visio detalhes dos recursos
 
 Visio para a Web estende sua experiência do Microsoft Visio para o navegador, onde você pode criar e editar diagramas salvos na nuvem. Microsoft 365 os clientes podem exibir, imprimir e compartilhar diagramas e inserir comentários em uso. Se você tiver uma assinatura Visio, poderá usar recursos adicionais, como os descritos nas seções a seguir.
   
