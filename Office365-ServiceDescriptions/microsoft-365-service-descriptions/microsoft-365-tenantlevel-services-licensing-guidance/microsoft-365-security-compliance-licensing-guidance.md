@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece diretrizes de licenciamento Microsoft 365 conformidade para ajudar a evitar possíveis interrupções no serviço devido ao acesso não licenciado.
-ms.openlocfilehash: dc52a66990114f9c74ca815c9525f34175e7995b
-ms.sourcegitcommit: 0bf671ec5b5ba16bcdc730b88e2607d85a3d4497
+ms.openlocfilehash: 00124a252a0e14a4ac78854385817a6c949e9f67
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52950160"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021964"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 de licenciamento para conformidade com &amp; a segurança
 
@@ -92,7 +92,7 @@ Por padrão, os recursos do Microsoft Defender para Identidade são habilitados 
 
 No momento, os serviços do Microsoft Defender para Identidade não são capazes de limitar recursos a usuários específicos. Você deve licenciar todos os usuários que pretende beneficiar.
 
-## <a name="microsoft-defender-for-office-365"></a>Obter o Microsoft Defender para Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
 O Microsoft Defender para Office 365 (anteriormente Office 365 Proteção Avançada contra Ameaças) ajuda a proteger as organizações contra ataques sofisticados, como phishing e malware de dia zero. O Microsoft Defender para Office 365 também fornece informações ativas correlacionando sinais de uma ampla variedade de dados para ajudar a identificar, priorizar e fornecer recomendações sobre como lidar com possíveis ameaças.
 
@@ -260,7 +260,9 @@ Os usuários se beneficiam por terem a capacidade de aplicar manualmente rótulo
 
 O Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, Plano AIP 1 e Plano 2 da AIP fornecem os direitos para um usuário se beneficiar da rotulagem de sensibilidade manual.
 
-O Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Plano 1 da AIP e Plano 2 da AIP fornecem os direitos para um usuário se beneficiar da aplicação e exibição de rótulos de sensibilidade no Power BI e para proteger dados quando exportados do Power BI para Excel, PowerPoint ou PDF. 
+O Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Plano 1 da AIP e Plano 2 da AIP fornecem os direitos para um usuário se beneficiar da aplicação e exibição de rótulos de sensibilidade no Power BI e para proteger dados quando exportados do Power BI para Excel, PowerPoint ou PDF.
+
+O Microsoft 365 Business Premium e o Enterprise Mobility fornecem os direitos de usar o módulo [do AIPService](/powershell/azure/aip/overview#aipservice) PowerShell para administrar o serviço de proteção de Gerenciamento de Direitos do Azure para a Proteção de Informações do Azure.
 
 > [!NOTE]
 > O Power BI está incluído no Microsoft 365 E5/A5/G5; em todos os outros planos, o Power BI deve ser licenciado separadamente.
@@ -275,9 +277,11 @@ Por padrão, os recursos de proteção de informações são habilitados no nív
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário licenciados para o serviço?
 
-Exceto ao usar o recurso de scanner AIP, as políticas podem ser escopo para grupos específicos ou usuários e registros podem ser editadas para impedir que usuários não licenças executam recursos de classificação ou rotulagem. Para obter instruções sobre como escopo de implantações AIP, consulte [Configuring the Azure Information Protection policy](/azure/information-protection/configure-policy).
+Exceto ao usar o recurso de scanner AIP, as políticas podem ser escopo para grupos específicos ou usuários e registros podem ser editadas para impedir que usuários não licenças executam recursos de classificação ou rotulagem.
 
 Para o recurso de scanner AIP, a Microsoft não se compromete a fornecer recursos de classificação, rotulagem ou proteção de arquivos para usuários que não estão licenciados.
+
+Para obter mais informações, [consulte Create and publish sensitivity labels](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy) and Understanding the [Azure Information Protection unified labeling scanner](/azure/information-protection/deploy-aip-scanner).
 
 ## <a name="information-governance"></a>Governança de Informações
 
