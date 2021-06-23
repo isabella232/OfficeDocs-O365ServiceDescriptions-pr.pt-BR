@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Saiba mais sobre Microsoft Teams disponibilidade de recursos e serviços em Microsoft 365 e Office 365 planos.
-ms.openlocfilehash: 12aaf9320b3cb1fe62b784b8900f6cafcccb4025
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
+ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906767"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077515"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
@@ -29,16 +29,17 @@ A tabela a seguir lista os principais recursos Microsoft Teams disponíveis nos 
 
 | Recurso | Pequena empresa | Enterprise planos | CCG | GCC - Alto | DOD | Educação |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Chat  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Teams  <br/> |Sim <br/> |Sim <br/> |Sim <br/> |Sim<sup>1</sup>  <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
-|Canais - Standard  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Canais - Privado  <br/> |Sim  <br/> |Sim<sup>2</sup>  <br/> |Sim <br/> |Não  <br/> |Não <br/> |Sim  <br/> |
-|Reuniões  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Compartilhamento de tela PowerPoint área de trabalho de áudio/vídeo <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Voz  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>3</sup>  <br/> |Sim<sup>3</sup>  <br/> |Sim  <br/> |
-|Audioconferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>3</sup>  <br/> |Sim<sup>3</sup>  <br/> |Sim  <br/> |
-|Aplicativos, Bots, & Conectores  <br/> |Sim  <br/> |Sim  <br/> |Sim<sup>5</sup>  <br/> |Sim<sup>5</sup>  <br/> |Sim<sup>4,5</sup>  <br/> |Sim  <br/> |
-|Eventos ao vivo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não<sup>6</sup>  <br/> |Não<sup>6</sup>  <br/> |Sim  <br/> |
+|Chat |Sim |Sim |Sim |Sim |Sim |Sim |
+|Teams |Sim|Sim|Sim|Sim<sup>1</sup> |Sim<sup>1</sup> |Sim |
+|Canais - Standard |Sim |Sim |Sim |Sim |Sim |Sim |
+|Canais - Privado |Sim |Sim<sup>2</sup> |Sim|Não |Não|Sim |
+|Reuniões |Sim |Sim |Sim |Sim |Sim |Sim |
+|Webinars |Sim |Sim |Não |Não |Não |Sim |
+|Compartilhamento de tela PowerPoint área de trabalho de áudio/vídeo|Sim |Sim |Sim |Sim |Sim |Sim |
+|Voz |Sim |Sim |Sim |Sim<sup>3</sup> |Sim<sup>3</sup> |Sim |
+|Audioconferência |Sim |Sim |Sim |Sim<sup>3</sup> |Sim<sup>3</sup> |Sim |
+|Aplicativos, Bots, & Conectores |Sim |Sim |Sim<sup>5</sup> |Sim<sup>5</sup> |Sim<sup>4,5</sup> |Sim |
+|Eventos ao vivo |Não |Sim |Sim |Não<sup>6</sup> |Não<sup>6</sup> |Sim |
 
 <sup>1</sup> Microsoft Teams no GCC-High e o DOD suportam 2500 membros em uma equipe individual.<br/>
 <sup>2</sup> O Microsoft Planner não está disponível no momento para acessar em canais privados.<br/>
