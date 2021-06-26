@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: O Microsoft Defender for Office 365 é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malwares e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: a4a83e8be24d0afd07f453a5e0fafd3c19aaa6ba
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798447"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140813"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -75,6 +75,25 @@ Estamos continuando a adicionar novos recursos ao Defender para Office 365. Para
 
 O Defender Office 365 pode ser usado com qualquer agente de transferência de email SMTP, como Microsoft Exchange Server. Para obter informações sobre os sistemas operacionais, navegadores da Web e idiomas com suporte do Defender para Office 365, consulte [as](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)seções "Navegadores com suporte" e "Idiomas suportados" no centro de administração do Exchange em Proteção do Exchange Online .
 
+## <a name="which-users-or-mailboxes-need-to-be-licensed"></a>Quais usuários ou caixas de correio precisam ser licenciadas?
+
+Para os locatários do Microsoft Defender Office 365 Plano 1, as licenças devem ser adquiridas para usuários ou caixas de correio que estão abaixo de um ou mais dos seguintes cenários:
+
+- Qualquer usuário que acessa uma caixa de correio que se beneficia do Defender para Office 365 proteção.
+- Caixas de correio compartilhadas que se beneficiam do Defender para Office 365 proteção.
+- Se Cofre Proteção de anexos para SharePoint, OneDrive for Business ou Teams estiver Teams, todos os usuários que acessam SharePoint, OneDrive for Business ou Teams.
+- Qualquer usuário que usa Microsoft 365 Apps ou Teams quando Cofre de links está habilitado.
+
+Para os locatários do Microsoft Defender Office 365 Plano 2, as licenças devem ser adquiridas para usuários ou caixas de correio que estão abaixo de um ou mais dos seguintes cenários:
+
+- Todos Exchange Online usuários no locatário. Isso porque os recursos e recursos do Plano 2 protegem todos os usuários no locatário.
+- Todas as caixas de correio compartilhadas no locatário.
+- Se Cofre Proteção de anexos para SharePoint, OneDrive for Business ou Teams estiver Teams, todos os usuários que acessam SharePoint, OneDrive for Business ou Teams.
+- Qualquer usuário que usa Microsoft 365 Apps ou Teams quando Cofre de links está habilitado.
+
+> [!NOTE]
+> Office 365 E5, Microsoft 365 E5 Security e Microsoft 365 E5 incluem o Microsoft Defender para licenças Office P2 e Microsoft 365 Business Premium inclui o Microsoft Defender para licenças Office 365 P1.
+
 ## <a name="feature-availability-across-defender-for-office-365-plans"></a>Disponibilidade de recursos no Defender para Office 365 planos
 
 Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado, ele normalmente refere-se à família de serviços do Office 365 Enterprise.<br><br>
@@ -82,7 +101,7 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 | Recurso | Microsoft Defender para Office 365 Plano 1 | Microsoft Defender para Office 365 Plano 2 | Microsoft 365 E5 /A5 Security|
 |:-----|:-----|:-----|:-----|
 |*Configuração, proteção e detecção*|
-|[Anexos seguros](#safe-attachments)|Sim|Sim|Sim|
+|[Anexos Seguros](#safe-attachments)|Sim|Sim|Sim|
 |Cofre Anexos no Teams|Sim|Sim|Sim|
 |[Links Seguros](#safe-links)|Sim|Sim|Sim|
 |[Documentos Seguros](#safe-documents)|Não|Não|Sim|
@@ -95,10 +114,10 @@ Todos os recursos estão listados abaixo. Quando o Exchange Online é mencionado
 |Investigação de ameaças (investigação avançada de ameaças)|[Detecções em tempo real](#real-time-detections)|[Explorador](#explorer)|[Explorador](#explorer)|
 |[Resposta automatizada a incidentes](#automated-incident-response)|Não|Sim|Sim|
 |[Treinamento de simulação de ataque](#attack-simulation-training)|Não|Sim|Sim|
-|*Integração [com Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection)*|Não|Sim|Sim|
+|*Integração com [Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection)*|Não|Sim|Sim|
 
 > [!NOTE]
-> Se o locatário tiver apenas o Microsoft Office Defender para uma licença de avaliação do Plano P2 ou uma licença de avaliação do Office 365 E5, sem outra licença qualificada para o Microsoft 365 Defender, você não poderá acessar o Microsoft 365 Defender. Para saber mais sobre a licença MTP, [consulte Microsoft 365 requisitos do Defender.](/microsoft-365/security/mtp/prerequisites)
+> Se seu locatário tiver apenas o Microsoft Defender para Office licença de avaliação do Plano P2 ou uma licença de avaliação Office 365 E5, sem nenhuma outra licença qualificada para Microsoft 365 Defender, você não poderá acessar Microsoft 365 Defender. Para saber mais sobre a licença MTP, [consulte Microsoft 365 Defender requisitos](/microsoft-365/security/mtp/prerequisites).
 
 ## <a name="defender-for-office-365-capabilities"></a>Defender para Office 365 recursos
 
