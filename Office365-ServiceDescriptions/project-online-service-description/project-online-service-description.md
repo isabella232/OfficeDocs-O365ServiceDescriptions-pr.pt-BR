@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140823"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290851"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
@@ -108,6 +108,10 @@ Os recursos listados nesta seção interagem apenas com dados no Project para o 
 |Microsoft Teams integração | Colabore em projetos Microsoft Teams. <sup>1</sup> | Sim | Sim | Sim | Sim |
 |**Gerenciamento de recursos e programas** ||||||
 |Project de equipe | Gerencie uma equipe de projeto adicionando e removendo membros e definindo o calendário de trabalho. | Não | Sim | Sim | Sim |
+|Criar solicitações de<sup>recursos 12</sup> |  | View Only | View Only | Sim | Sim |
+|Aceitar uma proposta de<sup>reserva 12</sup> |  | View Only | View Only | Sim | Sim |
+|Criar e atualizar reservas para atender às solicitações de<sup>recursos 12</sup> |  | View Only | View Only | View Only | Sim |
+|Gerenciar habilidades/proficiências em seus recursos |  | View Only | View Only | Sim | Sim |
 |Roteiros | Crie roteiros visuais e interativos em projetos de Microsoft Project Online, Microsoft Project para a Web e Azure Boards projetos. <sup>2</sup> Com Project Plano 1 você tem acesso somente leitura a roteiros. Com Project Plano 3 ou Project Plano 5, você também pode criar roteiros. | Somente exibição | Somente exibição | Sim | Sim |
 |**Relatórios**<sup>3</sup> ||||||
 |Ler relatórios de *Project para os dados da Web* | Exibir relatórios completos ou personalizados e painéis para entender os dados de projeto, programa, portfólio e recursos. | Sim | Sim | Sim | Sim |
@@ -157,7 +161,7 @@ Os recursos listados nesta seção interagem apenas com dados no Project Online 
 |Aprovações de quadro de horários | Os membros da equipe podem enviar quadro de horários para aprovação. Os gerentes de recursos e supervisores podem revisar, aprovar e recusar os quadro de horários enviados. | Sim | Sim |
 |Configuração em tempo não de trabalho | Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. | Não | Sim |
 |**Colaboração** ||||
-|Anexos | Anexar documentos, imagens e outros arquivos no nível de equipe, projeto ou tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
+|Attachments | Anexar documentos, imagens e outros arquivos no nível de equipe, projeto ou tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
 |Membros externos da equipe |Colabore com pessoas de fora da sua organização concedendo a elas acesso para exibir e interagir com seus projetos, tarefas e documentos. <sup>6</sup> | Sim | Sim |
 |Sites de projeto | Crie e personalize um hub para colaboração e documentos para um projeto. | Sim | Sim |
 |Microsoft Teams integração | Colabore em projetos Microsoft Teams. <sup>1</sup> | Sim | Sim |
@@ -195,12 +199,12 @@ Os recursos listados nesta seção interagem apenas com dados no Project Online 
 
 #### <a name="notes"></a>Observações
 
-<sup>1</sup> Requer uma assinatura Office ou Microsoft 365 comercial.</br>
-<sup>2</sup> Azure Boards adquiridos separadamente.</br>
-<sup>3</sup> O relatório para Project para a Web e Project Online usando Power BI requer uma Power BI de usuário.</br>
-<sup>4</sup> Criar e usar Power Apps além do aplicativo Project que acessa o Project para a Web ou para os dados do cliente Project Online requer uma assinatura Power Apps separada.</br>
-<sup>5</sup> Limitado a 5 tabelas personalizadas.</br>
-<sup>6</sup> Project Online licenciamento para usuários externos segue a mesma política para usuários internos. Qualquer interação em um site Project Online requer uma assinatura Project Plano 3 ou Project Plano 5.</br>
+<sup>1</sup> Requer uma assinatura Office ou Microsoft 365 comercial.<br/>
+<sup>2</sup> Azure Boards adquiridos separadamente.<br/>
+<sup>3</sup> O relatório para Project para a Web e Project Online usando Power BI requer uma Power BI de usuário.<br/>
+<sup>4</sup> Criar e usar Power Apps além do aplicativo Project que acessa o Project para a Web ou para os dados do cliente Project Online requer uma assinatura Power Apps separada.<br/>
+<sup>5</sup> Limitado a 5 tabelas personalizadas.<br/>
+<sup>6</sup> Project Online licenciamento para usuários externos segue a mesma política para usuários internos. Qualquer interação em um site Project Online requer uma assinatura Project Plano 3 ou Project Plano 5.<br/>
 <sup>7</sup> Power Automate uso dentro Project está limitado ao contexto do Project aplicativo. O que isso significa é que, para gatilhos e ações, os direitos de fluxo incluídos Project podem:
 
 - Conexão a qualquer fonte de dados dentro dos direitos de uso do Project aplicativo:
@@ -208,11 +212,12 @@ Os recursos listados nesta seção interagem apenas com dados no Project Online 
   - Project dados por meio do conector do Microsoft Dataverse
 - Ser disparado diretamente de dentro do aplicativo Project (por meio de gatilho/ação integrado)
 
-Se o fluxo estiver isolado e não tiver nada a ver com o aplicativo Project, uma licença de plataforma precisará ser comprada.</br>
-<sup>8</sup> Os usuários com uma assinatura Project Plano 3 ou Project Plano 5 podem enviar solicitações de envolvimento de recursos. Eles não podem revisar, atender ou aprovar solicitações de envolvimento de recursos.</br>
-<sup>9</sup> Os usuários com uma assinatura Project Plano 5 podem revisar, atender e aprovar solicitações de envolvimento de recursos.</br>
-<sup>10 O</sup> Active Directory requer uma assinatura separada. </br>
-<sup>11</sup> Somente os direitos de exibição são concedidos de dentro de um Aplicativo Do Power. </br>
+Se o fluxo estiver isolado e não tiver nada a ver com o aplicativo Project, uma licença de plataforma precisará ser comprada.<br/>
+<sup>8</sup> Os usuários com uma assinatura Project Plano 3 ou Project Plano 5 podem enviar solicitações de envolvimento de recursos. Eles não podem revisar, atender ou aprovar solicitações de envolvimento de recursos.<br/>
+<sup>9</sup> Os usuários com uma assinatura Project Plano 5 podem revisar, atender e aprovar solicitações de envolvimento de recursos.<br/>
+<sup>10 O</sup> Active Directory requer uma assinatura separada. <br/>
+<sup>11</sup> Somente os direitos de exibição são concedidos de dentro de um Aplicativo Do Power. <br/>
+<sup>1 Microsoft Project 2</sup> Os clientes com uma licença do Plano 3/5 do Plano 3/5 só podem usar o Agendamento universal de Recursos para agendar Project e tabelas de tarefas no contexto de um projeto. <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online clientes da área de trabalho
 
@@ -309,14 +314,14 @@ Project para a Web tem algumas limitações, que são descritas na tabela a segu
 
 | Entidade/campo | Limite |
 |-------------|-------|
-|**Tarefa** ||
+|**Task** ||
 |Máx. nível de hierarquia para tarefa | 10 níveis |
 |Máx. links (sucessora + predecessora) para uma tarefa | 20 |
 |Máx. duração da tarefa folha | 1250 dias |
 |Máx. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Máx. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para tarefa | 1/1/2000 &ndash; 31/12/2149 |
-|**Projeto** ||
+|**Project** ||
 |Máx. tarefas totais do projeto | 500 |
 |Máx. duração total do projeto | 3650 dias (10 anos) |
 |Máx. total de recursos para o projeto | 150 |

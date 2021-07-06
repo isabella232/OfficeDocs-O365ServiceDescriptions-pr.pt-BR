@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e se comunicar com segurança em vários dispositivos e vários serviços Office 365 serviços. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
+ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074472"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53275600"
 ---
 # <a name="microsoft-365-suite-features"></a>Recursos do pacote Microsoft 365
 
@@ -91,10 +91,6 @@ Os grupos Microsoft 365 conecta os usuários aos colegas, informações e aplica
 
 Microsoft Kaizala é um aplicativo de gerenciamento de trabalho móvel simples e seguro, trazendo recursos exclusivos para Microsoft 365, com a capacidade de conectar e envolver pessoas dentro e fora [](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)do diretório de uma organização , incluindo funcionários contratados, fornecedores, parceiros, fornecedores, clientes e cidadãos, usando tipos de grupo grandes e flexíveis. Kaizala o modelo de diretório aberto do Kaizala permite a identidade baseada em número de telefone para fácil integração e uma experiência de usuário simples para gerenciamento de mensagens e trabalho. O aplicativo móvel Kaizala permite que os usuários enviem mensagens instantâneas e anexos, como imagens, documentos, vídeos, arquivos de áudio e muito mais, além de usar cartões de ação para pesquisas, sondagens, atribuições de trabalho, comunicados, treinamentos e muito mais. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) funciona em iPhone e Android. Para saber mais, acesse o Kaizala [site](https://products.office.com/en/business/microsoft-kaizala).
 
-## <a name="office-365-video"></a>Vídeo do Office 365
-
-Office 365 O vídeo é um destino seguro em toda a empresa, onde você pode carregar, compartilhar e descobrir vídeos em seus dispositivos, alimentados por Serviços de Mídia do Microsoft Azure. O Vídeo do Office 365 pode ajudar a manter os visualizadores envolvidos e informados, comunicar ideias de forma ampla e manter as organizações sincronizadas. Para saber mais, confira [Introdução ao Vídeo do Office 365](https://go.microsoft.com/fwlink/?linkid=2144056).
-
 ## <a name="onenote-class-notebook"></a>Bloco de Anotações de Classe do OneNote
 
 O Bloco de Anotações de Classe faz parte OneNote e está disponível para Office 365 Education e Office 365 E5 Education. Cada bloco de anotações inclui uma Biblioteca de Conteúdo para professores compartilharem conteúdo do curso, um Espaço de Colaboração onde professores e alunos podem trabalhar juntos e um bloco de anotações particular para cada aluno. Depois que um Bloco de Anotações de Classe é criado, professores e alunos podem usar o aplicativo OneNote para acessá-lo de qualquer dispositivo.
@@ -124,7 +120,7 @@ O Windows de implantação do Update for Business fornece controle sobre a aprov
 
 Esses recursos são disponibilizados por meio de APIs Graph Microsoft e integração com Microsoft Endpoint Manager. Para saber mais, consulte [Windows Visão geral do serviço de implantação do Update for Business.](https://aka.ms/wufb/deployment-service)
 
-## <a name="whiteboard"></a>Quadro de comunicações
+## <a name="whiteboard"></a>Whiteboard
 
 Microsoft Whiteboard é uma tela digital de forma livre onde as pessoas, o conteúdo e as ideias se reúnem. Você pode usar o Quadro de Trabalho para colaborar com sua equipe para realizar muitas atividades — seja sua equipe no mesmo local ou em vários locais. Os membros da equipe podem trabalhar de forma colaborativa usando seus próprios dispositivos.
 
