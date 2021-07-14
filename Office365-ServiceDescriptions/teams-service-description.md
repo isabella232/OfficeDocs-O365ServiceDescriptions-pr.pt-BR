@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Saiba mais sobre Microsoft Teams disponibilidade de recursos e serviços em Microsoft 365 e Office 365 planos.
-ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
+ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077515"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409678"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
@@ -21,11 +21,11 @@ Microsoft Teams é o hub do trabalho em equipe Microsoft 365. O Teams permite me
 
 ## <a name="available-plans"></a>Planos disponíveis
 
-Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para o Microsoft Bookings, consulte a [tabela de comparação de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145).
+Para obter informações detalhadas sobre o plano sobre assinaturas que habilitam usuários para o Microsoft Stream, consulte a [tabela de comparação de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-A tabela a seguir lista os principais recursos Microsoft Teams disponíveis nos planos. Certas advertências se aplicam. Consulte as notas de rodapé para obter mais informações. Esta tabela pode mudar sem aviso prévio. Consulte as Microsoft 365 do Centro de Mensagens para mensagens de alteração de serviço principais e para a documentação de referência de termos de licenciamento [da Microsoft.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
+A tabela a seguir lista os principais recursos Microsoft Teams disponíveis nos planos. Algumas advertências se aplicam. Veja as notas de rodapé para mais informações. Esta tabela pode ser alterada sem aviso prévio. Consulte as Microsoft 365 do Centro de Mensagens para mensagens de alteração de serviço principais e para a documentação de referência de termos de licenciamento [da Microsoft.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
 
 | Recurso | Pequena empresa | Enterprise planos | CCG | GCC - Alto | DOD | Educação |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -52,7 +52,7 @@ A tabela a seguir lista os principais recursos Microsoft Teams disponíveis nos 
 
 Skype for Business Online será retirado em 31 de julho de [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 2021, que foi anunciado em 30 de julho de 2019. Microsoft Teams é um serviço totalmente novo, criado para a nuvem do zero aproveitando o Azure e outras inovações de serviço da Microsoft. Microsoft Teams é criado com base em grupos Microsoft 365, Microsoft Graph e com a mesma segurança, conformidade e capacidade de gerenciamento de nível empresarial que o restante Office 365. Teams utiliza identidades armazenadas no Azure Active Directory (Azure AD). Esses serviços são fornecidos de data centers da Microsoft e são acessíveis aos usuários em uma ampla variedade de dispositivos de dentro de uma rede corporativa ou pela Internet. Para obter mais informações, consulte os [cartazes Microsoft Teams de soluções](/microsoftteams/teams-architecture-solutions-posters)de telefonia e arquitetura de TI.
 
-A Microsoft permanece comprometida com a segurança de seus dados e [com a acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft continua comprometida com a segurança dos seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e a [Central de Acessibilidade do Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
 Para obter informações detalhadas sobre o plano sobre assinaturas que permitem usuários para Microsoft Teams, consulte a tabela de comparação [de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145). Para obter Office 365 adicionais em planos governamentais, [consulte Office 365 Government planos](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 a G5 incluem acesso Teams recursos.
 
@@ -74,12 +74,12 @@ Para obter informações técnicas sobre Microsoft Teams, confira os seguintes r
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
-Para termos e condições de licenciamento para produtos e serviços adquiridos por meio de Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto](https://www.microsoft.com/licensing/terms/).
+Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [Site de Termos do Produto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
+Para acompanhar as mudanças futuras, incluindo recursos novos e alterados, manutenções planejadas ou outros anúncios importantes, visite a Central de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 
-A Microsoft permanece comprometida com a segurança de seus dados e [com a acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft continua comprometida com a segurança dos seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e a [Central de Acessibilidade do Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
