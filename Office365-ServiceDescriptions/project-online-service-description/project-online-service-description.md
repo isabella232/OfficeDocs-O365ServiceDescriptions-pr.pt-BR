@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290851"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537257"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
-## <a name="overview"></a>Visão Geral
+## <a name="overview"></a>Visão geral
 
 Microsoft Project oferece os seguintes aplicativos para ajudar a atender às necessidades da sua organização para gerenciamento de projetos e trabalho:
 
@@ -299,6 +299,8 @@ Para Project clientes com cinco (5) ou mais Project para as licenças da Web, o 
 | Arquivo Dataverse: Incluído/locatário                                    | 20 GB       | 20 GB       | 20 GB       |
 | Arquivo Dataverse: Acumulado/USL                                        | 400 MB      | 2 GB        | 2 GB        |
 
+Há assinaturas adicionais da Microsoft além Project que dão direito à capacidade de armazenamento do Dataverse. Consulte o Guia de Licenciamento do [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409) e o Guia de Licenciamento [Power Apps, Power Automate](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409) e Power Virtual Agents para outros direitos de capacidade de armazenamento do Dataverse.
+
 ### <a name="data-backup-and-retention"></a>Backup e retenção de dados
 
 Project para a Web e Project Online ambos têm a mesma política de backup e retenção de dados que Office 365. Para obter detalhes, consulte [Data Retention, Deletion, and Destruction in Office 365](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview).
@@ -314,7 +316,7 @@ Project para a Web tem algumas limitações, que são descritas na tabela a segu
 
 | Entidade/campo | Limite |
 |-------------|-------|
-|**Task** ||
+|**Tarefa** ||
 |Máx. nível de hierarquia para tarefa | 10 níveis |
 |Máx. links (sucessora + predecessora) para uma tarefa | 20 |
 |Máx. duração da tarefa folha | 1250 dias |

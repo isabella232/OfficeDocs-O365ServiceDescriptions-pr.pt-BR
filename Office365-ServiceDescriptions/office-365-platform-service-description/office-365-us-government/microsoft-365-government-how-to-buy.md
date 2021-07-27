@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral do Microsoft 365 Government e descreve as opções de compra.
-ms.openlocfilehash: f2519466b8037a7ab3871fe924c65fbd84b1ebb1
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545929"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537237"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Governo - como comprar
 
@@ -136,24 +136,34 @@ Siga estas etapas para comprar Microsoft 365 licenças do Governo:
 - Serviços Federais do Accenture, LLC
 - Agile IT, Inc.
 - Ciências da Informação Aplicadas, Inc.
+- Booz Allen Hamilton, Inc.
 - Soluções Integradas C3
 - CACI
 - Carahsoft
+- CyberSheath Services International, LLC
 - CGI Federal Inc.
 - Conquista Cibernética
 - Dox Electronics Inc.
+- Enlighten IT Consulting, LLC
 - F1 Solutions Inc.
 - Tecnologia de Quatro Pontos, LLC
 - General Dynamics Information Technology, Inc.
 - Software Imager, Inc. d.b.a ISC
+- Hipori, Inc.
 - Jackpine
 - Jasão
+- Sistemas de Tecnologia Johnson, Inc.
+- It Demácone, Inc.
 - Soluções KTL, Inc.
 - LiftOff, LLC
+- ManTech Advanced Systems International, Inc.
+- LÓGICA NIMBUS, LLC
 - Northrop
 - Novetta
+- Perspecta Enterprise Solutions LLC
 - Tecnologias da Planet, Inc.
 - Profissionais silenciosos, LLC
+- R3, LLC
 - Rio Vermelho
 - SAIC
 - Smartronix

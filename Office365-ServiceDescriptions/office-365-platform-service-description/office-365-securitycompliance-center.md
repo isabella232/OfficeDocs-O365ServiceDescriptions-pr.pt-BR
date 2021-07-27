@@ -10,19 +10,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O Centro de Conformidade de Segurança foi projetado para ajudá-lo a gerenciar recursos de &amp; conformidade Office 365 sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798457"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537207"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-O [Centro &amp; de Conformidade](https://protection.office.com/) de Segurança foi projetado para ajudá-lo a gerenciar recursos de conformidade Office 365 sua organização. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-  
-> [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
+Projetado com acessibilidade e usabilidade em mente, o centro de segurança do [Microsoft 365,](https://sip.security.microsoft.com/homepage) [o Centro de conformidade do Microsoft 365](https://sip.compliance.microsoft.com/homepage)e o centro de administração do Exchange incluem recursos existentes e experiências novas e [aprimoradas](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) para o gerenciamento unificado de segurança, conformidade e fluxo de emails nos serviços Microsoft 365. Esses novos centros substituirão gradualmente o centro de conformidade Office 365 &amp; segurança (protection.office.com). Agora, você pode ativar o [](https://sip.security.microsoft.com/homepage) redirecionamento automático no centro de segurança ou no centro de [conformidade,](https://sip.compliance.microsoft.com/homepage)para que os administradores em sua organização sejam redirecionados instantaneamente dos recursos no Centro de Conformidade de Segurança do Office 365 para o recurso correspondente nos novos &amp; centros.
 
 Para ver as opções de licenciamento de seus usuários para se beneficiarem de Microsoft 365 de conformidade, baixe [a tabela Microsoft 365 Comparison.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
@@ -56,7 +53,7 @@ Para ver as opções de licenciamento de seus usuários para se beneficiarem de 
 |[Criptografia de Mensagens do Office 365 básico (OME)](/microsoft-365/compliance/ome)  |Não |Não |Não |Não |Sim |Sim |Sim |Não |
 |[Criptografia de Mensagem Avançada do 365 Office](/microsoft-365/compliance/ome-advanced-message-encryption)  |Não |Não |Não |Não |Não |Sim |Sim |Não |
 |[Gerenciamento de Acesso Privilegiado](/microsoft-365/compliance/privileged-access-management-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
-|[Chave de Cliente](/microsoft-365/compliance/customer-key-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
+|[Chave do Cliente](/microsoft-365/compliance/customer-key-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
 
 <sup>1</sup> Os logs de auditoria de todos os planos que incluem a Auditoria Básica (exceto o E5) são mantidos por 90 dias. Como o E5 inclui Auditoria Avançada, os logs de auditoria são mantidos por até um ano. Além disso, você pode usar a [API Office 365 Atividade](/office/office-365-management-api/office-365-management-activity-api-reference) de Gerenciamento para recuperar eventos do log de auditoria unificado.
 

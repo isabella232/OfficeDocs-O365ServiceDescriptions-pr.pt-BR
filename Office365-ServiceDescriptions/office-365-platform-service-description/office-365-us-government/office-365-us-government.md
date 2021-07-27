@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 para o Governo norte-americano (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos que são específicos Office 365 Government ambientes dos EUA.
-ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: d958835f906fa256ff5bfce3435f8c6d36458407
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699077"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537227"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -79,7 +79,7 @@ Office 365 Government serviços são fornecidos de datacenters fisicamente local
 > [!NOTE]
 > Normalmente, o Skype for Business não armazena conteúdo de clientes, mas se ocorrer algum armazenamento, ele será feito em datacenters nos EUA.
 
-Se seus usuários estão localizados dentro dos EUA enquanto usam o Office para a Web (anteriormente conhecidos como aplicativos Web do Office) ou se você adotar o uso do AD FS (Serviços de Federação do Active Directory) 2.0 e configurar políticas para ajudar a garantir que seus usuários se conectem aos serviços por meio de logom único, qualquer conteúdo do cliente temporariamente armazenado em cache no Office para a Web estará localizado nos EUA.
+Se os usuários estão localizados nos EUA enquanto usam o Office para a Web (anteriormente conhecido como aplicativos Web do Office) ou se você adotar o uso do AD FS (Serviços de Federação do Active Directory) 2.0 e configurar políticas para ajudar a garantir que seus usuários se conectem aos serviços por meio de uma única conexão, qualquer conteúdo do cliente temporariamente armazenado em cache no Office para a Web estará localizado nos EUA.
 
 A página de uso do site para SharePoint sites está disponível para planos governamentais, embora por conformidade, existem alguns recursos desta página que estão disponíveis apenas para clientes comerciais. Para saber mais, confira [Página de uso do site para SharePoint sites em Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 
@@ -169,7 +169,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Recurso|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
 |**Administração do Office 365**|||||
-|Use o Microsoft 365 de administração para administrar Office 365|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim<sup>16</sup>|
+|Use o Centro de administração do Microsoft 365 para administrar Office 365|Sim<sup>16</sup>|Sim<sup>16</sup>|Sim|Sim<sup>16</sup>|
 |Gerenciar as configurações de serviço principal do Office 365|Sim|Sim|Sim|Sim|
 |Usar o Windows PowerShell para gerenciar Office 365|Sim|Sim|Sim|Sim|
 |Proteger o conteúdo usando a Proteção de Informações do Azure|No<sup>1</sup>|Sim<sup>15</sup>|Sim<sup>15</sup>|No<sup>1</sup>|
@@ -191,7 +191,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Gerenciamento de contas de usuário](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Identidade de nuvem|Sim|Sim|Sim|Sim|
 |Identidade federada (logon único)|Sim|Sim|Sim|Sim|
-|Multi-factor Authentication|Sim|Sim|Sim|Sim|
+|Autenticação multifator|Sim|Sim|Sim|Sim|
 |Telefone fator|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim|Sim<sup>9</sup>|
 |Configuração de área de trabalho do Office 365|Sim|Sim|Sim|Sim|
 |Gerenciar usuários com o Office 365|Sim|Sim|Sim|Sim|
@@ -213,7 +213,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Verificação de propriedade de domínio necessária para domínios personalizados|Sim|Sim|Sim|Sim|
 |**[Continuidade e integridade do serviço](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|
-|Status dos alertas individuais disponíveis no painel Microsoft 365 centro de administração|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|
+|Status dos alertas individuais disponíveis no painel Centro de administração do Microsoft 365 painel|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|
 |RSS feed de **Integridade do serviço**|Sim|Sim|Sim|Sim|
 |**[Relatórios](../../office-365-platform-service-description/reports.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Caixas postais ativas e inativas|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim<sup>15</sup>|Sim<sup>15</sup>|
@@ -281,16 +281,16 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Contrato de Nível de Serviço](../../office-365-platform-service-description/service-level-agreement.md)**|Sim|Sim|Sim|Sim|
 |**[Direitos de uso do produto](../../office-365-platform-service-description/product-use-rights.md)**|Sim|Sim|Sim|Sim|
 
-> <sup>1</sup> A Proteção de Informações do Azure não está incluída, mas pode ser comprada como um complemento separado e habilita os recursos de Gerenciamento de Direitos de Informação (IRM) com suporte. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura para Microsoft 365 Apps para Grandes Empresas, que não está incluída no Office 365 Government G1 ou Office 365 Government F3. >
+> <sup>1</sup> A Proteção de Informações do Azure não está incluída, mas pode ser comprada como um complemento separado e habilita os recursos de Gerenciamento de Direitos de Informação (IRM) com suporte. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura para Microsoft 365 Apps para Grandes Empresas, que não está incluída no Office 365 para o Governo G1 ou Office 365 Government F3. >
 <br/><sup>2</sup> Os clientes existentes da BBCS e do BIS podem continuar a usar o serviço. No momento, não aceitamos novos clientes.
 <br/><sup>3</sup> Se estiver usando a sincronização de diretórios, você deverá excluir contas ou alterar senhas usando o Active Directory, em vez do portal Office 365 ou usando o módulo Azure Active Directory para Windows PowerShell.
 <br/><sup>4 Se</sup> estiver usando a sincronização de senhas, os usuários deverão alterar suas senhas no Active Directory local.
 <br/><sup>5</sup> Para saber como definir políticas de gerenciamento de senhas autoatendidas para usuários, consulte [Manage Passwords in Azure AD](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password).
 <br/><sup>6</sup> Você pode ter apenas um site público com Office 365, a menos que tenha atualizado de uma versão anterior do Office 365. Nesse caso, é possível ter dois sites públicos, mas somente um deles pode ser hospedado com um nome de domínio personalizado. Para obter mais informações sobre como trabalhar com os dois sites de assinaturas para Empresas, consulte Trabalhar com seus dois Office 365 [sites públicos.](https://go.microsoft.com/fwlink/p/?LinkID=271589) Se você tiver uma assinatura diferente, saiba mais sobre sites públicos em Saiba mais sobre hospedagem de sites de parceiros e sites públicos [em Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
 <br/><sup>7</sup> A redução de assentos comprados com um desconto de termos pode estar sujeita a uma taxa de encerramento antecipada. Isso não é aplicável a assinaturas pagas mensalmente.
-<br/><sup>8</sup> Os planos a seguir não suportam alterações de assento de licença do centro de administração do Microsoft 365: Office 365 Government G1, Office 365 Government G3, Office 365 Government F3.
+<br/><sup>8</sup> Os planos a seguir não suportam alterações de assento de licença do Centro de administração do Microsoft 365: Office 365 para o Governo G1, Office 365 para o Governo G3, Office 365 Government F3.
 <br/><sup>9</sup> Ainda não está disponível no GCC High, mas em breve.
-<br/><sup>10</sup> Para Office 365 Government G1, G3 e F3, a versão direcionada e o Office 365 para negócios se aplicam; no entanto, pode haver algumas diferenças ou atrasos para atualizações de serviço específicas devido aos requisitos [de conformidade.](https://www.microsoft.com/trust-center)
+<br/><sup>10</sup> Para Office 365 para o Governo G1, G3 e F3, a versão direcionada e o Office 365 de negócios se aplicam; no entanto, pode haver algumas diferenças ou atrasos para atualizações de serviço específicas devido aos requisitos [de conformidade.](https://www.microsoft.com/trust-center)
 <br/><sup>11</sup> Ainda não está disponível em Office 365 Government ofertas, mas em breve.
 <br/><sup>12</sup> Não incluído, mas pode ser comprado como um complemento separado no GCC.
 <br/><sup>13</sup> Não há suporte para Office 365 Government ofertas.
@@ -359,7 +359,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office que estão disponí
 |Atualizações de versão|Não|Sim<sup>4</sup>|Sim<sup>4</sup>|Não|
 |Volume activation (KMS/MAK)|Não|Não|Não|Não|
 
-> <sup>1</sup> A Proteção de Informações do Azure não está incluída, mas pode ser comprada como um complemento separado e habilita os recursos de Gerenciamento de Direitos de Informação (IRM) com suporte. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura para Microsoft 365 Apps para Grandes Empresas, que não está incluída no Office 365 Government G1 ou Office 365 Government F3.
+> <sup>1</sup> A Proteção de Informações do Azure não está incluída, mas pode ser comprada como um complemento separado e habilita os recursos de Gerenciamento de Direitos de Informação (IRM) com suporte. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura para Microsoft 365 Apps para Grandes Empresas, que não está incluída no Office 365 para o Governo G1 ou Office 365 Government F3.
 <br/><sup>2</sup> Windows Server AD RMS é um servidor local que deve ser comprado e gerenciado separadamente para habilitar os recursos de IRM com suporte.
 <br/><sup>3</sup> Skype for Business Basic está disponível para todos os clientes. O cliente de desktop do Skype for Business é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferências para planos do Office 365 que incluem o Skype for Business online. Microsoft 365 Apps para Grandes Empresas e Office 365 Enterprise E3 incluem o aplicativo de Skype completo, que inclui recursos adicionais, como suporte avançado à telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup> Ainda não está disponível GCC ambientes High ou DoD, mas em breve.
@@ -371,87 +371,87 @@ A tabela a seguir mostra os recursos do aplicativo do Office que estão disponí
 
 Os seguintes Office aplicativos estão disponíveis nas nuvens do governo; no entanto, alguns recursos baseados em nuvem podem não estar disponíveis no momento, conforme indicado na tabela.<br><br>
 
-|Aplicativo/recurso|CCG|CCG Alto|DOD|
-|---|---|---|---|
-|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:||||
-|Animações 3D incorporadas e modelos 3D|Não|Não|Não|
-|Tipos de dados|Não|Não|Não|
-|Preenchimento flash|Não|Não|Não|
-|Ideias (Insight Services)|Não|Não|Não|
-|Integração aprimorada com Power BI (elementos visuais personalizados, crie gráficos PBI diretamente Excel)|Não|Não|Não|
-|Tinta Digital Inteligente|Não|Não|Não|
-|Grupos do Office 365|Não|Não|Não|
-|Dados de Gráficos Dinâmicas conectados a Tabelas Dinâmicas|Não|Não|Não|
-|PowerPivot|Não|Não|Não|
-|Publicar no Power BI|Não|Não|Não|
-|Colaboração em tempo real (presença, coautorização regular, chat no documento)|Não|Não|Não|
-|Shared with Me|Não|Não|Não|
-|Pesquisa Inteligente|Não|Não|Não|
-|Gráficos: mapa do sol, cascata, histograma, mapas, linha do tempo, funil|Não|Não|Não|
-|Histórico de versão|Não|Não|Não|
-|[**O Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:|**GCC**|**CCG Alto**|**DOD**|
-|Notificação de email|No<sup>1</sup>|No<sup>1</sup>|Não|
-|Inserir uma imagem|No<sup>1</sup>|No<sup>1</sup>|Não|
-|Inserir um vídeo|No<sup>1</sup>|No<sup>1</sup>|Não|
-|Matemática|No<sup>1</sup>|No<sup>1</sup>|Não|
-|Office integração|No<sup>1</sup>|No<sup>1</sup>|Não|
-|Formulários de grupo mais recentes|Não<sup>4</sup>|Sim|Sim|
-|Compartilhamento externo<sup>3</sup>|Sim|Não|Não|
-|Formulários Pro|Não|Não|Não|
-|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:|**GCC**|**CCG Alto**|**DOD**|
-|Pesquisador|Não|Não|Não|
-|Tinta Digital Inteligente|Não|Não|Não|
-|Enviar email para OneNote (me@onenote.com)|Não|Não|Não|
-|Web Clipper|Não|Não|Não|
-|[**O Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.|**GCC**|**CCG Alto**|**DOD**|
-|Office sons (alguns)|Não|Não|Não|
-|DDE (Dynamic Data Exchange) desabilitado por padrão|Não|Não|Não|
-|Ditado|Sim|Sim|No<sup>1</sup>|
-|[**O Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.|**GCC**|**CCG Alto**|**DOD**|
-|Pesquisa Inteligente|Não|Não|Não|
-|Office sons (alguns)|Não|Não|Não|
-|Modelos 3D e animações 3D incorporadas|Não|Não|Não|
-|Gráficos: mapas|Não|Não|Não|
-|Tinta Digital Inteligente|Não|Não|Não|
-|Legendas e legendas ao vivo PowerPoint|Sim|Sim|Não|
-|Apresentações ao vivo|Não|Não|Não|
-|Leitura Avançada|Não|Não|Não|
-|Técnico de Apresentador|Não|Não|Não|
-|Shared with Me|Não|Não|Não|
-|Skype for Business integração com o compartilhamento|Não|Não|Não|
-|Histórico de versão|Não|Não|Não|
-|Grupos do Office 365|Não|Não|Não|
-|Colaboração em tempo real (presença, coautorização regular, chat no documento)|Não|Não|Não|
-|Ditado|Sim|Sim|No<sup>1</sup>|
-|Reutilizar slides|Não|Não|Não|
-|**Microsoft Whiteboard** nas nuvens do governo está disponível apenas em clientes Hub e não na área de trabalho.|**GCC**<sup>2</sup>|**GCC Alta**<sup>2</sup>|**DOD**<sup>2</sup>|
-|Inserir anotações, texto e imagens grudentas|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
-|Tinta para forma e tinta para tabela|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
-|Autenticação de tinta|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
-|Converter imagem em tinta|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
-|Verificação de acessibilidade|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
-|Modelos dinâmicos (KANBAN, SWOT e assim por diante)|Não|Não|Não|
-|Colaboração em tempo real|Não|Não|Não|
-|Presença em tempo real|Não|Não|Não|
-|Reações no conteúdo|Não|Não|Não|
-|Galeria de quadro de whiteboards, incluindo compartilhado com você|Não|Não|Não|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.|**GCC**|**CCG Alto**|**DOD**|
-|Pesquisa Inteligente|Não|Não|Não|
-|Pesquisador|Não|Não|Não|
-|Office sons|Não|Não|Não|
-|Modelos 3D|Não|Não|Não|
-|Animações 3D incorporadas|Não|Não|Não|
-|Toque|Não|Não|Não|
-|Assistente de Currículos|Não|Não|Não|
-|Mapear gráficos|Não|Não|Não|
-|Tinta Digital Inteligente|Não|Não|Não|
-|Shared with Me|Não|Não|Não|
-|Tradução|Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|
-|Skype for Business integração com o compartilhamento|Não|Não|Não|
-|Histórico de versão|Não|Não|Não|
-|Grupos do Office 365|Não|Não|Não|
-|Chat contextual com coautor: converse com coautor dentro do documento|Não|Não|Não|
-|Ditado|Sim|Sim|No<sup>1</sup>|
+|Aplicativo/recurso|Recurso acessibilidade|CCG|CCG Alto|DOD|
+|---|---|---|---|---|
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:|||||
+|Animações 3D incorporadas e modelos 3D|Sim|Não|Não|Não|
+|Tipos de dados||Não|Não|Não|
+|Preenchimento flash||Não|Não|Não|
+|Ideias (Insight Services)|Sim|Não|Não|Não|
+|Integração aprimorada com Power BI (elementos visuais personalizados, crie gráficos PBI diretamente Excel)||Não|Não|Não|
+|Tinta Digital Inteligente|Sim|Não|Não|Não|
+|Grupos do Office 365||Não|Não|Não|
+|Dados de Gráficos Dinâmicas conectados a Tabelas Dinâmicas||Não|Não|Não|
+|PowerPivot||Não|Não|Não|
+|Publicar no Power BI||Não|Não|Não|
+|Colaboração em tempo real (presença, coautorização regular, chat no documento)|Alguns|Não|Não|Não|
+|Shared with Me||Não|Não|Não|
+|Pesquisa Inteligente|Sim|Não|Não|Não|
+|Gráficos: mapa do sol, cascata, histograma, mapas, linha do tempo, funil||Não|Não|Não|
+|Histórico de versão|Sim|Não|Não|Não|
+|[**O Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:||**GCC**|**GCC Alta**|**DOD**|
+|Notificação de email||No<sup>1</sup>|No<sup>1</sup>|Não|
+|Inserir uma imagem||No<sup>1</sup>|No<sup>1</sup>|Não|
+|Inserir um vídeo||No<sup>1</sup>|No<sup>1</sup>|Não|
+|Matemática||No<sup>1</sup>|No<sup>1</sup>|Não|
+|Office integração||No<sup>1</sup>|No<sup>1</sup>|Não|
+|Formulários de grupo mais recentes||Não<sup>4</sup>|Sim|Sim|
+|Compartilhamento externo<sup>3</sup>||Sim|Não|Não|
+|Formulários Pro||Não|Não|Não|
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:||**GCC**|**GCC Alta**|**DOD**|
+|Pesquisador|Sim|Não|Não|Não|
+|Tinta Digital Inteligente|Sim|Não|Não|Não|
+|Enviar email para OneNote (me@onenote.com)|Sim|Não|Não|Não|
+|Web Clipper||Não|Não|Não|
+|[**O Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.||**GCC**|**GCC Alta**|**DOD**|
+|Office sons (alguns)|Sim|Não|Não|Não|
+|DDE (Dynamic Data Exchange) desabilitado por padrão||Não|Não|Não|
+|Ditado|Sim|Sim|Sim|No<sup>1</sup>|
+|[**O Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.||**GCC**|**GCC Alta**|**DOD**|
+|Pesquisa Inteligente|Sim|Não|Não|Não|
+|Office sons (alguns)||Não|Não|Não|
+|Modelos 3D e animações 3D incorporadas||Não|Não|Não|
+|Gráficos: mapas||Não|Não|Não|
+|Tinta Digital Inteligente|Sim|Não|Não|Não|
+|Legendas e legendas ao vivo PowerPoint|Sim|Sim|Sim|Não|
+|Apresentações ao vivo||Não|Não|Não|
+|Leitura Avançada|Sim|Não|Não|Não|
+|Técnico de Apresentador|Sim|Não|Não|Não|
+|Shared with Me||Não|Não|Não|
+|Skype for Business integração com o compartilhamento||Não|Não|Não|
+|Histórico de versão|Sim|Não|Não|Não|
+|Grupos do Office 365||Não|Não|Não|
+|Colaboração em tempo real (presença, coautorização regular, chat no documento)|Alguns|Não|Não|Não|
+|Ditado|Sim|Sim|Sim|No<sup>1</sup>|
+|Reutilizar slides||Não|Não|Não|
+|**Microsoft Whiteboard** nas nuvens do governo está disponível apenas em clientes Hub e não na área de trabalho.||**GCC**<sup>2</sup>|**GCC Alta**<sup>2</sup>|**DOD**<sup>2</sup>|
+|Inserir anotações, texto e imagens grudentas||Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
+|Tinta para forma e tinta para tabela|Sim|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
+|Autenticação de tinta|Sim|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
+|Converter imagem em tinta|Sim|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
+|Verificação de acessibilidade|Sim|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|Sim<sup>2</sup> <br/>|
+|Modelos dinâmicos (KANBAN, SWOT e assim por diante)|Sim|Não|Não|Não|
+|Colaboração em tempo real|Sim|Não|Não|Não|
+|Presença em tempo real|Sim|Não|Não|Não|
+|Reações no conteúdo|Sim|Não|Não|Não|
+|Galeria de quadro de whiteboards, incluindo compartilhado com você||Não|Não|Não|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não estão disponíveis em todas as Nuvens de Governo, conforme indicado na tabela abaixo.||**GCC**|**GCC Alta**|**DOD**|
+|Pesquisa Inteligente|Sim|Não|Não|Não|
+|Pesquisador|Sim|Não|Não|Não|
+|Office sons||Não|Não|Não|
+|Modelos 3D||Não|Não|Não|
+|Animações 3D incorporadas||Não|Não|Não|
+|Toque||Não|Não|Não|
+|Assistente de Currículos|Sim|Não|Não|Não|
+|Mapear gráficos||Não|Não|Não|
+|Tinta Digital Inteligente|Sim|Não|Não|Não|
+|Shared with Me||Não|Não|Não|
+|Tradução||Sim<sup>5</sup>|Sim<sup>5</sup>|Sim<sup>5</sup>|
+|Skype for Business integração com o compartilhamento||Não|Não|Não|
+|Histórico de versão|Sim|Não|Não|Não|
+|Grupos do Office 365||Não|Não|Não|
+|Chat contextual com coautor: converse com coautor dentro do documento||Não|Não|Não|
+|Ditado|Sim|Sim|Sim|No<sup>1</sup>|
 
 Para disponibilidade de recursos para Microsoft Teams em GCC/GCC High/DoD, visite [Microsoft Teams descrição do serviço.](../../teams-service-description.md)
 > <sup>1</sup> Disponibilidade futura.
