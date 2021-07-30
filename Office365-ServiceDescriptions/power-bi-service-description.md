@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI é um pacote baseado em nuvem de ferramentas de análise de negócios que permite que qualquer pessoa se conecte, visualize e analise dados com maior velocidade, eficiência e compreensão. Ele conecta os usuários a uma ampla variedade de dados ao vivo por meio de painéis simples, fornece relatórios interativos e visualizações atraentes para dar vida aos dados.
-ms.openlocfilehash: addac672ec7cb12537d41041c85752ee3690e544
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906737"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661609"
 ---
 # <a name="power-bi-service-description"></a>Descrição do serviço Power BI
 
@@ -33,7 +33,7 @@ Para obter informações detalhadas sobre o plano sobre assinaturas que permitem
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-A tabela a seguir lista os principais recursos Power BI disponíveis nos planos. Certas advertências se aplicam. Consulte as notas de rodapé para obter mais informações. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte [Power BI preço](https://powerbi.microsoft.com/pricing/).
+A tabela a seguir lista os principais recursos Power BI disponíveis nos planos. Algumas advertências se aplicam. Veja as notas de rodapé para mais informações. Esta tabela pode ser alterada sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte [Power BI preço](https://powerbi.microsoft.com/pricing/).
 
 | Recurso | Power BI Pro | Power BI Premium por usuário | Power BI Premium por capacidade |
 |---------|--------------|---------------------------|-------------------------------|
@@ -57,7 +57,7 @@ A tabela a seguir lista os principais recursos Power BI disponíveis nos planos.
 | **Governança e administração** | | | |
 | Segurança e criptografia de dados | Sim | Sim | Sim |
 | Métricas para criação, consumo e publicação de conteúdo | Sim | Sim | Sim |
-| Gerenciamento do ciclo de vida do aplicativo | Não | Não | Sim |
+| Pipelines de implantação para gerenciamento do ciclo de vida do aplicativo | Não | Não | Sim |
 | Gerenciamento de implantação multi-geográfica | Não | Não | Sim |
 | Traga sua própria chave (BYOK) | Não | Não | Sim |
 | Disponibilidade de complemento de escala automática (visualização) | Não | Não | Sim |
@@ -77,12 +77,12 @@ Para obter informações técnicas sobre Power BI, confira os seguintes recursos
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
-Para termos e condições de licenciamento para produtos e serviços adquiridos por meio de Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto](https://www.microsoft.com/licensing/terms/). 
+Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [Site de Termos do Produto](https://www.microsoft.com/licensing/terms/). 
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
+Para acompanhar as mudanças futuras, incluindo recursos novos e alterados, manutenções planejadas ou outros anúncios importantes, visite a Central de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 
-A Microsoft permanece comprometida com a segurança de seus dados e [com a acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft continua comprometida com a segurança dos seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e a [Central de Acessibilidade do Office](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
