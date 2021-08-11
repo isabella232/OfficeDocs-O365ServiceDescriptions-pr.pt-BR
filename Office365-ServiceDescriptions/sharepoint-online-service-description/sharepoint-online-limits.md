@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Conheça os limites do SharePoint para Microsoft 365 e planos autônomos.
-ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
-ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
+ms.openlocfilehash: 5dd9a0d414c5b5ddaac1d92254b73660fab0ac4725dbe656868df8889faa674d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53338334"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702600"
 ---
 # <a name="sharepoint-limits"></a>Limites do SharePoint
 
@@ -34,7 +34,7 @@ Saiba mais sobre os limites de serviço no SharePoint para Microsoft 365.
 <br/><sup>2</sup> Recomendamos monitorar a Lixeira e esvaziá-la regularmente. O espaço de armazenamento que ela usa faz parte do limite de armazenamento de arquivo total da organização. 
 <br/> <sup>3</sup> Se você tiver uma assinatura Microsoft 365 e um complemento de Armazenamento de Arquivos Extra do Office 365, os valores de armazenamento serão adicionados. 
 <br/> <sup>4</sup> Este é o *limite* de armazenamento para um único site (anteriormente chamado de "conjunto de sites"), não a quantidade de armazenamento *fornecida* para cada site. Esse limite se aplica a todos os tipos de sites, incluindo sites de equipe conectados a grupos do Office 365 e OneDrive. Os administradores do SharePoint podem [definir manualmente limites de armazenamento mais baixos](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
-<br/> <sup>5</sup> Firstline Workers não podem administrar sites do SharePoint. 
+<br/> <sup>5 Os</sup> trabalhadores de linha de frente não podem administrar SharePoint sites. 
 <br/> <sup>6</sup> Não incluir o OneDrive criado para cada usuário licenciado. 
 <br/> <sup>7</sup> Se você tiver mais de 500 mil usuários, entre em contato com um representante da Microsoft. 
   

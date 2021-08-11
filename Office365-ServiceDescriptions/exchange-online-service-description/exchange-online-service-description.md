@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluam Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 003d86033382e8ed15895c85cc36e5b15c19083a
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 596d0663c91a7ed3c2e423301a90fddaee7908b5d1da04e4d04f860c0c31ae14
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699087"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663984"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -55,7 +55,7 @@ Cada usuário que acessar o serviço Exchange Online deve ser atribuído a um pl
 As assinaturas do usuário não são exigidas para salas de conferência e caixas de correio compartilhadas. Esses tipos de caixa de correio especial não têm credenciais de logon. Em vez disso, os usuários licenciados com as permissões apropriadas gerenciam e acessam essas caixas por meio de delegação.
 
 **Microsoft 365 F1 Direitos de Uso da Caixa de Correio de Usuário** <br/>
-Microsoft 365 F1 não inclui direitos a uma caixa de correio Exchange de correio. Para habilitar uma experiência completa Teams, as licenças do M365 F1 podem vir com o plano de serviço Exchange Online K1 habilitado. Embora o Exchange Online de serviço K1 provisione uma caixa de correio para o usuário, os usuários do M365 F1 não têm o direito de usar a caixa de correio. Recomendamos que você desabilite Outlook na [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) Web por meio dessas etapas e peça aos usuários que não acessem a caixa de correio Exchange por meio de outros métodos.
+Microsoft 365 F1 não inclui direitos a uma caixa de correio Exchange de correio. Para habilitar uma experiência completa Teams, as licenças do M365 F1 podem vir com o plano de serviço Exchange Online K1 habilitado. Embora o Exchange Online de serviço K1 provisione uma caixa de correio para o usuário, os usuários do M365 F1 não têm o direito de usar a caixa de correio. Recomendamos que você desabilite Outlook na Web [por](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) meio dessas etapas e peça aos usuários que não acessem a caixa de correio Exchange por meio de outros métodos.
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisitos do sistema do Exchange Online
 
@@ -67,7 +67,7 @@ Para obter informações sobre os limites de armazenamento e destinatário dispo
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Se sua organização tiver assinaturas para Office 365 Small Business, Office 365 Small Business Premium ou Office 365 Midsize Business, visite sua Central de Mensagens no centro de administração do Microsoft 365 ou fale com seu provedor para obter mais detalhes sobre como o novo plano Microsoft 365 Apps afeta você. Para saber mais sobre o novo Microsoft 365 Apps família de planos, consulte Novos planos para pequenas e [médias empresas.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
+Se sua organização tiver assinaturas para Office 365 Small Business, Office 365 Small Business Premium ou Office 365 Midsize Business, visite sua Central de Mensagens no Centro de administração do Microsoft 365 ou fale com seu provedor para obter mais detalhes sobre como o novo plano Microsoft 365 Apps afeta você. Para saber mais sobre o novo Microsoft 365 Apps família de planos, consulte Novos planos para pequenas e [médias empresas.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
 Para disponibilidade de recursos Microsoft 365 Business Premium, consulte [Microsoft 365 Business Premium descrição do serviço.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
   
@@ -171,7 +171,7 @@ Para disponibilidade de recursos Microsoft 365 Business Premium, consulte [Micro
 |Suporte a retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |**[Instalação e administração do Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Acesso ao portal do Microsoft Office 365|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Microsoft 365 de centro de administração|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|Centro de administração do Microsoft 365 acesso|Não|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso ao centro de administração do Exchange|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Políticas activeSync para dispositivos móveis|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -193,7 +193,7 @@ Para disponibilidade de recursos Microsoft 365 Business Premium, consulte [Micro
 <sup>12</sup> POP é suportado, mas IMAP não é. <br/>
 <sup>13</sup> Suportado para clientes Exchange Server 2013 locais que compram a Proteção de Informações do Azure. Criptografia de Mensagens do Office 365 exige que os clientes locais roteiem emails por Exchange Online, usando o Proteção do Exchange Online para filtragem de email ou estabelecendo o fluxo de emails híbrido. <br/>
 <sup>14</sup> Exchange Server 2013 os clientes precisam baixar e instalar o SP1 para acessar a Impressão Digital de Documento e Dicas no OWA e no OWA para Dispositivos. <br/>
-<sup>15</sup> BitLocker criptografia de unidade é suportada para Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
+<sup>15</sup> BitLocker Drive Encryption tem suporte para Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
 <sup>16</sup> Microsoft 365 Business Basic, Microsoft 365 Business Standard e Office 365 Enterprise F3 não fornecem direitos de acesso para utilização com servidores locais. Para estar em conformidade, o cliente deve comprar ou ter comprado previamente as CALs apropriadas ou atualizar para um SKU Enterprise, que fornece esses direitos de acesso. <br/>
 <sup>17</sup> Contas conectadas têm suporte para contas IMAP POP, mas desabilitadas &amp; para Outlook.com (Hotmail). <br/>
 <sup>18</sup> Não há suporte para o uso de cmdlets Exchange Online PowerShell para personalizar as listas de endereços padrão e a GAL (lista de endereços global) padrão. <br/>
@@ -303,13 +303,13 @@ Para disponibilidade de recursos Microsoft 365 Business Premium, consulte [Micro
 |Suporte a retransmissão SMTP|Sim|Sim|Sim|Sim|Sim|
 |**[Instalação e administração do Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plano &nbsp; 1**|**Exchange Online Plano &nbsp; 2**|**Quiosque do Exchange Online**|
 |Acesso ao portal do Microsoft Office 365|Não|Não|Sim|Sim|Sim|
-|Microsoft 365 de centro de administração|Não|Não|Sim|Sim|Sim|
+|Centro de administração do Microsoft 365 acesso|Não|Não|Sim|Sim|Sim|
 |Acesso ao centro de administração do Exchange|Sim|Sim|Sim|Sim|Sim <sup>8</sup>|
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim|Sim|Sim|
 |Políticas activeSync para dispositivos móveis|Sim|Sim|Sim|Sim|Sim|
 |Relatório de uso|Sim|Sim|Sim|Sim|Sim|
 |**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plano &nbsp; 1**|**Exchange Online Plano &nbsp; 2**|**Quiosque do Exchange Online**|
-|Outlook na web Web Parts|Sim|Sim|Sim|Sim|Sim|
+|Outlook na Web Web Parts|Sim|Sim|Sim|Sim|Sim|
 |Outlook e Outlook MAPI|Sim|Sim|Sim<sup>21</sup>|Sim<sup>21</sup>|Não|
 
 <sup>1</sup> As regras de transporte são feitas de critérios flexíveis, que permitem definir condições e exceções e ações a tomar com base nos critérios. Os critérios e ações disponíveis diferem entre Exchange Online e Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto. <br/>
@@ -327,7 +327,7 @@ Não há suporte para IMAP <sup>9.</sup> <br/>
 <sup>13</sup> Suportado para clientes que executam Exchange Server 2013 ou posteriores que compram a Proteção de Informações do Azure. Criptografia de Mensagens do Office 365 exige que os clientes locais roteiem emails por Exchange Online, usando o Proteção do Exchange Online para filtragem de email ou estabelecendo o fluxo de emails híbrido. <br/>
 <sup>14</sup> Clientes que executam o Exchange Server 2013 ou posterior precisam baixar e instalar a atualização cumulativa mais recente (CU) ou a CU imediatamente anterior, para acessar o documento de impressão digital e a política Dicas no OWA e no OWA para Dispositivos. <br/>
 <sup>15</sup> Disponível para clientes que executam Exchange Server 2013 ou posterior. <br/>
-<sup>16</sup> BitLocker criptografia de unidade é suportada para Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
+<sup>16</sup> BitLocker Drive Encryption é suportado para Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
 <sup>17</sup> Exchange Online Plano 1 tem um limite [de tamanho na caixa de correio e no arquivo morto.](./exchange-online-limits.md) Arquivamento do Exchange Online para Exchange Online complemento adiciona arquivo morto ilimitado baseado em nuvem e Espera [In-locar.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18</sup> Exchange Online Kiosk calendários só podem ser acessados ou compartilhados por meio do OWA. <br/>
 <sup>19</sup> Contas conectadas têm suporte para contas IMAP POP, mas desabilitadas &amp; para Outlook.com (Hotmail). <br/>

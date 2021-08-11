@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Os recursos de suporte a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 22def2d6dd1eccbff98503703fbd6e44878ad1092769efd80795c0705196ac05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653513"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702170"
 ---
 # <a name="support-features-in-yammer"></a>Recursos de suporte no Yammer
 
@@ -38,7 +38,7 @@ O suporte técnico está disponível para responder às perguntas do cliente e r
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-O serviço Do Microsoft FastTrack pode ajudar sua organização a se mover para o Microsoft Cloud, fornecendo ajuda em todas as etapas do caminho. O FastTrack permite planejar estrategicamente as lançamentos, a rampa rápida de novos serviços e a integração de novos usuários. Para obter detalhes, visite o [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obter informações sobre como criar sua rede Yammer, incluindo pré-lançamento, início e suporte a documentos e atividades, acesse a página Visualizar: Identificar [cenários](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e selecione Reunir sua **organização**.
+O serviço microsoft FastTrack pode ajudar sua organização a se mover para o Microsoft Cloud, fornecendo ajuda em todas as etapas do caminho. FastTrack permite planejar estrategicamente as rollouts, a aumentar rapidamente os novos serviços e a integração de novos usuários. Para obter detalhes, visite o [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obter informações sobre como criar sua rede Yammer, incluindo pré-lançamento, início e suporte a documentos e atividades, acesse a página Visualizar: Identificar [cenários](https://fasttrack.microsoft.com/office/envision/identify-scenarios) e selecione Reunir sua **organização**.
 
 ## <a name="support-features-across-yammer-plans"></a>Recursos de suporte nos planos do Yammer
 

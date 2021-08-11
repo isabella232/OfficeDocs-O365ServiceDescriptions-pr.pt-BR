@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online oferece suporte extensivo de retenção e recuperação para a infraestrutura de email de uma organização. Isso inclui a replicação de caixa de correio em data centers e a capacidade de restaurar caixas de correio e itens excluídos.
-ms.openlocfilehash: 5415499e85d0e6fb0334e2e23abc435d0df9d2ab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaeb8f7d17cfa08d3f7a0883d918e0049956fdb6a1dfc4a5bcf15ed5011190fa
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653333"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663924"
 ---
 # <a name="high-availability-and-business-continuity"></a>Alta disponibilidade e continuidade de negócios
 
@@ -31,13 +31,13 @@ Para saber mais sobre como a Microsoft protege seus dados, confira [Central de C
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperação da caixa de correio excluída
 
-Os administradores podem excluir Exchange Online caixas de correio usando o centro de administração do Microsoft 365 para excluir a conta de usuário correspondente ou remover Exchange Online licença do Exchange Online ou usando o cmdlet **Remove-Mailbox** em arquivos Windows PowerShell. Quando uma caixa de correio é excluída, o Exchange Online mantém a caixa de correio e seu conteúdo por 30 dias, por padrão. Após 30 dias, a caixa de correio não pode ser recuperada. Uma caixa de correio recuperada contém todos os dados armazenados no momento em que foi excluída. Os administradores podem recuperar uma caixa de correio excluída no período de retenção usando o Microsoft 365 de administração. Para recuperar uma caixa de correio excluída, os administradores têm que restaurar a conta de usuário correspondente ou reatribuir uma licença Exchange Online à conta de usuário. Para saber mais, confira [Excluir ou restaurar caixas de correio do usuário no Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Os administradores podem excluir Exchange Online caixas de correio usando o Centro de administração do Microsoft 365 para excluir a conta de usuário correspondente ou remover Exchange Online licença de Exchange Online ou usando o cmdlet **Remove-Mailbox** em arquivos Windows PowerShell. Quando uma caixa de correio é excluída, o Exchange Online mantém a caixa de correio e seu conteúdo por 30 dias, por padrão. Após 30 dias, a caixa de correio não pode ser recuperada. Uma caixa de correio recuperada contém todos os dados armazenados no momento em que foi excluída. Os administradores podem recuperar uma caixa de correio excluída dentro do período de retenção usando o Centro de administração do Microsoft 365. Para recuperar uma caixa de correio excluída, os administradores têm que restaurar a conta de usuário correspondente ou reatribuir uma licença Exchange Online à conta de usuário. Para saber mais, confira [Excluir ou restaurar caixas de correio do usuário no Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
   
 ## <a name="deleted-item-recovery"></a>Recuperação de itens excluídos
 
 Exchange Online permite que os usuários restaurem itens excluídos de qualquer pasta de email, incluindo a pasta Itens Excluídos. Quando um item é excluído, ele é mantido na pasta Itens Excluídos do usuário. Ele permanece lá até que seja removido manualmente pelo usuário ou automaticamente removido por políticas de retenção. Os administradores podem personalizar as políticas de retenção no EAC ou usando o Windows PowerShell remoto.
   
-Após um item ser removido da pasta Itens Excluídos, ele permanece na pasta Itens Recuperáveis por mais 14 dias antes de ser removido permanentemente, mas os administradores podem aumentar esse tempo até um máximo de 30 dias usando o Windows PowerShell remoto. Os usuários podem recuperar o item durante esse período usando o recurso Recuperar Itens Excluídos Outlook na Web ou Outlook. Saiba como [alterar o período de retenção de item excluído](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention).
+Após um item ser removido da pasta Itens Excluídos, ele permanece na pasta Itens Recuperáveis por mais 14 dias antes de ser removido permanentemente, mas os administradores podem aumentar esse tempo até um máximo de 30 dias usando o Windows PowerShell remoto. Os usuários podem recuperar o item durante esse período usando o recurso Recuperar Itens Excluídos no Outlook na Web ou Outlook. Saiba como [alterar o período de retenção de item excluído](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention).
   
 Se um usuário remover manualmente um item da pasta Itens Recuperáveis, um administrador poderá recuperar o item dentro do mesmo período de 14 dias usando o recurso de Recuperação de Item Único e o Windows PowerShell remoto. Por padrão, a Recuperação de Item Único será desabilitada quando a caixa de correio for criada. Para saber mais, confira [Habilitar ou desabilitar a recuperação de item único para uma caixa de correio](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-single-item-recovery).
   

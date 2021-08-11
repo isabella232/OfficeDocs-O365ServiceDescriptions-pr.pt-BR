@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Saiba mais sobre as diferenças entre Microsoft 365 e Office 365 Education planos.
-ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290841"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662994"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -103,7 +103,7 @@ Cada Microsoft 365 Education plano inclui vários serviços individuais, como Ex
 |SharePoint<sup>7</sup>|Não|Não|Não|Sim<sup>8</sup>|Sim|Não|Não|Não|Não|
 |Skype for Business<sup>7</sup>|Não|Não|Não|Sim<sup>8</sup>|Sim|Não|Não|Não|Não|
 |Windows Cal do Servidor|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
-|Gerenciador de Configuração do Microsoft Endpoint|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
+|Microsoft Endpoint Configuration Manager|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
 |System Center Endpoint Protection|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
 
 > [!NOTE]

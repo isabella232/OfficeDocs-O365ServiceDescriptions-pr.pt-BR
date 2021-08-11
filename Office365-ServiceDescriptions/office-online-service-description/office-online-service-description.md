@@ -11,31 +11,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint no navegador da Web. Office para a Web facilita o trabalho e o compartilhamento Office arquivos de qualquer lugar com uma conexão com a Internet, de praticamente qualquer dispositivo. Microsoft 365 clientes com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em uso.
-ms.openlocfilehash: c4eaf4b2c482504ffa3e53f0177c1215b8c36da6
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+description: Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint no navegador da Web. Office para a Web torna mais fácil trabalhar e compartilhar arquivos Office de qualquer lugar com uma conexão com a Internet, de praticamente qualquer dispositivo. Microsoft 365 clientes com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em uso.
+ms.openlocfilehash: 6cc468d2d40b54a7f8a6b1bb4e8ba77bb917950142796e6976d3135c856297b2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699107"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702090"
 ---
 # <a name="office-for-the-web-service-description"></a>Descrição dos serviços do Office para Web
 
-Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint no navegador da Web. Office para a Web facilita o trabalho e o compartilhamento Office arquivos de qualquer lugar com uma conexão com a Internet, de praticamente qualquer dispositivo. Microsoft 365 clientes com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em uso. 
+Office para a Web (anteriormente Office Web Apps) abre documentos do Word, Excel, OneNote e PowerPoint no navegador da Web. Office para a Web torna mais fácil trabalhar e compartilhar arquivos Office de qualquer lugar com uma conexão com a Internet, de praticamente qualquer dispositivo. Microsoft 365 clientes com Word, Excel, OneNote ou PowerPoint podem exibir, criar e editar arquivos em uso. 
   
 ## <a name="available-plans"></a>Planos disponíveis
 
 Para obter informações detalhadas sobre o plano sobre assinaturas que habilitam usuários para Office para a Web, consulte a tabela de comparação [de assinatura completa](https://go.microsoft.com/fwlink/?linkid=2139145).
   
-## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidade de recursos Office para os planos web
+## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidade de recursos em Office para a Web planos
 
-Precisa de ajuda para descobrir qual solução Office melhor se encaixa na sua organização? As tabelas a seguir comparam Office recursos da Web com aplicativos de área de trabalho Microsoft Office recursos avançados. Use as tabelas para descobrir quais recursos estão disponíveis no Office para a Web e selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam do recurso de gráfico avançado do aplicativo de área de trabalho Excel enquanto outras precisam apenas exibir e editar levemente documentos do Word e PowerPoint apresentações com Office para a Web. 
+Precisa de ajuda para descobrir qual solução Office melhor se encaixa na sua organização? As tabelas a seguir comparam Office para a Web recursos aos aplicativos de Microsoft Office da área de trabalho. Use as tabelas para descobrir quais recursos estão disponíveis no Office para a Web e selecione o nome do recurso para ler uma breve descrição sobre como esse recurso funciona. Você pode descobrir que algumas pessoas em sua organização precisam do recurso de gráfico avançado do aplicativo de área de trabalho Excel enquanto outras precisam apenas exibir e editar levemente documentos do Word e PowerPoint apresentações com Office para a Web. 
   
 > [!NOTE]
->  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de Microsoft Office recursos. <br/>  O Microsoft Microsoft 365 Apps para Grandes Empresas é uma oferta de assinatura mensal do pacote de Office desktop mais recente. <br/>  Microsoft Office Os clientes locais do Servidor Online obterão um Office para a licença de edição da Web se eles adquirirem uma licença de pacote de área de trabalho do Office (como uma licença de Office Professional Plus, Office Standard ou Microsoft 365 Apps para Grandes Empresas). 
+>  Uma seleção limitada de recursos do Office foi feita para representar os recursos avançados do pacote do Office para a área de trabalho. As tabelas não são uma lista abrangente de Microsoft Office recursos. <br/>  O Microsoft Microsoft 365 Apps para Grandes Empresas é uma oferta de assinatura mensal do pacote de Office desktop mais recente. <br/>  Microsoft Office Os clientes locais do Servidor Online obterão uma licença de edição Office para a Web caso tenham comprado uma licença de pacote de área de trabalho do Office (como uma licença Office Professional Plus, Office Standard ou Microsoft 365 Apps para Grandes Empresas). 
   
 > [!NOTE]
-> Quando você abre um documento Office, como um anexo de email Outlook ou de uma biblioteca de documentos SharePoint, o documento será lançado em Office para a Web e será somente leitura. Para editar um documento no Office para a Web (modo de edição), você precisa de uma licença de pacote, como Office 365 Enterprise E1. Para editar um documento no aplicativo da área de trabalho, você precisa de uma licença de pacote de área de trabalho Office, como uma assinatura Microsoft 365 Apps para Grandes Empresas ou uma versão instalada do Office Professional Plus 2010. 
+> Quando você abre um documento Office, como um anexo de email Outlook ou de uma biblioteca de documentos SharePoint, o documento será Office para a Web e será somente leitura. Para editar um documento no Office para a Web (modo de edição), você precisa de uma licença de pacote, como Office 365 Enterprise E1. Para editar um documento no aplicativo da área de trabalho, você precisa de uma licença de pacote de área de trabalho Office, como uma assinatura Microsoft 365 Apps para Grandes Empresas ou uma versão instalada do Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 
@@ -160,7 +160,7 @@ Precisa de ajuda para descobrir qual solução Office melhor se encaixa na sua o
 |[Suplementos do Office](excel-online.md#office-add-ins) <br/> |Sim<sup>5</sup>  <br/> |Sim  <br/> |
 |[Criação e visualização offline](excel-online.md#offline-viewing-and-authoring) <br/> |Não  <br/> |Sim  <br/> |
 |[PivotCharts](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sim<sup>1</sup>  <br/> |Sim  <br/> |
-|[Tabelas Dinâmicas](excel-online.md#pivottables) <br/> |Sim  <br/> |Sim  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |Sim  <br/> |Sim  <br/> |
 |[Postar na rede social e apresentar online](excel-online.md#post-to-social-network-and-present-online) <br/> |Não  <br/> |Sim  <br/> |
 |[Visualização do Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 |[Exibição do Power View](excel-online.md#power-view-viewing) <br/> |Sim  <br/> |Sim  <br/> |
@@ -191,7 +191,7 @@ Precisa de ajuda para descobrir qual solução Office melhor se encaixa na sua o
 
 > [!NOTE] 
 > <sup>1</sup> Não é possível criar Gráficos Dinâmicas, exibir somente.
- <br/><sup>2</sup> Dependendo de como seu ambiente é configurado, alguns tipos de conexões de dados são suportados para as guias de trabalho exibidas Excel para a Web. Para obter mais informações, consulte Refreshing data in a workbook in a browser window. 
+ <br/><sup>2</sup> Dependendo de como seu ambiente está configurado, alguns tipos de conexões de dados são suportados para as guias de trabalho exibidas no Excel para a Web. Para obter mais informações, consulte Refreshing data in a workbook in a browser window. 
  <br/><sup>3</sup> Não é possível criar ou executar macros com o VBA no Excel para a Web, mas você pode abrir e editar planilhas habilitadas para VBA sem remover (ou corromper) o VBA contido no arquivo.
  <br/><sup>4</sup> Em Excel para a Web, o último valor de referência conhecido é exibido na janela do navegador; no entanto, ele deve ser atualizado usando o Excel da área de trabalho. 
  <br/><sup>5</sup> Alguns suplementos do Office estão disponíveis, mas nem todos. 
@@ -293,7 +293,7 @@ Precisa de ajuda para descobrir qual solução Office melhor se encaixa na sua o
 |[Visualização WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sim  <br/> |Sim  <br/> |
 
 > [!NOTE]
-><sup>1</sup> PowerPoint para a Web oferece suporte a uma galeria de oito transições e 37 animações. Para uma seleção maior ou para criar animações personalizadas, use o PowerPoint da área de trabalho. 
+><sup>1</sup> PowerPoint para a Web suporta uma galeria de oito transições e 37 animações. Para uma seleção maior ou para criar animações personalizadas, use o PowerPoint da área de trabalho. 
  <br/>
 <sup>2</sup> O dispositivo em que você está trabalhando precisa dar suporte à tinta. <br/> 
 <sup>3</sup> Alguns, mas não todos, Office os complementos estão disponíveis. <br/>

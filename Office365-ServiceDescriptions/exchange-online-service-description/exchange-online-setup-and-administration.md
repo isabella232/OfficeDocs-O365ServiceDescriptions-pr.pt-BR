@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: Este artigo descreve os controles de administração e o suporte que estão disponíveis para personalizar as configurações Exchange Online e manter o ambiente Exchange Online de uma organização em funcionamento, em execução e atual. Ela inclui informações sobre ferramentas de administração de autoatendimento e recursos disponíveis para as organizações; responsabilidades de administração e compromissos de desempenho da Microsoft; e atualizações de produtos e serviços.
-ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 24edb5a4c1855acd990ddc427e218cb601dc45aab34a5f6a83cf76cb561dbffe
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652725"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663944"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Instalação e administração do Exchange Online
 
@@ -33,7 +33,7 @@ Por esse motivo, o Exchange Online oferece aos administradores de clientes as se
   
 - [Portal do Microsoft Office 365](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Centro de administração do Microsoft 365](#microsoft-365-admin-center)
+- [Centro de administração Microsoft 365](#microsoft-365-admin-center)
     
 - [Centro de administração do Exchange](exchange-online-setup-and-administration.md#exchange-admin-center)
     
@@ -45,7 +45,7 @@ O portal do Microsoft Office 365, em [https://portal.office.com](https://portal.
   
 ### <a name="microsoft-365-admin-center"></a>Centro de administração do Microsoft 365
 
-O Microsoft 365 de administração é o portal da Web do qual o administrador de serviço de cada empresa pode gerenciar contas de usuário e configurações para cada um dos serviços Microsoft ao qual se inscreve. No centro de administração do Microsoft 365, os administradores podem seguir links para o centro de administração do Exchange (EAC), onde eles podem gerenciar configurações específicas Exchange Online. Para obter mais informações sobre como começar a usar o Microsoft 365 de administração, consulte o seguinte vídeo: [Apresentando](https://go.microsoft.com/fwlink/p/?LinkId=271806)Office 365 Enterprise .
+O Centro de administração do Microsoft 365 é o portal da Web do qual o administrador de serviço de cada empresa pode gerenciar contas de usuário e configurações para cada um dos serviços Microsoft ao qual se inscreve. De dentro do Centro de administração do Microsoft 365, os administradores podem seguir links para o centro de administração Exchange (EAC), onde eles podem gerenciar configurações específicas Exchange Online. Para obter mais informações sobre como começar a usar o Centro de administração do Microsoft 365, consulte o seguinte vídeo: [Apresentando](https://go.microsoft.com/fwlink/p/?LinkId=271806)Office 365 Enterprise .
   
 ### <a name="exchange-admin-center"></a>Centro de administração do Exchange
 

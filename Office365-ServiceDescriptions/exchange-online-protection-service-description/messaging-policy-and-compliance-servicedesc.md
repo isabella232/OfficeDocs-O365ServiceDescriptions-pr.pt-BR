@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Leia este artigo para saber mais sobre a política de mensagens e os recursos de conformidade no Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653343"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664104"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Política e conformidade de mensagens em Proteção do Exchange Online
 
@@ -51,7 +51,7 @@ Você pode configurar as políticas de DLP no EAC, que permitem:
 
 - Detecte dados confidenciais por meio de impressão digital do documento. A impressão digital de documento ajuda você a criar facilmente tipos de informações confidenciais personalizadas com base em formulários baseados em texto que você pode usar para definir regras de fluxo de emails e políticas de DLP.
 
-- Adicione a política Dicas, que pode ajudar a reduzir a perda de dados exibindo um aviso para o Outlook 2013, o Outlook na Web e o OWA para dispositivos e também pode melhorar a eficácia de suas políticas permitindo relatórios falsos positivos.
+- Adicione a política Dicas, que pode ajudar a reduzir a perda de dados exibindo um aviso para os usuários do Outlook 2013, Outlook na Web e OWA para Dispositivos e também pode melhorar a eficácia de suas políticas permitindo relatórios falsos positivos.
 
 - Revise os dados de incidentes em relatórios de DLP ou adicione seus próprios relatórios específicos usando uma ação de geração de relatórios de incidentes.
 
@@ -70,7 +70,7 @@ Criptografia de Mensagens do Office 365, uma parte da Proteção de Informaçõe
 |:-----|:-----|:-----|:-----|
 |Regras do fluxo de email|Sim<sup>1</sup>|Sim<sup>1</sup>|Sim<sup>1, 3</sup>|
 |Registro em log de auditoria|Sim<sup>2</sup>|Sim|Sim|
-|Prevenção de perda de dados (DLP)|Não|Sim|Sim<sup>3</sup>|
+|DLP (Prevenção de perda de dados)|Não|Sim|Sim<sup>3</sup>|
 |Criptografia de Mensagem do Office 365|Sim<sup>4</sup>|Sim|Sim<sup>4</sup>|
 
 > [!NOTE]

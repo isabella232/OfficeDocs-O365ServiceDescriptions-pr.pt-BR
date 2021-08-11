@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio para a Web estende sua experiência do Microsoft Visio para o navegador, onde você pode criar e editar diagramas salvos na nuvem. Microsoft 365 os clientes podem exibir, imprimir e compartilhar diagramas e inserir comentários em uso.
-ms.openlocfilehash: 329909219647b4edc61495fd7deb70945d184af7
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53096335"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702230"
 ---
 # <a name="visio-features"></a>Visio Recursos
 

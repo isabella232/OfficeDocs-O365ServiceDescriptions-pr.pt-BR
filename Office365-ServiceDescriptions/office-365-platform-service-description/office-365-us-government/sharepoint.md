@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Saiba mais sobre a SharePoint de recursos para clientes de nuvem do governo dos EUA.
-ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900771"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701820"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint ambientes governamentais dos EUA
 
@@ -53,7 +53,7 @@ Aqui estão as diferenças entre os recursos de administrador de IT para cliente
 - Mover.io ainda não há suporte
 - Multi-geo não está disponível para todos os clientes de nuvem do governo
 
-Para obter informações sobre a migração do FastTrack, consulte [Office 365 descrição do serviço do Governo dos EUA.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
+Para obter informações sobre FastTrack migração, consulte [Office 365 descrição do serviço do Governo dos EUA.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>Recursos de segurança e conformidade
 
@@ -81,7 +81,7 @@ Aqui estão as diferenças entre os sites e os recursos de conteúdo para client
 
 Aqui estão as diferenças entre os recursos de pesquisa para clientes comerciais e aqueles para clientes de nuvem governamental:
 
-- A Pesquisa da Microsoft não está disponível no GCC.
+- Pesquisa da Microsoft não está disponível no GCC.
 
 ## <a name="sharing-and-sync"></a>Compartilhamento e sincronização
 
@@ -94,5 +94,5 @@ Sua mudança para a nuvem oferece experiências transformativas com controles de
 ## <a name="deploy-sharepoint-for-collaboration"></a>Implantar SharePoint colaboração
 
 Depois de configurar sua organização na nuvem governamental do Microsoft US, siga o caminho de implantação recomendado descrito no centro de recursos SharePoint [adoção.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Certifique-se de se envolver com seus campeões de Gerenciamento de Alterações e Adoção.
-Você também pode trabalhar com [o FastTrack ou](https://www.microsoft.com/fasttrack) seu parceiro escolhido para lançar o serviço para seus usuários.
+Você também pode trabalhar com [FastTrack](https://www.microsoft.com/fasttrack) ou seu parceiro escolhido para lançar o serviço para seus usuários.
 Visite o [Centro de Confiamento](https://www.microsoft.com/trust-center) da Microsoft para saber mais sobre como a Microsoft aborda a segurança, privacidade e conformidade, princípios fundamentais para como capacitamos as organizações a atender seus clientes.

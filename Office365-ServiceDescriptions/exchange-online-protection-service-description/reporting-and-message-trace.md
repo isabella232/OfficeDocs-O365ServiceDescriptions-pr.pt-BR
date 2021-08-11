@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Leia este artigo para saber mais sobre Relatórios e rastreamento de mensagens no Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 383c222563e76d4a5613c9faac5b68417fa64b8a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8b593faea343d742c2f57ce430457e1803ba75b5a135d46f338eaed0e76d2ca6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653123"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664074"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Relatórios e rastreamento de mensagem no Exchange Online Protection
 
-O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no centro de administração Microsoft 365, enquanto outros estão disponíveis no centro de administração Exchange (EAC).
+O Microsoft Proteção do Exchange Online (EOP) oferece muitos relatórios diferentes que podem ajudá-lo a determinar o status e a integridade gerais de sua organização. Alguns relatórios estão disponíveis no Centro de administração do Microsoft 365, enquanto outros estão disponíveis no centro de administração Exchange (EAC).
 
 Você está procurando informações sobre todas as características EOP? Consulte a [descrição Proteção do Exchange Online serviço](exchange-online-protection-service-description.md).
 
 ## <a name="microsoft-365-admin-center-reports"></a>Relatórios do Centro de administração do Microsoft 365
 
-A página Relatórios no centro de administração do Microsoft 365 fornece informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas por regras de fluxo de emails (também conhecidas como regras de transporte) ou políticas de prevenção contra perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do EOP. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
+A página Relatórios no Centro de administração do Microsoft 365 fornece informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas por regras de fluxo de emails (também conhecidas como regras de transporte) ou políticas de prevenção contra perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do EOP. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
 
 Para obter informações mais detalhadas sobre esses relatórios, consulte [Use mail protection reports to view data about malware, spam, and rule detections](/exchange/monitoring/use-mail-protection-reports).
 

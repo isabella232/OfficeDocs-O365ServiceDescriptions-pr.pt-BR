@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Compare os recursos Visio para a Web com o Visio da área de trabalho.
-ms.openlocfilehash: 85d46d55c1de4509330db78cb63d7352eb26376f
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53095555"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702420"
 ---
 # <a name="visio-service-description"></a>Visio de serviço
 
@@ -29,7 +29,7 @@ Para obter mais informações e começar, consulte [Compare Visio Options](https
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-A tabela a seguir lista os principais recursos Visio disponíveis em aplicativos da Web e da área de trabalho. Certas advertências se aplicam. Consulte as notas de rodapé para obter mais informações. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada, completa dos recursos Visio entre planos, consulte [Compare Visio Options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options).<br><br> 
+A tabela a seguir lista os principais recursos Visio disponíveis em aplicativos da Web e da área de trabalho. Algumas advertências se aplicam. Veja as notas de rodapé para mais informações. Esta tabela pode ser alterada sem aviso prévio. Para a lista mais atualizada, completa dos recursos Visio entre planos, consulte [Compare Visio Options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options).<br><br> 
 
 | Recurso Application | Visio para a Web | Visio da área de trabalho |
 |:-----|:-----|:-----|
@@ -84,12 +84,12 @@ Para obter mais informações Visio, confira os seguintes recursos:
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
-Para termos e condições de licenciamento para produtos e serviços adquiridos por meio de Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto](https://www.microsoft.com/licensing/terms/).
+Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [Site de Termos do Produto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Mensagens
 
-Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
+Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 
-A Microsoft permanece comprometida com a segurança de seus dados e [com a acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft continua comprometida com a segurança dos seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e a [Central de Acessibilidade do Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

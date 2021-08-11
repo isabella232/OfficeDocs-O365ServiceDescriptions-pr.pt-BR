@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Os recursos listados neste tópico são uma coleção de ferramentas baseadas na Web que ajudam você a colaborar e se comunicar com segurança em vários dispositivos e vários serviços Office 365 serviços. Esses recursos ajudam a criar novas conexões com sua organização unificando a criação, armazenamento e gerenciamento de conteúdo digital com ferramentas sociais para descoberta e compartilhamento de informações entre usuários.
-ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
-ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
+ms.openlocfilehash: c12977bc68ea8871779a3615b1f3f121541b01658b273c42736d67da4894d20e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275600"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664484"
 ---
 # <a name="microsoft-365-suite-features"></a>Recursos do pacote Microsoft 365
 
@@ -51,12 +51,12 @@ Use a API do Microsoft Graph para criar rapidamente aplicativos que se conectam 
   
 ## <a name="microsoft-lists"></a>Microsoft Lists
 
-O Microsoft Lists é um Microsoft 365 que ajuda você a controlar informações e organizar o trabalho. As listas são simples, inteligentes e flexíveis, portanto, você pode ficar por dentro do que importa mais para sua equipe. Controlar problemas, ativos, rotinas, contatos, inventário e muito mais usando exibições personalizáveis e regras inteligentes para manter todos notificados e sincronizados. Com modelos prontos, você pode iniciar rapidamente listas online, em nosso novo aplicativo móvel ou em Microsoft Teams. Como faz parte do Microsoft 365, você pode contar com a segurança e a conformidade prontas para a empresa.
+Listas da Microsoft é um aplicativo Microsoft 365 que ajuda você a controlar informações e organizar o trabalho. As listas são simples, inteligentes e flexíveis, portanto, você pode ficar por dentro do que importa mais para sua equipe. Controlar problemas, ativos, rotinas, contatos, inventário e muito mais usando exibições personalizáveis e regras inteligentes para manter todos notificados e sincronizados. Com modelos prontos, você pode iniciar rapidamente listas online, em nosso novo aplicativo móvel ou em Microsoft Teams. Como faz parte do Microsoft 365, você pode contar com a segurança e a conformidade prontas para a empresa.
 
 Para saber mais, confira:
 
-* [Centro **de recursos de Listas públicas da Microsoft**](https://aka.ms/MSLists)
-* [Centro **de adoção de Listas públicas da Microsoft**](https://aka.ms/ListsAdoption)
+* [Centro **Listas da Microsoft de recursos públicos**](https://aka.ms/MSLists)
+* [Centro **de Listas da Microsoft de adoção pública**](https://aka.ms/ListsAdoption)
 
 ## <a name="microsoft-planner"></a>Microsoft Planner
 

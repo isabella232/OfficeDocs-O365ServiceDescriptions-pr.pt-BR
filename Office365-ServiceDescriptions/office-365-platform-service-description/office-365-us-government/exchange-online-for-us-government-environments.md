@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem governamental dos EUA e a nuvem comercial, conforme listado na descrição Exchange Online serviço.
-ms.openlocfilehash: d8f5879a82fbe2d74746e48cb7ecafced8d8e8aa
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721205"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664454"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online ambientes governamentais dos EUA
 
@@ -47,18 +47,18 @@ A tabela a seguir descreve se os recursos Exchange Online especificados estão d
 |Suporte para migração IMAP|Sim|Sim|Sim||
 |Suporte para migração de substituição|Sim|Sim|Sim||
 |Suporte para migração em estágios|Sim|Sim|Sim|A migração GSuite não é suportada para GCC Alta e DoD. Para obter mais informações, <a href="/exchange/mailbox-migration/perform-g-suite-migration">consulte Perform a GSuite migration</a>.|
-|**[Permissões](../../exchange-online-service-description/permissions.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Permissões](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Permissões baseadas em função|Sim|Sim|Sim||
 |Grupos de função|Sim|Sim|Sim||
 |Diretivas de atribuição de função|Sim|Sim|Sim||
-|**[Política e conformidade de mensagens](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Política e conformidade de mensagens](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Arquivamento de Caixas de Correio baseadas no Exchange Online|Sim|Sim|Sim||
 |Arquivamento baseado em nuvem de caixas de correio no local|Sim|Sim|Sim||
 |Messaging Records Management (MRM) |Sim|Sim|Sim||
 |Políticas de retenção manual, rótulos e marcas |Sim|Sim|Sim||
 |Criptografia de dados de tempo de parada (BitLocker)|Sim|Sim|Sim||
-|IRM usando a Proteção de Informações do Azure|Sim|Sim|Sim|Para obter mais informações sobre limitações da AIP no GCC High e DoD, consulte <a href="/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure Information Protection Premium Government Service Description</a>.<br><br>A Proteção de Informações do Azure não está incluída no G1/F3, mas pode ser comprada como um complemento separado e permitirá os recursos de Gerenciamento de Direitos de Informação (IRM) com suporte. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura Office 365 ProPlus, que não está incluída no Office 365 Government G1 ou Office 365 Government F3.|
-|IRM usando Windows Server AD RMS|Sim|Sim|Sim|Windows O Server AD RMS é um servidor local que deve ser comprado e gerenciado separadamente para habilitar os recursos de IRM com suporte.|
+|IRM usando a Proteção de Informações do Azure|Sim|Sim|Sim|Para obter mais informações sobre limitações da AIP no GCC High e DoD, consulte <a href="/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure Information Protection Premium Government Service Description</a>.<br><br>A Proteção de Informações do Azure não está incluída no G1/F3, mas pode ser comprada como um complemento separado e permitirá os recursos de Gerenciamento de Direitos de Informação (IRM) com suporte. Alguns recursos da Proteção de Informações do Azure exigem uma assinatura Office 365 ProPlus, que não está incluída no Office 365 para o Governo G1 ou Office 365 Government F3.|
+|IRM usando Windows Server AD RMS|Sim|Sim|Sim|Windows Server AD O RMS é um servidor local que deve ser comprado e gerenciado separadamente para habilitar os recursos de IRM com suporte.|
 |Criptografia de Mensagem do Office 365|Sim|Sim|Sim|Consulte Criptografia de Mensagens do Office 365 comportamento no limite de [GCC High/DoD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) neste artigo e Características exclusivas do Criptografia de Mensagens do Office 365 em uma implantação do <a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">GCC High</a>, que documentam nuances comportamentais do Criptografia de Mensagens do Office 365 ao enviar mensagens entre usuários do GCC High/DoD e usuários não GCC High/DoD.|
 |Chave de Cliente|Sim|Sim|Sim|Requer plano de serviço G5.|
 |S/MIME|Sim|Sim|Sim||
@@ -67,7 +67,7 @@ A tabela a seguir descreve se os recursos Exchange Online especificados estão d
 |Regras do fluxo de email|Sim|Sim|Sim||
 |Prevenção contra perda de dados|Sim|Sim|Sim|Requer plano de serviço G3 ou G5.|
 |Registro em Diário|Sim|Sim|Sim||
-|**[Proteção antispam e antimalware](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Proteção antispam e antimalware](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Proteção anti-spam integrado|Sim|Sim|Sim||
 |Customize anti-spam policies|Sim|Sim|Sim||
 |Proteção anti-malware integrado|Sim|Sim|Sim||
@@ -75,13 +75,13 @@ A tabela a seguir descreve se os recursos Exchange Online especificados estão d
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim||
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim||
 |Microsoft Defender para Office 365|Sim|Sim|Sim|Requer plano de serviço G5 (ou compra de complemento).<br><br>O anti-phishing para a representação de usuário e domínio e a inteligência de spoof ainda não estão disponíveis no GCC High e DoD.|
-|**[Fluxo de mensagens](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Fluxo de mensagens](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Roteamento personalizado de emails de saída|Sim|Sim|Sim||
 |Secure messaging with a trusted partner|Sim|Sim|Sim||
 |Conditional mail routing|Sim|Sim|Sim||
 |Adicionar um parceiro a uma lista segura de entrada|Sim|Sim|Sim||
 |Roteamento de email híbrido|Sim|Sim|Sim||
-|**[Destinatários](../../exchange-online-service-description/recipients.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Destinatários](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Alertas de capacidade|Sim|Sim|Sim||
 |Email secundário|Sim|Sim|Sim||
 |MailTips|Sim|Sim|Sim||
@@ -101,20 +101,20 @@ A tabela a seguir descreve se os recursos Exchange Online especificados estão d
 |Gerenciamento da sala de conferência|Sim|Sim|Sim||
 |Respostas de Ausência Temporária|Sim|Sim|Sim||
 |Compartilhamento de Calendário da Internet|Sim|Não|Não|No GCC High, a publicação/compartilhamento do Calendário da Internet funciona para conexão de entrada com calendários compartilhados por usuários do GCC High, mas não para usuários do GCC High que se conectam a um calendário compartilhado fora do GCC High.<br><br>No compartilhamento do Calendário do DoD-Internet não há suporte devido ao requisito de listagem de conexões de entrada/saída nesse ambiente.|
-|**[Recursos de relatórios e ferramentas de solução de problemas](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Recursos de relatórios e ferramentas de solução de problemas](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Relatórios do Centro de administração do Microsoft 365|Sim|Sim|Não|Relatórios não disponíveis para DoD. Consulte a seção <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">recursos da plataforma</a> da descrição do serviço Office 365 US Government para atualizações/disponibilidade atual.|
 |Relatórios de Serviços Web|Sim|Sim|Não|Relatórios não disponíveis para DoD. Consulte a seção <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">recursos da plataforma</a> da descrição do serviço Office 365 US Government para atualizações/disponibilidade atual.|
 |Message trace|Sim|Sim|Sim||
 |Relatórios de auditoria|Sim|Sim|Não|Relatórios não disponíveis para DoD. Consulte a seção <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">recursos da plataforma</a> da descrição do serviço Office 365 US Government para atualizações/disponibilidade atual.|
 |Relatórios de Unificação de Mensagens|Sim|Não|Não||
-|**[Compartilhamento e colaboração](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Compartilhamento e colaboração](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Compartilhamento federado (incluindo publicação de calendário)|Sim|Sim|Sim|As limitações existem GCC Alta e DoD. Consulte [Federação de Livre/Ocupado](#freebusy-federation) neste artigo.|
 |Caixas de correio local|Sim|Sim|Sim||
 |Pastas públicas|Sim|Sim|Sim||
-|**[Clientes e dispositivos móveis](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Clientes e dispositivos móveis](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |To Do na Web|Sim|Não|Não||
 |Outlook para Windows|Sim|Sim|Sim|Para atender GCC requisitos de conformidade high e DoD, você deve estar executando pelo menos a versão 1803 do Office 365 ProPlus. Office 365 ProPlus não está incluído no G1 ou F3.|
-|Outlook na Web|Sim|Sim|Sim||
+|Outlook na Web<sup>1</sup>|Sim|Sim|Sim||
 |Outlook para Mac|Sim|Sim|Sim|Para atender GCC requisitos de conformidade high e DoD, você deve estar executando pelo menos a versão 1803 do Office 365 ProPlus. Office 365 ProPlus não está incluído no G1 ou F3.|
 |Outlook para iOS e Android|Sim|Sim|Sim||
 |Exchange ActiveSync|Sim|Sim|Sim||
@@ -122,30 +122,32 @@ A tabela a seguir descreve se os recursos Exchange Online especificados estão d
 |POP e IMAP|Sim|Sim|Sim||
 |SMTP|Sim|Sim|Sim||
 |Suporte a aplicativos EWS|Sim|Sim|Sim||
-|**[Serviços de mensagens de voz](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Serviços de mensagens de voz](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Caixa postal|Não|Não|Não|Não há suporte para integração de sistemas IP-PBX locais Exchange Online Unificação de Mensagens.|
 |Integração entre caixa postal e FAX de terceiros|Não|Não|Não|Não há suporte para integração de sistemas IP-PBX locais Exchange Online Unificação de Mensagens.|
 |Interoperabilidade de caixa postal de terceiros|Não|Não|Não|Não há suporte para integração de sistemas IP-PBX locais Exchange Online Unificação de Mensagens.|
 |Skype for Business integração|Sim|Sim|Sim||
-|**[Alta disponibilidade e continuidade de negócios](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Alta disponibilidade e continuidade de negócios](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Replicação de caixa de correio em datacenters|Sim|Sim|Sim||
 |Recuperação da caixa de correio excluída|Sim|Sim|Sim||
 |Recuperação de itens excluídos|Sim|Sim|Sim||
 |Recuperação de item único|Sim|Sim|Sim||
-|**[Interoperabilidade, conectividade e compatibilidade](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Interoperabilidade, conectividade e compatibilidade](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Presença no OWA e Outlook|Sim|Sim|Sim||
 |SharePoint interoperabilidade|Sim|Sim|Sim||
 |Suporte à conectividade EWS|Sim|Sim|Sim||
 |Suporte a retransmissão SMTP|Sim|Sim|Sim||
-|**[Instalação e administração do Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Instalação e administração do Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Acesso ao portal do Microsoft Office 365|Sim|Sim|Não|Relatórios não disponíveis para DoD. Consulte a seção <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">recursos da plataforma</a> da descrição do serviço Office 365 US Government para atualizações/disponibilidade atual.|
-|Microsoft 365 de centro de administração|Sim|Sim|Não|Relatórios não disponíveis para DoD. Consulte a seção <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">recursos da plataforma</a> da descrição do serviço Office 365 US Government para atualizações/disponibilidade atual.|
+|Centro de administração do Microsoft 365 acesso|Sim|Sim|Não|Relatórios não disponíveis para DoD. Consulte a seção <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">recursos da plataforma</a> da descrição do serviço Office 365 US Government para atualizações/disponibilidade atual.|
 |Acesso ao centro de administração do Exchange|Sim|Sim|Sim||
 |Acesso Remoto do Windows PowerShell|Sim|Sim|Sim||
 |Políticas activeSync para dispositivos móveis|Sim|Sim|Sim||
 |Relatório de uso|Sim|Sim|Não|Relatórios não disponíveis para DoD. Consulte a seção <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">recursos da plataforma</a> da descrição do serviço Office 365 US Government para atualizações/disponibilidade atual.|
-|**[Estendendo o serviço - personalização, complementos e recursos](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**CCG Alto**|**DoD**|**Principais considerações**|
+|**[Estendendo o serviço - personalização, complementos e recursos](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Outlook e Outlook MAPI|Sim|Sim|Sim|Somente alguns OWA e Outlook estão disponíveis no GCC High e DoD. Consulte [Add-ins in Outlook e Outlook Web App](#add-insin-outlook-and-outlook-web-app) neste artigo.|
+
+<sup>1</sup> Outlook na Web pode ser usado em cenários quando o Outlook para Windows não consegue exibir as mensagens protegidas por IRM devido a restrições de limites cruzados (GCC cenários High /Non-GCC High).
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Nuances de recursos em GCC ambientes High e DoD
 
@@ -175,7 +177,7 @@ Se você planeja usar o Criptografia de Mensagens do Office 365 em um ambiente G
 
 - Ao enviar emails criptografados do GCC High ou DoD para destinatários no mesmo ambiente:
     
-    - Os envios podem criptografar manualmente emails no Outlook para PC e Mac e Outlook na Web, ou as organizações podem configurar uma política para criptografar emails usando Exchange regras de fluxo de emails.
+    - Os envios podem criptografar emails manualmente no Outlook para PC e Mac e Outlook na Web, ou as organizações podem configurar uma política para criptografar emails usando Exchange de fluxo de emails.
     
     - Os destinatários dentro GCC High/DoD recebem a mesma experiência de leitura em linha no Outlook para PC e Mac e Outlook na Web como todos os outros Office 365 usuários.
 

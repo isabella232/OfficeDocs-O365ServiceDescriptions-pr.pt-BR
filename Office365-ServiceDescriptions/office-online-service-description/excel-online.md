@@ -13,25 +13,25 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel para a Web (anteriormente Excel Web App) estende sua experiência de Microsoft Excel para o navegador da Web, onde você pode trabalhar com as guias de trabalho diretamente no site onde a caixa de trabalho está armazenada. Todos os clientes podem exibir e editar levemente Office arquivos usando Office para a Web.
-ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+description: Excel para a Web (anteriormente Excel Web App) estende sua experiência de Microsoft Excel para o navegador da Web, onde você pode trabalhar com as guias de trabalho diretamente no site onde a workbook está armazenada. Todos os clientes podem exibir e editar levemente Office arquivos usando Office para a Web.
+ms.openlocfilehash: fcb8211f8f37a6ce5b96ba2788ac72ebbd74c82b7dd857e58611547342670779
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699067"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702010"
 ---
 # <a name="excel-for-the-web"></a>Excel para a Web
 
-Excel para a Web (anteriormente Excel Web App) estende sua experiência de Microsoft Excel para o navegador da Web, onde você pode trabalhar com as guias de trabalho diretamente no site onde a caixa de trabalho está armazenada. Todos os clientes podem exibir e editar levemente Office arquivos usando Office para a Web.
+Excel para a Web (anteriormente Excel Web App) estende sua experiência de Microsoft Excel para o navegador da Web, onde você pode trabalhar com as guias de trabalho diretamente no site onde a workbook está armazenada. Todos os clientes podem exibir e editar levemente Office arquivos usando Office para a Web.
   
 > [!NOTE]
-> As guias de trabalho que excedem 50 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro Microsoft Office SharePoint Online. Para exibir arquivos maiores, você precisa ter o aplicativo de área de trabalho Excel instalado no computador. 
+> As guias de trabalho que excedem 50 megabytes (MB) não podem ser exibidas em Excel para a Web de dentro Microsoft Office SharePoint Online. Para exibir arquivos maiores, você precisa ter o aplicativo de área de trabalho Excel instalado no computador. 
 
 > [!NOTE]
-> Para ajudá-lo a comparar ofertas Excel, os recursos avançados listados neste artigo incluem recursos de aplicativos de área de trabalho que estão disponíveis apenas no pacote do Office (como Office Professional Plus, Office Standard ou Microsoft 365 Apps para Grandes Empresas). Para uma lista de todos os Office para os recursos web, como o Word para a Web e PowerPoint para a Web, consulte Disponibilidade de recursos em Office para os [planos web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+> Para ajudá-lo a comparar ofertas Excel, os recursos avançados listados neste artigo incluem recursos de aplicativos de área de trabalho que estão disponíveis apenas no pacote do Office (como Office Professional Plus, Office Standard ou Microsoft 365 Apps para Grandes Empresas). Para ver uma lista de todos os Office para a Web, como Word para a Web e PowerPoint para a Web, consulte Disponibilidade de recursos em Office para a Web [planos](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
 
-Para ver qual tipo de arquivo é suportado pelo Excel para a [Web,](office-online-service-description.md#supported-file-types-for-office-for-the-web)consulte Tipos de arquivo com suporte para Office para a Web . Para saber mais sobre as diferenças entre o Excel para a Web e o aplicativo de área de trabalho Excel, consulte Diferenças entre o uso de uma [workbook](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)no navegador e Excel .
+Para ver qual tipo de arquivo é suportado por Excel para a Web, consulte Tipos de arquivo com [suporte para Office para a Web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Para saber mais sobre as diferenças entre o Excel para a Web e o Excel da área de trabalho, consulte Diferenças entre o uso de uma caixa de trabalho no navegador e Excel [.](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)
   
 ## <a name="add-background-color-to-sheet-tabs"></a>Adicionar cor de plano de fundo às guias de planilha 
 
@@ -55,7 +55,7 @@ Use os botões de alinhamento na guia Página Inicial para mudar o alinhamento d
   
 ## <a name="apply-conditional-formatting"></a>Aplicar formatação condicional
 
-Use um formato condicional para ajudá-lo a explorar visualmente e analisar dados, detectar problemas críticos e identificar padrões e tendências. Saiba mais sobre como [usar a formatação condicional no Excel para a Web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
+Use um formato condicional para ajudá-lo a explorar visualmente e analisar dados, detectar problemas críticos e identificar padrões e tendências. Saiba mais sobre como [usar a formatação condicional em Excel para a Web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -102,11 +102,11 @@ Depois de criar uma Excel, talvez você queira apenas o estilo de tabela sem a f
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Você pode cortar, copiar e colar texto, hiperlinks, números, fórmulas, formas, gráficos e imagens. Se você tiver dados em colunas que você precisa girar para reorganizar em linhas, use o recurso **Transpose** no menu **Colar.** Saiba mais sobre [copiar e colar Excel para a Web.](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline) Usando o Edge ou o Chrome como navegador, você pode copiar hiperlinks de outros aplicativos e colar em Excel para a Web. Os hiperlinks pastados funcionarão normalmente.
+Você pode cortar, copiar e colar texto, hiperlinks, números, fórmulas, formas, gráficos e imagens. Se você tiver dados em colunas que você precisa girar para reorganizar em linhas, use o recurso **Transpose** no menu **Colar.** Saiba mais sobre [copiar e colar em Excel para a Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline). Usando o Edge ou o Chrome como navegador, você pode copiar hiperlinks de outros aplicativos e colar-os em Excel para a Web. Os hiperlinks pastados funcionarão normalmente.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
-Você pode usar Excel web para exibir conexões de dados, mas não pode criar conexões de dados externas usando Excel para a Web. Você precisará do aplicativo Excel desktop para trabalhar com dados externos.
+Você pode usar Excel para a Web para exibir conexões de dados, mas não pode criar conexões de dados externas usando Excel para a Web. Você precisará do aplicativo Excel desktop para trabalhar com dados externos.
   
 ## <a name="create-tables"></a>Criar tabelas
 
@@ -134,7 +134,7 @@ O Dropbox é um serviço de hospedagem de arquivos que oferece armazenamento na 
   
 ## <a name="duplicate-copy-worksheets"></a>Planilhas duplicadas (cópia)
 
-Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho Excel para a Web. Saiba mais sobre [como copiar planilhas em Excel para a Web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
+Você pode duplicar (ou copiar) planilhas em uma pasta de trabalho ou em outra pasta de trabalho em Excel para a Web. Saiba mais sobre [como copiar planilhas em Excel para a Web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Inserir a workbook na página da Web ou blog (OneDrive)
 
@@ -166,27 +166,27 @@ Microsoft Excel aplicativo da área de trabalho fornece as ferramentas de fórmu
   
 ## <a name="freeze-panes"></a>Freeze panes
 
-O recurso de painéis de congelamento está disponível no Excel para a faixa de opções da Web. Saiba mais sobre [como os painéis de congelamento funcionam Excel](https://go.microsoft.com/fwlink/p/?LinkId=282331) e confira dicas para Excel para a [Web](https://go.microsoft.com/fwlink/?linkid=869873).
+O recurso de painéis de congelamento está disponível na faixa Excel para a Web faixa de opções. Saiba mais sobre [como os painéis de congelamento funcionam Excel](https://go.microsoft.com/fwlink/p/?LinkId=282331) e confira dicas para [Excel para a Web](https://go.microsoft.com/fwlink/?linkid=869873).
   
 ## <a name="full-fidelity-reading-view"></a>Modo de exibição de leitura de fidelidade total
 
 Tudo o que você pode ver na pasta de trabalho no navegador, em modo de exibição de Edição, também pode ser visto no modo de exibição de Leitura.
   
-## <a name="functions"></a>Functions
+## <a name="functions"></a>Funções
 
-Você pode usar a maioria das mais de 400 funções de planilha Excel em fórmulas no Excel para a Web, incluindo funções usadas em [fórmulas dinâmicas](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)de matriz, como a [função FILTER](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759).
+Você pode usar a maioria das mais de 400 funções de planilha Excel em fórmulas no Excel para a Web, incluindo funções usadas em [fórmulas dinâmicas](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)de matriz, como a função [FILTER](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759).
   
 ## <a name="goto"></a>GoTo
 
-Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência de célula e vá para esse local na planilha. Saiba mais sobre [atalhos de teclado no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkID=272943).
+Navegue rapidamente sua planilha usando o recurso GoTo. Digite uma referência de célula e vá para esse local na planilha. Saiba mais sobre [atalhos de teclado em Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkID=272943).
  
 ## <a name="group-data"></a>Dados de grupo
 
-Você pode agrupar ou delinear linhas e colunas em seu Excel para a planilha da Web. Atalhos de teclado facilitam a rápida expansão ou ressarção dos grupos que você cria. Saiba mais sobre [como agrupar dados Excel para a Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
+Você pode agrupar ou delinear linhas e colunas em sua planilha Excel para a Web. Atalhos de teclado facilitam a rápida expansão ou ressarção dos grupos que você cria. Saiba mais sobre [como agrupar dados em Excel para a Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
-Você pode ocultar e desinibir linhas, colunas e folhas em uma planilha Excel para a Web.
+Você pode ocultar e desinibir linhas, colunas e folhas em uma planilha em Excel para a Web.
 
 ## <a name="ideas"></a>Ideias
 
@@ -202,11 +202,11 @@ Selecione uma ou mais linhas  antes de  selecionar **Inserir** ou Excluir na gui
 
 ## <a name="insert-pictures"></a>Inserir imagens
 
-Adicione algum interesse visual inserindo imagens em sua planilha. Saiba mais sobre [como inserir imagens no Excel para a Web](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3).
+Adicione algum interesse visual inserindo imagens em sua planilha. Saiba mais sobre [como inserir imagens em Excel para a Web](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3).
 
 ## <a name="insert-shapes"></a>Inserir formas
 
-Adicionar e formatar formas, como caixas, círculos, linhas, conectores ou setas ao seu Excel para a planilha da Web. Saiba mais sobre [como adicionar formas](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+Adicione e formate formas como caixas, círculos, linhas, conectores ou setas à sua planilha Excel para a Web. Saiba mais sobre [como adicionar formas](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
 
 ## <a name="keyboard-shortcuts"></a>Atalhos de teclado
 
@@ -218,7 +218,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>Intervalos nomeados
 
-Não é possível criar intervalos nomeados no Excel para a Web, mas você pode usar os intervalos nomeados que você criou na área de trabalho Excel em sua planilha no Excel para a Web. Quando você seleciona um intervalo nomeado, o nome aparece logo antes da barra de fórmulas.
+Não é possível criar intervalos nomeados em Excel para a Web, mas você pode usar os intervalos nomeados que você criou Excel área de trabalho em sua planilha em Excel para a Web. Quando você seleciona um intervalo nomeado, o nome aparece logo antes da barra de fórmulas.
 
 ## <a name="number-formatting"></a>Formatação de números
 
@@ -230,11 +230,11 @@ Altere o formato dos números. Escolha um formato como Moeda ou Data Abreviada e
 
 ## <a name="offline-viewing-and-authoring"></a>Criação e visualização offline
 
-Excel para a Web é lançada de um navegador da Internet e depende de uma conexão com a Internet. Para acessar planilhas offline, o aplicativo de área de trabalho Microsoft Excel precisa ser instalado em seu computador e usado para ver e editar planilhas do Excel.
+Excel para a Web é lançado a partir de um navegador da Internet e depende de uma conexão com a Internet. Para acessar planilhas offline, o aplicativo de área de trabalho Microsoft Excel precisa ser instalado em seu computador e usado para ver e editar planilhas do Excel.
 
 ## <a name="pivottables"></a>Tabela Dinâmica
 
-Você pode inserir tabelas dinâmicas em seu Excel para a planilha da Web e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma tabela dinâmica [no Excel para a Web](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
+Você pode inserir tabelas dinâmicas em sua planilha Excel para a Web e calcular, resumir e analisar dados. Saiba mais sobre como inserir uma tabela dinâmica [no](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web)Excel para a Web .
 
 ## <a name="post-to-social-network-and-present-online"></a>Poste nas redes sociais e faça apresentações online
 
@@ -242,7 +242,7 @@ Compartilhe partes selecionadas de suas planilhas na Web, inserindo-as em suas p
   
 ## <a name="power-pivot-viewing"></a>Visualização do Power Pivot
 
-Excel para a Web permite que você veja tabelas e gráficos do Power Pivot, mas você precisa Excel aplicativo de área de trabalho para criar modelos de dados do Power Pivot.
+Excel para a Web permite que você veja tabelas e gráficos do Power Pivot, mas você precisa Excel aplicativo da área de trabalho para criar modelos de dados do Power Pivot.
   
 ## <a name="power-view-viewing"></a>Power View viewing
 
@@ -250,7 +250,7 @@ Você pode exibir e interagir com Power View planilhas em uma planilha, mas não
   
 ## <a name="print"></a>Imprimir
 
-Use o comando Imprimir em Excel para a Web para enviar toda a planilha ou a seleção atual para a impressora. Saiba mais sobre [como imprimir no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
+Use o comando Imprimir em Excel para a Web para enviar toda a planilha ou a seleção atual para a impressora. Saiba mais sobre [como imprimir em Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
 ## <a name="real-time-co-authoring"></a>Coautoria em tempo real
 
@@ -270,7 +270,7 @@ Selecione o ícone Nova Planilha para adicionar uma planilha. Clique com o botã
   
 ## <a name="rename-file-while-workbook-is-open"></a>Renomear o arquivo com a pasta de trabalho aberta
 
-Em Excel para a Web, você pode renomear um arquivo de pasta de trabalho sem fechar o arquivo selecionando o nome do arquivo no header e digitando um novo nome. Para renomear um arquivo usando o aplicativo da área de trabalho Excel, feche o arquivo, navegue para seu local no dispositivo e renomeie o arquivo.
+Em Excel para a Web, você pode renomear um arquivo de pasta de trabalho sem o fechar selecionando o nome do arquivo no header e digitando em um novo nome. Para renomear um arquivo usando o aplicativo da área de trabalho Excel, feche o arquivo, navegue para seu local no dispositivo e renomeie o arquivo.
   
 ## <a name="replace"></a>Substituir
 
@@ -290,7 +290,7 @@ Mantenha o controle do acesso e da sensibilidade de seus documentos aplicando ma
   
 ## <a name="share"></a>Compartilhar
 
-Processo de um clique que envia um link para que outros vejam ou editem o documento. Saiba mais sobre [como usar Office web para trabalhar em conjunto Office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
+Processo de um clique que envia um link para que outros vejam ou editem o documento. Saiba mais sobre [como usar Office para a Web para trabalhar em conjunto no Office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
 ## <a name="sheet-protection"></a>Proteção da planilha
 
@@ -302,7 +302,7 @@ Ao compartilhar um arquivo do Excel com outros usuários, você pode proteger a 
   
 ## <a name="slicers"></a>Segmentações de dados
 
-Exibir fatias em sua planilha e filtrar seus dados selecionando os botões da slicer. Não é possível criar ou editar slicers Excel para a Web, mas você pode excluir as fatias existentes.
+Exibir fatias em sua planilha e filtrar seus dados selecionando os botões da slicer. Não é possível criar ou editar fatias em Excel para a Web, mas você pode excluir as fatias existentes.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -314,15 +314,15 @@ No aplicativo de área de trabalho Microsoft Excel, você pode usar os recursos 
   
 ## <a name="status-bar-aggregates"></a>Status bar aggregates
 
-Quando você seleciona um grupo de células no Excel para a Web, você pode ver a SOMA, MÉDIA e CONTAGEM na barra de status. Você também pode personalizar a barra de status escolhendo quais conjuntos agregados deseja ver.
+Quando você seleciona um grupo de células Excel para a Web, você pode ver a SOMA, MÉDIA e CONTAGEM na barra de status. Você também pode personalizar a barra de status escolhendo quais conjuntos agregados deseja ver.
   
 ## <a name="surveys"></a>Pesquisas
 
-Use Survey para enviar um Excel para o formulário da Web para os usuários que eles podem preencher. As respostas serão compiladas automaticamente em uma planilha online. Saiba mais sobre [pesquisas em Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
+Use Survey para enviar um Excel para a Web para os usuários que eles podem preencher. As respostas serão compiladas automaticamente em uma planilha online. Saiba mais sobre [pesquisas em Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
   
 ## <a name="tell-me"></a>Diga-me
 
-Quando você precisa realizar algo no Excel para a Web, mas não sabe como, você pode usar o recurso de pesquisa Diga-me para encontrar rapidamente o que você está procurando. Diga-Me compreende o que você está tentando realizar e o ajuda a fazer isso mais rápido fazendo sugestões.
+Quando você precisa realizar algo no Excel para a Web, mas não sabe como, pode usar o recurso de pesquisa Diga-me para encontrar rapidamente o que está procurando. Diga-Me compreende o que você está tentando realizar e o ajuda a fazer isso mais rápido fazendo sugestões.
 
 ## <a name="text-formatting"></a>Formatação de texto
 
@@ -334,7 +334,7 @@ Você pode rapidamente total de dados em uma tabela habilitando a opção Altern
 
 ## <a name="undo-and-redo"></a>Desfazer e refazer
 
-Excel para a Web salva seu trabalho automaticamente. Se você cometer um erro, use Desfazer ou pressione Ctrl+Z e Refazer ou pressione Ctrl+Y. Saiba mais sobre [atalhos de teclado no Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
+Excel para a Web salva seu trabalho automaticamente. Se você cometer um erro, use Desfazer ou pressione Ctrl+Z e Refazer ou pressione Ctrl+Y. Saiba mais sobre [atalhos de teclado em Excel para a Web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
   
 ## <a name="vba-and-macro-scripting"></a>Scripts de macros e VBA
 
@@ -354,4 +354,4 @@ O Workbook Statistics de recursos conta e identifica elementos de uma workbook, 
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Office para a descrição do serviço [Web.](office-online-service-description.md)
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Office para a Web descrição do serviço.](office-online-service-description.md)

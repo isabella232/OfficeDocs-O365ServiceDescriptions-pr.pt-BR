@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de IT que estão conduzindo implantações do Office 365 em entidades governamentais federais, estaduais, locais, tribais ou territoriais dos EUA ou outras entidades que lidam com dados sujeitos a regulamentos e requisitos governamentais, onde o uso do Microsoft 365 Government - GCC é apropriado para atender a esses requisitos.
-ms.openlocfilehash: d3be49d3171e07cfc11e6d6924a8b5ec2395d920
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: 44dd4a10560fb5bd0d1c0f36f3290b621798d03d390573d789b99d62047bad1e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001897"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663264"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planejar Microsoft 365 conformidade – GCC
 
@@ -115,7 +115,7 @@ Para acomodar os requisitos de nossos clientes de nuvem do governo, há algumas 
 | Gerenciamento de registros                     | Prova de descarte                            | Disponível |
 | Gerenciamento de registros                     | Registros de versão                            | Disponível |
 | Gerenciamento de registros                     | Registros regulatórios                         | Disponível |
-| Gerenciamento de registros                     | Usar SharePoint classificação Syntex para aplicar rótulos de registro | No backlog de engenharia |
+| Gerenciamento de registros                     | Usar SharePoint Syntex classificação para aplicar rótulos de registro | No backlog de engenharia |
 | **Gerenciamento de riscos insider**             | Sistema de Proteção de Dados do cliente                                | Disponível            |
 | Conformidade em comunicações                | Capacidade de ignorar assinatura de email ou aviso de isenção de responsabilidade                         | No desenvolvimento |
 | Conformidade em comunicações                | Capacidade de definir um período de retenção para uma política de Conformidade de Comunicação                         | No desenvolvimento |

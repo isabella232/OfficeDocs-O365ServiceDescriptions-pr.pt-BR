@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando você adiciona um domínio, um assistente passo a passo ajuda você a adicionar usuários e converter seus endereços de email e outros serviços em seu nome comercial. Quando você conclui o assistente, seu email comercial começa a chegar à Microsoft em vez de ir para o provedor de email atual. Para saber mais, confira Adicionar seus usuários e domínios à Microsoft. Se você usa o Office 365 operado pela 21Vianet, confira Verificar seu domínio.
-ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652565"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662984"
 ---
 # <a name="domains"></a>Domínios
 
@@ -43,7 +43,7 @@ Se seu domínio estiver registrado no GoDaddy, a Microsoft poderá criar os regi
   
 Não importa onde seus registros DNS estão hospedados, você pode configurar os registros DNS para usar seu domínio para a URL de um site público hospedado na Microsoft ou com um provedor de hospedagem diferente. 
   
-A Microsoft verifica proativamente seus registros DNS para encontrar e ajudar a corrigir problemas DNS. Se os registros DNS não corresponderem ao que esperamos que sejam, você receberá uma notificação no centro de administração do Microsoft 365, juntamente com informações que informam como corrigir os possíveis problemas que foram identificados.
+A Microsoft verifica proativamente seus registros DNS para encontrar e ajudar a corrigir problemas DNS. Se seus registros DNS não corresponderem ao que esperamos que sejam, você receberá uma notificação no Centro de administração do Microsoft 365, juntamente com informações que informam como corrigir os possíveis problemas que foram identificados.
   
 Para obter mais informações, consulte [How Microsoft manages DNS records](/office365/admin/setup/domains-faq) or, for Office 365 operated by 21Vianet, see Create DNS records for Office 365 when you manage your DNS [records](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
   
@@ -53,7 +53,7 @@ Você pode pilotar alguns endereços de email para um domínio na Microsoft e al
   
 - [Piloto Microsoft 365 para uma pequena empresa](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [Piloto Microsoft 365 para uma grande empresa (usando o FastTrack)](https://fasttrack.office.com/onboard)
+- [Piloto Microsoft 365 para uma grande empresa (usando FastTrack)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

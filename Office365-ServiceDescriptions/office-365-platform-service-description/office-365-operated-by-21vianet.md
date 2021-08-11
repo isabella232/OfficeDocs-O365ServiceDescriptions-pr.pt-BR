@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços de nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 78d6b6a448c1602bad52739aafa26512d5a90816
-ms.sourcegitcommit: 74fda292066b57169e19c846f0a315221f1a8334
+ms.openlocfilehash: 4d3f9ff8f649a748668c3f3156166cb913612acd6a72811a9870604de4d560d2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53590125"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701631"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -230,7 +230,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-| Recurso | Office Professional Plus 2013 operado pela 21Vianet | Office Professional Plus 2016 operado por 21Vianet | Office 365 ProPlus operado pela 21Vianet | Microsoft 365 Apps para Pequenos e Médios negócios | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Business Standard | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
+| Recurso | Office Professional Plus 2013 operado pela 21Vianet | Office Professional Plus 2016 operado por 21Vianet | Office 365 ProPlus operado pela 21Vianet | Aplicativos do Microsoft 365 para empresas | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Business Standard | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **Aplicativos do Office** | | | | | | | | | |
 | [Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) | Sim | Sim | Sim | Sim | Não | Sim | Não | Sim | Não |

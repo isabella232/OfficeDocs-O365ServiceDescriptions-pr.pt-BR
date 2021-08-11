@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 23cc82d51d1afcbd2662e86dd6bc2aeebfb22346
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 42a92a444a49b19d4589dd733426505c92c59e563776728f2ecf02aef53a7b36
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652675"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663584"
 ---
 # <a name="voice-message-services"></a>Serviços de mensagens de voz
 
@@ -30,17 +30,17 @@ O Microsoft Exchange Online fornece serviços de caixa postal hospedados, que of
     
 - Interface de discagem para chamadores (atendedor automático)
     
-Os serviços de mensagens de voz hospedados permitem que uma empresa conecte seu sistema de telefone local a serviços de caixa postal fornecidos pelo Exchange Online. As mensagens de caixa postal são gravadas e armazenadas na infraestrutura Exchange Online, permitindo que os usuários acessem suas mensagens de voz Outlook, Outlook na Web ou telefones celulares. Todas as conexões de telefonia do Exchange Online exigem protocolos de voz sobre IP (VoIP). Os administradores podem conectar os IP PBXs ou sistemas de telefone PBX que usam gateways de mídia VoIP e controladores de borda da sessão (SBCs) ao Exchange Online. O gateway de mídia não é necessário se o cliente tiver implantado um IP PBX ou se o PBX compatível com VoIP diretamente e for interoperável com os serviços de mensagens de voz do Exchange. Os SBCs são implantados no perímetro da rede do cliente para conectar uma rede de telefonia local e ajudar a tornar a comunicação (e a rede do cliente) segura contra interceptação e intrusão. A interoperabilidade com as funcionalidades de voz do Microsoft Lync Server 2010 e 2013 também é compatível.
+Os serviços de mensagens de voz hospedados permitem que uma empresa conecte seu sistema de telefone local a serviços de caixa postal fornecidos pelo Exchange Online. As mensagens de caixa postal são gravadas e armazenadas na infraestrutura Exchange Online, permitindo que os usuários acessem suas mensagens de voz de Outlook, Outlook na Web ou telefones celulares. Todas as conexões de telefonia do Exchange Online exigem protocolos de voz sobre IP (VoIP). Os administradores podem conectar os IP PBXs ou sistemas de telefone PBX que usam gateways de mídia VoIP e controladores de borda da sessão (SBCs) ao Exchange Online. O gateway de mídia não é necessário se o cliente tiver implantado um IP PBX ou se o PBX compatível com VoIP diretamente e for interoperável com os serviços de mensagens de voz do Exchange. Os SBCs são implantados no perímetro da rede do cliente para conectar uma rede de telefonia local e ajudar a tornar a comunicação (e a rede do cliente) segura contra interceptação e intrusão. A interoperabilidade com as funcionalidades de voz do Microsoft Lync Server 2010 e 2013 também é compatível.
   
-Os recursos de serviços de mensagens de voz disponíveis no Exchange Online são semelhantes aos oferecidos no Exchange Server 2016. Entre eles:
+Os recursos de serviços de mensagens de voz disponíveis no Exchange Online são semelhantes aos oferecidos no Exchange Server 2016. Eles incluem:
   
-- Reproduza no telefone Outlook e Outlook na Web.
+- Reproduza no telefone de Outlook e Outlook na Web.
     
 - Notificações de chamada não atendida.
     
 - ID de quem fez a chamada (usando as informações da Lista de Endereços Global, contatos pessoais dos usuários, pasta Contatos personalizada e contatos das redes sociais externas).
     
-- Pin de caixa postal redefinido Outlook na Web e Outlook (consulte [Reset a Voice Mail PIN](/exchange/voice-mail-unified-messaging/set-outlook-voice-access-pin-security/reset-a-voice-mail-pin)).
+- Pin de caixa postal redefinido Outlook na Web e Outlook (consulte [Redefinir um PIN de Caixa Postal](/exchange/voice-mail-unified-messaging/set-outlook-voice-access-pin-security/reset-a-voice-mail-pin)).
     
 - Indicador de Espera da Mensagem (confira [MWI no Exchange Online](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/mwi-in-exchange-online) para ver detalhes). 
     

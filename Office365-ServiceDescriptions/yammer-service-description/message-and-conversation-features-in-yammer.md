@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Os recursos de conversa e mensagem a seguir estão disponíveis no Yammer.
-ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d0b9859bb2486f300354c4c21fb883db5428d0e67913bdd9d78d1043d63e7ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653593"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702190"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Recursos de conversas e mensagens no Yammer
 
@@ -31,9 +31,9 @@ Notifique outros colegas de trabalho e envolva-os em uma conversa @mencionando o
 
 Organize reuniões e eventos, compartilhe-os com colegas de trabalho e acompanhe a participação. Os eventos podem ser adicionados a calendários Outlook, Google, Yahoo!e iCal.
   
-## <a name="office-for-the-web-support"></a>Office suporte à Web
+## <a name="office-for-the-web-support"></a>Office para a Web suporte
 
-Com Office para o suporte à Web no Yammer, os documentos carregados no Yammer podem ser exibidos e editados com o Office para a Web, diretamente Yammer. Isso permite que os documentos sejam renderizados de forma Office para a Web, habilita a coautoragem por diferentes usuários simultaneamente e exibe conversas Yammer relevantes, bem no navegador.
+Com Office para a Web suporte no Yammer, os documentos carregados no Yammer podem ser exibidos e editados com Office para a Web, diretamente Yammer. Isso permite que os documentos sejam renderizados de forma Office para a Web, habilita a coautoragem por diferentes usuários simultaneamente e exibe conversas Yammer relevantes, bem no navegador.
 
 ## <a name="online-now"></a>Online agora
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 description: Leia este artigo para saber mais sobre os recursos de conformidade disponíveis Microsoft Exchange Online Arquivamento.
-ms.openlocfilehash: 0d424823116dd670c81628eaf85d1d553fdb5b8e
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: a85ac5ec69905ca30b00871fa72110df87720588d2599e8afdf9da00f1044dc9
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653083"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664584"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Recursos de conformidade e segurança em Arquivamento do Exchange Online
 
@@ -31,7 +31,7 @@ O Arquivamento do Exchange Online oferece políticas de retenção para ajudar a
   
 O Arquivamento do Exchange Online oferece dois tipos de condições: arquivar e excluir. Ambos os tipos podem ser combinados no mesmo item ou pasta. Por exemplo, um usuário pode marcar um email para ser movido automaticamente para o arquivo morto pessoal em um número específico de dias e excluído após outro intervalo de dias.
   
-Com o Outlook 2010 e posterior e Outlook na Web, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais e também podem exibir as políticas de retenção aplicadas e as datas de exclusão esperadas nas mensagens. Os usuários de outros clientes de email podem ter emails excluídos ou arquivados com base nas políticas de retenção do lado do servidor provisionadas pelo administrador, mas não têm o mesmo nível de visibilidade e controle.
+Com Outlook 2010 e posterior e Outlook na Web, os usuários podem aplicar políticas de retenção a pastas, conversas ou mensagens individuais e também podem exibir as políticas de retenção aplicadas e as datas de exclusão esperadas nas mensagens. Os usuários de outros clientes de email podem ter emails excluídos ou arquivados com base nas políticas de retenção do lado do servidor provisionadas pelo administrador, mas não têm o mesmo nível de visibilidade e controle.
   
 Os recursos de política de retenção oferecidos no Arquivamento do Exchange Online são iguais aos oferecidos no Exchange Server 2010 Service Pack 2 (SP2) e posterior. Os administradores podem gerenciar políticas de retenção de local Exchange Server 2010 e em ambientes posteriores. As pastas gerenciadas, uma abordagem mais antiga do gerenciamento de registros de mensagem que foi introduzida no Exchange 2007, não estão disponíveis no Exchange Online. Confira mais informações em [Marcas de retenção e políticas de retenção](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
   
@@ -95,7 +95,7 @@ TLS é usado para criptografar a conexão entre servidores de email para ajudar 
 
 Conexões de cliente a Arquivamento do Exchange Online use os seguintes métodos de criptografia para aumentar a segurança:
   
-- SSL é usado para proteger Outlook, Outlook na Web e Exchange de Serviços Web, usando a porta TCP 443.
+- SSL é usado para proteger Outlook, Outlook na Web e Exchange web services, usando a porta TCP 443.
     
 - Conexões de cliente com servidores locais não são alteradas com a introdução do Arquivamento do Exchange Online.
     
@@ -109,9 +109,9 @@ Semelhantemente, Arquivamento do Exchange Online armazena mensagens que são cri
 
 O Arquivamento do Exchange Online não oferece serviços hospedados de IRM (Gerenciamento de Direitos de Informação), mas os administradores podem usar o AD RMS (Active Directory Rights Management Services) local com o Exchange Online. Se um servidor AD RMS for implantado, o Outlook poderá se comunicar diretamente com o servidor, permitindo que os usuários redijam e leiam mensagens protegidas pelo AD RMS. Se estiver configurada a interoperabilidade entre o servidor do AD RMS e o ambiente do Exchange no local, os usuários será capazes de compor e ler mensagens protegidas por IRM.
   
-#### <a name="support-for-irm-in-outlook-on-the-web"></a>Suporte para IRM em Outlook na Web
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Suporte para IRM no Outlook na Web
 
-Os usuários podem ler e criar mensagens protegidas por IRM na Outlook na Web, assim como podem em Outlook. As mensagens protegidas por IRM Outlook na Web podem ser acessadas por meio do Internet Explorer, Firefox, Safari e Chrome (sem necessidade de plug-in). Os recursos de visualização incluem pesquisa de texto completo, exibição de conversa e o painel de visualização. Interoperabilidade entre o servidor do Active Directory Rights Management Services e o ambiente do Exchange no local deve ser configurada para habilitar isso.
+Os usuários podem ler e criar mensagens protegidas por IRM na Outlook na Web, assim como podem em Outlook. As mensagens protegidas por IRM no Outlook na Web podem ser acessadas por meio do Internet Explorer, Firefox, Safari e Chrome (sem necessidade de plug-in). Os recursos de visualização incluem pesquisa de texto completo, exibição de conversa e o painel de visualização. Interoperabilidade entre o servidor do Active Directory Rights Management Services e o ambiente do Exchange no local deve ser configurada para habilitar isso.
   
 #### <a name="irm-search"></a>Pesquisa IRM
 

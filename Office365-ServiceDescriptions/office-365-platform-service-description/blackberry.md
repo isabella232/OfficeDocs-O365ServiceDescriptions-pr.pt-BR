@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Os dispositivos BlackBerry® podem acessar email e documentos no Office 365.
-ms.openlocfilehash: 4c76e00364351b601a7566446b040ac5bd461535
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e0605fb16861617c4f706c1c802669fcdf7e4deb0ea265b433d88e0223dd1d14
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653383"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663024"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -49,7 +49,7 @@ A maioria das operadoras móveis tem BIS configurada. Os usuários finais precis
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>Dispositivos BlackBerry com SharePoint Online
 
-Para o acesso SharePoint Online da Microsoft, os usuários BlackBerry podem usar o navegador nativo em seu smartphone BlackBerry para acessar os sites SharePoint Online. Os usuários do BlackBerry podem exibir documentos do Word, Excel e PowerPoint usando Office para a renderização da Web no navegador móvel.
+Para o acesso SharePoint Online da Microsoft, os usuários BlackBerry podem usar o navegador nativo em seu smartphone BlackBerry para acessar os sites SharePoint Online. Os usuários do BlackBerry podem exibir documentos do Word, Excel e PowerPoint usando Office para a Web renderização no navegador móvel.
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 

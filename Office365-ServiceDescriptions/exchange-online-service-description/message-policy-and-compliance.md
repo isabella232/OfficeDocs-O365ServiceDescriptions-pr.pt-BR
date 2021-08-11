@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Saiba mais sobre a política de mensagens e a conformidade Exchange Online.
-ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652705"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663764"
 ---
 # <a name="message-policy-and-compliance"></a>Política e conformidade de mensagens
 
@@ -25,9 +25,9 @@ ms.locfileid: "51652705"
 
 As caixas de correio do Exchange Online residem na nuvem, e o arquivamento delas requer ambientes de hospedagem exclusivos. Em alguns casos, o Exchange Online pode ser usado também para arquivar caixas de correio locais na nuvem. As opções de arquivamento com o Exchange Online são descritas nesta seção.
   
-O Exchange Online oferece recursos de arquivamento interno para caixas de correio baseadas em nuvem, incluindo um Arquivo Morto In-loco que oferece aos usuários um local conveniente para armazenar mensagens de email antigas. Um In-Place Archive é um tipo especial de caixa de correio que aparece junto com as pastas de caixa de correio primárias de um usuário Outlook e Outlook na Web. Os usuários podem acessar e pesquisar o arquivo morto da mesma forma que acessam e pesquisam suas caixas de correio principais. A funcionalidade disponível depende do cliente em uso:
+O Exchange Online oferece recursos de arquivamento interno para caixas de correio baseadas em nuvem, incluindo um Arquivo Morto In-loco que oferece aos usuários um local conveniente para armazenar mensagens de email antigas. Um In-Place Archive é um tipo especial de caixa de correio que aparece junto com as pastas de caixa de correio primárias de um usuário em Outlook e Outlook na Web. Os usuários podem acessar e pesquisar o arquivo morto da mesma forma que acessam e pesquisam suas caixas de correio principais. A funcionalidade disponível depende do cliente em uso:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010** e Outlook na Web Os usuários têm acesso aos recursos completos do arquivo morto, bem como aos recursos de conformidade relacionados, como controle sobre políticas de retenção e arquivamento. 
+- **Outlook 2016, Outlook 2013, Outlook 2010 e Outlook na Web** Os usuários têm acesso aos recursos completos do arquivo morto, bem como aos recursos de conformidade relacionados, como controle sobre políticas de retenção e arquivamento. 
     
 - **Outlook 2007** Os usuários têm suporte básico para o Arquivo Morto In Loco, mas nem todos os recursos de arquivamento e de conformidade estão disponíveis. Por exemplo, os usuários não podem aplicar políticas de retenção ou de arquivamento a itens de caixa de correio e devem se basear em políticas provisionadas pelo administrador. 
     
@@ -78,11 +78,11 @@ A criptografia de dados do cliente em repouso é fornecida por várias tecnologi
   
 ### <a name="bitlocker"></a>BitLocker
 
-Os servidores Microsoft usam BitLocker para criptografar as unidades de disco que contêm dados do cliente em repouso no nível de volume. BitLocker criptografia é um recurso de proteção de dados que é integrado a Windows. BitLocker é uma das tecnologias usadas para proteger contra ameaças caso haja falhas em outros processos ou controles (por exemplo, controle de acesso ou reciclagem de hardware) que podem levar alguém a obter acesso físico a discos que contenham dados do cliente. Nesse caso, o BitLocker elimina o potencial de roubo ou exposição de dados devido a computadores e discos perdidos, roubados ou desmantelados inadequadamente. 
+Os servidores Microsoft usam o BitLocker para criptografar as unidades de disco que contêm dados do cliente em repouso no nível de volume. A criptografia BitLocker é um recurso de proteção de dados que é integrado Windows. O BitLocker é uma das tecnologias usadas para proteger contra ameaças caso haja falhas em outros processos ou controles (por exemplo, controle de acesso ou reciclagem de hardware) que podem levar alguém a obter acesso físico a discos que contenham dados do cliente. Nesse caso, o BitLocker elimina o potencial de roubo ou exposição de dados devido a computadores e discos perdidos, roubados ou desmantelados inadequadamente. 
   
 ### <a name="distributed-key-manager"></a>Gerenciador de Chaves Distribuídas
 
-Além de BitLocker, usamos uma tecnologia chamada Distributed Key Manager (DKM). O DKM é uma funcionalidade do lado do cliente que usa um conjunto de chaves secretas para criptografar e descriptografar informações. Somente membros de um grupo de segurança específico nos Serviços de Domínio do Active Directory podem acessar essas chaves para descriptografar os dados criptografados pelo DKM. No Exchange Online, apenas certas contas de serviço, sob as quais os processos do Exchange são executados, fazem parte do grupo de segurança. Como parte do procedimento operacional padrão no datacenter, nenhum humano recebe credenciais que fazem parte deste grupo de segurança e, portanto, nenhuma pessoa tem acesso às chaves que podem descriptografar esses segredos.
+Além do BitLocker, usamos uma tecnologia chamada Distributed Key Manager (DKM). O DKM é uma funcionalidade do lado do cliente que usa um conjunto de chaves secretas para criptografar e descriptografar informações. Somente membros de um grupo de segurança específico nos Serviços de Domínio do Active Directory podem acessar essas chaves para descriptografar os dados criptografados pelo DKM. No Exchange Online, apenas certas contas de serviço, sob as quais os processos do Exchange são executados, fazem parte do grupo de segurança. Como parte do procedimento operacional padrão no datacenter, nenhum humano recebe credenciais que fazem parte deste grupo de segurança e, portanto, nenhuma pessoa tem acesso às chaves que podem descriptografar esses segredos.
   
 ## <a name="customer-key"></a>Chave de Cliente
 
@@ -92,7 +92,7 @@ Com a Chave do Cliente, você controla as chaves de criptografia da sua organiza
 
 Criptografia de Mensagens do Office 365 permite que os usuários de email enviem mensagens de email criptografadas para qualquer pessoa. Anunciamos novos recursos em Office Criptografia de Mensagens que aproveitam os recursos de proteção na Criptografia de Informações do Azure. Esses novos recursos proporcionam experiências de usuário final aprimoradas que facilitam o compartilhamento e a colaboração em mensagens protegidas com qualquer pessoa dentro ou fora da organização. Os novos recursos Office criptografia de mensagens têm alguns requisitos de instalação. Consulte Configurar novos recursos Criptografia de Mensagens do Office 365 com base na Proteção de Informações do Azure. Os clientes em Criptografia de Mensagens do Office 365 não obterão os novos recursos sem seguir as diretrizes de configuração fornecidas acima. Leia as [perguntas frequentes para](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) obter mais detalhes sobre o que está incluído nos novos recursos de Criptografia de Mensagens do Office 365 herdado. 
 
-Criptografia de Mensagem Avançada do Office 365 oferece proteção adicional permitindo a expiração e revogação de mensagens.  Você também pode criar vários modelos para emails criptografados provenientes da sua organização.  A Criptografia Avançada de Mensagens está incluída no Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Preços de Funcionários sem fins lucrativos), Office 365 Enterprise E5 (Preços de Funcionários sem fins lucrativos) ou Office 365 Education A5. Se sua organização tiver uma assinatura que não inclua Criptografia de Mensagem Avançada do Office 365, você poderá comprar Microsoft 365 E5 Compliance ou o Conformidade Avançada do Office 365 SKU como complemento.
+Criptografia de Mensagem Avançada do Office 365 oferece proteção adicional permitindo a expiração e revogação de mensagens.  Você também pode criar vários modelos para emails criptografados provenientes da sua organização.  A Criptografia Avançada de Mensagens está incluída em Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Preços de Funcionários sem fins lucrativos), Office 365 Enterprise E5 (Preços da Equipe sem fins lucrativos) ou Office 365 Education A5. Se sua organização tiver uma assinatura que não inclua Criptografia de Mensagem Avançada do Office 365, você poderá comprar Microsoft 365 E5 Compliance ou o Conformidade Avançada do Office 365 SKU como complemento.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extensions)
 
@@ -192,7 +192,7 @@ Você pode configurar políticas de DLP na interface de gerenciamento do Centro 
     
 - Detecte dados confidenciais por meio de impressão digital do documento. A impressão digital de documentos ajuda você a criar facilmente tipos de informações confidenciais personalizadas com base em formulários baseados em texto que você pode usar para definir as regras de transporte e políticas de DLP.
     
-- Adicione o Dicas de política, que pode ajudar a reduzir a perda de dados exibindo um aviso para seus usuários do Outlook 2016, Outlook 2013, Outlook na Web e OWA para dispositivos e também pode melhorar a eficácia de suas políticas permitindo relatórios falsos positivos. 
+- Adicione o Dicas de política, que pode ajudar a reduzir a perda de dados exibindo um aviso para os usuários do Outlook 2016, Outlook 2013, Outlook na Web e OWA para Dispositivos e também pode melhorar a eficácia de suas políticas permitindo relatórios falsos positivos. 
     
 - Revise os dados de incidentes em relatórios de DLP ou adicione seus próprios relatórios específicos usando uma ação de geração de relatórios de incidentes.
     

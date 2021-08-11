@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Saiba mais sobre os recursos de arquivo morto disponíveis Microsoft Exchange Online Arquivamento.
-ms.openlocfilehash: cfc5832e3167f29465f387253694e56b66b932fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: c31b231833e7ce06aa772addfe7ead622a9507c0f42604df663c66dc01cf6847
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653093"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664744"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Recursos de arquivamento no Arquivamento do Exchange Online
 
@@ -27,7 +27,7 @@ As seções a seguir descrevem os recursos de arquivo morto Microsoft Exchange O
   
 ## <a name="archive-mailbox"></a>Caixa de correio de arquivamento
 
-O Arquivamento do Exchange Online oferece aos usuários recursos avançados de arquivamento com o recurso da caixa de correio de arquivamento. Uma caixa de correio de arquivo morto é uma caixa de correio especializada que aparece juntamente com as pastas de caixa de correio principais dos usuários Outlook ou Outlook na Web. Os usuários podem acessar o arquivamento da mesma forma como acessam suas caixas de correio primárias. Além disso, eles podem pesquisar seus arquivos e caixas de correio primárias.
+O Arquivamento do Exchange Online oferece aos usuários recursos avançados de arquivamento com o recurso da caixa de correio de arquivamento. Uma caixa de correio de arquivo morto é uma caixa de correio especializada que aparece junto com as pastas de caixa de correio principais dos usuários Outlook ou Outlook na Web. Os usuários podem acessar o arquivamento da mesma forma como acessam suas caixas de correio primárias. Além disso, eles podem pesquisar seus arquivos e caixas de correio primárias.
   
 Os administradores podem usar o Centro de administração do Exchange (EAC) ou o Windows PowerShell remoto para ativar o recurso de arquivamento para usuários específicos. Confira mais informações em [Habilitar ou desabilitar as caixas de correio de arquivo morto no Exchange Online](/office365/securitycompliance/enable-archive-mailboxes).
   

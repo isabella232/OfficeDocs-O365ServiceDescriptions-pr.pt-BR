@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Confira quais SharePoint recursos estão disponíveis em quais planos.
-ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204848"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702580"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -110,7 +110,7 @@ A menos que seja notado de outra forma, os seguintes recursos estão disponívei
 - [Governança do site](/sharepoint/governance-overview) 
 - [Armazenamento de termos - metadados gerenciados](/sharepoint/managed-metadata)
 
-Para obter informações sobre a disponibilidade dos serviços de migração do FastTrack, consulte os planos [e serviços qualificados.](/fasttrack/m365-eligible-services-and-plans) 
+Para obter informações sobre a disponibilidade de FastTrack de migração, consulte os serviços e planos [qualificados.](/fasttrack/m365-eligible-services-and-plans) 
 
 Para obter informações sobre recursos relacionados ao compartilhamento, consulte a [OneDrive descrição do serviço.](../onedrive-for-business-service-description.md)
 
@@ -139,7 +139,7 @@ SharePoint se integra aos recursos avançados de segurança e conformidade Micro
 - [Barreiras de informações](/microsoft-365/compliance/information-barriers)
 - [Obter o Microsoft Defender para Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Rótulos e políticas de retenção](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [Rótulos de confidencialidade](/microsoft-365/compliance/sensitivity-labels)
+- [Rótulos de confidencialidade ](/microsoft-365/compliance/sensitivity-labels)
 - [Auditoria unificada](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (auditoria SharePoint atividade de administrador e usuário)
 
 Para obter informações sobre a Proteção de Informações do [Azure,](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)consulte Os [Requisitos para a Proteção de Informações do Azure](/azure/information-protection/requirements)

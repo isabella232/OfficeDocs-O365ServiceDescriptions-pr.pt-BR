@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: A Microsoft dá suporte aos seguintes métodos para criar, gerenciar e autenticar usuários.
-ms.openlocfilehash: 16c12692107e789692b28351eed7dae5b32b18d9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5a4b242046503df691587919284454a670f817821eab1b3a6692f542bdcefadb
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652405"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702040"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -48,7 +48,7 @@ O tipo de identidade afeta a experiência do usuário e as opções de gerenciam
   
 ### <a name="custom-domains-and-identity-options"></a>Domínios personalizados e opções de identidade
 
-Quando você cria um novo usuário, o nome de entrada e o endereço de email do usuário são atribuídos ao domínio padrão, conforme definido no centro de administração Microsoft 365 usuário. Para saber mais, confira [Adicionar seus usuários e domínio](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
+Quando você cria um novo usuário, o nome de login e o endereço de email do usuário são atribuídos ao domínio padrão conforme definido no Centro de administração do Microsoft 365. Para saber mais, confira [Adicionar seus usuários e domínio](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
 Por padrão, a assinatura usa o <*nome* da empresa > **.onmicrosoft.com** domínio criado com a conta. Se você estiver usando o Office 365 operado pela 21Vianet na China, o domínio padrão será <*nome* da empresa > **.onmsChina.cn**. Se você estiver usando Office 365 Alemanha, o domínio padrão será <*nome* da empresa > **.onmicrosoft.de**. Você pode adicionar um ou mais domínios personalizados à Microsoft em vez de reter o domínio onmicrosoft.com e pode atribuir usuários **para** entrar com qualquer um dos domínios validados. O domínio atribuído a cada usuário é o endereço de email que aparecerá em mensagens de email enviadas e recebidas. 
   
@@ -74,7 +74,7 @@ A Microsoft usa autenticação baseada em formulários e o tráfego de autentica
   
 ### <a name="multi-factor-authentication"></a>Autenticação Multifator
 
-Com a Autenticação Multifa factor, os usuários são obrigados a reconhecer uma chamada telefônica, uma mensagem de texto ou uma notificação de aplicativo em seus smartphones depois de inserir corretamente a senha. Somente após esta segunda autenticação é que o usuário pode iniciar a sessão. Os administradores da Microsoft podem registrar usuários para autenticação multifafação no Microsoft 365 de administração. Saiba mais sobre [a Autenticação Multifa factor](/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Com a Autenticação Multifa factor, os usuários são obrigados a reconhecer uma chamada telefônica, uma mensagem de texto ou uma notificação de aplicativo em seus smartphones depois de inserir corretamente a senha. Somente após esta segunda autenticação é que o usuário pode iniciar a sessão. Os administradores da Microsoft podem registrar usuários para autenticação multifafação no Centro de administração do Microsoft 365. Saiba mais sobre [a Autenticação Multifa factor](/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
   
 ### <a name="rich-client-authentication"></a>Autenticação de cliente avançado
 
@@ -102,7 +102,7 @@ A experiência de login muda dependendo do tipo de identidade em uso:<br><br>
 |Outlook 2010 ou Office Outlook 2007 no Windows Vista  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
 |POP, IMAP, Outlook para Mac  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
-|Experiências da Web: Microsoft 365 centro de administração / Outlook na Web/ SharePoint Online /Office para a Web  <br/> |Entrar em cada sessão do navegador<sup>4</sup> <br/> |Entrar em cada sessão <sup>3</sup> <br/> |
+|Experiências da Web: Centro de administração do Microsoft 365 / Outlook na Web/ SharePoint Online /Office para a Web  <br/> |Entrar em cada sessão do navegador<sup>4</sup> <br/> |Entrar em cada sessão <sup>3</sup> <br/> |
 |Office 2010 ou Office 2007 usando SharePoint Online  <br/> |Entrar em cada sessão do SharePoint Online<sup>4</sup> <br/> |Entrar em cada sessão do SharePoint Online<sup>3</sup> <br/> |
 |Skype for Business online  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Nenhum alerta  <br/> |
 |Outlook para Mac  <br/> |Entrar em cada sessão <sup>1</sup> <br/> |Entrar em cada sessão <sup>2</sup> <br/> |
@@ -115,7 +115,7 @@ A experiência de login muda dependendo do tipo de identidade em uso:<br><br>
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-Há várias maneiras de adicionar usuários. Para saber mais, confira Adicionar usuários [individualmente](/office365/admin/add-users/add-users) ou em massa - Ajuda do Administrador e [Adicionar, remover](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)e gerenciar usuários no Microsoft 365 de administração Preview . Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Criar ou editar contas de usuário no Office 365 operado pela 21Vianet - Ajuda do administrador](/office365/admin/add-users/add-users).
+Há várias maneiras de adicionar usuários. Para saber mais, confira Adicionar usuários [individualmente](/office365/admin/add-users/add-users) ou em massa - Ajuda do Administrador e [Adicionar, remover](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)e gerenciar usuários em Centro de administração do Microsoft 365 Visualização . Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Criar ou editar contas de usuário no Office 365 operado pela 21Vianet - Ajuda do administrador](/office365/admin/add-users/add-users).
   
 ## <a name="delete-user-accounts"></a>Excluir contas de usuário
 
@@ -137,7 +137,7 @@ Ao utilizar as identidades de nuvem, as senhas são geradas automaticamente quan
   
 - Para requisitos de força da senha da identidade da nuvem, confira [Política de senha](/previous-versions/azure/jj943764(v=azure.100)).
     
-- Para aumentar a segurança, os usuários devem alterar suas senhas quando acessam pela primeira vez serviços Microsoft. Como resultado, antes que os usuários possam acessar serviços Microsoft, eles devem entrar no centro de administração Microsoft 365, onde serão solicitados a alterar suas senhas.
+- Para aumentar a segurança, os usuários devem alterar suas senhas quando acessam pela primeira vez serviços Microsoft. Como resultado, antes que os usuários possam acessar serviços Microsoft, eles devem entrar no Centro de administração do Microsoft 365, onde são solicitados a alterar suas senhas.
     
 - Administradores podem definir a política de expiração de senha. Confira mais informações em [Definir uma política de expiração de senha do usuário](/office365/admin/manage/set-password-expiration-policy).
     
@@ -145,9 +145,9 @@ Existem várias ferramentas para redefinir senhas de usuários com identidades d
   
 - **Administrador redefine senha** - Se os usuários perderem ou esquecerem suas senhas, os administradores poderão redefinir as senhas dos usuários no centro de administração ou usando Windows PowerShell. Os usuários poderão alterar suas senhas apenas se souberem suas senhas antigas. 
     
-    Para planos corporativos, se os administradores perderem ou esquecerem suas senhas, um administrador diferente com a função Administrador Global poderá redefinir as senhas dos administradores no centro de administração do Microsoft 365 ou usando o Windows PowerShell. Para saber mais, confira [Redefinir senhas para administradores](/office365/admin/add-users/reset-passwords). Se você estiver trabalhando no Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+    Para planos empresariais, se os administradores perderem ou esquecerem suas senhas, um administrador diferente com a função Administrador Global poderá redefinir as senhas dos administradores no Centro de administração do Microsoft 365 ou usando Windows PowerShell. Para saber mais, confira [Redefinir senhas para administradores](/office365/admin/add-users/reset-passwords). Se você estiver trabalhando no Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- O usuário altera **senhas com** Outlook na Web - O Outlook na página opções da Web inclui um hiperlink Alterar senha, que redireciona os usuários para a página **Alterar Senha.** O usuário deve saber sua senha anterior. Para saber mais, confira [Alterar senha](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- **O usuário altera senhas com Outlook na Web** - A página de opções Outlook na Web inclui um hiperlink Alterar senha, que redireciona os usuários para a página **Alterar Senha.** O usuário deve saber sua senha anterior. Para saber mais, confira [Alterar senha](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Se você estiver usando o Office 365 operado pela 21Vianet na China, confira [Alterar ou redefinir senhas no Office 365 operado pela 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
 - Direitos **de** redefinição de senha baseados em função - Para planos  corporativos, os usuários autorizados, como a equipe de assistência técnica, podem ter o direito de redefinir senha e o direito de alterar senhas usando funções predefinidas ou personalizadas sem se tornarem administradores de serviços completos. Por padrão, em planos corporativos, os administradores com a função Administrador Global, Administrador de Senha ou Administrador de Gerenciamento de Usuário podem alterar senhas. Para saber mais, veja [Atribuindo funções de administrador](/office365/admin/add-users/assign-admin-roles).
     
@@ -167,7 +167,7 @@ Os administradores de cobrança da Microsoft podem fazer alterações nos detalh
   
 ## <a name="group-management"></a>Gerenciamento de grupos
 
-Os grupos de segurança são usados no SharePoint Online para controlar o acesso aos sites. Os grupos de segurança podem ser criados no Microsoft 365 de administração. Para saber mais sobre grupos de segurança, confira [Criar, editar ou excluir um grupo de segurança](/office365/admin/email/create-edit-or-delete-a-security-group).
+Os grupos de segurança são usados no SharePoint Online para controlar o acesso aos sites. Os grupos de segurança podem ser criados no Centro de administração do Microsoft 365. Para saber mais sobre grupos de segurança, confira [Criar, editar ou excluir um grupo de segurança](/office365/admin/email/create-edit-or-delete-a-security-group).
   
 ## <a name="administrator-roles"></a>Funções de administrador
 

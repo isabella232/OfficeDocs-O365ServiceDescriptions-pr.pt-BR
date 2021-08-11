@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 para o Governo norte-americano (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos que são específicos Office 365 Government ambientes dos EUA.
-ms.openlocfilehash: d958835f906fa256ff5bfce3435f8c6d36458407
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537227"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701886"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -91,9 +91,9 @@ Office 365 oferece a capacidade de integrar aplicativos de terceiros em sites on
 
 O acesso Office 365 Government conteúdo do cliente pelos administradores da Microsoft é restrito à equipe de tela. Para obter detalhes de níveis de triagem, consulte a página de descrição do serviço para cada ambiente respectivo (GCC ou GCC Alta e DoD).
 
-## <a name="fasttrack-center-onboarding-assistance"></a>Assistência de integração do Centro FastTrack
+## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack Assistência de integração central
 
-Com o Benefício do Centro FastTrack para Office 365<sup>1</sup>, você trabalha remotamente com especialistas do FastTrack para deixar seu ambiente Office 365 pronto para uso e planejar a distribuição e o uso em sua organização. O processo FastTrack oferece integração e serviços de adoção do usuário. 
+Com o FastTrack Center Benefit para Office 365<sup>1</sup>, você trabalha remotamente com especialistas do FastTrack para preparar seu ambiente Office 365 para uso e planejar a distribuição e o uso em sua organização. O processo FastTrack oferece integração e serviços de adoção do usuário. 
 
 A integração consiste em:
 
@@ -103,14 +103,14 @@ A integração consiste em:
 
 Os serviços de adoção do usuário são compostos de tarefas que fornecem orientações para garantir que os usuários estão cientes dos serviços qualificados e podem usá-los para impulsionar o valor comercial. Esta assistência ocorre paralelamente às atividades de integração.
 
-Informações específicas sobre o processo do Centro FastTrack podem ser encontradas [aqui](/FastTrack/us-gov-appendix-overview). Para uma divisão de funções e responsabilidades de envolvimento, revise [As responsabilidades do FastTrack,](/FastTrack/us-gov-appendix-fasttrack-responsibilities) bem como [suas responsabilidades.](/FastTrack/us-gov-appendix-your-responsibilities)
+Informações específicas sobre o processo FastTrack Central podem ser encontradas [aqui](/FastTrack/us-gov-appendix-overview). Para uma divisão de funções e responsabilidades de envolvimento, [revise FastTrack Responsabilidades,](/FastTrack/us-gov-appendix-fasttrack-responsibilities) bem como [Suas Responsabilidades.](/FastTrack/us-gov-appendix-your-responsibilities)
 
-> <sup>1</sup> Você deve comprar pelo menos 150 licenças da lista dos planos qualificados [para](/fasttrack/eligibility) receber os serviços do FastTrack.
+> <sup>1</sup> Você deve comprar pelo menos 150 licenças da lista dos planos qualificados [para](/fasttrack/eligibility) receber FastTrack serviços.
 <br/><sup>2</sup> Os serviços de Migração de Dados estão disponíveis Office 365 locatários com 500 ou mais licenças.
 
-## <a name="data-migrations-performed-by-fasttrack"></a>Migrações de dados realizadas pelo FastTrack
+## <a name="data-migrations-performed-by-fasttrack"></a>Migrações de dados executadas por FastTrack
 
-Os clientes que escolherem o benefício de migração [do FastTrack](https://fasttrack.microsoft.com/) precisarão conceder acesso à equipe que gerencia suas migrações de dados. Esses funcionários são cidadãos dos EUA e passam pelas seguintes verificações em segundo plano antes de executar migrações para clientes de Office 365 serviços do Governo dos EUA.<br><br>
+Os clientes que escolherem o [benefício FastTrack](https://fasttrack.microsoft.com/) migração precisarão conceder acesso à equipe que gerencia suas migrações de dados. Esses funcionários são cidadãos dos EUA e passam pelas seguintes verificações em segundo plano antes de executar migrações para clientes de Office 365 serviços do Governo dos EUA.<br><br>
 
 |Triagem em segundo plano|CCG|GCC alto e DoD|
 |---|---|---|
@@ -255,7 +255,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**Confiança**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Advanced Data Governance|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
-|Segurança no Aplicativo na Nuvem|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sim<sup>19</sup>|No<sup>12, 19</sup>|
+|Microsoft Cloud App Security|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sim<sup>19</sup>|No<sup>12, 19</sup>|
 |Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sim<sup>18</sup>|No<sup>12, 18</sup>|
 |Sistema de Proteção de Dados do cliente|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Descoberta Eletrônica Avançada|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|

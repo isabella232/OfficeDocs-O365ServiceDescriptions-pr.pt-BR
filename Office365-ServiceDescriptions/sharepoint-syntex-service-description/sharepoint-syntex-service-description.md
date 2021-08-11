@@ -7,21 +7,21 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: SharePoint O Syntex no Microsoft 365 usa inteligência artificial avançada (AI) e ensino de máquina para ampliar a experiência humana, automatizar o processamento de conteúdo e transformar conteúdo em conhecimento.
-ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: SharePoint Syntex no Microsoft 365 usa inteligência artificial avançada (AI) e ensino de máquina para ampliar a experiência humana, automatizar o processamento de conteúdo e transformar conteúdo em conhecimento.
+ms.openlocfilehash: 79d145aa9efac09db8b6982ff8a11cf0282c1b66301b170b31cd3680c431af3b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653393"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702479"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Descrição do serviço SharePoint Syntex 
 
-SharePoint O Syntex no Microsoft 365 usa inteligência artificial avançada (AI) e ensino de máquina para ampliar a experiência humana, automatizar o processamento de conteúdo e transformar conteúdo em conhecimento.
+SharePoint Syntex no Microsoft 365 usa inteligência artificial avançada (AI) e ensino de máquina para ampliar a experiência humana, automatizar o processamento de conteúdo e transformar conteúdo em conhecimento.
 
-O Syntex se SharePoint recursos premium para processamento de conteúdo de alto volume, extração de metadados para automação de processos e melhoria da segurança e conformidade. E ele se baseia na inteligência da Pesquisa da Microsoft, com links para conectores [Graph Microsoft.](/microsoftsearch/connectors-overview)
+O Syntex se SharePoint recursos premium para processamento de conteúdo de alto volume, extração de metadados para automação de processos e melhoria da segurança e conformidade. E se baseia na inteligência da Pesquisa da Microsoft, com links para conectores [Graph Microsoft.](/microsoftsearch/connectors-overview)
 
-Para obter uma visão geral detalhada e detalhes adicionais do produto, consulte a [página SharePoint produto Syntex](https://aka.ms/sharepointsyntex).
+Para obter uma visão geral detalhada e detalhes adicionais do produto, consulte a [página SharePoint Syntex produto](https://aka.ms/sharepointsyntex).
 
 ## <a name="available-plans"></a>Planos disponíveis
 
@@ -50,14 +50,14 @@ A tabela a seguir mostra os planos aos que Syntex pode ser adicionado. Para obte
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-A tabela a seguir lista os principais recursos Syntex disponíveis nos planos. Certas advertências se aplicam. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte a página de preços e planos [SharePoint Syntex.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
+A tabela a seguir lista os principais recursos Syntex disponíveis nos planos. Algumas advertências se aplicam. Esta tabela pode ser alterada sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte a página de SharePoint Syntex [e preços.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
 
 | Recurso | Planos de pequenas empresas | Enterprise planos | Planos de educação |
 |--|--|--|--|
 | [Central de conteúdo syntex](sharepoint-syntex-features.md#syntex-content-center) | Sim | Sim | Sim |
 | [Reconhecimento de objeto](sharepoint-syntex-features.md#object-recognition) | Sim | Sim | Sim |
 | [Compreensão de documentos](sharepoint-syntex-features.md#document-understanding) | Sim | Sim | Sim |
-| [Processamento de formulário](sharepoint-syntex-features.md#form-processing) | Sim | Sim | Sim |
+| [Processamento de formulários](sharepoint-syntex-features.md#form-processing) | Sim | Sim | Sim |
 | [Conectores Graph de conteúdo da Microsoft](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | Sim | Sim | Sim |
 | [Serviços avançados de taxonomia](sharepoint-syntex-features.md#advanced-taxonomy-services) | Sim | Sim | Sim |
 
@@ -65,22 +65,22 @@ A tabela a seguir lista os principais recursos Syntex disponíveis nos planos. C
 
 Para obter mais informações sobre a Syntex, confira os seguintes recursos:
 
-  - Para começar a planejar sua implantação do Syntex, visite a página [SharePoint Syntex](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) no Centro de Recursos do Microsoft Tech Community.
+  - Para começar a planejar sua implantação syntex, visite a página SharePoint Syntex [no](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) Centro de Recursos do Microsoft Tech Community.
 
-  - Para saber mais sobre a Syntex e como usá-lo, consulte a documentação [SharePoint do produto Syntex.](/microsoft-365/contentunderstanding/)
+  - Para saber mais sobre Syntex e como usá-lo, consulte a documentação [SharePoint Syntex produto](/microsoft-365/contentunderstanding/).
 
   - Para se manter atualizado sobre recursos e recursos da Syntex, visite nosso [blog Microsoft 365 .](https://go.microsoft.com/fwlink/?linkid=2084915)
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
-Syntex está disponível como um complemento baseado no usuário para Microsoft 365 planos. Para inscrever-se em uma avaliação gratuita ou para comprar Syntex, visite a página de produtos [SharePoint Syntex](https://aka.ms/sharepointsyntex).
+Syntex está disponível como um complemento baseado no usuário para Microsoft 365 planos. Para se inscrever para uma avaliação gratuita ou para comprar a Syntex, visite a página SharePoint Syntex [produto](https://aka.ms/sharepointsyntex).
 
-Para termos e condições de licenciamento para produtos e serviços adquiridos por meio de Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto](https://www.microsoft.com/licensing/terms/).
+Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [Site de Termos do Produto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Mensagens
 
-Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o [Centro de Mensagens](https://go.microsoft.com/fwlink/p/?linkid=2070717). Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
+Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o [Centro de Mensagens](https://go.microsoft.com/fwlink/p/?linkid=2070717). Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 
-A Microsoft permanece comprometida com a segurança de seus dados e [com a acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft continua comprometida com a segurança dos seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e a [Central de Acessibilidade do Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

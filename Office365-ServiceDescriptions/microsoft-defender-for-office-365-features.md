@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço do Microsoft Defender Office 365 Recursos
+title: Descrição do serviço do Microsoft Defender para Office 365
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Saiba mais sobre os recursos disponíveis no Microsoft Defender para Office 365.
-ms.openlocfilehash: 620639a2c40d589123ebda33446411533798d2ec
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204858"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663044"
 ---
-# <a name="microsoft-defender-for-office-365-features-service-description"></a>Descrição do serviço do Microsoft Defender Office 365 Recursos
+# <a name="microsoft-defender-for-office-365-features-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Novidades do Microsoft Defender para Office 365
 

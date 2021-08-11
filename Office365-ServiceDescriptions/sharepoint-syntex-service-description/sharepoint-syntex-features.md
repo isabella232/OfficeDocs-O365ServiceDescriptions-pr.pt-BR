@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: Saiba mais sobre os principais recursos SharePoint Syntex disponíveis em planos Microsoft 365, Office 365 e SharePoint Online qualificados.
-ms.openlocfilehash: 2ffc3ccb52d074434c89424a151e63c7698b62c2
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Saiba mais sobre os principais SharePoint Syntex disponíveis em planos Microsoft 365, Office 365 e SharePoint Online qualificados.
+ms.openlocfilehash: 7febd3615d61fd2aa219ea8a5075f0d591fe41df5a179a8ca2f2f0d74007f5e7
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651026"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702520"
 ---
 # <a name="sharepoint-syntex-features"></a>Recursos do SharePoint Syntex 
 
-As seções a seguir descrevem os principais recursos [SharePoint Syntex](sharepoint-syntex-service-description.md) disponíveis em planos Microsoft 365, Office 365 e SharePoint Online qualificados. Os recursos disponíveis podem mudar sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte a página de preços e planos [SharePoint Syntex.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)
+As seções a seguir descrevem os [principais](sharepoint-syntex-service-description.md) recursos SharePoint Syntex disponíveis em planos online Microsoft 365, Office 365 e SharePoint Online qualificados. Os recursos disponíveis podem mudar sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte a página de SharePoint Syntex [e preços.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)
 
 ## <a name="syntex-content-center"></a>Central de conteúdo syntex
 
@@ -29,7 +29,7 @@ Para saber mais sobre centros de conteúdo e como criar eles, consulte [Create a
 
 Syntex pode marcar automaticamente imagens usando um novo dicionário visual com milhares de objetos comumente reconhecidos. Além disso, a Syntex pode reconhecer e converter texto manuscrito em marcas para uso pela pesquisa e para processamento posterior.
 
-Para saber mais sobre o reconhecimento de objeto no Syntex e como configurar a marcação de imagem, consulte Marcação de [imagem em SharePoint Syntex](/microsoft-365/contentunderstanding/image-tagging).
+Para saber mais sobre o reconhecimento de objeto no Syntex e como configurar a marcação de imagem, consulte [Marcação](/microsoft-365/contentunderstanding/image-tagging)de imagem em SharePoint Syntex .
 
 ## <a name="document-understanding"></a>Compreensão de documentos
 
@@ -39,7 +39,7 @@ Os modelos de compreensão de documentos são baseados em modelos de Compreensã
 
 Para saber mais sobre a compreensão do documento, consulte [Visão geral do entendimento do documento.](/microsoft-365/contentunderstanding/document-understanding-overview)
 
-## <a name="form-processing"></a>Processamento de formulário
+## <a name="form-processing"></a>Processamento de formulários
 
 O Syntex inclui um poderoso mecanismo de processamento de formulário, com base no Construtor de AI, que permite que você reconheça e extraia automaticamente valores comuns de documentos semiestruturados ou estruturados, como datas, figuras, nomes ou endereços. Esses modelos são construídos sem código e exigem apenas alguns documentos para resultados confiáveis.
 
@@ -49,7 +49,7 @@ Para saber mais sobre o processamento de formulário, consulte [Form processing 
 
 A Syntex usa conectores do Microsoft Graph para integrar fontes remotas, como compartilhamentos de arquivos, Azure SQL ou fontes de terceiros, como Box e IBM FileNet no Microsoft Graph, tornando-a pesquisável e usável em todo &mdash; &mdash; o Microsoft 365.
 
-Com os Graph microsoft, os clientes podem indexar itens em repositórios externos para inclusão nos resultados da Pesquisa da Microsoft. Microsoft 365 E5 e Office 365 E5 incluem a capacidade de indexar até 500 itens usando conectores do Microsoft Graph para Pesquisa da Microsoft (não incluídos no A5). Qualquer usuário com uma licença de pacote ou autônoma que inclua um plano SharePoint ou OneDrive pode ver os resultados da pesquisa dos conectores do Microsoft Graph para a Pesquisa da Microsoft.
+Com os Graph microsoft, os clientes podem indexar itens em repositórios externos para inclusão Pesquisa da Microsoft resultados. Microsoft 365 E5 e Office 365 E5 incluem a capacidade de indexar até 500 itens usando conectores do Microsoft Graph para Pesquisa da Microsoft (não incluídos no A5). Qualquer usuário com uma licença de pacote ou autônomo que inclua um plano SharePoint ou OneDrive pode ver resultados de pesquisa de conectores do Microsoft Graph para Pesquisa da Microsoft.
 
 Atualmente, os conectores para mais de 130 fontes estão disponíveis na Microsoft ou em um de nossos parceiros. Para saber mais, consulte [Overview of Microsoft Graph connectors](/MicrosoftSearch/connectors-overview).
 

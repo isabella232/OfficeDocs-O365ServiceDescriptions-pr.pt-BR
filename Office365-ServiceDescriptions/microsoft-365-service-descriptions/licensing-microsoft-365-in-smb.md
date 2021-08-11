@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. Microsoft 365 Business Premium é uma solução integrada que reúne Microsoft 365 produtividade, segurança avançada e gerenciamento de dispositivos.
-ms.openlocfilehash: 5b3c1b69135801699ba53b020f0461ed83d7bd90
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653273"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663564"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -28,7 +28,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |--|------------ | ------------------------------- | -------------------------- |
 |**Licenças disponíveis** | Número máximo de usuários | 300  | 300  |
 |**Aplicativos do Office** | Instalar Office em até 5 computadores/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business |
-|**Calendário & email** | Outlook, Exchange Online| 50 GB | 50 GB |
+|**Calendário & email** | Outlook, Exchange Online| 50 GB | 50 GB |
 |**Hub para trabalho em equipe** | Espaço de trabalho baseado em chat, reuniões online e muito mais em Microsoft Teams | Sim |Sim |
 |**Armazenamento de arquivos** | OneDrive for Business  | 1 TB por usuário | 1 TB por usuário |
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online, PowerApps, Power Automate | Sim | Sim |
@@ -44,7 +44,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |   | Upgrade rights to Windows 10 Pro for Win 7/8.1 Pro licenças | Não | Sim |
 |   | Área de Trabalho Virtual do Windows | Não | Sim |
 |**Proteção de Informações** | Prevenção contra perda de dados da Microsoft | Não | Sim |
-|   | Plano 1 de Proteção de Informações do Azure, BitLocker imposição | Não | Sim |
+|   | Plano 1 de Proteção de Informações do Azure, imposição do BitLocker | Não | Sim |
 |**Conformidade** | Arquivamento ilimitado de email<sup>2</sup> | Não | Sim |
 
 **Observações**
@@ -59,7 +59,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |---|---------------|-------------------|----------------------------|
 |**Licenças disponíveis** | Número máximo de usuários | Ilimitado | 300 |
 |**Aplicativos do Office** | Instalar Office em até 5 computadores/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
-|**Calendário & email** | Outlook, Exchange Online | 100 GB | 50 GB |
+|**Calendário & email** | Outlook, Exchange Online | 100 GB | 50 GB |
 |**Hub para trabalho em equipe** | Espaço de trabalho baseado em chat, reuniões online e muito mais em Microsoft Teams | Sim | Sim |
 |**Armazenamento de arquivos** | OneDrive for Business | Ilimitado | 1 TB por usuário |
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automate<sup>1</sup> | Sim | Sim |
@@ -74,7 +74,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |   | Upgrade rights to Windows 10 Pro for Win 7/8.1 Pro | Não | Sim |
 |   | Área de Trabalho Virtual do Windows | Não | Sim |
 |**Proteção de informações** | Prevenção contra perda de dados da Microsoft | Sim | Sim |
-|   | Plano 1 de Proteção de Informações do Azure, BitLocker imposição | Não | Sim |
+|   | Plano 1 de Proteção de Informações do Azure, imposição do BitLocker | Não | Sim |
 |**Direitos cal locais** | Pacote ECAL (Exchange, SharePoint, Skype) | Sim | Não |
 |**Conformidade** | Arquivamento ilimitado de email<sup>3</sup> | Sim | Sim |
 
@@ -92,7 +92,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**Licenças disponíveis** | Número máximo de usuários | 300 | 300 | Ilimitado |
 |**Aplicativos do Office** | Instalar Office em até 5 computadores/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus |
-|**Calendário & email** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
+|**Calendário & email** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
 |**Hub para trabalho em equipe** | Espaço de trabalho baseado em chat, reuniões online e muito mais em Microsoft Teams | Sim | Sim | Sim |
 |**Armazenamento de arquivos** | OneDrive for Business | 1 TB por usuário | 1 TB por usuário | Ilimitado |
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automate<sup>1</sup> | Sim | Sim | Sim |
@@ -107,7 +107,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |   | Upgrade rights to Windows 10 Pro for Win 7/8.1 Pro licenças | Não | Sim | Não |
 |   | Área de Trabalho Virtual do Windows | Não | Sim | Não |
 |**Proteção de informações**  | Prevenção contra perda de dados da Microsoft | Não | Sim | Sim |
-|   | Plano 1 de Proteção de Informações do Azure, BitLocker imposição | Não | Sim | Não |
+|   | Plano 1 de Proteção de Informações do Azure, imposição do BitLocker | Não | Sim | Não |
 |**Direitos cal locais** | Pacote ECAL (Exchange, SharePoint, Skype) | Não | Não | Sim |
 |**Conformidade** | Arquivamento ilimitado de email<sup>3</sup> | Não | Sim | Sim |
 
@@ -125,7 +125,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licenças disponíveis** | Número máximo de usuários | 300 | 300 | Ilimitado | Ilimitado |
 |**Aplicativos do Office** | Instalar Office em até 5 computadores/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
-|**Calendário & email** | Outlook, Exchange Online | 50 GB | 50 GB | unlimited | unlimited |
+|**Calendário & email** | Outlook, Exchange Online | 50 GB | 50 GB | unlimited | unlimited |
 |**Hub para trabalho em equipe** | Espaço de trabalho baseado em chat, reuniões online e muito mais em Microsoft Teams | Sim | Sim | Sim | Sim |
 |**Armazenamento de arquivos** | OneDrive for Business | 1 TB por usuário | 1 TB por usuário | unlimited | unlimited |
 |**Social, vídeo, sites** | Yammer, SharePoint Online, Planner | Sim | Sim | Sim | Sim |
@@ -148,7 +148,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |**Conformidade** | Arquivamento ilimitado de email<sup>2</sup> | Não | Sim | Sim | Sim |
 |   | Advanced eDiscovery, Caixa de Bloqueio do Cliente, Governança Avançada de Dados | Não | Não | Não | Sim |
 |**Análise** | Power BI Pro, MyAnalytics | Não | Não | Não | Sim |
-| | Insights by MyAnalytics | Sim | Sim | Sim | Sim |
+| | Insights por MyAnalytics | Sim | Sim | Sim | Sim |
 |**Assistance** | Email de instruções | Sim | Sim | Sim | Sim |
 |**Voz** | Conferência PSTN, Cloud PBX | Não | Não | Não | Sim |
 

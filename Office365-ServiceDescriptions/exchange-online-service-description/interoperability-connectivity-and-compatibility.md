@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: b5dd2467010d4f7eb74ba356abc75ff54ad09cf0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9e0ef704a1b43a81bffdd177aeef3f09c472103aa178c11867d1cc9db8b1aee2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652715"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663774"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidade, conectividade e compatibilidade
 
@@ -28,7 +28,7 @@ Para clientes que implantaram o Microsoft Lync Server 2010, o Lync Server 2013 o
   
 O Lync Server 2010 e o Lync Server 2013 locais poderão interoperar com o Exchange Online de duas maneiras adicionais:
   
-- Interoperabilidade de IM e presença Outlook na Web
+- Interoperabilidade de IM e presença no Outlook na Web
     
 - Interoperabilidade de caixa postal
     

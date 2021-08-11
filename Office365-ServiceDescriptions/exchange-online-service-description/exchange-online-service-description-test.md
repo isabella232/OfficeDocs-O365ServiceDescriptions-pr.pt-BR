@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: Saiba mais sobre Microsoft Exchange Online disponibilidade de recursos e serviços em Microsoft 365 e Office 365 planos.
-ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
-ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
+ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51414874"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664004"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -33,7 +33,7 @@ As assinaturas do usuário não são exigidas para salas de conferência e caixa
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-A tabela a seguir lista os principais recursos Exchange Online disponíveis nos planos. Certas advertências se aplicam*. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada e completa dos recursos Exchange Online entre os planos, consulte [Compare Exchange Online planos](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans).<br><br>
+A tabela a seguir lista os principais recursos Exchange Online disponíveis nos planos. Certas advertências se aplicam*. Esta tabela pode ser alterada sem aviso prévio. Para a lista mais atualizada e completa dos recursos Exchange Online entre os planos, consulte [Compare Exchange Online planos](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans).<br><br>
   
 | Recurso | Planos de pequenas empresas | Enterprise planos | Planos de educação | CCG | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -62,12 +62,12 @@ Para obter mais informações Exchange Online, confira os seguintes recursos:
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
-Para termos e condições de licenciamento para produtos e serviços adquiridos por meio de Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto](https://www.microsoft.com/licensing/terms/). 
+Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [Site de Termos do Produto](https://www.microsoft.com/licensing/terms/). 
 
 ### <a name="messaging"></a>Mensagens
 
-Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
+Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 
-A Microsoft permanece comprometida com a segurança de seus dados e com a acessibilidade de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft continua comprometida com a segurança dos seus dados e com a acessibilidade de nossos serviços. Para obter mais informações, consulte a [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e a [Central de Acessibilidade do Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

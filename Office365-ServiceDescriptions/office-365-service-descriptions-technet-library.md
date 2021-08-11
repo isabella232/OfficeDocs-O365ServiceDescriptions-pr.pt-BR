@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 e Office 365 são serviços baseados em nuvem projetados para ajudar a atender às necessidades da sua organização para segurança robusta, confiabilidade e produtividade do usuário.
-ms.openlocfilehash: 7a51d0914774455ad6f78bbd362633a48094ebf3
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 20470f92e036fe5f57e93ba7fd64bcf9d0fc0c9ff32122a88a2fe8fcc81decad
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652385"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702070"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrições de serviços do Microsoft 365 e do Office 365 
 
@@ -34,7 +34,7 @@ Para obter informações e artigos de suporte, consulte Office Ajuda & [Treiname
 > [!NOTE]
 > Se você estiver procurando a planilha de comparação de descrição do serviço, ela foi retirada. As tabelas de disponibilidade de recursos do produto em cada página de descrição do serviço foram atualizadas para ajudá-lo a escolher melhor a versão do Office 365 que atende às suas necessidades. 
   
-A Microsoft oferece o Benefício do Centro FastTrack para Office 365 para serviços qualificados em planos qualificados. O benefício permite que você trabalhe remotamente com especialistas da Microsoft para deixar seu Office 365 ambiente pronto para uso. Para saber mais, confira [benefícios do FastTrack Center do Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
+A Microsoft oferece o FastTrack Center Benefit para Office 365 para serviços qualificados em planos qualificados. O benefício permite que você trabalhe remotamente com especialistas da Microsoft para deixar seu Office 365 ambiente pronto para uso. Para saber mais, confira [benefícios do FastTrack Center do Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Para começar, consulte as seguintes descrições de serviço:
   

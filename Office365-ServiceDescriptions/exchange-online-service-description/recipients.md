@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
-ms.openlocfilehash: 5771fd11a51ecfb8bff2b1be8a86dd3d87a51f81
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 861a58b9a8e8de041bcbb66e2d41f6eab97d39f6e7719c12288e1e7dbc072eec
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653303"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663674"
 ---
-# <a name="recipients"></a>Recipients
+# <a name="recipients"></a>Destinatários
 
 Este tópico descreve os recursos relacionados ao destinatário que fazem parte do Microsoft Exchange Online. Isso inclui e-mail, contatos, grupos de distribuição, agenda e as capacidades de agendamento.
   
@@ -42,7 +42,7 @@ Dicas de Email são mensagens informativas e automáticas que aparecem acima da 
   
 ### <a name="delegate-access"></a>Acesso de representante
 
-O Exchange Online dá suporte ao acesso delegadoa habilidade para os usuários permitirem outros usuários a gerenciarem seus emails e calendários. O acesso delegado é normalmente usado entre um gerente e um assistente, no qual o assistente processa as mensagens de email de entrada do gerente e coordena a agenda do gerente. O acesso de representante pode ser habilitado por Exchange Online usuários no Outlook ou Outlook na Web ou por administradores no Centro de Administração Exchange. 
+O Exchange Online dá suporte ao acesso delegadoa habilidade para os usuários permitirem outros usuários a gerenciarem seus emails e calendários. O acesso delegado é normalmente usado entre um gerente e um assistente, no qual o assistente processa as mensagens de email de entrada do gerente e coordena a agenda do gerente. O acesso de representante pode ser habilitado Exchange Online usuários em Outlook ou Outlook na Web ou por administradores no Centro de Administração Exchange. 
   
 Os representantes podem ter dois tipos de acesso:
   
@@ -62,7 +62,7 @@ O Email secundário foi desenvolvido para ajudar você a focar nas mensagens mai
   
 ### <a name="connected-accounts"></a>Contas conectadas
 
-O recurso Contas Conectadas permite que Exchange Online usuários conectem contas de email externas (como contas pessoais) às suas contas de email internas no Exchange Online e, em seguida, usem o Outlook na Web para interagir com todas as suas mensagens em um único local. Contas conectadas sincronizam automaticamente ao entrar Outlook na Web; os usuários também podem sincronizar manualmente as contas de Outlook na Web. Os administradores podem habilitar e desabilitar esse recurso para usuários específicos ou todos os usuários por meio [do Exchange de administração.](/exchange/exchange-admin-center)
+O recurso Contas Conectadas permite que Exchange Online usuários conectem contas de email externas (como contas pessoais) às suas contas de email internas no Exchange Online e usem o Outlook na Web para interagir com todas as suas mensagens em um único local. Contas conectadas sincronizam automaticamente ao entrar no Outlook na Web; os usuários também podem sincronizar manualmente as contas de Outlook na Web. Os administradores podem habilitar e desabilitar esse recurso para usuários específicos ou todos os usuários por meio [do Exchange de administração.](/exchange/exchange-admin-center)
   
 ### <a name="inactive-mailboxes"></a>Caixas de correio inativas
 
@@ -127,7 +127,7 @@ Para saber mais sobre contatos externos, consulte [Criar um relacionamento de or
 
 ### <a name="resource-mailboxes"></a>Caixas de correio de recurso
 
-A caixa de correio de recursos (como para salas de conferência e equipamentos físicos) representa as salas de reuniões de uma empresa ou outras facilidades ou recursos. Os usuários podem reservar salas ou recursos adicionando o alias de email do recurso a solicitações de reunião Outlook ou Outlook na Web. Salas de conferência e recursos aparecem na GAL em Outlook e Outlook na Web.
+A caixa de correio de recursos (como para salas de conferência e equipamentos físicos) representa as salas de reuniões de uma empresa ou outras facilidades ou recursos. Os usuários podem reservar salas ou recursos adicionando o alias de email do recurso a solicitações de reunião em Outlook ou Outlook na Web. Salas de conferência e recursos aparecem na GAL em Outlook e Outlook na Web.
   
 Os administradores criam caixas de correio de recurso usando o centro de administração do Exchange ou o Windows PowerShell remoto. As caixas de correio também podem ser sincronizadas com o Exchange Online a partir do Active Directory local.
   
@@ -153,7 +153,7 @@ As mensagens de ausência temporária são respostas automáticas para as mensag
 
 Os usuários podem compartilhar seu calendário pessoal de duas maneiras:
   
-- **Compartilhamento de agendas federado** Federação se refere à infraestrutura confiável subjacente que suporta o compartilhamento federado, um método fácil para os usuários do Exchange compartilharem dados da agenda de disponibilidade e informações de contato com destinatários de outras organizações federadas externas. Isto inclui organizações do Exchange Online ou organizações que executam o Exchange Server 2010 ou o Exchange Server 2013 local. Exchange Online administradores não precisam configurar uma confiança com o Microsoft Federation Gateway porque essa confiança é pré-configurada para todos os clientes Exchange Online quando o serviço Microsoft é criado. Uma política de compartilhamento padrão permite que os usuários enviem convites de compartilhamento de calendário Outlook na Web ou Outlook 2010. Os administradores usam o Windows PowerShell remoto para desabilitar essa política ou para configurar o nível de disponibilidade dos dados de calendário que os usuários podem compartilhar. Os administradores também podem criar um relacionamento de organização para organização com outra organização federada, que permite que o nível desejado de informações de disponibilidade para cada usuário seja visível na organização, sem que os usuários individuais tenham que fazer um convite compartilhado. Dentro do escopo das Políticas de Compartilhamento definidas pelo administrador e/ou dos relacionamentos de organização para organização, os usuários podem limitar individualmente ainda mais o detalhe de seu compartilhamento. 
+- **Compartilhamento de agendas federado** Federação se refere à infraestrutura confiável subjacente que suporta o compartilhamento federado, um método fácil para os usuários do Exchange compartilharem dados da agenda de disponibilidade e informações de contato com destinatários de outras organizações federadas externas. Isto inclui organizações do Exchange Online ou organizações que executam o Exchange Server 2010 ou o Exchange Server 2013 local. Exchange Online administradores não precisam configurar uma confiança com o Microsoft Federation Gateway porque essa confiança é pré-configurada para todos os clientes Exchange Online quando o serviço Microsoft é criado. Uma política de compartilhamento padrão permite que os usuários enviem convites de compartilhamento de calendário do Outlook na Web ou Outlook 2010. Os administradores usam o Windows PowerShell remoto para desabilitar essa política ou para configurar o nível de disponibilidade dos dados de calendário que os usuários podem compartilhar. Os administradores também podem criar um relacionamento de organização para organização com outra organização federada, que permite que o nível desejado de informações de disponibilidade para cada usuário seja visível na organização, sem que os usuários individuais tenham que fazer um convite compartilhado. Dentro do escopo das Políticas de Compartilhamento definidas pelo administrador e/ou dos relacionamentos de organização para organização, os usuários podem limitar individualmente ainda mais o detalhe de seu compartilhamento. 
     
 - **Compartilhamento de agendas da Internet** O Exchange Online permite que os usuários publiquem suas agendas usando o formato iCal para o acesso anônimo por qualquer um dentro ou fora da organização. Os destinatários podem estar usando o Exchange, outra plataforma ou simplesmente um navegador da web. Exchange Online os usuários também podem se inscrever em calendários que outras pessoas publicaram em locais da Internet por meio do iCal. Esse compartilhamento de calendário pessoal é diferente do compartilhamento de calendário federado, que é configurado por um administrador e fornece compartilhamento de disponibilidade de organização para organização. Nenhum usuário pode publicar dados de calendário no formato iCal até que o administrador tenha definido e aplicado uma política de compartilhamento que permita isso. Os administradores podem desabilitar a publicação e as assinaturas iCal para os usuários de uma organização, usando o Windows PowerShell remoto.
     

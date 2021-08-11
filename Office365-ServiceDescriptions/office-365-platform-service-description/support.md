@@ -13,19 +13,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Com cada Microsoft Office 365 para assinatura corporativa, empresarial, educacional e governamental, o Suporte da Microsoft fornece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do centro de administração Microsoft 365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte Opções de Suporte da Microsoft.
-ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+description: Com cada Microsoft Office 365 para assinatura corporativa, empresarial, educacional e governamental, o Suporte da Microsoft fornece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do Centro de administração do Microsoft 365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte Opções de Suporte da Microsoft.
+ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721195"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701650"
 ---
 # <a name="support"></a>Suporte
 
-Com cada assinatura Microsoft 365 e Office 365 para empresas, empresas, frontline, educação e governo, o Suporte da Microsoft fornece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do centro de administração Microsoft 365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte [Opções de Suporte da Microsoft](/Office365/Admin/contact-support-for-business-products).
+Com cada assinatura Microsoft 365 e Office 365 para empresas, empresas, frontline, educação e governo, o Suporte da Microsoft fornece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do Centro de administração do Microsoft 365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte [Opções de Suporte da Microsoft](/Office365/Admin/contact-support-for-business-products).
 
-Os administradores autorizados podem usar o Microsoft 365 de administração para enviar solicitações de serviço online, acessar números de telefone de suporte e exibir todas as solicitações de serviço abertas e fechadas recentemente. As solicitações de serviço enviadas no centro de administração podem ser reabertas por até 14 dias após o fechamento da solicitação. Para obter instruções, consulte [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
+Os administradores autorizados podem usar a Centro de administração do Microsoft 365 para enviar solicitações de serviço online, acessar números de telefone de suporte e exibir todas as solicitações de serviço abertas e fechadas recentemente. As solicitações de serviço enviadas no centro de administração podem ser reabertas por até 14 dias após o fechamento da solicitação. Para obter instruções, consulte [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
   
 A Microsoft 365 de suporte técnico soluciona apenas os problemas relacionados Microsoft 365 e Office 365. Os problemas originados em redes de clientes estão fora dos limites de suporte e, nesses casos, os clientes devem trabalhar com sua equipe de rede ou envolver a equipe [de Rede](https://support.microsoft.com/gp/contactus81?Audience=Commercial) da Microsoft para assistência.
   

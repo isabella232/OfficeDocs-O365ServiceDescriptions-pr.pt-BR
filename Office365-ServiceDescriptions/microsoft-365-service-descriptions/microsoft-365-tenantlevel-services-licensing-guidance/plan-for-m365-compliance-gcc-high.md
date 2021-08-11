@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta orientação é para profissionais de IT que estão conduzindo implantações do Office 365 em entidades do Governo Federal dos EUA ou outras entidades que lidam com dados sujeitos a regulamentos e requisitos governamentais, onde o uso do Microsoft 365 Government – GCC High é apropriado para atender a esses requisitos.
-ms.openlocfilehash: 357cf30350ff2a3b21d7d9326e91c2c01d119b21
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: ba60ebf026ed3985ead28abba1c426bd8de53e7ba1acf51501b63c1d4c6d1d27
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001907"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663284"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan for Microsoft 365 compliance – GCC High
 
@@ -109,7 +109,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 | Gerenciamento de registros | Preservação e rotulagem automática de anexos de nuvem | No backlog de engenharia |
 | Gerenciamento de registros | Registros de versão | Disponível |
 | Gerenciamento de registros | Registros regulatórios | Disponível |
-| Gerenciamento de registros | Usar SharePoint classificação Syntex para aplicar rótulos de registro | No backlog de engenharia |
+| Gerenciamento de registros | Usar SharePoint Syntex classificação para aplicar rótulos de registro | No backlog de engenharia |
 | **Gerenciamento de riscos insider** | Sistema de Proteção de Dados do cliente | Disponível |
 | Conformidade em comunicações | Capacidade de ignorar assinatura de email ou aviso de isenção de responsabilidade | No desenvolvimento |
 | Conformidade em comunicações | Capacidade de definir um período de retenção para uma política de Conformidade de Comunicação | No desenvolvimento |

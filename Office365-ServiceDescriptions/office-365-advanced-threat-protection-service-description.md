@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: O Microsoft Defender for Office 365 é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malwares e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 5781f34419eb697cb97634c55fa486fd141d76dd
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204838"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663094"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -37,13 +37,13 @@ Para obter informações detalhadas sobre o plano de assinaturas que habilitam o
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-A tabela a seguir lista os principais recursos do Microsoft Defender Office 365 disponíveis nos planos. Certas advertências se aplicam. Consulte as notas de rodapé para obter mais informações. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada e completa dos recursos do Microsoft Defender para Office 365 em todos os planos, consulte Microsoft Defender para Office 365 [descrição do](microsoft-defender-for-office-365-features.md)serviço .
+A tabela a seguir lista os principais recursos do Microsoft Defender Office 365 disponíveis nos planos. Algumas advertências se aplicam. Veja as notas de rodapé para mais informações. Esta tabela pode ser alterada sem aviso prévio. Para a lista mais atualizada e completa dos recursos do Microsoft Defender para Office 365 em todos os planos, consulte Microsoft Defender para Office 365 [descrição do](microsoft-defender-for-office-365-features.md)serviço .
 
 | Recurso | Microsoft Defender para Office 365 Plano 1 | Microsoft Defender para Office 365 Plano 2 | Microsoft 365 E5 /A5 Security |
 |---------|--------------------------------|--------------------------------|--------------------------------|
 | *Configuração, proteção e detecção* | | | |
 | Políticas de segurança predefinidas e Analisador de Configuração | Sim | Sim | Sim |
-| [Anexos Seguros](microsoft-defender-for-office-365-features.md#safe-attachments) | Sim | Sim | Sim |
+| [Anexos seguros](microsoft-defender-for-office-365-features.md#safe-attachments) | Sim | Sim | Sim |
 | Cofre Anexos no Teams | Sim | Sim | Sim |
 | [Links Seguros](microsoft-defender-for-office-365-features.md#safe-links) | Sim | Sim | Sim |
 | [Documentos Seguros](microsoft-defender-for-office-365-features.md#safe-documents) | Não | Não | Sim |
@@ -75,12 +75,12 @@ Para obter mais informações sobre o Microsoft Defender para Office 365, confir
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
-Para termos e condições de licenciamento para produtos e serviços adquiridos por meio de Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto](https://www.microsoft.com/licensing/terms/).
+Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [Site de Termos do Produto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Mensagens
 
-Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
+Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 
-A Microsoft permanece comprometida com a segurança de seus dados e [com a acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft continua comprometida com a segurança dos seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e a [Central de Acessibilidade do Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

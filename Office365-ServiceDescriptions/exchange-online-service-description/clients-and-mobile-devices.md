@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 description: Exchange Online funciona com versões desktop e móveis de Outlook, bem como Outlook na Web.
-ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653113"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664044"
 ---
 # <a name="clients-and-mobile-devices"></a>Clientes e dispositivos móveis
 
@@ -56,7 +56,7 @@ O Outlook na Web vem com duas versões para clientes, ambas podem ser usadas com
   
 - **Outlook na Web** - A versão padrão do Outlook na Web fornece Exchange Online usuários com uma experiência de mensagens mais semelhante à dos usuários Outlook. Ela dá suporte aos mais navegadores da Web mais recentes e é otimizada para o uso em tablets e smartphones, assim como em desktops e laptops. Os usuários podem ler e enviar mensagens, organizar contatos e agendar compromissos e reuniões. O tempo limite padrão com base na atividade é de seis horas, mas pode ser [configurado por um administrador no Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 minutos a 8 horas. Esse tempo de saída depende das interações do usuário no aplicativo Web, como selecionar um botão ou selecionar uma mensagem. Há também um tempo limite separado controlado pela segurança, que não é configurável e não depende da atividade do usuário para ocorrer. Se um usuário estiver conectado por 8 horas, o OWA desconectará automaticamente o usuário e exigirá uma nova autenticação. 
 
-- **A versão** light do Outlook na Web - A versão light do Outlook na Web fornece aos usuários Exchange Online acesso à caixa de correio usando praticamente qualquer navegador da Web. Os usuários podem ler e enviar mensagens, organizar contatos e agendar compromissos e reuniões. O tempo limite padrão com base na atividade é de seis horas, mas pode ser [configurado por um administrador no Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 minutos a 8 horas. Esse tempo de saída depende das interações do usuário no aplicativo Web, como selecionar um botão ou selecionar uma mensagem. Há também um tempo limite separado controlado pela segurança, que não é configurável e não depende da atividade do usuário para ocorrer. Se um usuário estiver conectado por 8 horas, a versão light do OWA desconectará o usuário automaticamente e exigirá uma nova autenticação. 
+- **A versão light do Outlook na Web** - A versão light do Outlook na Web fornece aos usuários Exchange Online acesso à caixa de correio usando quase qualquer navegador da Web. Os usuários podem ler e enviar mensagens, organizar contatos e agendar compromissos e reuniões. O tempo limite padrão com base na atividade é de seis horas, mas pode ser [configurado por um administrador no Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 minutos a 8 horas. Esse tempo de saída depende das interações do usuário no aplicativo Web, como selecionar um botão ou selecionar uma mensagem. Há também um tempo limite separado controlado pela segurança, que não é configurável e não depende da atividade do usuário para ocorrer. Se um usuário estiver conectado por 8 horas, a versão light do OWA desconectará o usuário automaticamente e exigirá uma nova autenticação. 
 
 O Outlook na Web também está disponível em versões para celular. Para saber mais, confira [esta página](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   

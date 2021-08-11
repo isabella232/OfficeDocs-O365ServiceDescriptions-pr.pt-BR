@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro e fora do centro de administração Exchange (EAC).
-ms.openlocfilehash: fa80cd6c7d8e9e5f0527c478474cffe17e9204af
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fb6af583f9bb51954b57a92d907ab19a935f5f3c6ab9be196f7ca56240189571
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652685"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663654"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Recursos de relatórios e ferramentas de solução de problemas
 
@@ -25,19 +25,19 @@ Microsoft Exchange Online oferece uma variedade de recursos de relatório dentro
   
 ## <a name="reporting-features"></a>Recursos de relatório
 
-Exchange Online clientes podem acessar relatórios no centro de administração Microsoft 365, baixando uma Excel de trabalho de relatório ou usando serviços Web.
+Exchange Online clientes podem acessar relatórios no Centro de administração do Microsoft 365, baixando uma Excel de trabalho de relatório ou usando serviços Web.
   
-### <a name="reporting-in-the-microsoft-365-admin-center"></a>Relatórios no centro de Microsoft 365 de administração
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Relatórios no Centro de administração do Microsoft 365
 
-Há relatórios na página Relatórios no centro de administração Microsoft 365 que fornecem informações resumidas sobre caixas de correio e grupos. Por exemplo, um relatório lista o número de grupos criados e excluídos por dia, semana, mês ou ano. Há também relatórios resumidos de caixas de correio novas e excluídas e caixas de correio ativas e inativas. 
+Há relatórios na página Relatórios no Centro de administração do Microsoft 365 que fornecem informações resumidas sobre caixas de correio e grupos. Por exemplo, um relatório lista o número de grupos criados e excluídos por dia, semana, mês ou ano. Há também relatórios resumidos de caixas de correio novas e excluídas e caixas de correio ativas e inativas. 
   
-Além disso, a página Relatórios no centro de administração do Microsoft 365 contém relatórios de dados de mensagens, que fornecem informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas por políticas de Regras de Transporte Exchange ou Prevenção contra Perda de Dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do Exchange Online. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
+Além disso, a página Relatórios no Centro de administração do Microsoft 365 contém relatórios de dados de mensagens, que fornecem informações sobre tráfego de mensagens, detecções de spam e malware e mensagens afetadas por regras de transporte Exchange ou políticas de prevenção contra perda de dados (DLP). Os relatórios aprimorados para proteção, regras e DLP fornecem uma experiência interativa de relatório aos administradores do Exchange Online. Esses relatórios fornecem dados resumidos e a capacidade de busca detalhada em cada mensagem.
   
-Para obter mais informações sobre quais relatórios estão disponíveis em cada assinatura, consulte [Reports](../office-365-platform-service-description/reports.md). Para obter informações mais detalhadas sobre a página Relatórios no centro de administração do Microsoft 365, consulte Exibir e baixar relatórios sobre o uso do serviço no [Office 365](/microsoft-365/admin/activity-reports/activity-reports) e Usar relatórios de proteção de email para exibir dados sobre malware, spam e detecções de [regras.](/exchange/monitoring/use-mail-protection-reports)
+Para obter mais informações sobre quais relatórios estão disponíveis em cada assinatura, consulte [Reports](../office-365-platform-service-description/reports.md). Para obter informações mais detalhadas sobre a página Relatórios no Centro de administração do Microsoft 365, consulte Exibir e baixar relatórios sobre o uso do serviço no [Office 365](/microsoft-365/admin/activity-reports/activity-reports) e Usar relatórios de proteção de email para exibir dados sobre malware, spam e detecções de [regras.](/exchange/monitoring/use-mail-protection-reports)
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Relatórios usando a pasta de trabalho de relatório do Excel
 
-Você também pode usar a pasta de trabalho de relatórios do Excel 2013 para visualizar relatórios resumidos com recursos de busca detalhada. No entanto, recomendamos usar os relatórios do centro de administração Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. Para saber mais de visão geral e links para baixar e instalar a pasta de trabalho, confira a seguinte [página de download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para informações sobre como usar a pasta de trabalho, confira [Relatórios de Proteção de Email usando a Pasta de Trabalho de Relatório do Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
+Você também pode usar a pasta de trabalho de relatórios do Excel 2013 para visualizar relatórios resumidos com recursos de busca detalhada. No entanto, recomendamos usar os relatórios de Centro de administração do Microsoft 365 aprimorados. A pasta de trabalho de relatórios do Excel 2013 está prevista para ficar obsoleta no futuro. Para saber mais de visão geral e links para baixar e instalar a pasta de trabalho, confira a seguinte [página de download](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para informações sobre como usar a pasta de trabalho, confira [Relatórios de Proteção de Email usando a Pasta de Trabalho de Relatório do Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
   
 ### <a name="reporting-using-web-services"></a>Criar relatórios usando serviços Web
 

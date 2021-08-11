@@ -9,40 +9,40 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: O Microsoft 365 Business Voice é um serviço de complemento que permite que você use o Microsoft Teams para chamadas telefônicas. Isso combina sistema telefônico, plano de chamadas domésticas, SMS e audioconferência.
-ms.openlocfilehash: 3a273090dc87d516c0ac84c182ceaa9aef2fd986
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+description: Microsoft 365 Business Voice é um serviço de complemento que permite que você use Microsoft Teams para chamadas telefônicas. Isso combina sistema telefônico, plano de chamadas domésticas, SMS e audioconferência.
+ms.openlocfilehash: 90563ef54d57b823b675907868fc067adbe39b091f7955bb8814b55c910406cd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021954"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663574"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descrição do serviço do Microsoft 365 Business Voice
 
-O Microsoft 365 Business Voice é uma solução de telefonia baseada em nuvem no Microsoft Teams que oferece recursos do sistema de telefonia, como estacionamento de chamadas, encaminhamento de chamadas, atendimento automático, filas de chamadas, audioconferência e planos de chamadas. O Business Voice pode ser adicionado às assinaturas do Office 365 e do Microsoft 365 que incluem o Microsoft Teams (até 300 licenças). Para obter mais informações sobre o serviço Business Voice, consulte Microsoft 365 Business Voice.
+Microsoft 365 Business Voice é uma solução de telefonia baseada em nuvem no Microsoft Teams que oferece recursos do sistema de telefonia, como estacionamento de chamadas, encaminhamento de chamadas, atendimento automático, filas de chamadas, audioconferência e planos de chamadas. O Business Voice pode ser adicionado Office 365 assinaturas Microsoft 365 que incluem Microsoft Teams (até 300 licenças). Para obter mais informações sobre o serviço Business Voice, consulte Microsoft 365 Business Voice.
 
 ## <a name="available-plans"></a>Planos disponíveis
 
-A tabela a seguir mostra os planos que podem utilizar o complemento do Microsoft 365 Business Voice para que você possa escolher a solução que melhor atenda às necessidades da sua organização. Para obter informações detalhadas do plano, consulte [Microsoft 365 Business Voice](/MicrosoftTeams/business-voice/whats-business-voice). <br><br>
+A tabela a seguir mostra os planos que podem usar o Microsoft 365 Business Voice complemento para que você possa escolher a solução que melhor atenda às necessidades da sua organização. Para obter informações detalhadas do plano, [consulte Microsoft 365 Business Voice](/MicrosoftTeams/business-voice/whats-business-voice). <br><br>
 
-| Planos de pequenas empresas | Planos empresariais | Governo | Educação | Frontline |
+| Planos de pequenas empresas | Enterprise planos | Governo | Educação | Frontline |
 |----------------------|------------------|------------|-----------|-----------|
-| Microsoft 365 Business Basic | Microsoft 365 Enterprise E1 | Microsoft 365 e Office 365 Government G1 | Microsoft 365 e Office 365 Education A1 | Microsoft 365 F1 |
-| Microsoft 365 Business Standard | Microsoft 365 Enterprise E3 | Microsoft 365 e Office 365 Government G3 | Microsoft 365 e Office 365 Education A3 | Microsoft 365 F3 |
-| Microsoft 365 Business Premium | Microsoft 365 e Office 365 E1 sem fins lucrativos | | | Office 365 F3 |
-| Microsoft 365 Nonprofit Business Basic | Microsoft 365 e Office 365 Sem fins lucrativos E3 | | | |
-| Microsoft 365 Nonprofit Business Standard | | | | |
+| Microsoft 365 Business Basic | Microsoft 365 Enterprise E1 | Microsoft 365 e Office 365 para o Governo G1 | Microsoft 365 e Office 365 Education A1 | Microsoft 365 F1 |
+| Microsoft 365 Business Standard | Microsoft 365 Enterprise E3 | Microsoft 365 e Office 365 para o Governo G3 | Microsoft 365 e Office 365 Education A3 | Microsoft 365 F3 |
+| Microsoft 365 Business Premium | Microsoft 365 e Office 365 E1 para entidades sem fins lucrativos | | | Office 365 F3 |
+| Microsoft 365 Business Basic sem fins lucrativos | Microsoft 365 e Office 365 E3 para entidades sem fins lucrativos | | | |
+| Microsoft 365 Padrão empresarial sem fins lucrativos | | | | |
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-A tabela a seguir lista os principais recursos do Microsoft 365 Business Voice disponíveis nos planos. Certas advertências se aplicam. Para obter mais informações, consulte as notas de rodapé. Esta tabela pode mudar sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte [Voz e chamada de vídeo.](https://www.microsoft.com/en-us/microsoft-teams/voice-calling)
+A tabela a seguir lista os principais recursos Microsoft 365 Business Voice disponíveis nos planos. Algumas advertências se aplicam. Para obter mais informações, consulte as notas de rodapé. Esta tabela pode ser alterada sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte [Voz e chamada de vídeo.](https://www.microsoft.com/en-us/microsoft-teams/voice-calling)
 
-| Recurso | Microsoft 365 Business Voice | Microsoft 365 Business Voice sem plano de chamada |
+| Recurso | Microsoft 365 Business Voice | Microsoft 365 Business Voice Sem Plano de Chamada |
 |---------|------------------------------|---------------------------------------------------|
 | Números locais | Sim | Sim<sup>*</sup> |
 | Chamada voIP | Sim | Sim<sup>*</sup> |
 | Atendentes automáticos | Sim | Sim<sup>*</sup> |
-| Fila de chamada | Sim | Sim<sup>*</sup> |
+| Fila de chamadas | Sim | Sim<sup>*</sup> |
 | ID do chamador | Sim | Sim<sup>*</sup> |
 | Roteamento de chamadas | Sim | Sim<sup>*</sup> |
 | Chamada de emergência | Sim | Sim<sup>*</sup> |
@@ -76,12 +76,12 @@ Para obter informações técnicas sobre Microsoft 365 Business Voice confira os
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
-Para termos e condições de licenciamento para produtos e serviços adquiridos por meio de Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [site Termos do Produto](https://www.microsoft.com/licensing/terms/).
+Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [Site de Termos do Produto](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Central de mensagens](/microsoft-365/admin/manage/message-center).
+Para acompanhar as mudanças futuras, incluindo recursos novos e alterados, manutenções planejadas ou outros anúncios importantes, visite a Central de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 
-A Microsoft permanece comprometida com a segurança de seus dados e [com a acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte [o Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center) e o Centro Office [Acessibilidade.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+A Microsoft continua comprometida com a segurança dos seus dados e com a [acessibilidade](https://www.microsoft.com/trust-center/compliance/accessibility) de nossos serviços. Para obter mais informações, consulte a [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center) e a [Central de Acessibilidade do Office](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

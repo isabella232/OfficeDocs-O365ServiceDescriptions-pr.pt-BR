@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Os administradores da Microsoft podem exibir o status dos serviços e descobrir quando a manutenção está agendada. As informações de saúde do serviço estão disponíveis a qualquer momento ao entrar.
-ms.openlocfilehash: 2d48b04dc59567c18d8f8326b23d60499321791b
-ms.sourcegitcommit: ef3ef6370ae5b118f7100bf83894634d02ce6e23
+ms.openlocfilehash: 1bfe01361cb2968b51ff49f2f04ec814f0c59d68d7f4f392c97d60c48f50f14f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53679688"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701810"
 ---
 # <a name="service-health-and-continuity"></a>Saúde e continuidade do serviço
 

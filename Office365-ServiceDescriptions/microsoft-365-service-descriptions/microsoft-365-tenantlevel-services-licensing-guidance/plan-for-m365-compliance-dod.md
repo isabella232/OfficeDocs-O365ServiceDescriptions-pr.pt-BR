@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Essa orientação é para profissionais de IT que estão orientando implantações do Office 365 em entidades do Governo Federal dos EUA ou outras entidades que lidam com dados sujeitos a regulamentos e requisitos governamentais, onde o uso do Microsoft 365 Government – DoD é apropriado para atender a esses requisitos.
-ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 039fef8da2de151828cf9aa3c2cb7e39efb4789012f70666811a8a2ae5d24238
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545998"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663324"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planejar a conformidade com o Microsoft 365 – implantações do DoD
 
@@ -108,7 +108,7 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 | | Gerenciamento de registros: Prova de descarte | Disponível |
 | | Gerenciamento de registros: controle de versão de registros | Disponível |
 | | Gerenciamento de registros: registros regulatórios | Disponível |
-| | Gerenciamento de registros: use SharePoint classificação syntex para aplicar rótulos de registro | No backlog de engenharia |
+| | Gerenciamento de registros: use SharePoint Syntex classificação para aplicar rótulos de registro | No backlog de engenharia |
 | **Gerenciamento de riscos insider** | Sistema de Proteção de Dados do cliente | Disponível |
 | | Gerenciamento de riscos insider: painel de caso, Explorador de Conteúdo e modelos de aviso | Em implantação |
 | | Insider Risk Management: Escalone para investigação para Advanced eDiscovery | Em implantação |
