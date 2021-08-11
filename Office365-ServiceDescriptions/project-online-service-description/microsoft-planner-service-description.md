@@ -1,5 +1,5 @@
 ---
-title: Descrição do serviço microsoft planner
+title: Descrição do serviço Microsoft Project
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: O Microsoft Planner é uma ferramenta intuitiva e colaborativa de gerenciamento de tarefas que permite que as pessoas planejem, gerenciem e concluam iniciativas baseadas em tarefas.
-ms.openlocfilehash: e8f8433e00e7d659d267af8eb897b71ae4659d1e
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 7b98ca5fc471bc309f26fe888cb103f027b321ce10b606c25e55ede64b0939d0
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537267"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702830"
 ---
-# <a name="microsoft-planner-service-description"></a>Descrição do serviço microsoft planner
+# <a name="microsoft-planner-service-description"></a>Descrição do serviço Microsoft Project
 
 O Microsoft Planner é uma ferramenta intuitiva e colaborativa de gerenciamento de tarefas que permite que as pessoas planejem, gerenciem e concluam iniciativas baseadas em tarefas. Os usuários atribuem e gerenciam tarefas em um quadro Kanban usando cartões de tarefas, que podem ser preenchidas com várias informações importantes do plano, como datas de vencimento, status, listas de verificação, rótulos e anexos de arquivo. O Planner se integra a várias soluções da Microsoft, incluindo Microsoft Teams. Como uma ferramenta baseada na Web, o Planner pode ser acessado de qualquer lugar e disponível como um aplicativo móvel para iOS e Android.
 

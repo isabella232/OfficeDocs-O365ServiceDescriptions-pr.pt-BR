@@ -13,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: O Word para a Web (anteriormente Word Web App) estende sua experiência de Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado.
-ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Word para a Web (anteriormente Word Web App) estende sua experiência de Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado.
+ms.openlocfilehash: 181135b0bfcb1ea2cf8492e3853e4914d8efb2d1f214b4747dae00de6d287b05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652325"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702880"
 ---
 # <a name="word-for-the-web"></a>Word para a Web
 
-O Word para a Web (anteriormente Word Web App) estende sua experiência de Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado. 
+Word para a Web (anteriormente Word Web App) estende sua experiência de Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Guias de alinhamento e layout dinâmico
 
-Réguas e linhas de grade não estão disponíveis no Word para a Web. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Réguas e linhas de grade não estão disponíveis Word para a Web. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="apply-styles"></a>Aplicar estilos
 
@@ -35,11 +35,11 @@ Os estilos de parágrafo e caractere salvos em um documento estão disponíveis 
   
 ## <a name="office-add-ins"></a>Suplementos do Office
 
-Você pode obter um complemento para o Word na loja do Office. Office os complementos funcionam apenas no aplicativo da área de trabalho do Word e não estão disponíveis no Word para a Web. Saiba como [obter um complemento para o Word](https://go.microsoft.com/fwlink/?LinkId=391443).
+Você pode obter um complemento para o Word na loja do Office. Office os complementos funcionam apenas no aplicativo da área de trabalho do Word e não estão disponíveis Word para a Web. Saiba como [obter um complemento para o Word](https://go.microsoft.com/fwlink/?LinkId=391443).
   
 ## <a name="autosave"></a>Autosave
 
-O Word para a Web salva automaticamente seu documento quando você faz alterações.
+Word para a Web salva automaticamente seu documento quando você faz alterações.
   
 ## <a name="autotext"></a>AutoTexto
 
@@ -51,7 +51,7 @@ Não disponível no Word para a Web. Recursos avançados de design, como iniciar
   
 ## <a name="bullets-and-numbering"></a>Marcadores e numeração
 
-Com o Word para a Web, você pode aplicar uma escolha de três estilos de marcador ou cinco estilos de numeração. Clique nos botões  **Aumentar Recuo** e Diminuir Recuo para alterar o nível de lista para listas com marcador e numeradas existentes no documento, bem como as criadas no aplicativo da área de trabalho do Word. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Com Word para a Web, você pode aplicar uma escolha de três estilos de marcador ou cinco estilos de numeração. Clique nos botões  **Aumentar Recuo** e Diminuir Recuo para alterar o nível de lista para listas com marcador e numeradas existentes no documento, bem como as criadas no aplicativo da área de trabalho do Word. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="captions"></a>Legendas
 
@@ -59,15 +59,15 @@ Não disponível no Word para a Web. Se o aplicativo da área de trabalho Word e
   
 ## <a name="citations-and-bibliography"></a>Citações e bibliografia
 
-Não disponível no Word para a Web. Você pode exibir as citações existentes no Word para a Web, mas não pode adicionar citações. Se o aplicativo da área de trabalho Word estiver instalado em seu computador, você poderá usar o Word para adicionar uma bibliografia e citações a seu documento. Saiba mais sobre a [criação de uma bibliografia no Word 2013](https://go.microsoft.com/fwlink/p/?LinkId=282314). 
+Não disponível no Word para a Web. Você pode exibir citações existentes Word para a Web, mas não pode adicionar citações. Se o aplicativo da área de trabalho Word estiver instalado em seu computador, você poderá usar o Word para adicionar uma bibliografia e citações a seu documento. Saiba mais sobre a [criação de uma bibliografia no Word 2013](https://go.microsoft.com/fwlink/p/?LinkId=282314). 
   
 ## <a name="clipboard"></a>Área de transferência
 
-Devido às limitações da tecnologia de navegador da Web, copiar e colar texto no Office para a Web é diferente de copiar e colar texto nos aplicativos da área de trabalho Office. Saiba mais sobre [copiar e colar em Office para a Web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
+Devido às limitações da tecnologia de navegador da Web, copiar e colar texto no Office para a Web é diferente de copiar e colar texto nos aplicativos da área de trabalho Office de área de trabalho. Saiba mais sobre [copiar e colar em Office para a Web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
   
 ## <a name="collaboration-advanced"></a>Colaboração, avançado
 
-Não disponível no Word para a Web. Os recursos avançados de colaboração, como a ativação de Controlar Alterações e mesclar, comparar e combinar documentos, estão disponíveis somente no aplicativo da área de trabalho Word. Conforme esperado, as alterações controladas aparecem no Word para a Web enquanto estão no modo de exibição.
+Não disponível no Word para a Web. Os recursos avançados de colaboração, como a ativação de Controlar Alterações e mesclar, comparar e combinar documentos, estão disponíveis somente no aplicativo da área de trabalho Word. Conforme esperado, as alterações controladas aparecem Word para a Web no modo De exibição.
   
 ## <a name="content-controls"></a>Controles de conteúdo
 
@@ -99,19 +99,19 @@ O Microsoft Word inclui suporte interno para escrever e editar equações, bem c
   
 ## <a name="find-and-replace"></a>Encontrar e substituir
 
-Encontre e substitua o texto em seu documento usando a ferramenta Encontrar e Substituir no Aplicativo da Área de Trabalho do Word e da Web. Para saber mais sobre como usar o Find and Replace no Word para a Web, [consulte Find and replace text](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web).
+Encontre e substitua texto em seu documento usando a ferramenta Encontrar e Substituir no aplicativo de área de trabalho Word para a Web e word. Para saber mais sobre como usar Find and Replace no Word para a Web, [consulte Find and replace text](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web).
   
 ## <a name="font-formatting"></a>Formatação de fontes
 
-Com o Word para a Web, você pode aplicar fonte, tamanho da fonte e vários atributos de formatação de fonte, incluindo &mdash; negrito, itálico, sublinhado e sobrescrito. Além disso, é possível realçar o texto, alterar a cor da fonte e limpar a formatação do texto selecionado. A formatação de tema do documento está disponível para formatar texto no Word para a Web. Localize as fontes do tema ativo na parte superior da galeria Fontes e as cores do tema na galeria Cor da Fonte. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Com Word para a Web, você pode aplicar fonte, tamanho da fonte e vários atributos de formatação de fonte, incluindo &mdash; negrito, itálico, sublinhado e sobrescrito. Além disso, é possível realçar o texto, alterar a cor da fonte e limpar a formatação do texto selecionado. A formatação de tema do documento está disponível para formatar texto Word para a Web. Localize as fontes do tema ativo na parte superior da galeria Fontes e as cores do tema na galeria Cor da Fonte. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="footnotes-and-endnotes"></a>Notas de rodapé e notas de fim
 
-Você pode adicionar notas de rodapé e notas de fim aos seus documentos no Word para a Web. Saiba mais sobre [como adicionar notas de rodapé e notas de fim no Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=397306).
+Você pode adicionar notas de rodapé e notas de fim aos seus documentos Word para a Web. Saiba mais sobre [como adicionar notas de rodapé e notas de fim em Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=397306).
   
 ## <a name="full-fidelity-reading-view"></a>Modo de exibição de leitura de fidelidade total
 
-Quando você abre seu documento em OneDrive ou SharePoint, o Word para a Web abre o documento no navegador. A formatação e o layout são o que você veria se abrisse o documento no modo de exibição de Layout de Impressão no aplicativo da área de trabalho Word.
+Quando você abre seu documento em OneDrive ou SharePoint, Word para a Web abre o documento no navegador. A formatação e o layout são o que você veria se abrisse o documento no modo de exibição de Layout de Impressão no aplicativo da área de trabalho Word.
   
 ## <a name="graphic-effect-presets"></a>Predefinições de efeitos gráficos
 
@@ -119,23 +119,23 @@ Você pode usar predefinições para aplicar efeitos especiais, como rotação, 
   
 ## <a name="headers-and-footers"></a>Cabeçalhos e rodapés
 
-Insira um header e rodapé no documento no Word para a Web e no aplicativo da área de trabalho do Word. Você também pode aplicar cabeçalhos e rodapés em todas as páginas, exceto na primeira página do seu documento. Para saber mais sobre o uso de headers e rodapés no Word para a Web, consulte Novidades no [Word para a Web](https://go.microsoft.com/fwlink/?LinkId=389520).
+Insira um header e rodapé no documento no Word para a Web e no aplicativo da área de trabalho do Word. Você também pode aplicar cabeçalhos e rodapés em todas as páginas, exceto na primeira página do seu documento. Para saber mais sobre o uso de headers e rodapés Word para a Web, consulte [What's New in Word para a Web](https://go.microsoft.com/fwlink/?LinkId=389520).
   
 ## <a name="hyperlinks"></a>Hiperlinks
 
-Com o Word para a Web, você pode criar facilmente links para indicadores em um documento e definir uma dica de tela que é exibida quando o cursor aponta para o link. Saiba mais sobre [hiperlinks no Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271863).
+Com Word para a Web, você pode criar facilmente links para indicadores em um documento e definir uma dica de tela que é exibida quando o cursor aponta para o link. Saiba mais sobre [hiperlinks em Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271863).
   
-## <a name="index"></a>Index
+## <a name="index"></a>Índice
 
 Um índice lista os termos e os tópicos que são discutidos em um documento, juntamente com as páginas em que eles aparecem. Para criar um índice, marque as entradas de índice, fornecendo o nome da entrada principal e a referência cruzada no documento e, depois, construa o índice.
   
 ## <a name="insert-online-pictures"></a>Inserir imagens online
 
-Com o Word para a Web, você pode inserir uma imagem de um arquivo salvo em seu disco rígido local ou Bing Imagens. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Com Word para a Web, você pode inserir uma imagem de um arquivo salvo em seu disco rígido local ou Bing Imagens. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="irm-and-password-protection"></a>IRM e proteção por senha
 
-O Word para a Web exibe documentos protegidos com o IRM (Gerenciamento de Direitos de Informação). No entanto, esses documentos não podem ser editados no navegador e você não pode criar documentos protegidos por IRM no Word para a Web. O Word para a Web não pode abrir documentos criptografados com uma senha. Recursos avançados de proteção de documentos, como a criação de documentos protegidos por IRM e a aplicação de proteção de senha, estão disponíveis apenas no aplicativo da área de trabalho do Word.
+Word para a Web exibe documentos protegidos com o IRM (Gerenciamento de Direitos de Informação). No entanto, esses documentos não podem ser editados no navegador e você não pode criar documentos protegidos por IRM no Word para a Web. Word para a Web não é possível abrir documentos criptografados com uma senha. Recursos avançados de proteção de documentos, como a criação de documentos protegidos por IRM e a aplicação de proteção de senha, estão disponíveis apenas no aplicativo da área de trabalho do Word.
   
 ## <a name="learning-tools"></a>Ferramentas de Aprendizagem
 
@@ -143,7 +143,7 @@ As Ferramentas de Aprendizagem foram projetadas para ajudar você a melhorar sua
   
 ## <a name="lists"></a>Listas
 
-No Word para a Web, comece a digitar diretamente abaixo de uma lista numerada existente e sua próxima linha automaticamente se tornará parte da lista. Saiba mais sobre [como criar uma lista no Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=397307).
+Em Word para a Web, comece a digitar diretamente abaixo de uma lista numerada existente e sua próxima linha automaticamente se tornará parte da lista. Saiba mais sobre [como criar uma lista em Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=397307).
   
 ## <a name="mail-merge"></a>Mala direta
 
@@ -159,7 +159,7 @@ Insira quebras de página no Word para a Web e no aplicativo da área de trabalh
   
 ## <a name="page-layout-tools"></a>Ferramentas de layout de página
 
-Com o Word para a Web, você pode ajustar margens, tamanho de papel e se a página é colocada verticalmente ou horizontalmente em seus documentos. O Word para a Web não exibe réguas e linhas de grade. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
+Com Word para a Web, você pode ajustar margens, tamanho de papel e se a página é colocada verticalmente ou horizontalmente em seus documentos. Word para a Web não exibe réguas e linhas de grade. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
   
 Saiba como excluir [uma página em branco no Word para a Web](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1).
   
@@ -169,15 +169,15 @@ Não disponível no Word para a Web. Os recursos avançados de layout de página
   
 ## <a name="page-numbers"></a>Números de página
 
-Insira números de página no documento no Word para a Web e no aplicativo da área de trabalho do Word. Você também tem a capacidade de aplicar números de página em todas as páginas, exceto na primeira página de seu documento. Para saber mais sobre como usar números de página no Word para a Web, consulte [Novidades no Word para a Web](https://go.microsoft.com/fwlink/?LinkId=389520).
+Insira números de página no documento no Word para a Web e no aplicativo da área de trabalho do Word. Você também tem a capacidade de aplicar números de página em todas as páginas, exceto na primeira página de seu documento. Para saber mais sobre como usar números de página Word para a Web, consulte [Novidades no](https://go.microsoft.com/fwlink/?LinkId=389520)Word para a Web .
   
 ## <a name="paragraph-formatting"></a>Formatação de parágrafo
 
-Com o Word para a Web, você pode alinhar parágrafos à esquerda, à direita ou centralizado; executar texto da direita para a esquerda; aumentar ou diminuir o recuo; e formatar parágrafos como uma lista com marcador ou numerada. Você também pode limpar a formatação. Não é possível ajustar o espaçamento de linha no Word para a Web. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Com Word para a Web, você pode alinhar parágrafos à esquerda, à direita ou centralizado; executar texto da direita para a esquerda; aumentar ou diminuir o recuo; e formatar parágrafos como uma lista com marcador ou numerada. Você também pode limpar a formatação. Não é possível ajustar o espaçamento de linha Word para a Web. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="picture-tools"></a>Ferramentas de imagens
 
-Com o Word para a Web, você pode ressarmar imagens e adicionar texto alternativo em seu documento. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Com Word para a Web, você pode ressarmar imagens e adicionar texto alternativo em seu documento. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="preformatted-font-and-color-schemes"></a>Esquemas de cores e fontes pré-formatados
 
@@ -189,7 +189,7 @@ Não disponível no Word para a Web. Com o aplicativo da área de trabalho Word 
   
 ## <a name="print-to-pdf"></a>Imprimir para PDF
 
-Com o Word para a Web, você tem um processo de um clique para gerar um PDF e exibir a caixa de diálogo Imprimir. Saiba mais sobre [como imprimir um documento no Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271860).
+Com Word para a Web, você tem um processo de um clique para gerar um PDF e exibir a caixa de diálogo Imprimir. Saiba mais sobre [como imprimir um documento em Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271860).
   
 ## <a name="printing-advanced"></a>Impressão, avançado
 
@@ -197,7 +197,7 @@ Não disponível no Word para a Web. Recursos avançados de impressão, como a i
   
 ## <a name="proofing-tools"></a>Revisores de texto
 
-O Word para a Web verifica automaticamente a ortografia conforme você digita e aplica um sublinhado vermelho ondulado ao texto mal escrito. As ações comuns de Correção Automática estão incluídas, como corrigir erros ortográficos rotineiros ou converter caracteres em símbolos. Além disso, você pode definir o idioma de verificação ou desligar o verificador ortográfico para o texto selecionado. Saiba mais sobre [as diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Word para a Web verifica automaticamente a ortografia conforme você digita e aplica um sublinhado vermelho ondulado ao texto com erro de ortografia. As ações comuns de Correção Automática estão incluídas, como corrigir erros ortográficos rotineiros ou converter caracteres em símbolos. Além disso, você pode definir o idioma de verificação ou desligar o verificador ortográfico para o texto selecionado. Saiba mais sobre [as diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="proofing-tools-advanced"></a>Revisa-revisa, avançado
 
@@ -205,7 +205,7 @@ Não disponível no Word para a Web. Revisores de texto avançados, como a adiç
   
 ## <a name="real-time-co-authoring"></a>Coautoria em tempo real
 
-Mais de uma pessoa pode trabalhar simultaneamente em um documento. No Word para a Web e Word 2016, a presença em tempo real ajuda você a ver onde seus coautores estão trabalhando no documento para que você não crie conflitos à medida que edita e veja as alterações à medida que elas estão sendo feitas. O Word 2013 suporta a edição simultânea, mas não há nenhuma indicação de presença e as alterações não poderão ser vistas por vários autores até que o documento seja salvo. Para saber mais sobre coautor em tempo real, consulte Novidades no [Word para a Web](https://go.microsoft.com/fwlink/?LinkId=389520) e Colaborar em documentos do Word com [coautor em](https://go.microsoft.com/fwlink/?linkid=798760)tempo real.
+Mais de uma pessoa pode trabalhar simultaneamente em um documento. No Word para a Web e no Word 2016, a presença em tempo real ajuda você a ver onde seus coautores estão trabalhando no documento para que você não crie conflitos à medida que edita e veja as alterações à medida que elas estão sendo feitas. O Word 2013 suporta a edição simultânea, mas não há nenhuma indicação de presença e as alterações não poderão ser vistas por vários autores até que o documento seja salvo. Para saber mais sobre coautor em [](https://go.microsoft.com/fwlink/?LinkId=389520) tempo real, consulte Novidades no Word para a Web e Colaborar em documentos do Word com [coautor em](https://go.microsoft.com/fwlink/?linkid=798760)tempo real.
   
 ## <a name="reference-tools"></a>Ferramentas de referência
 
@@ -225,35 +225,35 @@ Não disponível no Word para a Web. Recursos de mídia avançados, como inserç
   
 ## <a name="rich-table-formatting"></a>Formatação avançada de tabelas
 
-A formatação avançada de tabela, como escolher estilos de tabela pré-definidos, opções de configuração para linhas e colunas de header e opções de configuração para sombreamento e bordas, estão disponíveis no Word para a Web e no aplicativo da área de trabalho do Word. Para saber mais sobre formatação de tabela no Word para a Web, consulte [Novidades no Word para a Web](https://go.microsoft.com/fwlink/?LinkId=389520).
+A formatação avançada de tabela, como escolher estilos de tabela pré-definidos, opções de configuração para linhas e colunas de header e opções de configuração para sombreamento e bordas, estão disponíveis no Word para a Web e no aplicativo de área de trabalho do Word. Para saber mais sobre formatação de tabela Word para a Web, consulte [Novidades no](https://go.microsoft.com/fwlink/?LinkId=389520)Word para a Web .
   
 ## <a name="save-as-and-download-a-copy"></a>Salvar como e Baixar uma cópia
 
-Com o Word para a Web, você pode salvar uma cópia do documento localmente.
+Com Word para a Web, você pode salvar uma cópia do documento localmente.
   
 ## <a name="save-as-pdf"></a>Salvar como PDF
 
-Você pode usar o Word para a Web para salvar ou converter seus arquivos em PDFs para poder compartilhá-los ou imprimi-los usando impressoras comerciais. E você não precisa de outros softwares ou suplementos.
+Você pode usar Word para a Web salvar ou converter seus arquivos em PDFs para poder compartilhá-los ou imprimi-los usando impressoras comerciais. E você não precisa de outros softwares ou suplementos.
   
 ## <a name="share"></a>Compartilhar
 
-Com o Word para a Web, é um processo de um clique para enviar um link que outras pessoas podem usar para exibir ou editar o documento. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Com Word para a Web, é um processo de um clique para enviar um link que outras pessoas podem usar para exibir ou editar o documento. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="simple-table-creation"></a>Criação de tabela simples
 
-Com o Word para a Web, você pode inserir uma tabela, editar texto de tabela e editar facilmente a estrutura básica da tabela, como adicionar ou excluir linhas e colunas. Recursos de tabela mais avançados, como estilos de tabela personalizados, tamanho da célula, direção do texto e ordem de classificação, estão disponíveis apenas no aplicativo Word da área de trabalho.
+Com Word para a Web, você pode inserir uma tabela, editar texto de tabela e editar facilmente a estrutura básica da tabela, como adicionar ou excluir linhas e colunas. Recursos de tabela mais avançados, como estilos de tabela personalizados, tamanho da célula, direção do texto e ordem de classificação, estão disponíveis apenas no aplicativo Word da área de trabalho.
   
 ## <a name="smartart"></a>SmartArt
 
-Com o Word para a Web, os documentos existentes com SmartArt são exibidos corretamente no modo de exibição. No Modo de Edição, eles são exibidos como espaços reservados que você pode excluir, mas não editar. Eles não podem ser movidos ou resized no Word para a Web. Recursos de arte avançados, como inserir formas, gráficos, caixas de texto, SmartArt ou WordArt, estão disponíveis apenas no aplicativo Word da área de trabalho.
+Com Word para a Web, documentos existentes com SmartArt são exibidos corretamente no modo de exibição. No Modo de Edição, eles são exibidos como espaços reservados que você pode excluir, mas não editar. Eles não podem ser movidos ou ressized em Word para a Web. Recursos de arte avançados, como inserir formas, gráficos, caixas de texto, SmartArt ou WordArt, estão disponíveis apenas no aplicativo Word da área de trabalho.
   
 ## <a name="table-of-contents"></a>Sumário
 
-Não disponível no Word para a Web. Você pode exibir um índice existente, mas não pode criar um usando o Word para a Web. Se o aplicativo da área de trabalho Word estiver instalado em seu computador, você poderá usar o Word para adicionar um sumário a um documento. Saiba mais sobre como [criar um sumário](https://go.microsoft.com/fwlink/p/?LinkId=324414). 
+Não disponível no Word para a Web. Você pode exibir um índice existente, mas não pode criar um usando Word para a Web. Se o aplicativo da área de trabalho Word estiver instalado em seu computador, você poderá usar o Word para adicionar um sumário a um documento. Saiba mais sobre como [criar um sumário](https://go.microsoft.com/fwlink/p/?LinkId=324414). 
   
 ## <a name="table-of-authority"></a>Tabela de autoridade
 
-Não disponível no Word para a Web. Você pode exibir uma tabela de autoridade existente, mas não pode criar uma usando o Word para a Web.
+Não disponível no Word para a Web. Você pode exibir uma tabela de autoridade existente, mas não pode criar uma usando Word para a Web.
   
 ## <a name="tap"></a>Toque
 
@@ -265,7 +265,7 @@ Quando você precisa realizar algo no Word para a Web, mas não sabe como, pode 
   
 ## <a name="translation-service"></a>Serviço de tradução
 
-Você pode traduzir texto, seja um arquivo inteiro, palavras selecionadas para frases ou palavras individuais, com as ferramentas de tradução disponíveis no Word para a Web. 
+Você pode traduzir texto, seja um arquivo inteiro, palavras selecionadas para frases ou palavras individuais, com as ferramentas de conversão disponíveis em Word para a Web. 
   
 ## <a name="undo-and-redo"></a>Desfazer e refazer
 
@@ -273,11 +273,11 @@ Desfaça uma série de ações ou repita uma ação.
   
 ## <a name="vba-and-forms-scripts"></a>VBA e scripts de formulários
 
-Os controles Active X, os objetos OLR inseridos e uma linha de assinatura são exibidos no documento conforme esperado no Modo de Exibição. No Modo de Edição, eles são exibidos como espaços reservados que você pode excluir, mas não editar. Eles não podem ser movidos ou resized no Word para a Web. Controles e macros avançados estão disponíveis apenas no aplicativo Word da área de trabalho. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Os controles Active X, os objetos OLR inseridos e uma linha de assinatura são exibidos no documento conforme esperado no Modo de Exibição. No Modo de Edição, eles são exibidos como espaços reservados que você pode excluir, mas não editar. Eles não podem ser movidos ou ressized em Word para a Web. Controles e macros avançados estão disponíveis apenas no aplicativo Word da área de trabalho. Saiba mais sobre as [diferenças entre usar um documento no navegador e no Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="view-and-add-comments"></a>Ver e adicionar comentários
 
-Com o Word para a Web, você pode inserir, editar ou excluir comentários no modo Editar. Você pode também responder a um comentário ou marcá-lo como concluído, exatamente como faria no Word para área de trabalho.
+Com Word para a Web, você pode inserir, editar ou excluir comentários no modo Editar. Você pode também responder a um comentário ou marcá-lo como concluído, exatamente como faria no Word para área de trabalho.
   
 ## <a name="watermarks"></a>Marcas d'água
 
@@ -285,15 +285,15 @@ Marcas d'água são textos ou imagens colocados por trás do texto no documento.
   
 ## <a name="word-count"></a>Contagem de palavras
 
-O Word para a Web fornece uma contagem aproximada de palavras em seu documento. Saiba mais sobre [a contagem de palavras no Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
+Word para a Web uma contagem aproximada de palavras em seu documento. Saiba mais sobre [a contagem de palavras Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
   
 ## <a name="zoom"></a>Zoom
 
-O zoom está disponível no modo de Exibição. Com o Word para a Web, use as configurações de modo de exibição do navegador para ampliar ou diminuir o zoom no modo Editar. Saiba mais sobre [a contagem de palavras no Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
+O zoom está disponível no modo de Exibição. Com Word para a Web, use as configurações de modo de exibição do navegador para ampliar ou diminuir o zoom no modo Editar. Saiba mais sobre [a contagem de palavras Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
   
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
-Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte Office para a descrição do serviço [Web.](office-online-service-description.md) 
+Para exibir a disponibilidade de recursos entre planos, opções autônomas e soluções locais, consulte [Office para a Web descrição do serviço.](office-online-service-description.md) 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>Limitações e especificações de parâmetros operacionais
 

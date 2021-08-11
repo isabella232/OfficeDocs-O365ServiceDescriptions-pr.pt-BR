@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: As tabelas a seguir listam as alterações feitas recentemente no conteúdo de descrições do serviço.
-ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 343ea3ddeb84451bad4c6e152a920b4cc9689cdf1c357b1c02aeadee8de28f99
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651036"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702890"
 ---
 # <a name="recent-service-descriptions-changes"></a>Alterações recentes nas descrições de serviços
 
@@ -41,7 +41,7 @@ As tabelas a seguir listam as alterações feitas recentemente no conteúdo de d
 |:-----|:-----|:-----|
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
 |Plataforma do Office 365  <br/> |[Descrição de serviço da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Recursos de compartilhamento GCC High e DoD.  <br/> |
-||[Descrição dos serviços da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |A seção FastTrack foi adicionada GCC tópico.  <br/> |
+||[Descrição dos serviços da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Adicionada FastTrack seção GCC tópico.  <br/> |
    
 ## <a name="april-2018"></a>Abril de 2018
 
@@ -52,7 +52,7 @@ As tabelas a seguir listam as alterações feitas recentemente no conteúdo de d
 ||[Descrição dos serviços da plataforma Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Adicionado Microsoft 365 Business.  <br/> |
 ||[Centro &amp; de Conformidade de Segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Alterou a entrada do limite de arquivamento como "Sim" para Microsoft 365 Business Basic e Microsoft 365 Business Standard.  <br/> |
 ||[Centro &amp; de Conformidade de Segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Alterou "Gerenciamento Avançado de Segurança" para "Office 365 Cloud App Security".  <br/> |
-|Office na Web  <br/> |[Excel para a Web](office-online-service-description/excel-online.md) <br/> |A primeira nota no tópico foi alterada para "As workbooks que excedem 30 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro Microsoft Office SharePoint Online". Anteriormente, a nota tinha 10 MB.  <br/> |
+|Office na Web  <br/> |[Excel para a Web](office-online-service-description/excel-online.md) <br/> |A primeira nota alterada no tópico para "As workbooks que excedem 30 megabytes (MB) não podem ser exibidas no Excel para a Web de dentro Microsoft Office SharePoint Online". Anteriormente, a nota tinha 10 MB.  <br/> |
 |OneDrive for Business  <br/> |[Descrição de serviço do OneDrive for Business](onedrive-for-business-service-description.md) <br/> |Atualização principal para OneDrive for Business Descrição do Serviço.  <br/> |
    
 ## <a name="march-2018"></a>Março de 2018
@@ -126,7 +126,7 @@ As tabelas a seguir listam as alterações feitas recentemente no conteúdo de d
 |:-----|:-----|:-----|
 |**Descrição de serviço** <br/> |**Tópico** <br/> |**Alteração** <br/> |
 |Plataforma do Office 365  <br/> |[Centro &amp; de Conformidade de Segurança](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Adicionados detalhes de Governança Avançada.  <br/> |
-||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Adicionadas migrações de dados executadas pela tabela FastTrack.  <br/> |
+||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Adicionadas migrações de dados executadas por FastTrack tabela .  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Observe que o Compartilhamento Federado requer o uso do Espaço de Endereço de Disponibilidade para dar suporte ao compartilhamento com outros locatários.  <br/> |
 |Exchange Online  <br/> |[Limites do Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Foram adicionados limites para Criptografia de Mensagens do Office 365 versão herdada (OME) e Criptografia de Mensagens do Office 365 (OME) com novos recursos.  <br/> |
 |Skype for Business  <br/> |[Descrição do Serviço do Skype for Business Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Observe que a Audioconferência pode ser adicionada aos planos de assinatura Microsoft 365 Business Standard, Office 365 Enterprise E1 e Office 365 Enterprise E3 como complemento.  <br/> |
@@ -186,4 +186,4 @@ As tabelas a seguir listam as alterações feitas recentemente no conteúdo de d
 ||[Serviços de Mensagens de Voz](exchange-online-service-description/voice-message-services.md) <br/> |Atualizado para incluir um comunicado de fim de vida para Exchange Online unificação de mensagens via SBC.  <br/> |
 | Workplace Analytics  <br/> |[Descrição do serviço do Workplace Analytics](workplace-analytics-service-description.md) <br/> |Adicionada nova descrição do serviço  <br/> |
 |Vários  <br/> |Vários  <br/> |O Azure RMS renomeado Azure Information Protection (AIP).  <br/> |
-|Vários  <br/> |Vários  <br/> |Removeu Office para os detalhes de comparação da área de trabalho da Web vs. Office do Office 365 Alemanha e Office 365 operados por páginas da 21Vianet. Adicionado ponteiro ao mesmo conteúdo no Office para a página Descrição do Serviço Web.  <br/> |
+|Vários  <br/> |Vários  <br/> |Removeu Office para a Web detalhes de comparação Office área de trabalho Office 365 Alemanha e Office 365 operados por páginas da 21Vianet. Ponteiro adicionado ao mesmo conteúdo na página Office para a Web Descrição do Serviço.  <br/> |
