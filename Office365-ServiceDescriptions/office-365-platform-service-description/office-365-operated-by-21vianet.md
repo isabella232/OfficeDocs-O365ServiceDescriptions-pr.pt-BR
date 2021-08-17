@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços de nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 4d3f9ff8f649a748668c3f3156166cb913612acd6a72811a9870604de4d560d2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1bac942dcf8923f07197a3617e057c7fc409081c
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701631"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363628"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -38,7 +38,7 @@ Cada plano do Office 365 operado pela 21Vianet inclui alguns serviços individua
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-| Serviço | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para empresas | Microsoft 365 Business Standard | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
+| Serviço | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet | Microsoft 365 Business Standard operado pela 21Vianet | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Office 365 plataforma<sup>1</sup> | Sim | Sim | Sim | Sim | Sim | Sim |
 | Exchange Online | Sim | Não | Sim | Sim | Sim | Sim |
@@ -81,13 +81,13 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-| Recurso | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para empresas | Microsoft 365 Business Standard | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
+| Recurso | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet | Microsoft 365 Business Standard operado pela 21Vianet | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[Recursos de Administração do Office 365](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-21vianet#admin-center-features-and-settings)** | | | | | | |
 | Administrar Office 365 usando o Centro de administração do Microsoft 365 ou Windows PowerShell | Sim | Sim | Sim | Sim | Sim | Sim |
 | Proteger conteúdo usando a AIP | Não | Não | Não | Não | Não | Não |
 | Tradução manual de postagens do Centro de Mensagens por meio de tradução automática | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Recursos do Pacote do Office 365](office-365-suite-features.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Recursos do Pacote do Office 365](office-365-suite-features.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Microsoft Bookings | Não | Não | Sim | Não | Não | Não |
 | Email do Microsoft Briefing | Não | Não | Sim | Não | Não | Não |
 | Microsoft Power Automate | Não | Não | Não | Não | Não | Não |
@@ -103,7 +103,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 | Grupos do Office 365 | Sim | Não | Sim | Sim | Sim | Sim |
 | Vídeo do Office 365 | Não | Não | Não | Sim | Sim | Sim<sup>2</sup> |
 | Bloco de Anotações de Classe | Não | Não | Não | Não | Não | Não |
-| **[Gerenciamento de contas de usuário](user-account-management.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Gerenciamento de contas de usuário](user-account-management.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Identidade na nuvem, identidade federada ou autenticação multifato<sup>14</sup> | Sim | Sim | Sim | Sim | Sim | Sim |
 | Configuração de área de trabalho do Office 365 | Não | Não | Não | Não | Não | Não |
 | Carregamento em massa usando .csv arquivos | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -116,7 +116,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 | Várias funções de administrador disponíveis | Sim | Sim | Sim | Sim | Sim | Sim |
 | Permitir que um parceiro administre o Office 365 para você | Não | Não | Não | Não | Não | Não |
 | Serviços do Azure Active Directory | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Domínios](domains.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Domínios](domains.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Adicionar domínios de segundo nível personalizados, como fourthcoffee.com | Sim | Sim | Sim | Sim | Sim | Sim |
 | Adicionar domínios de terceiro nível personalizados, como marketing.fourthcoffee.com | Sim | Sim | Sim | Sim | Sim | Sim |
 | Adicionar até 900 domínios personalizados | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -131,11 +131,11 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 | Hospedar vários Sites Públicos do SharePoint Online com nomes de domínio personalizados<sup>5</sup> | Não | Não | Não | Não | Não | Não |
 | Verificação de propriedade de domínio necessária para domínios personalizados | Sim | Sim | Sim | Sim | Sim | Sim |
 | Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy | Não | Não | Não | Não | Não | Não |
-| **[Continuidade e integridade do serviço](service-health-and-continuity.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Continuidade e integridade do serviço](service-health-and-continuity.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Informação de status disponível na página **Integridade do serviço** ou **Status do serviço** | Sim | Sim | Sim | Sim | Sim | Sim |
 | Status dos alertas individuais disponíveis no painel Centro de administração do Microsoft 365 painel | Sim | Sim | Sim | Sim | Sim | Sim |
 | RSS feed de **Integridade do serviço** | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Relatórios](reports.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Relatórios](reports.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Caixas postais ativas e inativas | Sim | Sim | Sim | Sim | Sim | Sim |
 | Caixas de correio novas e excluídas | Sim | Sim | Sim | Sim | Sim | Sim |
 | Grupos novos e excluídos | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -160,20 +160,20 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 | Navegador usado | Sim | Sim | Sim | Sim | Sim | Sim |
 | Sistema operacional usado | Sim | Sim | Sim | Sim | Sim | Sim |
 | Criar seus próprios relatórios usando Microsoft 365 web de relatórios | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Atualizações de serviço](service-updates.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Atualizações de serviço](service-updates.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Atualizações regulares fornecidas a todos os clientes | Sim | Sim | Sim | Sim | Sim | Sim |
 | Notificações enviadas ao Centro de Mensagens quando a ação é necessária, um problema é resolvido, os recursos são implantados ou as alterações do serviço | Sim | Sim | Sim | Sim | Sim | Sim |
 | [Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) algumas atualizações de serviço | Não | Não | Não | Não | Não | Não |
 | Opção para ativar lançamento direcionado | Não | -- | Não | Sim | Sim | Sim |
-| **[Ajuda e treinamento](help-and-training.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Ajuda e treinamento](help-and-training.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Ajuda online | Sim | Sim | Sim | Sim | Sim | Sim |
 | Comunidade | Não | Não | Não | Não | Não | Não |
 | Outros recursos de autoajuda<sup>12</sup> | Sim | Sim | Sim | Sim | Sim | Sim |
 | Treinamento individual | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Sistema de rede](networking.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Sistema de rede](networking.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Protocolo IPv4 | Sim | Sim | Sim | Sim | Sim | Sim |
 | Protocolo IPv6 | Não | Não | Não | Não | Não | Não |
-| **Confiança** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Confiança** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | **[Privacidade, segurança e transparência](privacy-security-and-transparency.md)** | Sim | Sim | Sim | Sim | Sim | Sim |
 | Advanced Data Governance | Não | Não | Não | Não | Não | Não |
 | Gerenciamento de Segurança Avançada | Não | Não | Não | Não | Não | Não |
@@ -196,7 +196,7 @@ A tabela a seguir lista todos os recursos da plataforma para o Office 365 operad
 | Acordo de processamento de dados da Microsoft | Não | Não | Não | Não | Não | Não |
 | Dados de PAN controlados por PCI | Não | Não | Não | Não | Não | Não |
 | **[Continuidade do serviço](service-health-and-continuity.md)** | | | | | | |
-| **[BlackBerry](blackberry.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[BlackBerry](blackberry.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Usar BIS (BlackBerry Internet Service) | Sim | Sim | Sim | Sim | Sim | Sim |
 | **[Parceiros](partners.md)** | | | | | | |
 | Criar convites para avaliação e ordens de compra para um cliente que está usando o plano especificado | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -230,7 +230,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-| Recurso | Office Professional Plus 2013 operado pela 21Vianet | Office Professional Plus 2016 operado por 21Vianet | Office 365 ProPlus operado pela 21Vianet | Aplicativos do Microsoft 365 para empresas | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Business Standard | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
+| Recurso | Office Professional Plus 2013 operado pela 21Vianet | Office Professional Plus 2016 operado por 21Vianet | Office 365 ProPlus operado pela 21Vianet | Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Business Standard operado pela 21Vianet | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **Aplicativos do Office** | | | | | | | | | |
 | [Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) | Sim | Sim | Sim | Sim | Não | Sim | Não | Sim | Não |
@@ -253,7 +253,7 @@ A tabela a seguir mostra os recursos do aplicativo do Office 365 que estão disp
 | [Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) | Não | Sim | Não | Não | Não | Sim | Não | Sim | Não |
 | [Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) | Não | Sim | Não | Não | Não | Sim | Não | Sim | Não |
 | Outlook para Android | Não | Sim | Sim | Sim | Não | Sim | Não | Sim | Não |
-| **Enterprise valor** | **Office Professional Plus 2013 operado pela 21Vianet** | **Office Professional Plus 2016 operado por 21Vianet** | **Office 365 ProPlus operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Enterprise valor** | **Office Professional Plus 2013 operado pela 21Vianet** | **Office Professional Plus 2016 operado por 21Vianet** | **Office 365 ProPlus operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | 5 instalações por usuário em PC ou Mac | Não | Sim | Sim<sup>6</sup> | Sim<sup>6</sup> | Não | Sim | Não | Sim | Não |
 | Provisionamento automatizado de contas de usuário | N/D | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim |
 | Interface de usuário multilíngue | Sim | Sim | Sim | Não | Não | Sim | Não | Sim | Não |
@@ -324,18 +324,18 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-| Recurso | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para empresas | Microsoft 365 Business Standard | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
+| Recurso | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet | Microsoft 365 Business Standard operado pela 21Vianet | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[Planejamento e implantação](../exchange-online-service-description/planning-and-deployment.md)** | | | | | | |
 | Suporte para implantação híbrida | Sim<sup>9, 10</sup> | Sim<sup>10</sup> | Sim<sup>9, 10</sup> | Sim<sup>10</sup> | Sim<sup>10</sup> | Sim<sup>10</sup> |
 | Suporte para migração IMAP | Sim | Sim | Sim | Sim | Sim | Sim |
 | Suporte para migração de substituição | Sim | Sim | Sim | Sim | Sim | Sim |
 | Suporte para migração em estágios | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Permissões](../exchange-online-service-description/permissions.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Permissões](../exchange-online-service-description/permissions.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Permissões baseadas em função | Sim | Sim | Sim | Sim | Sim | Não |
 | Grupos de função | Sim | Sim | Sim | Sim | Sim | Não |
 | Diretivas de atribuição de função | Sim | Sim | Sim | Sim | Sim | Não |
-| **[Política e conformidade de mensagens](../exchange-online-service-description/message-policy-and-compliance.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Política e conformidade de mensagens](../exchange-online-service-description/message-policy-and-compliance.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Arquivamento de Caixas de Correio baseadas no Exchange Online | Sim | Sim | Sim | Sim | Sim | Não |
 | Arquivamento baseado em nuvem de caixas de correio no local | Não | Não | Não | Não | Não | Não |
 | Marcas e políticas de retenção | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -349,7 +349,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 | Regras de fluxo de emails (regras de transporte) | Sim<sup>3</sup> | Sim<sup>3</sup> | Sim<sup>3</sup> | Sim<sup>3</sup> | Sim<sup>3</sup> | Sim<sup>3</sup> |
 | Prevenção contra perda de dados | Não | Não | Não | Não | Sim | Não |
 | Registro em Diário | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Proteção antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Proteção antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Proteção anti-spam integrado | Sim | Sim | Sim | Sim | Sim | Sim |
 | Customize anti-spam policies | Sim | Sim | Sim | Sim | Sim | Sim <sup>4</sup> |
 | Proteção anti-malware integrado | Sim<sup>5</sup> | Sim<sup>5</sup> | Sim<sup>5</sup> | Sim<sup>5</sup> | Sim<sup>5</sup> | Sim<sup>5</sup> |
@@ -357,13 +357,13 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 | Quarentena - gerenciamento de administrador | Sim | Sim | Sim | Sim | Sim | Sim <sup>4</sup> |
 | Quarentena - auto-gerenciamento de usuário final | Sim | Sim | Sim | Sim | Sim | Sim |
 | Proteção Avançada contra Ameaças | Não | -- | Não | Não | Não | Não |
-| **[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Fluxo de emails](../exchange-online-service-description/mail-flow.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Roteamento personalizado de emails de saída | Sim | Sim | Sim | Sim | Sim | Sim |
 | Secure messaging with a trusted partner | Sim | Sim | Sim | Sim | Sim | Sim |
 | Conditional mail routing | Sim | Sim | Sim | Sim | Sim | Sim |
 | Adicionar um parceiro a uma lista segura de entrada | Sim | Sim | Sim | Sim | Sim | Sim |
 | Roteamento de email híbrido | Sim<sup>9</sup> | -- | Sim<sup>9</sup> | Sim | Sim | Sim |
-| **[Destinatários](../exchange-online-service-description/recipients.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Destinatários](../exchange-online-service-description/recipients.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Alertas de capacidade | Sim | Sim | Sim | Sim | Sim | Sim |
 | Email secundário | Sim | Sim | Sim | Sim | Sim | Sim |
 | MailTips | Sim | Sim | Sim | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> |
@@ -384,17 +384,17 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 | Gerenciamento da sala de conferência | Sim | Sim | Sim | Sim | Sim | Sim |
 | Respostas de Ausência Temporária | Sim | Sim | Sim | Sim | Sim | Sim |
 | Compartilhamento de calendário | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> |
-| **[Recursos de relatórios e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Recursos de relatórios e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Relatórios do Centro de administração do Microsoft 365 | Sim | Sim | Sim | Sim | Sim | Sim |
 | Excel de trabalho de relatório | Não | Sim | Não | Sim | Sim | Sim |
 | Relatórios de serviços Web | Sim | Sim | Sim | Sim | Sim | Sim |
 | Message trace | Sim | Sim | Sim | Sim | Sim | Sim |
 | Relatórios de auditoria | Sim | Sim | Sim | Sim | Sim | Sim <sup>2</sup> |
 | Relatórios de Unificação de Mensagens | Não | Não | Não | Não | Não | Não |
-| **[Compartilhamento e colaboração](../exchange-online-service-description/sharing-and-collaboration.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Compartilhamento e colaboração](../exchange-online-service-description/sharing-and-collaboration.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Compartilhamento federado (incluindo publicação de calendário) | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> | Sim<sup>12</sup> |
 | Pastas públicas | Sim | Sim | Sim | Sim | Sim | Não |
-| **[Clientes e dispositivos móveis](../exchange-online-service-description/clients-and-mobile-devices.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Clientes e dispositivos móveis](../exchange-online-service-description/clients-and-mobile-devices.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Microsoft Outlook | Sim | Sim | Sim | Sim | Sim | Não<sup>6</sup> |
 | Outlook na Web | Sim | Sim | Sim | Sim | Sim | Sim |
 | Exchange ActiveSync | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -402,29 +402,29 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 | SMTP | Sim | Sim | Sim | Sim | Sim | Sim |
 | Suporte a aplicativos EWS | Sim | Sim | Sim | Sim | Sim | Não |
 | Outlook para Mac | Sim | Sim | Sim | Sim | Sim | Não |
-| **[Serviços de mensagens de voz](../exchange-online-service-description/voice-message-services.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Serviços de mensagens de voz](../exchange-online-service-description/voice-message-services.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Caixa postal | Não | Não | Não | Não | Não | Não |
 | Integração entre caixa postal e FAX de terceiros | Não | Não | Não | Não | Não | Não |
 | Interoperabilidade de caixa postal de terceiros | Não | Sim | Não | Não | Não | Não |
 | Skype for Business integração | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Alta disponibilidade e continuidade de negócios](../exchange-online-service-description/high-availability-and-business-continuity.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Alta disponibilidade e continuidade de negócios](../exchange-online-service-description/high-availability-and-business-continuity.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Replicação de caixa de correio em data centers | Sim | Sim | Sim | Sim | Sim | Sim |
 | Recuperação da caixa de correio excluída | Sim | Sim | Sim | Sim | Sim | Sim |
 | Recuperação de itens excluídos | Sim | Sim | Sim | Sim | Sim | Sim |
 | Recuperação de item único | Sim | Sim | Sim | Sim | Sim | Não |
-| **[Interoperabilidade, conectividade e compatibilidade](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Interoperabilidade, conectividade e compatibilidade](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Skype for Business presença no OWA e Outlook | Sim | Sim | Sim | Sim | Sim | Não |
 | SharePoint interoperabilidade | Sim | Sim | Sim | Sim | Sim | Sim |
 | Suporte à conectividade EWS | Sim | Sim | Sim | Sim | Sim | Sim |
 | Suporte a retransmissão SMTP | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Instalação e administração do Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Instalação e administração do Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Acesso ao portal do Microsoft Office 365 | Sim | Sim | Sim | Sim | Sim | Sim |
 | Centro de administração do Microsoft 365 acesso | Sim | Sim | Sim | Sim | Sim | Não |
 | Acesso ao centro de administração do Exchange | Sim | Sim | Sim | Sim | Sim | Sim |
 | Acesso Remoto do Windows PowerShell | Sim | Sim | Sim | Sim | Sim | Sim |
 | Políticas activeSync para dispositivos móveis | Sim | Sim | Sim | Sim | Sim | Sim |
 | Relatório de uso | Sim | Sim | Sim | Sim | Sim | Sim |
-| **[Estendendo o serviço - personalização, complementos e recursos](../exchange-online-service-description/exchange-online-service-description.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Estendendo o serviço - personalização, complementos e recursos](../exchange-online-service-description/exchange-online-service-description.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Outlook e Outlook MAPI | Sim<sup>1</sup> | Sim<sup>1</sup> | Sim<sup>1</sup> | Sim<sup>1</sup> | Sim<sup>1</sup> | Não |
 
 <sup>1</sup> Algumas Web Parts e complementos de terceiros podem não estar disponíveis.
@@ -578,12 +578,15 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 > [!NOTE]
 > A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-| Recursos para desenvolvedores | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para empresas | Microsoft 365 Business Standard | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
+| Recursos para desenvolvedores | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet | Microsoft 365 Business Standard operado pela 21Vianet | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Catálogo de aplicativos (SharePoint) | Sim | Sim | Sim | Sim | Sim | Sim |
 | Implantação de aplicativos: aplicativos hospedados na nuvem | Sim | Sim | Sim | Sim | Sim | Sim |
 | Implantação de aplicativos: SharePoint aplicativos hospedados por SharePoint aplicativos hospedados | Sim | Sim | Sim | Sim | Sim | Sim |
 | Serviço de gerenciamento de aplicativos | Sim | Sim | Sim | Sim | Sim | Sim |
+| Arquivamento | Sim | n/d | Sim | Sim | Sim | Não |
+| Políticas de alerta | Não | n/d | Não | Não | Não | Não |
+| Auditoria Básica<sup>2</sup> | Sim | n/d | Sim | Sim | Sim | Sim |
 | BCS: alertas para listas externas | Não | Não | Não | Não | Sim | Não |
 | BCS: Tipos de conteúdo externo com escopo de aplicativo (ECTs) | Não | Não | Não | Não | Sim | Não |
 | BCS: dados de negócios Web Parts | Não | Não | Não | Não | Sim | Não |
@@ -596,18 +599,26 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Browser-based customizations | Sim | Sim | Sim | Sim | Sim | Sim |
 | Client Object Model (OM) | Sim | Sim | Sim | Sim | Sim | Sim |
 | Client-side rendering (CSR) | Sim | Sim | Sim | Sim | Sim | Sim |
+| Pesquisa de Conteúdo | Não | n/d | Não | Não | Não | Não |
 | Definições de site personalizadas | Não | Não | Não | Não | Não | Não |
 | Página de provisionamento de site personalizado | Não | Não | Não | Não | Não | Não |
+| Prevenção contra perda de dados Exchange Online, SharePoint Online e OneDrive for Business | Não | n/d | Sim | Não | Sim | Não |
 | Site do desenvolvedor | Sim | Não | Sim | Sim | Sim | Sim |
 | Aplicativos baseados em formulários | Sim | Não | Sim | Sim | Sim | Sim |
 | Soluções de confiança total | Não | Não | Não | Não | Não | Não |
+| Casos de Descoberta eDiscovery | Não | n/d | Não | Não | Não | Não |
+| Exportação de Descobertas EDiscovery | Não | n/d | Não | Não | Não | Não |
+| Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta) | Não | n/d | Não | Não | Não | Não |
+| Governança de informações<sup>1</sup> | Sim | n/d | Sim | Sim | Sim | Sim |
 | InfoPath Forms Services | Não | Não | Não | Não | No<sup>14</sup> | Não |
 | JavaScript Object Model | Sim | Sim | Sim | Sim | Sim | Sim |
 | List and Library APIs | Sim | Sim | Sim | Sim | Sim | Sim |
+| Rótulos manuais de sensibilidade | Não | n/d | Não | Sim | Sim | Não |
+| Criptografia de Mensagens do Office 365 básico (OME) | Não | n/d | Não | Não | Sim | Não |
 | Receptor de eventos remotos | Sim | Não | Sim | Sim | Sim | Sim |
 | APIs REST | Sim | Sim | Sim | Sim | Sim | Sim |
 | SharePoint Design Manager | Sim | Não | Sim | Sim | Sim | Sim |
-| Sharepoint Designer 2013 | Sim | Não | Sim | Sim | Sim | Sim |
+| SharePoint Designer 2013 | Sim | Não | Sim | Sim | Sim | Sim |
 | SharePoint Store | Não | Não | Não | Não | Não | Não |
 | SharePoint fluxos de trabalho 2010 (.NET 3.5) | Não | Não | Não | Não | Não | Não |
 | SharePoint fluxos de trabalho 2010 (fora da caixa) | Não | Não | Não | Não | Não | Não |
@@ -615,7 +626,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Workload API: ECM APIs | Sim | Não | Sim | Sim | Sim | Sim |
 | Workload API: Search APIs | Sim | Não | Sim | Sim | Sim | Sim |
 | Workload API: Social APIs | Sim | Não | Sim | Sim | Sim | Sim |
-| **Recursos para profissionais de TI** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Recursos para profissionais de TI** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Sincronização do Active Directory | Sim | Sim | Sim | Sim | Sim | Sim |
 | Mapeamento de acesso alternativo (AAM) | Não | Não | Não | Não | Não | Não |
 | Plataforma de análise | Não | Não | Não | Não | Não | Não |
@@ -652,7 +663,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Upgrade evaluation site collections | Não | Não | Não | Sim | Sim | Sim |
 | Relatório de uso e registro em log | Não | Não | Não | Não | Não | Não |
 | Windows PowerShell suporte | Sim | Sim | Sim | Sim | Sim | Sim |
-| **Recursos de conteúdo** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Recursos de conteúdo** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Suporte a padrões de acessibilidade | Sim | Sim | Sim | Sim | Sim | Sim |
 | Aprimoramentos de biblioteca de ativos/suporte a vídeo | Sim | Sim | Sim | Sim | Sim | Sim |
 | Auditoria | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -696,7 +707,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Catálogo | Não | Não | Não | Não | Sim | Não |
 | Página de categoria e página de item de catálogo | Não | Não | Não | Não | Sim | Não |
 | Web Parts de pesquisa | Não | Não | Não | Não | Sim | Não |
-| Piblicação intersite | Não | Não | Não | Não | Sim | Não |
+| Publicação entre sites | Não | Não | Não | Não | Sim | Não |
 | WCM: Ferramentas de designer | Sim | Não | Sim | Sim | Sim | Sim |
 | Navegação facetada | Não | Não | Não | Não | Não<sup>7</sup> | Não |
 | Renderizações de imagem | Sim | Não | Sim | Não | Não | Não |
@@ -706,7 +717,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | WCM: Recommendations | Sim | Não | Sim | Sim | Sim | Sim |
 | WCM: Otimização do Mecanismo de Pesquisa (SEO) | Sim | Não | Sim | Sim | Sim | Sim |
 | Word Automation Services | Não | Não | Não | Não | Não | Não |
-| **Recursos de percepções** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Recursos de percepções** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Business Intelligence Center | Não | Não | Não | Não | Não | Não |
 | Medidas e membros calculados | Não | Não | Não | Não | Sim | Não |
 | Biblioteca de conexões de dados | Não | Não | Não | Não | Sim | Não |
@@ -727,7 +738,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Usar e interagir com pastas de trabalho do Excel que contêm modelos de dados | Não | Não | Não | Não | Não | Não |
 | Visio para a Web<sup>14, 15</sup> | Sim | Sim | Sim | Sim | Sim | Sim |
 | Visio Serviços<sup>14</sup> | Não | Não | Não | Não | Não | Não |
-| **Recursos de pesquisa** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Recursos de pesquisa** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Processamento de conteúdo avançado | Sim | Não | Sim | Sim | Sim | Sim |
 | Continuous crawls | Sim | Sim | Sim | Sim | Sim | Sim |
 | Custom entity extraction | Não | Não | Não | Não | Não | Não |
@@ -756,7 +767,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Pesquisa vertical: "Pessoas" | Sim | Sim | Sim | Sim | Sim | Sim |
 | Pesquisa vertical: "Vídeo" | Não | Não | Não | Não | Sim | Não |
 | Pesquisas de "Esta lista" | Sim | Sim | Sim | Sim | Sim | Sim |
-| **Recursos de sites** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Recursos de sites** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Change the look | Sim | Não | Sim | Sim | Sim | Sim |
 | Conexões com Microsoft Office clientes | Sim | Sim | Sim | Sim | Sim | Sim |
 | Suporte a vários navegadores | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -786,7 +797,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Página de uso do site | Não | Não | Não | Não | Não | Não |
 | Variações | Sim | Não | Sim | Sim | Sim | Não |
 | Work Management Service | Sim | Não | Sim | Sim | Sim | Sim |
-| **Recursos sociais** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Recursos sociais** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Ask Me About | Não | Não | Não | Não | Não | Não |
 | Blogs pessoais | Não | Não | Não | Não | Não | Não |
 | Reputação, má reputação e moderação de comunidades | Não | Não | Não | Não | Não | Não |
@@ -810,7 +821,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Marcas de tendência | Não | Não | Não | Não | Não | Não |
 | Wikis | Não | Não | Não | Não | Não | Não |
 | Yammer | Não | Não | Não | Não | Não | Não |
-| **Complementos** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Complementos** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Armazenamento adicional | Sim | Não | Sim | Sim | Sim | Sim |
 | Aplicativos provisionados do Azure: Serviços do Access<sup>3</sup> | Sim | Sim | Sim | Sim | Sim | Sim |
 | Aplicativos provisionados do Azure: Código personalizado no Azure Lightweight Web Role (LWR) | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -839,7 +850,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 > - Essa tabela indica a disponibilidade do cliente e do serviço nas opções do Office 365. Se você quiser comparar recursos individuais entre os vários clientes de área de trabalho Skype for Business, clientes Web e clientes móveis, consulte [Tabelas](/lyncserver/lync-server-2013-desktop-client-comparison-tables) de comparação de cliente de área de trabalho e Tabelas de Comparação de Cliente [Móvel.](/lyncserver/lync-server-2013-mobile-client-comparison-tables)
 > - A versão do Office 365 operado pela 21Vianet do Office 365 é específica da China.
 
-| Recurso | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para empresas | Microsoft 365 Business Standard | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
+| Recurso | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet | Microsoft 365 Business Standard operado pela 21Vianet | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[Skype for Business Online: clientes, aplicativos móveis e dispositivos de sala de conferência](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** | | | | | | |
 | Skype for Business | Sim<sup>1</sup> | Sim<sup>1</sup> | Sim<sup>1</sup> | Sim<sup>1, 4</sup> | Sim | Não |
@@ -848,7 +859,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 | Lync para Mac 2011 | Sim | Sim | Sim | Sim | Sim | Não |
 | Clientes móveis do Skype for Business | Sim | Sim | Sim | Sim | Sim | Não |
 | Skype for Business Web App | Sim | Sim | Sim | Sim | Sim | Não |
-| **[Mensagens instantâneas, presença e contatos](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Mensagens instantâneas, presença e contatos](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | IM de computador para computador e presença | Sim | Sim | Sim | Sim | Sim | Não |
 | IM e presença de várias partes | Sim | Sim | Sim | Sim | Sim | Não |
 | Configuração do cartão de visita | Sim | Sim | Sim | Sim | Sim | Não |
@@ -860,18 +871,18 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 | Expansão da lista de distribuição | Sim | Sim | Sim | Sim | Sim | Não |
 | Chat persistente | Não | Não | Não | Não | Não | Não |
 | Fotos de remetente/receptor | Sim | Sim | Sim | Sim | Sim | Não |
-| **[Áudio, vídeo e mídia de Skype para Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Áudio, vídeo e mídia de Skype para Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Compartilhamento de área de trabalho por meio do VbSS (compartilhamento de tela baseado em vídeo) | Sim | Sim | Sim | Sim | Sim | Não |
 | Compartilhamento de área de trabalho e aplicativo por meio do protocolo RDP | Sim | Sim | Sim | Sim | Sim | Não |
 | Transferências de arquivos | Sim | Sim | Sim | Sim | Sim | Não |
 | Vídeo | Sim | Sim | Sim | Sim | Sim | Não |
 | QoS (Qualidade de serviço) de rede - DSCP (Ponto de Código de Serviços Diferenciados) | Não | Não | Não | Não | Não | Não |
-| **[Federação e conectividade pública de mensagens instantâneas](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Federação e conectividade pública de mensagens instantâneas](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Office Communications Server 2007 R2 e Lync Server 2010 (IM, Presença, Áudio, Vídeo, Conferência) | Sim | Não | Sim | Sim | Sim | Não |
 | XMPP (usado pelo Google Talk, por exemplo) e federação Sametime | Não | Não | Não | Não | Não | Não |
 | Federação do Skype | Não | Não | Não | Não | Não | Não |
 | AOL e federação do Yahoo! | Não | Não | Não | Não | Não | Não |
-| **[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Ad hoc e agendar audioconferência | Sim | Sim | Sim | Sim | Sim | Não |
 | Ad hoc e agendar conferência de vídeo | Sim | Sim | Sim | Sim | Sim | Não |
 | Vídeo de alto-falante ativo | Sim | Sim | Sim | Sim | Sim | Não |
@@ -900,7 +911,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 | Agendar reuniões online em Outlook na Web | Sim | Sim | Sim | Sim | Sim | Não |
 | Outlook delegação para agendamento de reuniões | Sim | Sim | Sim | Sim | Sim | Não |
 | Criar reuniões públicas com as IDs estáticas de reunião no Outlook | Não | Não | Não | Não | Não | Não |
-| **Chamadas de voz** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **Chamadas de voz** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Opções de ocupado | Não | Não | Não | Não | Não | Não |
 | Durabilidade da ramificação do Office | Não | Não | Não | Não | Não | Não |
 | Controle de admissão de chamada | Não | Não | Não | Não | Não | Não |
@@ -939,7 +950,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 | [Planos de Chamada](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Plano de Chamada Internacional, com compra de complemento necessária) | Não | Não | Não | Não | Não | Não |
 | [Créditos de Comunicação](/microsoftteams/what-are-communications-credits) | Não | Não | Não | Não | Não | Não |
 | Skype for Business Voz | Não | Não | Não | Não | Não | Não |
-| **[Segurança e arquivamento](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Segurança e arquivamento](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Criptografia de IM e mídia | Sim | Sim | Sim | Sim | Sim | Não |
 | Filtragem de arquivos e IM | Não | Não | Não | Não | Não | Não |
 | Controle de versão do cliente | Sim | Sim | Sim | Sim | Sim | Não |
@@ -948,7 +959,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 | Compartilhamento de aplicativos e arquivamento de compartilhamento de área de trabalho | Não | Não | Não | Não | Não | Não |
 | Configuração de arquivamento no nível do usuário | Não<sup>2</sup> | Não<sup>2</sup> | Não<sup>2</sup> | Não<sup>2</sup> | Não | Não |
 | Arquivos de rastreamento de logon | Sim | Sim | Sim | Sim | Sim | Não |
-| **[Interoperabilidade entre Exchange e SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Interoperabilidade entre Exchange e SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Interoperabilidade de presença com Exchange Server | Sim | Sim | Sim | Sim | Sim | Não |
 | Interoperabilidade de presença com Exchange Online | Sim | Sim | Sim | Sim | Sim | Não |
 | Interoperabilidade de Unificação de Mensagens com Exchange Server | Não | Não | Não | Não | Não | Não |
@@ -958,7 +969,7 @@ A tabela a seguir exibe os recursos do Skype for Business online que estão disp
 | Interoperabilidade de arquivamento com Exchange Online | Não | Não | Não | Não | Não | Não |
 | Pesquisa de habilidades com SharePoint Server | Não | Não | Não | Não | Não | Não |
 | Pesquisa de habilidades com SharePoint Online | Não | Não | Não | Não | Não | Não |
-| **[Gerenciamento e administração do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Business Standard** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Gerenciamento e administração do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Portal do Microsoft Office 365 | Sim | Sim | Sim | Sim | Sim | Não |
 | Centro de administração do Microsoft 365 | Sim | Sim | Sim | Sim | Sim | Não |
 | Centro de administração do Skype for Business | Sim | Sim<sup>3</sup> | Sim | Sim | Sim | Não |

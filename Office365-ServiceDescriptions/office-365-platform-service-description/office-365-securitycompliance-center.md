@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O Centro de Conformidade de Segurança foi projetado para ajudá-lo a gerenciar recursos de &amp; conformidade Office 365 sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: a04ba0cb7c9160bc929c02475edd68146cc9a1de11648b75ea5d50df9cc8b974
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 53b1c2c0f9f2af8fd287a2466d33b076ae4ba039
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701620"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363598"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -35,7 +35,7 @@ Para ver as opções de licenciamento de seus usuários para se beneficiarem de 
 |[Gerenciamento de dispositivo móvel](/microsoft-365/admin/basic-mobility-security/set-up) | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim |
 |[Prevenção contra perda de dados Exchange Online, SharePoint Online e OneDrive for Business](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | Não | Sim | Sim | Não | Sim | Sim | Não | Não |
 |[Prevenção contra perda de dados de comunicação para Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | Não | Não | Não | Não | Não | Sim | Não |  |
-|[Rótulos de sensibilidade manual](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Não | Não | Não | Sim | Sim | Sim | Sim | Não |
+|[Rótulos de sensibilidade manual](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Não | Não | Sim | Sim | Sim | Sim | Sim | Não |
 |Rótulos automáticos de sensibilidade | Não | Não |Não | Não | Não | Sim | Sim | Não |
 |[Barreiras de informações](/microsoft-365/compliance/information-barriers) | Não | Não  |Não  | Não | Não | Sim | Não  | Não  |
 |[Governança de informações](/microsoft-365/compliance/manage-information-governance)<sup>1</sup> | Sim<sup>11</sup> | Sim<sup>11</sup>  |Sim<sup>11</sup>  | Sim | Sim | Sim | Sim | Sim<sup>11</sup>  |
@@ -44,13 +44,13 @@ Para ver as opções de licenciamento de seus usuários para se beneficiarem de 
 |[Casos de Descoberta eDiscovery](/microsoft-365/compliance/get-started-core-ediscovery)  |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   |Sim   | Sim  |
 |[Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta)](/microsoft-365/compliance/get-started-core-ediscovery)  |Não   |Não   |Não  |Não   |Sim   |Sim   |Sim   |Não   |
 |[Exportação de Descobertas EDiscovery](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Não   |Não   |Não   |Não  |Sim   |Sim   |Sim  |Não   |
-|[Descoberta Avançada 5](/microsoft-365/compliance/overview-ediscovery-20)<sup></sup>  |Não   |Não   |Não   |Não  |Não   |Sim   |Sim  |Não  |
+|[Advanced eDiscovery](/microsoft-365/compliance/overview-ediscovery-20)<sup>5</sup>  |Não   |Não   |Não   |Não  |Não   |Sim   |Sim  |Não  |
 |[Arquivamento](/microsoft-365/compliance/enable-archive-mailboxes)  |Sim<sup>3</sup>  |Sim<sup>3</sup>  |Sim<sup>3</sup>  |Sim<sup>3</sup>  |Sim<sup>4</sup>   |Sim<sup>4</sup>   |Sim  |Não  |
 |[Políticas de alerta](/microsoft-365/compliance/alert-policies)  |Sim  |Sim  |Sim  |Sim  |Sim  |Sim  |Sim  |Sim  |
 |[Auditoria Básica](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sim |Sim |Sim |Sim |Sim |Sim |Sim |Sim |
 |[Auditoria Avançada](/microsoft-365/compliance/advanced-audit) |Não |Não |Não |Não |Não |Sim |Sim |Não |
 |[Conformidade de comunicação (políticas de supervisão)](/microsoft-365/compliance/supervision-policies) |Não |Não |Não |Não |Não |Sim |Sim |Não |
-|[Criptografia de Mensagens do Office 365 básico (OME)](/microsoft-365/compliance/ome)  |Não |Não |Não |Não |Sim |Sim |Sim |Não |
+|[Criptografia de Mensagens do Office 365 básico (OME)](/microsoft-365/compliance/ome)  |Não |Não |Sim |Não |Sim |Sim |Sim |Não |
 |[Criptografia de Mensagem Avançada do 365 Office](/microsoft-365/compliance/ome-advanced-message-encryption)  |Não |Não |Não |Não |Não |Sim |Sim |Não |
 |[Gerenciamento de Acesso Privilegiado](/microsoft-365/compliance/privileged-access-management-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
 |[Chave de Cliente](/microsoft-365/compliance/customer-key-overview)  |Não |Não |Não |Não |Não |Sim |Não |Não |
