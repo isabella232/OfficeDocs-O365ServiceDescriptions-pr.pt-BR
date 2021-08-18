@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Saiba mais sobre a SharePoint de recursos para clientes de nuvem do governo dos EUA.
-ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701820"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371761"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint ambientes governamentais dos EUA
 
@@ -64,6 +64,8 @@ Para obter informações sobre recursos de segurança e conformidade, consulte [
 Para obter informações sobre Azure Active Directory recursos para o governo, consulte a documentação segurança do [Azure Government + Identity.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
 Para obter informações sobre os recursos de Proteção de Informações do Azure para o governo, consulte a Descrição do serviço do [Azure Information Protection Premium Government Service .](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
+
+Para obter informações sobre SharePoint Syntex recursos, consulte o SharePoint Syntex [descrição do serviço.](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-features)
 
 ## <a name="sites-and-content"></a>Sites e conteúdo
 

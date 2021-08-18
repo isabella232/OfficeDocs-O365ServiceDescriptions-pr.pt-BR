@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: a6c4e9b5602f32d9751fab3cd40a580d9465fc472f41f317cd1a635a48eb3793
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 5b0674e4b26718d4e2d4aef6d0d4db59379d951b
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702791"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371788"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
-## <a name="overview"></a>Visão Geral
+## <a name="overview"></a>Visão geral
 
 Microsoft Project oferece os seguintes aplicativos para ajudar a atender às necessidades da sua organização para gerenciamento de projetos e trabalho:
 
@@ -111,7 +111,7 @@ Os recursos listados nesta seção interagem apenas com dados no Project para o 
 |Criar solicitações de<sup>recursos 12</sup> |  | View Only | View Only | Sim | Sim |
 |Aceitar uma proposta de<sup>reserva 12</sup> |  | View Only | View Only | Sim | Sim |
 |Criar e atualizar reservas para atender às solicitações de<sup>recursos 12</sup> |  | View Only | View Only | View Only | Sim |
-|Gerenciar habilidades/proficiências em seus recursos |  | View Only | View Only | Sim | Sim |
+|Gerenciar habilidades/proficiências em seus recursos |  | View Only | View Only | View Only | Sim |
 |Roteiros | Crie roteiros visuais e interativos em projetos de Microsoft Project Online, Microsoft Project para a Web e Azure Boards projetos. <sup>2</sup> Com Project Plano 1 você tem acesso somente leitura a roteiros. Com Project Plano 3 ou Project Plano 5, você também pode criar roteiros. | Somente exibição | Somente exibição | Sim | Sim |
 |**Relatórios**<sup>3</sup> ||||||
 |Ler relatórios de *Project para os dados da Web* | Exibir relatórios completos ou personalizados e painéis para entender os dados de projeto, programa, portfólio e recursos. | Sim | Sim | Sim | Sim |
@@ -258,7 +258,7 @@ Se o fluxo estiver isolado e não tiver nada a ver com o aplicativo Project, uma
 |Classificação e agrupação | Use a classificação e o agrupamento personalizados para obter uma visão focada de seu projeto, tarefas e recursos.|
 |**Personalização e integração**||
 |Campos personalizados | Adicione campos personalizados no nível de projeto, tarefa e recurso para rastrear dados importantes para sua organização e projetos. |
-|Forms | Crie e implante formulários personalizados para capturar dados importantes do projeto. |
+|Formulários | Crie e implante formulários personalizados para capturar dados importantes do projeto. |
 |Fórmulas | Calcular e capturar dados importantes usando fórmulas em tarefas e projetos. |
 |Modelos | Crie modelos para projetos comuns, incluindo planos de projeto, equipes e atribuições. |
 |Importação/exportação .mpp | Crie novos projetos a partir de arquivos .mpp existentes ou crie um arquivo .mpp de um projeto existente. |
@@ -316,14 +316,14 @@ Project para a Web tem algumas limitações, que são descritas na tabela a segu
 
 | Entidade/campo | Limite |
 |-------------|-------|
-|**Tarefa** ||
+|**Task** ||
 |Máx. nível de hierarquia para tarefa | 10 níveis |
 |Máx. links (sucessora + predecessora) para uma tarefa | 20 |
 |Máx. duração da tarefa folha | 1250 dias |
 |Máx. duração da tarefa de resumo | 3650 dias (10 anos) |
 |Máx. recursos que podem ser atribuídos a uma tarefa | 20 recursos |
 |Intervalo de datas com suporte para tarefa | 1/1/2000 &ndash; 31/12/2149 |
-|**Projeto** ||
+|**Project** ||
 |Máx. tarefas totais do projeto | 500 |
 |Máx. duração total do projeto | 3650 dias (10 anos) |
 |Máx. total de recursos para o projeto | 150 |

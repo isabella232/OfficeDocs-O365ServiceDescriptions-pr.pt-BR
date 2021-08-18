@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: SharePoint Syntex no Microsoft 365 usa inteligência artificial avançada (AI) e ensino de máquina para ampliar a experiência humana, automatizar o processamento de conteúdo e transformar conteúdo em conhecimento.
-ms.openlocfilehash: 79d145aa9efac09db8b6982ff8a11cf0282c1b66301b170b31cd3680c431af3b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702479"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371748"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Descrição do serviço SharePoint Syntex 
 
@@ -34,32 +34,32 @@ Para Microsoft PowerApps processamento de formulário do Construtor de AI, os lo
 A tabela a seguir mostra os planos aos que Syntex pode ser adicionado. Para obter detalhes adicionais do plano, [consulte Microsoft 365 e Office 365 opções de plano.](../office-365-platform-service-description/office-365-plan-options.md)<br><br>
 
 
-| Planos de pequenas empresas            | Enterprise planos         | Planos de educação     |
-| ------------------------------- | ------------------------ | ------------------- |
-| Microsoft 365 Business Basic    | Office 365 E1            | Office 365 A1       |
-| Microsoft 365 Business Standard | Office 365 E3            | Office 365 A3       |
-| Microsoft 365 Business Premium  | Office 365 E5            | Office 365 A5       |
-|                                 | Office 365 F3            |                     |
-|                                 | Microsoft 365 F1         |                     |
-|                                 | Microsoft 365 F3         |                     |
-|                                 | Microsoft 365 E3         |                     |
-|                                 | Microsoft 365 E5         |                     |
-|                                 | SharePoint Online Plano 1 |                     |
-|                                 | SharePoint Online Plano 2 |                     |
-|                                 | SharePoint Online Kiosk  |                     |
+| Planos de pequenas empresas            | Enterprise planos         | Planos de educação     | Planos governamentais         |
+| ------------------------------- | ------------------------ | ------------------- | ------------------------ |
+| Microsoft 365 Business Basic    | Office 365 E1            | Office 365 A1       | Office 365 Government G1 |
+| Microsoft 365 Business Standard | Office 365 E3            | Office 365 A3       | Office 365 Government G3 |
+| Microsoft 365 Business Premium  | Office 365 E5            | Office 365 A5       | Office 365 Government G5 |
+|                                 | Office 365 F3            |                     | Office 365 Government F3 |
+|                                 | Microsoft 365 F1         |                     |                          |
+|                                 | Microsoft 365 F3         |                     |                          |
+|                                 | Microsoft 365 E3         |                     |                          |
+|                                 | Microsoft 365 E5         |                     |                          |
+|                                 | SharePoint Online Plano 1 |                     |                          |
+|                                 | SharePoint Online Plano 2 |                     |                          |
+|                                 | SharePoint Online Kiosk  |                     |                          |
 
 ## <a name="feature-availability"></a>Disponibilidade de recursos
 
 A tabela a seguir lista os principais recursos Syntex disponíveis nos planos. Algumas advertências se aplicam. Esta tabela pode ser alterada sem aviso prévio. Para a lista mais atualizada e completa de recursos, consulte a página de SharePoint Syntex [e preços.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
 
-| Recurso | Planos de pequenas empresas | Enterprise planos | Planos de educação |
-|--|--|--|--|
-| [Central de conteúdo syntex](sharepoint-syntex-features.md#syntex-content-center) | Sim | Sim | Sim |
-| [Reconhecimento de objeto](sharepoint-syntex-features.md#object-recognition) | Sim | Sim | Sim |
-| [Compreensão de documentos](sharepoint-syntex-features.md#document-understanding) | Sim | Sim | Sim |
-| [Processamento de formulários](sharepoint-syntex-features.md#form-processing) | Sim | Sim | Sim |
-| [Conectores Graph de conteúdo da Microsoft](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | Sim | Sim | Sim |
-| [Serviços avançados de taxonomia](sharepoint-syntex-features.md#advanced-taxonomy-services) | Sim | Sim | Sim |
+| Recurso | Planos de pequenas empresas | Enterprise planos | Planos de educação | Planos governamentais |
+|--|--|--|--|--|
+| [Central de conteúdo syntex](sharepoint-syntex-features.md#syntex-content-center) | Sim | Sim | Sim | Sim |
+| [Reconhecimento de objeto](sharepoint-syntex-features.md#object-recognition) | Sim | Sim | Sim | Sim |
+| [Compreensão de documentos](sharepoint-syntex-features.md#document-understanding) | Sim | Sim | Sim | Sim |
+| [Processamento de formulário](sharepoint-syntex-features.md#form-processing) | Sim | Sim | Sim | Sim |
+| [Conectores Graph de conteúdo da Microsoft](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | Sim | Sim | Sim | Sim |
+| [Serviços avançados de taxonomia](sharepoint-syntex-features.md#advanced-taxonomy-services) | Sim | Sim | Sim | Sim |
 
 ## <a name="learn-more"></a>Saiba mais
 

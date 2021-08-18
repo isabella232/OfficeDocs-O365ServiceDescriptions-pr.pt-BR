@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece diretrizes de licenciamento Microsoft 365 conformidade para ajudar a evitar possíveis interrupções no serviço devido ao acesso não licenciado.
-ms.openlocfilehash: e6182db877f5d1202a30d5425deec89ad6cbdb0f563f43990a51b47ec9bba033
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9126cfa8d055fe9a800a6c498e79ebf540b378d2
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663334"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371758"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 de licenciamento para conformidade com &amp; a segurança
 
@@ -28,7 +28,7 @@ Para os fins deste artigo, um serviço de nível de locatário é um serviço on
 
 Para ver as opções de licenciamento de seus usuários para se beneficiarem de Microsoft 365 de conformidade, baixe [a tabela Microsoft 365 Comparison.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
+## <a name="azure-active-directory-identity-protection"></a>Proteção de Identidade do Azure Active Directory
 
 Azure Active Directory A Proteção de Identidade é um recurso do plano Azure Active Directory Premium P2 que permite detectar possíveis vulnerabilidades que afetam as identidades da sua organização, configurar respostas automatizadas para detectar ações suspeitas relacionadas às identidades da sua organização e investigar incidentes suspeitos e tomar as medidas apropriadas para resolvê-los.
 
@@ -407,9 +407,10 @@ Os recursos de prevenção contra perda de dados [(DLP)](/microsoft-365/complian
 Você precisará de uma das seguintes licenças para obter suporte para a proteção DLP em Teams Chat:
 
 - Microsoft 365 E5/A5/G5
-- Microsoft 365 E5/A5/G5 Conformidade
+- Microsoft 365 E5/A5/G5/F5 Compliance
+- Microsoft 365 Conformidade & segurança F5
 - Microsoft 365 E5/A5/G5 Proteção e Governança de Informações
-- Office 365 E5/A5/G5 
+- Office 365 E5/A5/G5
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -547,7 +548,7 @@ Com a DLP de comunicação para Teams, as organizações podem bloquear chats e 
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
-Os usuários licenciados do Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 Information Protection and Governance podem se beneficiar da DLP de comunicação para Teams.
+Os usuários licenciados do Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance, Microsoft 365 F5 Security + Compliance e Microsoft 365 E5/A5/G5 Information Protection and Governance podem se beneficiar da DLP de comunicação para Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
@@ -697,7 +698,7 @@ Você também pode habilitar um período de retenção de 10 anos com uma SKU de
 
 ### <a name="which-users-benefit-from-the-service"></a>Quais usuários se beneficiam do serviço?
 
-Os usuários licenciados do Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, conformidade Microsoft 365 E5/A5/G5 e Microsoft 365 E5/A5/G5 e Auditoria podem se beneficiar da Auditoria Avançada.
+Os usuários licenciados do Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance, Microsoft 365 F5 Security + Compliance e Microsoft 365 E5/A5/G5 e Auditoria podem se beneficiar da Auditoria Avançada.
 
 Os usuários licenciados com Auditoria Avançada e o complemento retenção de log de auditoria de 10 anos podem se beneficiar da Retenção de Log de Auditoria de 10 anos.
 

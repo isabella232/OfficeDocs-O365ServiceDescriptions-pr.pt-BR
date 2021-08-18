@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 para o Governo norte-americano (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos que são específicos Office 365 Government ambientes dos EUA.
-ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701886"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371778"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -142,16 +142,17 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 
 |Serviço do Office 365|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
-|Office na Web|Sim|Sim|Sim|Sim|
-|Microsoft 365 Apps para empresas|Não|Sim|Sim|Não|
 |Exchange Online|Sim|Sim|Sim|Sim|
 |Proteção do Exchange Online|Sim|Sim|Sim|Sim|
-|SharePoint Online|Sim|Sim|Sim|Sim|
+|Microsoft 365 Apps para Grandes Empresas|Não|Sim|Sim|Não|
+|Office na Web|Sim|Sim|Sim|Sim|
 |OneDrive for Business|Sim|Sim|Sim|Sim|
-|Skype for Business (Instant Messaging &amp; Presence)|Sim<sup>1</sup>|Sim|Sim|Sim<sup>1</sup>|
-|Voz - Sistema de Telefonia, Audioconferência|Não<sup>2</sup>|Não<sup>2</sup>|Sim<sup>5</sup>|Não|
 |Power BI Pro|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Não<sup>2</sup>|
 |Project Online|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|Não<sup>2</sup>|
+|SharePoint Online|Sim|Sim|Sim|Sim|
+|SharePoint Syntex|Sim|Sim|Sim|Sim|
+|Skype for Business (Instant Messaging &amp; Presence)|Sim<sup>1</sup>|Sim|Sim|Sim<sup>1</sup>|
+|Voz - Sistema de Telefonia, Audioconferência|Não<sup>2</sup>|Não<sup>2</sup>|Sim<sup>5</sup>|Não|
 |Visio para a Web|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|Não<sup>6</sup>|
 |Yammer Enterprise|Não<sup>4</sup>|Não<sup>4</sup>|Não<sup>4</sup>|Não<sup>4</sup>|
 
@@ -255,7 +256,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**Confiança**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |**[Privacidade, segurança e transparência](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Advanced Data Governance|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
-|Microsoft Cloud App Security|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sim<sup>19</sup>|No<sup>12, 19</sup>|
+|Segurança no Aplicativo na Nuvem|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sim<sup>19</sup>|No<sup>12, 19</sup>|
 |Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sim<sup>18</sup>|No<sup>12, 18</sup>|
 |Sistema de Proteção de Dados do cliente|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Descoberta Eletrônica Avançada|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
