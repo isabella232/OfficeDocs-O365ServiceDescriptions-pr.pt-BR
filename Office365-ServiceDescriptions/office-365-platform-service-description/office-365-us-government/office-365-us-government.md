@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 para o Governo norte-americano (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos que são específicos Office 365 Government ambientes dos EUA.
-ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: f2bdc4ed9d73cda00b4dbf9ecaf79434bc928c4c
+ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371778"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58402755"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -192,9 +192,9 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Gerenciamento de contas de usuário](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Identidade de nuvem|Sim|Sim|Sim|Sim|
 |Identidade federada (logon único)|Sim|Sim|Sim|Sim|
-|Autenticação multifator|Sim|Sim|Sim|Sim|
+|Multi-factor Authentication|Sim|Sim|Sim|Sim|
 |Telefone fator|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim|Sim<sup>9</sup>|
-|Configuração de área de trabalho do Office 365|Sim|Sim|Sim|Sim|
+|Configuração de área de trabalho do Office 365|Não|Sim|Sim|Não|
 |Gerenciar usuários com o Office 365|Sim|Sim|Sim|Sim|
 |Carregamento em massa usando .csv arquivos|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim|Sim<sup>9</sup>|
 |Ferramenta de Sincronização de Diretórios|Sim|Sim|Sim|Sim|
@@ -258,7 +258,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Advanced Data Governance|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Segurança no Aplicativo na Nuvem|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sim<sup>19</sup>|No<sup>12, 19</sup>|
 |Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sim<sup>18</sup>|No<sup>12, 18</sup>|
-|Sistema de Proteção de Dados do cliente|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
+|Sistema de Proteção de Dados do Cliente|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Descoberta Eletrônica Avançada|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Pontuação<sup>Segura 14</sup>|Sim<sup>9, 15</sup>|Sim<sup>9</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|
 |Office Criptografia de Mensagens|Não|Sim|Sim|Não|
