@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 para o Governo norte-americano (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos que são específicos Office 365 Government ambientes dos EUA.
-ms.openlocfilehash: f2bdc4ed9d73cda00b4dbf9ecaf79434bc928c4c
-ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
+ms.openlocfilehash: 5c98a1518149b69b625f2936ba690f3a251d4966
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58402755"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702293"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -258,7 +258,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |Advanced Data Governance|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Segurança no Aplicativo na Nuvem|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sim<sup>19</sup>|No<sup>12, 19</sup>|
 |Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sim<sup>18</sup>|No<sup>12, 18</sup>|
-|Sistema de Proteção de Dados do Cliente|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
+|Sistema de Proteção de Dados do cliente|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Descoberta Eletrônica Avançada|No<sup>12</sup>|No<sup>12</sup>|Sim|No<sup>12</sup>|
 |Pontuação<sup>Segura 14</sup>|Sim<sup>9, 15</sup>|Sim<sup>9</sup>|Sim<sup>9, 15</sup>|Sim<sup>9, 15</sup>|
 |Office Criptografia de Mensagens|Não|Sim|Sim|Não|
@@ -392,11 +392,11 @@ Os seguintes Office aplicativos estão disponíveis nas nuvens do governo; no en
 |Histórico de versão|Sim|Não|Não|Não|
 |[**O Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:||**GCC**|**GCC Alta**|**DOD**|
 |Notificação de email||No<sup>1</sup>|No<sup>1</sup>|Não|
-|Inserir uma imagem||No<sup>1</sup>|No<sup>1</sup>|Não|
+|Inserir uma imagem||Sim<sup>4</sup>|Sim<sup>4</sup>|Sim<sup>4</sup>|
 |Inserir um vídeo||No<sup>1</sup>|No<sup>1</sup>|Não|
 |Matemática||No<sup>1</sup>|No<sup>1</sup>|Não|
 |Office integração||No<sup>1</sup>|No<sup>1</sup>|Não|
-|Formulários de grupo mais recentes||Não<sup>4</sup>|Sim|Sim|
+|Formulários de grupo mais recentes||Sim|Sim|Sim|
 |Compartilhamento externo<sup>3</sup>||Sim|Não|Não|
 |Formulários Pro||Não|Não|Não|
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponível nas nuvens do governo, exceto os seguintes recursos, que não **estão** disponíveis no momento:||**GCC**|**GCC Alta**|**DOD**|
@@ -458,5 +458,5 @@ Para disponibilidade de recursos para Microsoft Teams em GCC/GCC High/DoD, visit
 > <sup>1</sup> Disponibilidade futura.
 <br/><sup>2</sup> Disponibilidade no Surface Hub local (não está assinada).
 <br/><sup>3</sup> O compartilhamento externo está disponível para o GCC ambiente. Saiba mais sobre como desativar ou ativar [o Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) para sua organização. O compartilhamento externo está desabilitado GCC ambientes High e DOD; os usuários em sua organização podem fazer o seguinte: concluir um formulário e enviar [respostas,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)duplicar e compartilhar um formulário como um modelo, [coautor](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou colaborar em um formulário e acessar resultados [do formulário](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
-<br/><sup>4</sup> O recurso de formulários de grupo recente está desabilitado para o GCC ambiente. Os usuários, no entanto, ainda podem acessar formulários de grupo selecionando um grupo específico na guia Formulários de grupo.
+<br/><sup>4</sup> Inserir uma imagem com o recurso Bing Pesquisa de Imagem está desabilitado para o ambiente GCC/GCCH/DOD.
 <br/><sup>5</sup> Word, Excel PowerPoint Windows cliente, não Web, MacOS, iOS ou Android.

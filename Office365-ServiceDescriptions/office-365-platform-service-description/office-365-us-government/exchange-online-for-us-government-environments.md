@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem governamental dos EUA e a nuvem comercial, conforme listado na descrição Exchange Online serviço.
-ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363607"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702303"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online ambientes governamentais dos EUA
 
@@ -183,11 +183,10 @@ Se você planeja usar o Criptografia de Mensagens do Office 365 em um ambiente G
 
 <!-- end list -->
 
-- Ao enviar emails criptografados do GCC High ou DoD para destinatários fora desse ambiente (incluindo GCC e Comercial):
-    
-    - Os envios dentro GCC High/DoD podem enviar emails criptografados fora do limite GCC High/DoD.
-    
-    - Todos os destinatários fora do GCC High/DoD, incluindo usuários comerciais de Office 365, usuários Outlook.com e outros usuários de outros provedores de email, recebem um email de wrapper. Esse email de wrapper redireciona o destinatário para o Portal OME onde o destinatário pode ler e responder à mensagem.
+- Ao enviar emails criptografados do GCC High para destinatários fora desse ambiente (incluindo DoD, GCC e Comercial):
+
+    - Os senders dentro GCC High podem enviar emails criptografados fora do limite GCC Alto.
+    - Todos os destinatários fora do GCC High, incluindo usuários do DoD, Office 365 comerciais, usuários Outlook.com e outros usuários de outros provedores de email, recebem um email de wrapper. Esse email de wrapper redireciona o destinatário para o Portal OME onde o destinatário pode ler e responder mensagens.
 
 Para obter mais informações e as atualizações mais recentes, consulte [Comparar versões do OME](/microsoft-365/compliance/ome-version-comparison).
 

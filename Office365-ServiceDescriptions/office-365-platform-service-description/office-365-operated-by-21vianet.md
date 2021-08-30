@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços de nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 1bac942dcf8923f07197a3617e057c7fc409081c
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: faa8416e26c51f2e9bab05deafb98f0620bf5c0b
+ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363628"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505697"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -310,7 +310,7 @@ A tabela a seguir fornece links para comparações de recursos Office para a Web
 > - O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente.
 > - Microsoft Office Os clientes locais do Web Apps Server 2013 obterão uma licença de edição do Office para a Web caso tenham comprado uma licença de pacote de área de trabalho do Office (como Office Professional Plus, Office Standard ou uma licença Office 365 ProPlus).
 
-| Aplicativo | Office para a Web operado pela 21Vianet | Link para a comparação detalhada de recursos |
+| Application | Office para a Web operado pela 21Vianet | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
 |Word|Word para a Web operado pela 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web operado pela 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -473,7 +473,7 @@ Para saber mais sobre os limites do Exchange Online, confira o seguinte:
 > - Os limites aplicados a uma organização Microsoft 365 podem ser diferentes dependendo de quanto tempo a organização está inscrita no serviço. Quando um limite é alterado nos datacenters da Microsoft, pode demorar algum tempo para que a alteração seja aplicada a todos os clientes existentes.
 > - Não é possível modificar a maioria desses limites, mas você e seus usuários devem conhecê-los.
 > - Esses limites se aplicam a destinatários internos e externos.
-> - Por padrão, a Proteção do Exchange Online (EOP) protege as caixas de correio do Exchange Online. Para os limites que se aplicam aos recursos EOP no Exchange Online, confira [Limites da Proteção do Exchange Online](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - Por padrão, a Proteção do Exchange Online (EOP) protege as caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no Exchange Online, consulte [Limites de Proteção do Exchange Online](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Recursos da Proteção do Exchange Online
 
@@ -1214,4 +1214,4 @@ A tabela a seguir exibe os recursos do Project Online que estão disponíveis en
 
 Faça a leitura deste Código QR para acompanhar as discussões no WeChat e obter as atualizações mais recentes do Office 365 operado pela 21Vianet.
 
-![Código QR para WeChat](../media/8f6064e6-ccf3-4050-97e3-619058b3c806.jpg)
+![Código QR para WeChat.](../media/8f6064e6-ccf3-4050-97e3-619058b3c806.jpg)
