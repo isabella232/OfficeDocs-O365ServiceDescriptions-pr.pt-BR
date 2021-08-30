@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 5b0674e4b26718d4e2d4aef6d0d4db59379d951b
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 6167bf8ebb384bc0e8968004e55d188fb4a194af
+ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371788"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505695"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
-## <a name="overview"></a>Visão geral
+## <a name="overview"></a>Visão Geral
 
 Microsoft Project oferece os seguintes aplicativos para ajudar a atender às necessidades da sua organização para gerenciamento de projetos e trabalho:
 
@@ -70,7 +70,7 @@ Embora Project para a Web e Project Online sejam aplicativos separados, você po
 
 Este diagrama mostra como os aplicativos podem trabalhar juntos lado a lado.
 
-![Diagrama mostrando Project na Web e Project Online juntos](../media/project-online-applications.png)
+![Diagrama mostrando Project na Web e Project Online juntos.](../media/project-online-applications.png)
 
 Em frente, a Microsoft se concentrará Project para as inovações da Web. No entanto, você pode continuar usando Project Online com confiança, pois ele continuará a receber melhorias importantes de desempenho e segurança.
 
@@ -161,7 +161,7 @@ Os recursos listados nesta seção interagem apenas com dados no Project Online 
 |Aprovações de quadro de horários | Os membros da equipe podem enviar quadro de horários para aprovação. Os gerentes de recursos e supervisores podem revisar, aprovar e recusar os quadro de horários enviados. | Sim | Sim |
 |Configuração em tempo não de trabalho | Adicione férias, feriados, licença médica e qualquer tempo ocioso no cronograma do seu projeto. | Não | Sim |
 |**Colaboração** ||||
-|Anexos | Anexar documentos, imagens e outros arquivos no nível de equipe, projeto ou tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
+|Attachments | Anexar documentos, imagens e outros arquivos no nível de equipe, projeto ou tarefa. Gerencie esses anexos em uma biblioteca central no nível da equipe ou do projeto. | Sim | Sim |
 |Membros externos da equipe |Colabore com pessoas de fora da sua organização concedendo a elas acesso para exibir e interagir com seus projetos, tarefas e documentos. <sup>6</sup> | Sim | Sim |
 |Sites de projeto | Crie e personalize um hub para colaboração e documentos para um projeto. | Sim | Sim |
 |Microsoft Teams integração | Colabore em projetos Microsoft Teams. <sup>1</sup> | Sim | Sim |
