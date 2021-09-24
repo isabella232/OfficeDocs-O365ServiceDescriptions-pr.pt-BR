@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obter informações sobre recursos e requisitos para o Exchange Online Protection. Incluído está uma lista de planos que fornecem Proteção do Exchange Online, bem como uma comparação de recursos entre esses planos.
-ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a82468c95f8d674bb2e4b27abc668074f222b419
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664224"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670707"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descrição do serviço do Exchange Online Protection
 
@@ -96,8 +96,8 @@ A tabela a seguir lista os principais recursos Proteção do Exchange Online dis
 |Filtragem aprimorada para conectores (ignorar listagem)|Sim|Sim|Sim|
 |**Monitoramento**||||
 |Message trace|Sim|Sim|Sim|
-|Relatórios de email e segurança no centro de administração do Microsoft 365|Sim<sup>7</sup>|Sim<sup>7,8</sup>|Sim<sup>8</sup>|
-|Relatórios de segurança no centro de segurança do Microsoft 365|Sim<sup>7</sup>|Sim<sup>7,8</sup>|Sim<sup>8</sup>|
+|Relatórios de email e segurança no Centro de administração do Microsoft 365|Sim<sup>7</sup>|Sim<sup>7,8</sup>|Sim<sup>8</sup>|
+|Relatórios de segurança no centro Microsoft 365 segurança|Sim<sup>7</sup>|Sim<sup>7,8</sup>|Sim<sup>8</sup>|
 |Relatórios de email no EAC|Sim<sup>7</sup>|Sim<sup>7,8</sup>|Sim<sup>8</sup>|
 |Log de auditoria de<sup>administrador 5</sup>|Sim|Sim|Sim|
 |**Usuários**||||
@@ -111,7 +111,7 @@ A tabela a seguir lista os principais recursos Proteção do Exchange Online dis
 |Centro de administração do Microsoft 365|Sim|Sim|Sim|
 |Centro de administração do Exchange|Sim|Sim|Sim|
 |Centro de segurança do Microsoft 365|Sim|Sim|Sim|
-|PowerShell de Proteção autônoma do Exchange Online|Sim|Não|Não|
+|Standalone Proteção do Exchange Online PowerShell|Sim|Não|Não|
 |PowerShell do Exchange Online|Não|Sim|Sim|
 
 <sup>1</sup> Você cria, remove e edita usuários de email e contatos de email no EAC. <br/>
@@ -143,7 +143,7 @@ Para os termos e condições de licenciamento de produtos e serviços adquiridos
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as mudanças futuras, incluindo recursos novos e alterados, manutenções planejadas ou outros anúncios importantes, visite a Central de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
+Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, [Centro de Mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 

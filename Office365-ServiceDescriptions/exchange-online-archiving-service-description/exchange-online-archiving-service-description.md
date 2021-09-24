@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-archiving-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Leia este artigo para saber mais sobre Microsoft Exchange Online Arquivamento.
-ms.openlocfilehash: 5fe3d747bace615b4ab6e9741f70531e7ab26ea8
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 5030c265b309641a0d69e79c1aa8942c45360550
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363568"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670682"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descrição do serviço de arquivamento do Exchange Online
 
-Microsoft Exchange Online O arquivamento é uma solução de arquivamento de classe corporativa baseada em nuvem para organizações que implantaram o Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e posterior) ou assinar determinados planos Exchange Online ou Microsoft365. Microsoft 365 O Arquivamento do Exchange Online auxilia essas organizações com o seus competitivos arquivamento, conformidade, regulamentação, e eDiscovery ao mesmo tempo em que simplifica a infraestrutura no local e, desse modo, reduz custos e facilita os encargos de TI.
+Microsoft Exchange Online O arquivamento é uma Microsoft 365 de arquivamento de classe corporativa baseada em nuvem para organizações que implantaram o Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 e posterior) ou assinar determinados planos Exchange Online ou Microsoft365. O Arquivamento do Exchange Online auxilia essas organizações com o seus competitivos arquivamento, conformidade, regulamentação, e eDiscovery ao mesmo tempo em que simplifica a infraestrutura no local e, desse modo, reduz custos e facilita os encargos de TI.
   
 Como um serviço online da Microsoft, o Arquivamento do Exchange Online foi projetado para ajudar a atender à necessidade de segurança robusta, confiabilidade e produtividade do usuário. Para obter mais informações sobre Microsoft 365, incluindo recursos comuns a todos os serviços online da Microsoft, consulte Microsoft 365 descrição do serviço [Office 365 plataforma.](../office-365-platform-service-description/office-365-platform-service-description.md)
   
@@ -44,11 +44,11 @@ Arquivamento do Exchange Online está disponível pelos planos a seguir.<br><br>
 |:-----|:-----|
 |**Arquivamento do Exchange Online para Exchange Server** <br/> |Arquivo morto baseado em nuvem para usuários com caixas de correio primárias no Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 ou Exchange 2010 (SP2 ou posterior). <br/> Se quiser adicionar um arquivo baseado na nuvem a uma caixa de correio principal localizada em um servidor do Exchange no local, você precisa configurar uma implantação híbrida. Para obter mais informações sobre implantações híbridas, [consulte Exchange Server implantações híbridas.](/exchange/exchange-hybrid) <br/> |
 |**Arquivamento do Exchange Online para Exchange Server (via Enterprise CAL Suite)** <br/> |Arquivo morto baseado em nuvem para usuários com caixas de correio primárias no Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 ou Exchange 2010 (SP2 ou posterior). Para obter detalhes, consulte [Client Access Licenses and Management Licenses](https://www.microsoft.com/licensing/product-licensing/client-access-license). <br/> |
-|**Arquivamento do Exchange Online para Exchange Online** <br/> | Arquivamento baseado em nuvem e espera in-locar como complemento para os seguintes planos<sup>1,2,3</sup>:<br/> Exchange Online Plano 1 <br/> Quiosque do Exchange Online <br/> Microsoft 365 Business Basic <br/> Microsoft 365 Business Standard <br/> Microsoft 365 Business Premium <br/> Office 365 E1 <br/> Office 365 A1 <br/> Office 365 G1 <br/> Office 365 F3 <br/> Microsoft 365 F3<br/> <b>Observação:</b> Os planos a seguir já incluem arquivamento e não exigem Arquivamento do Exchange Online como complemento:<br/>Office 365 A3 <br/> Office 365 A5 <br/> Office 365 E3 <br/> Office 365 E5 <br/> Plano 2 do Exchange Online <br/>Microsoft 365 E3 <br/> Microsoft 365 E5 <br/>Para obter detalhes sobre os recursos de arquivamento de Exchange Online caixas de correio, consulte [Archive features in Arquivamento do Exchange Online](./archive-features.md).|
+|**Arquivamento do Exchange Online para Exchange Online** <br/> | Arquivamento baseado em nuvem e espera in-locar como complemento para os seguintes planos<sup>1,2,3</sup>:<br/> Exchange Online Plano 1 <br/> Quiosque do Exchange Online <br/> Microsoft 365 Business Basic <br/> Microsoft 365 Business Standard <br/> Microsoft 365 Business Premium <br/> Office 365 E1 <br/> Office 365 A1 <br/> Office 365 G1 <br/> Office 365 F3 <br/> Microsoft 365 F3<br/> <b>Observação:</b> Os planos a seguir já incluem arquivamento e não exigem Arquivamento do Exchange Online como complemento:<br/>Office 365 A3 <br/> Office 365 A5 <br/> Office 365 E3 <br/> Office 365 E5 <br/> Plano 2 do Exchange Online <br/>Microsoft 365 E3 <br/> Microsoft 365 E5 <br/> Microsoft 365 Conformidade com F5 <br/> Para obter detalhes sobre os recursos de arquivamento de Exchange Online caixas de correio, consulte [Archive features in Arquivamento do Exchange Online](./archive-features.md).|
 
 <sup>1</sup> Uma implantação híbrida não é necessária para as organizações somente na nuvem, onde nenhuma caixa de correio está localizada em um servidor Exchange local. No entanto, se houver caixas de correio locais, será preciso uma implantação híbrida.
 <br/>
-<sup>2</sup> Exchange Online Plano 1, Office 365 E1/A1/G1 e Microsoft 365 Business Basic/Standard/Premium têm um limite de tamanho na caixa de correio e no arquivo morto. Para obter mais informações, [consulte Exchange Online limites](../exchange-online-service-description/exchange-online-limits.md). O complemento Arquivamento do Exchange Online para o Exchange Online adiciona arquivo morto baseado em nuvem ilimitado e [Retenção local e Retenção de litígio](compliance-and-security-features.md#in-place-hold-and-litigation-hold).
+<sup>2</sup> Exchange Online Plano 1, Office 365 E1/A1/G1 e Microsoft 365 Business Basic/Standard/Premium têm um limite de tamanho na caixa de correio e no arquivo morto. Para obter mais informações, confira [Limites do Exchange Online](../exchange-online-service-description/exchange-online-limits.md). O complemento Arquivamento do Exchange Online para o Exchange Online adiciona arquivo morto baseado em nuvem ilimitado e [Retenção local e Retenção de litígio](compliance-and-security-features.md#in-place-hold-and-litigation-hold).
 <br/>
 <sup>3</sup> Inclui planos GCC, GCC-High e DoD para o Governo dos EUA.
 

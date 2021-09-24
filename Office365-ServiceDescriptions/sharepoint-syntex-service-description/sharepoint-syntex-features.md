@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Saiba mais sobre os principais SharePoint Syntex disponíveis em planos Microsoft 365, Office 365 e SharePoint Online qualificados.
-ms.openlocfilehash: 7febd3615d61fd2aa219ea8a5075f0d591fe41df5a179a8ca2f2f0d74007f5e7
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 05e208a2e1e37a2b4be6d63bdf32d46085e53fef
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702520"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669620"
 ---
 # <a name="sharepoint-syntex-features"></a>Recursos do SharePoint Syntex 
 
@@ -39,7 +39,7 @@ Os modelos de compreensão de documentos são baseados em modelos de Compreensã
 
 Para saber mais sobre a compreensão do documento, consulte [Visão geral do entendimento do documento.](/microsoft-365/contentunderstanding/document-understanding-overview)
 
-## <a name="form-processing"></a>Processamento de formulários
+## <a name="form-processing"></a>Processamento de formulário
 
 O Syntex inclui um poderoso mecanismo de processamento de formulário, com base no Construtor de AI, que permite que você reconheça e extraia automaticamente valores comuns de documentos semiestruturados ou estruturados, como datas, figuras, nomes ou endereços. Esses modelos são construídos sem código e exigem apenas alguns documentos para resultados confiáveis.
 

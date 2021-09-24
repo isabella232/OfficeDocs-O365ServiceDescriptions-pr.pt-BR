@@ -10,18 +10,18 @@ f1_keywords:
 keywords:
 - office 365 for business,Office 365
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização.
-ms.openlocfilehash: d06ab7f8f172c1f72ad195b9e2e5951f19dcaff8c6fa75eb476e748d97212c18
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bd2b27b046a14dd9d4ba4272d699cc5b5d8d4b73
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701660"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670629"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Opções de planos para Microsoft 365 e Office 365
 
@@ -47,7 +47,7 @@ Cada Microsoft 365 ou Office 365 inclui vários serviços individuais, como Exch
 > [!IMPORTANT]
 >  Embora um serviço possa estar disponível em Microsoft 365 e Office 365 planos, os recursos disponíveis em cada plano podem ser diferentes. Para ver os detalhes dos recursos que estão disponíveis para cada plano, consulte a descrição de serviço individual ou entre em contato com seu Revendedor ou Representante de vendas da Microsoft para obter mais informações. <br/>  Vários dos planos Microsoft 365 e Office 365 têm complementos que você pode comprar para sua assinatura. Um complemento oferece funcionalidade adicional à assinatura. Saiba mais em [Comprar ou editar um complemento do Office 365 para empresas](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
   
-| Serviço | Microsoft 365 Apps | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
+| Serviço | Aplicativos do Microsoft 365 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 plataforma  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Exchange Online  <br/> |Não  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>8</sup> <br/> |Não<sup>16</sup> <br/> |
@@ -56,7 +56,7 @@ Cada Microsoft 365 ou Office 365 inclui vários serviços individuais, como Exch
 |Skype for Business Online <sup>14</sup> <br/> |Não  <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>9</sup> <br/> |Sim<sup>10</sup> <br/> |Sim<sup>12</sup> <br/> |Sim<sup>13</sup> <br/> |Sim<sup>13</sup> <br/> |
 |Office na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |No<sup>18</sup> <br/> |
 |Aplicativos do Office  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
-|Project  <br/> |Não  <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não  <br/> |
+|Projeto  <br/> |Não  <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não <br/> |Não  <br/> |
 |Power BI  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
 |Yammer Enterprise  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção de Informações do Azure<sup>2</sup> <br/> |Não  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |Sim  <br/> |No<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |No<sup>1</sup> <br/> |Não  <br/> |

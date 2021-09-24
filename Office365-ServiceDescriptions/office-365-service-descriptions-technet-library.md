@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 e Office 365 são serviços baseados em nuvem projetados para ajudar a atender às necessidades da sua organização para segurança robusta, confiabilidade e produtividade do usuário.
-ms.openlocfilehash: 20470f92e036fe5f57e93ba7fd64bcf9d0fc0c9ff32122a88a2fe8fcc81decad
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 95594a456d6c0c5ef10c7133ffb4b2298866ec76
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702070"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669986"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descrições de serviços do Microsoft 365 e do Office 365 
 
