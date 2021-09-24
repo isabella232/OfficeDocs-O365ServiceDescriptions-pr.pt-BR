@@ -5,15 +5,15 @@ author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 description: Saiba mais sobre Microsoft Exchange Online disponibilidade de recursos e serviços em Microsoft 365 e Office 365 planos.
-ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: abd6ab1b49b5f61a5b4994ea55314a551db2f3ba
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664004"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672091"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 

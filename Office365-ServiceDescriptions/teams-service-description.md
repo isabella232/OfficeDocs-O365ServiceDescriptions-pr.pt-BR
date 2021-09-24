@@ -6,14 +6,14 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Saiba mais sobre Microsoft Teams disponibilidade de recursos e serviços em Microsoft 365 e Office 365 planos.
-ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: f4c410e68150187d0f9a28234260ac4be3c29852
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702900"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673184"
 ---
 # <a name="microsoft-teams-service-description"></a>Descrição do serviço Microsoft Teams
 
@@ -78,7 +78,7 @@ Para os termos e condições de licenciamento de produtos e serviços adquiridos
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as mudanças futuras, incluindo recursos novos e alterados, manutenções planejadas ou outros anúncios importantes, visite a Central de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
+Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, [Centro de Mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 

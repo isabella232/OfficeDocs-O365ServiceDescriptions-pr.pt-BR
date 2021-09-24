@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-help-and-training
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fornece os seguintes recursos de ajuda e treinamento.
-ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e1d88e1bbebd899ffffe7ccee8824107346d1336
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663004"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671394"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -43,7 +43,7 @@ O treinamento está disponível por meio de vídeos, seminários na Web e aulas 
     
 - [Qualificações de suporte do Administrador do Office 365: Principais conceitos](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
-## <a name="community"></a>Comunidade
+## <a name="community"></a>Community
 
 > [!NOTE]
 > Os recursos da comunidade se aplicam às versões do Office 365 em todo o mundo. Se você estiver usando o Office 365 operado pela 21Vianet, poderá usar o WeChat. Confira [Obter suporte técnico, de cobrança e de assinatura do Office 365 operado pela 21Vianet](/microsoft-365/admin/contact-support-for-business-products) e role até a parte inferior da página para obter um código QR. 

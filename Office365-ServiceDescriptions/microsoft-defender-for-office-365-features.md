@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Saiba mais sobre os recursos disponíveis no Microsoft Defender para Office 365.
-ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 591236d6028d57025d2dd7a9cfc5ef80d3617176
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663044"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671451"
 ---
 # <a name="microsoft-defender-for-office-365-features-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -63,7 +63,7 @@ Os links seguros estão disponíveis para URLs nos seguintes aplicativos:
 
 O [Cofre de documentos](/microsoft-365/security/office-365-security/safe-docs) usa o Microsoft Defender para [Ponto](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) de Extremidade para examinar documentos e arquivos abertos [no Protected View](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
 
-O que você precisa saber antes de começar?
+Do que você precisa saber para começar?
 
 - Cofre Os documentos agora estão geralmente disponíveis para usuários com Office versão 2004 (12730.x) ou superior! Esse recurso está desligado por padrão e precisará ser habilitado pelo Administrador de Segurança.
 

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 é um serviço de assinatura que fornece a versão mais recente dos aplicativos de área de trabalho Office que você já conhece, como Word, Excel e PowerPoint.
-ms.openlocfilehash: 83ccebfd18bc95694f641d02b4eb56c4bcf34e3859d408ef9550881f2b2fe873
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6947786fcc848195fbb90afb120966c73cb4dd5f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702020"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672772"
 ---
 # <a name="office-applications-service-description"></a>Descrição de serviços dos aplicativos do Office
 
@@ -37,7 +37,7 @@ Use a tabela a seguir para comparar a disponibilidade de recursos entre planos e
   
 Vários dos planos Microsoft 365 para empresas têm complementos que você pode comprar para sua assinatura. Um complemento oferece funcionalidade adicional à assinatura. Para obter mais informações, [consulte Comprar ou editar um complemento](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).<br><br>
 
-| Aplicativo/recurso | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps para empresas | Aplicativos do Microsoft 365 para empresas | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Aplicativo/recurso | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps para empresas | Microsoft 365 Apps para Pequenos e Médios negócios | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Aplicativos do Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |Não  <br/> |

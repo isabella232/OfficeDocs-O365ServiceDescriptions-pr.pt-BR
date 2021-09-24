@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral do Microsoft 365 Government e descreve as opções de compra.
-ms.openlocfilehash: 228ad94d00c9e9fea33202e1c746d45bc43560c7
-ms.sourcegitcommit: 99b2b3c7f1437693ff2b361b44c840a09ed35642
+ms.openlocfilehash: 1091f3b565f1e0d1dfbd2482940f93506f94fccd
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58523761"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670186"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Governo - como comprar
 

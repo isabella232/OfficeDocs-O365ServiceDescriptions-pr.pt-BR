@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Saiba mais sobre os compromissos exclusivos e as diferenças dos ambientes Office 365 GCC Alta e DoD em comparação com o ambiente Office 365 comercial.
-ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e23093e2fdebad45175746aa57bedc0c87728d4b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664404"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670326"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC Alta e DoD
 

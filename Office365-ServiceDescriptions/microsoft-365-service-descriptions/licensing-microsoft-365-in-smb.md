@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. Microsoft 365 Business Premium é uma solução integrada que reúne Microsoft 365 produtividade, segurança avançada e gerenciamento de dispositivos.
-ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663564"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670458"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -24,7 +24,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Comparação de recursos: Microsoft 365 Business Standard e Microsoft 365 Business Premium
 
-|**Área de serviço** |**Recurso** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** |
+|**Área de serviço** |**Característica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**Licenças disponíveis** | Número máximo de usuários | 300  | 300  |
 |**Aplicativos do Office** | Instalar Office em até 5 computadores/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business |
@@ -33,7 +33,6 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |**Armazenamento de arquivos** | OneDrive for Business  | 1 TB por usuário | 1 TB por usuário |
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online, PowerApps, Power Automate | Sim | Sim |
 |**Aplicativos de negócios** | Agendamento de &ndash; aplicativos Bookings<sup>1</sup> | Sim | Sim |
-|   | Aplicativos &ndash; de negócios MileIQ<sup>1</sup> | Sim | Sim |
 |**Proteção contra Ameaças** | Microsoft Defender para Office 365 | Não | Sim |
 |   | Windows Imposição do Exploit Guard | Não | Sim  |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendados para contas Azure Active Directory híbridas | Não | Sim |
@@ -55,7 +54,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Comparação de recursos: Microsoft 365 Business Premium e Office 365 E3
 
-|**Área de serviço**   | **Recurso**  | **Office 365 E3** | **Microsoft 365 Business Premium** |
+|**Área de serviço**   | **Característica**  | **Office 365 E3** | **Microsoft 365 Business Premium** |
 |---|---------------|-------------------|----------------------------|
 |**Licenças disponíveis** | Número máximo de usuários | Ilimitado | 300 |
 |**Aplicativos do Office** | Instalar Office em até 5 computadores/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
@@ -64,7 +63,6 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |**Armazenamento de arquivos** | OneDrive for Business | Ilimitado | 1 TB por usuário |
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automate<sup>1</sup> | Sim | Sim |
 |**Aplicativos de negócios** | Agendamento de &ndash; aplicativos Bookings<sup>2</sup> | Sim | Sim |
-|   | Aplicativos &ndash; de negócios MileIQ<sup>2</sup> | Não | Sim |
 |**Proteção contra Ameaças** | Microsoft Defender para Office 365 | Não | Sim |
 |   | Windows Imposição do Exploit Guard | Não | Sim |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendados para contas Azure Active Directory híbridas | Não | Sim |
@@ -88,7 +86,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Comparação de recursos: Microsoft 365 Business Standard, Microsoft 365 Business Premium e Office 365 E3
 
-|**Área de serviço**   |**Recurso** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Office 365 E3** |
+|**Área de serviço**   |**Característica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**Licenças disponíveis** | Número máximo de usuários | 300 | 300 | Ilimitado |
 |**Aplicativos do Office** | Instalar Office em até 5 computadores/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus |
@@ -97,7 +95,6 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |**Armazenamento de arquivos** | OneDrive for Business | 1 TB por usuário | 1 TB por usuário | Ilimitado |
 |**Social, vídeo, sites** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automate<sup>1</sup> | Sim | Sim | Sim |
 |**Aplicativos de negócios** | Agendamento de &ndash; aplicativos Bookings<sup>2</sup> | Sim | Sim | Sim |
-|   | Aplicativos &ndash; de negócios MileIQ<sup>2</sup> | Sim | Sim | Não |
 |**Proteção contra Ameaças** | Microsoft Defender para Office 365 | Não | Sim | Não |
 |   | Windows Imposição do Exploit Guard | Não | Sim | Não |
 |**O gerenciamento de identidades** | Redefinição de senha de autoatendados para contas Azure Active Directory híbridas | Não | Sim | Não |
@@ -121,7 +118,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Comparação de recursos: Microsoft 365 Business Standard e Microsoft 365 para planos de negócios
 
-|**Área de serviço**   |**Recurso** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**Área de serviço**   |**Característica** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licenças disponíveis** | Número máximo de usuários | 300 | 300 | Ilimitado | Ilimitado |
 |**Aplicativos do Office** | Instalar Office em até 5 computadores/Macs + 5 tablets + 5 smartphones por usuário (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
@@ -131,7 +128,6 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |**Social, vídeo, sites** | Yammer, SharePoint Online, Planner | Sim | Sim | Sim | Sim |
 |   | Stream | | Sim | Sim | Sim |
 |**Aplicativos de negócios** | Agendamento de &ndash; aplicativos Bookings<sup>1</sup> | Sim | Sim | Sim | Sim |
-|   | Aplicativos &ndash; de negócios MileIQ<sup>1</sup> | Sim | Sim | Não | Não |
 |**Proteção contra Ameaças** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, Enterprise Data Protection | Não | Não | Sim | Sim |
 |   | Microsoft Defender para Office 365 | Não | Sim | Não | Sim |
 |   | Microsoft Defender para Ponto de Extremidade | Não | Não | Não | Sim |
@@ -168,7 +164,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 | OneNote          | Sim                     | Sim                    |
 | Outlook          | Sim                     | Sim                    |
 | Publisher        | Sim                     | Sim                    |
-| Acesso           | Sim                     | Sim                    |
+| Access           | Sim                     | Sim                    |
 | Microsoft Teams  | Sim                     | Sim                    |
 | **Premium valor**                             | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Apps para empresas** |
 | Ativação de volume                             | Não                      | Não                     |
@@ -191,9 +187,9 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 | **Licenciamento**                                   | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Apps para empresas** |
 | Modelo de licenciamento                                 | Por usuário                | Por usuário               |
 | Tipo de licença                                    | Assinatura            | Assinatura           |
-| O PC/Mac instala<sup>o 6</sup>                     | 5                        | 5                      |
-| Smartphone iOS/Android instala<sup>6</sup>     | 5                        | 5                      |
-| Tablet instala<sup>6</sup>                     | 5                        | 5                      |
+| O PC/Mac instala<sup>o 6</sup>                     | 5                       | 5                      |
+| Smartphone iOS/Android instala<sup>6</sup>     | 5                       | 5                      |
+| Tablet instala<sup>6</sup>                     | 5                       | 5                      |
 | Office Direitos comerciais RT                     | Sim                     | Sim                    |
 | Office Aplicativos Online/Web                          | Sim                     | Sim                    |
 | Direitos de uso comercial                           | Sim                     | Sim                    |

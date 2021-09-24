@@ -7,15 +7,15 @@ ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice é um serviço de complemento que permite que você use Microsoft Teams para chamadas telefônicas. Isso combina sistema telefônico, plano de chamadas domésticas, SMS e audioconferência.
-ms.openlocfilehash: 90563ef54d57b823b675907868fc067adbe39b091f7955bb8814b55c910406cd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: cf759b14c6e3b1903a52206b8a97745105f5360c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663574"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671690"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descrição do serviço do Microsoft 365 Business Voice
 
@@ -51,7 +51,7 @@ A tabela a seguir lista os principais recursos Microsoft 365 Business Voice disp
 | Estacionamento de chamada | Sim | Sim<sup>*</sup> |
 | Encaminhamento de chamadas | Sim | Sim<sup>*</sup> |
 | Delegação de chamadas (compartilhar uma linha telefônica com um representante) | Sim | Sim<sup>*</sup> |
-| Música em espera | Sim | Sim<sup>*</sup> |
+| Música de espera | Sim | Sim<sup>*</sup> |
 | Bloco de chamada | Sim | Sim<sup>*</sup> |
 | Discagem de Extensão do Atendimento Automático | Sim | Sim<sup>*</sup> |
 | Transferência automática de fila de atendimento/chamada para caixa postal compartilhada | Sim | Sim<sup>*</sup> |
@@ -80,7 +80,7 @@ Para os termos e condições de licenciamento de produtos e serviços adquiridos
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as mudanças futuras, incluindo recursos novos e alterados, manutenções planejadas ou outros anúncios importantes, visite a Central de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
+Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, [Centro de Mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 

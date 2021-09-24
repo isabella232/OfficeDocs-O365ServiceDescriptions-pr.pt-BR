@@ -6,18 +6,18 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI é um pacote baseado em nuvem de ferramentas de análise de negócios que permite que qualquer pessoa se conecte, visualize e analise dados com maior velocidade, eficiência e compreensão. Ele conecta os usuários a uma ampla variedade de dados ao vivo por meio de painéis simples, fornece relatórios interativos e visualizações atraentes para dar vida aos dados.
-ms.openlocfilehash: b95a17ffccd284e0cfad2a432db5c80344a2cbbcccb78905ab18baa3d3059a9f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bf1a543008dcfb92496f25ab42c11abcd4d706ea
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702860"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672711"
 ---
 # <a name="power-bi-service-description"></a>Descrição do serviço Power BI
 
@@ -81,7 +81,7 @@ Para os termos e condições de licenciamento de produtos e serviços adquiridos
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as mudanças futuras, incluindo recursos novos e alterados, manutenções planejadas ou outros anúncios importantes, visite a Central de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
+Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, [Centro de Mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 

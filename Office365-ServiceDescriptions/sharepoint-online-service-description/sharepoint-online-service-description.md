@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - sharepoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Confira quais SharePoint recursos estão disponíveis em quais planos.
-ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8aad0fd841a6a129264be710e5d62cd84202d0aa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702580"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672404"
 ---
 # <a name="sharepoint-service-description"></a>Descrição do serviço SharePoint
 
@@ -139,7 +139,7 @@ SharePoint se integra aos recursos avançados de segurança e conformidade Micro
 - [Barreiras de informações](/microsoft-365/compliance/information-barriers)
 - [Obter o Microsoft Defender para Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Rótulos e políticas de retenção](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [Rótulos de confidencialidade ](/microsoft-365/compliance/sensitivity-labels)
+- [Rótulos de confidencialidade](/microsoft-365/compliance/sensitivity-labels)
 - [Auditoria unificada](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (auditoria SharePoint atividade de administrador e usuário)
 
 Para obter informações sobre a Proteção de Informações do [Azure,](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)consulte Os [Requisitos para a Proteção de Informações do Azure](/azure/information-protection/requirements)

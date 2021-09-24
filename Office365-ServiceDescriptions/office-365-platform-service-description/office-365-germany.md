@@ -6,18 +6,18 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 A Alemanha é uma opção diferenciada dos serviços Office 365 já disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados da Alemanha, da União Europeia (UE) e da EfTA (Associação Europeia de Livre Comércio) fornecendo nossos serviços de produtividade líderes do setor para o trabalho digital, a partir de data centers alemães, com residência de dados na Alemanha e medidas estritas de acesso e controle de dados por meio de um modelo de trustee de dados exclusivo regido pela lei alemã.
-ms.openlocfilehash: d2e3e06483ca0a09cfe4f5f9e6028948dc8f03983281420786c535f5f1479d48
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a028550d0ffcef647535934962d50e0fcd931485
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701670"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671370"
 ---
-# <a name="office-365-germany"></a>Office 365 Alemanha
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 A Alemanha é uma opção diferenciada dos serviços Office 365 já disponíveis na Europa. Ele ajuda a atender às necessidades dos clientes mais regulamentados da Alemanha, da União Europeia (UE) e da EfTA (Associação Europeia de Livre Comércio) fornecendo nossos serviços de produtividade líderes do setor para o trabalho digital, a partir de data centers alemães, com residência de dados na Alemanha e medidas estritas de acesso e controle de dados por meio de um modelo de trustee de dados exclusivo regido pela lei alemã.
 
@@ -333,7 +333,7 @@ A tabela a seguir fornece links para comparações de recursos Office para a Web
 > - Microsoft Office Os clientes locais do Web Apps Server 2013 obterão uma licença de edição do Office para a Web caso tenham comprado uma licença de pacote de área de trabalho do Office (como Office Professional Plus, Office Standard ou uma licença Office 365 ProPlus). <br/>
 > - Devido à natureza da Office 365 Alemanha, há alguns recursos que ainda não foram habilitados. Você verá os serviços chegarem próximos à paridade completa de recursos com serviços globais ao longo do tempo.
 
-| Aplicativo | Office na Web | Link para a comparação detalhada de recursos |
+| Application | Office na Web | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
 |Word|Word para a Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -573,7 +573,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Receptor de eventos remotos|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |APIs REST|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |SharePoint Design Manager|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
-|Sharepoint Designer 2013|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
+|SharePoint Designer 2013|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Repositório do SharePoint2|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |SharePoint fluxos de trabalho 2010 (.NET 3.5)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |SharePoint fluxos de trabalho 2010 (fora da caixa)|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -662,7 +662,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Catálogo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Página de categoria e página de item de catálogo|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |Web Parts de pesquisa|Não|Não|Não|Sim|Não|Sim|Sim|Não|
-|Piblicação intersite|Não|Não|Não|Sim|Não|Sim|Sim|Não|
+|Publicação entre sites|Não|Não|Não|Sim|Não|Sim|Sim|Não|
 |WCM: Ferramentas de designer|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
 |Navegação facetada|Não|Não|Não|Não|Não|Sim<sup>7</sup>|Sim<sup>7</sup>|Não|
 |Renderizações de imagem|Sim|Não|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -756,7 +756,7 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 |Ask Me About|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|
 |Blogs pessoais|Sim<sup>13</sup>|Não|Sim<sup>13</sup>|Sim<sup>13</sup>|Sim<sup>13</sup>|Sim<sup>13</sup>|Sim<sup>13</sup>|Sim<sup>13</sup>|
 |Reputação, badging e moderação de comunidades|Sim<sup>14</sup>|Não|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|No<sup>14</sup>|
-|Comunidade|Sim<sup>14</sup>|Não|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Não|
+|Community|Sim<sup>14</sup>|Não|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Sim<sup>14</sup>|Não|
 |Feed da empresa|Sim|Não|Sim|Sim|Sim|Sim|Sim|Não|
 |Documentar conversas com Yammer|Não|Não|Não|Não|Não|Não|Não|Não|
 |Follow|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Não|

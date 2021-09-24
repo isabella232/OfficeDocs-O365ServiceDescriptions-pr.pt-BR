@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-domains
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Quando você adiciona um domínio, um assistente passo a passo ajuda você a adicionar usuários e converter seus endereços de email e outros serviços em seu nome comercial. Quando você conclui o assistente, seu email comercial começa a chegar à Microsoft em vez de ir para o provedor de email atual. Para saber mais, confira Adicionar seus usuários e domínios à Microsoft. Se você usa o Office 365 operado pela 21Vianet, confira Verificar seu domínio.
-ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 730165d82298a43af1cd9903e6bb5726e98f8ec5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54662984"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670316"
 ---
 # <a name="domains"></a>Domínios
 
@@ -49,7 +49,7 @@ Para obter mais informações, consulte [How Microsoft manages DNS records](/off
   
 ## <a name="sharing-a-domain"></a>Compartilhamento de um domínio
 
-Você pode pilotar alguns endereços de email para um domínio na Microsoft e alguns no provedor de email anterior. Isso é recomendado apenas para uso durante um piloto, pois exige etapas adicionais de instalação e tem algumas limitações para serviços Microsoft. Para saber mais, confira:
+Você pode pilotar alguns endereços de email para um domínio na Microsoft e alguns no provedor de email anterior. Isso é recomendado apenas para uso durante um piloto, pois exige etapas adicionais de instalação e tem algumas limitações para serviços Microsoft. Para mais informações, confira:
   
 - [Piloto Microsoft 365 para uma pequena empresa](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

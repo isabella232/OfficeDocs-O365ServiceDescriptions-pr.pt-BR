@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint para a Web (anteriormente PowerPoint Web App) estende sua experiência do Microsoft PowerPoint para o navegador da Web, onde você pode trabalhar com apresentações diretamente no site onde a apresentação está armazenada. Microsoft 365 clientes com Office para a Web podem exibir, criar e editar arquivos em qualquer lugar.
-ms.openlocfilehash: b497765f3112043f81a604ff2f8eb6715ff24a66a248f9d3756393ae0d90c0c2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702250"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669957"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint para a Web
 

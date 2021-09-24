@@ -6,16 +6,16 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços de nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: faa8416e26c51f2e9bab05deafb98f0620bf5c0b
-ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
+ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505697"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671353"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -65,12 +65,25 @@ Confira os requisitos de sistema do Office 365 em [Requisitos de sistema do Offi
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 Microsoft 365 O Centro de Conformidade fornece acesso fácil às ferramentas necessárias para gerenciar as necessidades de conformidade da sua organização. As seguintes soluções estão disponíveis no Centro de Conformidade para planos operados pela 21Vianet:
 
-- Prevenção de Perda de Dados (DLP)
-- Retenção
-- Auditoria com dados de Azure Active Directory e Exchange
-- Proteção de Informações da Microsoft (MIP) e rótulos de sensibilidade para clientes Office e Outlook usando o cliente de rótulo unificado AIP
+| Recursos | Microsoft 365 Business Basic operado pela 21Vianet | Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet | Microsoft 365 Business Standard operado pela 21Vianet | Office 365 Enterprise E1 operado pela 21Vianet | Office 365 Enterprise E3 operado pela 21Vianet | Office 365 Enterprise F3 operado pela 21Vianet |
+|---------|---------|---------|---------|---------|---------|---------|
+| Arquivamento | Sim | n/d | Sim | Sim | Sim | Não |
+| Políticas de alerta | Não | n/d | Não | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|Auditoria Básica<sup>2</sup> | Sim | n/d | Sim | Sim | Sim | Sim |
+|Pesquisa de Conteúdo | Não | n/d | Não | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|Prevenção contra perda de dados Exchange Online, SharePoint Online e OneDrive for Business | Não | n/d | Sim | Não | Sim | Não |
+|Casos de Descoberta eDiscovery | Não | n/d | Não | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|Exportação de Descobertas EDiscovery | Não | n/d | Não | Não | No<sup>1</sup> | Não |
+|Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta) | Não | n/d | Não | Não | No<sup>1</sup> | Não |
+|Governança de informações<sup>1</sup> | Sim | n/d | Sim | Sim | Sim | Sim |
+|Rótulos manuais de sensibilidade | Não | n/d | Não | Sim | Sim | Não |
+|Criptografia de Mensagens do Office 365 básico (OME) | Não | n/d | Não | Não | Sim | Não |
+
+<sup>1</sup> Disponibilidade futura.</br>
+<sup>2</sup> Auditoria com dados de Azure Active Directory e Exchange.
 
 > [!NOTE]
+>
 > - Rótulos de sensibilidade para proteger o conteúdo SharePoint sites, Microsoft 365 grupos e Microsoft Teams não são suportados no momento.
 > - Rótulos de sensibilidade para classificar e proteger documentos e emails com Office na Web não são suportados no momento.
 
@@ -357,7 +370,7 @@ A tabela a seguir exibe os serviços do Exchange Online que estão disponíveis 
 | Quarentena - gerenciamento de administrador | Sim | Sim | Sim | Sim | Sim | Sim <sup>4</sup> |
 | Quarentena - auto-gerenciamento de usuário final | Sim | Sim | Sim | Sim | Sim | Sim |
 | Proteção Avançada contra Ameaças | Não | -- | Não | Não | Não | Não |
-| **[Fluxo de emails](../exchange-online-service-description/mail-flow.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
+| **[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)** | **Microsoft 365 Business Basic operado pela 21Vianet** | **Microsoft 365 Apps para Pequenos e Médios negócios operado pela 21Vianet** | **Microsoft 365 Business Standard operado pela 21Vianet** | **Office 365 Enterprise E1 operado pela 21Vianet** | **Office 365 Enterprise E3 operado pela 21Vianet** | **Office 365 Enterprise F3 operado pela 21Vianet** |
 | Roteamento personalizado de emails de saída | Sim | Sim | Sim | Sim | Sim | Sim |
 | Secure messaging with a trusted partner | Sim | Sim | Sim | Sim | Sim | Sim |
 | Conditional mail routing | Sim | Sim | Sim | Sim | Sim | Sim |
@@ -584,9 +597,6 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Implantação de aplicativos: aplicativos hospedados na nuvem | Sim | Sim | Sim | Sim | Sim | Sim |
 | Implantação de aplicativos: SharePoint aplicativos hospedados por SharePoint aplicativos hospedados | Sim | Sim | Sim | Sim | Sim | Sim |
 | Serviço de gerenciamento de aplicativos | Sim | Sim | Sim | Sim | Sim | Sim |
-| Arquivamento | Sim | n/d | Sim | Sim | Sim | Não |
-| Políticas de alerta | Não | n/d | Não | Não | Não | Não |
-| Auditoria Básica<sup>2</sup> | Sim | n/d | Sim | Sim | Sim | Sim |
 | BCS: alertas para listas externas | Não | Não | Não | Não | Sim | Não |
 | BCS: Tipos de conteúdo externo com escopo de aplicativo (ECTs) | Não | Não | Não | Não | Sim | Não |
 | BCS: dados de negócios Web Parts | Não | Não | Não | Não | Sim | Não |
@@ -599,22 +609,14 @@ Todos os planos do Office 365 incluem o serviço SharePoint Online, mas nem todo
 | Browser-based customizations | Sim | Sim | Sim | Sim | Sim | Sim |
 | Client Object Model (OM) | Sim | Sim | Sim | Sim | Sim | Sim |
 | Client-side rendering (CSR) | Sim | Sim | Sim | Sim | Sim | Sim |
-| Pesquisa de Conteúdo | Não | n/d | Não | Não | Não | Não |
 | Definições de site personalizadas | Não | Não | Não | Não | Não | Não |
 | Página de provisionamento de site personalizado | Não | Não | Não | Não | Não | Não |
-| Prevenção contra perda de dados Exchange Online, SharePoint Online e OneDrive for Business | Não | n/d | Sim | Não | Sim | Não |
 | Site do desenvolvedor | Sim | Não | Sim | Sim | Sim | Sim |
 | Aplicativos baseados em formulários | Sim | Não | Sim | Sim | Sim | Sim |
 | Soluções de confiança total | Não | Não | Não | Não | Não | Não |
-| Casos de Descoberta eDiscovery | Não | n/d | Não | Não | Não | Não |
-| Exportação de Descobertas EDiscovery | Não | n/d | Não | Não | Não | Não |
-| Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta) | Não | n/d | Não | Não | Não | Não |
-| Governança de informações<sup>1</sup> | Sim | n/d | Sim | Sim | Sim | Sim |
 | InfoPath Forms Services | Não | Não | Não | Não | No<sup>14</sup> | Não |
 | JavaScript Object Model | Sim | Sim | Sim | Sim | Sim | Sim |
 | List and Library APIs | Sim | Sim | Sim | Sim | Sim | Sim |
-| Rótulos manuais de sensibilidade | Não | n/d | Não | Sim | Sim | Não |
-| Criptografia de Mensagens do Office 365 básico (OME) | Não | n/d | Não | Não | Sim | Não |
 | Receptor de eventos remotos | Sim | Não | Sim | Sim | Sim | Sim |
 | APIs REST | Sim | Sim | Sim | Sim | Sim | Sim |
 | SharePoint Design Manager | Sim | Não | Sim | Sim | Sim | Sim |

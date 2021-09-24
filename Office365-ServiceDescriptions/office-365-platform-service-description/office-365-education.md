@@ -6,20 +6,20 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos Office 365 educação, este artigo mostrará quais recursos estão incluídos em cada um deles. Office 365 combina o pacote de área de trabalho do Microsoft Office familiar com versões baseadas em nuvem dos serviços de comunicação e colaboração de última geração da Microsoft, incluindo Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para a Web e Microsoft Skype for Business Online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da &mdash; &mdash; Internet.
-ms.openlocfilehash: 7955cf1d3d2aa2d9599d5b43cfa103a68f3b15f4f94545c8c8aff08790074853
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos Office 365 educação, este artigo mostrará quais recursos estão incluídos em cada um deles. Office 365 combina o conjunto de áreas de trabalho Microsoft Office familiar com versões baseadas em nuvem dos serviços de comunicação e colaboração de última geração da Microsoft, incluindo &mdash; Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para a Web e o Microsoft Skype for Business Online para ajudar os usuários a serem produtivos de &mdash; praticamente qualquer lugar através da Internet.
+ms.openlocfilehash: 55e285a62f2e4a955e88a416f40c800ad1489ff7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663014"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671404"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos Office 365 educação, este artigo mostrará quais recursos estão incluídos em cada um deles. Office 365 combina o pacote de área de trabalho do Microsoft Office familiar com versões baseadas em nuvem dos serviços de comunicação e colaboração de última geração da Microsoft, incluindo Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para a Web e Microsoft Skype for Business Online para ajudar os usuários a serem produtivos de praticamente qualquer lugar através da &mdash; &mdash; Internet.
+O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos Office 365 educação, este artigo mostrará quais recursos estão incluídos em cada um deles. Office 365 combina o conjunto de áreas de trabalho Microsoft Office familiar com versões baseadas em nuvem dos serviços de comunicação e colaboração de última geração da Microsoft, incluindo &mdash; Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para a Web e o Microsoft Skype for Business Online para ajudar os usuários a serem produtivos de &mdash; praticamente qualquer lugar através da Internet.
   
 Este artigo lista os recursos para Office 365 planos de educação (A1, A3 e A5). Para comparar recursos entre planos corporativos e [corporativos,](../office-365-service-descriptions-technet-library.md)consulte [Compare Office 365 para](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) planos de negócios ou, para obter uma lista mais detalhada de recursos, consulte a descrição de serviço relevante em Microsoft 365 e Office 365 descrições de serviço .
   
@@ -38,7 +38,7 @@ Cada Office 365 de educação inclui vários serviços individuais, como Exchang
 |Skype for Business Online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
 |Office na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Aplicativos do Office  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Project  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
+|Projeto  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
 |Power BI  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
 |Yammer Academic  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
 |Proteção de Informações do Azure<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
@@ -293,7 +293,7 @@ A tabela a seguir fornece links para comparações de recursos Office para a Web
 > - O Microsoft Microsoft 365 Apps para Grandes Empresas é uma oferta de assinatura mensal do pacote de Office desktop mais recente. <br/>
 > - Microsoft Office Os clientes locais do Servidor Online obterão uma licença de edição Office para a Web caso tenham comprado uma licença de pacote de área de trabalho do Office (como uma licença Office Professional Plus, Office Standard ou Microsoft 365 Apps para Grandes Empresas). 
   
-| Aplicativo | Office na Web | Link para a comparação detalhada de recursos |
+| Application | Office na Web | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
 |Word  <br/> |Word para a Web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel para a Web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
@@ -464,7 +464,7 @@ Os limites no Microsoft Exchange Online podem ser classificados em uma das segui
 > - Os limites aplicados a uma organização Microsoft 365 podem ser diferentes dependendo de quanto tempo a organização está inscrita no serviço. Quando um limite é alterado nos datacenters da Microsoft, pode demorar algum tempo para que a alteração seja aplicada a todos os clientes existentes. 
 > - Não é possível modificar a maioria desses limites, mas você e seus usuários devem conhecê-los. 
 > - Esses limites se aplicam a destinatários internos e externos. 
-> - Por padrão, a Proteção do Exchange Online (EOP) protege as caixas de correio do Exchange Online. Para os limites que se aplicam aos recursos EOP no Exchange Online, confira [Limites da Proteção do Exchange Online](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - Por padrão, a Proteção do Exchange Online (EOP) protege as caixas de correio do Exchange Online. Para limites que se aplicam aos recursos do EOP no Exchange Online, consulte [Limites de Proteção do Exchange Online](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
 > - Para saber mais sobre limites de grupo do Office 365, confira "Como gerenciar meus grupos?" no [Saiba mais sobre grupos do Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
   
 #### <a name="address-book-limits"></a>Limites de catálogo de endereços
@@ -494,7 +494,7 @@ A quantidade de armazenamento de caixa de correio disponível é determinada pel
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |Caixas de correio de usuário  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|Caixas de correio<sup>de arquivo morto 6, 7</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|Caixas de correio<sup>de arquivo morto 6, 7</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Caixas de correio compartilhadas  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |Caixas de correio de recurso  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
 |Caixas de correio de site<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
@@ -523,7 +523,7 @@ O Exchange Online oferece três tipos de notificações quando uma caixa de corr
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |Aviso  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
-|Proibir Envio  <br/> |49,5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
+|Proibir Envio  <br/> |49.5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
 |Proibir Envio/Recebimento  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
    
 #### <a name="mailbox-folder-limits"></a>Limites da pasta da caixa de correio
@@ -560,7 +560,7 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 |Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio primária (não em espera)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
 |Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio primária (em espera)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (não em espera)  <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
-|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (em espera)  <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (em espera)  <br/> |Ilimitado<sup>1</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Aviso para o número de mensagens por pasta na pasta de Itens Recuperáveis  <br/> |2,75 milhões  <br/> |2,75 milhões  <br/> |2,75 milhões  <br/> |
 |Número máximo de subpastas por pasta de caixa de correio  <br/> |10.000  <br/> |10.000  <br/> |10.000  <br/> |
 |Aviso para o número de subpastas por pasta de caixa de correio  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
@@ -610,9 +610,9 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
 |Limite de profundidade de mensagem inserida  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Os administradores da Microsoft podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para obter mais informações sobre como personalizar o tamanho máximo permitido de mensagem para sua organização, confira a[Microsoft oferece suporte a mensagens de email maiores](https://go.microsoft.com/fwlink/?linkid=2144144).<br/> 
+> <sup>1</sup> Os administradores da Microsoft podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para saber mais sobre como personalizar o tamanho máximo permitido para as mensagens de sua organização, confira [A Microsoft dá suporte a mensagens de email maiores](https://go.microsoft.com/fwlink/?linkid=2144144).<br/> 
 <sup>2</sup> Você pode enviar e receber mensagens de até 150 MB entre usuários (onde a mensagem nunca sai dos datacenters da Microsoft). As mensagens roteadas fora dos datacenters da Microsoft estão sujeitas a um aumento adicional de 33% na codificação da tradução, caso em que o tamanho máximo da mensagem é 112 MB. <br/> 
-<sup>3</sup> O OWA considera a possibilidade de sua mensagem estar sujeita a um aumento de codificação de 33% e restringe o tamanho da mensagem que você pode enviar a 25% menos do que a configuração configurada. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. <br/> 
+<sup>3</sup> O OWA considera a possibilidade de que sua mensagem esteja sujeita ao aumento de 33% para a codificação e restringe o tamanho da mensagem que você pode enviar a 25% menos da configuração definida. Por exemplo, se você personalizar as configurações para um tamanho de mensagem máximo de 100 MB, não será possível enviar mensagens maiores do que 75 MB. <br/> 
 <sup>4</sup> O tamanho das mensagens a serem movidas para Exchange Online são calculadas por Exchange Online. Versões do Exchange anteriores ao Exchange Server 2013 podem relatar um tamanho menor de item. Esse limite se aplica para mover as migrações com base usando qualquer serviço de replicação de caixa de correio do Exchange. Outros métodos de migração (Cutover, Staged, IMAP, PST) e outras ferramentas de terceiros são limitados pelo limite de tamanho de mensagem geral. <br/> 
 <sup>5</sup> Para obter informações sobre OME com novos recursos, confira [Configurar novos recursos da Criptografia de Mensagens do Office 365 criados com base na Proteção de Informações do Azure](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e). 
   

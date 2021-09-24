@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - word-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word para a Web (anteriormente Word Web App) estende sua experiência de Microsoft Word para o navegador da Web, onde você pode trabalhar com documentos diretamente no site onde o documento está armazenado.
-ms.openlocfilehash: 181135b0bfcb1ea2cf8492e3853e4914d8efb2d1f214b4747dae00de6d287b05
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a499343c40c97f4d16575a0670dacbc4b9e5c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702880"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672721"
 ---
 # <a name="word-for-the-web"></a>Word para a Web
 
@@ -125,7 +125,7 @@ Insira um header e rodapé no documento no Word para a Web e no aplicativo da á
 
 Com Word para a Web, você pode criar facilmente links para indicadores em um documento e definir uma dica de tela que é exibida quando o cursor aponta para o link. Saiba mais sobre [hiperlinks em Word para a Web](https://go.microsoft.com/fwlink/p/?LinkId=271863).
   
-## <a name="index"></a>Índice
+## <a name="index"></a>Index
 
 Um índice lista os termos e os tópicos que são discutidos em um documento, juntamente com as páginas em que eles aparecem. Para criar um índice, marque as entradas de índice, fornecendo o nome da entrada principal e a referência cruzada no documento e, depois, construa o índice.
   

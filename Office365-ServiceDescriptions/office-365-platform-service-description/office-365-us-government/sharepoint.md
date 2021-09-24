@@ -7,15 +7,15 @@ ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Saiba mais sobre a SharePoint de recursos para clientes de nuvem do governo dos EUA.
-ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371761"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672996"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint ambientes governamentais dos EUA
 
@@ -36,7 +36,7 @@ Nosso objetivo é fornecer todos os recursos e funcionalidades SharePoint comerc
 
 ## <a name="developer-features"></a>Recursos para desenvolvedores
 
-Não há diferenças conhecidas entre os recursos de desenvolvedor para clientes comerciais e aqueles para clientes de nuvem do governo.
+Não há diferenças conhecidas entre os recursos de desenvolvedor para clientes comerciais e os recursos de desenvolvedor para clientes de nuvem do governo.
 
 - As conexões com aplicativos externos, como fontes de dados para os complementos, são limitadas a fontes localizadas dentro dos limites de segurança do sistema suportados pelo seu ambiente governamental.
 - Serviços Corporativos de Conectividade funcionalidade (BCS) é suportada para cenários de conectividade nos quais as fontes de dados permanecem acessíveis dentro do limite de segurança para seu serviço de nuvem.
@@ -45,10 +45,9 @@ Se você usar aplicativos de terceiros em sites, revise as instruções de priva
 
 ## <a name="it-admin-features"></a>Recursos de administrador de IT
 
-Aqui estão as diferenças entre os recursos de administrador de IT para clientes comerciais e aqueles para clientes de nuvem governamental.
+Aqui estão as diferenças entre os recursos de administrador de IT para clientes comerciais e os recursos de administrador de IT para clientes de nuvem do governo.
 
 - Alterar um endereço de site não está disponível para clientes GCC High
-- O SharePoint Server híbrido não está disponível para todos os clientes de nuvem do governo
 - A SharePoint de Migração e o Gerenciador de Migração exigem uma alteração de configuração. Para obter informações, consulte [Suporte a nuvem governamental do SPMT.](/sharepointmigration/spmt-install-issues#government-cloud-support)
 - Mover.io ainda não há suporte
 - Multi-geo não está disponível para todos os clientes de nuvem do governo
@@ -57,7 +56,7 @@ Para obter informações sobre FastTrack migração, consulte [Office 365 descri
 
 ## <a name="security-and-compliance-features"></a>Recursos de segurança e conformidade
 
-Não há diferenças conhecidas entre os recursos de segurança e conformidade para clientes comerciais e para clientes de nuvem do governo.
+Não há diferenças conhecidas entre os recursos de segurança e conformidade para clientes comerciais e os recursos de segurança e conformidade para clientes de nuvem do governo.
 
 Para obter informações sobre recursos de segurança e conformidade, consulte [o Centro de Conformidade & Segurança.](../office-365-securitycompliance-center.md)
 
@@ -69,7 +68,7 @@ Para obter informações sobre SharePoint Syntex recursos, consulte o SharePoint
 
 ## <a name="sites-and-content"></a>Sites e conteúdo
 
-Aqui estão as diferenças entre os sites e os recursos de conteúdo para clientes comerciais e aqueles para clientes de nuvem do governo:
+Aqui estão as diferenças entre os sites e os recursos de conteúdo para clientes comerciais e os sites e recursos de conteúdo para clientes de nuvem governamental:
 
 - Web Parts que dependem de conexões com serviços da Internet, como o Amazon Kindle, Bing Mapas, Twitter e Web Parts do YouTube, não funcionarão conforme esperado
 - A biblioteca de ativos da organização não está disponível
@@ -81,7 +80,7 @@ Aqui estão as diferenças entre os sites e os recursos de conteúdo para client
 
 ## <a name="search-features"></a>Recursos de pesquisa
 
-Aqui estão as diferenças entre os recursos de pesquisa para clientes comerciais e aqueles para clientes de nuvem governamental:
+Aqui estão as diferenças entre os recursos de pesquisa para clientes comerciais e os recursos de pesquisa para clientes de nuvem governamental:
 
 - Pesquisa da Microsoft não está disponível no GCC.
 
@@ -98,3 +97,41 @@ Sua mudança para a nuvem oferece experiências transformativas com controles de
 Depois de configurar sua organização na nuvem governamental do Microsoft US, siga o caminho de implantação recomendado descrito no centro de recursos SharePoint [adoção.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Certifique-se de se envolver com seus campeões de Gerenciamento de Alterações e Adoção.
 Você também pode trabalhar com [FastTrack](https://www.microsoft.com/fasttrack) ou seu parceiro escolhido para lançar o serviço para seus usuários.
 Visite o [Centro de Confiamento](https://www.microsoft.com/trust-center) da Microsoft para saber mais sobre como a Microsoft aborda a segurança, privacidade e conformidade, princípios fundamentais para como capacitamos as organizações a atender seus clientes.
+
+## <a name="configuring-sharepoint-hybrid-configuration-wizard-support-for-all-government-cloud-customers"></a>Configurando o SharePoint do Assistente de Configuração Híbrida para todos os clientes de nuvem do governo
+
+O SharePoint Assistente de Configuração Híbrida contém suporte para SharePoint recursos híbridos com ambientes SPO especiais.
+
+Você precisa editar o valor de um parâmetro relacionado ao ambiente em um arquivo **.config** para disponibilizar os recursos SharePoint híbridos para esse ambiente. Consulte [Editing configuration file](#editing-configuration-file).
+
+> [!NOTE]
+> Para obter informações sobre os ambientes SPO especiais para os quais SharePoint recursos híbridos oferecem suporte, consulte [Ambientes Com Suporte.](#supported-environments)
+
+## <a name="editing-configuration-file"></a>Editar arquivo de configuração
+
+1. Instale ou atualize o assistente SharePoint configuração híbrida.
+2. Vá para a pasta na qual o SharePoint de Configuração Híbrida está instalado. Por exemplo, `%LOCALAPPDATA%\Apps\HybridSP\HybridSP`
+3. Iniciar o **microsoft.online.cse.hybridsp.common.dll.config** em um editor de texto, como Bloco de notas.
+O conteúdo deste arquivo é descrito na captura de tela a seguir:
+
+:::image type="content" source="../../media/content.png" alt-text="O conteúdo no arquivo de configuração":::
+
+4. Modifique o valor do `SPOEnvironmentType` parâmetro.
+5. Salve as alterações no arquivo **microsoft.online.cse.hybridsp.common.dll.config.**
+6. Reabrir o Assistente SharePoint Configuração Híbrida.
+   As configurações são aplicadas e os recursos SharePoint híbridos estão disponíveis no ambiente SPO configurado.
+
+## <a name="supported-environments"></a>Ambientes com suporte
+
+SharePoint recursos híbridos suportam os seguintes ambientes SPO:
+
+- Público
+- PPE
+- CCG
+- GccHigh
+- DoD
+- Personalizado
+
+Se um cliente definir o valor como Personalizado, as teclas , e serão usadas para definir esses pontos de extremidade `SPOEnvironmentType` para esse ambiente  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` SPO personalizado.
+
+Se o valor for definido como qualquer valor diferente de Custom , , , e as teclas serão ignoradas e o Assistente de Configuração Híbrida SharePoint usar valores de código rígido apropriados para esses tipos de ambiente `SPOEnvironmentType`  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` SPO.

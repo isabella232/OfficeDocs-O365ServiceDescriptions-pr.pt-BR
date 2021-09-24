@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-planning-and-deployment
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: Saiba mais sobre planejamento e implantação Microsoft Exchange Online.
-ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8407f95e9a0d9cb721134fdf8cab46003339f197
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663664"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671785"
 ---
 # <a name="planning-and-deployment"></a>Planejamento e implantação
 
@@ -50,7 +50,7 @@ As organizações devem escolher as opções de migração baseadas em seus sist
   
 - **Migração IMAP** - Migrar dados de caixa de correio de sistemas de email baseados em IMAP para Exchange Online. 
     
-- Migração de **Exchange** - Migrar caixas de correio do Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 e sistemas Exchange hospedados para Exchange Online em uma única migração de recortamento. 
+- **Migração** de Exchange - Migrar caixas de correio do Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 e sistemas Exchange hospedados para Exchange Online em uma única migração de recortamento. 
     
 - Migração em **estágios Exchange** - Realize uma migração em estágios para migrar caixas de correio do Exchange Server 2003 ou Exchange Server 2007 com ferramentas de migração baseadas na Web e alterações mínimas na infraestrutura local. 
     

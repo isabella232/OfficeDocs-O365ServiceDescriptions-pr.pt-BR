@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-reports
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Os administradores da Microsoft podem exibir relatórios mostrando como sua organização está usando serviços Microsoft. Você pode usar esses relatórios para identificar problemas, filtrar dados e baixar dados para o Microsoft Excel. Você também pode criar seus próprios relatórios usando os Microsoft 365 web de relatório. Exchange Online e Proteção do Exchange Online (EOP) podem usar relatórios de proteção de email para exibir dados sobre detecções de malware, spam e regra.
-ms.openlocfilehash: 7dc7dcea9a7d09304f06740157213705bf8ca73dfd42d21c9353d554de0525c3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 0e56ccdc376ddace9c0885bb6787508240740bc0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702000"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671023"
 ---
 # <a name="reports"></a>Relatórios
 

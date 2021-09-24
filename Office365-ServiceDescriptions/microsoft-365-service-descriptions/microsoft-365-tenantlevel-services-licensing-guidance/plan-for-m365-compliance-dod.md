@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Essa orientação é para profissionais de IT que estão orientando implantações do Office 365 em entidades do Governo Federal dos EUA ou outras entidades que lidam com dados sujeitos a regulamentos e requisitos governamentais, onde o uso do Microsoft 365 Government – DoD é apropriado para atender a esses requisitos.
-ms.openlocfilehash: 4d8e4b7600abe8b41baa94462f4e8dfbebf8b277
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: 6ad0f21c8cbd9cf6690af4664c958c4ffdab7746
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702283"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671611"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planejar a conformidade com o Microsoft 365 – implantações do DoD
 
@@ -75,7 +75,6 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 | | Configuração de rótulo de sensibilidade para proteção somente criptografada em Outlook mensagens  | Disponível  |
 | | Cliente de rotulagem unificada e scanner  | Disponível  |
 | Análise  | Classificação de dados: Visão geral e Explorador de Conteúdo  | Em implantação  |
-| | Análise: classificadores de aprendizado de máquina com rotulagem automática no lado do serviço  | No desenvolvimento  |
 | | Análise: classificadores de aprendizado de máquina com rotulagem automática Office aplicativos/lado do cliente  | No desenvolvimento |
 | Criptografia  | Básico Criptografia de Mensagens do Office 365 (E3)  | Disponível  |
 | | Advanced Criptografia de Mensagens do Office 365 (E5)  | Disponível  |
@@ -110,9 +109,8 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 | | Gerenciamento de registros: Prova de descarte  | Disponível  |
 | | Gerenciamento de registros: controle de versão de registros  | Disponível  |
 | | Gerenciamento de registros: registros regulatórios  | Disponível  |
-| | Gerenciamento de registros: use SharePoint Syntex classificação para aplicar rótulos de registro  | No backlog de engenharia  |
 | **Gerenciamento de risco**  | | |
-| Gerenciamento de risco  | Sistema de Proteção de Dados do cliente  | Disponível  |
+| Sistema de Proteção de Dados do cliente | Sistema de Proteção de Dados do cliente  | Disponível  |
 | Conformidade em comunicações  | Conformidade de Comunicação: Capacidade de definir um período de retenção para uma política de Conformidade de Comunicação (Visualização pública)  | No backlog de engenharia  |
 | | Conformidade de comunicação: alertas de acesso; modelos de aviso; painel de política de comunicação  | Disponível  |
 | | Conformidade de comunicação: analisar Teams dados de chat de usuários com caixa de correio no site  | Disponível  |
@@ -152,8 +150,9 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 | | Insider Risk Management: modelos de política para vazamentos de dados por usuários insatisfeitos  | No backlog de engenharia  |
 | | Gerenciamento de riscos do Insider: modelos de política para vazamentos de dados por usuários prioritários  | Visualização pública  |
 | | Insider Risk Management: Modelos de política para violações gerais de política de segurança  | No backlog de engenharia  |
-| | Insider Risk Management: modelos de política para violações de política de segurança por usuários prioritários, usuários de saída, usuários insatisfeitos (visualização)  | No backlog de engenharia  |
-| | Gerenciamento de Riscos do Insider: Personalização de política, verificação de saúde da política e assistente de criação de política aprimorado  | Visualização pública  |
+| | Insider Risk Management: modelos de política para violações de política de segurança por usuários prioritários e usuários de saída | Visualização pública |
+| | Insider Risk Management: modelos de política para violações de política de segurança por usuários insatisfeitos | No backlog de engenharia  |
+| | Insider Risk Management: Personalização de política, verificação de saúde da política e assistente de criação de política aprimorado  | Visualização pública  |
 | | Gerenciamento de Riscos Do Insider: Grupos de usuários prioritários  | Visualização pública  |
 | | Gerenciamento de riscos do Insider: suporte a gatilhos nativos para Azure Active Directory exclusão de conta | Visualização pública  |
 | | Gerenciamento de Riscos do Insider: trilha de auditoria "Assista ao watcher" | Visualização pública  |
@@ -203,16 +202,16 @@ Para atender aos requisitos de nossos clientes de nuvem governamental, há algum
 | | Auditoria Avançada: retenção de longo prazo em logs de auditoria (10 anos)  | Em implantação  |
 | | Auditoria Avançada: eventos de envio de email e envio de emails  | Disponível  |
 | | Auditoria Avançada: Disponibilidade do Centro de Conformidade e Segurança  | Disponível  |
-| | Auditoria Avançada: eventos de termos de pesquisa no Exchange Online e SharePoint Online  | Em implantação  |
+| | Auditoria Avançada: eventos de termos de pesquisa no Exchange Online e SharePoint Online  | No desenvolvimento  |
 | | Auditoria Avançada: Teams reações em mensagens  | No backlog de engenharia  |
 | **Gerenciamento de Conformidade** | | |
 | Gerenciamento de Conformidade  | Centro de conformidade do Microsoft 365  | Disponível  |
-| | Segurança no aplicativo na nuvem da Microsoft  | Disponível  |
+| | Microsoft Cloud App Security  | Disponível  |
 | | Gerenciador de Conformidade  | Disponível  |
 | | Suporte a caracteres de byte duplo  | Disponível  |
 | **Ecossistema** | | |
-| Ecossistema  | Conectores de dados de primeira parte: RH  | Disponível  |
-| | Conectores de dados de primeira parte: Instant Bloomberg, Bloomberg Mail, LinkedIn Business pages, ICE Chat  | No desenvolvimento  |
+| Ecossistema  | Conectores de dados de primeira parte: RH  | No desenvolvimento |
+| | Conectores de dados de primeira parte: problemas físicos  | No desenvolvimento  |
 | | Graph APIs para Advanced eDiscovery  | No backlog de engenharia  |
 
 <sup>1</sup> O status identificado está sujeito a alterações à medida que os planos e prioridades do projeto são reavaliados.<br/>

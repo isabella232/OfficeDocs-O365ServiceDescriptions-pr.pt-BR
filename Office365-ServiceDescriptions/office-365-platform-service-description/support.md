@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-support
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Com cada Microsoft Office 365 para assinatura corporativa, empresarial, educacional e governamental, o Suporte da Microsoft fornece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do Centro de administração do Microsoft 365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte Opções de Suporte da Microsoft.
-ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701650"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670026"
 ---
 # <a name="support"></a>Suporte
 

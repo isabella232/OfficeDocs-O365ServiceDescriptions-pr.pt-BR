@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Para atender aos requisitos exclusivos e em evolução dos governos Federal, Estadual, Local e Tribal dos Estados Unidos, bem como os prestadores de serviços que têm ou processam dados em nome do Governo dos EUA, a Microsoft oferece serviços Office 365 us government Community (GCC). Disponíveis por meio de vários canais, incluindo o Licenciamento por Volume, as organizações interessadas passam por um processo de validação para garantir a qualificação, antes do estabelecimento de um ambiente. No momento, há avaliações disponíveis apenas para entidades do Governo dos EUA.
-ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: fedaed2bc6f0e4aea2d4cc1d92584b7e7c2f3c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701880"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671060"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -56,7 +56,7 @@ Yammer para empresas não é um componente do Office 365 Government, mas pode se
   
 No momento, o Yammer fornece separação lógica dos dados do cliente na camada do aplicativo. No entanto, Yammer não fornece o mesmo local de dados e recursos de acesso a dados que o Office 365 Government, não oferece suporte à credencial fedRAMP e está sujeito a diferentes termos de contrato dos serviços Office 365. É recomendável que você revise a descrição [Yammer de](../../yammer-service-description/yammer-service-description.md) serviço e os termos de privacidade ao avaliar o uso apropriado do Yammer para sua organização. Para saber quais Office 365 Government planos incluem Yammer, [consulte Office 365 Government](office-365-us-government.md).
   
-Se você decidir que o uso do Yammer é apropriado para sua organização como parte de sua assinatura do Office 365 Government e tiver comprado um dos planos mencionados acima que inclui o Yammer, em seu Registro Enterprise, você poderá solicitar uma alteração para habilitar seu Yammer para assinatura corporativa.
+Se você decidir que o uso do Yammer é apropriado para sua organização como parte de sua assinatura do Office 365 Government e tiver comprado um dos planos mencionados acima que inclui o Yammer, em seu Registro Enterprise, você poderá solicitar uma alteração para habilitar seu Yammer para assinatura corporativa .
   
 ## <a name="office-365-government-gcc-customer-support"></a>Office 365 Government GCC suporte ao cliente
 

@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - project-online-service-description
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online é uma solução online flexível para gerenciamento de portfólio de projetos (PPM) e trabalho diário. Entregue por meio Office 365, o Project Online fornece recursos avançados de gerenciamento de projetos para planejamento, priorização e gerenciamento de projetos e investimentos em portfólio de projetos— de praticamente qualquer lugar em praticamente qualquer dispositivo. O Project Online pode ser usado por administradores, visualizadores e gerentes de portfólio, gerentes de projeto e de recursos, e líderes e membros de equipe.
-ms.openlocfilehash: 6167bf8ebb384bc0e8968004e55d188fb4a194af
-ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
+ms.openlocfilehash: df6f4ffc3d8c95ab3b4882a7d337e7f880f3b368
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505695"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672554"
 ---
 # <a name="microsoft-project-service-description"></a>Descrição do serviço do Microsoft Project
 
-## <a name="overview"></a>Visão Geral
+## <a name="overview"></a>Visão geral
 
 Microsoft Project oferece os seguintes aplicativos para ajudar a atender às necessidades da sua organização para gerenciamento de projetos e trabalho:
 
@@ -258,7 +258,7 @@ Se o fluxo estiver isolado e não tiver nada a ver com o aplicativo Project, uma
 |Classificação e agrupação | Use a classificação e o agrupamento personalizados para obter uma visão focada de seu projeto, tarefas e recursos.|
 |**Personalização e integração**||
 |Campos personalizados | Adicione campos personalizados no nível de projeto, tarefa e recurso para rastrear dados importantes para sua organização e projetos. |
-|Formulários | Crie e implante formulários personalizados para capturar dados importantes do projeto. |
+|Forms | Crie e implante formulários personalizados para capturar dados importantes do projeto. |
 |Fórmulas | Calcular e capturar dados importantes usando fórmulas em tarefas e projetos. |
 |Modelos | Crie modelos para projetos comuns, incluindo planos de projeto, equipes e atribuições. |
 |Importação/exportação .mpp | Crie novos projetos a partir de arquivos .mpp existentes ou crie um arquivo .mpp de um projeto existente. |
@@ -316,7 +316,7 @@ Project para a Web tem algumas limitações, que são descritas na tabela a segu
 
 | Entidade/campo | Limite |
 |-------------|-------|
-|**Task** ||
+|**Tarefa** ||
 |Máx. nível de hierarquia para tarefa | 10 níveis |
 |Máx. links (sucessora + predecessora) para uma tarefa | 20 |
 |Máx. duração da tarefa folha | 1250 dias |

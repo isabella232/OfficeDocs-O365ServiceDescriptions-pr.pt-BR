@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluam Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: 596d0663c91a7ed3c2e423301a90fddaee7908b5d1da04e4d04f860c0c31ae14
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663984"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672064"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 

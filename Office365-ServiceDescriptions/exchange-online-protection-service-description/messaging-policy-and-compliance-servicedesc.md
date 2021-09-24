@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Leia este artigo para saber mais sobre a política de mensagens e os recursos de conformidade no Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8bd7b752191f6304d95f079984a281b25169352f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664104"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672302"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Política e conformidade de mensagens em Proteção do Exchange Online
 
@@ -70,7 +70,7 @@ Criptografia de Mensagens do Office 365, uma parte da Proteção de Informaçõe
 |:-----|:-----|:-----|:-----|
 |Regras do fluxo de email|Sim<sup>1</sup>|Sim<sup>1</sup>|Sim<sup>1, 3</sup>|
 |Registro em log de auditoria|Sim<sup>2</sup>|Sim|Sim|
-|DLP (Prevenção de perda de dados)|Não|Sim|Sim<sup>3</sup>|
+|Prevenção de perda de dados (DLP)|Não|Sim|Sim<sup>3</sup>|
 |Criptografia de Mensagem do Office 365|Sim<sup>4</sup>|Sim|Sim<sup>4</sup>|
 
 > [!NOTE]

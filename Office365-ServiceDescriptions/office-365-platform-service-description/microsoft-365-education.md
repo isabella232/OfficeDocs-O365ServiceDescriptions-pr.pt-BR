@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Saiba mais sobre as diferenças entre Microsoft 365 e Office 365 Education planos.
-ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54662994"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670306"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -37,7 +37,7 @@ Cada Microsoft 365 Education plano inclui vários serviços individuais, como Ex
 |OneDrive for Business|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Microsoft Teams|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Skype for Business online|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
-|Project|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|
+|Projeto|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|Não<sup>5</sup>|
 |Yammer Academic|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Microsoft Stream|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
 |Microsoft Planner|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|Sim|
@@ -103,7 +103,7 @@ Cada Microsoft 365 Education plano inclui vários serviços individuais, como Ex
 |SharePoint<sup>7</sup>|Não|Não|Não|Sim<sup>8</sup>|Sim|Não|Não|Não|Não|
 |Skype for Business<sup>7</sup>|Não|Não|Não|Sim<sup>8</sup>|Sim|Não|Não|Não|Não|
 |Windows Cal do Servidor|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
-|Microsoft Endpoint Configuration Manager|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
+|Gerenciador de Configuração do Microsoft Endpoint|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
 |System Center Endpoint Protection|Não|Não|Não|Sim|Sim|Não|Não|Não|Não|
 
 > [!NOTE]

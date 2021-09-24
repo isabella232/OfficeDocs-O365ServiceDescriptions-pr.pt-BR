@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: O Centro de Conformidade de Segurança foi projetado para ajudá-lo a gerenciar recursos de &amp; conformidade Office 365 sua organização. Os links de recursos de conformidade existentes do SharePoint e do Exchange reúnem recursos de conformidade no Office 365.
-ms.openlocfilehash: 53b1c2c0f9f2af8fd287a2466d33b076ae4ba039
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: e703a630cd2300bff85d465be89ce865c572d6a4
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363598"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671285"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 

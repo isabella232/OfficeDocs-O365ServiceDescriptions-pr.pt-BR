@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: O Microsoft Defender for Office 365 é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malwares e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663094"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670336"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -43,7 +43,7 @@ A tabela a seguir lista os principais recursos do Microsoft Defender Office 365 
 |---------|--------------------------------|--------------------------------|--------------------------------|
 | *Configuração, proteção e detecção* | | | |
 | Políticas de segurança predefinidas e Analisador de Configuração | Sim | Sim | Sim |
-| [Anexos seguros](microsoft-defender-for-office-365-features.md#safe-attachments) | Sim | Sim | Sim |
+| [Anexos Seguros](microsoft-defender-for-office-365-features.md#safe-attachments) | Sim | Sim | Sim |
 | Cofre Anexos no Teams | Sim | Sim | Sim |
 | [Links Seguros](microsoft-defender-for-office-365-features.md#safe-links) | Sim | Sim | Sim |
 | [Documentos Seguros](microsoft-defender-for-office-365-features.md#safe-documents) | Não | Não | Sim |

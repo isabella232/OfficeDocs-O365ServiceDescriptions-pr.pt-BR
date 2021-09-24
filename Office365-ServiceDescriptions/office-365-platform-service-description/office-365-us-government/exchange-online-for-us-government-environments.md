@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem governamental dos EUA e a nuvem comercial, conforme listado na descrição Exchange Online serviço.
-ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702303"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671070"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online ambientes governamentais dos EUA
 
@@ -75,7 +75,7 @@ A tabela a seguir descreve se os recursos Exchange Online especificados estão d
 |Quarentena - gerenciamento de administrador|Sim|Sim|Sim||
 |Quarentena - auto-gerenciamento de usuário final|Sim|Sim|Sim||
 |Microsoft Defender para Office 365|Sim|Sim|Sim|Requer plano de serviço G5 (ou compra de complemento).<br><br>O anti-phishing para a representação de usuário e domínio e a inteligência de spoof ainda não estão disponíveis no GCC High e DoD.|
-|**[Fluxo de emails](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
+|**[Fluxo de mensagens](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Roteamento personalizado de emails de saída|Sim|Sim|Sim||
 |Secure messaging with a trusted partner|Sim|Sim|Sim||
 |Conditional mail routing|Sim|Sim|Sim||

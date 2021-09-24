@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-updates
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para saber mais Office 365 recursos que foram lançados ou estão prestes a ser lançados, confira o Microsoft 365 Roadmap.
-ms.openlocfilehash: 2ead1c43f81842924a8d0f63ae167721515545fab52fed760d21396e9fe9472c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 12d584da92350d5139bd2acdd8eb423e6f5b5131
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701780"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672857"
 ---
 # <a name="service-updates"></a>Atualizações de serviço
 

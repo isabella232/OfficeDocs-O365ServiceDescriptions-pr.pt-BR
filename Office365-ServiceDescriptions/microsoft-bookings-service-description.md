@@ -6,14 +6,14 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Saiba mais sobre as opções de plano e os recursos disponíveis no Microsoft Bookings.
-ms.openlocfilehash: b2125c2c2b0eb163cfcefce472c2eb299cb87e090bd507baa0f857b5ababdbaf
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77454f65643fee7892a0c0d7fd9b8c4750e87bd7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663244"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670363"
 ---
 # <a name="microsoft-bookings-service-description"></a>Descrição do serviço Microsoft Bookings
 
@@ -58,7 +58,7 @@ Para os termos e condições de licenciamento de produtos e serviços adquiridos
 
 ### <a name="messaging"></a>Mensagens
 
-Para acompanhar as mudanças futuras, incluindo recursos novos e alterados, manutenções planejadas ou outros anúncios importantes, visite a Central de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
+Para acompanhar as alterações futuras, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, [Centro de Mensagens](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Acessibilidade
 

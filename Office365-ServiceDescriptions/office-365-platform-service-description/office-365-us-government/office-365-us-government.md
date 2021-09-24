@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Em resposta aos requisitos exclusivos e em evolução do setor público dos Estados Unidos, a Microsoft criou planos do Office 365 para o Governo norte-americano (ou Office 365 Government). Este artigo fornece uma visão geral dos recursos que são específicos Office 365 Government ambientes dos EUA.
-ms.openlocfilehash: 5c98a1518149b69b625f2936ba690f3a251d4966
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: d97aa4d3824e594bd27fbb5d3a4a753af74353fb
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702293"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671050"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -79,7 +79,7 @@ Office 365 Government serviços são fornecidos de datacenters fisicamente local
 > [!NOTE]
 > Normalmente, o Skype for Business não armazena conteúdo de clientes, mas se ocorrer algum armazenamento, ele será feito em datacenters nos EUA.
 
-Se os usuários estão localizados nos EUA enquanto usam o Office para a Web (anteriormente conhecido como aplicativos Web do Office) ou se você adotar o uso do AD FS (Serviços de Federação do Active Directory) 2.0 e configurar políticas para ajudar a garantir que seus usuários se conectem aos serviços por meio de uma única conexão, qualquer conteúdo do cliente temporariamente armazenado em cache no Office para a Web estará localizado nos EUA.
+Se os usuários estão localizados nos EUA enquanto usam o Office para a Web (anteriormente conhecido como aplicativos Web do Office) ou se você adotar o uso do AD FS (Serviços de Federação do Active Directory) 2.0 e configurar políticas para ajudar a garantir que seus usuários se conectem aos serviços por meio de uma única conexão, qualquer conteúdo do cliente temporariamente armazenado em cache no Office para a Web estará localizado em  os EUA.
 
 A página de uso do site para SharePoint sites está disponível para planos governamentais, embora por conformidade, existem alguns recursos desta página que estão disponíveis apenas para clientes comerciais. Para saber mais, confira [Página de uso do site para SharePoint sites em Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 
@@ -144,7 +144,7 @@ Cada plano do Office 365 inclui alguns serviços individuais, como o Exchange On
 |---|---|---|---|---|
 |Exchange Online|Sim|Sim|Sim|Sim|
 |Proteção do Exchange Online|Sim|Sim|Sim|Sim|
-|Microsoft 365 Apps para Grandes Empresas|Não|Sim|Sim|Não|
+|Microsoft 365 Apps para empresas|Não|Sim|Sim|Não|
 |Office na Web|Sim|Sim|Sim|Sim|
 |OneDrive for Business|Sim|Sim|Sim|Sim|
 |Power BI Pro|Não<sup>2</sup>|Não<sup>2</sup>|Sim|Não<sup>2</sup>|
@@ -192,7 +192,7 @@ A tabela a seguir exibe os recursos e serviços da plataforma que estão dispon�
 |**[Gerenciamento de contas de usuário](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |Identidade de nuvem|Sim|Sim|Sim|Sim|
 |Identidade federada (logon único)|Sim|Sim|Sim|Sim|
-|Multi-factor Authentication|Sim|Sim|Sim|Sim|
+|Autenticação multifator|Sim|Sim|Sim|Sim|
 |Telefone fator|Sim<sup>9</sup>|Sim<sup>9</sup>|Sim|Sim<sup>9</sup>|
 |Configuração de área de trabalho do Office 365|Não|Sim|Sim|Não|
 |Gerenciar usuários com o Office 365|Sim|Sim|Sim|Sim|
