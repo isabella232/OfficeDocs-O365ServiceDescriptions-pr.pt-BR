@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encontre os limites do Exchange Online para diversas áreas de serviço, incluindo limites de catálogo de endereços, limites de armazenamento de caixa de correio e limites de rastreamento de mensagem e relatórios, para mencionar apenas alguns exemplos.
-ms.openlocfilehash: c8d2fd228befb43e00b093951508e0084b12ce99
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 1ed73cefdc275e52b03c7f297b1596eaef5606fb
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363588"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672101"
 ---
 # <a name="exchange-online-limits"></a>Limites do Exchange Online
 
@@ -275,6 +275,7 @@ Os limites a seguir são aplicados a todas as mensagens de email.
 |Limite de tamanho de anexo de arquivo - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |Limite de tamanho de anexo de arquivo - OWA |112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|
 |Limite de tamanho de anexo de arquivo - Outlook para Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|Limite de tamanho do anexo de arquivos - Novo Outlook para Mac|33 MB|33 MB|33 MB|33 MB|33 MB|33 MB|
 |Limite de tamanho de anexo de arquivo - Outlook para iOS e Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |Limite de mensagem com várias partes|250 partes|250 partes|250 partes|250 partes|250 partes|250 partes|
 |Limite de profundidade de mensagem inserida|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|30 mensagens inseridas|

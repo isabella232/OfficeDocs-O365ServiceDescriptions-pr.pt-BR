@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Visualize quais recursos do OneDrive estão disponíveis em quais planos.
-ms.openlocfilehash: f69eecbffac6b8c444209b338c96478422a4ef03ffcb7f33fe4193ee53330cfd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4d35862b6cb6d27f866537e535b4001159d3e853
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702720"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669956"
 ---
 # <a name="onedrive-service-description"></a>Descrição do serviço OneDrive
 
@@ -37,12 +37,14 @@ A tabela a seguir lista os principais recursos do OneDrive disponíveis nos plan
 
 | Recurso | Planos autônomos | Pequena empresa | Corporativo | Educação | Governo | Sem fins lucrativos  |
 |---------|-------------------|----------------|------------|-----------|------------|-------------|
-| Armazenamento | Sim | Sim | Sim | Sim | Sim | Sim |
+| Armazenamento<sup>1</sup> | Sim | Sim | Sim | Sim | Sim | Sim |
 | Recursos de sincronização | Sim | Sim | Sim | Sim | Sim | Sim |
 | Recursos de compartilhamento e colaboração | Sim | Sim | Sim | Sim | Sim | Sim |
 | Recursos da Web | Sim | Sim | Sim | Sim | Sim | Sim |
 | Recursos móveis | Sim | Sim | Sim | Sim | Sim | Sim |
 | Recursos de administração, segurança e conformidade de TI | Sim | Sim | Sim | Sim | Sim | Sim |
+
+<sup>1</sup> Para obter informações sobre o armazenamento do OneDrive por usuário, verifique o OneDrive na [Comparação de Plano de Trabalho Moderno](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="learn-more"></a>Saiba mais
 
@@ -50,6 +52,7 @@ Para obter informações técnicas sobre o [OneDrive](https://www.microsoft.com/
 
 - [OneDrive](/onedrive/onedrive)
 - [Blog do Microsoft OneDrive](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
+- Para a maioria dos planos de assinatura, o espaço de armazenamento padrão do OneDrive para cada usuário é de 1 TB. Dependendo do seu plano e do número de usuários licenciados, você pode aumentar esse armazenamento para até 5 TB. Para obter mais informações, consulte os **Recursos principais** em [Comparar preços e planos de armazenamento em nuvem do OneDrive](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2).
 
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
