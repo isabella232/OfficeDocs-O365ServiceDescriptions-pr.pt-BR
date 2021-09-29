@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Confira quais recursos estão disponíveis nos planos Yammer diferentes.
-ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673085"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986137"
 ---
 # <a name="yammer-service-description"></a>Descrição do serviço do Yammer
 
@@ -49,6 +49,20 @@ A tabela a seguir lista os principais Yammer recursos disponíveis. Esta tabela 
 ## <a name="messaging"></a>Mensagens
 
 Para se manter informado das próximas alterações, incluindo recursos novos e alterados, manutenção planejada ou outros comunicados importantes, visite o Centro de Mensagens. Para obter mais informações, consulte [Centro de mensagens](/microsoft-365/admin/manage/message-center).
+
+## <a name="communication-channels"></a>Canais de comunicação
+
+Os canais usados para se comunicar dependerão do impacto.
+
+
+| Tipo de alteração | Office 365 Central [de Mensagens](/microsoft-365/admin/manage/message-center) | Roteiro do Microsoft 365. | Yammer Blog Community de tecnologia, por exemplo, Roundups mensais | Comunidade externa, Twitter |
+|---------|---------|---------|---------|---------|
+|**Alterações que exigem ação (plano** de alteração) - Alterações que exigem ação do administrador para manter o serviço em execução, atualizações que podem ter um impacto na conformidade da sua organização | Sim | Sim | Sim | Sim |
+| **Alterações que exigem reconhecimento (mantenha-se informado)** - Alterações que não exigem ação de administrador, alterações de design visual | Sim | Sim | Sim | Sim |
+
+> [!NOTE]
+> Com alterações que afetam um conjunto de usuários direcionados, podemos notificar esses usuários diretamente.</br>
+> As alterações que não são críticas e não exigem ação ou reconhecimento não serão comunicadas amplamente (mesmo que possam ser observáveis por alguns usuários).
 
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer política de comunicação do serviço empresarial
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece uma visão geral das diferenças de recursos entre a nuvem governamental dos EUA e a nuvem comercial, conforme listado na descrição Exchange Online serviço.
-ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 2845e26e40552f364d2f8f6a0ec2746d35e13330
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671070"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986127"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online ambientes governamentais dos EUA
 
@@ -121,7 +121,7 @@ A tabela a seguir descreve se os recursos Exchange Online especificados estão d
 |Basic Mobility and Security for Microsoft 365|Sim|Não|Não||
 |POP e IMAP|Sim|Sim|Sim||
 |SMTP|Sim|Sim|Sim||
-|Suporte a aplicativos EWS|Sim|Sim|Sim||
+|Suporte ao aplicativo EWS<sup>2</sup>|Sim|Sim|Sim||
 |**[Serviços de mensagens de voz](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Caixa postal|Não|Não|Não|Não há suporte para integração de sistemas IP-PBX locais Exchange Online Unificação de Mensagens.|
 |Integração entre caixa postal e FAX de terceiros|Não|Não|Não|Não há suporte para integração de sistemas IP-PBX locais Exchange Online Unificação de Mensagens.|
@@ -147,7 +147,8 @@ A tabela a seguir descreve se os recursos Exchange Online especificados estão d
 |**[Estendendo o serviço - personalização, complementos e recursos](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC Alta**|**DoD**|**Principais considerações**|
 |Outlook e Outlook MAPI|Sim|Sim|Sim|Somente alguns OWA e Outlook estão disponíveis no GCC High e DoD. Consulte [Add-ins in Outlook e Outlook Web App](#add-insin-outlook-and-outlook-web-app) neste artigo.|
 
-<sup>1</sup> Outlook na Web pode ser usado em cenários quando o Outlook para Windows não consegue exibir as mensagens protegidas por IRM devido a restrições de limites cruzados (GCC cenários High /Non-GCC High).
+<sup>1</sup> Outlook na Web pode ser usado em cenários quando o Outlook para Windows não consegue exibir as mensagens protegidas por IRM devido a restrições de limites cruzados (GCC cenários High /Non-GCC High).</br>
+<sup>2</sup> Somente saída para espaços de endereço específicos que o cliente pode provar que possui são permitidos, portanto, isso exclui serviços de terceiros e amplos intervalos DE IP usados por dispositivos móveis.
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Nuances de recursos em GCC ambientes High e DoD
 

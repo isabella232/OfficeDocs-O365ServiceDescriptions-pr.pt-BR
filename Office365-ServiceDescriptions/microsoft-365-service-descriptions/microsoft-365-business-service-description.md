@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium é uma solução integrada que reúne a melhor produtividade da classe com recursos avançados de gerenciamento de dispositivos e segurança para ajudar a proteger sua empresa. Esta descrição de serviço descreve as opções e recursos do plano.
-ms.openlocfilehash: 8815a1ab8ec1dc7901e04e7b7a972d6ec8b78151
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 0699b9a6841f1972e141bb52642c10e25dd141a2
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671656"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986147"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descrição do serviço Microsoft 365 Business Premium
 
@@ -44,7 +44,7 @@ Microsoft 365 Business Premium inclui essencialmente todos os recursos disponív
 |Microsoft Stream  <br/> |Sim<sup>6</sup>  <br/> |Sim<sup>6</sup>  <br/> |
 |[Microsoft 365 administração](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Ferramenta de sincronização Conexão do Azure AD<br/> |Sim  <br/> |Sim  <br/> |
-|[Ativação de computador compartilhado](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |Não <br/> |Sim  <br/> |
+|[Ativação de computador compartilhado](/DeployOffice/overview-shared-computer-activation) <br/> |Não <br/> |Sim  <br/> |
 |[Política e conformidade de mensagens](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Arquivamento de longo prazo de caixas de correio Exchange Online baseadas em dados  <br/> |Não  <br/> |Sim<sup>3</sup> <br/> |
 |Plano 1 de Proteção de Informações do Azure |Não <br/>|Sim<sup>2</sup> </br>|
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium inclui essencialmente todos os recursos disponív
 ### <a name="notes"></a>Observações
 <sup>1</sup> Inclui Exchange Online Plano 1.<br/>
 <sup>2</sup> A Proteção de Informações do Azure (AIP) habilita os recursos de Gerenciamento de Direitos de Informação (IRM) suportados. O Plano 1 da AIP está incluído no Microsoft 365 Business Premium. <br/>
-<sup>3</sup> Microsoft 365 Business Premium inclui Arquivamento do Exchange Online assinatura. Cada assinante do Arquivamento do Exchange Online recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em [Visão geral do arquivamento ilimitado](/office365/securitycompliance/unlimited-archiving). <br/>
+<sup>3</sup> Microsoft 365 Business Premium inclui Exchange Plano 1 e Arquivamento do Exchange Online está incluído apenas no Exchange Plano 2 (E3/E5). O arquivo morto baseado em nuvem e a espera in-locar podem ser comprados como complemento. Cada assinante do Arquivamento do Exchange Online recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em [Visão geral do arquivamento ilimitado](/office365/securitycompliance/unlimited-archiving). <br/>
 <sup>4</sup> Disponível em [https://securescore.office.com](https://securescore.office.com) . Requer permissões de administrador. Para obter mais informações, consulte [Microsoft Secure Score](/office365/securitycompliance/microsoft-secure-score).<br/>
 <sup>5</sup> Gerenciamento de Windows 10 de dispositivos simplificado integrado ao Centro de administração do Microsoft 365. Recursos de gerenciamento do Intune de iOS, Android, macOS e outros gerenciamentos de dispositivos entre plataformas integrados ao Centro de administração de gerenciamento de dispositivos, também licenciados para uso com Microsoft 365 Business Premium. Aplicativos de terceiros e configuração de coisas como perfis WiFi e certificados VPN também podem ser gerenciados no Centro de administração de gerenciamento de dispositivos. <br/>
 <sup>6</sup> Este plano vem com o Plano 2 do Microsoft Stream, que inclui portal de vídeo, fala para transcrição de texto, Pesquisa Profunda e Detecção de Face.<br/>
