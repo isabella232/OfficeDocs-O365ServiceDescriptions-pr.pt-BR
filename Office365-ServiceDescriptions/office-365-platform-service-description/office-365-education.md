@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: O Microsoft Office 365 está disponível em uma variedade de planos para atender melhor às necessidades da sua organização. Se você estiver procurando as diferenças entre os planos Office 365 educação, este artigo mostrará quais recursos estão incluídos em cada um deles. Office 365 combina o conjunto de áreas de trabalho Microsoft Office familiar com versões baseadas em nuvem dos serviços de comunicação e colaboração de última geração da Microsoft, incluindo &mdash; Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para a Web e o Microsoft Skype for Business Online para ajudar os usuários a serem produtivos de &mdash; praticamente qualquer lugar através da Internet.
-ms.openlocfilehash: 55e285a62f2e4a955e88a416f40c800ad1489ff7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 15bce797a898f3db0260842850a9d54c5c08ec21
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671404"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015647"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -31,17 +31,17 @@ Cada Office 365 de educação inclui vários serviços individuais, como Exchang
   
 | Serviço | Office 365 A1 | Office 365 A3 | Office 365 A5<sup>3</sup> |
 |:-----|:-----|:-----|:-----|
-|Office 365 plataforma  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Exchange Online  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
-|SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|OneDrive for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business Online  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
-|Office na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Aplicativos do Office  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Projeto  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
-|Power BI  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Yammer Academic  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Proteção de Informações do Azure<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|Office 365 plataforma  |Sim  |Sim  |Sim  |
+|Exchange Online  |Sim<sup>5</sup> |Sim<sup>4</sup> |Sim<sup>4</sup> |
+|SharePoint Online  |Sim  |Sim  |Sim  |
+|OneDrive for Business  |Sim  |Sim  |Sim  |
+|Skype for Business Online  |Sim<sup>7</sup> |Sim<sup>6</sup> |Sim<sup>6</sup> |
+|Office na Web  |Sim  |Sim  |Sim  |
+|Aplicativos do Office  |Não  |Sim  |Sim  |
+|Projeto  |No<sup>1</sup> |No<sup>1</sup> |No<sup>1</sup> |
+|Power BI  |Não  |Não  |Sim  |
+|Yammer Academic  |Sim  |Sim  |Sim  |
+|Proteção de Informações do Azure<sup>2</sup> |Sim  |Sim  |Sim  |
    
 > [!NOTE]
 > <sup>1</sup> Microsoft Project não está incluído no Office 365, mas pode ser adquirido separadamente. Project Online O Essentials é gratuito. Se você for um aluno ou uma instituição educacional, poderá estar qualificado para comprar o Project Plano 3 e o Plano 5 a preços educacionais.   <br/> 
@@ -64,118 +64,118 @@ A tabela a seguir lista todos os recursos da plataforma que estão disponíveis 
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**[Recursos de Administração do Office 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||
-|Administrar Office 365 usando o Centro de administração do Microsoft 365 ou Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Proteger o conteúdo usando a Proteção de Informações do Azure  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Recursos do Pacote do Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft Bookings  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Email do Microsoft Briefing<sup>10</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Power Automate  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Forms  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|API do Microsoft Graph  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft MyAnalytics<sup>9</sup>  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Planner  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft PowerApps  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft StaffHub  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Stream<sup>8</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Sway  <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
-|Microsoft Teams  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Office Delve  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Grupos do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Bloco de Anotações de Classe do OneNote  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Gerenciamento de contas de usuário](user-account-management.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Identidade de nuvem, Identidade Federada ou Autenticação Multifator  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Configuração de área de trabalho do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Upload em massa usando arquivos. csv  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Ferramenta de Sincronização de Diretórios  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Migração simples (substituição) do Exchange  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Excluir contas e redefinir senhas de usuário Office 365 ou usando Windows PowerShell<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Os usuários podem alterar sua própria senha<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciar licenças<sup>4</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciar grupos de segurança do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Várias funções de administrador disponíveis  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Permitir que um parceiro administre o Office 365 para você  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Serviços do Azure Active Directory  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Domínios](domains.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Adicionar domínios de segundo nível personalizados, como fourthcoffee.com  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Adicionar domínios de terceiro nível personalizados, como marketing.fourthcoffee.com  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Adicionar até 900 domínios personalizados  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Registros DNS gerenciados pelo Office 365 (redelegação completa)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Registros DNS gerenciados em seu provedor de hospedagem de DNS (redelegação parcial)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Use o domínio **nome.onmicrosoft.com** ou um nome de domínio personalizado para endereços de email e para o Skype for Business online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Usar o **nome.sharepoint.com** para o seu site de equipe  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Usar um domínio personalizado para seu site de equipe  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Hospedar um site público com um provedor diferente  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Usar um provedor diferente para email e IM  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Verificação de propriedade de domínio necessária para domínios personalizados  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Continuidade e integridade do serviço](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Status dos alertas individuais disponíveis no painel Centro de administração do Microsoft 365 painel  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|RSS feed de Integridade do serviço  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Relatórios](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Caixas postais ativas e inativas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Caixas de correio novas e excluídas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Grupos novos e excluídos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Uso da caixa de correio  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Tipos de conexões da caixa de correio  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Emails enviados e recebidos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Principais remetentes e destinatários  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Detecções de spam  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Detecções de malware  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Principal malware para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Correspondências de regra para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Principais correspondências de regra para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Principais correspondências de política DLP para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Correspondências de política DLP por gravidade para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Correspondências, substituições e falsos positivos de política DLP para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Principais correspondências de regra DLP para email  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Sessões de mensagens instantâneas e áudio  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Compartilhamento de aplicativos, Webconferência e conferência discada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo, compartilhamento de aplicativos e sessões de transferência de arquivos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Mensagens instantâneas e conferências de áudio/vídeo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatórios de proteção de email para download  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Navegador usado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Sistema operacional usado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Criar seus próprios relatórios usando Microsoft 365 web de relatórios  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Atualizações de serviço](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Atualizações regulares fornecidas a todos os clientes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Notificações enviadas para o Centro de Mensagens quando uma ação é necessária  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Success.office.com/pt-br/roadmap para alguns serviços updates  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Opção para ativar o lançamento Direcionado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Ajuda e treinamento](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Ajuda online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Comunidade  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Outros recursos de autoajuda  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Treinamento individual  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Sistema de rede](networking.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Protocolos IPv4 e IPv6  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**Confiança** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Privacidade, segurança e transparência](privacy-security-and-transparency.md) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciamento de Segurança Avançada  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Defender para Office 365  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Sistema de Proteção de Dados do Cliente  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Advanced eDiscovery<sup>7</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Pontuação<sup>Segura 5</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Inteligência contra Ameaças  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Conformidade](/microsoft-365/compliance/offering-home) <br/> ||||
-|Avaliações SAS 70 / SSAE16  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Certificado ISO 27001  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Cláusulas do modelo da UE  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Safe Harbor da UE  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|HIPAA-Contrato de Associado de Negócios  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Autoridade FISMA para Operar  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Acordo de processamento de dados da Microsoft  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Dados de PAN controlados por PCI  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|[Continuidade do serviço](service-health-and-continuity.md) <br/> ||||
-|**[BlackBerry](blackberry.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Usar BIS (BlackBerry Internet Service)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Parceiros](partners.md) <br/> ||||
-|Criar convites para avaliação e ordens de compra para um cliente que está usando o plano especificado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Fornecer administração delegada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Contrato de Nível de Serviço](service-level-agreement.md) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Direitos de uso do produto](product-use-rights.md) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Recursos de Administração do Office 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** ||||
+|Administrar Office 365 usando o Centro de administração do Microsoft 365 ou Windows PowerShell  |Sim  |Sim  |Sim  |
+|Proteger o conteúdo usando a Proteção de Informações do Azure  |Sim  |Sim  |Sim  |
+|**[Recursos do Pacote do Office 365](office-365-suite-features.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Microsoft Bookings  |Não  |Sim  |Sim  |
+|Email do Microsoft Briefing<sup>10</sup> |Sim  |Sim  |Sim  |
+|Microsoft Power Automate  |Sim  |Sim  |Sim  |
+|Microsoft Forms  |Sim  |Sim  |Sim  |
+|API do Microsoft Graph  |Sim  |Sim  |Sim  |
+|Microsoft MyAnalytics<sup>9</sup>  |Não  |Sim  |Sim  |
+|Microsoft Planner  |Sim  |Sim  |Sim  |
+|Microsoft PowerApps  |Sim  |Sim  |Sim  |
+|Microsoft StaffHub  |Sim  |Sim  |Sim  |
+|Microsoft Stream<sup>8</sup> |Sim  |Sim  |Sim  |
+|Microsoft Sway  |Sim<sup>6</sup> |Sim<sup>6</sup> |Sim<sup>6</sup> |
+|Microsoft Teams  |Sim  |Sim  |Sim  |
+|Office Delve  |Sim  |Sim  |Sim  |
+|Grupos do Office 365  |Sim  |Sim  |Sim  |
+|Vídeo do Office 365  |Sim  |Sim  |Sim  |
+|Bloco de Anotações de Classe do OneNote  |Sim  |Sim  |Sim  |
+|**[Gerenciamento de contas de usuário](user-account-management.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Identidade de nuvem, Identidade Federada ou Autenticação Multifator  |Sim  |Sim  |Sim  |
+|Configuração de área de trabalho do Office 365  |Sim  |Sim  |Sim  |
+|Upload em massa usando arquivos. csv  |Sim  |Sim  |Sim  |
+|Ferramenta de Sincronização de Diretórios  |Sim  |Sim  |Sim  |
+|Migração simples (substituição) do Exchange  |Sim  |Sim  |Sim  |
+|Excluir contas e redefinir senhas de usuário Office 365 ou usando Windows PowerShell<sup>2</sup> |Sim  |Sim  |Sim  |
+|Os usuários podem alterar sua própria senha<sup>3</sup> |Sim  |Sim  |Sim  |
+|Gerenciar licenças<sup>4</sup> |Sim  |Sim  |Sim  |
+|Gerenciar grupos de segurança do Office 365  |Sim  |Sim  |Sim  |
+|Várias funções de administrador disponíveis  |Sim  |Sim  |Sim  |
+|Permitir que um parceiro administre o Office 365 para você  |Sim  |Sim  |Sim  |
+|Serviços do Azure Active Directory  |Sim  |Sim  |Sim  |
+|**[Domínios](domains.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Adicionar domínios de segundo nível personalizados, como fourthcoffee.com  |Sim  |Sim  |Sim  |
+|Adicionar domínios de terceiro nível personalizados, como marketing.fourthcoffee.com  |Sim  |Sim  |Sim  |
+|Adicionar até 900 domínios personalizados  |Sim  |Sim  |Sim  |
+|Registros DNS gerenciados pelo Office 365 (redelegação completa)  |Sim  |Sim  |Sim  |
+|Registros DNS gerenciados em seu provedor de hospedagem de DNS (redelegação parcial)  |Sim  |Sim  |Sim  |
+|Use o domínio **nome.onmicrosoft.com** ou um nome de domínio personalizado para endereços de email e para o Skype for Business online  |Sim  |Sim  |Sim  |
+|Usar o **nome.sharepoint.com** para o seu site de equipe  |Sim  |Sim  |Sim  |
+|Usar um domínio personalizado para seu site de equipe  |Não  |Não  |Não  |
+|Hospedar um site público com um provedor diferente  |Sim  |Sim  |Sim  |
+|Usar um provedor diferente para email e IM  |Sim  |Sim  |Sim  |
+|Verificação de propriedade de domínio necessária para domínios personalizados  |Sim  |Sim  |Sim  |
+|Compra de domínio automatizado e verificação de domínio disponível para domínios comprados através do Go Daddy  |Sim  |Sim  |Sim  |
+|**[Continuidade e integridade do serviço](service-health-and-continuity.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Informação de status disponível na página **Integridade do serviço** ou **Status do serviço**  |Sim  |Sim  |Sim  |
+|Status dos alertas individuais disponíveis no painel Centro de administração do Microsoft 365 painel  |Sim  |Sim  |Sim  |
+|RSS feed de Integridade do serviço  |Sim  |Sim  |Sim  |
+|**[Relatórios](reports.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Caixas postais ativas e inativas  |Sim  |Sim  |Sim  |
+|Caixas de correio novas e excluídas  |Sim  |Sim  |Sim  |
+|Grupos novos e excluídos  |Sim  |Sim  |Sim  |
+|Uso da caixa de correio  |Sim  |Sim  |Sim  |
+|Tipos de conexões da caixa de correio  |Sim  |Sim  |Sim  |
+|Emails enviados e recebidos  |Sim  |Sim  |Sim  |
+|Principais remetentes e destinatários  |Sim  |Sim  |Sim  |
+|Detecções de spam  |Sim  |Sim  |Sim  |
+|Detecções de malware  |Sim  |Sim  |Sim  |
+|Principal malware para email  |Sim  |Sim  |Sim  |
+|Correspondências de regra para email  |Sim  |Sim  |Sim  |
+|Principais correspondências de regra para email  |Sim  |Sim  |Sim  |
+|Principais correspondências de política DLP para email  |Sim  |Sim  |Sim  |
+|Correspondências de política DLP por gravidade para email  |Sim  |Sim  |Sim  |
+|Correspondências, substituições e falsos positivos de política DLP para email  |Sim  |Sim  |Sim  |
+|Principais correspondências de regra DLP para email  |Sim  |Sim  |Sim  |
+|Sessões de mensagens instantâneas e áudio  |Sim  |Sim  |Sim  |
+|Compartilhamento de aplicativos, Webconferência e conferência discada  |Sim  |Sim  |Sim  |
+|Vídeo, compartilhamento de aplicativos e sessões de transferência de arquivos  |Sim  |Sim  |Sim  |
+|Mensagens instantâneas e conferências de áudio/vídeo  |Sim  |Sim  |Sim  |
+|Relatórios de proteção de email para download  |Sim  |Sim  |Sim  |
+|Navegador usado  |Sim  |Sim  |Sim  |
+|Sistema operacional usado  |Sim  |Sim  |Sim  |
+|Criar seus próprios relatórios usando Microsoft 365 web de relatórios  |Sim  |Sim  |Sim  |
+|**[Atualizações de serviço](service-updates.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Atualizações regulares fornecidas a todos os clientes  |Sim  |Sim  |Sim  |
+|Notificações enviadas para o Centro de Mensagens quando uma ação é necessária  |Sim  |Sim  |Sim  |
+|Success.office.com/pt-br/roadmap para alguns serviços updates  |Sim  |Sim  |Sim  |
+|Opção para ativar o lançamento Direcionado  |Sim  |Sim  |Sim  |
+|**[Ajuda e treinamento](help-and-training.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Ajuda online  |Sim  |Sim  |Sim  |
+|Comunidade  |Sim  |Sim  |Sim  |
+|Outros recursos de autoajuda  |Sim  |Sim  |Sim  |
+|Treinamento individual  |Sim  |Sim  |Sim  |
+|**[Sistema de rede](networking.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Protocolos IPv4 e IPv6  |Sim  |Sim  |Sim  |
+|**Confiança** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|[Privacidade, segurança e transparência](privacy-security-and-transparency.md) |Sim  |Sim  |Sim  |
+|Gerenciamento de Segurança Avançada  |Não  |Sim  |Sim  |
+|Microsoft Defender para Office 365  |Não  |Não  |Sim  |
+|Sistema de Proteção de Dados do Cliente  |Não  |Não  |Sim  |
+|Advanced eDiscovery<sup>7</sup> |Não  |Não  |Sim  |
+|Pontuação<sup>Segura 5</sup> |Sim  |Sim  |Sim  |
+|Inteligência contra Ameaças  |Não  |Não  |Sim  |
+|[Conformidade](/microsoft-365/compliance/offering-home) ||||
+|Avaliações SAS 70 / SSAE16  |Sim  |Sim  |Sim  |
+|Certificado ISO 27001  |Sim  |Sim  |Sim  |
+|Cláusulas do modelo da UE  |Sim  |Sim  |Sim  |
+|Safe Harbor da UE  |Sim  |Sim  |Sim  |
+|HIPAA-Contrato de Associado de Negócios  |Sim  |Sim  |Sim  |
+|Autoridade FISMA para Operar  |Sim  |Sim  |Sim  |
+|Acordo de processamento de dados da Microsoft  |Sim  |Sim  |Sim  |
+|Dados de PAN controlados por PCI  |Não  |Não  |Não  |
+|[Continuidade do serviço](service-health-and-continuity.md) ||||
+|**[BlackBerry](blackberry.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Usar BIS (BlackBerry Internet Service)  |Sim  |Sim  |Sim  |
+|[Parceiros](partners.md) ||||
+|Criar convites para avaliação e ordens de compra para um cliente que está usando o plano especificado  |Sim  |Sim  |Sim  |
+|Fornecer administração delegada  |Sim  |Sim  |Sim  |
+|[Contrato de Nível de Serviço](service-level-agreement.md) |Sim  |Sim  |Sim  |
+|[Direitos de uso do produto](product-use-rights.md) |Sim  |Sim  |Sim  |
    
 > [!NOTE]
 > <sup>1</sup> Office 365 não oferece suporte a nenhum sistema operacional que não seja suportado pelo fabricante.<br/> 
@@ -198,28 +198,28 @@ O [Centro &amp; de Conformidade](/microsoft-365/compliance/go-to-the-securitycom
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|[Acesso ao Centro de &amp; Conformidade de Segurança](/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento de Segurança Avançada](/cloud-app-security/what-is-cloud-app-security) <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento de](/office365/securitycompliance/protect-against-threats)ameaças , como filtragem de email e anti-malware  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Gerenciamento avançado de ameaças](/microsoft-365/security/office-365-security/office-365-ti), como o explorador de ameaças para campanhas de phishing <sup>5</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Sistema de Proteção de Dados do Cliente](/office365/securitycompliance/customer-lockbox-requests) |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Gerenciamento de dispositivo móvel](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Prevenção contra perda de dados](/office365/securitycompliance/data-loss-prevention-policies) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Governança de dados](/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Governança avançada de dados](/office365/securitycompliance/labels)<sup>2</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Pesquisa de conteúdo](/office365/securitycompliance/search-for-content)<br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Casos de Descoberta eDiscovery](/office365/securitycompliance/ediscovery-cases) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Exportação de Descobertas EDiscovery](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta)](/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Arquivamento](/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Políticas manuais de retenção/exclusão](/office365/securitycompliance/retention-policies)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Auditoria unificada](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|[Acesso ao Centro de &amp; Conformidade de Segurança](/office365/securitycompliance/go-to-the-securitycompliance-center) |Sim  |Sim  |Sim  |
+|[Gerenciamento de Segurança Avançada](/cloud-app-security/what-is-cloud-app-security) |Não  |Sim  |Sim  |
+|[Gerenciamento de](/office365/securitycompliance/protect-against-threats)ameaças , como filtragem de email e anti-malware  |Sim  |Sim  |Sim  |
+|[Gerenciamento avançado de ameaças](/microsoft-365/security/office-365-security/office-365-ti), como o explorador de ameaças para campanhas de phishing <sup>5</sup> |Não  |Não  |Sim  |
+|[Sistema de Proteção de Dados do Cliente](/office365/securitycompliance/customer-lockbox-requests) |Não  |Não  |Sim  |
+|[Gerenciamento de dispositivo móvel](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) |Sim  |Sim  |Sim  |
+|[Prevenção contra perda de dados](/office365/securitycompliance/data-loss-prevention-policies) |Sim  |Sim  |Sim  |
+|[Governança de dados](/office365/securitycompliance/retention-policies)<sup>1</sup> |Sim  |Sim  |Sim  |
+|[Governança avançada de dados](/office365/securitycompliance/labels)<sup>2</sup> |Não  |Não  |Sim  |
+|[Pesquisa de conteúdo](/office365/securitycompliance/search-for-content)|Sim  |Sim  |Sim  |
+|[Casos de Descoberta eDiscovery](/office365/securitycompliance/ediscovery-cases) |Sim  |Sim  |Sim  |
+|[Exportação de Descobertas EDiscovery](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) |Sim  |Sim  |Sim  |
+|[Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta)](/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Sim  |Sim  |Sim  |
+|[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> |Não  |Não  |Sim  |
+|[Arquivamento](/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> |Sim  |Sim  |Sim  |
+|[Políticas manuais de retenção/exclusão](/office365/securitycompliance/retention-policies)  |Sim  |Sim  |Sim  |
+|[Auditoria unificada](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> |Sim  |Sim  |Sim  |
    
 > [!NOTE]
 > <sup>1</sup> A governança de dados permite que os usuários criem, publiquem e apliquem rótulos manualmente a documentos; importar dados usando o envio de unidade ou pela rede; e criar e aplicar políticas de retenção/exclusão em cargas de trabalho, usuários e grupos. As políticas de retenção aplicadas às caixas de correio exigem Office 365 Enterprise E3 ou E5. <br/> 
 <sup>2</sup> A governança avançada de dados permite que você mantenha informações importantes e exclua informações sem importância classificando informações com base em uma política de retenção ou exclusão ou ambos. Ele inclui ações inteligentes/automatizadas, como a recomendação de políticas; aplicando rótulos automaticamente aos dados; aplicando rótulos com base em tipos de dados confidenciais ou consultas; e uso de filtros de importação inteligente. Ele também inclui o recurso Supervisão para revisar as comunicações dos funcionários para fins de segurança e conformidade. <br/> 
-<sup>3</sup> Unlimited. <br/> 
+<sup>3</sup> Até 1,5 TB de espaço de armazenamento de arquivo morto. <br/> 
 <sup>4</sup> Advanced eDiscovery é suportado nos Estados Unidos e na região da Europa Ocidental (Países Baixos). Os dados de clientes do Canadá e do Pacífico Asiático são exportados para os Estados Unidos. Os dados de clientes da Europa, do Oriente Médio e da África são exportados para a Europa Ocidental (Países Baixos). <br/> 
 <sup>5</sup> O Microsoft Defender para Office 365 está disponível no Office 365 A5 e como um serviço autônomo para Office 365 A1 e Office 365 A3.<br/>
 <sup>6</sup> Você também pode usar a API Office 365 [Atividade](/office/office-365-management-api/office-365-management-activity-api-reference) de Gerenciamento para recuperar eventos do log de auditoria unificado. <br/>
@@ -230,52 +230,52 @@ Use a tabela a seguir para comparar a disponibilidade de recursos entre Office 3
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Não<sup>3, 4</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Não<sup>3, 4</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |Não<sup>3, 4</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sim<sup>2</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Windows 10 Aplicativos](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Office para Mac para o Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|Outlook para Android  <br/> |Sim<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|**Enterprise valor** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|5 instalações por usuário em PC ou Mac  <br/> |Não<sup>3</sup> <br/> |Sim  <br/> |Sim  <br/> |
-|Provisionamento automatizado de contas de usuário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Interface de usuário multilíngue  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Implantação de push de cliente  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte ao cliente para Exchange local  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte ao cliente para SharePoint local  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Controle de atualizações de software  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Comparação de Banco de Dados  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Virtualização de área de trabalho  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Comparação de planilhas do Excel  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Pesquisa de planilhas do Excel  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Armazenamento e conformidade do Exchange Online e do SharePoint Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte à Política de Grupo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciamento de Direitos de Informação usando a Proteção de Informações do Azure  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Information Rights Management usando o Windows Server AD RMS  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |
-|Suporte a suplementos do Office, ActiveX e BHO  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Acesso de cliente do OneNote aos blocos de anotações no SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Telemetria do Office  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte offline a aplicativos do cliente  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Power Map para Excel  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Power Pivot para Excel  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Power Query para Excel  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Power View para Excel  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Configurações de roaming  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Ativação de computador compartilhado  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte a bloqueio de armazenamento de arquivo baseado em nuvem  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Tocar para localizar e reutilizar conteúdo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Atualizações de versão  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Volume activation (KMS/MAK)  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) |Não<sup>3, 4</sup> |Sim  |Sim  |
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) |Não<sup>3, 4</sup> |Sim  |Sim  |
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) |Não<sup>3, 4</sup> |Sim  |Sim  |
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) |Sim  |Sim  |Sim  |
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) |Não<sup>3</sup> |Sim  |Sim  |
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) |Não<sup>3</sup> |Sim  |Sim  |
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) |Não<sup>3</sup> |Sim  |Sim  |
+|[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) |Sim<sup>2</sup> |Sim  |Sim  |
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) |Não<sup>3</sup> |Sim  |Sim  |
+|[Windows 10 Aplicativos](../office-applications-service-description/office-applications.md#windows-10-apps) |Não<sup>3</sup> |Sim  |Sim  |
+|[Office para Mac para o Office 365](https://go.microsoft.com/fwlink/?linkid=197079) |Não<sup>3</sup> |Sim  |Sim  |
+|[Office Mobile para iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) |Sim<sup>3</sup> |Sim  |Sim  |
+|[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) |Sim<sup>3</sup> |Sim  |Sim  |
+|[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) |Sim<sup>3</sup> |Sim  |Sim  |
+|[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) |Sim<sup>3</sup> |Sim  |Sim  |
+|Outlook para Android  |Sim<sup>3</sup> |Sim  |Sim  |
+|**Enterprise valor** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|5 instalações por usuário em PC ou Mac  |Não<sup>3</sup> |Sim  |Sim  |
+|Provisionamento automatizado de contas de usuário  |Sim  |Sim  |Sim  |
+|Interface de usuário multilíngue  |Não  |Sim  |Sim  |
+|Implantação de push de cliente  |Não  |Sim  |Sim  |
+|Suporte ao cliente para Exchange local  |Não  |Sim  |Sim  |
+|Suporte ao cliente para SharePoint local  |Não  |Sim  |Sim  |
+|Controle de atualizações de software  |Não  |Sim  |Sim  |
+|Comparação de Banco de Dados  |Não  |Sim  |Sim  |
+|Virtualização de área de trabalho  |Não  |Sim  |Sim  |
+|Comparação de planilhas do Excel  |Não  |Sim  |Sim  |
+|Pesquisa de planilhas do Excel  |Não  |Sim  |Sim  |
+|Armazenamento e conformidade do Exchange Online e do SharePoint Online  |Sim  |Sim  |Sim  |
+|Suporte à Política de Grupo  |Não  |Sim  |Sim  |
+|Gerenciamento de Direitos de Informação usando a Proteção de Informações do Azure  |Sim  |Sim  |Sim  |
+|Information Rights Management usando o Windows Server AD RMS  |Sim<sup>1</sup> |Sim<sup>1</sup> |Sim<sup>1</sup> |
+|Suporte a suplementos do Office, ActiveX e BHO  |Não  |Sim  |Sim  |
+|Acesso de cliente do OneNote aos blocos de anotações no SharePoint Server, SharePoint Online, OneDrive for Business e Office 365  |Não  |Sim  |Sim  |
+|Telemetria do Office  |Não  |Sim  |Sim  |
+|Suporte offline a aplicativos do cliente  |Não  |Sim  |Sim  |
+|Power Map para Excel  |Não  |Sim  |Sim  |
+|Power Pivot para Excel  |Não  |Sim  |Sim  |
+|Power Query para Excel  |Não  |Sim  |Sim  |
+|Power View para Excel  |Não  |Sim  |Sim  |
+|Configurações de roaming  |Não  |Sim  |Sim  |
+|Ativação de computador compartilhado  |Não  |Sim  |Sim  |
+|Suporte a bloqueio de armazenamento de arquivo baseado em nuvem  |Não  |Sim  |Sim  |
+|Tocar para localizar e reutilizar conteúdo  |Não  |Sim  |Sim  |
+|Atualizações de versão  |Não  |Sim  |Sim  |
+|Volume activation (KMS/MAK)  |Não  |Não  |Não  |
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS é um servidor local que deve ser comprado e gerenciado separadamente para habilitar os recursos de IRM com suporte. <br/> 
@@ -293,13 +293,13 @@ A tabela a seguir fornece links para comparações de recursos Office para a Web
 > - O Microsoft Microsoft 365 Apps para Grandes Empresas é uma oferta de assinatura mensal do pacote de Office desktop mais recente. <br/>
 > - Microsoft Office Os clientes locais do Servidor Online obterão uma licença de edição Office para a Web caso tenham comprado uma licença de pacote de área de trabalho do Office (como uma licença Office Professional Plus, Office Standard ou Microsoft 365 Apps para Grandes Empresas). 
   
-| Application | Office na Web | Link para a comparação detalhada de recursos |
+| Aplicativo | Office na Web | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
-|Word  <br/> |Word para a Web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel para a Web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote para a Web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint para a Web <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio para a Web  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|Word  |Word para a Web |[Word](../office-online-service-description/office-online-service-description.md#word) |
+|Excel  |Excel para a Web |[Excel](../office-online-service-description/office-online-service-description.md#excel) |
+|OneNote  |OneNote para a Web |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) |
+|PowerPoint  |PowerPoint para a Web |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) |
+|Visio  |Visio para a Web  |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) |
    
 ## <a name="exchange-online-features"></a>Recursos do Exchange Online 
 
@@ -307,116 +307,117 @@ A tabela a seguir lista os Exchange Online que estão disponíveis Office 365 pl
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**[Planejamento e implantação](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
-|Suporte para implantação híbrida  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte para migração IMAP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte para migração de substituição  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte para migração em estágios  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Permissões](../exchange-online-service-description/permissions.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Permissões baseadas em função  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Grupos de função  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Diretivas de atribuição de função  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Política e conformidade de mensagens](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Arquivamento de Caixas de Correio baseadas no Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Arquivamento baseado em nuvem de caixas de correio no local  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Marcas de retenção e políticas de retenção de registros de mensagens (MRM)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Criptografia de dados de tempo de parada (BitLocker)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|IRM usando a Proteção de Informações do Azure  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|IRM usando Windows Server AD RMS  <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |Sim<sup>1</sup> <br/> |
-|Criptografia de Mensagem do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|S/MIME  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> ||
-|Bloqueio In-loco e Retenção de Litígio  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Descoberta Eletrônica In-loco  <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |Sim<sup>8</sup> <br/> |
-|Regras de transporte  <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |Sim<sup>2</sup> <br/> |
-|Prevenção contra perda de dados  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Registro em Diário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Proteção antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Proteção anti-spam integrado  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Customize anti-spam policies  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Proteção anti-malware integrado  <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |Sim<sup>3</sup> <br/> |
-|Customize antimalware policies  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Quarentena - gerenciamento de administrador  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Quarentena - auto-gerenciamento de usuário final  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Microsoft Defender para Office 365  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Roteamento personalizado de emails de saída  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Secure messaging with a trusted partner  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Conditional mail routing  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Adicionar um parceiro a uma lista segura de entrada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Roteamento de email híbrido  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Destinatários](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Alertas de capacidade  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Email secundário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|MailTips  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Acesso de representante  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Regras da caixa de entrada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Contas conectadas  <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |Sim<sup>5</sup> <br/> |
-|Caixas de correio inativas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Offline address book  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Políticas do catálogo de endereços  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Catálogo de endereços hierárquico  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Listas de endereços e Lista de Endereços Globais  <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |Sim<sup>6</sup> <br/> |
-|Grupos do Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Grupos de distribuição  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Contatos externos (global)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Cartão de visita universal  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vínculo de contato com redes sociais  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Caixas de correio de recurso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciamento da sala de conferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Respostas de Ausência Temporária  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Compartilhamento de calendário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Recursos de relatórios e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Relatórios do Centro de administração do Microsoft 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Excel de trabalho de relatório  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatórios de serviços Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Message trace  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatórios de auditoria  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatórios de Unificação de Mensagens  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Compartilhamento e colaboração](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Compartilhamento federado (Incluindo Publicação de Calendário)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Caixas de correio local  <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |Sim<sup>4</sup> <br/> |
-|Pastas públicas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Clientes e dispositivos móveis](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Outlook para Windows <sup>9</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Outlook na Web<sup>9</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Outlook para Mac<sup>9</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Outlook para iOS e Android<sup>9</sup> <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Exchange ActiveSync  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gerenciamento de Dispositivos Móveis para o Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|POP e IMAP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|SMTP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte de Aplicativo EWS  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Serviços de mensagens de voz](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Caixa postal  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Integração entre caixa postal e FAX de terceiros  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Interoperabilidade de caixa postal de terceiros  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business integração  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Alta disponibilidade e continuidade de negócios](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Replicação de caixa de correio em data centers  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Recuperação da caixa de correio excluída  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Recuperação de itens excluídos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Recuperação de item único  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> ||
-|**[Interoperabilidade, conectividade e compatibilidade](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Skype for Business presença no OWA e Outlook  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|SharePoint interoperabilidade  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte à conectividade EWS  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Suporte a retransmissão SMTP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Instalação e administração do Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Acesso ao portal do Microsoft Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Centro de administração do Microsoft 365 acesso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Acesso ao centro de administração do Exchange  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Acesso Remoto do Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Políticas activeSync para dispositivos móveis  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Relatório de uso  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Estendendo o serviço - personalização, complementos e recursos](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Outlook e Outlook MAPI  <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |Sim<sup>7</sup> <br/> |
+|**[Planejamento e implantação](../exchange-online-service-description/planning-and-deployment.md)** ||||
+|Suporte para implantação híbrida  |Sim  |Sim  |Sim  |
+|Suporte para migração IMAP  |Sim  |Sim  |Sim  |
+|Suporte para migração de substituição  |Sim  |Sim  |Sim  |
+|Suporte para migração em estágios  |Sim  |Sim  |Sim  |
+|**[Permissões](../exchange-online-service-description/permissions.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Permissões baseadas em função  |Sim  |Sim  |Sim  |
+|Grupos de função  |Sim  |Sim  |Sim  |
+|Diretivas de atribuição de função  |Sim  |Sim  |Sim  |
+|**[Política e conformidade de mensagens](../exchange-online-service-description/message-policy-and-compliance.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Arquivamento de Caixas de Correio baseadas no Exchange Online  |Sim  |Sim  |Sim  |
+|Arquivamento baseado em nuvem de caixas de correio no local  |Sim  |Sim  |Sim  |
+|Marcas de retenção e políticas de retenção de registros de mensagens (MRM)  |Sim  |Sim  |Sim  |
+|Criptografia de dados de tempo de parada (BitLocker)  |Sim  |Sim  |Sim  |
+|IRM usando a Proteção de Informações do Azure  |Sim  |Sim  |Sim  |
+|IRM usando Windows Server AD RMS  |Sim<sup>1</sup> |Sim<sup>1</sup> |Sim<sup>1</sup> |
+|Criptografia de Mensagem do Office 365  |Sim  |Sim  |Sim  |
+|S/MIME  |Sim  |Sim  |Sim  |
+|Bloqueio In-loco e Retenção de Litígio  |Sim  |Sim  |Sim  |
+|Descoberta Eletrônica In-loco  |Sim<sup>8</sup> |Sim<sup>8</sup> |Sim<sup>8</sup> |
+|Regras de transporte  |Sim<sup>2</sup> |Sim<sup>2</sup> |Sim<sup>2</sup> |
+|Prevenção contra perda de dados  |Sim  |Sim  |Sim  |
+|Registro em Diário  |Sim  |Sim  |Sim  |
+|**[Proteção antispam e antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Proteção anti-spam integrado  |Sim  |Sim  |Sim  |
+|Customize anti-spam policies  |Sim  |Sim  |Sim  |
+|Proteção anti-malware integrado  |Sim<sup>3</sup> |Sim<sup>3</sup> |Sim<sup>3</sup> |
+|Customize antimalware policies  |Sim  |Sim  |Sim  |
+|Quarentena - gerenciamento de administrador  |Sim  |Sim  |Sim  |
+|Quarentena - auto-gerenciamento de usuário final  |Sim  |Sim  |Sim  |
+|Microsoft Defender para Office 365  |Não  |Não  |Sim  |
+|**[Fluxo de mensagens](../exchange-online-service-description/mail-flow.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Roteamento personalizado de emails de saída  |Sim  |Sim  |Sim  |
+|Secure messaging with a trusted partner  |Sim  |Sim  |Sim  |
+|Conditional mail routing  |Sim  |Sim  |Sim  |
+|Adicionar um parceiro a uma lista segura de entrada  |Sim  |Sim  |Sim  |
+|Roteamento de email híbrido  |Sim  |Sim  |Sim  |
+|**[Destinatários](../exchange-online-service-description/recipients.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Alertas de capacidade  |Sim  |Sim  |Sim  |
+|Email secundário  |Sim  |Sim  |Sim  |
+|MailTips  |Sim  |Sim  |Sim  |
+|Acesso de representante  |Sim  |Sim  |Sim  |
+|Regras da caixa de entrada  |Sim  |Sim  |Sim  |
+|Contas conectadas  |Sim<sup>5</sup> |Sim<sup>5</sup> |Sim<sup>5</sup> |
+|Caixas de correio inativas  |Sim  |Sim  |Sim  |
+|Offline address book  |Sim  |Sim  |Sim  |
+|Políticas do catálogo de endereços  |Sim  |Sim  |Sim  |
+|Catálogo de endereços hierárquico  |Sim  |Sim  |Sim  |
+|Listas de endereços e Lista de Endereços Globais  |Sim<sup>6</sup> |Sim<sup>6</sup> |Sim<sup>6</sup> |
+|Grupos do Office 365  |Sim  |Sim  |Sim  |
+|Grupos de distribuição  |Sim  |Sim  |Sim  |
+|Contatos externos (global)  |Sim  |Sim  |Sim  |
+|Cartão de visita universal  |Sim  |Sim  |Sim  |
+|Vínculo de contato com redes sociais  |Sim  |Sim  |Sim  |
+|Caixas de correio de recurso  |Sim  |Sim  |Sim  |
+|Gerenciamento da sala de conferência  |Sim  |Sim  |Sim  |
+|Respostas de Ausência Temporária  |Sim  |Sim  |Sim  |
+|Compartilhamento de calendário  |Sim  |Sim  |Sim  |
+|**[Recursos de relatórios e ferramentas de solução de problemas](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Relatórios do Centro de administração do Microsoft 365  |Sim  |Sim  |Sim  |
+|Excel de trabalho de relatório  |Sim  |Sim  |Sim  |
+|Relatórios de serviços Web  |Sim  |Sim  |Sim  |
+|Message trace  |Sim  |Sim  |Sim  |
+|Relatórios de auditoria  |Sim  |Sim  |Sim  |
+|Relatórios de Unificação de Mensagens  |Não  |Sim  |Sim  |
+|**[Compartilhamento e colaboração](../exchange-online-service-description/sharing-and-collaboration.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Compartilhamento federado (Incluindo Publicação de Calendário)  |Sim  |Sim  |Sim  |
+|Caixas de correio local  |Sim<sup>4</sup> |Sim<sup>4</sup> |Sim<sup>4</sup> |
+|Pastas públicas  |Sim  |Sim  |Sim  |
+|**[Clientes e dispositivos móveis](../exchange-online-service-description/clients-and-mobile-devices.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Outlook para Windows <sup>9</sup> |Sim  |Sim  |Sim  |
+|Outlook na Web<sup>9</sup> |Sim  |Sim  |Sim  |
+|Outlook para Mac<sup>9</sup> |Sim  |Sim  |Sim  |
+|Outlook para iOS e Android<sup>9</sup> |Sim  |Sim  |Sim  |
+|Exchange ActiveSync  |Sim  |Sim  |Sim  |
+|Gerenciamento de Dispositivos Móveis para o Office 365  |Sim  |Sim  |Sim  |
+|POP e IMAP  |Sim  |Sim  |Sim  |
+|SMTP  |Sim  |Sim  |Sim  |
+|Suporte de Aplicativo EWS  |Sim  |Sim  |Sim  |
+|**[Serviços de mensagens de voz](../exchange-online-service-description/voice-message-services.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Caixa postal  |Não  |Sim  |Sim  |
+|Integração entre caixa postal e FAX de terceiros  |Não  |Sim  |Sim  |
+|Interoperabilidade de caixa postal de terceiros  |Sim  |Sim  |Sim  |
+|Skype for Business integração  |Sim  |Sim  |Sim  |
+|**[Alta disponibilidade e continuidade de negócios](../exchange-online-service-description/high-availability-and-business-continuity.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Replicação de caixa de correio em data centers  |Sim  |Sim  |Sim  |
+|Recuperação da caixa de correio excluída  |Sim  |Sim  |Sim  |
+|Recuperação de itens excluídos  |Sim  |Sim  |Sim  |
+|Recuperação de item único  |Sim  |Sim  |Sim  |
+|**[Interoperabilidade, conectividade e compatibilidade](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Skype for Business presença no OWA e Outlook  |Sim  |Sim  |Sim  |
+|SharePoint interoperabilidade  |Sim  |Sim  |Sim  |
+|Suporte à conectividade EWS  |Sim  |Sim  |Sim  |
+|Suporte a retransmissão SMTP  |Sim  |Sim  |Sim  |
+|**[Instalação e administração do Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Acesso ao portal do Microsoft Office 365  |Sim  |Sim  |Sim  |
+|Centro de administração do Microsoft 365 acesso  |Sim  |Sim  |Sim  |
+|Acesso ao centro de administração do Exchange  |Sim  |Sim  |Sim  |
+|Acesso Remoto do Windows PowerShell  |Sim  |Sim  |Sim  |
+|Políticas activeSync para dispositivos móveis  |Sim  |Sim  |Sim  |
+|Relatório de uso  |Sim  |Sim  |Sim  |
+|**[Estendendo o serviço - personalização, complementos e recursos](../exchange-online-service-description/exchange-online-service-description.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Outlook e Outlook MAPI  |Sim<sup>7</sup> |Sim<sup>7</sup> |Sim<sup>7</sup> |
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS é um servidor local que deve ser comprado e gerenciado separadamente para habilitar os recursos de IRM com suporte. <br/>
 <sup>2</sup> As regras de transporte são feitas de critérios flexíveis, que permitem definir condições e exceções e ações a tomar com base nos critérios. Os critérios e ações disponíveis diferem entre Exchange Online e Microsoft Exchange Server 2013. Para ver a lista de critérios e ações disponíveis, confira os tópicos correspondentes sobre critérios e ações para cada produto. <br/> 
 <sup>3</sup> Exchange Server 2013 usa apenas o mecanismo anti-malware da Microsoft. O Exchange Online usa diversos mecanismos antimalware para verificar se há malware em mensagens de entrada, saída e internas. <br/> 
 <sup>4</sup> SharePoint Online devem ser incluídos no plano de assinatura. <br/> 
-<sup>5</sup> Contas conectadas têm suporte para contas POP e IMAP, mas desabilitadas para Outlook.com (Hotmail). <br/> <sup>6</sup> Não há suporte para usar um cmdlet para trabalhar com a Lista de Endereços e a Lista de Endereços Globais. <br/> 
+<sup>5</sup> Contas conectadas têm suporte para contas POP e IMAP, mas desabilitadas para Outlook.com (Hotmail). <br/> 
+<sup>6</sup> Não há suporte para usar um cmdlet para trabalhar com a Lista de Endereços e a Lista de Endereços Globais. <br/> 
 <sup>7</sup> Algumas Web Parts e complementos de terceiros podem não estar disponíveis. <br/> 
 <sup>8</sup> Para a Descoberta EDiscovery, você precisa de uma consulta separada para nuvem local versus local. <br/> 
 <sup>9</sup> Tabela indica se o cliente trabalha com os planos associados. Isso não significa que os clientes estejam necessariamente incluídos na compra desses planos. 
@@ -479,30 +480,30 @@ Os limites no Microsoft Exchange Online podem ser classificados em uma das segui
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Limite de lista de endereços  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
-|Limite do catálogo de endereços offline (OAB)  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Limite das políticas de catálogo de endereços (ABP)  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Limite de listas de endereços globais  <br/> |250  <br/> |250  <br/> |250  <br/> |
+|Limite de lista de endereços  |1000  |1000  |1000  |
+|Limite do catálogo de endereços offline (OAB)  |250  |250  |250  |
+|Limite das políticas de catálogo de endereços (ABP)  |250  |250  |250  |
+|Limite de listas de endereços globais  |250  |250  |250  |
    
 #### <a name="mailbox-storage-limits"></a>Limites de armazenamento de caixa de correio
 
 A quantidade de armazenamento de caixa de correio disponível é determinada pelo tipo de caixa de correio e pela licença da assinatura do usuário. Os administradores podem reduzir o tamanho máximo da caixa de correio por usuário ou globalmente.
   
 > [!NOTE]
-> Não é permitido usar regras de registro em diário, regras de transporte ou encaminhamento automático para copiar mensagens para uma caixa de correio do Exchange Online para fins de arquivamento. A caixa de correio de arquivo morto de um usuário destina-se apenas a esse usuário. A Microsoft se reserva o direito de negar o arquivamento ilimitado em instâncias em que a caixa de correio de arquivo morto de um usuário for usada para armazenar dados de arquivo morto para outros usuários ou em outros casos de uso inadequado.
+> O uso de registro no diário, regras de transporte ou regras de encaminhamento automático para copiar mensagens para uma caixa de correio do Exchange Online com a finalidade de arquivamento não é permitido. A caixa de correio de arquivo morto de um usuário destina-se somente a esse usuário. A Microsoft se reserva o direito de negar espaço de armazenamento de arquivo morto adicional em instâncias em que a caixa de correio de arquivo morto de um usuário é usada para armazenar dados de arquivo morto para outros usuários ou em outros casos de uso inadequado.
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Caixas de correio de usuário  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|Caixas de correio<sup>de arquivo morto 6, 7</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
-|Caixas de correio compartilhadas  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
-|Caixas de correio de recurso  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
-|Caixas de correio de site<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
-|Caixas de correio de pastas públicas  <br/> |50 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |
-|Caixas de correio de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
+|Caixas de correio de usuário  |50 GB  |100 GB  |100 GB  |
+|Caixas de correio<sup>de arquivo morto 6, 7</sup> |1,5 TB<sup>1</sup> |1,5 TB<sup>1</sup> |1,5 TB<sup>1</sup> |
+|Caixas de correio compartilhadas  |50 GB<sup>2</sup> |50 GB<sup>2</sup> |50 GB<sup>2</sup> |
+|Caixas de correio de recurso  |50 GB<sup>3</sup> |50 GB<sup>3</sup> |50 GB<sup>3</sup> |
+|Caixas de correio de site<sup>4</sup> |50 GB  |50 GB  |50 GB  |
+|Caixas de correio de pastas públicas  |50 GB<sup>5</sup> |100 GB<sup>5</sup> |100 GB<sup>5</sup> |
+|Caixas de correio de grupo  |50 GB  |50 GB  |50 GB  |
    
 > [!NOTE]
-> <sup>1</sup> Cada usuário recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. Confira mais informações em Visão geral de arquivamento ilimitado no Office 365. Saiba mais sobre disponibilidade em Mapa do Office 365. <br/> 
+> <sup>1</sup> Cada usuário recebe inicialmente 100 GB de armazenamento na caixa de correio de arquivo morto. Quando o arquivamento de expansão automática está ativado, o armazenamento adicional é incluído automaticamente quando é alcançada a capacidade de armazenamento de 100 GB. O espaço de armazenamento adicional é adicionado incrementalmente até que a capacidade de armazenamento de arquivo morto atinja 1,5 TB. Para obter mais informações, consulte Visão geral do arquivamento [de expansão automática.](/microsoft-365/compliance/autoexpanding-archiving) Saiba mais sobre disponibilidade em Mapa do Office 365. <br/> 
 <sup>2</sup> Para acessar uma caixa de correio compartilhada, um usuário deve ter uma licença do Exchange Online. As caixas de correio compartilhadas não exigem uma licença separada. No entanto, se você deseja habilitar o Arquivo-Morto no Local ou aplicar um Bloqueio In-loco ou uma Retenção de Litígio a uma caixa de correio compartilhada, é necessário ter uma licença do Plano 2 do Exchange Online ou um Plano 1 do Exchange Online com a licença de Arquivamento do Exchange Online. Se você habilitar o Arquivo-Morto no Local e o arquivamento de expansão automática para uma caixa de correio compartilhada, o armazenamento adicional será incluído automaticamente quando a capacidade de armazenamento de 100 GB da caixa de correio de arquivo morto for alcançada. <br/> 
 <sup>3</sup> Caixas de correio de recursos não necessitam de uma licença.<br/> 
 <sup>4</sup> As caixas de correio de site são criadas e gerenciadas SharePoint Online. Para saber mais, confira preparação para usar sites de correio no Office 365.<br/> 
@@ -522,9 +523,9 @@ O Exchange Online oferece três tipos de notificações quando uma caixa de corr
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Aviso  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
-|Proibir Envio  <br/> |49.5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
-|Proibir Envio/Recebimento  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Aviso  |49 GB  |98 GB  |98 GB  |
+|Proibir Envio  |49.5 GB  |99 GB  |99 GB  |
+|Proibir Envio/Recebimento  |50 GB  |100 GB  |100 GB  |
    
 #### <a name="mailbox-folder-limits"></a>Limites da pasta da caixa de correio
 
@@ -554,21 +555,21 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Número máximo de mensagens por pasta de caixa de correio  <br/> |1 milhão  <br/> |1 milhão  <br/> |1 milhão  <br/> |
-|Aviso para o número de mensagens por pasta da caixa de correio  <br/> |900.000  <br/> |900.000  <br/> |900.000  <br/> |
-|Número máximo de mensagens por pasta na pasta de Itens Recuperáveis  <br/> |3 milhões  <br/> |3 milhões  <br/> |3 milhões  <br/> |
-|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio primária (não em espera)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
-|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio primária (em espera)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (não em espera)  <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
-|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (em espera)  <br/> |Ilimitado<sup>1</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
-|Aviso para o número de mensagens por pasta na pasta de Itens Recuperáveis  <br/> |2,75 milhões  <br/> |2,75 milhões  <br/> |2,75 milhões  <br/> |
-|Número máximo de subpastas por pasta de caixa de correio  <br/> |10.000  <br/> |10.000  <br/> |10.000  <br/> |
-|Aviso para o número de subpastas por pasta de caixa de correio  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
-|Profundidade máxima de hierarquia de pasta  <br/> |300  <br/> |300  <br/> |300  <br/> |
-|Aviso para a profundidade de hierarquia de pasta  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Número máximo de pastas públicas  <br/> |250,000  <br/> |250,000  <br/> |250,000  <br/> |
-|Número máximo de subpastas por pasta pública  <br/> |10.000  <br/> |10.000  <br/> |10.000  <br/> |
-|Aviso para o número de subpastas por pasta pública  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
+|Número máximo de mensagens por pasta de caixa de correio  |1 milhão  |1 milhão  |1 milhão  |
+|Aviso para o número de mensagens por pasta da caixa de correio  |900.000  |900.000  |900.000  |
+|Número máximo de mensagens por pasta na pasta de Itens Recuperáveis  |3 milhões  |3 milhões  |3 milhões  |
+|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio primária (não em espera)  |30 GB  |30 GB  |30 GB  |
+|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio primária (em espera)  |100 GB  |100 GB  |100 GB  |
+|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (não em espera)  |1,5 TB<sup>1</sup> |1,5 TB<sup>1</sup> |1,5 TB<sup>1</sup> |
+|Cota de armazenamento da pasta Itens Recuperáveis na caixa de correio de arquivo morto (em espera)  |1,5 TB<sup>1</sup> |1,5 TB<sup>1</sup> |1,5 TB<sup>1</sup> |
+|Aviso para o número de mensagens por pasta na pasta de Itens Recuperáveis  |2,75 milhões  |2,75 milhões  |2,75 milhões  |
+|Número máximo de subpastas por pasta de caixa de correio  |10.000  |10.000  |10.000  |
+|Aviso para o número de subpastas por pasta de caixa de correio  |9000  |9000  |9000  |
+|Profundidade máxima de hierarquia de pasta  |300  |300  |300  |
+|Aviso para a profundidade de hierarquia de pasta  |250  |250  |250  |
+|Número máximo de pastas públicas  |250,000  |250,000  |250,000  |
+|Número máximo de subpastas por pasta pública  |10.000  |10.000  |10.000  |
+|Aviso para o número de subpastas por pasta pública  |9000  |9000  |9000  |
    
 > [!NOTE]
 > <sup>1</sup> Você pode enviar e receber mensagens de até 150 MB entre usuários (onde a mensagem nunca sai dos datacenters da Microsoft). As mensagens roteadas fora dos datacenters da Microsoft estão sujeitas a um aumento adicional de 33% na codificação da tradução, caso em que o tamanho máximo da mensagem é 112 MB. 
@@ -595,19 +596,19 @@ Estes limites são para limitar as caixas de correios para tamanhos conhecidos q
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Limite de tamanho de mensagem - Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
-|Limite de tamanho de mensagem - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
-|Limite de tamanho de mensagem - Outlook para Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
-|Limite de tamanho de mensagem - migração  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)  <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |
-|Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
-|Limite de comprimento de assunto  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |
-|Limite de anexos de arquivo  <br/> |250 anexos  <br/> |250 anexos  <br/> |250 anexos  <br/> |
-|Limite de tamanho de anexo de arquivo - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
-|Limite de tamanho de anexo de arquivo - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|Limite de tamanho de anexo de arquivo - Outlook para Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
-|Limite de mensagem com várias partes  <br/> |250 partes  <br/> |250 partes  <br/> |250 partes  <br/> |
-|Limite de profundidade de mensagem inserida  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |30 mensagens inseridas  <br/> |
+|Limite de tamanho de mensagem - Outlook  |150 MB<sup>1, 2</sup> |150 MB<sup>1, 2</sup> |150 MB<sup>1, 2</sup> |
+|Limite de tamanho de mensagem - OWA  |112 MB<sup>1, 3</sup> |112 MB<sup>1, 3</sup> |112 MB<sup>1, 3</sup> |
+|Limite de tamanho de mensagem - Outlook para Mac  |150 MB<sup>1, 2</sup> |150 MB<sup>1, 2</sup> |150 MB<sup>1, 2</sup> |
+|Limite de tamanho de mensagem - migração  |150 MB <sup>4</sup> |150 MB <sup>4</sup> |150 MB <sup>4</sup> |
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a Criptografia de Mensagem do Office 365 com novas capacidades)  |150 MB<sup>5</sup> |150 MB<sup>5</sup> |150 MB<sup>5</sup> |
+|Limite de tamanho para mensagens criptografadas (para assinantes usando a versão herdada da Criptografia de Mensagem do Office 365)  |25 MB<sup>5</sup> |25 MB<sup>5</sup> |25 MB<sup>5</sup> |
+|Limite de comprimento de assunto  |255 caracteres  |255 caracteres  |255 caracteres  |
+|Limite de anexos de arquivo  |250 anexos  |250 anexos  |250 anexos  |
+|Limite de tamanho de anexo de arquivo - Outlook  |150 MB  |150 MB  |150 MB  |
+|Limite de tamanho de anexo de arquivo - OWA  |35 MB  |35 MB  |35 MB  |
+|Limite de tamanho de anexo de arquivo - Outlook para Mac  |150 MB  |150 MB  |150 MB  |
+|Limite de mensagem com várias partes  |250 partes  |250 partes  |250 partes  |
+|Limite de profundidade de mensagem inserida  |30 mensagens inseridas  |30 mensagens inseridas  |30 mensagens inseridas  |
    
 > [!NOTE]
 > <sup>1</sup> Os administradores da Microsoft podem especificar um limite personalizado entre 1 MB e 150 MB. No entanto, o tamanho da mensagem que você pode enviar ou receber também depende do que seu cliente ou solução de email suporta. Para saber mais sobre como personalizar o tamanho máximo permitido para as mensagens de sua organização, confira [A Microsoft dá suporte a mensagens de email maiores](https://go.microsoft.com/fwlink/?linkid=2144144).<br/> 
@@ -626,7 +627,7 @@ Os limites de recebimento se aplicam ao número de mensagens que um usuário, gr
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Mensagens recebidas  <br/> |3.600 mensagens por hora  <br/> |3.600 mensagens por hora  <br/> |3.600 mensagens por hora  <br/> |
+|Mensagens recebidas  |3.600 mensagens por hora  |3.600 mensagens por hora  |3.600 mensagens por hora  |
    
 #### <a name="sending-limits"></a>Limites de envio
 
@@ -649,10 +650,10 @@ Os limites de envio se aplicam ao número de destinatários, número de mensagen
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Limite de taxa de destinatários  <br/> |10.000 destinatários por dia  <br/> |10.000 destinatários por dia  <br/> |10.000 destinatários por dia  <br/> |
-|Limite de destinatários  <br/> |500 destinatários  <br/> |500 destinatários  <br/> |500 destinatários  <br/> |
-|Limite de endereço proxy do destinatário  <br/> |400  <br/> |400  <br/> |400  <br/> |
-|Limite de taxa de mensagem (somente para envio de cliente SMTP)  <br/> |30 mensagens por minuto  <br/> |30 mensagens por minuto  <br/> |30 mensagens por minuto  <br/> |
+|Limite de taxa de destinatários  |10.000 destinatários por dia  |10.000 destinatários por dia  |10.000 destinatários por dia  |
+|Limite de destinatários  |500 destinatários  |500 destinatários  |500 destinatários  |
+|Limite de endereço proxy do destinatário  |400  |400  |400  |
+|Limite de taxa de mensagem (somente para envio de cliente SMTP)  |30 mensagens por minuto  |30 mensagens por minuto  |30 mensagens por minuto  |
    
 #### <a name="reporting-and-message-trace-limits"></a>Limites de rastreamento de mensagens e relatórios
 
@@ -670,9 +671,9 @@ Esses limites controlam o tempo pelo qual itens em pastas específicas na caixa 
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Período de retenção na pasta Itens Excluídos  <br/> |Sem limites<sup>1</sup> <br/> |Sem limites<sup>1</sup> <br/> |Sem limites<sup>1</sup> <br/> |
-|Período de retenção para itens removidos da pasta Itens Excluídos  <br/> |14 dias<sup>1</sup> <br/> |14 dias<sup>1</sup> <br/> |14 dias<sup>1</sup> <br/> |
-|Período de retenção na pasta Lixo Eletrônico  <br/> |30 dias  <br/> |30 dias  <br/> |30 dias  <br/> |
+|Período de retenção na pasta Itens Excluídos  |Sem limites<sup>1</sup> |Sem limites<sup>1</sup> |Sem limites<sup>1</sup> |
+|Período de retenção para itens removidos da pasta Itens Excluídos  |14 dias<sup>1</sup> |14 dias<sup>1</sup> |14 dias<sup>1</sup> |
+|Período de retenção na pasta Lixo Eletrônico  |30 dias  |30 dias  |30 dias  |
    
 > [!NOTE]
 > <sup>1</sup> Este é o limite padrão. Os administradores podem alterar esse valor para suas organizações. 
@@ -689,11 +690,11 @@ Estes limites se aplicam a grupos de distribuição no catálogo de endereços c
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Número máximo de membros do grupo de distribuição<sup>1</sup> <br/> |100.000 membros  <br/> |100.000 membros  <br/> |100.000 membros  <br/> |
-|Limite de envio de mensagens para grupos de distribuição grandes  <br/> |5.000 ou mais membros  <br/> |5.000 ou mais membros  <br/> |5.000 ou mais membros  <br/> |
-|Tamanho máximo de mensagens para grupos de distribuição grandes  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Número máximo de proprietários do grupo de distribuição  <br/> |10   <br/> |10   <br/> |10   <br/> |
-|Número máximo de grupos que um usuário pode criar  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
+|Número máximo de membros do grupo de distribuição<sup>1</sup> |100.000 membros  |100.000 membros  |100.000 membros  |
+|Limite de envio de mensagens para grupos de distribuição grandes  |5.000 ou mais membros  |5.000 ou mais membros  |5.000 ou mais membros  |
+|Tamanho máximo de mensagens para grupos de distribuição grandes  |2 MB  |2 MB  |2 MB  |
+|Número máximo de proprietários do grupo de distribuição  |10   |10   |10   |
+|Número máximo de grupos que um usuário pode criar  |300,000<sup>2</sup> |300,000<sup>2</sup> |300,000<sup>2</sup> |
    
 > [!NOTE]
 > <sup>1</sup> Se você estiver usando o DirSync do Azure Active Directory, o número máximo de membros do grupo de distribuição que pode ser sincronizado do Active Directory local para o Azure Active Directory é 15.000. Se estiver usando o Azure AD Connect, esse número será 50.000. <br/> 
@@ -721,14 +722,14 @@ A lista a seguir inclui os limites que se aplicam às regras de diário, de tran
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Número máximo de regras de diário  <br/> |50 regras  <br/> |50 regras  <br/> |50 regras  <br/> |
-|Número máximo de regras de transporte  <br/> |300 regras  <br/> |300 regras  <br/> |300 regras  <br/> |
-|Tamanho máximo de uma regra de transporte individual  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
-|Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
-|Limites de verificação de conteúdos de anexos  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
-|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte  <br/> |100 destinatários  <br/> |100 destinatários  <br/> |100 destinatários  <br/> |
-|Limite de encaminhamento  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |10 destinatários  <br/> |
-|Número de vezes que uma mensagem é redirecionada  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |1 redirecionamento  <br/> |
+|Número máximo de regras de diário  |50 regras  |50 regras  |50 regras  |
+|Número máximo de regras de transporte  |300 regras  |300 regras  |300 regras  |
+|Tamanho máximo de uma regra de transporte individual  |8 KB  |8 KB  |8 KB  |
+|Limite de caracteres para todas as expressões regulares usadas em todas as regras de transporte  |20 KB  |20 KB  |20 KB  |
+|Limites de verificação de conteúdos de anexos  |1 MB  |1 MB  |1 MB  |
+|Número máximo de destinatários adicionados a uma mensagem por todas as regras de transporte  |100 destinatários  |100 destinatários  |100 destinatários  |
+|Limite de encaminhamento  |10 destinatários  |10 destinatários  |10 destinatários  |
+|Número de vezes que uma mensagem é redirecionada  |1 redirecionamento  |1 redirecionamento  |1 redirecionamento  |
    
 #### <a name="moderation-limits"></a>Limites de moderação
 
@@ -746,10 +747,10 @@ Estes limites controlam as configurações de moderação que são usadas para a
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Tamanho máximo da caixa de correio de arbitragem  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
-|Número máximo de moderadores  <br/> |10 moderadores  <br/> |10 moderadores  <br/> |10 moderadores  <br/> |
-|Expiração para mensagens aguardando moderação  <br/> |2 dias  <br/> |2 dias  <br/> |2 dias  <br/> |
-|Taxa máxima para mensagens de notificação de moderação expiradas  <br/> |300 notificações de expiração por hora  <br/> |300 notificações de expiração por hora  <br/> |300 notificações de expiração por hora  <br/> |
+|Tamanho máximo da caixa de correio de arbitragem  |10 GB  |10 GB  |10 GB  |
+|Número máximo de moderadores  |10 moderadores  |10 moderadores  |10 moderadores  |
+|Expiração para mensagens aguardando moderação  |2 dias  |2 dias  |2 dias  |
+|Taxa máxima para mensagens de notificação de moderação expiradas  |300 notificações de expiração por hora  |300 notificações de expiração por hora  |300 notificações de expiração por hora  |
    
 #### <a name="exchange-activesync-limits"></a>Limites do Exchange ActiveSync
 
@@ -763,9 +764,9 @@ Os seguintes limites se aplicam ao Microsoft Exchange ActiveSync, um protocolo d
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Limite do dispositivo do Exchange ActiveSync  <br/> |100  <br/> |100  <br/> |100  <br/> |
-|Limite de exclusão do dispositivo do Exchange ActiveSync  <br/> |20  <br/> |20  <br/> |20  <br/> |
-|Limite de anexos de arquivo do Exchange ActiveSync  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
+|Limite do dispositivo do Exchange ActiveSync  |100  |100  |100  |
+|Limite de exclusão do dispositivo do Exchange ActiveSync  |20  |20  |20  |
+|Limite de anexos de arquivo do Exchange ActiveSync  |25 MB  |25 MB  |25 MB  |
    
 ## <a name="onedrive-for-business-features"></a>Recursos do OneDrive for Business
 
@@ -809,12 +810,12 @@ A tabela a seguir mostra os SharePoint limites para cada Office 365 educacional.
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Armazenamento<sup>1, 2</sup> <br/> |1 TB por organização mais 10 GB por licença adquirida<sup>3</sup> <br/> |1 TB por organização mais 10 GB por licença adquirida<sup>3</sup> <br/> |1 TB por organização mais 10 GB por licença adquirida<sup>3</sup> <br/> |
-|Termos no repositório  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
-|Armazenamento para conjuntos de sites  <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> <br/> |
-|Conjuntos de sites por inquilino  <br/> |500.000 por organização<sup>5</sup> <br/> |500.000 por organização<sup>5</sup> <br/> |500.000 por organização<sup>5</sup> <br/> |
-|Limite de upload de arquivos  <br/> |15 GB  <br/> |15 GB  <br/> |15 GB  <br/> |
-|Número de usuários  <br/> |1 a 500,000<sup>6</sup> <br/> |1 a 500,000<sup>6</sup> <br/> |1 a 500,000<sup>6</sup> <br/> |
+|Armazenamento<sup>1, 2</sup> |1 TB por organização mais 10 GB por licença adquirida<sup>3</sup> |1 TB por organização mais 10 GB por licença adquirida<sup>3</sup> |1 TB por organização mais 10 GB por licença adquirida<sup>3</sup> |
+|Termos no repositório  |200,000  |200,000  |200,000  |
+|Armazenamento para conjuntos de sites  |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> |Até 25 TB por conjunto de sites ou grupo<sup>4</sup> |
+|Conjuntos de sites por inquilino  |500.000 por organização<sup>5</sup> |500.000 por organização<sup>5</sup> |500.000 por organização<sup>5</sup> |
+|Limite de upload de arquivos  |15 GB  |15 GB  |15 GB  |
+|Número de usuários  |1 a 500,000<sup>6</sup> |1 a 500,000<sup>6</sup> |1 a 500,000<sup>6</sup> |
    
 > [!NOTE]
 > <sup>1</sup> Você pode adquirir um volume ilimitado de armazenamento adicional do SharePoint Online. Confira [Adicionar espaço de armazenamento à sua assinatura](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C). <br/> <sup>2</sup> Recomendamos monitorar a Lixeira e esvaziá-la regularmente. O espaço de armazenamento que ela usa faz parte do limite de armazenamento de arquivo total da organização.<br/> 
@@ -832,131 +833,131 @@ A tabela a seguir lista Skype for Business recursos online disponíveis para cad
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**[Clientes para o Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
-|Skype for Business Completo  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business Basic  <br/> |Sim<sup>1</sup> <br/> |Não  <br/> |Não  <br/> |
-|Lync 2013 Basic  <br/> |Sim<sup>1</sup> <br/> |Não  <br/> |Não  <br/> |
-|Aplicativo Skype for Business da Windows Store  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Lync para Mac 2011  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Clientes móveis do Skype for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business Web App  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Mensagens instantâneas, presença e contatos](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|IM de computador para computador e presença  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|IM e presença de várias partes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Configuração do cartão de visita  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Configuração de Minha Imagem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Minha Imagem: Experiência de foto de URL  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Configuração da lista de contatos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Repositório unificado de contatos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Pesquisa de livro de endereços  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Expansão da lista de distribuição  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Chat persistente  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Fotos de remetente/receptor  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Áudio, vídeo e mídia de Skype para Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Compartilhamento de área de trabalho por meio do VbSS (compartilhamento de tela baseado em vídeo)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Compartilhamento de área de trabalho e aplicativo por meio do protocolo RDP  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Transferências de arquivos  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|QoS (Qualidade de serviço) de rede - DSCP (Ponto de Código de Serviços Diferenciados)  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|**[Federação e conectividade pública de mensagens instantâneas](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Office Communications Server 2007 R2 e Lync Server 2010 (IM, Presença, Áudio, Vídeo, Conferência)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|XMPP (usado pelo Google Talk, por exemplo) e federação Sametime  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Federação do Skype  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|AOL e federação do Yahoo!  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|**[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Ad hoc e agendar audioconferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Ad hoc e agendar conferência de vídeo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo de alto-falante ativo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Codificação e decodificação H.264  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo multiparte  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Vídeo de alta definição ou imagens de todos os participantes  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Controles de apresentador  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Exibição selecionada pelo participante  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|OneNote compartilhamento  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Ad hoc e agendar webconferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business discagem de reunião via audioconferência (primeira parte)  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Skype for Business discagem de reunião via provedor de audioconferência certificado (ACP)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|PowerPoint compartilhamento  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Transferência de arquivo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Quadro de anotações e quadro de anotações  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|PowerPoint upload  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Sondagem  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gravação e reprodução do lado do cliente  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Gravação e reprodução do lado do servidor  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Lobby de reunião  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Transmissão de Reunião do Skype  <br/> |Não  <br/> |Sim  <br/> |Sim  <br/> |
-|Acesso de convidados Skype reuniões com Skype for Business Web App  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendar Skype for Business reuniões no Outlook  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendar Skype for Business reuniões em Outlook em nome de outras pessoas (Delegação)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendar Skype for Business reuniões com o Agendador da Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Agendar reuniões online em Outlook na Web  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Outlook delegação para agendamento de reuniões  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Criar reuniões públicas com as IDs estáticas de reunião no Outlook  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|**Chamadas de voz** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Atendedores automáticos  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Opções de ocupado  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Durabilidade da ramificação do Office  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Controle de admissão de chamada  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Atender/iniciar chamada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Delegação de chamadas  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Encaminhamento de chamadas e toque simultâneo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Histórico de chamadas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Espera/recuperação em chamadas  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Estacionamento de chamada  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Transferência de chamadas (bloquear, consultar e celular)  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|ID do chamador  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Chamada em espera  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Recurso re-chamada  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Clientes de PC, Mac e celular  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Mudança de dispositivo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Toque diferenciado  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Roteamento com não incomodar  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Chamada de emergência - local estático  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Chamada de emergência - local dinâmico  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Encaminhamento de chamadas do calendário do Enterprise  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Discagem de ramal  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Atendimento de chamadas de grupo  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Tratamento e filas de chamadas/grupos de busca  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Teclado de discagem integrado  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Roteamento com base no local  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Música de espera  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Manipulação DID de saída  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Linha privada  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Telefones de mesa de IP qualificado  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Aparência da linha compartilhada  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Chamadas federadas e pelo Skype  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Chamada de equipe  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Monitor de chamada de vídeo  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Caixa postal  <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|[Planos de Chamada](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Plano de Chamada Doméstica, com compra de complemento necessária)  <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |
-|[Planos de Chamada](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Plano de Chamada Internacional, com compra de complemento necessária)  <br/> |Não<sup>2</sup> <br/> |Não<sup>2</sup> <br/> |Sim  <br/> |
-|[Créditos de Comunicação](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) <br/> |Não  <br/> |Não  <br/> |Sim  <br/> |
-|Skype for Business Voz  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Segurança e arquivamento](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Criptografia de IM e mídia  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Filtragem de arquivos e IM  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Controle de versão do cliente  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Arquivamento de conteúdo de IM  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Arquivamento de conteúdo de conferência  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Compartilhamento de aplicativos e arquivamento de compartilhamento de área de trabalho  <br/> |Sim  <br/> |Não  <br/> |Não  <br/> |
-|Configuração de arquivamento no nível do usuário  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Arquivos de rastreamento de logon  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|**[Interoperabilidade entre Exchange e SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Interoperabilidade de presença com Exchange Server  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Interoperabilidade de presença com Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Interoperabilidade de Unificação de Mensagens com Exchange Server  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Interoperabilidade de Unificação de Mensagens com Exchange Online  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Outlook na Web interoperabilidade  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Interoperabilidade de arquivamento com Exchange Server  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Interoperabilidade de arquivamento com Exchange Online  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Pesquisa de habilidade com SharePoint Server  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|Pesquisa de habilidade com SharePoint Online  <br/> |Não  <br/> |Não  <br/> |Não  <br/> |
-|**[Gerenciamento e administração do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Portal do Microsoft Office 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Centro de administração do Microsoft 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Centro de administração do Skype for Business  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Windows PowerShell  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
-|Skype for Business Relatórios online em Centro de administração do Microsoft 365  <br/> |Sim  <br/> |Sim  <br/> |Sim  <br/> |
+|**[Clientes para o Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** ||||
+|Skype for Business Completo  |Não  |Sim  |Sim  |
+|Skype for Business Basic  |Sim<sup>1</sup> |Não  |Não  |
+|Lync 2013 Basic  |Sim<sup>1</sup> |Não  |Não  |
+|Aplicativo Skype for Business da Windows Store  |Sim  |Sim  |Sim  |
+|Lync para Mac 2011  |Sim  |Sim  |Sim  |
+|Clientes móveis do Skype for Business  |Sim  |Sim  |Sim  |
+|Skype for Business Web App  |Sim  |Sim  |Sim  |
+|**[Mensagens instantâneas, presença e contatos](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|IM de computador para computador e presença  |Sim  |Sim  |Sim  |
+|IM e presença de várias partes  |Sim  |Sim  |Sim  |
+|Configuração do cartão de visita  |Sim  |Sim  |Sim  |
+|Configuração de Minha Imagem  |Sim  |Sim  |Sim  |
+|Minha Imagem: Experiência de foto de URL  |Não  |Não  |Não  |
+|Configuração da lista de contatos  |Sim  |Sim  |Sim  |
+|Repositório unificado de contatos  |Sim  |Sim  |Sim  |
+|Pesquisa de livro de endereços  |Sim  |Sim  |Sim  |
+|Expansão da lista de distribuição  |Sim  |Sim  |Sim  |
+|Chat persistente  |Não  |Não  |Não  |
+|Fotos de remetente/receptor  |Sim  |Sim  |Sim  |
+|**[Áudio, vídeo e mídia de Skype para Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Compartilhamento de área de trabalho por meio do VbSS (compartilhamento de tela baseado em vídeo)  |Sim  |Sim  |Sim  |
+|Compartilhamento de área de trabalho e aplicativo por meio do protocolo RDP  |Sim  |Sim  |Sim  |
+|Transferências de arquivos  |Sim  |Sim  |Sim  |
+|Vídeo  |Sim  |Sim  |Sim  |
+|QoS (Qualidade de serviço) de rede - DSCP (Ponto de Código de Serviços Diferenciados)  |Não  |Não  |Não  |
+|**[Federação e conectividade pública de mensagens instantâneas](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Office Communications Server 2007 R2 e Lync Server 2010 (IM, Presença, Áudio, Vídeo, Conferência)  |Sim  |Sim  |Sim  |
+|XMPP (usado pelo Google Talk, por exemplo) e federação Sametime  |Não  |Não  |Não  |
+|Federação do Skype  |Sim  |Sim  |Sim  |
+|AOL e federação do Yahoo!  |Não  |Não  |Não  |
+|**[Reuniões do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Ad hoc e agendar audioconferência  |Sim  |Sim  |Sim  |
+|Ad hoc e agendar conferência de vídeo  |Sim  |Sim  |Sim  |
+|Vídeo de alto-falante ativo  |Sim  |Sim  |Sim  |
+|Codificação e decodificação H.264  |Sim  |Sim  |Sim  |
+|Vídeo multiparte  |Sim  |Sim  |Sim  |
+|Vídeo de alta definição ou imagens de todos os participantes  |Sim  |Sim  |Sim  |
+|Controles de apresentador  |Sim  |Sim  |Sim  |
+|Exibição selecionada pelo participante  |Sim  |Sim  |Sim  |
+|OneNote compartilhamento  |Sim  |Sim  |Sim  |
+|Ad hoc e agendar webconferência  |Sim  |Sim  |Sim  |
+|Skype for Business discagem de reunião via audioconferência (primeira parte)  |Não  |Não  |Sim  |
+|Skype for Business discagem de reunião via provedor de audioconferência certificado (ACP)  |Sim  |Sim  |Sim  |
+|PowerPoint compartilhamento  |Sim  |Sim  |Sim  |
+|Transferência de arquivo  |Sim  |Sim  |Sim  |
+|Quadro de anotações e quadro de anotações  |Sim  |Sim  |Sim  |
+|PowerPoint upload  |Sim  |Sim  |Sim  |
+|Sondagem  |Sim  |Sim  |Sim  |
+|Gravação e reprodução do lado do cliente  |Sim  |Sim  |Sim  |
+|Gravação e reprodução do lado do servidor  |Não  |Não  |Não  |
+|Lobby de reunião  |Sim  |Sim  |Sim  |
+|Transmissão de Reunião do Skype  |Não  |Sim  |Sim  |
+|Acesso de convidados Skype reuniões com Skype for Business Web App  |Sim  |Sim  |Sim  |
+|Agendar Skype for Business reuniões no Outlook  |Sim  |Sim  |Sim  |
+|Agendar Skype for Business reuniões em Outlook em nome de outras pessoas (Delegação)  |Sim  |Sim  |Sim  |
+|Agendar Skype for Business reuniões com o Agendador da Web  |Sim  |Sim  |Sim  |
+|Agendar reuniões online em Outlook na Web  |Sim  |Sim  |Sim  |
+|Outlook delegação para agendamento de reuniões  |Sim  |Sim  |Sim  |
+|Criar reuniões públicas com as IDs estáticas de reunião no Outlook  |Não  |Não  |Não  |
+|**Chamadas de voz** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Atendedores automáticos  |Não  |Não  |Sim  |
+|Opções de ocupado  |Não  |Não  |Não  |
+|Durabilidade da ramificação do Office  |Não  |Não  |Não  |
+|Controle de admissão de chamada  |Não  |Não  |Não  |
+|Atender/iniciar chamada  |Sim  |Sim  |Sim  |
+|Delegação de chamadas  |Não  |Não  |Sim  |
+|Encaminhamento de chamadas e toque simultâneo  |Sim  |Sim  |Sim  |
+|Histórico de chamadas  |Sim  |Sim  |Sim  |
+|Espera/recuperação em chamadas  |Sim  |Sim  |Sim  |
+|Estacionamento de chamada  |Não  |Não  |Não  |
+|Transferência de chamadas (bloquear, consultar e celular)  |Sim  |Sim  |Sim  |
+|ID do chamador  |Sim  |Sim  |Sim  |
+|Chamada em espera  |Sim  |Sim  |Sim  |
+|Recurso re-chamada  |Sim  |Sim  |Sim  |
+|Clientes de PC, Mac e celular  |Sim  |Sim  |Sim  |
+|Mudança de dispositivo  |Sim  |Sim  |Sim  |
+|Toque diferenciado  |Não  |Não  |Sim  |
+|Roteamento com não incomodar  |Sim  |Sim  |Sim  |
+|Chamada de emergência - local estático  |Não  |Não  |Sim  |
+|Chamada de emergência - local dinâmico  |Não  |Não  |Não  |
+|Encaminhamento de chamadas do calendário do Enterprise  |Sim  |Sim  |Sim  |
+|Discagem de ramal  |Não  |Não  |Não  |
+|Atendimento de chamadas de grupo  |Não  |Não  |Não  |
+|Tratamento e filas de chamadas/grupos de busca  |Não  |Não  |Sim  |
+|Teclado de discagem integrado  |Não  |Não  |Sim  |
+|Roteamento com base no local  |Não  |Não  |Não  |
+|Música de espera  |Sim  |Sim  |Sim  |
+|Manipulação DID de saída  |Não  |Não  |Não  |
+|Linha privada  |Não  |Não  |Não  |
+|Telefones de mesa de IP qualificado  |Não  |Não  |Sim  |
+|Aparência da linha compartilhada  |Não  |Não  |Não  |
+|Chamadas federadas e pelo Skype  |Sim  |Sim  |Sim  |
+|Chamada de equipe  |Não  |Não  |Sim  |
+|Monitor de chamada de vídeo  |Sim  |Sim  |Sim  |
+|Caixa postal  |Não  |Não  |Sim  |
+|[Planos de Chamada](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Plano de Chamada Doméstica, com compra de complemento necessária)  |Não<sup>2</sup> |Não<sup>2</sup> |Sim  |
+|[Planos de Chamada](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Plano de Chamada Internacional, com compra de complemento necessária)  |Não<sup>2</sup> |Não<sup>2</sup> |Sim  |
+|[Créditos de Comunicação](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) |Não  |Não  |Sim  |
+|Skype for Business Voz  |Sim  |Sim  |Sim  |
+|**[Segurança e arquivamento](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Criptografia de IM e mídia  |Sim  |Sim  |Sim  |
+|Filtragem de arquivos e IM  |Não  |Não  |Não  |
+|Controle de versão do cliente  |Sim  |Sim  |Sim  |
+|Arquivamento de conteúdo de IM  |Sim  |Sim  |Sim  |
+|Arquivamento de conteúdo de conferência  |Sim  |Sim  |Sim  |
+|Compartilhamento de aplicativos e arquivamento de compartilhamento de área de trabalho  |Sim  |Não  |Não  |
+|Configuração de arquivamento no nível do usuário  |Sim  |Sim  |Sim  |
+|Arquivos de rastreamento de logon  |Sim  |Sim  |Sim  |
+|**[Interoperabilidade entre Exchange e SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Interoperabilidade de presença com Exchange Server  |Sim  |Sim  |Sim  |
+|Interoperabilidade de presença com Exchange Online  |Sim  |Sim  |Sim  |
+|Interoperabilidade de Unificação de Mensagens com Exchange Server  |Não  |Não  |Não  |
+|Interoperabilidade de Unificação de Mensagens com Exchange Online  |Não  |Não  |Não  |
+|Outlook na Web interoperabilidade  |Sim  |Sim  |Sim  |
+|Interoperabilidade de arquivamento com Exchange Server  |Não  |Não  |Não  |
+|Interoperabilidade de arquivamento com Exchange Online  |Sim  |Sim  |Sim  |
+|Pesquisa de habilidade com SharePoint Server  |Não  |Não  |Não  |
+|Pesquisa de habilidade com SharePoint Online  |Não  |Não  |Não  |
+|**[Gerenciamento e administração do Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|Portal do Microsoft Office 365  |Sim  |Sim  |Sim  |
+|Centro de administração do Microsoft 365  |Sim  |Sim  |Sim  |
+|Centro de administração do Skype for Business  |Sim  |Sim  |Sim  |
+|Windows PowerShell  |Sim  |Sim  |Sim  |
+|Skype for Business Relatórios online em Centro de administração do Microsoft 365  |Sim  |Sim  |Sim  |
    
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. O cliente da área de trabalho do Lync Basic é um aplicativo instalado localmente que fornece recursos de presença, mensagens instantâneas e conferência para planos que incluem Skype for Business Online. Microsoft 365 Apps para Grandes Empresas e Office 365 A3 incluem o aplicativo completo Skype for Business (Lync), que inclui recursos adicionais, como suporte avançado à telefonia, arquivamento e recursos de conformidade. A Skype for Business Online license must be assigned for each user. Para obter mais informações sobre os recursos do Lync Basic, consulte [Desktop client comarison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
@@ -985,8 +986,8 @@ Os limites no Skype for Business Online se enquadram nas seguintes categorias:
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Limite de transferência de arquivo  <br/> |Sem limites  <br/> |Sem limites  <br/> |Sem limites  <br/> |
-|Limite de conversas abertas com guias  <br/> |50  <br/> |50  <br/> |Sem limite  <br/> |
+|Limite de transferência de arquivo  |Sem limites  |Sem limites  |Sem limites  |
+|Limite de conversas abertas com guias  |50  |50  |Sem limite  |
    
 #### <a name="meeting-limits"></a>Limites de reuniões
 
@@ -1004,13 +1005,13 @@ Os limites no Skype for Business Online se enquadram nas seguintes categorias:
     
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Limite de upload de arquivos  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |
-|Participantes em uma reunião do Skype for Business<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Apresentadores em uma reunião do Skype for Business  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Participantes da reunião do Skype for Business Web app  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Participantes anônimos do Skype for Business Web app  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Convidados que participam por telefone  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Indivíduos em um grupo de chamada de equipe  <br/> |25  <br/> |25  <br/> |25  <br/> |
+|Limite de upload de arquivos  |500 MB  |500 MB  |500 MB  |
+|Participantes em uma reunião do Skype for Business<sup>1</sup> |250  |250  |250  |
+|Apresentadores em uma reunião do Skype for Business  |250  |250  |250  |
+|Participantes da reunião do Skype for Business Web app  |250  |250  |250  |
+|Participantes anônimos do Skype for Business Web app  |250  |250  |250  |
+|Convidados que participam por telefone  |250  |250  |250  |
+|Indivíduos em um grupo de chamada de equipe  |25  |25  |25  |
    
 > [!NOTE]
 > <sup>1</sup> Se o número de participantes em uma reunião do Skype for Business ultrapassar 75 participantes, a lista de participantes (apresentadores e participantes) na lista de participação da reunião será truncada para que um participante individual possa ver somente os apresentadores e o próprio nome. A lista de participantes completa permanece visível para os apresentadores da reunião. Além disso, erros de Mensagens Instantâneas e de Exibição de Galeria ficam ocultos para os participantes. 
@@ -1026,12 +1027,12 @@ Os limites no Skype for Business Online se enquadram nas seguintes categorias:
   
 | Recurso | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  <br/> |15 dias  <br/> |15 dias  <br/> |15 dias  <br/> |
-|Retenção de conteúdo de reunião: Reunião recorrente  <br/> |15 dias  <br/> |15 dias  <br/> |15 dias  <br/> |
-|Retenção de conteúdo de reunião: Reunião do tipo Reunir Agora  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |
-|Expiração de reunião: Reunião de Ocorrência Única  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |
-|Expiração de reunião: Reunião recorrente  <br/> |14 dias  <br/> |14 dias  <br/> |14 dias  <br/> |
-|Expiração de reunião: Reunião do tipo Reunir Agora  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |
+|Retenção de conteúdo de reunião: Reunião de Ocorrência Única  |15 dias  |15 dias  |15 dias  |
+|Retenção de conteúdo de reunião: Reunião recorrente  |15 dias  |15 dias  |15 dias  |
+|Retenção de conteúdo de reunião: Reunião do tipo Reunir Agora  |8 horas  |8 horas  |8 horas  |
+|Expiração de reunião: Reunião de Ocorrência Única  |14 dias  |14 dias  |14 dias  |
+|Expiração de reunião: Reunião recorrente  |14 dias  |14 dias  |14 dias  |
+|Expiração de reunião: Reunião do tipo Reunir Agora  |8 horas  |8 horas  |8 horas  |
    
 #### <a name="minute-limits"></a>Limites de minutos
 

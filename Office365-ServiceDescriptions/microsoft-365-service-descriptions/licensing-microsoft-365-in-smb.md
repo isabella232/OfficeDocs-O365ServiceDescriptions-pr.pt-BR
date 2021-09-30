@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium é a melhor oferta da Microsoft para clientes de pequenas e médias empresas. Microsoft 365 Business Premium é uma solução integrada que reúne Microsoft 365 produtividade, segurança avançada e gerenciamento de dispositivos.
-ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: e4062493a2508b17704c48770d5e991915674426
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670458"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015645"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamento do Microsoft 365 para empresas de pequeno e médio porte
 
@@ -44,13 +44,13 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |   | Área de Trabalho Virtual do Windows | Não | Sim |
 |**Proteção de Informações** | Prevenção contra perda de dados da Microsoft | Não | Sim |
 |   | Plano 1 de Proteção de Informações do Azure, imposição do BitLocker | Não | Sim |
-|**Conformidade** | Arquivamento ilimitado de email<sup>2</sup> | Não | Sim |
+|**Conformidade** | Arquivamento de expansão automática<sup>2</sup> | Não | Sim |
 
 **Observações**
 
 <sup>1</sup> Disponível nos EUA, Reino Unido, Canadá.
 
-<sup>2</sup> Arquivamento ilimitado quando a expansão automática é ativária.
+<sup>2</sup> Os usuários têm uma capacidade de armazenamento de arquivo morto de até 1,5 TB quando o arquivamento de expansão automática está ligado.
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Comparação de recursos: Microsoft 365 Business Premium e Office 365 E3
 
@@ -74,7 +74,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |**Proteção de informações** | Prevenção contra perda de dados da Microsoft | Sim | Sim |
 |   | Plano 1 de Proteção de Informações do Azure, imposição do BitLocker | Não | Sim |
 |**Direitos cal locais** | Pacote ECAL (Exchange, SharePoint, Skype) | Sim | Não |
-|**Conformidade** | Arquivamento ilimitado de email<sup>3</sup> | Sim | Sim |
+|**Conformidade** | Arquivamento de expansão automática<sup>3</sup> | Sim | Sim |
 
 **Observações**
 
@@ -82,7 +82,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 
 <sup>2</sup> Disponível nos EUA, Reino Unido, Canadá.
 
-<sup>3</sup> Arquivamento ilimitado quando a expansão automática é ativária.
+<sup>3</sup> Os usuários têm uma capacidade de armazenamento de arquivo morto de até 1,5 TB quando o arquivamento de expansão automática é ligado.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Comparação de recursos: Microsoft 365 Business Standard, Microsoft 365 Business Premium e Office 365 E3
 
@@ -106,7 +106,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 |**Proteção de informações**  | Prevenção contra perda de dados da Microsoft | Não | Sim | Sim |
 |   | Plano 1 de Proteção de Informações do Azure, imposição do BitLocker | Não | Sim | Não |
 |**Direitos cal locais** | Pacote ECAL (Exchange, SharePoint, Skype) | Não | Não | Sim |
-|**Conformidade** | Arquivamento ilimitado de email<sup>3</sup> | Não | Sim | Sim |
+|**Conformidade** | Arquivamento de expansão automática<sup>3</sup> | Não | Sim | Sim |
 
 **Observações**
 
@@ -114,7 +114,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 
 <sup>2</sup> Disponível nos EUA, Reino Unido, Canadá.
 
-<sup>3</sup> Arquivamento ilimitado quando a expansão automática é ativária.
+<sup>3</sup> Os usuários têm uma capacidade de armazenamento de arquivo morto de até 1,5 TB quando o arquivamento de expansão automática é ligado.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Comparação de recursos: Microsoft 365 Business Standard e Microsoft 365 para planos de negócios
 
@@ -141,7 +141,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 | **Proteção de informações** | Prevenção contra perda de dados da Microsoft, Plano 1 de Proteção de Informações do Azure | Não | Sim | Sim | Sim |
 |   | Plano de Proteção de Informações do Azure 2, Microsoft Cloud App Security, Office 365 Cloud App Security | Não | Não | Não | Sim |
 |**Direitos cal locais** | Pacote ECAL (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Gerenciamento de Direitos) | Não | Não | Sim | Sim |
-|**Conformidade** | Arquivamento ilimitado de email<sup>2</sup> | Não | Sim | Sim | Sim |
+|**Conformidade** | Arquivamento de expansão automática<sup>2</sup> | Não | Sim | Sim | Sim |
 |   | Advanced eDiscovery, Caixa de Bloqueio do Cliente, Governança Avançada de Dados | Não | Não | Não | Sim |
 |**Análise** | Power BI Pro, MyAnalytics | Não | Não | Não | Sim |
 | | Insights por MyAnalytics | Sim | Sim | Sim | Sim |
@@ -152,7 +152,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 
 <sup>1</sup> Disponível nos EUA, Reino Unido, Canadá.
 
-<sup>2</sup> Arquivamento ilimitado quando a expansão automática é ativária.
+<sup>2</sup> Os usuários têm uma capacidade de armazenamento de arquivo morto de até 1,5 TB quando o arquivamento de expansão automática está ligado.
 
 ## <a name="office-client-commercial-plans"></a>Office clientes comerciais
 
@@ -164,7 +164,7 @@ Este artigo compara as opções de licenciamento para SMBs, com ênfase especial
 | OneNote          | Sim                     | Sim                    |
 | Outlook          | Sim                     | Sim                    |
 | Publisher        | Sim                     | Sim                    |
-| Access           | Sim                     | Sim                    |
+| Acesso           | Sim                     | Sim                    |
 | Microsoft Teams  | Sim                     | Sim                    |
 | **Premium valor**                             | **Microsoft 365 Apps para Pequenos e Médios Negócios** | **Microsoft 365 Apps para empresas** |
 | Ativação de volume                             | Não                      | Não                     |

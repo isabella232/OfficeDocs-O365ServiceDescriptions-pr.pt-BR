@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Saiba mais sobre os recursos de arquivo morto disponíveis Microsoft Exchange Online Arquivamento.
-ms.openlocfilehash: 6f342899722b3d411c9eb0f45ef40237ca05bc9f
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1271018444f001e98fde5f628a4ef0a8c3abe782
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670863"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015685"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Recursos de arquivamento no Arquivamento do Exchange Online
 
@@ -32,8 +32,9 @@ O Arquivamento do Exchange Online oferece aos usuários recursos avançados de a
 Os administradores podem usar o Centro de administração do Exchange (EAC) ou o Windows PowerShell remoto para ativar o recurso de arquivamento para usuários específicos. Confira mais informações em [Habilitar ou desabilitar as caixas de correio de arquivo morto no Exchange Online](/office365/securitycompliance/enable-archive-mailboxes).
   
 > [!IMPORTANT]
->  O uso em registro no diário, regras de transporte ou de encaminhamento automático para copiar mensagens para o Arquivamento do Exchange Online com a finalidade de arquivamento não é permitido.<br/>
->  A caixa de correio de arquivo morto de um usuário destina-se somente a esse usuário. A Microsoft reserva o direito de negar o arquivamento ilimitado em situações onde a caixa de correio de arquivo morto do usuário é usada para armazenar dados de arquivo morto de outros usuários.
+>  O uso em registro no diário, regras de transporte ou de encaminhamento automático para copiar mensagens para o Arquivamento do Exchange Online com a finalidade de arquivamento não é permitido.
+>
+>  A caixa de correio de arquivo morto de um usuário destina-se somente a esse usuário. A Microsoft se reserva o direito de negar espaço de armazenamento de arquivo morto adicional em instâncias em que a caixa de correio de arquivo morto de um usuário é usada para armazenar dados de arquivo morto para outros usuários ou em outros casos de uso inadequado.
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Mover mensagens para o arquivamento do Exchange Online
 
@@ -63,7 +64,8 @@ Após um item ter sido removido da pasta Itens excluídos do arquivamento, ele �
 Se um usuário tiver removido manualmente um item da pasta Itens recuperáveis, um administrador poderá recuperar o item dentro do mesmo período de 14 dias usando o recurso chamado Recuperação de um item. Este recurso permite que os administradores façam uma pesquisa em várias caixas de correio para encontrar os itens removidos, então, usem o cmdlet  `Search-Mailbox` do Windows PowerShell para mover os itens da caixa de correio de descoberta para as caixas de correio dos usuários. Para mais informações, confira [Ativar ou desativar recuperação de item único para uma caixa de correio](/office365/securitycompliance/use-network-upload-to-import-pst-files).
   
 > [!NOTE]
->  O período de Recuperação de Item Único é de 14 dias por padrão, mas pode ser personalizado em algumas circunstâncias.<br/>
+>  O período de Recuperação de Item Único é de 14 dias por padrão, mas pode ser personalizado em algumas circunstâncias.
+>
 >  Se um administrador tiver colocado a caixa de correio de um usuário em uma In-Place de responsabilidade ou de litígio, os itens limpos serão mantidos indefinidamente e a janela de 14 dias não se aplicará. 
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperação da caixa de correio excluída

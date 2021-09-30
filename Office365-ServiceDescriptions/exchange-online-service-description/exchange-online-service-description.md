@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Você está procurando uma comparação de recursos de assinaturas que incluam Exchange Online? Nesse caso, o artigo de descrição do serviço Exchange Online é o que você procura. Você também aprenderá sobre requisitos do sistema, bem como requisitos de armazenamento e de destinatário.
-ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c0682932646cfd43781e460ceba02fdfb72c0102
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672064"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015695"
 ---
 # <a name="exchange-online-service-description"></a>Descrição de serviço do Exchange Online
 
@@ -328,7 +328,7 @@ Não há suporte para IMAP <sup>9.</sup> <br/>
 <sup>14</sup> Clientes que executam o Exchange Server 2013 ou posterior precisam baixar e instalar a atualização cumulativa mais recente (CU) ou a CU imediatamente anterior, para acessar o documento de impressão digital e a política Dicas no OWA e no OWA para Dispositivos. <br/>
 <sup>15</sup> Disponível para clientes que executam Exchange Server 2013 ou posterior. <br/>
 <sup>16</sup> BitLocker Drive Encryption é suportado para Exchange Server 2013, mas um administrador precisa habilitar o recurso. <br/>
-<sup>17</sup> Exchange Online Plano 1 tem um limite [de tamanho na caixa de correio e no arquivo morto.](./exchange-online-limits.md) Arquivamento do Exchange Online para Exchange Online complemento adiciona arquivo morto ilimitado baseado em nuvem e Espera [In-locar.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
+<sup>17</sup> Exchange Online Plano 1 tem um limite [de tamanho na caixa de correio e no arquivo morto.](./exchange-online-limits.md) Arquivamento do Exchange Online para Exchange Online complemento adiciona até 1,5 TB de arquivo morto baseado em nuvem e espera [in-locar.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18</sup> Exchange Online Kiosk calendários só podem ser acessados ou compartilhados por meio do OWA. <br/>
 <sup>19</sup> Contas conectadas têm suporte para contas IMAP POP, mas desabilitadas &amp; para Outlook.com (Hotmail). <br/>
 <sup>20</sup> Não há suporte para usar cmdlets no Exchange Online PowerShell para personalizar listas de endereços padrão e a GAL (lista de endereços global) padrão. <br/>
