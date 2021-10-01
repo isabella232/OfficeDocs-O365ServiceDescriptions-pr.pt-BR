@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: O Microsoft Defender for Office 365 é um serviço de filtragem de email baseado em nuvem que ajuda a proteger sua organização contra malwares e vírus desconhecidos, fornecendo proteção robusta de dia zero e inclui recursos para proteger sua organização contra links prejudiciais em tempo real.
-ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1d06d2780efa1e0303ae3b6f155ec5ad0ecf56dd
+ms.sourcegitcommit: 2ef11e882b734751bceffbbcad920b765c47fc92
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670336"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60040947"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descrição do serviço do Microsoft Defender para Office 365
 
@@ -76,6 +76,23 @@ Para obter mais informações sobre o Microsoft Defender para Office 365, confir
 ### <a name="licensing-terms"></a>Termos de licenciamento
 
 Para os termos e condições de licenciamento de produtos e serviços adquiridos por meio dos Programas de Licenciamento por Volume Comercial da Microsoft, consulte o [Site de Termos do Produto](https://www.microsoft.com/licensing/terms/).
+
+Para os locatários do Microsoft Defender Office 365 Plano 1, as licenças devem ser adquiridas para usuários ou caixas de correio que estão abaixo de um ou mais dos seguintes cenários:
+
+- Qualquer usuário que acessa uma caixa de correio que se beneficia do Defender para Office 365 proteção.
+- Caixas de correio compartilhadas que se beneficiam do Defender para Office 365 proteção.
+- Se Cofre Proteção de anexos para SharePoint, OneDrive for Business ou Teams estiver Teams, todos os usuários que acessam SharePoint, OneDrive for Business ou Teams.
+- Qualquer usuário que usa Microsoft 365 Apps ou Teams quando Cofre de links está habilitado.
+
+Para os locatários do Microsoft Defender Office 365 Plano 2, as licenças devem ser adquiridas para usuários ou caixas de correio que estão abaixo de um ou mais dos seguintes cenários:
+
+- Todos Exchange Online usuários no locatário. Isso porque os recursos e recursos do Plano 2 protegem todos os usuários no locatário.
+- Todas as caixas de correio compartilhadas no locatário.
+- Se Cofre Proteção de anexos para SharePoint, OneDrive for Business ou Teams estiver Teams, todos os usuários que acessam SharePoint, OneDrive for Business ou Teams.
+- Qualquer usuário que usa Microsoft 365 Apps ou Teams quando Cofre de links está habilitado.
+
+> [!NOTE]
+> Office 365 E5, Microsoft 365 E5 Security e Microsoft 365 E5 incluem o Microsoft Defender para licenças Office P2 e Microsoft 365 Business Premium inclui o Microsoft Defender para licenças Office 365 P1.
 
 ### <a name="messaging"></a>Mensagens
 
