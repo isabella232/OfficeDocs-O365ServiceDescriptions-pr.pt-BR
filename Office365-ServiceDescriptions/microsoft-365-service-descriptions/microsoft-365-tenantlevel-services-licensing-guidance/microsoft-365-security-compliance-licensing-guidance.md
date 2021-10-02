@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações para a conformidade Microsoft 365 ajudar a evitar possíveis interrupções no serviço devido ao acesso não autorizado.
-ms.openlocfilehash: 59e7714ec09b56a0e9bfb22d87d9419d991f8ee6
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
+ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59986157"
+ms.lasthandoff: 10/02/2021
+ms.locfileid: "60082851"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 diretrizes para conformidade com &amp; a segurança
 
@@ -558,21 +558,15 @@ Por padrão, os recursos do Microsoft Defender para Ponto de Extremidade são ha
 
 Os administradores do Microsoft Defender for Endpoint podem usar o controle de acesso baseado em função (RBAC) para criar funções e grupos dentro da equipe de operações de segurança para conceder acesso apropriado ao Central de Segurança do Microsoft Defender. Para obter mais informações, consulte [Manage portal access using role-based access control](/windows/security/threat-protection/microsoft-defender-atp/rbac).
 
-## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>APIs Graph Microsoft para Teams prevenção contra perda de dados (DLP)
+## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp-and-for-teams-export"></a>ApIs Graph Microsoft para Teams DLP (Prevenção contra Perda de Dados) e para Teams Exportar
 
-Essa API permite que os desenvolvedores criem aplicativos que podem ouvir Microsoft Teams mensagens em tempo quase real e habilitar implementações de cenário de DLP para clientes e ISVs. Além disso, a API Graph Patch da Microsoft permite aplicar ações DLP a Teams mensagens.
+Essas APIs permitem que os desenvolvedores criem aplicativos de Segurança e Conformidade que podem "ouvir" mensagens Microsoft Teams mensagens em tempo quase real ou exportar mensagens de equipe em chat 1:1/grupo ou canais Teams. Essas APIs habilitam a DLP e outros cenários de Proteção de Informações e Governança para clientes e ISVs. Além disso, a API Graph Patch da Microsoft permite aplicar ações DLP a Teams mensagens.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Como os usuários se beneficiam do serviço?
 
 Os recursos de prevenção contra perda de dados [(DLP)](/microsoft-365/compliance/dlp-microsoft-teams) são amplamente usados no Microsoft Teams, especialmente quando as organizações mudaram para o trabalho remoto. Se sua organização tiver DLP, agora você pode definir políticas que impedem que as pessoas compartilhem informações confidenciais em um Microsoft Teams canal ou sessão de chat.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
-
-- Microsoft 365 E5/A5/G5
-- Microsoft 365 E5/A5/G5/F5 Compliance
-- Microsoft 365 Conformidade & segurança F5
-- Microsoft 365 E5/A5/G5 Proteção e Governança de Informações
-- Office 365 E5/A5/G5
+Os recursos de proteção e governança de informações são amplamente usados Microsoft Teams, especialmente quando as organizações mudaram para o trabalho remoto. Com [Teams API](/microsoftteams/export-teams-content)de Exportação, os dados podem ser exportados para um aplicativo de Arquivamento de Conformidade ou Descoberta De Terceiros para garantir que as práticas de conformidade sejam atendidas.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
@@ -580,7 +574,9 @@ O acesso à API é configurado no nível do locatário.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Como o serviço pode ser aplicado somente aos usuários no locatário licenciados para o serviço?
 
-A API Graph microsoft para Teams DLP é um valor de nível de locatário. Todos os usuários destinados a se beneficiar desse serviço devem ser licenciados.
+As APIs Graph Microsoft para Teams DLP e Teams Export fornecem um valor no nível de locatário. Todos os usuários destinados a se beneficiar desse serviço devem ser licenciados. Como um valor adicionado, estamos adicionando capacidade de semente por usuário licenciado, calculado por mês e agregado no nível do locatário. Para uso além da capacidade de semente, os proprietários de aplicativos serão cobrados pelo consumo de API.
+
+Para obter mais informações sobre a capacidade de semente e as taxas de consumo, [consulte Graph requisito para acessar mensagens de chat.](/graph/teams-licenses)
 
 ## <a name="office-365-advanced-message-encryption"></a>Criptografia de Mensagem Avançada do Office 365
 
