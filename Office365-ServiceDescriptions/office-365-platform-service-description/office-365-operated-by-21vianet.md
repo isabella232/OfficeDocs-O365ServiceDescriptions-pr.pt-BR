@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado pela 21Vianet foi projetado para atender às necessidades de serviços de nuvem seguros, confiáveis e escalonáveis na China. Este serviço utiliza a tecnologia que a Microsoft licenciou para a 21Vianet.
-ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: a3c61c6d2938fe5e4f0554e82db10d719d9ee792
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671353"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088514"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado pela 21Vianet
 
@@ -70,17 +70,17 @@ Microsoft 365 O Centro de Conformidade fornece acesso fácil às ferramentas nec
 | Arquivamento | Sim | n/d | Sim | Sim | Sim | Não |
 | Políticas de alerta | Não | n/d | Não | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
 |Auditoria Básica<sup>2</sup> | Sim | n/d | Sim | Sim | Sim | Sim |
-|Pesquisa de Conteúdo | Não | n/d | Não | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|Pesquisa de Conteúdo | Não | n/d | Não | Sim | Sim | Sim |
 |Prevenção contra perda de dados Exchange Online, SharePoint Online e OneDrive for Business | Não | n/d | Sim | Não | Sim | Não |
-|Casos de Descoberta eDiscovery | Não | n/d | Não | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
-|Exportação de Descobertas EDiscovery | Não | n/d | Não | Não | No<sup>1</sup> | Não |
+|Casos de Descoberta eDiscovery | Não | n/d | Não | Sim | Sim | Sim |
+|Exportação de Descobertas EDiscovery | Não | n/d | Não | Não | Sim | Não |
 |Retém descobertas de eDiscovery (incluindo retém de Descoberta eDiscovery baseada em consulta) | Não | n/d | Não | Não | No<sup>1</sup> | Não |
-|Governança de informações<sup>1</sup> | Sim | n/d | Sim | Sim | Sim | Sim |
+|Governança de informações | Sim | n/d | Sim | Sim | Sim | Sim |
 |Rótulos manuais de sensibilidade | Não | n/d | Não | Sim | Sim | Não |
 |Criptografia de Mensagens do Office 365 básico (OME) | Não | n/d | Não | Não | Sim | Não |
 
 <sup>1</sup> Disponibilidade futura.</br>
-<sup>2</sup> Auditoria com dados de Azure Active Directory e Exchange.
+<sup>2</sup> Auditoria com dados de Azure Active Directory, Exchange, DLP e SharePoint.
 
 > [!NOTE]
 >
@@ -323,7 +323,7 @@ A tabela a seguir fornece links para comparações de recursos Office para a Web
 > - O Microsoft Office 365 ProPlus é uma oferta de assinatura mensal do pacote de área de trabalho do Office mais recente.
 > - Microsoft Office Os clientes locais do Web Apps Server 2013 obterão uma licença de edição do Office para a Web caso tenham comprado uma licença de pacote de área de trabalho do Office (como Office Professional Plus, Office Standard ou uma licença Office 365 ProPlus).
 
-| Application | Office para a Web operado pela 21Vianet | Link para a comparação detalhada de recursos |
+| Aplicativo | Office para a Web operado pela 21Vianet | Link para a comparação detalhada de recursos |
 |:-----|:-----|:-----|
 |Word|Word para a Web operado pela 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para a Web operado pela 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|

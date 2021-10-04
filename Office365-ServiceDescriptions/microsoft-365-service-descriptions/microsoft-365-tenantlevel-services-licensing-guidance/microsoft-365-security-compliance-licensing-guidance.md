@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Este artigo fornece orientações para a conformidade Microsoft 365 ajudar a evitar possíveis interrupções no serviço devido ao acesso não autorizado.
-ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
-ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
+ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "60082851"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088494"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 diretrizes para conformidade com &amp; a segurança
 
@@ -568,6 +568,13 @@ Os recursos de prevenção contra perda de dados [(DLP)](/microsoft-365/complian
 
 Os recursos de proteção e governança de informações são amplamente usados Microsoft Teams, especialmente quando as organizações mudaram para o trabalho remoto. Com [Teams API](/microsoftteams/export-teams-content)de Exportação, os dados podem ser exportados para um aplicativo de Arquivamento de Conformidade ou Descoberta De Terceiros para garantir que as práticas de conformidade sejam atendidas.
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quais licenças fornecem os direitos para um usuário se beneficiar do serviço?
+
+- Microsoft 365 E5/A5
+- Conformidade Microsoft 365 E5/A5
+- Segurança do Microsoft 365 E5/A5
+- Proteção e Governança de informações do Microsoft 365 E5/A5
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>Como o serviço é provisionado/implantado?
 
 O acesso à API é configurado no nível do locatário.
@@ -576,7 +583,7 @@ O acesso à API é configurado no nível do locatário.
 
 As APIs Graph Microsoft para Teams DLP e Teams Export fornecem um valor no nível de locatário. Todos os usuários destinados a se beneficiar desse serviço devem ser licenciados. Como um valor adicionado, estamos adicionando capacidade de semente por usuário licenciado, calculado por mês e agregado no nível do locatário. Para uso além da capacidade de semente, os proprietários de aplicativos serão cobrados pelo consumo de API.
 
-Para obter mais informações sobre a capacidade de semente e as taxas de consumo, [consulte Graph requisito para acessar mensagens de chat.](/graph/teams-licenses)
+Para obter mais informações sobre a capacidade de semente e as taxas de consumo, [consulte Graph requisitos para acessar mensagens de chat.](/graph/teams-licenses)
 
 ## <a name="office-365-advanced-message-encryption"></a>Criptografia de Mensagem Avançada do Office 365
 
