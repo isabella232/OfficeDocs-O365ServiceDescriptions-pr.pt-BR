@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Com cada Microsoft Office 365 para assinatura corporativa, empresarial, educacional e governamental, o Suporte da Microsoft fornece suporte técnico global, pré-vendas, cobrança e assinatura. O suporte está disponível online por meio do Centro de administração do Microsoft 365 e por telefone para assinaturas pagas e de avaliação. Para obter mais informações, consulte Opções de Suporte da Microsoft.
-ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 69057c5b8a8fedb4b6cde712e1d4da8e3f6ab4a9
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670026"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149383"
 ---
 # <a name="support"></a>Suporte
 
@@ -102,6 +102,10 @@ O suporte para planos autônomos pagos é tratado com o mesmo nível de objetivo
 ### <a name="technical-support-languages"></a>Idiomas de suporte técnico
 
 Dependendo do local e do idioma, os engenheiros de suporte estão disponíveis durante o horário comercial na maioria das regiões e, muitas vezes, 24 horas por dia. Para obter mais informações, consulte [International Telefone Numbers](/Office365/Admin/contact-support-for-business-products) and Microsoft Support [Options](https://products.office.com/business/office-365-for-business-support-options). Se precisar de assistência adicional para tradução, peça aos engenheiros de suporte para continuarem na linha e providenciarem a participação de um tradutor na ligação.
+
+## <a name="business-assist-for-microsoft-365"></a>Business Assist para Microsoft 365
+
+O Business Assist para Microsoft 365 foi projetado para pequenas empresas para dar a você e aos seus funcionários acesso 24 horas por dia a especialistas de pequenas empresas à medida que você expande seus negócios, desde a integração até o uso diário. Saiba mais em [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).
   
 ## <a name="shared-support-responsibilities"></a>Responsabilidades compartilhadas de suporte
 
